@@ -51,26 +51,80 @@ if (args.lemmatize):
     print("Lemmatizing")
     df['Snippet'] = df['Snippet'].apply(lambda x: lemmatize_words(x))
 
-for i in range(len(df)):
-    for j in range(len(df.iloc[i]["Snippet"])):
+inverted_index = dict()
+count_dict = dict()
+count = 0
+
+counter = 1
+for document in os.listdir('archive/TelevisionNews/'):
+    documentId[document] = counter
+    counter += 1
+    
+for file in os.listdir('archive/TelevisionNews/'): #Change this to the directory with all csv files
+    if file.endswith(".csv"):
         try:
-            if(postings_list[df.iloc[i]["Snippet"][j]][-1][0] == i):
-                postings_list[df.iloc[i]["Snippet"][j]][-1][1].append(j)
-            else:
-                postings_list[df.iloc[i]["Snippet"][j]].append([i,[j]])
+            df = pd.read_csv(os.path.join('archive/TelevisionNews/', file), index_col=None, header=0)
+            
+            df['Snippet'] = df["Snippet"].apply(lambda x: x.lower())
+            df['Snippet'] = df['Snippet'].apply(lambda x: tokenizer.tokenize(x))
+            df['Snippet'] = df['Snippet'].apply(lambda x: remove_stop_words(x, stop_words))
+            df['Snippet'] = df['Snippet'].apply(lambda x: lemmatize_words(x))
+            
+            for doc in range(len(df)):
+                for row in range(len(df.iloc[doc]["Snippet"])):
+                    try:
+                        if(inverted_index[df.iloc[doc]["Snippet"][row]][-1] == documentId[file]):
+                            continue
+                        inverted_index[df.iloc[doc]["Snippet"][row]].append(documentId[file])
 
-            count_dict[df.iloc[i]["Snippet"][j]] += 1
+                        count_dict[df.iloc[doc]["Snippet"][row]] += 1
+                    except:
+                        inverted_index[df.iloc[doc]["Snippet"][row]] = [documentId[file]]
+                        count_dict[df.iloc[doc]["Snippet"][row]] = 1
         except:
-            postings_list[df.iloc[i]["Snippet"][j]] = [[i,[j]]]
-            count_dict[df.iloc[i]["Snippet"][j]] = 1
+            print("Skipped file: ", file) #Some error in the file, maybe it is empty
+    else:
+        print("Invalid file: ", file)
+        
+postings_lists_list = [0]*(len(list(documentId.keys()))+1)
+count_dict = dict()
 
+for file in os.listdir('archive/TelevisionNews/'): #Change this to the directory with all csv files
+    if (file == 'CNN.200910.csv'):
+        continue
+    if file.endswith(".csv"):
+        df = pd.read_csv(os.path.join('archive/TelevisionNews/', file), index_col=None, header=0)
+            
+        df['Snippet'] = df["Snippet"].apply(lambda x: x.lower())
+        df['Snippet'] = df['Snippet'].apply(lambda x: tokenizer.tokenize(x))
+        df['Snippet'] = df['Snippet'].apply(lambda x: remove_stop_words(x, stop_words))
+        df['Snippet'] = df['Snippet'].apply(lambda x: lemmatize_words(x))
+
+        postings_list = dict()
+        for doc in range(len(df)):
+            for row in range(len(df.iloc[doc]["Snippet"])):
+                try:
+                    if(postings_list[df.iloc[doc]["Snippet"][row]][-1][-1][0] == doc):
+                        postings_list[df.iloc[doc]["Snippet"][row]][-1][-1][-1].append(row)
+                    else:
+                        postings_list[df.iloc[doc]["Snippet"][row]][-1].append([doc, [row]])
+
+                    postings_list[df.iloc[doc]["Snippet"][row]][0] += 1
+
+                except:
+                    postings_list[df.iloc[doc]["Snippet"][row]] = [1, [[doc, [row]]]]
+                    
+            postings_lists_list[documentId[file]] = postings_list
+    else:
+        print("Invalid file: ", file)
+        
 for key in postings_list.keys():
     inverted_index[key] = [count_dict[key], postings_list[key]]
 
-with open(os.path.join(args.dst, 'postings_list.pkl'), 'wb') as f:
-    print("Saving posting list")
-    pickle.dump(postings_list, f)
-    del postings_list
+with open(os.path.join(args.dst, 'postings_lists_list.pkl'), 'wb') as f:
+    print("Saving list of posting lists")
+    pickle.dump(postings_lists_list, f)
+    del postings_lists_list
 
 with open(os.path.join(args.dst, 'inverted_index.pkl'), 'wb') as f:
     print("Saving inverted index")
