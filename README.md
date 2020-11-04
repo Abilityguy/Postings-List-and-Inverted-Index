@@ -1,14 +1,18 @@
 # Postings-List-and-Inverted-Index
 
 ## Postings list sample format
-![alt text](Images/postings_list.png)
+This is a sample of a postings list. The postings list can be accessed for each document from the postings_lists_list.pkl file.
+![alt text](Images/postings_list_new.png)
 
 Each element is of the format [docID, word position ]. The word position is the position of the word after preprocessing. 
 
 ## Inverted Index sample format
-![alt text](Images/inverted_index.png)
+![alt text](Images/inverted_index_new.png)
 
-Each element is of the format [frequency of word, [postings_list] ]. The postings list is integrated into the inverted index.
+## Document ID sample format
+![alt text](Images/documentId.png)
+
+The document ID of the csv files to map back.
 
 ## Details about files
 
@@ -23,6 +27,12 @@ The saved dictionary of the postings list.
 
 ### inverted_index.pkl
 The saved dictionary of the inverted index.
+
+### postings_lists_list.pkl
+The saved list of dictionaries (Use this file).
+
+### inverted_index_new.pkl
+The index of word with document ID (Use this file).
 
 ### The combined csv file
 I have combined all the 480 csv files into a single one and have uploaded it [here](https://drive.google.com/file/d/1f6SX0i5eNJ8LA_WG4gVm3VR30FzG7Vqs/view?usp=sharing). The indexes of these files has been used as the docID for the postings list and inverted index.
