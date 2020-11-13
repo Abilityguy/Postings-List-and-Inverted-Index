@@ -1,0 +1,127 @@
+'''
+Run $python3 ranking_and_retrieval.py
+'''
+
+import pickle
+import math
+from nltk.tokenize import RegexpTokenizer
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import PorterStemmer
+import pandas as pd
+
+tokenizer = RegexpTokenizer(r'\w+') #It retains only words and eliminates punctuations in words
+stop_words = set(stopwords.words('english'))
+lemmatizer = WordNetLemmatizer()
+
+def remove_stop_words(x, stop_words):
+    return [word for word in x if word not in stop_words]
+
+def lemmatize_words(x):
+    return [lemmatizer.lemmatize(word) for word in x]
+
+with open('postings_list.pkl', 'rb') as f:
+    postings_list = pickle.load(f)
+
+with open('inverted_index.pkl', 'rb') as f:
+    inverted_index = pickle.load(f)
+
+with open('documentId.pkl', 'rb') as f:
+    document_ids = pickle.load(f)
+
+try:
+	with open('document_words_count.pkl', 'rb') as f:
+		document_words_count = pickle.load(f)
+except:
+	document_words_count = {}
+	for i in postings_list:
+		for j in postings_list[i]:
+			if j[0] not in document_words_count:
+				document_words_count[j[0]] = j[1]
+			else:
+				document_words_count[j[0]] += j[1]
+	pickle.dump(document_words_count, open("document_words_count.pkl","wb"))
+
+try:
+	with open('tf_dic.pkl', 'rb') as f:
+		tf_dic = pickle.load(f)
+except:
+	tf_dic = {}
+	for i in postings_list:
+		for j in postings_list[i]:
+			tf_dic[(i,j[0])] = (j[1]/document_words_count[j[0]])
+	pickle.dump(tf_dic, open("tf_dic.pkl","wb"))
+
+try:
+	with open('idf_dic.pkl', 'rb') as f:
+		idf_dic = pickle.load(f)
+except:
+	num_docs = len(document_words_count)
+	idf_dic = {}
+	for i in inverted_index:
+		idf_dic[i] = 1 + math.log(num_docs/len(inverted_index[i]))
+	pickle.dump(idf_dic, open("idf_dic.pkl","wb")) 
+
+try:
+	with open('tf_idf_dic.pkl', 'rb') as f:
+		tf_idf_dic = pickle.load(f)
+except:
+	tf_idf_dic = {}
+	for i in tf_dic:
+		tf_idf_dic[i] = tf_dic[i]*idf_dic[i[0]]
+	pickle.dump(tf_idf_dic, open("tf_idf_dic.pkl","wb"))
+
+query = input("Enter search query :")
+query = query.lower()
+query = tokenizer.tokenize(query)
+query = remove_stop_words(query, stop_words)
+query = lemmatize_words(query)
+
+count_dic = {}
+for i in query:
+	if i not in count_dic:
+		count_dic[i] = 1
+	else:
+		count_dic[i] += 1
+
+num_query_words = len(query)
+tfidf_query_dic = {}
+for i in count_dic:
+	tfidf_query_dic[i] = (count_dic[i]/num_query_words)*(idf_dic[i])
+
+sum_of_squares1 = 0
+for i in tfidf_query_dic:
+	sum_of_squares1 += pow(tfidf_query_dic[i],2)
+modulus1 = pow(sum_of_squares1,0.5)
+
+matching_docs = []
+dot_product = 0
+nums = []
+for i in document_words_count.keys():
+	dot_product = 0
+	nums = []
+	for j in query:
+		if (j,i) in tf_idf_dic:
+			dot_product += tfidf_query_dic[j]*tf_idf_dic[(j,i)]
+			nums.append(tf_idf_dic[(j,i)])
+	sum_of_squares2 = 0
+	for j in nums:
+		sum_of_squares2 += pow(j,2)
+	modulus2 = pow(sum_of_squares2, 0.5)
+	if dot_product!=0:
+		if dot_product/(modulus1*modulus2)>0.5:
+			matching_docs.append(i)
+
+search_results = []
+for i in matching_docs:
+	csv_id = i//10000
+	row_id = i%10000
+	df = pd.read_csv("data/"+document_ids[csv_id])
+	row = df.iloc[row_id]
+	search_results.append([document_ids[csv_id],row['URL'],row['Snippet']])
+print(search_results)
+pickle.dump(search_results, open("search_results.pkl","wb"))
+
+
+
+
