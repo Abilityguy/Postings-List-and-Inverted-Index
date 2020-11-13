@@ -4,7 +4,7 @@
 This is a sample of a postings list. The postings list can be accessed for each document from the postings_lists_list.pkl file.
 ![alt text](Images/postings_list_new.png)
 
-Each element is of the format [docID, word position ]. The word position is the position of the word after preprocessing. 
+Each element is of the format [count of word, [rowID1, word position, ...], [rowID2, .. ]]. The word position is the position of the word after preprocessing. 
 
 ## Inverted Index sample format
 ![alt text](Images/inverted_index_new.png)
