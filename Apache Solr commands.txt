@@ -1,0 +1,15 @@
+C:\solr-8.6.3\bin>solr start 
+
+Check http://localhost:8983/solr/
+
+C:\solr-8.6.3\bin>solr delete -c AIR_Project 
+C:\solr-8.6.3\bin>solr create -c AIR_Project
+
+
+move post.jar to the archive_xml folder
+
+D:\AIR\Project\archive_xml> java -Dc=AIR_Project -jar post.jar *.xml
+
+GET request : http://localhost:8983/solr/AIR_Project/select?q=snippet:"cathedral" AND snippet:"climate"&wt=json
+
+C:\solr-8.6.3\bin> solr stop -p 8983
