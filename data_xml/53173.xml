@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201111.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20111104_230000_Hardball_With_Chris_Matthews#start/2360/end/2395</field>
+<field name="datetime">11/4/2011 23:39:35</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball With Chris Matthews</field>
+<field name="showid">MSNBCW_20111104_230000_Hardball_With_Chris_Matthews</field>
+<field name="preview">https://archive.org/download/MSNBCW_20111104_230000_Hardball_With_Chris_Matthews/MSNBCW_20111104_230000_Hardball_With_Chris_Matthews.thumbs/MSNBCW_20111104_230000_Hardball_With_Chris_Matthews_002337.jpg</field>
+<field name="snippet">flip-flopping. i mean, mark, here's a guy who says, i simply rephrased my position while he was for a man-made climate change before a week ago, now he doesn't believe there is such a thing. he was against -- he was for limiting co2 emissions. now he says we should definitely not do that.</field>
+</doc>
+</add>

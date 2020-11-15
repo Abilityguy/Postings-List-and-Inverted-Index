@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181026_184500_Newswatch#start/136/end/171</field>
+<field name="datetime">10/26/2018 18:47:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newswatch</field>
+<field name="showid">BBCNEWS_20181026_184500_Newswatch</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181026_184500_Newswatch/BBCNEWS_20181026_184500_Newswatch.thumbs/BBCNEWS_20181026_184500_Newswatch_000118.jpg</field>
+<field name="snippet">david sillitoe, bbc news. people living in england's coastal communities are being warned to wake up to the challenges of climate change. the government's climate advisers say more than one-point-two million homes could be threatened by coastal flooding and erosion by the 2080s.</field>
+</doc>
+</add>

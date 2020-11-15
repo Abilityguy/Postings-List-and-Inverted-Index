@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190122_050000_The_Briefing#start/1032/end/1067</field>
+<field name="datetime">1/22/2019 5:17:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20190122_050000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190122_050000_The_Briefing/BBCNEWS_20190122_050000_The_Briefing.thumbs/BBCNEWS_20190122_050000_The_Briefing_001019.jpg</field>
+<field name="snippet">our headlines: the international committee of the red cross has issued a new warning that climate change combined with growing violence in the sahel is creating an explosive combination. theresa may says she will hold 'flexible and inclusive' talks with mps across parliament</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180806_230000_Newsday#start/34/end/69</field>
+<field name="datetime">8/6/2018 23:00:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20180806_230000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180806_230000_Newsday/BBCNEWS_20180806_230000_Newsday.thumbs/BBCNEWS_20180806_230000_Newsday_000057.jpg</field>
+<field name="snippet">many parts of the globe, scientists say the world is at risk from extremely dangerous levels of climate change. and australia's drought caught on camera. we'll talk to the woman who's captured the dramatic impact of the severe weather. good morning.</field>
+</doc>
+</add>

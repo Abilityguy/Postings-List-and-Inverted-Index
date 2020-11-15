@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201511.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151130_230000_Special_Report_With_Bret_Baier#start/2130/end/2165</field>
+<field name="datetime">11/30/2015 23:35:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20151130_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151130_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20151130_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20151130_230000_Special_Report_With_Bret_Baier_002115.jpg</field>
+<field name="snippet">in washington, bret baier, fox news. president obama says the climate change conference in paris san act is an act of defi terrorists. we'll talk about that with the panel when we come back. buttons equal danger.</field>
+</doc>
+</add>

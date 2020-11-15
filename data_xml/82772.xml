@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191007_160000_BBC_News_at_Five#start/1046/end/1081</field>
+<field name="datetime">10/7/2019 16:17:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20191007_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191007_160000_BBC_News_at_Five/BBCNEWS_20191007_160000_BBC_News_at_Five.thumbs/BBCNEWS_20191007_160000_BBC_News_at_Five_001048.jpg</field>
+<field name="snippet">and 217 arrests, as extinction rebellion block bridges and roads in westminster, in a protest over climate change.</field>
+</doc>
+</add>

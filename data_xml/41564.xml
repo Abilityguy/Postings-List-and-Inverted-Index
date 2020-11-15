@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090806_150000_Happening_Now#start/4051/end/4086</field>
+<field name="datetime">8/6/2009 16:07:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20090806_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090806_150000_Happening_Now/FOXNEWS_20090806_150000_Happening_Now.thumbs/FOXNEWS_20090806_150000_Happening_Now_004045.jpg</field>
+<field name="snippet">lentiatlantic. jon: the debate on climate change is getting hot line one senate committee hearing room today. the senate'environment and public works committee is</field>
+</doc>
+</add>

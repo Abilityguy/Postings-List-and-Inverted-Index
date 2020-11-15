@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181209_213000_Our_World#start/15/end/50</field>
+<field name="datetime">12/9/2018 21:30:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Our World</field>
+<field name="showid">BBCNEWS_20181209_213000_Our_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181209_213000_Our_World/BBCNEWS_20181209_213000_Our_World.thumbs/BBCNEWS_20181209_213000_Our_World_000057.jpg</field>
+<field name="snippet">france has seen four consecutive weekends of demonstrations against fuel tax rises, high living costs, and other issues. there's dismay at the un climate talks after the us, russia, saudi arabia and kuwait, objected to a major scientific report on global warming. the report recommends halving carbon emissions over the next 12 years. police in london are studying video footage thought to show racial abuse aimed at the england</field>
+</doc>
+</add>

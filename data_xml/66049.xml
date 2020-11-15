@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190222_080000_Fox_News__Night_With_Shannon_Bream#start/2624/end/2659</field>
+<field name="datetime">2/22/2019 8:43:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News  Night With Shannon Bream</field>
+<field name="showid">FOXNEWSW_20190222_080000_Fox_News__Night_With_Shannon_Bream</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190222_080000_Fox_News__Night_With_Shannon_Bream/FOXNEWSW_20190222_080000_Fox_News__Night_With_Shannon_Bream.thumbs/FOXNEWSW_20190222_080000_Fox_News__Night_With_Shannon_Bream_002609.jpg</field>
+<field name="snippet">shannon: thank you very much. since day one the president said the security of the american people is his number one priority. the debate rages on about humanity's impact on climate change, he is focused on potential threats to the homeland. an interesting story tonight.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190305_010000_Newsday#start/1385/end/1420</field>
+<field name="datetime">3/5/2019 1:23:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190305_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190305_010000_Newsday/BBCNEWS_20190305_010000_Newsday.thumbs/BBCNEWS_20190305_010000_Newsday_001378.jpg</field>
+<field name="snippet">the effects of climate change. he could be the last of his generation to live on this island of ghoramara in india. he knows it is sinking. translation: there are more floods</field>
+</doc>
+</add>

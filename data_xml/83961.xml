@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190425_170000_BBC_News_at_Six#start/1104/end/1139</field>
+<field name="datetime">4/25/2019 17:18:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20190425_170000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190425_170000_BBC_News_at_Six/BBCNEWS_20190425_170000_BBC_News_at_Six.thumbs/BBCNEWS_20190425_170000_BBC_News_at_Six_001077.jpg</field>
+<field name="snippet">at marble arch in central london. david, these protests have upset some people. where has it left the argument about how to deal with climate change? george, whether you admire the passion of the people</field>
+</doc>
+</add>

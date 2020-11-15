@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190305_200000_BBC_News#start/2563/end/2598</field>
+<field name="datetime">3/5/2019 20:42:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190305_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190305_200000_BBC_News/BBCNEWS_20190305_200000_BBC_News.thumbs/BBCNEWS_20190305_200000_BBC_News_002548.jpg</field>
+<field name="snippet">deprivations, spending and educations, a correlation between global warming and crime. so you can point to any figures, but the reality if you look at the evidence, once you get above a certain number of police officers, more policing does not necessarily mean less crime, itjust costs more money.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200102_040000_BBC_News#start/248/end/283</field>
+<field name="datetime">1/2/2020 4:04:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200102_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200102_040000_BBC_News/BBCNEWS_20200102_040000_BBC_News.thumbs/BBCNEWS_20200102_040000_BBC_News_000238.jpg</field>
+<field name="snippet">he has broadly acknowledged there is a link between global warming and the bushfire crisis. he said that you couldn't specifically say that a fire in new south wales or another one in western australia for example is directly caused by climate change. i don't think too many</field>
+</doc>
+</add>

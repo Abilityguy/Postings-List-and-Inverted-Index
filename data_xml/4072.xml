@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201710.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171028_024500_Newswatch#start/276/end/311</field>
+<field name="datetime">10/28/2017 2:49:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newswatch</field>
+<field name="showid">BBCNEWS_20171028_024500_Newswatch</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171028_024500_Newswatch/BBCNEWS_20171028_024500_Newswatch.thumbs/BBCNEWS_20171028_024500_Newswatch_000267.jpg</field>
+<field name="snippet">we sent our science editor, david shukman, so we could speak about ocean pollution and acidity, the bleaching of the coral reef, climate change, there was a big report about the increasing acidity of the oceans that day and it gave us an opportunity to get onto that subject on some major output.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190612_210000_BBC_News_at_Ten#start/686/end/721</field>
+<field name="datetime">6/12/2019 21:11:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20190612_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190612_210000_BBC_News_at_Ten/BBCNEWS_20190612_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20190612_210000_BBC_News_at_Ten_000687.jpg</field>
+<field name="snippet">and katya, thank you both. the prime minister has announced that the uk will commit to cutting its carbon emissions to almost zero by 2050, as part of a new government plan to tackle climate change. it would mean, among other things, millions of people switching</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190316_100000_Fox_and_Friends_Saturday#start/5320/end/5355</field>
+<field name="datetime">3/16/2019 11:28:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20190316_100000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190316_100000_Fox_and_Friends_Saturday/FOXNEWSW_20190316_100000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20190316_100000_Fox_and_Friends_Saturday_005308.jpg</field>
+<field name="snippet">hitting the suspect and he is now in critical condition. students worldwide skip school rallying against global warming.  cheers.</field>
+</doc>
+</add>

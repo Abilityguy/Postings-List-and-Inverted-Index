@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190403_180000_The_Daily_Briefing_With_Dana_Perino#start/1166/end/1201</field>
+<field name="datetime">4/3/2019 18:19:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Daily Briefing With Dana Perino</field>
+<field name="showid">FOXNEWSW_20190403_180000_The_Daily_Briefing_With_Dana_Perino</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190403_180000_The_Daily_Briefing_With_Dana_Perino/FOXNEWSW_20190403_180000_The_Daily_Briefing_With_Dana_Perino.thumbs/FOXNEWSW_20190403_180000_The_Daily_Briefing_With_Dana_Perino_001138.jpg</field>
+<field name="snippet">dana: good line. ty, i wonder if you think the republican, are we missing anything on this green new deal? what they're missing is climate change is real. the republican party, even going</field>
+</doc>
+</add>

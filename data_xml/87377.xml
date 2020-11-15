@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191224_103000_Weather_World#start/920/end/955</field>
+<field name="datetime">12/24/2019 10:45:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20191224_103000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191224_103000_Weather_World/BBCNEWS_20191224_103000_Weather_World.thumbs/BBCNEWS_20191224_103000_Weather_World_000899.jpg</field>
+<field name="snippet">rainfall sent some rivers to their highest levels ever recorded. during 2019, public protest and direct action about climate change reached new levels. spain in december, and thousands demonstrate as madrid hosts the united nations</field>
+</doc>
+</add>

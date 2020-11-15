@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100121_080000_Red_Eye#start/306/end/341</field>
+<field name="datetime">1/21/2010 8:05:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20100121_080000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100121_080000_Red_Eye/FOXNEWS_20100121_080000_Red_Eye.thumbs/FOXNEWS_20100121_080000_Red_Eye_000300.jpg</field>
+<field name="snippet">idea. why? is it too awesome? you cannot say fox news caused the earthquake in haiti in order to get scott brownie elected. but it's true. by ignoring global warming they angered the planet which lead to the earthquake which</field>
+</doc>
+</add>

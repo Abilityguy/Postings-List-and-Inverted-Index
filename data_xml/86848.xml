@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191223_033000_Dateline_London#start/18/end/53</field>
+<field name="datetime">12/23/2019 3:30:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Dateline London</field>
+<field name="showid">BBCNEWS_20191223_033000_Dateline_London</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191223_033000_Dateline_London/BBCNEWS_20191223_033000_Dateline_London.thumbs/BBCNEWS_20191223_033000_Dateline_London_000028.jpg</field>
+<field name="snippet">more than 100 bushfires are still burning in new south wales in australia. as firefighters struggle to control blazes, prime minister scott morrison has acknowledged a link between global warming and extreme weather. he's apologised for being</field>
+</doc>
+</add>

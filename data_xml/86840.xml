@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191208_020000_BBC_News#start/1042/end/1077</field>
+<field name="datetime">12/8/2019 2:17:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191208_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191208_020000_BBC_News/BBCNEWS_20191208_020000_BBC_News.thumbs/BBCNEWS_20191208_020000_BBC_News_001017.jpg</field>
+<field name="snippet">in a toxic, smoky haze, blown in from nearby bushfires. bushfires are common in australia, but scientists believe this year they have started earlier and have been more intense due to global warming. a brutal summer lies ahead.</field>
+</doc>
+</add>

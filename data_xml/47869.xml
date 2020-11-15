@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201511.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151130_230000_MSNBC_Live#start/1355/end/1390</field>
+<field name="datetime">11/30/2015 23:22:50</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20151130_230000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151130_230000_MSNBC_Live/MSNBCW_20151130_230000_MSNBC_Live.thumbs/MSNBCW_20151130_230000_MSNBC_Live_001335.jpg</field>
+<field name="snippet">that's one of the reasons we were so pleased to see president obama achieve an historic climate change agreement with china. he's continued that with the clean power plant, the single largest thing this country has done to cut carbon pollution.</field>
+</doc>
+</add>

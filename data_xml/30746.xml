@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140217_070000_FOX_News_Sunday_With_Chris_Wallace#start/2721/end/2756</field>
+<field name="datetime">2/17/2014 7:45:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Sunday With Chris Wallace</field>
+<field name="showid">FOXNEWSW_20140217_070000_FOX_News_Sunday_With_Chris_Wallace</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140217_070000_FOX_News_Sunday_With_Chris_Wallace/FOXNEWSW_20140217_070000_FOX_News_Sunday_With_Chris_Wallace.thumbs/FOXNEWSW_20140217_070000_FOX_News_Sunday_With_Chris_Wallace_002715.jpg</field>
+<field name="snippet">which whether you believe in climate change or not, i think, is something people should be able to get behind. less pollution is definitely a good thing. so that may be a better way to make the argument rather than claiming that climate change is the cause of every single thing</field>
+</doc>
+</add>

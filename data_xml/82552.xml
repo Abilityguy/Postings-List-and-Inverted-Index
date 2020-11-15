@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201509.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150907_210000_The_Five#start/855/end/890</field>
+<field name="datetime">9/7/2015 21:14:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20150907_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150907_210000_The_Five/FOXNEWSW_20150907_210000_The_Five.thumbs/FOXNEWSW_20150907_210000_The_Five_000855.jpg</field>
+<field name="snippet">issues, whether you're looking at foreign policy or iran or russia or immigration, climate change, inequality, all those things get wiped off the front</field>
+</doc>
+</add>

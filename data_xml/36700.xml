@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201906.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190603_230000_Hardball_With_Chris_Matthews#start/3471/end/3506</field>
+<field name="datetime">6/3/2019 23:58:06</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball With Chris Matthews</field>
+<field name="showid">MSNBCW_20190603_230000_Hardball_With_Chris_Matthews</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190603_230000_Hardball_With_Chris_Matthews/MSNBCW_20190603_230000_Hardball_With_Chris_Matthews.thumbs/MSNBCW_20190603_230000_Hardball_With_Chris_Matthews_003448.jpg</field>
+<field name="snippet">thank you for coming today. i'm an eighth grader and my question is, since climate change will have a big affect on my future, what measures do you support to stop this crisis? well, thanks for your question.</field>
+</doc>
+</add>

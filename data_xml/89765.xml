@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201401.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140103_010000_All_In_With_Chris_Hayes#start/352/end/387</field>
+<field name="datetime">1/3/2014 1:06:07</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20140103_010000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140103_010000_All_In_With_Chris_Hayes/MSNBCW_20140103_010000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20140103_010000_All_In_With_Chris_Hayes_000346.jpg</field>
+<field name="snippet">i've become a public figure in this larger debate over climate change, because of this iconic graph that my colleagues and i published a decade and a half ago. and that has put me at the center of the larger debate about climate change, but it's also given me an opportunity,</field>
+</doc>
+</add>

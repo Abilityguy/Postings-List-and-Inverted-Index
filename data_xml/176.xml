@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201301.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130130_060000_Greta_Van_Susteren#start/704/end/739</field>
+<field name="datetime">1/30/2013 6:11:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Greta Van Susteren</field>
+<field name="showid">FOXNEWSW_20130130_060000_Greta_Van_Susteren</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130130_060000_Greta_Van_Susteren/FOXNEWSW_20130130_060000_Greta_Van_Susteren.thumbs/FOXNEWSW_20130130_060000_Greta_Van_Susteren_000705.jpg</field>
+<field name="snippet">oil. this is closer to saturday night live stuff than it is to serious news and people are laughing and say, i got it. al gore had a shot to make lots and lots of money. he says, here's the stuff i have done about global warming.</field>
+</doc>
+</add>

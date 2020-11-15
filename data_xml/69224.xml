@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201109.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20110926_210000_The_Five#start/1199/end/1234</field>
+<field name="datetime">9/26/2011 21:20:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20110926_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20110926_210000_The_Five/FOXNEWSW_20110926_210000_The_Five.thumbs/FOXNEWSW_20110926_210000_The_Five_001200.jpg</field>
+<field name="snippet">wildfires if it hadn't been for climate change. greg: not based on science. bob: is it on my science. i believe it's true. i'm not talking to you. he could care less about you.</field>
+</doc>
+</add>

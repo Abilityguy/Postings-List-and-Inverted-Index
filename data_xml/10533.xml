@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201511.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151130_070000_Fox_News_Sunday_With_Chris_Wallace#start/468/end/503</field>
+<field name="datetime">11/30/2015 7:08:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News Sunday With Chris Wallace</field>
+<field name="showid">FOXNEWSW_20151130_070000_Fox_News_Sunday_With_Chris_Wallace</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151130_070000_Fox_News_Sunday_With_Chris_Wallace/FOXNEWSW_20151130_070000_Fox_News_Sunday_With_Chris_Wallace.thumbs/FOXNEWSW_20151130_070000_Fox_News_Sunday_With_Chris_Wallace_000465.jpg</field>
+<field name="snippet">spent talking about climate change. you -- let's turn to the republican presidential race. you have gotten a big lift in the polls particularly after the first two republican debates, but just looking at the numbers, you have fallen back since then.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190825_023000_Our_World#start/34/end/69</field>
+<field name="datetime">8/25/2019 2:30:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Our World</field>
+<field name="showid">BBCNEWS_20190825_023000_Our_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190825_023000_Our_World/BBCNEWS_20190825_023000_Our_World.thumbs/BBCNEWS_20190825_023000_Our_World_000029.jpg</field>
+<field name="snippet">the latest headlines: this is bbc news, the headlines: emmanuel macron has called for a de-escalation of trade tensions at an informal dinner ahead of sunday's g7 talks. leaders will also try to resolve differences over climate change and brexit. the european council president donald tusk says it may be the last chance to restore harmony among</field>
+</doc>
+</add>

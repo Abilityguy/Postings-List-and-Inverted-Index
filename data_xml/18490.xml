@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170118_213000_Outside_Source#start/736/end/771</field>
+<field name="datetime">1/18/2017 21:42:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20170118_213000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170118_213000_Outside_Source/BBCNEWS_20170118_213000_Outside_Source.thumbs/BBCNEWS_20170118_213000_Outside_Source_000718.jpg</field>
+<field name="snippet">but in terms of the yearly variations, it is actually huge. part of this rise was caused by an el nino event, a warm ocean current that disrupts the world's weather. but scientists say greenhouse gases were the main driver.</field>
+</doc>
+</add>

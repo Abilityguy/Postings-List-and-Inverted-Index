@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191211_130000_BBC_News_at_One#start/694/end/729</field>
+<field name="datetime">12/11/2019 13:11:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20191211_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191211_130000_BBC_News_at_One/BBCNEWS_20191211_130000_BBC_News_at_One.thumbs/BBCNEWS_20191211_130000_BBC_News_at_One_000687.jpg</field>
+<field name="snippet">a referendum on scottish independence. plaid cymru is another of the parties that wants a second referendum on brexit. the green party would prefer the focus was on the climate crisis. £100 billion a year over a decade to tackle climate change, mainly paid for by borrowing.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201210.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121029_100000_Morning_Joe#start/5217/end/5252</field>
+<field name="datetime">10/29/2012 11:27:12</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20121029_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121029_100000_Morning_Joe/MSNBCW_20121029_100000_Morning_Joe.thumbs/MSNBCW_20121029_100000_Morning_Joe_005218.jpg</field>
+<field name="snippet">you never know. yeah. there are trends that happen. and hurricanes go -- i remember in 2005, people were predicting, okay, because of global warming, we're going to have massive hurricanes every year. we went out and bought a generator in florida.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190301_060000_Breakfast#start/6295/end/6330</field>
+<field name="datetime">3/1/2019 7:45:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190301_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190301_060000_Breakfast/BBCNEWS_20190301_060000_Breakfast.thumbs/BBCNEWS_20190301_060000_Breakfast_006297.jpg</field>
+<field name="snippet">which the world's climate is changing? it is very difficult to put any single event like this event down to global warming or climate change, however, across antarctica we are seeing a consistent pattern</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171212_170000_BBC_News_at_Five#start/965/end/1000</field>
+<field name="datetime">12/12/2017 17:16:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20171212_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171212_170000_BBC_News_at_Five/BBCNEWS_20171212_170000_BBC_News_at_Five.thumbs/BBCNEWS_20171212_170000_BBC_News_at_Five_000958.jpg</field>
+<field name="snippet">schwarzenegger also appeared. speaking at the event, president macron said the world was 'losing the battle against climate change' and yesterday he condemned america's decision to withdraw from the deal. the us's decision is extremely</field>
+</doc>
+</add>

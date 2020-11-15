@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201001.csv</field>
+<field name="url">https://archive.org/details/CNN_20100101_210000_The_Situation_Room_With_Wolf_Blitzer#start/8149/end/8184</field>
+<field name="datetime">1/1/2010 23:16:04</field>
+<field name="station">CNN</field>
+<field name="show">The Situation Room With Wolf Blitzer</field>
+<field name="showid">CNN_20100101_210000_The_Situation_Room_With_Wolf_Blitzer</field>
+<field name="preview">https://archive.org/download/CNN_20100101_210000_The_Situation_Room_With_Wolf_Blitzer/CNN_20100101_210000_The_Situation_Room_With_Wolf_Blitzer.thumbs/CNN_20100101_210000_The_Situation_Room_With_Wolf_Blitzer_008130.jpg</field>
+<field name="snippet">something i don't quite understand. reporter: as the climate change debate ripples in washington and around the world, hawaii is in the early stages of a dramatic energy evolution. at the moment, imported oil accounts for 90% of the energy</field>
+</doc>
+</add>

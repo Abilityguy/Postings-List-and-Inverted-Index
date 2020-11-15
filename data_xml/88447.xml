@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190612_160000_BBC_News_at_Five#start/2508/end/2543</field>
+<field name="datetime">6/12/2019 16:42:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190612_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190612_160000_BBC_News_at_Five/BBCNEWS_20190612_160000_BBC_News_at_Five.thumbs/BBCNEWS_20190612_160000_BBC_News_at_Five_002489.jpg</field>
+<field name="snippet">the government has announced ambitious plans to cut net greenhouse gas emissions in the uk to almost zero by 2050, in order to tackle global warming. britain is the first major nation to propose the target, which would be enshrined in law. the prime minister said reducing pollution would also benefit public health and cut nhs costs. some say the drive is too</field>
+</doc>
+</add>

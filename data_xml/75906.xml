@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190511_050000_Breakfast#start/108/end/143</field>
+<field name="datetime">5/11/2019 5:02:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190511_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190511_050000_Breakfast/BBCNEWS_20190511_050000_Breakfast.thumbs/BBCNEWS_20190511_050000_Breakfast_000088.jpg</field>
+<field name="snippet">flying is on the up and the government has been planning for it to continue to grow. what about climate change, you might ask? under current policy, industry will have to come more greenhouse gases so aviation can expand. but the</field>
+</doc>
+</add>

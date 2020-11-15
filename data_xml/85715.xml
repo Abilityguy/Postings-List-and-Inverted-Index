@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201709.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170909_153000_Dateline_London#start/477/end/512</field>
+<field name="datetime">9/9/2017 15:38:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Dateline London</field>
+<field name="showid">BBCNEWS_20170909_153000_Dateline_London</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170909_153000_Dateline_London/BBCNEWS_20170909_153000_Dateline_London.thumbs/BBCNEWS_20170909_153000_Dateline_London_000477.jpg</field>
+<field name="snippet">experts have said, this is caused by climate change, and i'm no expert. we need to go back long before the paris climate change agreement and look at the hurricanes in the early years of the 20th century which were not as devastating, but yet pretty</field>
+</doc>
+</add>

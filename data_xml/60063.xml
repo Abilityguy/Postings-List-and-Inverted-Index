@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181003_073000_BBC_Business_Live#start/100/end/135</field>
+<field name="datetime">10/3/2018 7:31:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Business Live</field>
+<field name="showid">BBCNEWS_20181003_073000_BBC_Business_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181003_073000_BBC_Business_Live/BBCNEWS_20181003_073000_BBC_Business_Live.thumbs/BBCNEWS_20181003_073000_BBC_Business_Live_000087.jpg</field>
+<field name="snippet">car industry bosses may be gathered in paris, but their attention will be on a vote today in strasbourg, which will pit the interests of the motor industry against efforts to cut greenhouse gas emissions. the european parliament will consider proposals</field>
+</doc>
+</add>

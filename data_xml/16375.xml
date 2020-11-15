@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201502.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150228_110000_FOX_and_Friends_Saturday#start/10549/end/10584</field>
+<field name="datetime">2/28/2015 13:56:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20150228_110000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150228_110000_FOX_and_Friends_Saturday/FOXNEWSW_20150228_110000_FOX_and_Friends_Saturday.thumbs/FOXNEWSW_20150228_110000_FOX_and_Friends_Saturday_010545.jpg</field>
+<field name="snippet">we can't reach them now because military. now, they're talking about sequestration, it would be even worse. if we just had the money this president has spent on global warming, we wouldn't have the money with our military. great to see you.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170531_190000_Shepard_Smith_Reporting#start/76/end/111</field>
+<field name="datetime">5/31/2017 19:01:31</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20170531_190000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170531_190000_Shepard_Smith_Reporting/FOXNEWSW_20170531_190000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20170531_190000_Shepard_Smith_Reporting_000058.jpg</field>
+<field name="snippet">we begin this afternoon with word that president trump could soon put the united states at odds with almost every other country on the planet by pulling out of the global climate change deal known as the paris acourt. two sources are telling fox news</field>
+</doc>
+</add>

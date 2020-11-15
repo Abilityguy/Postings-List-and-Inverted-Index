@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201611.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161123_110000_FOX__Friends#start/4274/end/4309</field>
+<field name="datetime">11/23/2016 12:11:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20161123_110000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161123_110000_FOX__Friends/FOXNEWSW_20161123_110000_FOX__Friends.thumbs/FOXNEWSW_20161123_110000_FOX__Friends_004258.jpg</field>
+<field name="snippet">sunday. and heading to court over climate change. this one is something else. these eight children suing the washington state -- well, suing washington state for what they say is a failure to protect them from the effects of global warming.</field>
+</doc>
+</add>

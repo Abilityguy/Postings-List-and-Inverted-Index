@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191208_220000_BBC_News#start/836/end/871</field>
+<field name="datetime">12/8/2019 22:14:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191208_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191208_220000_BBC_News/BBCNEWS_20191208_220000_BBC_News.thumbs/BBCNEWS_20191208_220000_BBC_News_000808.jpg</field>
+<field name="snippet">are trying to contain more than 140 fires before very hot and windy conditions return to fan the flames in the next few days. the country is experiencing a devastating start to its fire season due to the effects of climate change.</field>
+</doc>
+</add>

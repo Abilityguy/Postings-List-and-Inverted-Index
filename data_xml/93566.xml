@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190730_050000_Breakfast#start/1635/end/1670</field>
+<field name="datetime">7/30/2019 5:27:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190730_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190730_050000_Breakfast/BBCNEWS_20190730_050000_Breakfast.thumbs/BBCNEWS_20190730_050000_Breakfast_001617.jpg</field>
+<field name="snippet">you're watching breakfast from bbc news. still to come this morning. we're being told we need to plant more trees to combat climate change. our reporter sam fenwick is at the breakfast woodland. good morning, sam. good morning,</field>
+</doc>
+</add>

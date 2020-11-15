@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191225_193000_Weather_World#start/1036/end/1071</field>
+<field name="datetime">12/25/2019 19:47:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20191225_193000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191225_193000_Weather_World/BBCNEWS_20191225_193000_Weather_World.thumbs/BBCNEWS_20191225_193000_Weather_World_001017.jpg</field>
+<field name="snippet">by climate change. so we've just talked about how climate change can cause heavier rainfall and a lot of the damage associated with cyclones, this comes from the flooding, the storm surges that we've seen associated with those. so heavier rainfall, greater storm surges,</field>
+</doc>
+</add>

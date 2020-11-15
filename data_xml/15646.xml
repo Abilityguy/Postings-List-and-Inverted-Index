@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201104.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110421_040000_Hannity#start/135/end/170</field>
+<field name="datetime">4/21/2011 4:02:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20110421_040000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110421_040000_Hannity/FOXNEWS_20110421_040000_Hannity.thumbs/FOXNEWS_20110421_040000_Hannity_000116.jpg</field>
+<field name="snippet">air pollution that not only is contributing to climate change but is also creating asthma for kids nearby. you got asthma, okay. and so, sucking that stuff in is not ideal.</field>
+</doc>
+</add>

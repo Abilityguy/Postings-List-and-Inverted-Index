@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201101.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110101_160000_Forbes_on_FOX#start/528/end/563</field>
+<field name="datetime">1/1/2011 16:09:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Forbes on FOX</field>
+<field name="showid">FOXNEWS_20110101_160000_Forbes_on_FOX</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110101_160000_Forbes_on_FOX/FOXNEWS_20110101_160000_Forbes_on_FOX.thumbs/FOXNEWS_20110101_160000_Forbes_on_FOX_000505.jpg</field>
+<field name="snippet">boomers are eligible for medicare. is the government planning to pay for it all by rationing everyone's care? 'cashin' in' is on that. amid the global warming debate, a brand new government mandate kicking in tomorrow about to send jobs up in smoke.</field>
+</doc>
+</add>

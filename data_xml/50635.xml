@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201501.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150122_000000_Hardball_With_Chris_Matthews#start/2850/end/2885</field>
+<field name="datetime">1/22/2015 0:47:45</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball With Chris Matthews</field>
+<field name="showid">MSNBCW_20150122_000000_Hardball_With_Chris_Matthews</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150122_000000_Hardball_With_Chris_Matthews/MSNBCW_20150122_000000_Hardball_With_Chris_Matthews.thumbs/MSNBCW_20150122_000000_Hardball_With_Chris_Matthews_002835.jpg</field>
+<field name="snippet">late today the senate voted down two amendments to the keystone pipeline bill stating human activity does contribute to climate change. the first amendment read climate change is real. it failed 59 to 40.</field>
+</doc>
+</add>

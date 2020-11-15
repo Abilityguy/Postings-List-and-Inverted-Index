@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190422_083000_Weather_World#start/1834/end/1869</field>
+<field name="datetime">4/22/2019 9:00:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20190422_083000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190422_083000_Weather_World/BBCNEWS_20190422_083000_Weather_World.thumbs/BBCNEWS_20190422_083000_Weather_World_001828.jpg</field>
+<field name="snippet">a comedian who played the president of ukraine in a television satire has been elected to run the country. two teenagers arrested in connection with the murder of the journalist lyra mckee in londonderry have been released without charge. a week of climate-change protests</field>
+</doc>
+</add>

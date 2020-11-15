@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201511.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151130_100000_Fox_and_Friends_First#start/3643/end/3678</field>
+<field name="datetime">11/30/2015 11:00:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20151130_100000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151130_100000_Fox_and_Friends_First/FOXNEWSW_20151130_100000_Fox_and_Friends_First.thumbs/FOXNEWSW_20151130_100000_Fox_and_Friends_First_003645.jpg</field>
+<field name="snippet">hateful language and speech. we're going to talk about that. plus -- scientists warning the world leaders at the climate change conference in paris that the sky it falling. seriously. the next danger we face from global</field>
+</doc>
+</add>

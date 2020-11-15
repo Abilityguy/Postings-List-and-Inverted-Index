@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201501.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150124_110000_FOX_and_Friends_Saturday#start/8407/end/8442</field>
+<field name="datetime">1/24/2015 13:20:22</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20150124_110000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150124_110000_FOX_and_Friends_Saturday/FOXNEWSW_20150124_110000_FOX_and_Friends_Saturday.thumbs/FOXNEWSW_20150124_110000_FOX_and_Friends_Saturday_008385.jpg</field>
+<field name="snippet">thanks again. up next on 'fox & friends' weekend. they just can't let it go. the state department official who wants to use frozen to teach kids climate change. then need help planning your wedding? looking for a basic ring</field>
+</doc>
+</add>

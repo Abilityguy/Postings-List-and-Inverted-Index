@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201802.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180227_200000_BBC_News#start/51/end/86</field>
+<field name="datetime">2/27/2018 20:01:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180227_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180227_200000_BBC_News/BBCNEWS_20180227_200000_BBC_News.thumbs/BBCNEWS_20180227_200000_BBC_News_000057.jpg</field>
+<field name="snippet">five-hour ceasefire in syria ends in failure. russia ordered a pause in fighting in eastern ghouta but the un said continued airstrikes and shelling had stopped it from delivering aid to the area. and scientists warn king penguins are under threat as global warming</field>
+</doc>
+</add>

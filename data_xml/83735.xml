@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190418_033000_HARDtalk#start/1844/end/1879</field>
+<field name="datetime">4/18/2019 4:00:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">HARDtalk</field>
+<field name="showid">BBCNEWS_20190418_033000_HARDtalk</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190418_033000_HARDtalk/BBCNEWS_20190418_033000_HARDtalk.thumbs/BBCNEWS_20190418_033000_HARDtalk_001829.jpg</field>
+<field name="snippet">a stark warning about climate change as sir david attenborough launches a landmark bbc documentary. the reviews are in, and they make uncofortable reading. several reviewers trash samsung's new $2000 galaxy fold smartphone</field>
+</doc>
+</add>

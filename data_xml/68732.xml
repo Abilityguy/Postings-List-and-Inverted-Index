@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201001.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100129_160000_MSNBC_News_Live#start/269/end/304</field>
+<field name="datetime">1/29/2010 16:04:44</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100129_160000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100129_160000_MSNBC_News_Live/MSNBC_20100129_160000_MSNBC_News_Live.thumbs/MSNBC_20100129_160000_MSNBC_News_Live_000270.jpg</field>
+<field name="snippet">allegedly by osama bin laden. the subject, of all things, global warming. the speaker blames it on the u.s. and other industrial countries. another audio tape by bin laden just last weekend claimed al qaeda was, indeed, behind the christmas day bombing of the jetliner bound for detroit.</field>
+</doc>
+</add>

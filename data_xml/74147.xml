@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_210000_Outside_Source#start/876/end/911</field>
+<field name="datetime">1/16/2020 21:14:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20200116_210000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_210000_Outside_Source/BBCNEWS_20200116_210000_Outside_Source.thumbs/BBCNEWS_20200116_210000_Outside_Source_000867.jpg</field>
+<field name="snippet">from the 19th century, coal, oil and gas, known as fossil fuels, have transformed the way we live. but it was only later that we discover the problems they cause and by then we had tvs, planes, cars, and microwaves. burning fossil fuels releases gases that trap heat from the sun, that is why they're known as greenhouse gases.</field>
+</doc>
+</add>

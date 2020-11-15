@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190612_190000_BBC_News#start/3628/end/3663</field>
+<field name="datetime">6/12/2019 20:00:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190612_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190612_190000_BBC_News/BBCNEWS_20190612_190000_BBC_News.thumbs/BBCNEWS_20190612_190000_BBC_News_003629.jpg</field>
+<field name="snippet">to cut greenhouse gas emissions to almost zero, by the year 2050 it will put us on track to be the first major economy to put this commitment into law. it is an ambitious target, but it is one that is crucial that we achieve.</field>
+</doc>
+</add>

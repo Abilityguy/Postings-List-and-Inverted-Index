@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191203_000000_Newsday#start/34/end/69</field>
+<field name="datetime">12/3/2019 0:00:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191203_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191203_000000_Newsday/BBCNEWS_20191203_000000_Newsday.thumbs/BBCNEWS_20191203_000000_Newsday_000028.jpg</field>
+<field name="snippet">he knows what happened, i know what happened and there is only one of us telling the truth, and i know that's me. the prince has denied any involvement. also ahead: the madrid meeting hears how some countries fear they are in a 'fight to the death' as they try to tackle climate</field>
+</doc>
+</add>

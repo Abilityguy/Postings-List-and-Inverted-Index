@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181127_170000_BBC_News_at_Five#start/60/end/95</field>
+<field name="datetime">11/27/2018 17:01:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20181127_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181127_170000_BBC_News_at_Five/BBCNEWS_20181127_170000_BBC_News_at_Five.thumbs/BBCNEWS_20181127_170000_BBC_News_at_Five_000057.jpg</field>
+<field name="snippet">a one-year-old baby among them. a bus company is fined almost £2.5 million after one of its drivers crashed into a supermarket, killing two people. global efforts to tackle climate change are way off track,</field>
+</doc>
+</add>

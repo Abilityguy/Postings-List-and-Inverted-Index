@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201204.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120412_100000_FOX_and_Friends#start/6430/end/6465</field>
+<field name="datetime">4/12/2012 11:47:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20120412_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120412_100000_FOX_and_Friends/FOXNEWSW_20120412_100000_FOX_and_Friends.thumbs/FOXNEWSW_20120412_100000_FOX_and_Friends_006416.jpg</field>
+<field name="snippet">subjects, not just evolution or global warming or creationism or intelligent design. it's really about creating teachable moments for teachers. as i understand, senator and you can correct me if i'm incorrect, they're in tennessee which is where the scopes monkey</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_080000_Victoria_Derbyshire#start/110/end/145</field>
+<field name="datetime">10/8/2018 8:02:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20181008_080000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_080000_Victoria_Derbyshire/BBCNEWS_20181008_080000_Victoria_Derbyshire.thumbs/BBCNEWS_20181008_080000_Victoria_Derbyshire_000087.jpg</field>
+<field name="snippet">are you struggling to find somewhere to buy a house in the area you rent in? how do you feel when another report about climate change warns we need to take drastic measures to get climate change under control? do get in touch on all the stories we're talking about.</field>
+</doc>
+</add>

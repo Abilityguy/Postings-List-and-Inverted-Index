@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191215_150000_BBC_News#start/86/end/121</field>
+<field name="datetime">12/15/2019 15:01:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191215_150000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191215_150000_BBC_News/BBCNEWS_20191215_150000_BBC_News.thumbs/BBCNEWS_20191215_150000_BBC_News_000058.jpg</field>
+<field name="snippet">climate change. denying this fact could be interpreted by some to be a crime against humanity. china's state broadcaster drops its plan to show arsenal's match against manchester city this afternoon, in the wake of comments by mesut ozil, criticising the country's</field>
+</doc>
+</add>

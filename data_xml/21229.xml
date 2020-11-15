@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180929_143000_Click#start/1460/end/1495</field>
+<field name="datetime">9/29/2018 14:54:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Click</field>
+<field name="showid">BBCNEWS_20180929_143000_Click</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180929_143000_Click/BBCNEWS_20180929_143000_Click.thumbs/BBCNEWS_20180929_143000_Click_001438.jpg</field>
+<field name="snippet">this project was trying to solve a much bigger problem than the world's deliveries - climate change. it had to be shelved a couple of years ago,</field>
+</doc>
+</add>

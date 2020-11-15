@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190511_110000_BBC_News#start/1706/end/1741</field>
+<field name="datetime">5/11/2019 11:28:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190511_110000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190511_110000_BBC_News/BBCNEWS_20190511_110000_BBC_News.thumbs/BBCNEWS_20190511_110000_BBC_News_001707.jpg</field>
+<field name="snippet">concerns over climate change might restrict the growth of flying in the uk, according to a senior civil servant. houthi rebels in yemen say they'll begin withdrawing from key ports today, opening a lifeline for millions of people facing famine. theresa may is expected to give more detail in the coming days</field>
+</doc>
+</add>

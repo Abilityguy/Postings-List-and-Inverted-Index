@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180614_000000_Newsday#start/1059/end/1094</field>
+<field name="datetime">6/14/2018 0:17:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20180614_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180614_000000_Newsday/BBCNEWS_20180614_000000_Newsday.thumbs/BBCNEWS_20180614_000000_Newsday_001048.jpg</field>
+<field name="snippet">the continent now sheds almost 200 billion tons of ice per year. we used to think the earth's polar ice sheets were slumbering giants that were not responsive to climate change, but that's clearly not the case. the ice loss we see today is because the ice sheet is melting due to warm ocean around the continent. the concern is how much sea level rise the ice sheet might contribute</field>
+</doc>
+</add>

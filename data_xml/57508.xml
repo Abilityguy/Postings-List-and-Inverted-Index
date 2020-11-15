@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201408.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140828_210000_The_Five#start/1715/end/1750</field>
+<field name="datetime">8/28/2014 21:28:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20140828_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140828_210000_The_Five/FOXNEWSW_20140828_210000_The_Five.thumbs/FOXNEWSW_20140828_210000_The_Five_001635.jpg</field>
+<field name="snippet">well technically, you said it. the president plans to sign an international climate change accord in 2015 without approval of congress. it's nuttier than elephant poop. 'the new york times' said the thing would compel countries including ours to cut carbon,</field>
+</doc>
+</add>

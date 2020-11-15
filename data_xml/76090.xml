@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190510_130000_Afternoon_Live#start/1200/end/1235</field>
+<field name="datetime">5/10/2019 13:20:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190510_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190510_130000_Afternoon_Live/BBCNEWS_20190510_130000_Afternoon_Live.thumbs/BBCNEWS_20190510_130000_Afternoon_Live_001198.jpg</field>
+<field name="snippet">of repairing the damage that's already been done. the urgency of the issue is such that we have very little time left. so we've got to pull out the stack of greenhouse gases that's already in the atmosphere and that means</field>
+</doc>
+</add>

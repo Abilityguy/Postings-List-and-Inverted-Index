@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201302.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130218_100000_FOX_and_Friends_First#start/1433/end/1468</field>
+<field name="datetime">2/18/2013 10:24:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends First</field>
+<field name="showid">FOXNEWSW_20130218_100000_FOX_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130218_100000_FOX_and_Friends_First/FOXNEWSW_20130218_100000_FOX_and_Friends_First.thumbs/FOXNEWSW_20130218_100000_FOX_and_Friends_First_001425.jpg</field>
+<field name="snippet">speaking of global warming thousands of climate activists gathered in washington, d.c. to call on the president to fight harder to combat global warming. the weather not exact lipping them make their case.</field>
+</doc>
+</add>

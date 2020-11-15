@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190907_100000_Fox_and_Friends_Saturday#start/7989/end/8024</field>
+<field name="datetime">9/7/2019 12:13:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20190907_100000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190907_100000_Fox_and_Friends_Saturday/FOXNEWSW_20190907_100000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20190907_100000_Fox_and_Friends_Saturday_007979.jpg</field>
+<field name="snippet">biden campaign told us recently they think he's got a problem with any group with younger voters and last night at one of his events one of the youngest people confronted him about climate change, suggesting that his plan to get rid of greenhouse gas is not as ambitious as some of the others</field>
+</doc>
+</add>

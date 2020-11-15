@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201211.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121112_160000_Happening_Now#start/2835/end/2870</field>
+<field name="datetime">11/12/2012 16:47:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20121112_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121112_160000_Happening_Now/FOXNEWSW_20121112_160000_Happening_Now.thumbs/FOXNEWSW_20121112_160000_Happening_Now_002818.jpg</field>
+<field name="snippet">to $7 a gallon. now they did back off that carbon tax. we know this administration would much rather power this economy with the energy technologies that won't be viable for 30, 40 years from now as opposed to driving the economy with what's</field>
+</doc>
+</add>

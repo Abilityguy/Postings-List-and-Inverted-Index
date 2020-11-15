@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180915_000000_Tucker_Carlson_Tonight#start/2148/end/2183</field>
+<field name="datetime">9/15/2018 0:36:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20180915_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180915_000000_Tucker_Carlson_Tonight/FOXNEWSW_20180915_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20180915_000000_Tucker_Carlson_Tonight_002127.jpg</field>
+<field name="snippet">cannot be blamed on global warming. thank you for coming on. thank you for having me. tucker: i know you acknowledge the earth is getting warmer and there is a debate about why. but there i a second debate that plays out in the popular press whether the warming trend is causing more severe</field>
+</doc>
+</add>

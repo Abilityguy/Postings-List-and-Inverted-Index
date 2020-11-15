@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201209.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120907_100000_Morning_Joe#start/1720/end/1755</field>
+<field name="datetime">9/7/2012 10:28:55</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20120907_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120907_100000_Morning_Joe/MSNBCW_20120907_100000_Morning_Joe.thumbs/MSNBCW_20120907_100000_Morning_Joe_001707.jpg</field>
+<field name="snippet">guys are bumbling amateurs, they don't know what to do, they're not ready. we heard him say climate change is not a hoax. i'm not going to turn medicare into a voucher. the clip we saw of him saying they're new when it comes to foreign policy.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201506.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150611_150000_NewsNation#start/2181/end/2216</field>
+<field name="datetime">6/11/2015 15:36:36</field>
+<field name="station">MSNBC</field>
+<field name="show">NewsNation</field>
+<field name="showid">MSNBCW_20150611_150000_NewsNation</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150611_150000_NewsNation/MSNBCW_20150611_150000_NewsNation.thumbs/MSNBCW_20150611_150000_NewsNation_002176.jpg</field>
+<field name="snippet">agency has taken the first step toward regulating greenhouse gas emissions from commercial aircrafts. it issued a preliminary finding that such emissions contribute to climate change. critics have warned the looming rules could lead to an increase in ticket prices.</field>
+</doc>
+</add>

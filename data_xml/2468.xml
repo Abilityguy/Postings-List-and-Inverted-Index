@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200909.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20090909_230000_Hardball_With_Chris_Matthews#start/1395/end/1430</field>
+<field name="datetime">9/9/2009 23:23:30</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball With Chris Matthews</field>
+<field name="showid">MSNBC_20090909_230000_Hardball_With_Chris_Matthews</field>
+<field name="preview">https://archive.org/download/MSNBC_20090909_230000_Hardball_With_Chris_Matthews/MSNBC_20090909_230000_Hardball_With_Chris_Matthews.thumbs/MSNBC_20090909_230000_Hardball_With_Chris_Matthews_001376.jpg</field>
+<field name="snippet">i'm very optimistic about it. because this technology could be used. to reduce greenhouse gas emissions significantly. i've still got room for the internet. with my new netbook from at&t. with its built-in 3g network, it's fast and small, so it goes places other laptops can't.</field>
+</doc>
+</add>

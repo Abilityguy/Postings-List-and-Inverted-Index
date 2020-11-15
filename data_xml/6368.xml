@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190913_020000_BBC_News#start/1164/end/1199</field>
+<field name="datetime">9/13/2019 2:19:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190913_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190913_020000_BBC_News/BBCNEWS_20190913_020000_BBC_News.thumbs/BBCNEWS_20190913_020000_BBC_News_001137.jpg</field>
+<field name="snippet">five people have been arrested on suspicion of planning to fly drives near heathrow. members of climate change activist group were held on conspiracy to commit a public nuisance. they were protesting against the airport's planned</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100214_110000_The_OReilly_Factor#start/686/end/721</field>
+<field name="datetime">2/14/2010 11:11:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20100214_110000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100214_110000_The_OReilly_Factor/FOXNEWS_20100214_110000_The_OReilly_Factor.thumbs/FOXNEWS_20100214_110000_The_OReilly_Factor_000685.jpg</field>
+<field name="snippet">and the u.n.'s intergovernmental panel on climate change, so-called ipcc has been under assault because they've made a number of remarkable errors in some of their headline crisis projections, they were claiming</field>
+</doc>
+</add>

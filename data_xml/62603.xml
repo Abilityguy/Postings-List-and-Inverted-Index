@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201212.csv</field>
+<field name="url">https://archive.org/details/CNNW_20121217_140000_CNN_Newsroom#start/6631/end/6666</field>
+<field name="datetime">12/17/2012 15:50:46</field>
+<field name="station">CNN</field>
+<field name="show">CNN Newsroom</field>
+<field name="showid">CNNW_20121217_140000_CNN_Newsroom</field>
+<field name="preview">https://archive.org/download/CNNW_20121217_140000_CNN_Newsroom/CNNW_20121217_140000_CNN_Newsroom.thumbs/CNNW_20121217_140000_CNN_Newsroom_006615.jpg</field>
+<field name="snippet">it's lots of things. all waking up. becoming part of the global phenomenon we call the internet of everything. trees will talk to networks will talk to scientists about climate change. cars will talk to road sensors</field>
+</doc>
+</add>

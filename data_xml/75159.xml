@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200108_020000_BBC_News#start/1362/end/1397</field>
+<field name="datetime">1/8/2020 2:22:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200108_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200108_020000_BBC_News/BBCNEWS_20200108_020000_BBC_News.thumbs/BBCNEWS_20200108_020000_BBC_News_001347.jpg</field>
+<field name="snippet">and the worry for the bats is? with climate change, the bats aren't doing very well. alone in the last month, we've had thousands die. in the last year, they're just getting decimated. over the next few years, we'll probably see the decline of the bats and possibly the extinction</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151214_220000_MTP_Daily#start/1264/end/1299</field>
+<field name="datetime">12/14/2015 22:21:19</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20151214_220000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151214_220000_MTP_Daily/MSNBCW_20151214_220000_MTP_Daily.thumbs/MSNBCW_20151214_220000_MTP_Daily_001246.jpg</field>
+<field name="snippet">fight global warming. yo joining me now, ed markey, a leading advocate on climate change legislation in congress. senator, thank you for joining us. let me ask you about what you heard from mitch mccconnell. he's got the votes, at least on</field>
+</doc>
+</add>

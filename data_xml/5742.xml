@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_100000_BBC_Newsroom_Live#start/7212/end/7247</field>
+<field name="datetime">9/20/2019 12:00:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190920_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_100000_BBC_Newsroom_Live/BBCNEWS_20190920_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190920_100000_BBC_Newsroom_Live_007197.jpg</field>
+<field name="snippet">schoolchildren lead a world wide protest against climate change. it could be the biggest demonstration yet against global warming, with protests planned in more than 150 countries. the younger a person is, the more the changing climate will impact them as they grow and the less of a voice they're given today.</field>
+</doc>
+</add>

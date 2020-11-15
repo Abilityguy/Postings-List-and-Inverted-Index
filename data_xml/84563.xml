@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190428_020000_BBC_News#start/847/end/882</field>
+<field name="datetime">4/28/2019 2:14:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190428_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190428_020000_BBC_News/BBCNEWS_20190428_020000_BBC_News.thumbs/BBCNEWS_20190428_020000_BBC_News_000837.jpg</field>
+<field name="snippet">overfishing, and impacts on our water resources and now human cost of climate change. this is a writ of extinction we have never seen as long as humans have been on the planet. a rate of extension we probably haven't seen for hundreds of millions of years and it is a</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201101.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110102_110000_FOX_and_Friends_Sunday#start/10510/end/10545</field>
+<field name="datetime">1/2/2011 13:55:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWS_20110102_110000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110102_110000_FOX_and_Friends_Sunday/FOXNEWS_20110102_110000_FOX_and_Friends_Sunday.thumbs/FOXNEWS_20110102_110000_FOX_and_Friends_Sunday_010500.jpg</field>
+<field name="snippet">senator, i think the fear on the right in the face of opposition in the house, might the president use, say, the epa to make some of these changes without actually legislating them? i think it's a legitimate fear, i think you're going to see the issue on climate</field>
+</doc>
+</add>

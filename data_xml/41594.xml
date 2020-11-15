@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090806_080000_Special_Report_With_Bret_Baier#start/1837/end/1872</field>
+<field name="datetime">8/6/2009 8:30:52</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20090806_080000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090806_080000_Special_Report_With_Bret_Baier/FOXNEWS_20090806_080000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20090806_080000_Special_Report_With_Bret_Baier_001766.jpg</field>
+<field name="snippet">to target climate change. an sorted press analysis of transportation department figures indicates the program will have the same effect on the environment as shutting down the entire country including cars and power plants for just one hour per year. it will save roughly 72</field>
+</doc>
+</add>

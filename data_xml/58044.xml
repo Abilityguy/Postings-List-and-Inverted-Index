@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201304.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130412_060000_Hardball_With_Chris_Matthews#start/1825/end/1860</field>
+<field name="datetime">4/12/2013 6:30:40</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball With Chris Matthews</field>
+<field name="showid">MSNBCW_20130412_060000_Hardball_With_Chris_Matthews</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130412_060000_Hardball_With_Chris_Matthews/MSNBCW_20130412_060000_Hardball_With_Chris_Matthews.thumbs/MSNBCW_20130412_060000_Hardball_With_Chris_Matthews_001815.jpg</field>
+<field name="snippet">politician says something and you think, did i really just hear that? well, first tonight, congressman joe barton on the subject of climate change. the texas republican does not dispute that climate change is occurring, only whether it's called by us. by humans. in a house hearing on the keystone pipeline yesterday,</field>
+</doc>
+</add>

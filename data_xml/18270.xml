@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201305.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130501_100000_FOX_and_Friends#start/9946/end/9981</field>
+<field name="datetime">5/1/2013 12:46:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20130501_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130501_100000_FOX_and_Friends/FOXNEWSW_20130501_100000_FOX_and_Friends.thumbs/FOXNEWSW_20130501_100000_FOX_and_Friends_009945.jpg</field>
+<field name="snippet">hello, mr. gore? global warming? i bought into the whole thing. what happened? [ laughter ] this is breaking news right now. we are live in johnsons corner. where is that? right next to green acres. you don't care! you're in new york! you just want to see the snow in</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190819_044500_The_Briefing#start/943/end/978</field>
+<field name="datetime">8/19/2019 5:00:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20190819_044500_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190819_044500_The_Briefing/BBCNEWS_20190819_044500_The_Briefing.thumbs/BBCNEWS_20190819_044500_The_Briefing_000927.jpg</field>
+<field name="snippet">this week, the bbc is focusing on farming. today we are looking at what the national farmers' farming. today we are looking at what the nationalfarmers' union is calling its biggest challenge, climate change. taking the uk to the top of the league.</field>
+</doc>
+</add>

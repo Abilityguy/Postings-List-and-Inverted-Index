@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201401.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140126_130000_Up_WSteve_Kornacki#start/5642/end/5677</field>
+<field name="datetime">1/26/2014 14:34:17</field>
+<field name="station">MSNBC</field>
+<field name="show">Up WSteve Kornacki</field>
+<field name="showid">MSNBCW_20140126_130000_Up_WSteve_Kornacki</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140126_130000_Up_WSteve_Kornacki/MSNBCW_20140126_130000_Up_WSteve_Kornacki.thumbs/MSNBCW_20140126_130000_Up_WSteve_Kornacki_005625.jpg</field>
+<field name="snippet">it was this time last year president obama laid out a bold agenda in his state of the union address to congress. i urge this congress to get together, pursue a bipartisan market based solution to climate change. send me a comprehensive immigration reform bill in the next few months and i will sign</field>
+</doc>
+</add>

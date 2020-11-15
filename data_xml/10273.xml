@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201511.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151130_220000_The_Five#start/78/end/113</field>
+<field name="datetime">11/30/2015 22:01:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20151130_220000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151130_220000_The_Five/FOXNEWSW_20151130_220000_The_Five.thumbs/FOXNEWSW_20151130_220000_The_Five_000075.jpg</field>
+<field name="snippet">while the future of the planet is at stake, mr. president, it's threatened by jihadism, not the weather. president obama today announced the united states is, quote, the second largest emitter while suggesting climate change is the</field>
+</doc>
+</add>

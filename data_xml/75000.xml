@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200105_010000_BBC_News#start/620/end/655</field>
+<field name="datetime">1/5/2020 1:10:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200105_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200105_010000_BBC_News/BBCNEWS_20200105_010000_BBC_News.thumbs/BBCNEWS_20200105_010000_BBC_News_000598.jpg</field>
+<field name="snippet">be undertaken over the coming days and weeks. climate change and its link to the severity of these fires is at the heart of discussion and debate in australia and as fires continue to burn many are looking toward the years ahead and how</field>
+</doc>
+</add>

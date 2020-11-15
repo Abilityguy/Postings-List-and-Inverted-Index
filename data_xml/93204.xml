@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190725_090000_Victoria_Derbyshire#start/3244/end/3279</field>
+<field name="datetime">7/25/2019 9:54:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20190725_090000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190725_090000_Victoria_Derbyshire/BBCNEWS_20190725_090000_Victoria_Derbyshire.thumbs/BBCNEWS_20190725_090000_Victoria_Derbyshire_003237.jpg</field>
+<field name="snippet">highest ever temperatures yesterday, with the met office warning that heatwaves are on the increase as a result of climate change. louise</field>
+</doc>
+</add>

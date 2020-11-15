@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171117_050000_The_Briefing#start/326/end/361</field>
+<field name="datetime">11/17/2017 5:05:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20171117_050000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171117_050000_The_Briefing/BBCNEWS_20171117_050000_The_Briefing.thumbs/BBCNEWS_20171117_050000_The_Briefing_000328.jpg</field>
+<field name="snippet">talks aimed at forming a new coalition government in germany are due to resume later, after failing to meet a deadline set by chancellor merkel. the parties decided to halt the talks for several hours after failing to make progress on issues, including climate change and migration.</field>
+</doc>
+</add>

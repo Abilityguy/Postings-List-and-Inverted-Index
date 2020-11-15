@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201008.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100828_090000_The_OReilly_Factor#start/3225/end/3260</field>
+<field name="datetime">8/28/2010 9:54:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20100828_090000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100828_090000_The_OReilly_Factor/FOXNEWS_20100828_090000_The_OReilly_Factor.thumbs/FOXNEWS_20100828_090000_The_OReilly_Factor_003203.jpg</field>
+<field name="snippet">the solution to the financial crisis, national security crisis, the debt crisis and the climate crisis. [ applause ] they are all connected. sean: since the 2006 debut of 'inconvenient truth' the business of global warming has</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190517_233000_Living_Rough#start/7/end/42</field>
+<field name="datetime">5/17/2019 23:30:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Living Rough</field>
+<field name="showid">BBCNEWS_20190517_233000_Living_Rough</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190517_233000_Living_Rough/BBCNEWS_20190517_233000_Living_Rough.thumbs/BBCNEWS_20190517_233000_Living_Rough_000028.jpg</field>
+<field name="snippet">polling stations have opened in australia's general election, a nalysts a re australia's general election, analysts are predicting x to be the closest in many years with climate change in immigration being issues. us and canada have scrapped aluminium and steel tariffs imposed just under a year ago. it could pave</field>
+</doc>
+</add>

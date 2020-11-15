@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_050000_Breakfast#start/308/end/343</field>
+<field name="datetime">9/20/2019 5:05:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190920_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_050000_Breakfast/BBCNEWS_20190920_050000_Breakfast.thumbs/BBCNEWS_20190920_050000_Breakfast_000298.jpg</field>
+<field name="snippet">more than 5000 demonstrations are planned in more than 150 countries. those involved are calling for governments to take more urgent action to halt global warming.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201709.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170911_140000_BBC_News#start/813/end/848</field>
+<field name="datetime">9/11/2017 14:13:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170911_140000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170911_140000_BBC_News/BBCNEWS_20170911_140000_BBC_News.thumbs/BBCNEWS_20170911_140000_BBC_News_000807.jpg</field>
+<field name="snippet">joining me now is professor michael grubb - professor of international energy and climate change policy at ucl. your reaction to this report. it is positive, isn't it? not a report. it</field>
+</doc>
+</add>

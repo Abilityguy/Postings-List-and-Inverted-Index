@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201412.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20141219_180000_Ronan_Farrow_Daily#start/3398/end/3433</field>
+<field name="datetime">12/19/2014 18:56:53</field>
+<field name="station">MSNBC</field>
+<field name="show">Ronan Farrow Daily</field>
+<field name="showid">MSNBCW_20141219_180000_Ronan_Farrow_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20141219_180000_Ronan_Farrow_Daily/MSNBCW_20141219_180000_Ronan_Farrow_Daily.thumbs/MSNBCW_20141219_180000_Ronan_Farrow_Daily_003375.jpg</field>
+<field name="snippet">we are leading the global effort to fight ebola in west africa. we are preventing an outbreak from taking place here at home. we're ledding efforts to address climate change, including last month's joint announcement with china that's already</field>
+</doc>
+</add>

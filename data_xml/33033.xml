@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091207_210000_Your_World_With_Neil_Cavuto#start/346/end/381</field>
+<field name="datetime">12/7/2009 21:06:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWS_20091207_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091207_210000_Your_World_With_Neil_Cavuto/FOXNEWS_20091207_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWS_20091207_210000_Your_World_With_Neil_Cavuto_000326.jpg</field>
+<field name="snippet">how did the folks who dispute global warming -- how deep do they think this conspiracy goes? virtually every reputable scientific organization, every university on the world believes that we have an issue with global warming and that it is at least partially man-made. how does the conspiracy go?</field>
+</doc>
+</add>

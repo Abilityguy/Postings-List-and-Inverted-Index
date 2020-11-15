@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190923_190000_BBC_News#start/3605/end/3640</field>
+<field name="datetime">9/23/2019 20:00:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190923_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190923_190000_BBC_News/BBCNEWS_20190923_190000_BBC_News.thumbs/BBCNEWS_20190923_190000_BBC_News_003538.jpg</field>
+<field name="snippet">it says unsettled thanks to low pressure. it could turn a bit cooler for a time as well across the north of the uk into the weekend. hello, i'm nuala mcgovern, this is 0utside source. at a climate change summit of world leaders in new york,</field>
+</doc>
+</add>

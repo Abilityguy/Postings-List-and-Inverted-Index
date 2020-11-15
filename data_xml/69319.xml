@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201201.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120114_120000_Up_W_Chris_Hayes#start/5825/end/5860</field>
+<field name="datetime">1/14/2012 13:37:20</field>
+<field name="station">MSNBC</field>
+<field name="show">Up W Chris Hayes</field>
+<field name="showid">MSNBCW_20120114_120000_Up_W_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120114_120000_Up_W_Chris_Hayes/MSNBCW_20120114_120000_Up_W_Chris_Hayes.thumbs/MSNBCW_20120114_120000_Up_W_Chris_Hayes_005816.jpg</field>
+<field name="snippet">in the climate change debate, we were at the center of the attacks against the science. i chose to not shrink from that situation, but to try to use it, to try to use the fact we were</field>
+</doc>
+</add>

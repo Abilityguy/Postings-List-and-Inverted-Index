@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200911.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091124_180000_Andrea_Mitchell_Reports#start/0/end/34</field>
+<field name="datetime">11/24/2009 18:00:14</field>
+<field name="station">MSNBC</field>
+<field name="show">Andrea Mitchell Reports</field>
+<field name="showid">MSNBC_20091124_180000_Andrea_Mitchell_Reports</field>
+<field name="preview">https://archive.org/download/MSNBC_20091124_180000_Andrea_Mitchell_Reports/MSNBC_20091124_180000_Andrea_Mitchell_Reports.thumbs/MSNBC_20091124_180000_Andrea_Mitchell_Reports_000053.jpg</field>
+<field name="snippet">today with prime minister singh, india's tense relationship with pakistan, nuclear weapons, climate change and the global recession. just for fun, tonight's glitzy state dinner. a black tie dinner for 400 special guests in a tent pitched in the back yard.</field>
+</doc>
+</add>

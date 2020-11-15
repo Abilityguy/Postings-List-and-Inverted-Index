@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201610.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161012_170000_Happening_Now#start/221/end/256</field>
+<field name="datetime">10/12/2016 17:03:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20161012_170000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161012_170000_Happening_Now/FOXNEWSW_20161012_170000_Happening_Now.thumbs/FOXNEWSW_20161012_170000_Happening_Now_000207.jpg</field>
+<field name="snippet">voters on the topic of climate change. she had a victory in florida. the judge in tallahassee sided with the democrats to extend the voter registration deadline to next week. more than a million people were</field>
+</doc>
+</add>

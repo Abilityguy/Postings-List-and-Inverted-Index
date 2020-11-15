@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091212_070000_Glenn_Beck#start/2215/end/2250</field>
+<field name="datetime">12/12/2009 7:37:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20091212_070000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091212_070000_Glenn_Beck/FOXNEWS_20091212_070000_Glenn_Beck.thumbs/FOXNEWS_20091212_070000_Glenn_Beck_002190.jpg</field>
+<field name="snippet">the epa now has ruled that carbon dioxide and five other greenhouse gases endanger humans and must be regulated. how dangerous is this gas? we breathe it out! now the feds can regulate the</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170512_040000_BBC_News#start/344/end/379</field>
+<field name="datetime">5/12/2017 4:05:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170512_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170512_040000_BBC_News/BBCNEWS_20170512_040000_BBC_News.thumbs/BBCNEWS_20170512_040000_BBC_News_000328.jpg</field>
+<field name="snippet">even tougher. bbc news. let's take a look at some of the other stories making the news. the us will consider its own interests first as it reviews its climate change policy, that's according to secretary of state, rex tillerson. he told a meeting of the eight arctic nations in alaska that america would not rush</field>
+</doc>
+</add>

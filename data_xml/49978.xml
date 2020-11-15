@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180614_000000_Tucker_Carlson_Tonight#start/1774/end/1809</field>
+<field name="datetime">6/14/2018 0:29:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20180614_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180614_000000_Tucker_Carlson_Tonight/FOXNEWSW_20180614_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20180614_000000_Tucker_Carlson_Tonight_001767.jpg</field>
+<field name="snippet">when it comes to climate change and what we can do to reduce our impact. tucker: i am actually in favor of a clean environment. so i wonder why, have you noticed this? places that spend of the most energy telling the rest of us</field>
+</doc>
+</add>

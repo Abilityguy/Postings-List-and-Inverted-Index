@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191227_063000_Weather_World#start/1218/end/1253</field>
+<field name="datetime">12/27/2019 6:50:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20191227_063000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191227_063000_Weather_World/BBCNEWS_20191227_063000_Weather_World.thumbs/BBCNEWS_20191227_063000_Weather_World_001198.jpg</field>
+<field name="snippet">and amidst all of that background of heat, flooding and storms, 2019 has really been a year of political activism, public activism as well when it comes to climate change, more awareness about that, hasn't it? we've seen young people around</field>
+</doc>
+</add>

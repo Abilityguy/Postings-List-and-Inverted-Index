@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190511_100000_Fox_and_Friends_Saturday#start/4058/end/4093</field>
+<field name="datetime">5/11/2019 11:07:53</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20190511_100000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190511_100000_Fox_and_Friends_Saturday/FOXNEWSW_20190511_100000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20190511_100000_Fox_and_Friends_Saturday_004048.jpg</field>
+<field name="snippet">pete: is he running? griff: urgent crisis middle ground approaches and half measures won't cut it we need large scale mobile sation to defeat climate change and grow millions of jobs. i talked to brian brenberg</field>
+</doc>
+</add>

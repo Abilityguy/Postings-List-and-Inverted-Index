@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091220_043000_FOX_News_Watch#start/686/end/721</field>
+<field name="datetime">12/20/2009 4:41:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Watch</field>
+<field name="showid">FOXNEWS_20091220_043000_FOX_News_Watch</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091220_043000_FOX_News_Watch/FOXNEWS_20091220_043000_FOX_News_Watch.thumbs/FOXNEWS_20091220_043000_FOX_News_Watch_000686.jpg</field>
+<field name="snippet">world climate and the press was there giving lots of attention to concerns over global warming, maybe not as much an attention to scientists thinking they were not right. many calling them deniers. let's talk about that, we</field>
+</doc>
+</add>

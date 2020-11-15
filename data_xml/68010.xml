@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190226_060000_Breakfast#start/3055/end/3090</field>
+<field name="datetime">2/26/2019 6:51:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190226_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190226_060000_Breakfast/BBCNEWS_20190226_060000_Breakfast.thumbs/BBCNEWS_20190226_060000_Breakfast_003057.jpg</field>
+<field name="snippet">let's speak to climate change expert tom burke in our london newsroom to find out more. so many people sort of enjoying the weather that you have concerns, do you? this is exactly what climate</field>
+</doc>
+</add>

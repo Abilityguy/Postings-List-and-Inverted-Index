@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201909.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190905_190000_MSNBC_Live_With_Ali_Velshi#start/2442/end/2477</field>
+<field name="datetime">9/5/2019 19:40:57</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190905_190000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190905_190000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190905_190000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190905_190000_MSNBC_Live_With_Ali_Velshi_002428.jpg</field>
+<field name="snippet">coast or inland with the unpress debited surm storms and floods and heat waves and wildfires we have seen in recent years, the impacts of climate change are no longer subtle. we can see them with our own two</field>
+</doc>
+</add>

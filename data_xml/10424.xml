@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201511.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151129_100000_Fox_Report_Saturday#start/1963/end/1998</field>
+<field name="datetime">11/29/2015 10:32:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox Report Saturday</field>
+<field name="showid">FOXNEWSW_20151129_100000_Fox_Report_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151129_100000_Fox_Report_Saturday/FOXNEWSW_20151129_100000_Fox_Report_Saturday.thumbs/FOXNEWSW_20151129_100000_Fox_Report_Saturday_001965.jpg</field>
+<field name="snippet">meeting. julie. security is on high alert as it remains this weekend in paris. and world leaders gather for an international summit on climate change. many roaded around the site are</field>
+</doc>
+</add>

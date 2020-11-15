@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201509.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150923_100000_Morning_Joe#start/8056/end/8091</field>
+<field name="datetime">9/23/2015 12:14:31</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20150923_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150923_100000_Morning_Joe/MSNBCW_20150923_100000_Morning_Joe.thumbs/MSNBCW_20150923_100000_Morning_Joe_008055.jpg</field>
+<field name="snippet">is, a distraction from the important work we have to do to combat climate change and, unfortunately, from my perspective, one that interferes with our ability to move forward to deal with all the other issues. therefore, i oppose it.</field>
+</doc>
+</add>

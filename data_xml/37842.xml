@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091024_080000_Special_Report_With_Bret_Baier#start/1068/end/1103</field>
+<field name="datetime">10/24/2009 8:18:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091024_080000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091024_080000_Special_Report_With_Bret_Baier/FOXNEWS_20091024_080000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091024_080000_Special_Report_With_Bret_Baier_001045.jpg</field>
+<field name="snippet">next-generation battery, wind and solar technology, attempting to make the point that going green is the key to economic recovery and vital to fighting climate change. the system of energy that powers our economy undermines our security and endangers our</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170808_090000_Fox_and_Friends_First#start/1578/end/1613</field>
+<field name="datetime">8/8/2017 9:26:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20170808_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170808_090000_Fox_and_Friends_First/FOXNEWSW_20170808_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20170808_090000_Fox_and_Friends_First_001557.jpg</field>
+<field name="snippet">the month. political revolution. al gore's new global warming documentary is not doing so hot at the box office.</field>
+</doc>
+</add>

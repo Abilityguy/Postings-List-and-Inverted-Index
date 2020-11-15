@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190314_190000_Shepard_Smith_Reporting#start/1232/end/1267</field>
+<field name="datetime">3/14/2019 19:20:47</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20190314_190000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190314_190000_Shepard_Smith_Reporting/FOXNEWSW_20190314_190000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20190314_190000_Shepard_Smith_Reporting_001227.jpg</field>
+<field name="snippet">coffee shop. fresh off the announcement that beto o'rourke was indeed in the big fight. at every stop, he has been talking about climate change as a crisis. here he spoke about the tax cuts, which he believes unfairly</field>
+</doc>
+</add>

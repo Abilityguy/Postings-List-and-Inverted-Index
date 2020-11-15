@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191112_060000_Breakfast#start/5389/end/5424</field>
+<field name="datetime">11/12/2019 7:30:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191112_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191112_060000_Breakfast/BBCNEWS_20191112_060000_Breakfast.thumbs/BBCNEWS_20191112_060000_Breakfast_005369.jpg</field>
+<field name="snippet">bbc news, with sally bundock and tim willcox. sailing under the radar - shipping is responsible for three percent of global greenhouse gas emissions. what can be done? live from london, that's our top story on</field>
+</doc>
+</add>

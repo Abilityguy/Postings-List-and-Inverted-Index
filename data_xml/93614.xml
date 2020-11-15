@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190706_200000_World_News_Today#start/1143/end/1178</field>
+<field name="datetime">7/6/2019 20:19:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190706_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190706_200000_World_News_Today/BBCNEWS_20190706_200000_World_News_Today.thumbs/BBCNEWS_20190706_200000_World_News_Today_001138.jpg</field>
+<field name="snippet">threatened by climate change, say conservationists. well, the treasures of 0rkney have weathered the elements for thousands of years, and so it is tempting to think of them as robust. but scientists say they're actually more fragile than that,</field>
+</doc>
+</add>

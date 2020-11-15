@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170106_170000_BBC_News_at_Five#start/1515/end/1550</field>
+<field name="datetime">1/6/2017 17:25:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20170106_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170106_170000_BBC_News_at_Five/BBCNEWS_20170106_170000_BBC_News_at_Five.thumbs/BBCNEWS_20170106_170000_BBC_News_at_Five_001498.jpg</field>
+<field name="snippet">the new iceberg will be one of the biggest recorded - around 50 times the size of manhattan island. but despite concerns about the impact of global warning, researchers they receive no evidence evidence that climate change is playing any significant role in the new iceberg's formation.</field>
+</doc>
+</add>

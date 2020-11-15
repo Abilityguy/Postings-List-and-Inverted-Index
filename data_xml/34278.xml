@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091201_020000_Hannity#start/1648/end/1683</field>
+<field name="datetime">12/1/2009 2:27:43</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20091201_020000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091201_020000_Hannity/FOXNEWS_20091201_020000_Hannity.thumbs/FOXNEWS_20091201_020000_Hannity_001650.jpg</field>
+<field name="snippet">hannity's america. president obama is gearing up for the copenhagen climate change conference, but how big of a carbon footprint will that conference itself leave behind? those details in 90 short seconds.</field>
+</doc>
+</add>

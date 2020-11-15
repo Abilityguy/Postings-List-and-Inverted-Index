@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180609_230000_BBC_News#start/751/end/786</field>
+<field name="datetime">6/9/2018 23:12:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180609_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180609_230000_BBC_News/BBCNEWS_20180609_230000_BBC_News.thumbs/BBCNEWS_20180609_230000_BBC_News_000747.jpg</field>
+<field name="snippet">the ceasefire put on the table by fighters like these. the peace offer doesn't apply to the 15000 foreign forces still stationed in the country. pope francis has told oil executives that climate change is a challenge</field>
+</doc>
+</add>

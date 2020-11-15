@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181005_120000_BBC_News_at_One#start/1314/end/1349</field>
+<field name="datetime">10/5/2018 12:22:09</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20181005_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181005_120000_BBC_News_at_One/BBCNEWS_20181005_120000_BBC_News_at_One.thumbs/BBCNEWS_20181005_120000_BBC_News_at_One_001287.jpg</field>
+<field name="snippet">we're waiting for a report from the un climate panel looking into the implications of trying to limit global warming in the way vietnam and other countries want. we'll see if that is going to be possible. david shukman there in vietnam.</field>
+</doc>
+</add>

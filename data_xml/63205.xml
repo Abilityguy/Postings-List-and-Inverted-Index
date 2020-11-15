@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190308_020000_BBC_News#start/1302/end/1337</field>
+<field name="datetime">3/8/2019 2:21:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190308_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190308_020000_BBC_News/BBCNEWS_20190308_020000_BBC_News.thumbs/BBCNEWS_20190308_020000_BBC_News_001289.jpg</field>
+<field name="snippet">conditions, we have this rain. this scientist, jason box, needed shelter from the rain on the ice sheet, and he says that global warming will make rainfall more likely in future. there is a simple threshold, the melting point.</field>
+</doc>
+</add>

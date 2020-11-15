@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190613_013000_Wednesday_in_Parliament#start/1427/end/1462</field>
+<field name="datetime">6/13/2019 1:54:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Wednesday in Parliament</field>
+<field name="showid">BBCNEWS_20190613_013000_Wednesday_in_Parliament</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190613_013000_Wednesday_in_Parliament/BBCNEWS_20190613_013000_Wednesday_in_Parliament.thumbs/BBCNEWS_20190613_013000_Wednesday_in_Parliament_001408.jpg</field>
+<field name="snippet">wages growing faster than inflation, a record cash boost for the nhs, better mental health support, more homes being built, stamp duty cut, higher standards in our schools, and leading the world on climate change!</field>
+</doc>
+</add>

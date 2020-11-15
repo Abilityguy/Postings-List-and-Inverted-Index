@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190420_233000_Newsbeat_Documentaries#start/33/end/68</field>
+<field name="datetime">4/20/2019 23:30:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsbeat Documentaries</field>
+<field name="showid">BBCNEWS_20190420_233000_Newsbeat_Documentaries</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190420_233000_Newsbeat_Documentaries/BBCNEWS_20190420_233000_Newsbeat_Documentaries.thumbs/BBCNEWS_20190420_233000_Newsbeat_Documentaries_000029.jpg</field>
+<field name="snippet">the metropolitan police commissioner has called on climate change protesters in central london to go home. hundred of protesters have been illegally occupying marble arch, parliament square and waterloo bridge since monday. over 1000 officers have been on duty</field>
+</doc>
+</add>

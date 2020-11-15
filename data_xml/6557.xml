@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190916_120000_BBC_News_at_One#start/711/end/746</field>
+<field name="datetime">9/16/2019 12:12:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190916_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190916_120000_BBC_News_at_One/BBCNEWS_20190916_120000_BBC_News_at_One.thumbs/BBCNEWS_20190916_120000_BBC_News_at_One_000688.jpg</field>
+<field name="snippet">people in cities. forests are a flame in brazil as well, and also in australia, way ahead of the usual wildfire season. professor king says we cannot prove a link yet with human driven climate change, but it would be foolish to assume these</field>
+</doc>
+</add>

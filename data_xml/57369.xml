@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201805.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180508_040000_Tucker_Carlson_Tonight#start/1020/end/1055</field>
+<field name="datetime">5/8/2018 4:17:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20180508_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180508_040000_Tucker_Carlson_Tonight/FOXNEWSW_20180508_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20180508_040000_Tucker_Carlson_Tonight_001018.jpg</field>
+<field name="snippet">i know you don't believe in climate change. but a storm is coming. tucker: stormy daniels. she was deeply traumatized by her relationship with the president and 130000.</field>
+</doc>
+</add>

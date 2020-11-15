@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201211.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121111_200000_MSNBC_Live#start/3653/end/3688</field>
+<field name="datetime">11/11/2012 21:01:08</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20121111_200000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121111_200000_MSNBC_Live/MSNBCW_20121111_200000_MSNBC_Live.thumbs/MSNBCW_20121111_200000_MSNBC_Live_003628.jpg</field>
+<field name="snippet">about how we tackle global warming. plus, voters in colorado and washington state will be able to light up legally very soon. but will that really fly with the feds? we'll talk about pot. then later, don't think that just because the election is</field>
+</doc>
+</add>

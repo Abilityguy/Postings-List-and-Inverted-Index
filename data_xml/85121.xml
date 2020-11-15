@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201205.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120507_100000_Morning_Joe#start/8235/end/8270</field>
+<field name="datetime">5/7/2012 12:17:30</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20120507_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120507_100000_Morning_Joe/MSNBCW_20120507_100000_Morning_Joe.thumbs/MSNBCW_20120507_100000_Morning_Joe_008220.jpg</field>
+<field name="snippet">four in ten believe cutting taxes is the key to growth. only 19% say government spending. and on the top ten issues, you're right, creating jobs is one, but then it's reducing the deficit, lowering the debt burden, energy independence, health care, on down, and climate change is last.</field>
+</doc>
+</add>

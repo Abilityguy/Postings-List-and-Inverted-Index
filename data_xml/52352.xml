@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181215_060000_Breakfast#start/786/end/821</field>
+<field name="datetime">12/15/2018 6:13:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181215_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181215_060000_Breakfast/BBCNEWS_20181215_060000_Breakfast.thumbs/BBCNEWS_20181215_060000_Breakfast_000777.jpg</field>
+<field name="snippet">brexit, saying the process is in danger of getting stuck. another set of talks going on in europe, not just the brexit talks in brussels, but 200 countries trying to reach an agreement on how to deal with climate change at a summit in</field>
+</doc>
+</add>

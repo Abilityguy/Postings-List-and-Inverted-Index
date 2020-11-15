@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201510.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151013_070000_Red_Eye#start/3622/end/3657</field>
+<field name="datetime">10/13/2015 8:00:37</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWSW_20151013_070000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151013_070000_Red_Eye/FOXNEWSW_20151013_070000_Red_Eye.thumbs/FOXNEWSW_20151013_070000_Red_Eye_003555.jpg</field>
+<field name="snippet">climate change as an example of his global leadership. this is 'special report.' good evening and welcome to washington. i'm bret baier.</field>
+</doc>
+</add>

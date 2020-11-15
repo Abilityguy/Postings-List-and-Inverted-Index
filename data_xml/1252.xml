@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170527_010000_BBC_News#start/697/end/732</field>
+<field name="datetime">5/27/2017 1:11:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170527_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170527_010000_BBC_News/BBCNEWS_20170527_010000_BBC_News.thumbs/BBCNEWS_20170527_010000_BBC_News_000687.jpg</field>
+<field name="snippet">leaders of the world's leading industrial nations, the g7, have agreed on new action to counter terrorism. at a summit in italy they called on internet companies to do more to stop the spread of hateful extremist content online. but the leaders were unable to reach an agreement on climate change - with differences remaining                 _</field>
+</doc>
+</add>

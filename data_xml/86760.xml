@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191201_130000_BBC_News#start/1700/end/1735</field>
+<field name="datetime">12/1/2019 13:28:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191201_130000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191201_130000_BBC_News/BBCNEWS_20191201_130000_BBC_News.thumbs/BBCNEWS_20191201_130000_BBC_News_001678.jpg</field>
+<field name="snippet">for greater political will to tackle climate change. he was speaking ahead of the 2019 un climate change conference, known as cop25, which formally begins in madrid tomorrow. mr guterres praised young people for their efforts to improve the environment and said subsidies</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100215_230000_Special_Report_With_Bret_Baier#start/1827/end/1862</field>
+<field name="datetime">2/15/2010 23:30:42</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100215_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100215_230000_Special_Report_With_Bret_Baier/FOXNEWS_20100215_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100215_230000_Special_Report_With_Bret_Baier_001824.jpg</field>
+<field name="snippet">significant global warming since 1995. professor phil jones also tells the bbc that scientists are unsure whether the mid evil warm period was actually warmer than current temperatures. some skeptics say that is the</field>
+</doc>
+</add>

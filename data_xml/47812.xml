@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201511.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151110_110000_Morning_Joe#start/10575/end/10610</field>
+<field name="datetime">11/10/2015 13:56:30</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20151110_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151110_110000_Morning_Joe/MSNBCW_20151110_110000_Morning_Joe.thumbs/MSNBCW_20151110_110000_Morning_Joe_010575.jpg</field>
+<field name="snippet">but it's almost 60 fahrenheit this morning in new york in november. so it issue is complicated or rather the physics or the science of climate change is complicated. when greenland loses ice as it's</field>
+</doc>
+</add>

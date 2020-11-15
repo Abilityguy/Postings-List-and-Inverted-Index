@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201309.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130918_220000_Special_Report_With_Bret_Baier#start/1495/end/1530</field>
+<field name="datetime">9/18/2013 22:25:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20130918_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130918_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20130918_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20130918_220000_Special_Report_With_Bret_Baier_001485.jpg</field>
+<field name="snippet">reporter: many recent storms, fires droughts have been blamed on climate change, but today's report finds a historical record of similar disasters long before manmade global warming was in anybody's lexicon. brett? thank you. officials in colorado are</field>
+</doc>
+</add>

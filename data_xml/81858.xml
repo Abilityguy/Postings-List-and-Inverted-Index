@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091219_130000_MSNBC_News_Live#start/1064/end/1099</field>
+<field name="datetime">12/19/2009 13:17:59</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091219_130000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091219_130000_MSNBC_News_Live/MSNBC_20091219_130000_MSNBC_News_Live.thumbs/MSNBC_20091219_130000_MSNBC_News_Live_001050.jpg</field>
+<field name="snippet">to deal with the effects of climate change. $100 billion is a lot of money. so, you know, to have any deal is important, but this has got to be the start of it, not the end. this is going to be a long ongoing set of negotiations. all right, richard. let's shift to the other major political story we're following</field>
+</doc>
+</add>

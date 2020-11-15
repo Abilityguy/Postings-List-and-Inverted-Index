@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190515_210000_BBC_News_at_Ten#start/1512/end/1547</field>
+<field name="datetime">5/15/2019 21:25:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20190515_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190515_210000_BBC_News_at_Ten/BBCNEWS_20190515_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20190515_210000_BBC_News_at_Ten_001498.jpg</field>
+<field name="snippet">and they can work together, to help feed and protect each other. well now for the first time, a major international study of millions of trees has mapped this underground network. and as claire marshall reports, it shows how trees might be planted in the future, to help limit the effects of climate change.</field>
+</doc>
+</add>

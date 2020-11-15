@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190123_050000_Tucker_Carlson_Tonight#start/1534/end/1569</field>
+<field name="datetime">1/23/2019 5:25:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190123_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190123_050000_Tucker_Carlson_Tonight/FOXNEWSW_20190123_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190123_050000_Tucker_Carlson_Tonight_001528.jpg</field>
+<field name="snippet">global warming, it's apocalyptic, we're all going to die and these people are not called to account when in fact the ice caps don't melt, we are still here, the studio isn't</field>
+</doc>
+</add>

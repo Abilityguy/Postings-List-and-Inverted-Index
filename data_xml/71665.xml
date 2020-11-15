@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190130_060000_Hannity#start/124/end/159</field>
+<field name="datetime">1/30/2019 6:02:19</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20190130_060000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190130_060000_Hannity/FOXNEWSW_20190130_060000_Hannity.thumbs/FOXNEWSW_20190130_060000_Hannity_000118.jpg</field>
+<field name="snippet">whatever that means. watch this. i support a green new deal and i will tell you why. climate change is an existential threat to us, and we have to deal with the reality of it. sean: hold on, the t</field>
+</doc>
+</add>

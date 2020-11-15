@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180807_100000_BBC_Newsroom_Live#start/5664/end/5699</field>
+<field name="datetime">8/7/2018 11:34:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20180807_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180807_100000_BBC_Newsroom_Live/BBCNEWS_20180807_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20180807_100000_BBC_Newsroom_Live_005667.jpg</field>
+<field name="snippet">levels of climate change which could make some areas uninhabitable. the study comes amid a record-breaking summer heatwave here in the uk and massive wildfires in many parts of the world.</field>
+</doc>
+</add>

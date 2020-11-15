@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201901.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190131_220000_MTP_Daily#start/1688/end/1723</field>
+<field name="datetime">1/31/2019 22:28:23</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20190131_220000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190131_220000_MTP_Daily/MSNBCW_20190131_220000_MTP_Daily.thumbs/MSNBCW_20190131_220000_MTP_Daily_001678.jpg</field>
+<field name="snippet">struggled to convince your constituents of a carbon tax. we have seen the yellow vest protests in paris and other parts of france that say i want to deal with climate change, but don't make me pay for it. and this will be on my back.</field>
+</doc>
+</add>

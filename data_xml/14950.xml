@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201312.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20131231_040000_The_OReilly_Factor#start/3038/end/3073</field>
+<field name="datetime">12/31/2013 4:50:53</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20131231_040000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20131231_040000_The_OReilly_Factor/FOXNEWSW_20131231_040000_The_OReilly_Factor.thumbs/FOXNEWSW_20131231_040000_The_OReilly_Factor_003015.jpg</field>
+<field name="snippet">sending out stories, emails, photos of videos of themselves. a number of the people on board are there to investigate global warming issues, problems with ice shrinkage, melting.</field>
+</doc>
+</add>

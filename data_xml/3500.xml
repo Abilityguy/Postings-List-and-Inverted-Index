@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201506.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150619_080000_The_OReilly_Factor#start/3281/end/3316</field>
+<field name="datetime">6/19/2015 8:54:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20150619_080000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150619_080000_The_OReilly_Factor/FOXNEWSW_20150619_080000_The_OReilly_Factor.thumbs/FOXNEWSW_20150619_080000_The_OReilly_Factor_003255.jpg</field>
+<field name="snippet">attack on global warming. for example the european union is going to spend a quarter of a trillion dollars in reducing its emissions by 20% by the end of the decade. and that, you know what effect it's going to have on the climate?</field>
+</doc>
+</add>

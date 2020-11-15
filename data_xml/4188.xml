@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201102.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110209_160000_Happening_Now#start/1935/end/1970</field>
+<field name="datetime">2/9/2011 16:32:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20110209_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110209_160000_Happening_Now/FOXNEWS_20110209_160000_Happening_Now.thumbs/FOXNEWS_20110209_160000_Happening_Now_001914.jpg</field>
+<field name="snippet">regulate greenhouse gases, carbon emissions from energy. democrats argue the new regulations will create lots of new jobs. republicans argue the regulations will simply send those jobs overseas. jon: jim angle in washington. thank you. jenna: a major mystery uncovered</field>
+</doc>
+</add>

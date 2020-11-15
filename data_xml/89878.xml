@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201401.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140131_190000_NewsNation#start/508/end/543</field>
+<field name="datetime">1/31/2014 19:08:43</field>
+<field name="station">MSNBC</field>
+<field name="show">NewsNation</field>
+<field name="showid">MSNBCW_20140131_190000_NewsNation</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140131_190000_NewsNation/MSNBCW_20140131_190000_NewsNation.thumbs/MSNBCW_20140131_190000_NewsNation_000495.jpg</field>
+<field name="snippet">report says it does not significantly exacerbate the problem of climate change, you would think the president would approve this. of course, we don't know exactly where the president's head is on this, but it's a significant step forward.</field>
+</doc>
+</add>

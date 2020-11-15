@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201412.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141230_160000_Happening_Now#start/3379/end/3414</field>
+<field name="datetime">12/30/2014 16:56:34</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20141230_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141230_160000_Happening_Now/FOXNEWSW_20141230_160000_Happening_Now.thumbs/FOXNEWSW_20141230_160000_Happening_Now_003375.jpg</field>
+<field name="snippet">may play well into the hands of skeptics who have seen global warming fears as religious in fervor with biblical themes of eden-like planet tarnished by man, followed by loss of grace and coming doomsday.</field>
+</doc>
+</add>

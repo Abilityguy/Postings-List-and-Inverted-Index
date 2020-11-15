@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170410_040000_BBC_News#start/448/end/483</field>
+<field name="datetime">4/10/2017 4:07:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170410_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170410_040000_BBC_News/BBCNEWS_20170410_040000_BBC_News.thumbs/BBCNEWS_20170410_040000_BBC_News_000448.jpg</field>
+<field name="snippet">agenda include climate change, immigration and energy security, in fact g7 energy ministers are currently holding a seperate meeting in rome. a hugo. more on this. bet you can't</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190419_190000_BBC_News#start/37/end/72</field>
+<field name="datetime">4/19/2019 19:00:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190419_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190419_190000_BBC_News/BBCNEWS_20190419_190000_BBC_News.thumbs/BBCNEWS_20190419_190000_BBC_News_000027.jpg</field>
+<field name="snippet">an american couple, who tortured their 13 children in a so called 'house of horrors', are sentenced to life in prison. police step up their tactics against climate change protesters in london,</field>
+</doc>
+</add>

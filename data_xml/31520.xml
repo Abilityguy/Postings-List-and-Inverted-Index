@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090712_060000_Huckabee#start/417/end/452</field>
+<field name="datetime">7/12/2009 6:07:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Huckabee</field>
+<field name="showid">FOXNEWS_20090712_060000_Huckabee</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090712_060000_Huckabee/FOXNEWS_20090712_060000_Huckabee.thumbs/FOXNEWS_20090712_060000_Huckabee_000416.jpg</field>
+<field name="snippet">mike: there is some debate as to whether we are getting warmer, whether there is climate change and who is affecting it. when i was in college the world was coming to a deep freeze so there is this difference. there is this point we can agree on. the boy scout rule. the boy scout rule is that your campsite in better shape than you found it.</field>
+</doc>
+</add>

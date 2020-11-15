@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181126_110000_BBC_Newsroom_Live#start/5330/end/5365</field>
+<field name="datetime">11/26/2018 12:29:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20181126_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181126_110000_BBC_Newsroom_Live/BBCNEWS_20181126_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20181126_110000_BBC_Newsroom_Live_005307.jpg</field>
+<field name="snippet">information. the more we know the greater our ability to shape events for the better. but also, the heavier the responsibility to act. when it comes to climate change, thanks to the effort of uk scientists, we know more than ever before the urgency of acting, which</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191222_210000_World_News_Today#start/479/end/514</field>
+<field name="datetime">12/22/2019 21:08:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20191222_210000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191222_210000_World_News_Today/BBCNEWS_20191222_210000_World_News_Today.thumbs/BBCNEWS_20191222_210000_World_News_Today_000479.jpg</field>
+<field name="snippet">let's take a look at some of the other stories making the news. australia's prime minister has defended his government's record on tackling climate change, as the country's unprecedented bushfires continue to burn. scott morrison conceded global warming had a part to play in changing weather events.</field>
+</doc>
+</add>

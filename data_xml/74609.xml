@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_050000_The_Briefing#start/939/end/974</field>
+<field name="datetime">1/16/2020 5:15:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20200116_050000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_050000_The_Briefing/BBCNEWS_20200116_050000_The_Briefing.thumbs/BBCNEWS_20200116_050000_The_Briefing_000928.jpg</field>
+<field name="snippet">which launches a year of special coverage on climate change on the bbc. the fires in australia are ferocious, out-of-control and far</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190320_220000_Special_Report_With_Bret_Baier#start/1892/end/1927</field>
+<field name="datetime">3/20/2019 22:31:47</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20190320_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190320_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20190320_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20190320_220000_Special_Report_With_Bret_Baier_001889.jpg</field>
+<field name="snippet">with the golden state considered ground zero for the anti-trump resistance and home to a famously liberal voter base, expect candidates to tailor their message for a mostly progressive electorates, hitting hard on issues like climate change, universal health care, and income</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201306.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130625_090000_First_Look#start/484/end/519</field>
+<field name="datetime">6/25/2013 9:08:19</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20130625_090000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130625_090000_First_Look/MSNBCW_20130625_090000_First_Look.thumbs/MSNBCW_20130625_090000_First_Look_000467.jpg</field>
+<field name="snippet">president obama talks about climate change today at georgetown university. he'll layout his vision for a comprehensive plan to reduce carbon pollution. the supreme court has agreed to rule on president obama's recess appointments, the high court will decide if presidents can fill cabinet vacancies and</field>
+</doc>
+</add>

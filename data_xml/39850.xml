@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091116_160000_Happening_Now#start/3770/end/3805</field>
+<field name="datetime">11/16/2009 17:03:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091116_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091116_160000_Happening_Now/FOXNEWS_20091116_160000_Happening_Now.thumbs/FOXNEWS_20091116_160000_Happening_Now_003750.jpg</field>
+<field name="snippet">with the chinese president. this is the third meeting between those two leaders. trade, climate change, and basketball trott -- topped the agenda.                 _</field>
+</doc>
+</add>

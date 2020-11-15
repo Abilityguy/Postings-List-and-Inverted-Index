@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171104_143000_Britains_Best_New_Building#start/136/end/171</field>
+<field name="datetime">11/4/2017 14:32:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Britains Best New Building</field>
+<field name="showid">BBCNEWS_20171104_143000_Britains_Best_New_Building</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171104_143000_Britains_Best_New_Building/BBCNEWS_20171104_143000_Britains_Best_New_Building.thumbs/BBCNEWS_20171104_143000_Britains_Best_New_Building_000118.jpg</field>
+<field name="snippet">has concluded that humans are the dominant cause of global warming. the white house has downplayed the conclusions. now on bbc news, david sillito reports on the shortlisted buildings, including the winner, for this year's riba stirling prize, one of the most prestigious</field>
+</doc>
+</add>

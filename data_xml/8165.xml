@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190924_040000_Tucker_Carlson_Tonight#start/53/end/88</field>
+<field name="datetime">9/24/2019 4:01:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190924_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190924_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190924_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190924_040000_Tucker_Carlson_Tonight_000059.jpg</field>
+<field name="snippet">relaxing moment you have for a while. we are about to wreck your peace of mind. it turns out that all is not well on this blue planet of ours, far from it. indeed it appears that the earth itself is facing what we are going to call tonight and existential threat from climate</field>
+</doc>
+</add>

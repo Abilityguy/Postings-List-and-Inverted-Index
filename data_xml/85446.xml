@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201011.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101110_050000_The_Rachel_Maddow_Show#start/2188/end/2223</field>
+<field name="datetime">11/10/2010 5:36:43</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBC_20101110_050000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20101110_050000_The_Rachel_Maddow_Show/MSNBC_20101110_050000_The_Rachel_Maddow_Show.thumbs/MSNBC_20101110_050000_The_Rachel_Maddow_Show_002184.jpg</field>
+<field name="snippet">despite the fact that it's been debunkeried by a series of independent investigations including one by the british parliament, this theory of a grave conspiracy to fool the world into thinking there is global warming when really there</field>
+</doc>
+</add>

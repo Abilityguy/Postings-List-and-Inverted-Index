@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201903.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190301_140000_MSNBC_Live_With_Stephanie_Ruhle#start/2386/end/2421</field>
+<field name="datetime">3/1/2019 14:40:01</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Stephanie Ruhle</field>
+<field name="showid">MSNBCW_20190301_140000_MSNBC_Live_With_Stephanie_Ruhle</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190301_140000_MSNBC_Live_With_Stephanie_Ruhle/MSNBCW_20190301_140000_MSNBC_Live_With_Stephanie_Ruhle.thumbs/MSNBCW_20190301_140000_MSNBC_Live_With_Stephanie_Ruhle_002369.jpg</field>
+<field name="snippet">we're the first generation to feel the sting of climate change. and we're the last that can do something about it. we went to the moon and created technologies that have changed the world. our country's next mission must be to rise up to the most urgent</field>
+</doc>
+</add>

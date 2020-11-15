@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201603.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160310_160000_MSNBC_Live_With_Tamron_Hall#start/858/end/893</field>
+<field name="datetime">3/10/2016 16:14:33</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Tamron Hall</field>
+<field name="showid">MSNBCW_20160310_160000_MSNBC_Live_With_Tamron_Hall</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160310_160000_MSNBC_Live_With_Tamron_Hall/MSNBCW_20160310_160000_MSNBC_Live_With_Tamron_Hall.thumbs/MSNBCW_20160310_160000_MSNBC_Live_With_Tamron_Hall_000837.jpg</field>
+<field name="snippet">the world stage and his country is leading on climate change and cares deeply about development so, from my perspective, what is not to like? of course, no two nations agree on everything. our countries are no different.</field>
+</doc>
+</add>

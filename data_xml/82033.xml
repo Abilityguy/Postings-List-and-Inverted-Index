@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201403.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140311_090000_First_Look#start/290/end/325</field>
+<field name="datetime">3/11/2014 9:05:05</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20140311_090000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140311_090000_First_Look/MSNBCW_20140311_090000_First_Look.thumbs/MSNBCW_20140311_090000_First_Look_000285.jpg</field>
+<field name="snippet">our average american. reporter: now, not all democrats were up there last night talking with climate change. take a look. these are some democrats who opted not to participate. interestingly, it they are also in tight races coming up in the</field>
+</doc>
+</add>

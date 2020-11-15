@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201102.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110206_170000_Americas_News_HQ#start/4391/end/4426</field>
+<field name="datetime">2/6/2011 18:13:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWS_20110206_170000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110206_170000_Americas_News_HQ/FOXNEWS_20110206_170000_Americas_News_HQ.thumbs/FOXNEWS_20110206_170000_Americas_News_HQ_004380.jpg</field>
+<field name="snippet">republicans win back the house with most of the 50-million-dollar campaign budget last year. their leaders say the president's health care overhaul and new greenhouse gas limits are bad for business. plus, last fall, the president says the chamber may have used foreign money to air attack ad</field>
+</doc>
+</add>

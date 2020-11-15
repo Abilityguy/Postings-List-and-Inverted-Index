@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201904.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190401_190000_MSNBC_Live_With_Ali_Velshi#start/1617/end/1652</field>
+<field name="datetime">4/1/2019 19:27:12</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190401_190000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190401_190000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190401_190000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190401_190000_MSNBC_Live_With_Ali_Velshi_001617.jpg</field>
+<field name="snippet">known for climate change. the changes that are happening are happening in just 30 to 50 years. reporter: so we made the trip 330 miles boabove the arctic circle and out onto the ice to</field>
+</doc>
+</add>

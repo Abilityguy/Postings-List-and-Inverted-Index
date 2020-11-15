@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201510.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151019_200000_Your_World_With_Neil_Cavuto#start/17/end/52</field>
+<field name="datetime">10/19/2015 20:00:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20151019_200000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151019_200000_Your_World_With_Neil_Cavuto/FOXNEWSW_20151019_200000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20151019_200000_Your_World_With_Neil_Cavuto_000045.jpg</field>
+<field name="snippet">you are looking live at the vice-president of the united states. he is addressing a climate change summit going on at the executive office building right next door to the white house. a place that maybe he will want to call home very soon if early indications are he has decided to go ahead and try for a</field>
+</doc>
+</add>

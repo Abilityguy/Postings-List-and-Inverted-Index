@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201702.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170213_030000_BBC_News#start/1123/end/1158</field>
+<field name="datetime">2/13/2017 3:18:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170213_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170213_030000_BBC_News/BBCNEWS_20170213_030000_BBC_News.thumbs/BBCNEWS_20170213_030000_BBC_News_001108.jpg</field>
+<field name="snippet">the state capital, where thousands of people have flocked to the beaches to cool off. while bushfires are not uncommon in australia's arid summer, climate change has pushed up average land and sea temperatures over the past century. australians are seeing a rising</field>
+</doc>
+</add>

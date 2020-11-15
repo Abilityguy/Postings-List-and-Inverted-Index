@@ -4,8 +4,8 @@ from os import listdir
 from os.path import isfile, join
 
 
-FOLDER_PATH_SOURCE = './archive'
-FOLDER_PATH_XML = './archive_xml'
+FOLDER_PATH_SOURCE = 'data'
+FOLDER_PATH_XML = 'data_xml'
 
 
 def read_folder(folder_path):

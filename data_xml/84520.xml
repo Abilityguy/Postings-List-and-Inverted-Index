@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190422_080000_BBC_News#start/1375/end/1410</field>
+<field name="datetime">4/22/2019 8:23:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190422_080000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190422_080000_BBC_News/BBCNEWS_20190422_080000_BBC_News.thumbs/BBCNEWS_20190422_080000_BBC_News_001347.jpg</field>
+<field name="snippet">i have no idea what day and what time it is! a week of climate change protests on waterloo bridge in london has been brought to an end by police, who removed the final activists from the site late last night. more than 960 people have been arrested in connection</field>
+</doc>
+</add>

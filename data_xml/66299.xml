@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201607.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160729_030000_MSNBC_-_Democratic_National_Convention#start/181/end/216</field>
+<field name="datetime">7/29/2016 3:03:16</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC - Democratic National Convention</field>
+<field name="showid">MSNBCW_20160729_030000_MSNBC_-_Democratic_National_Convention</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160729_030000_MSNBC_-_Democratic_National_Convention/MSNBCW_20160729_030000_MSNBC_-_Democratic_National_Convention.thumbs/MSNBCW_20160729_030000_MSNBC_-_Democratic_National_Convention_000178.jpg</field>
+<field name="snippet">and i believe in science! i believe climate change is real</field>
+</doc>
+</add>

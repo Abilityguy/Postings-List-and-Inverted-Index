@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201607.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160729_030000_Hannity#start/179/end/214</field>
+<field name="datetime">7/29/2016 3:03:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20160729_030000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160729_030000_Hannity/FOXNEWSW_20160729_030000_Hannity.thumbs/FOXNEWSW_20160729_030000_Hannity_000177.jpg</field>
+<field name="snippet">and, i believe in science. i believe climate change is</field>
+</doc>
+</add>

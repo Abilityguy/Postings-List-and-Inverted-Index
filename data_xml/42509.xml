@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201008.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100828_010000_Hannity#start/1934/end/1969</field>
+<field name="datetime">8/28/2010 1:32:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20100828_010000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100828_010000_Hannity/FOXNEWS_20100828_010000_Hannity.thumbs/FOXNEWS_20100828_010000_Hannity_001914.jpg</field>
+<field name="snippet">controversy that will forever be known as climate -- climategate. revealing effort to hide the truth that global warming is far from conclusive.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190105_080000_Fox_News__Night_With_Shannon_Bream#start/450/end/485</field>
+<field name="datetime">1/5/2019 8:07:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News  Night With Shannon Bream</field>
+<field name="showid">FOXNEWSW_20190105_080000_Fox_News__Night_With_Shannon_Bream</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190105_080000_Fox_News__Night_With_Shannon_Bream/FOXNEWSW_20190105_080000_Fox_News__Night_With_Shannon_Bream.thumbs/FOXNEWSW_20190105_080000_Fox_News__Night_With_Shannon_Bream_000447.jpg</field>
+<field name="snippet">house committees have requested scores of documents from the white house and administration officials. there's a new committee to study what nancy pelosi describes as the climate crisis and legislation for green new deal. congresswoman gabrielle giffords returns to capitol hill next</field>
+</doc>
+</add>

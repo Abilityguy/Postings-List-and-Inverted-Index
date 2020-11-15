@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190511_133000_Lula#start/47/end/82</field>
+<field name="datetime">5/11/2019 13:31:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Lula</field>
+<field name="showid">BBCNEWS_20190511_133000_Lula</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190511_133000_Lula/BBCNEWS_20190511_133000_Lula.thumbs/BBCNEWS_20190511_133000_Lula_000028.jpg</field>
+<field name="snippet">the headlines: concerns over climate change might restrict the growth of flying in the uk, according to a senior civil servant. the un says houthi rebels in yemen appear to be honouring a pledge to withdraw troops from key ports - opening a lifeline for millions of people facing famine.</field>
+</doc>
+</add>

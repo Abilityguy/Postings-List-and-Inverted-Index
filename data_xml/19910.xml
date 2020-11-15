@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201410.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141013_200000_Your_World_With_Neil_Cavuto#start/1242/end/1277</field>
+<field name="datetime">10/13/2014 20:20:57</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20141013_200000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141013_200000_Your_World_With_Neil_Cavuto/FOXNEWSW_20141013_200000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20141013_200000_Your_World_With_Neil_Cavuto_001215.jpg</field>
+<field name="snippet">wait a second. [overlapping speakers] i'm going to raise my voice, do you think that next week, we're going to have a climate change catastrophe because next week, we're going to have more americans beheaded, we could have baghdad fall and we could have a mass ebola outbreak where</field>
+</doc>
+</add>

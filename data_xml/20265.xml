@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201404.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140401_090000_FOX_and_Friends_First#start/1457/end/1492</field>
+<field name="datetime">4/1/2014 9:24:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends First</field>
+<field name="showid">FOXNEWSW_20140401_090000_FOX_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140401_090000_FOX_and_Friends_First/FOXNEWSW_20140401_090000_FOX_and_Friends_First.thumbs/FOXNEWSW_20140401_090000_FOX_and_Friends_First_001395.jpg</field>
+<field name="snippet">sweeping u.n. report claiming it is too alarmist and includes silly statements about global warming. the report warns it could spin out of control if the world does not cut down on solution. controversy at patrick air</field>
+</doc>
+</add>

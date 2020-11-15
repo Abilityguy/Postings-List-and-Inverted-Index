@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191129_060000_Breakfast#start/1882/end/1917</field>
+<field name="datetime">11/29/2019 6:31:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191129_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191129_060000_Breakfast/BBCNEWS_20191129_060000_Breakfast.thumbs/BBCNEWS_20191129_060000_Breakfast_001857.jpg</field>
+<field name="snippet">issue on the planet. a big debate on climate change with some notable absences and replacements. we kept the invitations open to the leaders of the conservative party and the brexit party. they have not taken up their places yet. instead, a reminder. the ice caps are melting as politicians around the globe fail to cut greenhouse gas emissions in time to stop rising temperatures.</field>
+</doc>
+</add>

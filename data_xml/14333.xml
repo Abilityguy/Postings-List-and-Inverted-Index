@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201812.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181230_230000_Meet_the_Press#start/2754/end/2789</field>
+<field name="datetime">12/30/2018 23:46:09</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20181230_230000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181230_230000_Meet_the_Press/MSNBCW_20181230_230000_Meet_the_Press.thumbs/MSNBCW_20181230_230000_Meet_the_Press_002728.jpg</field>
+<field name="snippet">we're down to just 30% who say we need more research or we shouldn't be concerned. a 13 point drop in that same time period. this is significant because the feelings about climate change</field>
+</doc>
+</add>

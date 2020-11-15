@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190429_160000_BBC_News_at_Five#start/2533/end/2568</field>
+<field name="datetime">4/29/2019 16:42:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190429_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190429_160000_BBC_News_at_Five/BBCNEWS_20190429_160000_BBC_News_at_Five.thumbs/BBCNEWS_20190429_160000_BBC_News_at_Five_002518.jpg</field>
+<field name="snippet">it also releases carbon trapped in the earth, and that contributes to climate change. in parts of the south of england, some carelessly farmed fields are steadily running into the rivers. soil degradation is a problem said to affect almost</field>
+</doc>
+</add>

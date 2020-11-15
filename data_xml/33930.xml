@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091207_160000_Happening_Now#start/4454/end/4489</field>
+<field name="datetime">12/7/2009 17:14:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091207_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091207_160000_Happening_Now/FOXNEWS_20091207_160000_Happening_Now.thumbs/FOXNEWS_20091207_160000_Happening_Now_004440.jpg</field>
+<field name="snippet">president obama has said he would appreciate 10000 additional nato troops, so we will see if we get that. patti ann: thank you. jon: the largest climate change conference in history opened today in copenhagen, denmark.</field>
+</doc>
+</add>

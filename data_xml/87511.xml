@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191220_010000_Newsday#start/229/end/264</field>
+<field name="datetime">12/20/2019 1:04:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191220_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191220_010000_Newsday/BBCNEWS_20191220_010000_Newsday.thumbs/BBCNEWS_20191220_010000_Newsday_000208.jpg</field>
+<field name="snippet">people have resorted to wearing masks. we want to be listened to. protesters gathered outside the home of the australian prime minister, scott morrison. he is sceptical of climate change and is accused of ignoring reality.</field>
+</doc>
+</add>

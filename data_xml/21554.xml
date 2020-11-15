@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100111_093000_Cavuto_on_Business#start/1260/end/1295</field>
+<field name="datetime">1/11/2010 9:51:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Cavuto on Business</field>
+<field name="showid">FOXNEWS_20100111_093000_Cavuto_on_Business</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100111_093000_Cavuto_on_Business/FOXNEWS_20100111_093000_Cavuto_on_Business.thumbs/FOXNEWS_20100111_093000_Cavuto_on_Business_001072.jpg</field>
+<field name="snippet">neil: global freezing sending oil and energy prices soaring. could that save you money? hs@adp. neil: this is our fox news global warming alert for you. it is freezing across the entire globe! frost in florida, 50 below in</field>
+</doc>
+</add>

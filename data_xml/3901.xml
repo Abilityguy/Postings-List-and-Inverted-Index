@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201710.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171031_040000_BBC_News#start/1143/end/1178</field>
+<field name="datetime">10/31/2017 4:19:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171031_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171031_040000_BBC_News/BBCNEWS_20171031_040000_BBC_News.thumbs/BBCNEWS_20171031_040000_BBC_News_001137.jpg</field>
+<field name="snippet">heat in the atmosphere, and this causes global temperatures to rise. here it means the ice is melting faster than the animals can adapt. in 2015, the world agreed to big cuts in greenhouse gas emissions to limit warming.</field>
+</doc>
+</add>

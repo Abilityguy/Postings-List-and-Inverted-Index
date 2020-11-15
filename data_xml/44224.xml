@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201704.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170429_200000_MSNBC_Live#start/2128/end/2163</field>
+<field name="datetime">4/29/2017 20:35:43</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170429_200000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170429_200000_MSNBC_Live/MSNBCW_20170429_200000_MSNBC_Live.thumbs/MSNBCW_20170429_200000_MSNBC_Live_002128.jpg</field>
+<field name="snippet">across the country, they're demanding climate change. live events underway at our nation's capital and in oakland, california. i sneeze. there goes my sensitive bladder. sound familiar? then you'll love this.</field>
+</doc>
+</add>

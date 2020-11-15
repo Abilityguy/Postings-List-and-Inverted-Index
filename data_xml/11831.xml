@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190816_220000_BBC_News#start/1534/end/1569</field>
+<field name="datetime">8/16/2019 22:25:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190816_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190816_220000_BBC_News/BBCNEWS_20190816_220000_BBC_News.thumbs/BBCNEWS_20190816_220000_BBC_News_001528.jpg</field>
+<field name="snippet">edinburgh city council has voted to allow only one day per school year for young people to protest over climate change. the council's education committee approved a motion by the snp-labour coalition to limit authorised absences to just one day despite a plea from activists</field>
+</doc>
+</add>

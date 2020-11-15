@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200102_230000_BBC_News#start/674/end/709</field>
+<field name="datetime">1/2/2020 23:11:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200102_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200102_230000_BBC_News/BBCNEWS_20200102_230000_BBC_News.thumbs/BBCNEWS_20200102_230000_BBC_News_000658.jpg</field>
+<field name="snippet">controversy around the prime minister and his comments, but how widely held do you think this scepticism is about how much of a role climate change is playing in this? look, ithink this? look, i think the bushfires have certainly changed the minds of many people who were potentially unsure of the science. however, i</field>
+</doc>
+</add>

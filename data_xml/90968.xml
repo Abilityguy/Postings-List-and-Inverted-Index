@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201709.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170901_030000_Tucker_Carlson_Tonight#start/517/end/552</field>
+<field name="datetime">9/1/2017 3:08:52</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20170901_030000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170901_030000_Tucker_Carlson_Tonight/FOXNEWSW_20170901_030000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20170901_030000_Tucker_Carlson_Tonight_000508.jpg</field>
+<field name="snippet">morning, i want to get your take on it, between chris cuomo, the morning show host at cnn and kellyanne conway from the white house. here's how it went. whether or not what happened at harvey and why it's happeninh and why these storms happen open up a discussion about the role h of climate change. is the president, is the administration open to that a conversation?</field>
+</doc>
+</add>

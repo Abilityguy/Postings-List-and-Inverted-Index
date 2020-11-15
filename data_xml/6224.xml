@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_200000_World_News_Today#start/86/end/121</field>
+<field name="datetime">9/20/2019 20:01:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190920_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_200000_World_News_Today/BBCNEWS_20190920_200000_World_News_Today.thumbs/BBCNEWS_20190920_200000_World_News_Today_000088.jpg</field>
+<field name="snippet">another 'climate strike' by pupils skipping school to join the protests. the teenage activist greta thunberg, who protested alone outside the swedish parliament last year to draw attention to climate change, is leading the demonstration.</field>
+</doc>
+</add>

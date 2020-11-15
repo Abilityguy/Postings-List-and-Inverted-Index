@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201909.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190923_140000_MSNBC_Live_With_Hallie_Jackson#start/1805/end/1840</field>
+<field name="datetime">9/23/2019 14:30:20</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Hallie Jackson</field>
+<field name="showid">MSNBCW_20190923_140000_MSNBC_Live_With_Hallie_Jackson</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190923_140000_MSNBC_Live_With_Hallie_Jackson/MSNBCW_20190923_140000_MSNBC_Live_With_Hallie_Jackson.thumbs/MSNBCW_20190923_140000_MSNBC_Live_With_Hallie_Jackson_001798.jpg</field>
+<field name="snippet">so right now you are looking at live pictures on the left of your screen from the unite nations and a high profile opening day session set for today on the climate crisis. a whole bunch of world leaders will be there, but apparently not president trump. instead, in less than an hour,</field>
+</doc>
+</add>

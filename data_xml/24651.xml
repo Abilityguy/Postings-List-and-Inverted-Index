@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201605.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160524_190000_Shepard_Smith_Reporting#start/250/end/285</field>
+<field name="datetime">5/24/2016 19:04:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20160524_190000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160524_190000_Shepard_Smith_Reporting/FOXNEWSW_20160524_190000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20160524_190000_Shepard_Smith_Reporting_000237.jpg</field>
+<field name="snippet">politics average, a recent poll has hillary clinton up nine. here she is two weeks ahead of the primary. specifically, senator sanders accuses the republicans of being science deniers on climate</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200907.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20090717_130000_Morning_Meeting#start/3288/end/3323</field>
+<field name="datetime">7/17/2009 13:55:03</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Meeting</field>
+<field name="showid">MSNBC_20090717_130000_Morning_Meeting</field>
+<field name="preview">https://archive.org/download/MSNBC_20090717_130000_Morning_Meeting/MSNBC_20090717_130000_Morning_Meeting.thumbs/MSNBC_20090717_130000_Morning_Meeting_003265.jpg</field>
+<field name="snippet">june 2nd, warmest month on record throughout the whole world going back to 1880. remember how it was cool everywhere else? why is that? the oceans are warm and may have to do with global warming and the atmosphere being warmer.</field>
+</doc>
+</add>

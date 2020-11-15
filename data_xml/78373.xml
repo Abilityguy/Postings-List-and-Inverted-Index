@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191119_060000_Breakfast#start/2208/end/2243</field>
+<field name="datetime">11/19/2019 6:37:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191119_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191119_060000_Breakfast/BBCNEWS_20191119_060000_Breakfast.thumbs/BBCNEWS_20191119_060000_Breakfast_002187.jpg</field>
+<field name="snippet">the green party launches its general election manifesto today, with a promise to invest £100 billion a year to tackle climate change, and cut britain's carbon emissions to net zero by 2030. the party's co-leader jonathan bartley is in westminster this morning. good morning to you. good to speak to you again. thank you forjoining</field>
+</doc>
+</add>

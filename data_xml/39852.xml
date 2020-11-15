@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091121_090000_Special_Report_With_Bret_Baier#start/1807/end/1842</field>
+<field name="datetime">11/21/2009 9:30:22</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091121_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091121_090000_Special_Report_With_Bret_Baier/FOXNEWS_20091121_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091121_090000_Special_Report_With_Bret_Baier_001794.jpg</field>
+<field name="snippet">not much is happening at the moment. the earth's average temperatures have stopped climbing since the beginning of the mill len yum, and even looks as though global warming could come to a standstill this year. the article says that could complicate next month's summit</field>
+</doc>
+</add>

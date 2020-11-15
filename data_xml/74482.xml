@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200114_090000_BBC_News_at_9#start/3297/end/3332</field>
+<field name="datetime">1/14/2020 9:55:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20200114_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200114_090000_BBC_News_at_9/BBCNEWS_20200114_090000_BBC_News_at_9.thumbs/BBCNEWS_20200114_090000_BBC_News_at_9_003298.jpg</field>
+<field name="snippet">the effects of global warming, the message is one we have heard many times before - get emissions down and get them down fast, or what we are seeing in australia will no longer be the exception but the norm. rich preston, bbc news.</field>
+</doc>
+</add>

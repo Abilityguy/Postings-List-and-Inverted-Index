@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201609.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160926_150000_Happening_Now#start/1563/end/1598</field>
+<field name="datetime">9/26/2016 15:26:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20160926_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160926_150000_Happening_Now/FOXNEWSW_20160926_150000_Happening_Now.thumbs/FOXNEWSW_20160926_150000_Happening_Now_001557.jpg</field>
+<field name="snippet">political background that isn't necessarily honest. reporter: recently hillary clinton addressed younger voters about their concerns like climate change and voter reform. i know if you're totally opposed to donald trump you may still have questions about me.</field>
+</doc>
+</add>

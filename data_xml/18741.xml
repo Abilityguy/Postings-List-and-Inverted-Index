@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201107.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110708_100000_FOX_and_Friends#start/1071/end/1106</field>
+<field name="datetime">7/8/2011 10:18:06</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20110708_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110708_100000_FOX_and_Friends/FOXNEWS_20110708_100000_FOX_and_Friends.thumbs/FOXNEWS_20110708_100000_FOX_and_Friends_001039.jpg</field>
+<field name="snippet">of wack the global warming community is with american public opinion. what the u.n. says is this -- we need $1.9 trillion each and every year for 40 years in order to solve the climate problem</field>
+</doc>
+</add>

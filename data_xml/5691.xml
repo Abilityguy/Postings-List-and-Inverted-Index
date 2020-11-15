@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190907_123000_Inside_Out_West#start/241/end/276</field>
+<field name="datetime">9/7/2019 12:34:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Inside Out West</field>
+<field name="showid">BBCNEWS_20190907_123000_Inside_Out_West</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190907_123000_Inside_Out_West/BBCNEWS_20190907_123000_Inside_Out_West.thumbs/BBCNEWS_20190907_123000_Inside_Out_West_000238.jpg</field>
+<field name="snippet">plus, i meet the curry king who wants to ditch plastic. i'm no expert, but that is not going to be very environmentally friendly. that's definitely not. that's why we want to get rid of it. and what impact is climate change</field>
+</doc>
+</add>

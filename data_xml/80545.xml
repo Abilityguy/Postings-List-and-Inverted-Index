@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190410_100000_FOX__Friends#start/1213/end/1248</field>
+<field name="datetime">4/10/2019 10:20:28</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20190410_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190410_100000_FOX__Friends/FOXNEWSW_20190410_100000_FOX__Friends.thumbs/FOXNEWSW_20190410_100000_FOX__Friends_001197.jpg</field>
+<field name="snippet">thank you for having me. steve: if you felt the nation's immigration crisis is caused democrats can't acknowledge there is one think again. aoc says it's because of climate change. we will talk about that coming up.</field>
+</doc>
+</add>

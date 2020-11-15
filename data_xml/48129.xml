@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201505.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150520_220000_PoliticsNation#start/3575/end/3610</field>
+<field name="datetime">5/20/2015 22:59:50</field>
+<field name="station">MSNBC</field>
+<field name="show">PoliticsNation</field>
+<field name="showid">MSNBCW_20150520_220000_PoliticsNation</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150520_220000_PoliticsNation/MSNBCW_20150520_220000_PoliticsNation.thumbs/MSNBCW_20150520_220000_PoliticsNation_003556.jpg</field>
+<field name="snippet">folks back in washington who refuse to admit that climate change is real. denying it or refusing to deal with it endangers our national security. it undermines the readiness of our forces. this cannot be subject to the usual politics.</field>
+</doc>
+</add>

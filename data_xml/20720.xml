@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201202.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120212_100000_The_Five#start/1800/end/1835</field>
+<field name="datetime">2/12/2012 10:30:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20120212_100000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120212_100000_The_Five/FOXNEWSW_20120212_100000_The_Five.thumbs/FOXNEWSW_20120212_100000_The_Five_001800.jpg</field>
+<field name="snippet">works. john: thank you. adam bellow. coming up, global warming, who can you trust about that? are we all going to roast or drown? when we return we'll hear from someone people hate because of what he says about global</field>
+</doc>
+</add>

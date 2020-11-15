@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190710_000000_Tucker_Carlson_Tonight#start/2723/end/2758</field>
+<field name="datetime">7/10/2019 0:45:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190710_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190710_000000_Tucker_Carlson_Tonight/FOXNEWSW_20190710_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190710_000000_Tucker_Carlson_Tonight_002699.jpg</field>
+<field name="snippet">there it is, climate change. tucker: but that is not a valid -- i mean, that's not it is scientifically valid way to understand the weather, is it? of course it's not. do you think these folks know</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_160000_Happening_Now#start/5837/end/5872</field>
+<field name="datetime">12/18/2009 17:37:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091218_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_160000_Happening_Now/FOXNEWS_20091218_160000_Happening_Now.thumbs/FOXNEWS_20091218_160000_Happening_Now_005820.jpg</field>
+<field name="snippet">jon: and andrea, the chinese would be happy to take our money. they just don't seem to want to allow verification that they're actually doing anything about greenhouse gases? right. that's absolutely right, jon. it's the same problem we faced with kioto. doug hit on a very important</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190424_180000_Beyond_100_Days#start/2097/end/2132</field>
+<field name="datetime">4/24/2019 18:35:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20190424_180000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190424_180000_Beyond_100_Days/BBCNEWS_20190424_180000_Beyond_100_Days.thumbs/BBCNEWS_20190424_180000_Beyond_100_Days_002099.jpg</field>
+<field name="snippet">the congress in the united states. democrats and republicans came together with my leadership to introduce a carbon tax. we put a price on carbon and take the revenues and give it right back to the american people. it is a carbon</field>
+</doc>
+</add>

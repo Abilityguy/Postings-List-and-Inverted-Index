@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191017_220000_BBC_News#start/2086/end/2121</field>
+<field name="datetime">10/17/2019 22:35:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191017_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191017_220000_BBC_News/BBCNEWS_20191017_220000_BBC_News.thumbs/BBCNEWS_20191017_220000_BBC_News_002068.jpg</field>
+<field name="snippet">we all find a solution. protests are raising awareness of climate change, but they also risk alienating the people they're trying to persuade. david shukman, bbc news. and a reminder, coming up - we'll have the latest brexit news</field>
+</doc>
+</add>

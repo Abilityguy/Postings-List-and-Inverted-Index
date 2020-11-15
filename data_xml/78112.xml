@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191106_060000_Breakfast#start/1306/end/1341</field>
+<field name="datetime">11/6/2019 6:22:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191106_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191106_060000_Breakfast/BBCNEWS_20191106_060000_Breakfast.thumbs/BBCNEWS_20191106_060000_Breakfast_001287.jpg</field>
+<field name="snippet">on a renewed awareness of environmental issues, and is pledging to spend an additional £100 billion a year tackling climate change. we can speak now to the party's co-leaderjonathan bartley. good morning to you. thank you for joining us. it is an awful lot of</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140507_030000_All_In_With_Chris_Hayes#start/2985/end/3020</field>
+<field name="datetime">5/7/2014 3:50:00</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20140507_030000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140507_030000_All_In_With_Chris_Hayes/MSNBCW_20140507_030000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20140507_030000_All_In_With_Chris_Hayes_002986.jpg</field>
+<field name="snippet">is there a connection between climate change as an abstract thing and what's happening around them? look. we had a few years ago this tropical storm irene.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190305_210000_Your_World_With_Neil_Cavuto#start/1796/end/1831</field>
+<field name="datetime">3/5/2019 21:30:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20190305_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190305_210000_Your_World_With_Neil_Cavuto/FOXNEWSW_20190305_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20190305_210000_Your_World_With_Neil_Cavuto_001769.jpg</field>
+<field name="snippet">charles: it's an intriguing argument that this opens the gates for future democratic presidents to somehow use national emergencies to implement gun control and climate change. it feels far-fetched. but to your point, without a doubt, this might be the</field>
+</doc>
+</add>

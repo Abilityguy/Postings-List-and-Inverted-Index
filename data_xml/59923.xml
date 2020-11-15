@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181006_170000_BBC_News#start/921/end/956</field>
+<field name="datetime">10/6/2018 17:15:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181006_170000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181006_170000_BBC_News/BBCNEWS_20181006_170000_BBC_News.thumbs/BBCNEWS_20181006_170000_BBC_News_000897.jpg</field>
+<field name="snippet">a report on limiting global temperature rises to 1.5 degrees. the finalised report, due to be published on monday, will sound a warning about the speed and scale of measures required to protect countries vulnerable to global warming</field>
+</doc>
+</add>

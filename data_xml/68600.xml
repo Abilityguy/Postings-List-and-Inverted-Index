@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201203.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120308_110000_Morning_Joe#start/1363/end/1398</field>
+<field name="datetime">3/8/2012 11:22:58</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20120308_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120308_110000_Morning_Joe/MSNBCW_20120308_110000_Morning_Joe.thumbs/MSNBCW_20120308_110000_Morning_Joe_001345.jpg</field>
+<field name="snippet">phoenix. because people love to say oh, this was the warmest winter ever, it's global warming and florida's going to be under water in four days. people want to know what's normal now. i think the only thing we've learned the last three winters is once you get locked into a</field>
+</doc>
+</add>

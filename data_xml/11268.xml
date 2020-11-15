@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190822_123000_BBC_News#start/673/end/708</field>
+<field name="datetime">8/22/2019 12:41:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190822_123000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190822_123000_BBC_News/BBCNEWS_20190822_123000_BBC_News.thumbs/BBCNEWS_20190822_123000_BBC_News_000659.jpg</field>
+<field name="snippet">and technology committee is criticising moves like cuts to grants for low-emissions cars and the freezing of fuel duty while train and bus fares rise. the government says it is 'working to put in place the right measures' to help tackle global warming and will consider the</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181214_040000_BBC_News#start/370/end/405</field>
+<field name="datetime">12/14/2018 4:06:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181214_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181214_040000_BBC_News/BBCNEWS_20181214_040000_BBC_News.thumbs/BBCNEWS_20181214_040000_BBC_News_000357.jpg</field>
+<field name="snippet">in poland on friday, with delegates from almost 200 countries saying they are yet to reach a deal. negotiators are trying to agree how pledges to cut global warming, made in paris three years ago, should be implemented. the irish prime minister, leo varadkar, has hailed</field>
+</doc>
+</add>

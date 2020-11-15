@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201105.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110526_180000_News_Nation#start/2525/end/2560</field>
+<field name="datetime">5/26/2011 18:42:20</field>
+<field name="station">MSNBC</field>
+<field name="show">News Nation</field>
+<field name="showid">MSNBC_20110526_180000_News_Nation</field>
+<field name="preview">https://archive.org/download/MSNBC_20110526_180000_News_Nation/MSNBC_20110526_180000_News_Nation.thumbs/MSNBC_20110526_180000_News_Nation_002514.jpg</field>
+<field name="snippet">combatting global warming. and big praise for congressman paul ryan from wisconsin. just as his plan was rejected by a 40-57 vote, former vice president dick cheney says, quote, i worship the ground that paul ryan walks on.</field>
+</doc>
+</add>

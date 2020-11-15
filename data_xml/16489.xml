@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201502.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150210_230000_Special_Report_With_Bret_Baier#start/145/end/180</field>
+<field name="datetime">2/10/2015 23:02:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20150210_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150210_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20150210_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20150210_230000_Special_Report_With_Bret_Baier_000135.jpg</field>
+<field name="snippet">the spokesman doubling down on the president's claim that climate change is a bigger threat to americans than terror. the point the president is making is that there are many more people on an annual basis who have to confront the impact</field>
+</doc>
+</add>

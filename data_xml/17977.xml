@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201409.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140922_210000_The_Ed_Show#start/196/end/231</field>
+<field name="datetime">9/22/2014 21:03:31</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20140922_210000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140922_210000_The_Ed_Show/MSNBCW_20140922_210000_The_Ed_Show.thumbs/MSNBCW_20140922_210000_The_Ed_Show_000195.jpg</field>
+<field name="snippet">estimated 300000 people gathered to bring awareness to the dangers of climate change and the need for action. it was the largest climate change rally in history. the ed show was on the ground to</field>
+</doc>
+</add>

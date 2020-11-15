@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170603_040000_BBC_News#start/393/end/428</field>
+<field name="datetime">6/3/2017 4:06:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170603_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170603_040000_BBC_News/BBCNEWS_20170603_040000_BBC_News.thumbs/BBCNEWS_20170603_040000_BBC_News_000387.jpg</field>
+<field name="snippet">and so when the white house says it is withdrawing from the paris climate change deal to boost employment, it does not make a lot of sense here.</field>
+</doc>
+</add>

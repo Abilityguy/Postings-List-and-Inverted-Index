@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201207.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120703_000000_The_Ed_Show#start/982/end/1017</field>
+<field name="datetime">7/3/2012 0:16:37</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20120703_000000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120703_000000_The_Ed_Show/MSNBCW_20120703_000000_The_Ed_Show.thumbs/MSNBCW_20120703_000000_The_Ed_Show_000960.jpg</field>
+<field name="snippet">implement the new health care law. and a meteorologist in washington, d.c. is taking heat for his comments on the connection between this summer's weather and climate change. bill nye the science guy will join me later in the program. share you thoughts on twitter using the hash tag ed show,</field>
+</doc>
+</add>

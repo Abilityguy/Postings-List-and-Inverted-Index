@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201909.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190923_210000_MTP_Daily#start/3520/end/3555</field>
+<field name="datetime">9/23/2019 21:58:55</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20190923_210000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190923_210000_MTP_Daily/MSNBCW_20190923_210000_MTP_Daily.thumbs/MSNBCW_20190923_210000_MTP_Daily_003509.jpg</field>
+<field name="snippet">in case you missed it, the growing global movement to urge action on the climate crisis is a big deal. it is such that big deal that last week millions of demonstrators around the world, many of them young people took to the streets to call for action on climate change.</field>
+</doc>
+</add>

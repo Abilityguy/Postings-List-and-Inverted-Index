@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201005.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100507_160000_MSNBC_News_Live#start/739/end/774</field>
+<field name="datetime">5/7/2010 16:12:34</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100507_160000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100507_160000_MSNBC_News_Live/MSNBC_20100507_160000_MSNBC_News_Live.thumbs/MSNBC_20100507_160000_MSNBC_News_Live_000720.jpg</field>
+<field name="snippet">climate change legislation. he says a new push for immigration and the oil spill on the gulf coast are the reasons why they can't move forward. the legislation he was drafting with two other senators called for increased offshore drilling which is now opposed by some</field>
+</doc>
+</add>

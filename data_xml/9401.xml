@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170709_150000_MediaBuzz#start/2209/end/2244</field>
+<field name="datetime">7/9/2017 15:37:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">MediaBuzz</field>
+<field name="showid">FOXNEWSW_20170709_150000_MediaBuzz</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170709_150000_MediaBuzz/FOXNEWSW_20170709_150000_MediaBuzz.thumbs/FOXNEWSW_20170709_150000_MediaBuzz_002187.jpg</field>
+<field name="snippet">states finds itself isolated at the g-20. he's pushing europeans on nato, and trade, on climate change. that word isolation has been</field>
+</doc>
+</add>

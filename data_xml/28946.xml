@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201610.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161011_100000_FOX__Friends#start/2076/end/2111</field>
+<field name="datetime">10/11/2016 10:34:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20161011_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161011_100000_FOX__Friends/FOXNEWSW_20161011_100000_FOX__Friends.thumbs/FOXNEWSW_20161011_100000_FOX__Friends_002068.jpg</field>
+<field name="snippet">campaign trail this cycle joining hillary clinton here in miami. gore is expected to hit the issue of climate change hard. he's also a reminder to democrats about the danger of third-party candidates after losing the 2000 election. the real clear politics average of recent florida polls has</field>
+</doc>
+</add>

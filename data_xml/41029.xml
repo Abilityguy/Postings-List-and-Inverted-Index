@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201705.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170530_180000_MSNBC_Live#start/2123/end/2158</field>
+<field name="datetime">5/30/2017 18:35:38</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170530_180000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170530_180000_MSNBC_Live/MSNBCW_20170530_180000_MSNBC_Live.thumbs/MSNBCW_20170530_180000_MSNBC_Live_002097.jpg</field>
+<field name="snippet">broad issue of climate change, can you say whether or not the president believes that human activity is contributing to the warming of the climate? honestly, i haven't asked him. i can get back to you. do you feel like that is a decision he is still trying to</field>
+</doc>
+</add>

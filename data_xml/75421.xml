@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201012.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101229_010000_Countdown_With_Keith_Olbermann#start/2612/end/2647</field>
+<field name="datetime">12/29/2010 1:43:47</field>
+<field name="station">MSNBC</field>
+<field name="show">Countdown With Keith Olbermann</field>
+<field name="showid">MSNBC_20101229_010000_Countdown_With_Keith_Olbermann</field>
+<field name="preview">https://archive.org/download/MSNBC_20101229_010000_Countdown_With_Keith_Olbermann/MSNBC_20101229_010000_Countdown_With_Keith_Olbermann.thumbs/MSNBC_20101229_010000_Countdown_With_Keith_Olbermann_002604.jpg</field>
+<field name="snippet">tonight. thanks for having me on. if it snowed in new york city and nobody seemed to be plowing the streets, would it -- oh, wait. that happened. and whenever it snows, the deniers call it proof that global warming is a myth. by this year's snowstorm</field>
+</doc>
+</add>

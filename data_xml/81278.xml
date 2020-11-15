@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091214_200000_MSNBC_News_Live#start/2054/end/2089</field>
+<field name="datetime">12/14/2009 20:34:29</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091214_200000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091214_200000_MSNBC_News_Live/MSNBC_20091214_200000_MSNBC_News_Live.thumbs/MSNBC_20091214_200000_MSNBC_News_Live_002036.jpg</field>
+<field name="snippet">to explain to him the dynamics of american politics and why obama couldn't come in and say he's going to cut greenhouse gas emissions by 25%. it doesn't work that way in the u.s. he doesn't have that kind of power.</field>
+</doc>
+</add>

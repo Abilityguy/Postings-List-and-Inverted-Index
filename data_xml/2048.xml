@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20171112_070000_Watters_World#start/2516/end/2551</field>
+<field name="datetime">11/12/2017 7:42:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Watters World</field>
+<field name="showid">FOXNEWSW_20171112_070000_Watters_World</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20171112_070000_Watters_World/FOXNEWSW_20171112_070000_Watters_World.thumbs/FOXNEWSW_20171112_070000_Watters_World_002517.jpg</field>
+<field name="snippet">economic and trade agreement that we have signed. we also strengthen cooperation in science and technology environment, climate change, humanitarian issues, human</field>
+</doc>
+</add>

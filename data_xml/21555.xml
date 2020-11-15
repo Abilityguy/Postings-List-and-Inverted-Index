@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100121_090000_Special_Report_With_Bret_Baier#start/1899/end/1934</field>
+<field name="datetime">1/21/2010 9:31:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100121_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100121_090000_Special_Report_With_Bret_Baier/FOXNEWS_20100121_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100121_090000_Special_Report_With_Bret_Baier_001885.jpg</field>
+<field name="snippet">were not applied properly. that 2007 nobel winning report claimed to include the latest and most detailed research into the impact of global warming. and is supposed to be the basis for government policy. some are seeing the revelation a little differently.</field>
+</doc>
+</add>

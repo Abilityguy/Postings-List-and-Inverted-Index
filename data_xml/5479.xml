@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171201_050000_The_Briefing#start/532/end/567</field>
+<field name="datetime">12/1/2017 5:09:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20171201_050000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171201_050000_The_Briefing/BBCNEWS_20171201_050000_The_Briefing.thumbs/BBCNEWS_20171201_050000_The_Briefing_000507.jpg</field>
+<field name="snippet">scientists will tell you that the polar regions are what they call the canaries in the coalmine. the way they are impacted by climate change will have an impact on the rest of the planet, to protecting the ecosystem is important, but studying</field>
+</doc>
+</add>

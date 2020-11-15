@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201610.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161011_190000_MSNBC_Live#start/1364/end/1399</field>
+<field name="datetime">10/11/2016 19:22:59</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20161011_190000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161011_190000_MSNBC_Live/MSNBCW_20161011_190000_MSNBC_Live.thumbs/MSNBCW_20161011_190000_MSNBC_Live_001258.jpg</field>
+<field name="snippet">what about that robot? that is a vending machine, ricky. clinton to take the stage a long with former vice president al gore. any moment now for a campaign event in miami. clinton and gore planning to highlight the issue of combating climate change in the key swing</field>
+</doc>
+</add>

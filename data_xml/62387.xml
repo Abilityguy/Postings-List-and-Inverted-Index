@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201701.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170111_200000_MSNBC_Live_With_Kate_Snow#start/224/end/259</field>
+<field name="datetime">1/11/2017 20:03:59</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Kate Snow</field>
+<field name="showid">MSNBCW_20170111_200000_MSNBC_Live_With_Kate_Snow</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170111_200000_MSNBC_Live_With_Kate_Snow/MSNBCW_20170111_200000_MSNBC_Live_With_Kate_Snow.thumbs/MSNBCW_20170111_200000_MSNBC_Live_With_Kate_Snow_000207.jpg</field>
+<field name="snippet">something to note. we also heard questions about climate change, where he said -- tillerson said he doesn't want to not have a seat at the table for international conferences like the big paris agreement but he wouldn't go so far as to give an opinion on that. in some areas still needs more</field>
+</doc>
+</add>

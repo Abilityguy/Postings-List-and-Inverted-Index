@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170601_120000_BBC_News_at_One#start/0/end/34</field>
+<field name="datetime">6/1/2017 12:00:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20170601_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170601_120000_BBC_News_at_One/BBCNEWS_20170601_120000_BBC_News_at_One.thumbs/BBCNEWS_20170601_120000_BBC_News_at_One_000058.jpg</field>
+<field name="snippet">president trump prepares to announce whether he'll pull the us out of the paris global climate change deal. he says his decision will 'make america great again'. he's coming under increasing international pressure to honour the commitment to cut greenhouse gases. we'll have the latest from washington.</field>
+</doc>
+</add>

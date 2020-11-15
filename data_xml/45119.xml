@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201909.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190903_000000_All_In_With_Chris_Hayes#start/3271/end/3306</field>
+<field name="datetime">9/3/2019 0:54:46</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20190903_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190903_000000_All_In_With_Chris_Hayes/MSNBCW_20190903_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20190903_000000_All_In_With_Chris_Hayes_003268.jpg</field>
+<field name="snippet">hurricanes and climate change, what do we know and what don't we know? it's a great question, chris. in many cases, we're asked this question, how does climate change impact hurricanes? is this hurricane due to climate change? really, that's not the question we want to be asking.</field>
+</doc>
+</add>

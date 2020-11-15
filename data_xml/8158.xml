@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190905_220000_Special_Report_With_Bret_Baier#start/1801/end/1836</field>
+<field name="datetime">9/5/2019 22:30:16</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20190905_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190905_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20190905_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20190905_220000_Special_Report_With_Bret_Baier_001799.jpg</field>
+<field name="snippet">swimming this way and fishermen are doing their best to try to adapt to protect their paychecks but they don't want to have to be dealing with complications caused by global warming or the government, right?</field>
+</doc>
+</add>

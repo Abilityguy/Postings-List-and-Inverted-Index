@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191208_140000_BBC_News#start/1652/end/1687</field>
+<field name="datetime">12/8/2019 14:27:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191208_140000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191208_140000_BBC_News/BBCNEWS_20191208_140000_BBC_News.thumbs/BBCNEWS_20191208_140000_BBC_News_001649.jpg</field>
+<field name="snippet">a betrayal of our entire human family and all the generations to come. i must say, i have been personally reporting on the subject of climate change for 30 years. at last, it seems to me, it is getting the attention it deserves. whether it gets the policies it</field>
+</doc>
+</add>

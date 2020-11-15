@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091009_150000_Happening_Now#start/3863/end/3898</field>
+<field name="datetime">10/9/2009 16:04:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091009_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091009_150000_Happening_Now/FOXNEWS_20091009_150000_Happening_Now.thumbs/FOXNEWS_20091009_150000_Happening_Now_003863.jpg</field>
+<field name="snippet">that war. likewise in 2007, former vice- president al gore got the award for his work on climate change. again, it was thought to be a slap against the then-president bush and his policies on the environment.</field>
+</doc>
+</add>

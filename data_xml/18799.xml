@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201612.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161208_230000_Special_Report_With_Bret_Baier#start/2388/end/2423</field>
+<field name="datetime">12/8/2016 23:40:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20161208_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161208_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20161208_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20161208_230000_Special_Report_With_Bret_Baier_002368.jpg</field>
+<field name="snippet">lane. start with the nomination of pruitt as epa administrator. he says the debate over climate change is far from settled. he is part of several lawsuits against epa regulations on greenhouse gas emissions. your thoughts about this</field>
+</doc>
+</add>

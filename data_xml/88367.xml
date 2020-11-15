@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190630_093000_Talking_Movies#start/285/end/320</field>
+<field name="datetime">6/30/2019 9:35:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Talking Movies</field>
+<field name="showid">BBCNEWS_20190630_093000_Talking_Movies</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190630_093000_Talking_Movies/BBCNEWS_20190630_093000_Talking_Movies.thumbs/BBCNEWS_20190630_093000_Talking_Movies_000267.jpg</field>
+<field name="snippet">it has been raining like this for three days now. mr vice president! if we don't act now, it's going to be too late. but 200a's the day after tomorrow remains hollywood's definitive global warming blockbuster.</field>
+</doc>
+</add>

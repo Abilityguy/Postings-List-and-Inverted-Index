@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190704_190000_BBC_News#start/3158/end/3193</field>
+<field name="datetime">7/4/2019 19:52:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190704_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190704_190000_BBC_News/BBCNEWS_20190704_190000_BBC_News.thumbs/BBCNEWS_20190704_190000_BBC_News_003147.jpg</field>
+<field name="snippet">here for the best part of 20 years. and after a few false starts and delays, today, it became a reality. but not everyone is happy with the decision to open another airport. there are questions on how encouraging more domestic flights fits with the uk's targets to reduce the impact of climate</field>
+</doc>
+</add>

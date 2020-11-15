@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201006.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100616_030000_The_Rachel_Maddow_Show#start/737/end/772</field>
+<field name="datetime">6/16/2010 3:12:32</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBC_20100616_030000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20100616_030000_The_Rachel_Maddow_Show/MSNBC_20100616_030000_The_Rachel_Maddow_Show.thumbs/MSNBC_20100616_030000_The_Rachel_Maddow_Show_000716.jpg</field>
+<field name="snippet">there are two things i think are important about tonight's speech. one is that it was about bp oil, right? i think a lot of policy wonks really wanted him to talk about climate change and talk about pricing carbon. but this was about the bp oil spill and the political problems therein and the feeling of anxiety in the country over it.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091107_020000_Hannity#start/2121/end/2156</field>
+<field name="datetime">11/7/2009 2:35:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20091107_020000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091107_020000_Hannity/FOXNEWS_20091107_020000_Hannity.thumbs/FOXNEWS_20091107_020000_Hannity_002100.jpg</field>
+<field name="snippet">out of there. for now, we head back to 'hannity' which is already in progress. sean: and they even blame that on global warming which makes no sense to me, so should we be making decisions like this that have such a broad economic impact without the scientific</field>
+</doc>
+</add>

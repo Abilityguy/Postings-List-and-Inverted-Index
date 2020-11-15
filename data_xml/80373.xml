@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190515_210000_The_Five#start/1616/end/1651</field>
+<field name="datetime">5/15/2019 21:27:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20190515_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190515_210000_The_Five/FOXNEWSW_20190515_210000_The_Five.thumbs/FOXNEWSW_20190515_210000_The_Five_001617.jpg</field>
+<field name="snippet">this is the good news about climate change. it doesn't matter whose side you're on because you can still do something. aoc can see the -- say the world's going to end and you can say you're overstating it but yn still move forward on both sides with solutions that work even if your side is wrong.</field>
+</doc>
+</add>

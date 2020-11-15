@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201703.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170308_220000_MTP_Daily#start/2390/end/2425</field>
+<field name="datetime">3/8/2017 22:40:05</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20170308_220000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170308_220000_MTP_Daily/MSNBCW_20170308_220000_MTP_Daily.thumbs/MSNBCW_20170308_220000_MTP_Daily_002367.jpg</field>
+<field name="snippet">bay clean-up project would go to $5 million. the great lakes clean-up project would lose 97% of funding. also on the chopping block, funding to cut greenhouse gases and 30% of the budget for giving grants to state governments to better air quality.</field>
+</doc>
+</add>

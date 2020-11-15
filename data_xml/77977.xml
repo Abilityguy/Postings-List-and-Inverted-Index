@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191108_200000_BBC_News#start/2438/end/2473</field>
+<field name="datetime">11/8/2019 20:40:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191108_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191108_200000_BBC_News/BBCNEWS_20191108_200000_BBC_News.thumbs/BBCNEWS_20191108_200000_BBC_News_002428.jpg</field>
+<field name="snippet">the couse of the campaign. the first edition of 'this matters' takes a closer look at climate change and askes if your vote could help save the planet? welcome to this matters, a brand-new election show for bbc news. for a</field>
+</doc>
+</add>

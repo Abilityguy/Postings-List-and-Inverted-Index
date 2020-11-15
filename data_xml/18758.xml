@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201107.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20110727_150000_Happening_Now#start/1710/end/1745</field>
+<field name="datetime">7/27/2011 15:28:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20110727_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20110727_150000_Happening_Now/FOXNEWSW_20110727_150000_Happening_Now.thumbs/FOXNEWSW_20110727_150000_Happening_Now_001706.jpg</field>
+<field name="snippet">people who got really involved in climate change got involved in it often by studying venus, the planet venus. so the physics, the science that happens on venus is the same as the science that happens on</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181004_160000_BBC_News_at_Five#start/62/end/97</field>
+<field name="datetime">10/4/2018 16:01:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20181004_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181004_160000_BBC_News_at_Five/BBCNEWS_20181004_160000_BBC_News_at_Five.thumbs/BBCNEWS_20181004_160000_BBC_News_at_Five_000057.jpg</field>
+<field name="snippet">'no hint of misconduct'. in advance of major climate change report, we're in vietnam where millions of people live just above sea level. even a small rise could be</field>
+</doc>
+</add>

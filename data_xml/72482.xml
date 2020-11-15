@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201610.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161014_150000_MSNBC_Live#start/837/end/872</field>
+<field name="datetime">10/14/2016 15:14:12</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20161014_150000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161014_150000_MSNBC_Live/MSNBCW_20161014_150000_MSNBC_Live.thumbs/MSNBCW_20161014_150000_MSNBC_Live_000837.jpg</field>
+<field name="snippet">we were in the early days of what would turn out to be the worst economic crisis of our lifetimes. you had all kinds of challenges from health care, to climate change where we weren't even pretending to do something about it. we were just kicking the can</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201304.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130402_000000_All_In_With_Chris_Hayes#start/1211/end/1246</field>
+<field name="datetime">4/2/2013 0:20:26</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20130402_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130402_000000_All_In_With_Chris_Hayes/MSNBCW_20130402_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20130402_000000_All_In_With_Chris_Hayes_001186.jpg</field>
+<field name="snippet">this is just part of the business and a bad part of the business. and we have to do better and we can do better. what has been so interesting in the keystone fight is it has brought climate change back into the focus, and we're working</field>
+</doc>
+</add>

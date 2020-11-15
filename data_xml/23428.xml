@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201405.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140512_220000_Special_Report_With_Bret_Baier#start/1009/end/1044</field>
+<field name="datetime">5/12/2014 22:17:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20140512_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140512_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20140512_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20140512_220000_Special_Report_With_Bret_Baier_001005.jpg</field>
+<field name="snippet">americans worried about climate change has dropped a dozen points to 31%. rubio has put himself at the conservative forefront at opposition with the green agenda.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201509.csv</field>
+<field name="url">https://archive.org/details/CNNW_20150924_040000_CNN_Newsroom_Live#start/494/end/529</field>
+<field name="datetime">9/24/2015 4:08:29</field>
+<field name="station">CNN</field>
+<field name="show">CNN Newsroom Live</field>
+<field name="showid">CNNW_20150924_040000_CNN_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/CNNW_20150924_040000_CNN_Newsroom_Live/CNNW_20150924_040000_CNN_Newsroom_Live.thumbs/CNNW_20150924_040000_CNN_Newsroom_Live_000495.jpg</field>
+<field name="snippet">something to deal with climate change today. we'll certainly stay tuned. father thomas reese, thanks for your time today. thank you. colombia's government is taking a major step toward</field>
+</doc>
+</add>

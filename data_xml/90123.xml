@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200910.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091015_030000_The_Rachel_Maddow_Show#start/1586/end/1621</field>
+<field name="datetime">10/15/2009 3:26:41</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBC_20091015_030000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20091015_030000_The_Rachel_Maddow_Show/MSNBC_20091015_030000_The_Rachel_Maddow_Show.thumbs/MSNBC_20091015_030000_The_Rachel_Maddow_Show_001560.jpg</field>
+<field name="snippet">surprised at how many blowback they get when the focus in washington changes from health care -- again, everyone from top to bottom in the republican party agrees on that -- to a climate change bill, to immigration reform.</field>
+</doc>
+</add>

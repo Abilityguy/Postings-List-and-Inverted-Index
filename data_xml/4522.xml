@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170603_200000_World_News_Today#start/215/end/250</field>
+<field name="datetime">6/3/2017 20:03:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20170603_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170603_200000_World_News_Today/BBCNEWS_20170603_200000_World_News_Today.thumbs/BBCNEWS_20170603_200000_World_News_Today_000207.jpg</field>
+<field name="snippet">of the paris climate deal, france and india have reaffirmed their commitment to climate change. at a meeting in paris, mr macron said they stood together on the issue. india is the third-largest greenhouse gas emitter in the world. mr modi said the paris climate agreement was part of the world's common heritage.</field>
+</doc>
+</add>

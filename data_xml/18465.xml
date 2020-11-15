@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170103_110000_BBC_Newsroom_Live#start/6473/end/6508</field>
+<field name="datetime">1/3/2017 12:48:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20170103_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170103_110000_BBC_Newsroom_Live/BBCNEWS_20170103_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20170103_110000_BBC_Newsroom_Live_006447.jpg</field>
+<field name="snippet">we're gonna cancel billions in payments to the united nations climate change programmes. and in 2017, all eyes will be on donald trump and global warming. he once tweeted that climate change was 'a hoax', and during the election, he said he'd pull out of the paris climate deal.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201305.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130513_130000_The_Daily_Rundown#start/2320/end/2355</field>
+<field name="datetime">5/13/2013 13:38:55</field>
+<field name="station">MSNBC</field>
+<field name="show">The Daily Rundown</field>
+<field name="showid">MSNBCW_20130513_130000_The_Daily_Rundown</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130513_130000_The_Daily_Rundown/MSNBCW_20130513_130000_The_Daily_Rundown.thumbs/MSNBCW_20130513_130000_The_Daily_Rundown_002296.jpg</field>
+<field name="snippet">split in the party right now. we're seeing republican leaders. i think it's even a split between the leaders because you see leaders like marco rubio feeling very comfortable, essentially mocking or denying the science of climate change.</field>
+</doc>
+</add>

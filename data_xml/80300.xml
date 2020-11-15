@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190520_100000_FOX__Friends#start/5835/end/5870</field>
+<field name="datetime">5/20/2019 11:37:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20190520_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190520_100000_FOX__Friends/FOXNEWSW_20190520_100000_FOX__Friends.thumbs/FOXNEWSW_20190520_100000_FOX__Friends_005819.jpg</field>
+<field name="snippet">the candidate who favored taking climate change measures by taxing the rich, that candidate was supposed to win and lost. brian: winning in all the polls and the exit polls. steve: wait, you can't trust the polls? it was an exact copy of</field>
+</doc>
+</add>

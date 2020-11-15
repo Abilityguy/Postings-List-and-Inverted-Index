@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201603.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160310_220000_MTP_Daily#start/3121/end/3156</field>
+<field name="datetime">3/10/2016 22:52:16</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20160310_220000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160310_220000_MTP_Daily/MSNBCW_20160310_220000_MTP_Daily.thumbs/MSNBCW_20160310_220000_MTP_Daily_003118.jpg</field>
+<field name="snippet">since back in 1997. the two leaders discussed trade, global warming, and foreign policy. we'll be right back.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201002.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100213_160000_MSNBC_News_Live#start/1208/end/1243</field>
+<field name="datetime">2/13/2010 16:20:23</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100213_160000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100213_160000_MSNBC_News_Live/MSNBC_20100213_160000_MSNBC_News_Live.thumbs/MSNBC_20100213_160000_MSNBC_News_Live_001200.jpg</field>
+<field name="snippet">demint is using it, and i can't blame them. the truth is, alex, that again a lot of the claims of the global warming folks, take the hurricanes in 2005, four hit the united states, they said that's the reason for that is global warming. and now we've had a very mild</field>
+</doc>
+</add>

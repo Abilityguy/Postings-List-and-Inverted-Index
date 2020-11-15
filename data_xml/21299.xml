@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180926_050000_Breakfast#start/7860/end/7895</field>
+<field name="datetime">9/26/2018 7:11:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20180926_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180926_050000_Breakfast/BBCNEWS_20180926_050000_Breakfast.thumbs/BBCNEWS_20180926_050000_Breakfast_007857.jpg</field>
+<field name="snippet">we're not sure why it has ended up here. it could because of noise issues. some people say could be due to climate change or recent weather. but people on the lookout, desperate to try and get as sight of it but</field>
+</doc>
+</add>

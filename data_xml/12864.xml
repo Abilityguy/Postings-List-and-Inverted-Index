@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170708_050000_Breakfast#start/379/end/414</field>
+<field name="datetime">7/8/2017 5:06:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20170708_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170708_050000_Breakfast/BBCNEWS_20170708_050000_Breakfast.thumbs/BBCNEWS_20170708_050000_Breakfast_000358.jpg</field>
+<field name="snippet">theresa may is due to meet president trump at the g20 summit in hamburg this morning to discuss a post-brexit trade deal with the us. the prime minister will also urge the president to reconsider his decision to take america out of the paris agreement on climate change. it follows another night</field>
+</doc>
+</add>

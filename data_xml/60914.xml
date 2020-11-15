@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201311.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20131112_100000_First_Look#start/223/end/258</field>
+<field name="datetime">11/12/2013 10:03:58</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20131112_100000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20131112_100000_First_Look/MSNBCW_20131112_100000_First_Look.thumbs/MSNBCW_20131112_100000_First_Look_000196.jpg</field>
+<field name="snippet">philippines. while scientists can't say whether climate change contributed to this particular typhoon, they believe global warming is making storms</field>
+</doc>
+</add>

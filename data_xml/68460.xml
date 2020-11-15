@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201309.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130918_150000_Happening_Now#start/3227/end/3262</field>
+<field name="datetime">9/18/2013 15:54:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20130918_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130918_150000_Happening_Now/FOXNEWSW_20130918_150000_Happening_Now.thumbs/FOXNEWSW_20130918_150000_Happening_Now_003135.jpg</field>
+<field name="snippet">administration's climate change policies and activities. this comes on the heels of a new report raising skepticism about climate change. suggesting that global warming claims have been exaggerated. live in washington with more, what can you tell us about the</field>
+</doc>
+</add>

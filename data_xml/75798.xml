@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201210.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121029_100000_Morning_Joe#start/5201/end/5236</field>
+<field name="datetime">10/29/2012 11:26:56</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20121029_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121029_100000_Morning_Joe/MSNBCW_20121029_100000_Morning_Joe.thumbs/MSNBCW_20121029_100000_Morning_Joe_005190.jpg</field>
+<field name="snippet">frightening out there right now. obviously we've had a lot of strange weather. i've asked my hurricanologist at the earth institute what's going on. is this climate change? they say don't go there now. we don't know. this is just an event. but it's a massive event.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190502_130000_Afternoon_Live#start/4558/end/4593</field>
+<field name="datetime">5/2/2019 14:16:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190502_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190502_130000_Afternoon_Live/BBCNEWS_20190502_130000_Afternoon_Live.thumbs/BBCNEWS_20190502_130000_Afternoon_Live_004557.jpg</field>
+<field name="snippet">a stable climate but it is the most ambitious attempt yet from any nation to stop adding to climate change. roger harrabin, bbc news. you can find out lots more about this issue, including our new climate change</field>
+</doc>
+</add>

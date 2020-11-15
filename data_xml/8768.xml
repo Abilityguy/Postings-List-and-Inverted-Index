@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190924_000000_Tucker_Carlson_Tonight#start/120/end/155</field>
+<field name="datetime">9/24/2019 0:02:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190924_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190924_000000_Tucker_Carlson_Tonight/FOXNEWSW_20190924_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190924_000000_Tucker_Carlson_Tonight_000119.jpg</field>
+<field name="snippet">are as humans. well, there are a number of questions. let's see if we can impact them. the first one, climate change, is it real? that's an easy one, of course it's real. the climate always changes. if you are in the united states, the ground that you are standing on right now was, not so long</field>
+</doc>
+</add>

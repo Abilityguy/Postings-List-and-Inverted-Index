@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201006.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100625_100000_FOX_and_Friends#start/4973/end/5008</field>
+<field name="datetime">6/25/2010 11:23:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100625_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100625_100000_FOX_and_Friends/FOXNEWS_20100625_100000_FOX_and_Friends.thumbs/FOXNEWS_20100625_100000_FOX_and_Friends_004972.jpg</field>
+<field name="snippet">that's how long one well respected microbiologist says humans have left on earth. he also blames climate change and a potential dust bowl. so let's quickly get this segment over with. if that's true, i'm having more salt.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091020_210000_Glenn_Beck#start/838/end/873</field>
+<field name="datetime">10/20/2009 21:14:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20091020_210000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091020_210000_Glenn_Beck/FOXNEWS_20091020_210000_Glenn_Beck.thumbs/FOXNEWS_20091020_210000_Glenn_Beck_000840.jpg</field>
+<field name="snippet">believes in saving the planet, you know, and the environment, and protecting the earth from the ravages of climate change, unless, unless i really need to get to work really fast, you know, in a jet, or if l.a. is trying to woo a football team,</field>
+</doc>
+</add>

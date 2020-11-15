@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091018_110000_FOX_and_Friends_Sunday#start/3524/end/3559</field>
+<field name="datetime">10/18/2009 11:58:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWS_20091018_110000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091018_110000_FOX_and_Friends_Sunday/FOXNEWS_20091018_110000_FOX_and_Friends_Sunday.thumbs/FOXNEWS_20091018_110000_FOX_and_Friends_Sunday_003510.jpg</field>
+<field name="snippet">first cabinet meeting underwater. it's okay. complete with desks and coral. but it was no joking matter. the president called the president to show without taking action on climate change, a-ha, his entire</field>
+</doc>
+</add>

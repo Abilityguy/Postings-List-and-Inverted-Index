@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191210_210000_Outside_Source#start/56/end/91</field>
+<field name="datetime">12/10/2019 21:01:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20191210_210000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191210_210000_Outside_Source/BBCNEWS_20191210_210000_Outside_Source.thumbs/BBCNEWS_20191210_210000_Outside_Source_000058.jpg</field>
+<field name="snippet">joshing, as old friends do. and global warming is causing greenland's ice sheet to melt at seven times the rate as in the '90s.</field>
+</doc>
+</add>

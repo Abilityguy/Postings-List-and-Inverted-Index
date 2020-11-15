@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191119_130000_BBC_News_at_One#start/675/end/710</field>
+<field name="datetime">11/19/2019 13:11:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20191119_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191119_130000_BBC_News_at_One/BBCNEWS_20191119_130000_BBC_News_at_One.thumbs/BBCNEWS_20191119_130000_BBC_News_at_One_000657.jpg</field>
+<field name="snippet">the advisory committee on climate change argues that it isn't. other parties have set targets of 2045 or 2050 for making the economy carbon neutral. but the greens are talking about an economic revolution.</field>
+</doc>
+</add>

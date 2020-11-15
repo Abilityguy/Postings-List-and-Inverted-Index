@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170103_110000_BBC_Newsroom_Live#start/3098/end/3133</field>
+<field name="datetime">1/3/2017 11:51:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20170103_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170103_110000_BBC_Newsroom_Live/BBCNEWS_20170103_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20170103_110000_BBC_Newsroom_Live_003087.jpg</field>
+<field name="snippet">an estimated 12 million people. so fingers crossed for clear skies. we're gonna cancel billions in payments to the united nations climate change programmes. and in 2017, all eyes will be on donald trump and global warming. he once tweeted that climate change was 'a hoax',</field>
+</doc>
+</add>

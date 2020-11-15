@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091130_140000_Americas_Newsroom#start/1940/end/1975</field>
+<field name="datetime">11/30/2009 14:32:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20091130_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091130_140000_Americas_Newsroom/FOXNEWS_20091130_140000_Americas_Newsroom.thumbs/FOXNEWS_20091130_140000_Americas_Newsroom_001920.jpg</field>
+<field name="snippet">in confirming or denying that things are getting warmer? they are being asked to come forward with the raw data on climate change. now they are saying that has been dumped. essentially it is the adjusted</field>
+</doc>
+</add>

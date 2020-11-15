@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_050000_Breakfast#start/0/end/34</field>
+<field name="datetime">10/8/2018 5:00:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181008_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_050000_Breakfast/BBCNEWS_20181008_050000_Breakfast.thumbs/BBCNEWS_20181008_050000_Breakfast_000057.jpg</field>
+<field name="snippet">good morning welcome to breakfast with dan walker and louise minchin. our headlines today - a warning to the world - scientists say we will have to make drastic changes to the way we live if we are to tackle climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190710_160000_BBC_News_at_Five#start/70/end/105</field>
+<field name="datetime">7/10/2019 16:01:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190710_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190710_160000_BBC_News_at_Five/BBCNEWS_20190710_160000_BBC_News_at_Five.thumbs/BBCNEWS_20190710_160000_BBC_News_at_Five_000058.jpg</field>
+<field name="snippet">dealt with anti-semitism. a scathing report says the government has a 'ramshackle, dad's army' approach to climate change. alexa, what are the symptoms of chickenpox? according to the nhs website,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201505.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150522_030000_All_In_With_Chris_Hayes#start/1211/end/1246</field>
+<field name="datetime">5/22/2015 3:20:26</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20150522_030000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150522_030000_All_In_With_Chris_Hayes/MSNBCW_20150522_030000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20150522_030000_All_In_With_Chris_Hayes_001186.jpg</field>
+<field name="snippet">jeb bush used to be the governor of florida, which is already feeling the effects of climate change, though officials don't always like to talk about it there. under the current governor, rick scott, state officials have been banned from uttering the change</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201812.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181231_100000_Meet_the_Press#start/110/end/145</field>
+<field name="datetime">12/31/2018 10:02:05</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20181231_100000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181231_100000_Meet_the_Press/MSNBCW_20181231_100000_Meet_the_Press.thumbs/MSNBCW_20181231_100000_Meet_the_Press_000088.jpg</field>
+<field name="snippet">this as the end of this year has proven in the era of trump. but we're going to take an in-depth look regardless of that at a literally earth-changing subject that doesn't get talked about this thoroughly on television news at least. climate change.</field>
+</doc>
+</add>

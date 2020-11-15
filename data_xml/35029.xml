@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201509.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150929_030000_All_In_With_Chris_Hayes#start/3220/end/3255</field>
+<field name="datetime">9/29/2015 3:53:55</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20150929_030000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150929_030000_All_In_With_Chris_Hayes/MSNBCW_20150929_030000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20150929_030000_All_In_With_Chris_Hayes_003196.jpg</field>
+<field name="snippet">i got the opportunity to sit down with him last week to discuss his activism and the evolution of climate change politics. i don't think it's unusual for a generation of americans to be faced with one overwhelming issue. that was true of my parents' generation.</field>
+</doc>
+</add>

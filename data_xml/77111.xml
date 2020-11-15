@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191125_220000_BBC_News_at_Ten#start/372/end/407</field>
+<field name="datetime">11/25/2019 22:06:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20191125_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191125_220000_BBC_News_at_Ten/BBCNEWS_20191125_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20191125_220000_BBC_News_at_Ten_000357.jpg</field>
+<field name="snippet">conference, this time in madrid. the hope is this will help rally the world to make quicker and deeper cuts to greenhouse gas emissions.</field>
+</doc>
+</add>

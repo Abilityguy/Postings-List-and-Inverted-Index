@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200114_140000_Afternoon_Live#start/978/end/1013</field>
+<field name="datetime">1/14/2020 14:16:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20200114_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200114_140000_Afternoon_Live/BBCNEWS_20200114_140000_Afternoon_Live.thumbs/BBCNEWS_20200114_140000_Afternoon_Live_005548.jpg</field>
+<field name="snippet">here's your business headlines on afternoon live: the plans to rescue flybe with a domestic duty tax cut has gone down badly in some quarters. environmental groups have called the plan reckless given the need to combat climate change.</field>
+</doc>
+</add>

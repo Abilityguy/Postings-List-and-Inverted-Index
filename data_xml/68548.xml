@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201203.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120325_120000_Up_W_Chris_Hayes#start/4451/end/4486</field>
+<field name="datetime">3/25/2012 13:14:26</field>
+<field name="station">MSNBC</field>
+<field name="show">Up W Chris Hayes</field>
+<field name="showid">MSNBCW_20120325_120000_Up_W_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120325_120000_Up_W_Chris_Hayes/MSNBCW_20120325_120000_Up_W_Chris_Hayes.thumbs/MSNBCW_20120325_120000_Up_W_Chris_Hayes_004436.jpg</field>
+<field name="snippet">questions which describe what's happening to the world? is it getting warmer? i want to show this graph, it shows correlation between religious affilation and the percentage of people believing in man-made global warming. i should say human-made global warming. so total u.s. population, about</field>
+</doc>
+</add>

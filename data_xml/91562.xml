@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191220_100000_Fox_and_Friends_First#start/398/end/433</field>
+<field name="datetime">12/20/2019 10:06:53</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20191220_100000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191220_100000_Fox_and_Friends_First/FOXNEWSW_20191220_100000_Fox_and_Friends_First.thumbs/FOXNEWSW_20191220_100000_Fox_and_Friends_First_000389.jpg</field>
+<field name="snippet">reporter: we heard a lot of contrast, medicare for all, climate change, taxes come appeared buttigieg with the biggest target on his back and elizabeth warren who went after him over wine caves. the mayor just recently had a</field>
+</doc>
+</add>

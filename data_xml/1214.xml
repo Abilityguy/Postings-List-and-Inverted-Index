@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170528_040000_BBC_News#start/1178/end/1213</field>
+<field name="datetime">5/28/2017 4:19:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170528_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170528_040000_BBC_News/BBCNEWS_20170528_040000_BBC_News.thumbs/BBCNEWS_20170528_040000_BBC_News_001168.jpg</field>
+<field name="snippet">most powerful nations have left the g7 summit without agreeing on a joint statement on climate change. six of them did reaffirm their commitment to the paris accord on reducing greenhouse emissions but president trump refused to sign up for the united states, saying he'll make his own decision next week.</field>
+</doc>
+</add>

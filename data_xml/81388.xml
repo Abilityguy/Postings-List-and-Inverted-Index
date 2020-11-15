@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091219_140000_MSNBC_News_Live#start/580/end/615</field>
+<field name="datetime">12/19/2009 14:09:55</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091219_140000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091219_140000_MSNBC_News_Live/MSNBC_20091219_140000_MSNBC_News_Live.thumbs/MSNBC_20091219_140000_MSNBC_News_Live_000533.jpg</field>
+<field name="snippet">air force base last night as air force one touched down in very heavy snow conditions, you can see there. president obama was in copenhagen, denmark to help iron out a non-binding agreement to curb global warming. and the senate is convening</field>
+</doc>
+</add>

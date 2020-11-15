@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190627_230000_Newsday#start/82/end/117</field>
+<field name="datetime">6/27/2019 23:01:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190627_230000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190627_230000_Newsday/BBCNEWS_20190627_230000_Newsday.thumbs/BBCNEWS_20190627_230000_Newsday_000059.jpg</field>
+<field name="snippet">good morning. it is 7:00am in singapore, midnight in london, and 8:00am in osaka, where leaders of the world's biggest economies have gathered for the 620 summit. in just a few hours' time, they will gather for the official family photo which will get the summit underway. trade wars, iran and climate</field>
+</doc>
+</add>

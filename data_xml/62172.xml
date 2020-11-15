@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181008_190000_Shepard_Smith_Reporting#start/2392/end/2427</field>
+<field name="datetime">10/8/2018 19:40:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20181008_190000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181008_190000_Shepard_Smith_Reporting/FOXNEWSW_20181008_190000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20181008_190000_Shepard_Smith_Reporting_002367.jpg</field>
+<field name="snippet">all that we need to hear. tell the truth. shepard: we will on the climate change story, trust me. the dow dropped more than 200 points in the session early in the day. fox business network deirdre bolton live on the floor.</field>
+</doc>
+</add>

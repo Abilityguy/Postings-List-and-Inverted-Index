@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190824_200000_World_News_Today#start/76/end/111</field>
+<field name="datetime">8/24/2019 20:01:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190824_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190824_200000_World_News_Today/BBCNEWS_20190824_200000_World_News_Today.thumbs/BBCNEWS_20190824_200000_World_News_Today_000057.jpg</field>
+<field name="snippet">america's trade war with china. trade isjust one issue where the leaders could find themselves more divided than united. climate change and the iran nuclear deal will also be discussed. borisjohnson arrived for his first international summit since taking over as prime minister of the uk.</field>
+</doc>
+</add>

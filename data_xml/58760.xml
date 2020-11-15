@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181130_040000_BBC_News#start/1058/end/1093</field>
+<field name="datetime">11/30/2018 4:17:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181130_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181130_040000_BBC_News/BBCNEWS_20181130_040000_BBC_News.thumbs/BBCNEWS_20181130_040000_BBC_News_001048.jpg</field>
+<field name="snippet">to see if agriculture can help tackle climate change. these plants look normal enough, but they're part of a highly unusual experiment that could prove incredibly useful.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_190000_BBC_News#start/375/end/410</field>
+<field name="datetime">8/8/2019 19:06:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190808_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_190000_BBC_News/BBCNEWS_20190808_190000_BBC_News.thumbs/BBCNEWS_20190808_190000_BBC_News_000358.jpg</field>
+<field name="snippet">and ribs on your plate actually has a real link to the level of global warming that we're likely to see. the report suggest that we have to come up with clever new ways of producing food of using land if we're to have any chance of avoiding the most dangerous</field>
+</doc>
+</add>

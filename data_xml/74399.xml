@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200115_220000_BBC_News_at_Ten#start/293/end/328</field>
+<field name="datetime">1/15/2020 22:05:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20200115_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200115_220000_BBC_News_at_Ten/BBCNEWS_20200115_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20200115_220000_BBC_News_at_Ten_000269.jpg</field>
+<field name="snippet">climate awareness is now higher than ever before, but scientists say it's action that's needed, by cutting greenhouse gas emissions to net zero by 2050. this, though, will require huge changes, from swapping fossil fuels to renewables to drastically reducing how much we fly</field>
+</doc>
+</add>

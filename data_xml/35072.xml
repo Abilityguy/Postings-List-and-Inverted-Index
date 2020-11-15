@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201509.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150922_210000_MSNBC_Live#start/291/end/326</field>
+<field name="datetime">9/22/2015 21:05:06</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20150922_210000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150922_210000_MSNBC_Live/MSNBCW_20150922_210000_MSNBC_Live.thumbs/MSNBCW_20150922_210000_MSNBC_Live_000286.jpg</field>
+<field name="snippet">there are a couple of headlines. first of all, we've been curious about what he's going to say to congress when he speaks to them on thursday. last week his secretary of state said the pope would bring up climate change, today the pope was asked if he would bring up</field>
+</doc>
+</add>

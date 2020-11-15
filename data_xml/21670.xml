@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100108_090000_Special_Report_With_Bret_Baier#start/2055/end/2090</field>
+<field name="datetime">1/8/2010 9:34:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100108_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100108_090000_Special_Report_With_Bret_Baier/FOXNEWS_20100108_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100108_090000_Special_Report_With_Bret_Baier_002034.jpg</field>
+<field name="snippet">under president obama. proponents say mapping climactic change promotes national security. if you really want to understand where al-qaeda and other bad guys will move next, one of the things you have to understand is climate change. famine and drought cause human</field>
+</doc>
+</add>

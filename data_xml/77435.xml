@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191126_030000_BBC_News#start/1534/end/1569</field>
+<field name="datetime">11/26/2019 3:25:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191126_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191126_030000_BBC_News/BBCNEWS_20191126_030000_BBC_News.thumbs/BBCNEWS_20191126_030000_BBC_News_001528.jpg</field>
+<field name="snippet">pairs have been finished. a reminder of our top story: a new report shows concentrations of carbon dioxide - the main gas behind global warming - are at record levels.</field>
+</doc>
+</add>

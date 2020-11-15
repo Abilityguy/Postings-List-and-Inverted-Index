@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201009.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100909_100000_FOX_and_Friends#start/1410/end/1445</field>
+<field name="datetime">9/9/2010 10:23:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100909_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100909_100000_FOX_and_Friends/FOXNEWS_20100909_100000_FOX_and_Friends.thumbs/FOXNEWS_20100909_100000_FOX_and_Friends_001405.jpg</field>
+<field name="snippet">we've got to save energy and save the planet. global warming is coming. so we've got to get rid of those old incandescent light bulbs and go to the next compact fluorescent lights, etc., etc., they are made in china.</field>
+</doc>
+</add>

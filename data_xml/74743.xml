@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200121_200000_BBC_News#start/1169/end/1204</field>
+<field name="datetime">1/21/2020 20:19:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200121_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200121_200000_BBC_News/BBCNEWS_20200121_200000_BBC_News.thumbs/BBCNEWS_20200121_200000_BBC_News_001168.jpg</field>
+<field name="snippet">trump has begun. trump is charged with abusing the power of his office and obstructing the subsequent inquiry by congress. meanwhile, he has mounted a strong attack on the climate change movement during his</field>
+</doc>
+</add>

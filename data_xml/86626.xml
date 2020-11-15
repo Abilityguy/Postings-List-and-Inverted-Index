@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191219_220000_BBC_News_at_Ten#start/1268/end/1303</field>
+<field name="datetime">12/19/2019 22:21:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20191219_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191219_220000_BBC_News_at_Ten/BBCNEWS_20191219_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20191219_220000_BBC_News_at_Ten_001259.jpg</field>
+<field name="snippet">he's sceptical of climate change, and is accused of ignoring reality. australian families are worried about climate change. we're worried about the climate change of the future, but we're worried about the climate change of the present. but australia is the world's largest exporter of coal. burning coal gives off the gases</field>
+</doc>
+</add>

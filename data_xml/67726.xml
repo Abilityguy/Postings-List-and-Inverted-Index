@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190225_050000_The_Briefing#start/943/end/978</field>
+<field name="datetime">2/25/2019 5:15:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20190225_050000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190225_050000_The_Briefing/BBCNEWS_20190225_050000_The_Briefing.thumbs/BBCNEWS_20190225_050000_The_Briefing_000927.jpg</field>
+<field name="snippet">still to come, the big freeze - why the search for the world's oldest ice could transform our understanding of climate change.</field>
+</doc>
+</add>

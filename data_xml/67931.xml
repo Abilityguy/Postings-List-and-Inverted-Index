@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190211_180000_BBC_News_at_Six#start/1072/end/1107</field>
+<field name="datetime">2/11/2019 18:18:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20190211_180000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190211_180000_BBC_News_at_Six/BBCNEWS_20190211_180000_BBC_News_at_Six.thumbs/BBCNEWS_20190211_180000_BBC_News_at_Six_001049.jpg</field>
+<field name="snippet">climate change, invasive species and critically how we use our land. increasing intensification of agriculture. around the world, suitable habitat is being consumed</field>
+</doc>
+</add>

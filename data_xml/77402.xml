@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191126_020000_BBC_News#start/140/end/175</field>
+<field name="datetime">11/26/2019 2:02:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191126_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191126_020000_BBC_News/BBCNEWS_20191126_020000_BBC_News.thumbs/BBCNEWS_20191126_020000_BBC_News_000118.jpg</field>
+<field name="snippet">let's see how concentrations of the main greenhouse gas, carbon dioxide, have risen. back in 1800, in the early days of the industrial revolution, there were 280 molecules of carbon dioxide per million. there is a gradual rise until around 1960.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170526_210000_The_Fox_News_Specialists#start/3614/end/3649</field>
+<field name="datetime">5/26/2017 22:00:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Fox News Specialists</field>
+<field name="showid">FOXNEWSW_20170526_210000_The_Fox_News_Specialists</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170526_210000_The_Fox_News_Specialists/FOXNEWSW_20170526_210000_The_Fox_News_Specialists.thumbs/FOXNEWSW_20170526_210000_The_Fox_News_Specialists_003598.jpg</field>
+<field name="snippet">5:00 will never be the same. 'special report' coming up right now. bret: nations who compete economically vow to work together to fight terror. but trade and climate change are far from settled at the g-7 summit. and in the background the specter of russia. this is 'special report.'  good evening, welcome to</field>
+</doc>
+</add>

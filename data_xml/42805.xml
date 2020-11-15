@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180126_030000_BBC_News#start/1113/end/1148</field>
+<field name="datetime">1/26/2018 3:18:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180126_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180126_030000_BBC_News/BBCNEWS_20180126_030000_BBC_News.thumbs/BBCNEWS_20180126_030000_BBC_News_001107.jpg</field>
+<field name="snippet">by nuclear weapons and other threats - forward by 30 seconds. the clock now stands at two minutes to midnight, closer to the symbolic point of annihilation than it's been since the height of the cold war. the scientists, backed by 15 nobel laureates, cited north korea's nuclear and missile programme, climate change and conflicting</field>
+</doc>
+</add>

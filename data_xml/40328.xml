@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201907.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190730_190000_MSNBC_Live_With_Ali_Velshi#start/482/end/517</field>
+<field name="datetime">7/30/2019 19:08:17</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190730_190000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190730_190000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190730_190000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190730_190000_MSNBC_Live_With_Ali_Velshi_000480.jpg</field>
+<field name="snippet">politico is pointing out you have run on a successful obama care market. why not run, governor, on health care? climate change is important issue that voters care a lot about but in all the polling that's been done, it's health</field>
+</doc>
+</add>

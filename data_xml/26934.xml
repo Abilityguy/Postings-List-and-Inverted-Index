@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100209_090000_Special_Report_With_Bret_Baier#start/1781/end/1816</field>
+<field name="datetime">2/9/2010 9:29:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100209_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100209_090000_Special_Report_With_Bret_Baier/FOXNEWS_20100209_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100209_090000_Special_Report_With_Bret_Baier_001764.jpg</field>
+<field name="snippet">grapevine. 11 green energy wind turbines in minnesota, which are supposed to provide environmentally safe electricity and fight global warming cannot operate because they are frozen stiff. the star tribune report the machines were supposed to be</field>
+</doc>
+</add>

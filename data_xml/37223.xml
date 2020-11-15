@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201401.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140115_230000_Special_Report_With_Bret_Baier#start/1592/end/1627</field>
+<field name="datetime">1/15/2014 23:26:47</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20140115_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140115_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20140115_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20140115_230000_Special_Report_With_Bret_Baier_001575.jpg</field>
+<field name="snippet">that's $1 trillion with a 't.' we're told it's needed by 2030 in order to keep global warming from reaching a dangerous threshold. worldwide investment in green technology is currently about $300 billion a year.</field>
+</doc>
+</add>

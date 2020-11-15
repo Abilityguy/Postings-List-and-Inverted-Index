@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170708_205000_BBC_News#start/1070/end/1105</field>
+<field name="datetime">7/8/2017 21:08:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170708_205000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170708_205000_BBC_News/BBCNEWS_20170708_205000_BBC_News.thumbs/BBCNEWS_20170708_205000_BBC_News_001047.jpg</field>
+<field name="snippet">good night. this is bbc news. let's return now to our top story - the final day of the 620 summit in hamburg. almost all the leaders of the member countries renewed their pledge to implement the paris climate change agreement, with the notable exception of us president donald trump. of course, the host of this</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201107.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20110725_190000_Martin_Bashir#start/1422/end/1457</field>
+<field name="datetime">7/25/2011 19:23:57</field>
+<field name="station">MSNBC</field>
+<field name="show">Martin Bashir</field>
+<field name="showid">MSNBCW_20110725_190000_Martin_Bashir</field>
+<field name="preview">https://archive.org/download/MSNBCW_20110725_190000_Martin_Bashir/MSNBCW_20110725_190000_Martin_Bashir.thumbs/MSNBCW_20110725_190000_Martin_Bashir_001410.jpg</field>
+<field name="snippet">on everything from climate change to health care. fighting words indeed. for the latest bout of this political fisticuffs, we are joined by michelle who writes for the daily beast. hello, martin.</field>
+</doc>
+</add>

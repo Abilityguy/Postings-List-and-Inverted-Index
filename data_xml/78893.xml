@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20200118_010000_Tucker_Carlson_Tonight#start/82/end/117</field>
+<field name="datetime">1/18/2020 1:01:37</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20200118_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20200118_010000_Tucker_Carlson_Tonight/FOXNEWSW_20200118_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20200118_010000_Tucker_Carlson_Tonight_000058.jpg</field>
+<field name="snippet">climate change, on fighting gun violence and on criminal justice. and you have as importantly welcomed immigrants with open arms. california is part of this country that is something the rest of the country looks up to.</field>
+</doc>
+</add>

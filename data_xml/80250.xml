@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190518_140000_Cavuto_Live#start/1650/end/1685</field>
+<field name="datetime">5/18/2019 14:27:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Cavuto Live</field>
+<field name="showid">FOXNEWSW_20190518_140000_Cavuto_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190518_140000_Cavuto_Live/FOXNEWSW_20190518_140000_Cavuto_Live.thumbs/FOXNEWSW_20190518_140000_Cavuto_Live_001648.jpg</field>
+<field name="snippet">government in charge had championed jobs, jobs, jobs, improving under our leadership and the climate change and that environment, which is the big issue in australia, because i guess the ozone layer is gone there and it's hot.</field>
+</doc>
+</add>

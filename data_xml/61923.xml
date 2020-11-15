@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201409.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140906_080000_The_Five#start/2402/end/2437</field>
+<field name="datetime">9/6/2014 8:40:17</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20140906_080000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140906_080000_The_Five/FOXNEWSW_20140906_080000_The_Five.thumbs/FOXNEWSW_20140906_080000_The_Five_002325.jpg</field>
+<field name="snippet">well according to hillary clinton it's climate change. this is the most consequential urgent, sweeping challenges we face as a nation and a world.</field>
+</doc>
+</add>

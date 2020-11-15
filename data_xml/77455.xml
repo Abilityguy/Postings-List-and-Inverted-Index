@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191126_023000_Electioncast#start/1808/end/1843</field>
+<field name="datetime">11/26/2019 3:00:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Electioncast</field>
+<field name="showid">BBCNEWS_20191126_023000_Electioncast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191126_023000_Electioncast/BBCNEWS_20191126_023000_Electioncast.thumbs/BBCNEWS_20191126_023000_Electioncast_001738.jpg</field>
+<field name="snippet">welcome to bbc news. i'm mike embley. our top stories: a new report shows concentrations of carbon dioxide, the main gas behind global warming, are at record levels. the critical period is now</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190208_190000_BBC_News#start/2101/end/2136</field>
+<field name="datetime">2/8/2019 19:35:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190208_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190208_190000_BBC_News/BBCNEWS_20190208_190000_BBC_News.thumbs/BBCNEWS_20190208_190000_BBC_News_002098.jpg</field>
+<field name="snippet">negative power station, which we believe is absolutely critical, if we are to hit our global warming targets, and keep temperatures below preindustrial levels. but what to do with that captured carbon dioxide?</field>
+</doc>
+</add>

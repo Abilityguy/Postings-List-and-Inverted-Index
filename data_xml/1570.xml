@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200908.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20090804_100000_Morning_Joe#start/602/end/637</field>
+<field name="datetime">8/4/2009 10:10:17</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20090804_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20090804_100000_Morning_Joe/MSNBC_20090804_100000_Morning_Joe.thumbs/MSNBC_20090804_100000_Morning_Joe_000600.jpg</field>
+<field name="snippet">public option what? i want a job. why are you guys -- cap and trade, global warming. you know what, i don't know if there's global warming. i do know i can't afford to send my kid to a community college</field>
+</doc>
+</add>

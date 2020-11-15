@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180914_000000_Newsday#start/301/end/336</field>
+<field name="datetime">9/14/2018 0:05:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20180914_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180914_000000_Newsday/BBCNEWS_20180914_000000_Newsday.thumbs/BBCNEWS_20180914_000000_Newsday_000298.jpg</field>
+<field name="snippet">stream, which may be associated with climate change - normally the jet stream moves the hurricanes off the eastern seaboard and pushes them away into the atlantic. but we saw with hurricane harvey last year, when i reported on that in houston, the storm sat over</field>
+</doc>
+</add>

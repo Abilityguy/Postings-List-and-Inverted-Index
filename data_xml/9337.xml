@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170717_220000_Special_Report_With_Bret_Baier#start/966/end/1001</field>
+<field name="datetime">7/17/2017 22:16:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20170717_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170717_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20170717_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20170717_220000_Special_Report_With_Bret_Baier_000958.jpg</field>
+<field name="snippet">the military. don't just get ready to defend against rising terror threats, also get ready to defend against rising sea levels and global warming. we would be remiss in our efforts to protect national security to not account for the risk climate change poses.</field>
+</doc>
+</add>

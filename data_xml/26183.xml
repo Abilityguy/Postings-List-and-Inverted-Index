@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201003.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100325_170000_America_Live#start/6017/end/6052</field>
+<field name="datetime">3/25/2010 18:40:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWS_20100325_170000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100325_170000_America_Live/FOXNEWS_20100325_170000_America_Live.thumbs/FOXNEWS_20100325_170000_America_Live_005990.jpg</field>
+<field name="snippet">foxnews.com/live shots and there you can see photos and read more about what the zoo is telling people about global warming. a military jet headed for the skies above the sunshine state. with vegetable oil in the tank.</field>
+</doc>
+</add>

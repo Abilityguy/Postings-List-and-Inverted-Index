@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201212.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121209_110000_FOX_and_Friends_Sunday#start/6522/end/6557</field>
+<field name="datetime">12/9/2012 12:48:57</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20121209_110000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121209_110000_FOX_and_Friends_Sunday/FOXNEWSW_20121209_110000_FOX_and_Friends_Sunday.thumbs/FOXNEWSW_20121209_110000_FOX_and_Friends_Sunday_006508.jpg</field>
+<field name="snippet">activity. what do you think causes global warming? i think it's a very complicated issue, when you take a look at what the u.n. models that are projecting global warming do, when they use them to project climate, they can't replicate past</field>
+</doc>
+</add>

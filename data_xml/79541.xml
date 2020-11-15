@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201402.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140219_080000_All_In_With_Chris_Hayes#start/1651/end/1686</field>
+<field name="datetime">2/19/2014 8:27:46</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20140219_080000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140219_080000_All_In_With_Chris_Hayes/MSNBCW_20140219_080000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20140219_080000_All_In_With_Chris_Hayes_001575.jpg</field>
+<field name="snippet">something pretty remarkable is happening in american politics right now. we are seeing right now and for the first time in a long time some real forward momentum on climate change. take, for instance, this big headline out of 'the new york times' today. one man, tom steyer, plans to spend as much as $100 million</field>
+</doc>
+</add>

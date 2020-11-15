@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191202_110000_BBC_Newsroom_Live#start/1309/end/1344</field>
+<field name="datetime">12/2/2019 11:22:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20191202_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191202_110000_BBC_Newsroom_Live/BBCNEWS_20191202_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20191202_110000_BBC_Newsroom_Live_001288.jpg</field>
+<field name="snippet">to reverse the present trend in which unfortunately climate change is running faster than what we are. and with the risk at a relatively short amount of time to become irreversible, that we will not be able to contain the temperature</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201012.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101206_220000_Glenn_Beck#start/798/end/833</field>
+<field name="datetime">12/6/2010 22:13:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20101206_220000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101206_220000_Glenn_Beck/FOXNEWS_20101206_220000_Glenn_Beck.thumbs/FOXNEWS_20101206_220000_Glenn_Beck_000776.jpg</field>
+<field name="snippet">three years you're not working. will you be able to compete, or will we need an eretraining program as well? also. did you see over the weekend the lines in georgia? who knew it got cold in georgia. it must be that global warming</field>
+</doc>
+</add>

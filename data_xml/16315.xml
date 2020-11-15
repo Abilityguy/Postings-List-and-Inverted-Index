@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201502.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150209_220000_The_Five#start/106/end/141</field>
+<field name="datetime">2/9/2015 22:02:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20150209_220000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150209_220000_The_Five/FOXNEWSW_20150209_220000_The_Five.thumbs/FOXNEWSW_20150209_220000_The_Five_000105.jpg</field>
+<field name="snippet">he sees it. take a listen. do you think the media sometimes overstates the sort of level of alarm people should have about terrorism and this kind of chaos as opposed to a longer term problem of climate</field>
+</doc>
+</add>

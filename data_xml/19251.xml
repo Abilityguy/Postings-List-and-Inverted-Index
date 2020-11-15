@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201903.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190306_100000_First_Look#start/1005/end/1040</field>
+<field name="datetime">3/6/2019 10:17:00</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20190306_100000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190306_100000_First_Look/MSNBCW_20190306_100000_First_Look.thumbs/MSNBCW_20190306_100000_First_Look_000987.jpg</field>
+<field name="snippet">pacs, here's what inslee had to say, it aired just yesterday. my understanding is these are people that want to defeat climate change. so, no, i will not be condemning any organization that wants to defeat climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190321_040000_Tucker_Carlson_Tonight#start/1220/end/1255</field>
+<field name="datetime">3/21/2019 4:20:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190321_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190321_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190321_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190321_040000_Tucker_Carlson_Tonight_001197.jpg</field>
+<field name="snippet">we have a new poll that answers those questions. the poll asked voters what issue was more important to them, the number one issue, immigration. what percent picked global warming? that imminent threat? 2%. so voters know which issue is</field>
+</doc>
+</add>

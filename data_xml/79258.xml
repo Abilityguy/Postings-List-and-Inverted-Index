@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201402.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140203_070000_Meet_the_Press#start/1849/end/1884</field>
+<field name="datetime">2/3/2014 7:31:04</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20140203_070000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140203_070000_Meet_the_Press/MSNBCW_20140203_070000_Meet_the_Press.thumbs/MSNBCW_20140203_070000_Meet_the_Press_001845.jpg</field>
+<field name="snippet">if something good happens, we get the credit if nothing happens. the other is the keystone pipeline. it was interesting to hear him say we'll see what other cabinet members say. this decision is putting john kerry between the rock and the hard place, long-time climate</field>
+</doc>
+</add>

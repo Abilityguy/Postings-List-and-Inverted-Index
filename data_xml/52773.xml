@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180610_040000_BBC_News#start/1200/end/1235</field>
+<field name="datetime">6/10/2018 4:20:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180610_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180610_040000_BBC_News/BBCNEWS_20180610_040000_BBC_News.thumbs/BBCNEWS_20180610_040000_BBC_News_001197.jpg</field>
+<field name="snippet">and investors invited to a gathering at the vatican. companies including exxon mobil, bp and equinor of norway company all sent representatives. he has long spoken about the need for urgent action on climate change. in 2015, months ahead</field>
+</doc>
+</add>

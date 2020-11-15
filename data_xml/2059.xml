@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20171115_080000_Fox_News__Night#start/2049/end/2084</field>
+<field name="datetime">11/15/2017 8:34:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News  Night</field>
+<field name="showid">FOXNEWSW_20171115_080000_Fox_News__Night</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20171115_080000_Fox_News__Night/FOXNEWSW_20171115_080000_Fox_News__Night.thumbs/FOXNEWSW_20171115_080000_Fox_News__Night_002038.jpg</field>
+<field name="snippet">there is no indication the trump administration is advocating that fossil fuels are the answer to climate change. instead the white house argument seems to be the for the near future, fossil fuels are unavoidable.</field>
+</doc>
+</add>

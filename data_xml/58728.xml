@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181128_054500_The_Briefing#start/15/end/50</field>
+<field name="datetime">11/28/2018 5:45:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20181128_054500_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181128_054500_The_Briefing/BBCNEWS_20181128_054500_The_Briefing.thumbs/BBCNEWS_20181128_054500_The_Briefing_000057.jpg</field>
+<field name="snippet">from the united nations that countries throughout the world must slash emissions by five times their planned amount in the next 11 years if they are to avert disastrous global warming. the un says vanishing islands, widespread species extinctions and extreme weather have all been predicted under even the most</field>
+</doc>
+</add>

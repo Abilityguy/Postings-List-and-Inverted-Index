@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201504.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150423_000000_All_In_With_Chris_Hayes#start/165/end/200</field>
+<field name="datetime">4/23/2015 0:03:00</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20150423_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150423_000000_All_In_With_Chris_Hayes/MSNBCW_20150423_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20150423_000000_All_In_With_Chris_Hayes_000166.jpg</field>
+<field name="snippet">called out governor scott's alleged aversion to those words both in the run-up to the speech and again today when the president was clearly referring to a governor whose putting his fingers and his ears and hands over his eyes and pretending climate change doesn't exist. so climate change can no</field>
+</doc>
+</add>

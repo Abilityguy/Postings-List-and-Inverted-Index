@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201404.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140409_090000_FOX_and_Friends_First#start/3540/end/3575</field>
+<field name="datetime">4/9/2014 9:59:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends First</field>
+<field name="showid">FOXNEWSW_20140409_090000_FOX_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140409_090000_FOX_and_Friends_First/FOXNEWSW_20140409_090000_FOX_and_Friends_First.thumbs/FOXNEWSW_20140409_090000_FOX_and_Friends_First_003525.jpg</field>
+<field name="snippet">picked up two more underwater signals that could be from the plane's black box. and a new study set to be released today finds climate change is nothing but hot air. they say the human impact is small and any temperature changes are well within the natural range.</field>
+</doc>
+</add>

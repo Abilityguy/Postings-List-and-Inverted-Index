@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170808_050000_Breakfast#start/338/end/373</field>
+<field name="datetime">8/8/2017 5:05:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20170808_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170808_050000_Breakfast/BBCNEWS_20170808_050000_Breakfast.thumbs/BBCNEWS_20170808_050000_Breakfast_000327.jpg</field>
+<field name="snippet">bbc news. scientists are warning that systems currently used to measure greenhouse gas emissions around the world are seriously flawed. a bbc investigation has found that not all gases which are produced are actually recorded. a group of leading researchers in the field, have told the counting carbon programme, on bbc radio four, that the issue poses a major threat to the paris climate agreement.</field>
+</doc>
+</add>

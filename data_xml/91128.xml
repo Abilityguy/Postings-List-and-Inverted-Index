@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190605_190000_Shepard_Smith_Reporting#start/1743/end/1778</field>
+<field name="datetime">6/5/2019 19:29:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20190605_190000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190605_190000_Shepard_Smith_Reporting/FOXNEWSW_20190605_190000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20190605_190000_Shepard_Smith_Reporting_001739.jpg</field>
+<field name="snippet">arise primarily from distinct extreme weather events and worsening pre-existing problems like water and food insecurity. prince charles spent 90 minutes trying to convince president trump that climate</field>
+</doc>
+</add>

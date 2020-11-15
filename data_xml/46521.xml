@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201302.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130217_200000_MSNBC_Live#start/3279/end/3314</field>
+<field name="datetime">2/17/2013 20:54:54</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20130217_200000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130217_200000_MSNBC_Live/MSNBCW_20130217_200000_MSNBC_Live.thumbs/MSNBCW_20130217_200000_MSNBC_Live_003195.jpg</field>
+<field name="snippet">thousands are still milling around the national mall right now despite freezing temperatures following a demonstration on climate change that just wrapped up, we're told. they are calling on president obama to press for climate change reform in his second-term</field>
+</doc>
+</add>

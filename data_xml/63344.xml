@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190331_070000_Breakfast_BBC_News_Channel#start/507/end/542</field>
+<field name="datetime">3/31/2019 7:08:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast BBC News Channel</field>
+<field name="showid">BBCNEWS_20190331_070000_Breakfast_BBC_News_Channel</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190331_070000_Breakfast_BBC_News_Channel/BBCNEWS_20190331_070000_Breakfast_BBC_News_Channel.thumbs/BBCNEWS_20190331_070000_Breakfast_BBC_News_Channel_000507.jpg</field>
+<field name="snippet">for its iconic skyline. but even here, they sometimes have to turn out the lights. victoria harbour suddenly a lot less illuminated than normal. and the fight against climate change was the inspiration. we need to find a balance</field>
+</doc>
+</add>

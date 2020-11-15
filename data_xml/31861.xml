@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201204.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120413_000000_The_OReilly_Factor#start/3419/end/3454</field>
+<field name="datetime">4/13/2012 0:57:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20120413_000000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120413_000000_The_OReilly_Factor/FOXNEWSW_20120413_000000_The_OReilly_Factor.thumbs/FOXNEWSW_20120413_000000_The_OReilly_Factor_003416.jpg</field>
+<field name="snippet">brian smith, tucson, arizona. didn't say that to mike wallace, brian i remember said there is global warming and that's a fact.</field>
+</doc>
+</add>

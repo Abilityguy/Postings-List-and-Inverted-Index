@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200908.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20090820_010000_The_Rachel_Maddow_Show#start/759/end/794</field>
+<field name="datetime">8/20/2009 1:12:54</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBC_20090820_010000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20090820_010000_The_Rachel_Maddow_Show/MSNBC_20090820_010000_The_Rachel_Maddow_Show.thumbs/MSNBC_20090820_010000_The_Rachel_Maddow_Show_000745.jpg</field>
+<field name="snippet">temporary employee who has since been fired who sent out just a few letters purporting to be from the naacp, from a hispanic group, from a women's group, from a board on aging. these were letters that urged three house democrats to vote against climate change legislation that was making its way through congress.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201510.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151023_190000_MSNBC_Live_With_Kate_Snow#start/4437/end/4472</field>
+<field name="datetime">10/23/2015 20:14:12</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Kate Snow</field>
+<field name="showid">MSNBCW_20151023_190000_MSNBC_Live_With_Kate_Snow</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151023_190000_MSNBC_Live_With_Kate_Snow/MSNBCW_20151023_190000_MSNBC_Live_With_Kate_Snow.thumbs/MSNBCW_20151023_190000_MSNBC_Live_With_Kate_Snow_001938.jpg</field>
+<field name="snippet">america's leading action on climate change. america's leading the world to write stronger and smarter trade rules for the 21st century. we've begun a new chapter of engagement with the cuban people. we've brought thousands of our brave troops home to be with</field>
+</doc>
+</add>

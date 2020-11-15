@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190918_230000_Newsday#start/230/end/265</field>
+<field name="datetime">9/18/2019 23:04:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190918_230000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190918_230000_Newsday/BBCNEWS_20190918_230000_Newsday.thumbs/BBCNEWS_20190918_230000_Newsday_000209.jpg</field>
+<field name="snippet">16-year-old environmental campaigner greta thunberg has told us politicians that they're not doing enough to combat climate change. she was one of several young activists invited to address the senate climate taskforce during two days of action and speeches. she sent congress a major report on global warming, saying she wanted them to listen to the scientists and then take action.</field>
+</doc>
+</add>

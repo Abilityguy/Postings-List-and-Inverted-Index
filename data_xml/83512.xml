@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190427_024500_Newswatch#start/189/end/224</field>
+<field name="datetime">4/27/2019 2:48:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newswatch</field>
+<field name="showid">BBCNEWS_20190427_024500_Newswatch</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190427_024500_Newswatch/BBCNEWS_20190427_024500_Newswatch.thumbs/BBCNEWS_20190427_024500_Newswatch_000179.jpg</field>
+<field name="snippet">i am an environment correspondent, so obviously, i would like to have seen the bbc doing much more on the environment, in all its shades and flavours. to be fair, though, editors have had some difficulty with climate change.</field>
+</doc>
+</add>

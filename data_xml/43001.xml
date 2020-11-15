@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201112.csv</field>
+<field name="url">https://archive.org/details/CNNW_20111221_090000_World_Business_Today#start/974/end/1009</field>
+<field name="datetime">12/21/2011 9:16:29</field>
+<field name="station">CNN</field>
+<field name="show">World Business Today</field>
+<field name="showid">CNNW_20111221_090000_World_Business_Today</field>
+<field name="preview">https://archive.org/download/CNNW_20111221_090000_World_Business_Today/CNNW_20111221_090000_World_Business_Today.thumbs/CNNW_20111221_090000_World_Business_Today_000956.jpg</field>
+<field name="snippet">following today. international airlines flying in and out of the european union may soon be hit with a new carbon tax, a tax on carbon emissions, rather. the eu's highest court is expected to uphold the proposal when it meets later today.</field>
+</doc>
+</add>

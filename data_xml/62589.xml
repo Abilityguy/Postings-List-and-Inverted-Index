@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201212.csv</field>
+<field name="url">https://archive.org/details/CNNW_20121230_140000_State_of_the_Union#start/1385/end/1420</field>
+<field name="datetime">12/30/2012 14:23:20</field>
+<field name="station">CNN</field>
+<field name="show">State of the Union</field>
+<field name="showid">CNNW_20121230_140000_State_of_the_Union</field>
+<field name="preview">https://archive.org/download/CNNW_20121230_140000_State_of_the_Union/CNNW_20121230_140000_State_of_the_Union.thumbs/CNNW_20121230_140000_State_of_the_Union_001365.jpg</field>
+<field name="snippet">it's lots of things. all waking up. becoming part of the global phenomenon we call the internet of everything. trees will talk to networks will talk to scientists about climate change. cars will talk to road sensors</field>
+</doc>
+</add>

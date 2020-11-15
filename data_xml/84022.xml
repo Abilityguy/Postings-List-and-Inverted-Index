@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190418_000000_Newsday#start/1422/end/1457</field>
+<field name="datetime">4/18/2019 0:23:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190418_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190418_000000_Newsday/BBCNEWS_20190418_000000_Newsday.thumbs/BBCNEWS_20190418_000000_Newsday_001409.jpg</field>
+<field name="snippet">for a third day in a row, climate change activists from extinction rebellion have been protesting in central london. our home affairs correspondent tom symonds reports. this is normally one of the busiest bridges across the thames.</field>
+</doc>
+</add>

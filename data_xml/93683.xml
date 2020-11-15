@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190704_120000_BBC_News_at_One#start/1093/end/1128</field>
+<field name="datetime">7/4/2019 12:18:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190704_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190704_120000_BBC_News_at_One/BBCNEWS_20190704_120000_BBC_News_at_One.thumbs/BBCNEWS_20190704_120000_BBC_News_at_One_001077.jpg</field>
+<field name="snippet">there are questions on how encouraging more domestic flights fits with the uk's targets to reduce the impact of climate change. we are using the most fuel-efficient type of regional aircraft that there are, to operate these new services from here.</field>
+</doc>
+</add>

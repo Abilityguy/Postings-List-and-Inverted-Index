@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201110.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20111004_030000_The_Last_Word#start/201/end/236</field>
+<field name="datetime">10/4/2011 3:03:36</field>
+<field name="station">MSNBC</field>
+<field name="show">The Last Word</field>
+<field name="showid">MSNBCW_20111004_030000_The_Last_Word</field>
+<field name="preview">https://archive.org/download/MSNBCW_20111004_030000_The_Last_Word/MSNBCW_20111004_030000_The_Last_Word.thumbs/MSNBCW_20111004_030000_The_Last_Word_000177.jpg</field>
+<field name="snippet">should be here without documentation. they do not believe global warming is a crisis or a threat. yes, it might be a little bit out there. but they don't see it as a crisis or a threat. as you go down the line, he's going to turn off a lot of conservatives with those</field>
+</doc>
+</add>

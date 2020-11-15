@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201508.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150804_070000_All_In_With_Chris_Hayes#start/1192/end/1227</field>
+<field name="datetime">8/4/2015 7:20:07</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20150804_070000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150804_070000_All_In_With_Chris_Hayes/MSNBCW_20150804_070000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20150804_070000_All_In_With_Chris_Hayes_001186.jpg</field>
+<field name="snippet">today, president obama announced the most far-reaching action on climate change this country has ever seen. called the clean power plan. setting a goal of cutting pollution by 32% by the year 2030.</field>
+</doc>
+</add>

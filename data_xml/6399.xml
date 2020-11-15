@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190925_040000_The_Briefing#start/31/end/66</field>
+<field name="datetime">9/25/2019 4:00:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20190925_040000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190925_040000_The_Briefing/BBCNEWS_20190925_040000_The_Briefing.thumbs/BBCNEWS_20190925_040000_The_Briefing_000027.jpg</field>
+<field name="snippet">president trump faces a formal impeachment inquiry over allegations he asked a foreign power to help damage a political rival. critics say he's violated the constitution. climate change could leave hundreds of millions at risk of flooding by the end</field>
+</doc>
+</add>

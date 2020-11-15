@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181215_130000_BBC_News#start/247/end/282</field>
+<field name="datetime">12/15/2018 13:04:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181215_130000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181215_130000_BBC_News/BBCNEWS_20181215_130000_BBC_News.thumbs/BBCNEWS_20181215_130000_BBC_News_000238.jpg</field>
+<field name="snippet">un climate talks in poland, which were due to end yesterday, have been extended to allow delegates more time to agree a consensus on how to limit global warming. talks continued through the night on contentious issues including how poorer countries should be compensated for the damage</field>
+</doc>
+</add>

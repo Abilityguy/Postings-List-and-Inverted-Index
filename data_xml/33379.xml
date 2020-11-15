@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091204_110000_FOX_and_Friends#start/975/end/1010</field>
+<field name="datetime">12/4/2009 11:16:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091204_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091204_110000_FOX_and_Friends/FOXNEWS_20091204_110000_FOX_and_Friends.thumbs/FOXNEWS_20091204_110000_FOX_and_Friends_000773.jpg</field>
+<field name="snippet">president's health care reform. now senator john mccain wants in on the action. we will explain. steve: it is being called climate gate controversy over leaked email that critics say the science behind global warming may have been</field>
+</doc>
+</add>

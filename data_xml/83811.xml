@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190418_040000_The_Briefing#start/1031/end/1066</field>
+<field name="datetime">4/18/2019 4:17:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20190418_040000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190418_040000_The_Briefing/BBCNEWS_20190418_040000_The_Briefing.thumbs/BBCNEWS_20190418_040000_The_Briefing_001018.jpg</field>
+<field name="snippet">tonight at 9pm. if you're trying to cut through the confusion on climate change, you can find a clear and comprehensive explanation of all the issues and even talk</field>
+</doc>
+</add>

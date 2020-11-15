@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190910_073000_BBC_Business_Live#start/481/end/516</field>
+<field name="datetime">9/10/2019 7:38:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Business Live</field>
+<field name="showid">BBCNEWS_20190910_073000_BBC_Business_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190910_073000_BBC_Business_Live/BBCNEWS_20190910_073000_BBC_Business_Live.thumbs/BBCNEWS_20190910_073000_BBC_Business_Live_000478.jpg</field>
+<field name="snippet">a meeting of the car-maker's board. investing $1.8 trillion over the next decade to adapt to climate change could produce net benefits worth more than $7 trillion. that's according to a report by the global commission on adaptation, a group of 3a leaders in politics, business and science.</field>
+</doc>
+</add>

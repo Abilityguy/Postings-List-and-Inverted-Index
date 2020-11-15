@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190606_010000_Hannity#start/122/end/157</field>
+<field name="datetime">6/6/2019 1:02:17</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20190606_010000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190606_010000_Hannity/FOXNEWSW_20190606_010000_Hannity.thumbs/FOXNEWSW_20190606_010000_Hannity_000118.jpg</field>
+<field name="snippet">that is their poll. according to pew research center, this country is more worried about fake news than terrorism. a so-called climate change, racism, sexism, even violent crime. this is a major political victory for president trump.</field>
+</doc>
+</add>

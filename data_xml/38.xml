@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201103.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110330_170000_America_Live#start/1713/end/1748</field>
+<field name="datetime">3/30/2011 17:28:48</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWS_20110330_170000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110330_170000_America_Live/FOXNEWS_20110330_170000_America_Live.thumbs/FOXNEWS_20110330_170000_America_Live_001704.jpg</field>
+<field name="snippet">it will give the congress the time they need to address the climate change and not disrupt or reverse the progress that's been made. reporter: a vote that was expected today is looking less</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190502_170000_BBC_News_at_Six#start/815/end/850</field>
+<field name="datetime">5/2/2019 17:13:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20190502_170000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190502_170000_BBC_News_at_Six/BBCNEWS_20190502_170000_BBC_News_at_Six.thumbs/BBCNEWS_20190502_170000_BBC_News_at_Six_000807.jpg</field>
+<field name="snippet">information about climate change and today's report on the bbc website, including our new 'jargon buster,' which explains all the key terms. a woman who contracted hiv from her husband after he was given contaminated blood products</field>
+</doc>
+</add>

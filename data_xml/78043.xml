@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191122_110000_BBC_Newsroom_Live#start/3688/end/3723</field>
+<field name="datetime">11/22/2019 12:01:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20191122_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191122_110000_BBC_Newsroom_Live/BBCNEWS_20191122_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20191122_110000_BBC_Newsroom_Live_003688.jpg</field>
+<field name="snippet">am in norwich hearing about issues that matter to them in the general election, including mental health services and climate change. a man who shot his heavily pregnant ex-wife dead with a crossbow has been found guilty. tsb says payments into some</field>
+</doc>
+</add>

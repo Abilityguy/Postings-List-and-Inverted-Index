@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201411.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141105_230000_Special_Report_With_Bret_Baier#start/2344/end/2379</field>
+<field name="datetime">11/5/2014 23:39:19</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20141105_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141105_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20141105_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20141105_230000_Special_Report_With_Bret_Baier_002325.jpg</field>
+<field name="snippet">the scientist declined an on camera interview saying he's already getting backlash from some in the pro global warming community who may be facing a sea change on climate change. the republican wave crested and then crashed here in</field>
+</doc>
+</add>

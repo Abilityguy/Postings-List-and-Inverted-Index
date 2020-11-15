@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191208_100000_BBC_News#start/1475/end/1510</field>
+<field name="datetime">12/8/2019 10:24:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191208_100000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191208_100000_BBC_News/BBCNEWS_20191208_100000_BBC_News.thumbs/BBCNEWS_20191208_100000_BBC_News_001469.jpg</field>
+<field name="snippet">we have decided, as a world community, that greenhouse gases should be going down, but the graph says otherwise. there is a very stark warning from the head of the united nations. there is no time and no reason to delay.</field>
+</doc>
+</add>

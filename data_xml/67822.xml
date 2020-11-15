@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190219_060000_Breakfast#start/4080/end/4115</field>
+<field name="datetime">2/19/2019 7:08:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190219_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190219_060000_Breakfast/BBCNEWS_20190219_060000_Breakfast.thumbs/BBCNEWS_20190219_060000_Breakfast_004078.jpg</field>
+<field name="snippet">producers to be charged a penny for every new item of clothes they make, to help improve collection and recycling rates. that's the view of mps, who say 'fast fashion', where clothes are made cheaply and quickly in response to trends, is a major contributor to greenhouse gases, pollution and over-use of water. here's our</field>
+</doc>
+</add>

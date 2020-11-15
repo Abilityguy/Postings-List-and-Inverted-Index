@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201406.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140619_130000_The_Daily_Rundown#start/64/end/99</field>
+<field name="datetime">6/19/2014 13:01:19</field>
+<field name="station">MSNBC</field>
+<field name="show">The Daily Rundown</field>
+<field name="showid">MSNBCW_20140619_130000_The_Daily_Rundown</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140619_130000_The_Daily_Rundown/MSNBCW_20140619_130000_The_Daily_Rundown.thumbs/MSNBCW_20140619_130000_The_Daily_Rundown_000045.jpg</field>
+<field name="snippet">plus we're digging deeper into our new poll from immigration to climate change to education. the wide divide between the tea party and, well, everyone else. good morning from washington. it's thursday, june 19th, 2014. this is 'the daily rundown.' also this hour, meet the man who's about to receive the</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191122_130000_BBC_News_at_One#start/553/end/588</field>
+<field name="datetime">11/22/2019 13:09:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20191122_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191122_130000_BBC_News_at_One/BBCNEWS_20191122_130000_BBC_News_at_One.thumbs/BBCNEWS_20191122_130000_BBC_News_at_One_000538.jpg</field>
+<field name="snippet">there was almost nothing on climate change, except planting trees. the brexit party may have signed up former conservative ann widdecombe, but it is not fielding enough candidates to win this election. nigel farage has described his party</field>
+</doc>
+</add>

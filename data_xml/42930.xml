@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180116_060000_Breakfast#start/8650/end/8685</field>
+<field name="datetime">1/16/2018 8:24:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20180116_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180116_060000_Breakfast/BBCNEWS_20180116_060000_Breakfast.thumbs/BBCNEWS_20180116_060000_Breakfast_008637.jpg</field>
+<field name="snippet">protection required? well, at the moment the antarctic is a pretty special place, but it is already coming under pressure. so we're seeing the impact of climate change and we have this industrial fishing vessels which are travelling down to the antarctic and targeting the one</field>
+</doc>
+</add>

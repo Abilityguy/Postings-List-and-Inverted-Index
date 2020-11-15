@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201607.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160729_100000_FOX__Friends#start/8859/end/8894</field>
+<field name="datetime">7/29/2016 12:27:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20160729_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160729_100000_FOX__Friends/FOXNEWSW_20160729_100000_FOX__Friends.thumbs/FOXNEWSW_20160729_100000_FOX__Friends_008847.jpg</field>
+<field name="snippet">life fighting for families and children. i'm voting for the progressive who will protect our planet from climate change and our communities from gun violence. who will reform our criminal</field>
+</doc>
+</add>

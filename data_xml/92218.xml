@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170808_230000_The_Story_With_Martha_MacCallum#start/1619/end/1654</field>
+<field name="datetime">8/8/2017 23:27:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Story With Martha MacCallum</field>
+<field name="showid">FOXNEWSW_20170808_230000_The_Story_With_Martha_MacCallum</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170808_230000_The_Story_With_Martha_MacCallum/FOXNEWSW_20170808_230000_The_Story_With_Martha_MacCallum.thumbs/FOXNEWSW_20170808_230000_The_Story_With_Martha_MacCallum_001617.jpg</field>
+<field name="snippet">dana: new details after 'the new york times' publishes details of a government climate change report they say was leaked to them, noting in the headline that scientists fear trump will dismiss blunt climate reports but no details to claim this may have already been a public report and the administration is -- ed henry            _</field>
+</doc>
+</add>

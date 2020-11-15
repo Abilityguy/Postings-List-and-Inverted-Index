@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201501.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150116_210000_NOW_With_Alex_Wagner#start/2147/end/2182</field>
+<field name="datetime">1/16/2015 21:36:02</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20150116_210000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150116_210000_NOW_With_Alex_Wagner/MSNBCW_20150116_210000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20150116_210000_NOW_With_Alex_Wagner_002145.jpg</field>
+<field name="snippet">as evidence that we have cooled off since then. we haven't. you have a long-term trend that's being driven by greenhouse gases and noise on top of it. some of it is related to el nino and some of it is related to</field>
+</doc>
+</add>

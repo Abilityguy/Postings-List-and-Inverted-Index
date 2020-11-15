@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_200000_Outside_Source#start/3617/end/3652</field>
+<field name="datetime">8/8/2019 21:00:32</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20190808_200000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_200000_Outside_Source/BBCNEWS_20190808_200000_Outside_Source.thumbs/BBCNEWS_20190808_200000_Outside_Source_003597.jpg</field>
+<field name="snippet">scientists have warned that intensive farming to produce meat and dairy products is having a growing impact on the planet. the choice between broccoli and ribs on your plate actually has a real link to the level of global warming that we're likely to see.</field>
+</doc>
+</add>

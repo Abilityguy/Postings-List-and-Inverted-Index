@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201009.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100916_150000_MSNBC_News_Live#start/3340/end/3375</field>
+<field name="datetime">9/16/2010 15:55:55</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100916_150000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100916_150000_MSNBC_News_Live/MSNBC_20100916_150000_MSNBC_News_Live.thumbs/MSNBC_20100916_150000_MSNBC_News_Live_003330.jpg</field>
+<field name="snippet">is summer up here in the north, winter down there in the south. so that season was the warmest globally when you average those two hemispheres together. all right. so for the people that have the jury still out on whether global warming is a real deal or not, what is your opinion on that.</field>
+</doc>
+</add>

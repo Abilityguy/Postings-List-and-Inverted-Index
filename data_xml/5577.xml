@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171201_030000_BBC_News#start/1366/end/1401</field>
+<field name="datetime">12/1/2017 3:23:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171201_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171201_030000_BBC_News/BBCNEWS_20171201_030000_BBC_News.thumbs/BBCNEWS_20171201_030000_BBC_News_001348.jpg</field>
+<field name="snippet">translation: the retreat of the grey glacier is a process which has been constant, and accelerated in recent times, and is very likely to have to do with climate change. events like this in this location are rare. the last time this happened here was 20 years ago. but take a look at these satellite images.</field>
+</doc>
+</add>

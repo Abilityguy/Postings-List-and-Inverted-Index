@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190131_000000_The_Story_With_Martha_MacCallum#start/272/end/307</field>
+<field name="datetime">1/31/2019 0:04:47</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Story With Martha MacCallum</field>
+<field name="showid">FOXNEWSW_20190131_000000_The_Story_With_Martha_MacCallum</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190131_000000_The_Story_With_Martha_MacCallum/FOXNEWSW_20190131_000000_The_Story_With_Martha_MacCallum.thumbs/FOXNEWSW_20190131_000000_The_Story_With_Martha_MacCallum_000270.jpg</field>
+<field name="snippet">look for this. this is chicago's forecast over the next five days. that cold right now. look at sunday 48 degrees. a swap of about 70 degrees. martha: it's been so weird this winter. it's been extreme. people talking about why that might be and global warming and all of.</field>
+</doc>
+</add>

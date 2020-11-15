@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091209_180000_Andrea_Mitchell_Reports#start/29/end/64</field>
+<field name="datetime">12/9/2009 18:00:44</field>
+<field name="station">MSNBC</field>
+<field name="show">Andrea Mitchell Reports</field>
+<field name="showid">MSNBC_20091209_180000_Andrea_Mitchell_Reports</field>
+<field name="preview">https://archive.org/download/MSNBC_20091209_180000_Andrea_Mitchell_Reports/MSNBC_20091209_180000_Andrea_Mitchell_Reports.thumbs/MSNBC_20091209_180000_Andrea_Mitchell_Reports_000053.jpg</field>
+<field name="snippet">weather. global warming den ires persist in this era of real. the entire north polar ice cap, which has been there for most of the last 3 million years, is disappearing before our eyes.</field>
+</doc>
+</add>

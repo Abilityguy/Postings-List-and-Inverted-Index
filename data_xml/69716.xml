@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201611.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161112_220000_In_Other_News#start/3280/end/3315</field>
+<field name="datetime">11/12/2016 22:54:55</field>
+<field name="station">MSNBC</field>
+<field name="show">In Other News</field>
+<field name="showid">MSNBCW_20161112_220000_In_Other_News</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161112_220000_In_Other_News/MSNBCW_20161112_220000_In_Other_News.thumbs/MSNBCW_20161112_220000_In_Other_News_003268.jpg</field>
+<field name="snippet">this is the final -- this is -- the final curtain call. the bill is passed. the passage of the climate change bill is a fleeting victory for environmentalists in a struggle that will only intensify with every year.</field>
+</doc>
+</add>

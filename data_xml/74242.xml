@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_050000_The_Briefing#start/1818/end/1853</field>
+<field name="datetime">1/17/2020 5:30:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20200117_050000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_050000_The_Briefing/BBCNEWS_20200117_050000_The_Briefing.thumbs/BBCNEWS_20200117_050000_The_Briefing_001707.jpg</field>
+<field name="snippet">morning. this is the business briefing, i'm victoria fritz. big data and the climate crisis. how our tech addiction is fuelling global warming, and what silicon valley can do about it. plus: bruised by the trade war,</field>
+</doc>
+</add>

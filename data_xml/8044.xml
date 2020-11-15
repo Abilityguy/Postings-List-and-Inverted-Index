@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190905_100000_FOX__Friends#start/9054/end/9089</field>
+<field name="datetime">9/5/2019 12:31:09</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20190905_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190905_100000_FOX__Friends/FOXNEWSW_20190905_100000_FOX__Friends.thumbs/FOXNEWSW_20190905_100000_FOX__Friends_009029.jpg</field>
+<field name="snippet">ainsley: rebecca, what do you think about that as a teacher? well, i'm disturbed by it. unfortunately as i mentioned before, labor unions are sticking their nose into our classrooms. unfortunately they are pushing things like this climate change</field>
+</doc>
+</add>

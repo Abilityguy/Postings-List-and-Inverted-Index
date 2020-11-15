@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_000000_Newsday#start/840/end/875</field>
+<field name="datetime">1/17/2020 0:14:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20200117_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_000000_Newsday/BBCNEWS_20200117_000000_Newsday.thumbs/BBCNEWS_20200117_000000_Newsday_000839.jpg</field>
+<field name="snippet">the type of impacts that we are getting with just over one degree of global warming, and with the current ledgers from governments around the world, in line with the paris agreement, we are on track for three degrees or more of warming by the end of the century. so we can expect these impacts to keep getting worse, and to be getting worse at a much</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201601.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160121_040000_The_OReilly_Factor#start/71/end/106</field>
+<field name="datetime">1/21/2016 4:01:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20160121_040000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160121_040000_The_OReilly_Factor/FOXNEWSW_20160121_040000_The_OReilly_Factor.thumbs/FOXNEWSW_20160121_040000_The_OReilly_Factor_000045.jpg</field>
+<field name="snippet">winner. miller on global warming and black lives matter blocking a bridge in san francisco. caution, you are about to enter the no spin zone. the factor begins right now. hi, i'm bill o'reilly. thanks for watching us</field>
+</doc>
+</add>

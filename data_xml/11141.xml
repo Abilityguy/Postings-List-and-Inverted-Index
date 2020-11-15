@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190809_000000_Newsday#start/98/end/133</field>
+<field name="datetime">8/9/2019 0:01:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190809_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190809_000000_Newsday/BBCNEWS_20190809_000000_Newsday.thumbs/BBCNEWS_20190809_000000_Newsday_000089.jpg</field>
+<field name="snippet">are needed to limit global warming, and ease the pressure on the world's land and water resources. scientists suggest we eat more plant-based foods and stress that action must come from all sectors of society to cut emissions.</field>
+</doc>
+</add>

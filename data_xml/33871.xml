@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091206_190000_FOX_News_Sunday_With_Chris_Wallace#start/1035/end/1070</field>
+<field name="datetime">12/6/2009 19:17:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Sunday With Chris Wallace</field>
+<field name="showid">FOXNEWS_20091206_190000_FOX_News_Sunday_With_Chris_Wallace</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091206_190000_FOX_News_Sunday_With_Chris_Wallace/FOXNEWS_20091206_190000_FOX_News_Sunday_With_Chris_Wallace.thumbs/FOXNEWS_20091206_190000_FOX_News_Sunday_With_Chris_Wallace_000833.jpg</field>
+<field name="snippet">over healthcare, the economy and climate change with two of the senate's top leaders. back in a moment. xxxxxxx. chris: we are joined by two top senate leaders.</field>
+</doc>
+</add>

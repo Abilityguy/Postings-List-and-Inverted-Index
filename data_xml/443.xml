@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201301.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130125_140000_Americas_Newsroom#start/1140/end/1175</field>
+<field name="datetime">1/25/2013 14:19:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWSW_20130125_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130125_140000_Americas_Newsroom/FOXNEWSW_20130125_140000_Americas_Newsroom.thumbs/FOXNEWSW_20130125_140000_Americas_Newsroom_001126.jpg</field>
+<field name="snippet">you heard the inaugural address earlier in the week about climate change. you heard john kerry's testimony yesterday. he will have a big part in this. when he is secretary of state. now john boehner is saying the white house has no choice you but to agree with</field>
+</doc>
+</add>

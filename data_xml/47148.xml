@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201101.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110104_040000_Countdown_With_Keith_Olbermann#start/2332/end/2367</field>
+<field name="datetime">1/4/2011 4:39:07</field>
+<field name="station">MSNBC</field>
+<field name="show">Countdown With Keith Olbermann</field>
+<field name="showid">MSNBC_20110104_040000_Countdown_With_Keith_Olbermann</field>
+<field name="preview">https://archive.org/download/MSNBC_20110104_040000_Countdown_With_Keith_Olbermann/MSNBC_20110104_040000_Countdown_With_Keith_Olbermann.thumbs/MSNBC_20110104_040000_Countdown_With_Keith_Olbermann_002310.jpg</field>
+<field name="snippet">time now to call in the environmental reporter for 'mother jones' magazine. kate, thanks for your time tonight. thanks for having me, keith. you wrote about soon-to-be chairman upton's plans to block the greenhouse gas emission regulations. what is he going to try to do and is he going to be successful?</field>
+</doc>
+</add>

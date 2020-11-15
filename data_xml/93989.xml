@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201206.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120630_000000_The_Ed_Show#start/3533/end/3568</field>
+<field name="datetime">6/30/2012 0:59:08</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20120630_000000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120630_000000_The_Ed_Show/MSNBCW_20120630_000000_The_Ed_Show.thumbs/MSNBCW_20120630_000000_The_Ed_Show_003510.jpg</field>
+<field name="snippet">what does it do to the air quality? the fires themselves wreck air quality, and the same fuels which are causing the build-up of the green house gases are the major causes of air pollution. we could clear up the air, slow down and eventually stop global</field>
+</doc>
+</add>

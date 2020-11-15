@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201601.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160101_110000_Morning_Joe#start/5575/end/5610</field>
+<field name="datetime">1/1/2016 12:33:10</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20160101_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160101_110000_Morning_Joe/MSNBCW_20160101_110000_Morning_Joe.thumbs/MSNBCW_20160101_110000_Morning_Joe_005565.jpg</field>
+<field name="snippet">grade the president of the united states on national security right now. fist, mike, let me say this. the president is focussed on the wrong climate change. the climate change we need is in this country.</field>
+</doc>
+</add>

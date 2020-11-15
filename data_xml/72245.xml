@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201610.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161011_170000_MSNBC_Live#start/1235/end/1270</field>
+<field name="datetime">10/11/2016 17:20:50</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20161011_170000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161011_170000_MSNBC_Live/MSNBCW_20161011_170000_MSNBC_Live.thumbs/MSNBCW_20161011_170000_MSNBC_Live_001228.jpg</field>
+<field name="snippet">today about the frosty past relationship between hillary clinton and al gore. how do you see it playing into the dynamic today? you see it the enemy of my enemy is any friend. donald trump called climate change a hoax.</field>
+</doc>
+</add>

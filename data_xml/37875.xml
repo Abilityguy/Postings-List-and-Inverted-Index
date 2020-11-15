@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091022_050000_Greta_Van_Susteren#start/359/end/394</field>
+<field name="datetime">10/22/2009 5:06:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Greta Van Susteren</field>
+<field name="showid">FOXNEWS_20091022_050000_Greta_Van_Susteren</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091022_050000_Greta_Van_Susteren/FOXNEWS_20091022_050000_Greta_Van_Susteren.thumbs/FOXNEWS_20091022_050000_Greta_Van_Susteren_000360.jpg</field>
+<field name="snippet">people think that they can just ram things through, and, technically, maybe they can, but they will not build the broad and lasting support that you need for change, like how do we deal with climate change, how do we deal with deregulation, how</field>
+</doc>
+</add>

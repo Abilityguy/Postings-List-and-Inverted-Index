@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190921_020000_BBC_News#start/86/end/121</field>
+<field name="datetime">9/21/2019 2:01:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190921_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190921_020000_BBC_News/BBCNEWS_20190921_020000_BBC_News.thumbs/BBCNEWS_20190921_020000_BBC_News_000087.jpg</field>
+<field name="snippet">from the low-lying pacific islands to drought-ridden australia, from the streets of south africa to the brandenburg gate in berlin. the children of the world, the inheritors of our climate change crisis. what do we want? climate justice! when do we want it? now!</field>
+</doc>
+</add>

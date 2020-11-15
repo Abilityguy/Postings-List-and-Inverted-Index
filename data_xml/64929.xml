@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190308_090000_Fox_and_Friends_First#start/1498/end/1533</field>
+<field name="datetime">3/8/2019 9:25:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190308_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190308_090000_Fox_and_Friends_First/FOXNEWSW_20190308_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190308_090000_Fox_and_Friends_First_001498.jpg</field>
+<field name="snippet">our environment? it is important to remember cows are only 2% of greenhouse gas emissions. agriculture in general in the united states or as a whole is 9% of greenhouse gas emissions was when you compare that to something like transportation which is responsible for 30% of</field>
+</doc>
+</add>

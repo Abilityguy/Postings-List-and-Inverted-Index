@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201608.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160802_170000_Happening_Now#start/3321/end/3356</field>
+<field name="datetime">8/2/2016 17:55:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20160802_170000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160802_170000_Happening_Now/FOXNEWSW_20160802_170000_Happening_Now.thumbs/FOXNEWSW_20160802_170000_Happening_Now_003297.jpg</field>
+<field name="snippet">putting a price on carbon is the single most important thing that we can do to tackle climate change. reporter: the $25 a ton tax would add 25 cents to every gallon of gas, increase airfares and raise utility bills, costing $2 billion a year.</field>
+</doc>
+</add>

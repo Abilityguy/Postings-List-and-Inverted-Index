@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091217_210000_Your_World_With_Neil_Cavuto#start/3473/end/3508</field>
+<field name="datetime">12/17/2009 21:58:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWS_20091217_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091217_210000_Your_World_With_Neil_Cavuto/FOXNEWS_20091217_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWS_20091217_210000_Your_World_With_Neil_Cavuto_003293.jpg</field>
+<field name="snippet">. neil: all right, you know, we might have issues with global warming here, but you know something? we have never warned people by throwing things at people about</field>
+</doc>
+</add>

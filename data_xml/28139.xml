@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201406.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140626_100000_FOX_and_Friends#start/4670/end/4705</field>
+<field name="datetime">6/26/2014 11:18:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20140626_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140626_100000_FOX_and_Friends/FOXNEWSW_20140626_100000_FOX_and_Friends.thumbs/FOXNEWSW_20140626_100000_FOX_and_Friends_004665.jpg</field>
+<field name="snippet">between the financial crisis and the climate challenge we now face. but if paulson couldn't predict the financial crash that he was looking at, why should we trust him on climate change? joining us is fox business senior correspondent, charlie gasparino. good morning to you.</field>
+</doc>
+</add>

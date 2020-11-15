@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091129_050000_Red_Eye#start/443/end/478</field>
+<field name="datetime">11/29/2009 5:07:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20091129_050000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091129_050000_Red_Eye/FOXNEWS_20091129_050000_Red_Eye.thumbs/FOXNEWS_20091129_050000_Red_Eye_000420.jpg</field>
+<field name="snippet">on war and military. if you look at it, it is the vast majority of our resources are already spent on those things. greg: here is an interesting thing, though, alex. five here at the table and three here believe that global</field>
+</doc>
+</add>

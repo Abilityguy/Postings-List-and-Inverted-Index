@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090708_210000_Glenn_Beck#start/1872/end/1907</field>
+<field name="datetime">7/8/2009 21:31:27</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20090708_210000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090708_210000_Glenn_Beck/FOXNEWS_20090708_210000_Glenn_Beck.thumbs/FOXNEWS_20090708_210000_Glenn_Beck_001860.jpg</field>
+<field name="snippet">for backing global warming today at the g8 summit in italy, among the goals, keeping the world temperature from rising more than 3.6 degrees. police in nashville have confirmed that the mistress of steve mcnair killed him in a</field>
+</doc>
+</add>

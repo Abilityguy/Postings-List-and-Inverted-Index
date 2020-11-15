@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201709.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170917_110000_MSNBC_Live#start/487/end/522</field>
+<field name="datetime">9/17/2017 11:08:22</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170917_110000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170917_110000_MSNBC_Live/MSNBCW_20170917_110000_MSNBC_Live.thumbs/MSNBCW_20170917_110000_MSNBC_Live_000477.jpg</field>
+<field name="snippet">stage, french president emmanuel macron, will also be making his first appearance before the u.n. general assembly and he plans to host events urging nations to begin to spur the implementation of the climate change accord which was signed in paris by</field>
+</doc>
+</add>

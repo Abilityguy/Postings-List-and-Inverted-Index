@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201812.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181228_220000_MTP_Daily#start/3506/end/3541</field>
+<field name="datetime">12/28/2018 22:58:41</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20181228_220000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181228_220000_MTP_Daily/MSNBCW_20181228_220000_MTP_Daily.thumbs/MSNBCW_20181228_220000_MTP_Daily_003267.jpg</field>
+<field name="snippet">we'll be right back. in case you missed it. you we'll be right back. in case you missed it. there's a special edition of meet the press this sunday focused on climate change. that will be over the weekend. we'll be back on monday. you can catch me tomorrow and all weekend long anchoring the</field>
+</doc>
+</add>

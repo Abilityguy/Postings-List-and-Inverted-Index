@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_090000_Victoria_Derbyshire#start/3616/end/3651</field>
+<field name="datetime">9/20/2019 10:00:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20190920_090000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_090000_Victoria_Derbyshire/BBCNEWS_20190920_090000_Victoria_Derbyshire.thumbs/BBCNEWS_20190920_090000_Victoria_Derbyshire_003599.jpg</field>
+<field name="snippet">a day of global climate change protests. the aim, to get businesses and governments to cut emissions. around 5000 demonstrations are planned across 150 countries, including here in the uk, ahead of a un summit on monday.</field>
+</doc>
+</add>

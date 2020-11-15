@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201408.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140825_210000_The_Five#start/2167/end/2202</field>
+<field name="datetime">8/25/2014 21:36:22</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20140825_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140825_210000_The_Five/FOXNEWSW_20140825_210000_The_Five.thumbs/FOXNEWSW_20140825_210000_The_Five_002145.jpg</field>
+<field name="snippet">what's hotter, global warming or global terror? there is one-degree centigrade over a certain amount of time. it's causing global warming. you're absolutely right.</field>
+</doc>
+</add>

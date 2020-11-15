@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201501.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150116_220000_The_Ed_Show#start/908/end/943</field>
+<field name="datetime">1/16/2015 22:15:23</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20150116_220000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150116_220000_The_Ed_Show/MSNBCW_20150116_220000_The_Ed_Show.thumbs/MSNBCW_20150116_220000_The_Ed_Show_000886.jpg</field>
+<field name="snippet">news on climate change. if you eat seafood, you're going to want to see what scientists have to say. but first, the obamacare success story that john boehner doesn't want you to hear. and alert you if anything looks unusual.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201301.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130123_040000_The_Ed_Show#start/1775/end/1810</field>
+<field name="datetime">1/23/2013 4:29:50</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20130123_040000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130123_040000_The_Ed_Show/MSNBCW_20130123_040000_The_Ed_Show.thumbs/MSNBCW_20130123_040000_The_Ed_Show_001755.jpg</field>
+<field name="snippet">the president's inaugural address set the stage for action on a number of critical issues, from climate change to immigration reform. he stressed the importance of protecting the middle class, and said now is the time to act. for now decisions are upon</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190212_230000_Special_Report_With_Bret_Baier#start/1114/end/1149</field>
+<field name="datetime">2/12/2019 23:18:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20190212_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190212_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20190212_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20190212_230000_Special_Report_With_Bret_Baier_001108.jpg</field>
+<field name="snippet">something like 50% in just the last ten years. on the coast. because of the risks of climate change. the fourth hottest year last year. parents driving their kids through wildfires in california</field>
+</doc>
+</add>

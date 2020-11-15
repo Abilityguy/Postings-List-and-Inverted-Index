@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190406_040000_Tucker_Carlson_Tonight#start/2915/end/2950</field>
+<field name="datetime">4/6/2019 4:48:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190406_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190406_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190406_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190406_040000_Tucker_Carlson_Tonight_002909.jpg</field>
+<field name="snippet">bear decline on global warming saved the careers of polar bear specialists. so it's in their best interest to make sure that this concept stays in the public limelight even though it's a lie.</field>
+</doc>
+</add>

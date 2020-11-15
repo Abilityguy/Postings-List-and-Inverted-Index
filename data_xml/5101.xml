@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170602_160000_BBC_News_at_Five#start/2185/end/2220</field>
+<field name="datetime">6/2/2017 16:36:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20170602_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170602_160000_BBC_News_at_Five/BBCNEWS_20170602_160000_BBC_News_at_Five.thumbs/BBCNEWS_20170602_160000_BBC_News_at_Five_002157.jpg</field>
+<field name="snippet">politicians from the main parties. over the last couple of weeks we've heard from the conservatives, liberal democrats and snp. today it's labour's turn, and i'm joined by the shadow secretary for international trade, barry gardiner, who also speaks on climate change issues. thank you very much for answering the viewers' questions. i will start</field>
+</doc>
+</add>

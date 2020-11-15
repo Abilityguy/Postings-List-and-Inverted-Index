@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201011.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101103_170000_America_Live#start/2338/end/2373</field>
+<field name="datetime">11/3/2010 17:39:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWS_20101103_170000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101103_170000_America_Live/FOXNEWS_20101103_170000_America_Live.thumbs/FOXNEWS_20101103_170000_America_Live_002334.jpg</field>
+<field name="snippet">are serious about energy independence and serious about keeping our air clean and our water clean and dealing with the issue of greenhouse gases and seeing other ways that we can make</field>
+</doc>
+</add>

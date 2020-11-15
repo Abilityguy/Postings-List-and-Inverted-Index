@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201009.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100928_170000_America_Live#start/3907/end/3942</field>
+<field name="datetime">9/28/2010 18:05:22</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWS_20100928_170000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100928_170000_America_Live/FOXNEWS_20100928_170000_America_Live.thumbs/FOXNEWS_20100928_170000_America_Live_003900.jpg</field>
+<field name="snippet">regulations from the environmental protection agency. the new rules on greenhouse gases could come at a high cost. nearly a million lost jobs. shannon green is live on capitol hill. this comes from senate</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170529_100000_FOX__Friends#start/8308/end/8343</field>
+<field name="datetime">5/29/2017 12:18:43</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20170529_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170529_100000_FOX__Friends/FOXNEWSW_20170529_100000_FOX__Friends.thumbs/FOXNEWSW_20170529_100000_FOX__Friends_008307.jpg</field>
+<field name="snippet">clayton: is climate change the most dire threat facing all of us today or something else? if you listen to angela merkel yeah, it is climate change but the greatest threat we face is not melting polar ice cap, existential</field>
+</doc>
+</add>

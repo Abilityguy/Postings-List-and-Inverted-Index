@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201612.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161211_190000_Fox_News_Sunday_With_Chris_Wallace#start/3642/end/3677</field>
+<field name="datetime">12/11/2016 20:00:57</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News Sunday With Chris Wallace</field>
+<field name="showid">FOXNEWSW_20161211_190000_Fox_News_Sunday_With_Chris_Wallace</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161211_190000_Fox_News_Sunday_With_Chris_Wallace/FOXNEWSW_20161211_190000_Fox_News_Sunday_With_Chris_Wallace.thumbs/FOXNEWSW_20161211_190000_Fox_News_Sunday_With_Chris_Wallace_003657.jpg</field>
+<field name="snippet">calling him a climate change</field>
+</doc>
+</add>

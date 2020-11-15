@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190627_050000_Breakfast#start/436/end/471</field>
+<field name="datetime">6/27/2019 5:07:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190627_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190627_050000_Breakfast/BBCNEWS_20190627_050000_Breakfast.thumbs/BBCNEWS_20190627_050000_Breakfast_000419.jpg</field>
+<field name="snippet">of the heat in le havre when they play norway tonight. 2a degrees is forecast. the high temperatures are caused by hot air from the sahara, and blamed on climate change by some. whatever the cause, the immediate concern for tens of millions of people across europe will be getting through the next few days of intense heat.</field>
+</doc>
+</add>

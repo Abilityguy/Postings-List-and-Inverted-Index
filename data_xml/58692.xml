@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181130_130000_BBC_News_at_One#start/82/end/117</field>
+<field name="datetime">11/30/2018 13:01:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20181130_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181130_130000_BBC_News_at_One/BBCNEWS_20181130_130000_BBC_News_at_One.thumbs/BBCNEWS_20181130_130000_BBC_News_at_One_000057.jpg</field>
+<field name="snippet">the world's most powerful leaders are gathering at the 620 summit in argentina where they will grapple with issues including trade, security and global warming. but it's a summit marked by tensions and divisions among major powers, with the us and china locked</field>
+</doc>
+</add>

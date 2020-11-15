@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200118_060000_Breakfast#start/513/end/548</field>
+<field name="datetime">1/18/2020 6:08:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20200118_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200118_060000_Breakfast/BBCNEWS_20200118_060000_Breakfast.thumbs/BBCNEWS_20200118_060000_Breakfast_000508.jpg</field>
+<field name="snippet">la kes talk about legs and rivers in -- lakes and rivers in britain. you may think that lakes and rivers in britain are environmentally friendly, but did you know they release greenhouse gases into the air? scientists say they produce around a quarter of the net carbon dioxide and methane going into our atmosphere from the earth's surface. now, research from a team</field>
+</doc>
+</add>

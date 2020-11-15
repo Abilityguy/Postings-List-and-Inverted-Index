@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201804.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180419_080000_Victoria_Derbyshire#start/3828/end/3863</field>
+<field name="datetime">4/19/2018 9:04:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20180419_080000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180419_080000_Victoria_Derbyshire/BBCNEWS_20180419_080000_Victoria_Derbyshire.thumbs/BBCNEWS_20180419_080000_Victoria_Derbyshire_003808.jpg</field>
+<field name="snippet">here, prince charles will be here and then a bit later on today they will be getting down to business and talking about all those issues, climate change, trade, cyber warfare and so on. mrs may will have a chance to talk about the</field>
+</doc>
+</add>

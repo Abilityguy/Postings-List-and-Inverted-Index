@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091219_120000_MSNBC_News_Live#start/1908/end/1943</field>
+<field name="datetime">12/19/2009 12:32:03</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091219_120000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091219_120000_MSNBC_News_Live/MSNBC_20091219_120000_MSNBC_News_Live.thumbs/MSNBC_20091219_120000_MSNBC_News_Live_001890.jpg</field>
+<field name="snippet">the bad weather didn't stop president obama from returning ho home from the climate change conference. air force one stopped last night amid heavy snow conditions and blizzard warnings in eastern</field>
+</doc>
+</add>

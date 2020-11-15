@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200113_200000_BBC_News#start/2803/end/2838</field>
+<field name="datetime">1/13/2020 20:46:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200113_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200113_200000_BBC_News/BBCNEWS_20200113_200000_BBC_News.thumbs/BBCNEWS_20200113_200000_BBC_News_002789.jpg</field>
+<field name="snippet">with the construction of a network of ring roads, underpasses, and flyovers, the car was definitely king. but 60 years on and with congestion, pollution, and climate change worries, we're now being urged to find other ways of getting around. that's where today's launch</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191217_090000_BBC_News_at_9#start/1261/end/1296</field>
+<field name="datetime">12/17/2019 9:21:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20191217_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191217_090000_BBC_News_at_9/BBCNEWS_20191217_090000_BBC_News_at_9.thumbs/BBCNEWS_20191217_090000_BBC_News_at_9_001258.jpg</field>
+<field name="snippet">issue of climate change. meanwhle the fires continue to rage - our correspondent phil mercer sent this update. fire authorities say that, here in new south wales,</field>
+</doc>
+</add>

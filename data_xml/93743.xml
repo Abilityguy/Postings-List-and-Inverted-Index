@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190731_080000_BBC_News_at_Nine#start/1727/end/1762</field>
+<field name="datetime">7/31/2019 8:29:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190731_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190731_080000_BBC_News_at_Nine/BBCNEWS_20190731_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190731_080000_BBC_News_at_Nine_001707.jpg</field>
+<field name="snippet">the top ten warmest years in the uk have all happened since 2002. and we haven't had any of our top ten cold est yea rs coldest years since 1963. there is a definite indication that climate change is having an impact on our</field>
+</doc>
+</add>

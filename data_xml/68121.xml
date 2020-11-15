@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190222_110000_BBC_Newsroom_Live#start/1224/end/1259</field>
+<field name="datetime">2/22/2019 11:20:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190222_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190222_110000_BBC_Newsroom_Live/BBCNEWS_20190222_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190222_110000_BBC_Newsroom_Live_001198.jpg</field>
+<field name="snippet">stocks are overfished. scientists say that climate change, land loss and disease are driving this loss. i have come behind-the-scenes at kew gardens where you can see crops that are grown around the world, from this citrus tree,</field>
+</doc>
+</add>

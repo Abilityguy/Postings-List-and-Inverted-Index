@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191212_000000_Newsday#start/436/end/471</field>
+<field name="datetime">12/12/2019 0:07:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191212_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191212_000000_Newsday/BBCNEWS_20191212_000000_Newsday.thumbs/BBCNEWS_20191212_000000_Newsday_000419.jpg</field>
+<field name="snippet">and said it would not only tackle climate change, but also create jobs and boost innovation. a hundred billion euros will be put into the plan including creating a transition fund for coal-reliant countries in eastern europe who are holding off</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201604.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160413_100000_FOX__Friends#start/7972/end/8007</field>
+<field name="datetime">4/13/2016 12:13:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20160413_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160413_100000_FOX__Friends/FOXNEWSW_20160413_100000_FOX__Friends.thumbs/FOXNEWSW_20160413_100000_FOX__Friends_007947.jpg</field>
+<field name="snippet">climate change, i hope that we have the courage to see that the path forward is to bring people together. not push people apart. so if you monitor the internet to try to find out if isis tried to kill you like in brussels, like in san</field>
+</doc>
+</add>

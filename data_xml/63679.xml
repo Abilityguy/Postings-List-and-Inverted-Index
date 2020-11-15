@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201404.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140406_180000_Meet_the_Press#start/2425/end/2460</field>
+<field name="datetime">4/6/2014 18:40:40</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20140406_180000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140406_180000_Meet_the_Press/MSNBCW_20140406_180000_Meet_the_Press.thumbs/MSNBCW_20140406_180000_Meet_the_Press_002416.jpg</field>
+<field name="snippet">welcome back. this week the u.n. issued an unprecedented warning about climate change. arguing extreme weather events will become even more common. the president's inability to get significant legislation combating climate change through congress makes his decision about the controversial keystone xl pipeline all the more</field>
+</doc>
+</add>

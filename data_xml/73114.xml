@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190122_180000_BBC_News_at_Six#start/1305/end/1340</field>
+<field name="datetime">1/22/2019 18:22:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20190122_180000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190122_180000_BBC_News_at_Six/BBCNEWS_20190122_180000_BBC_News_at_Six.thumbs/BBCNEWS_20190122_180000_BBC_News_at_Six_001287.jpg</field>
+<field name="snippet">many business leaders here say they do understand the threat of climate change, but now their words have to be matched by deeds. james landale, bbc news, davos. an infection linked to pigeon</field>
+</doc>
+</add>

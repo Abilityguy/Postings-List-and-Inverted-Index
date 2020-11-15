@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191017_220000_Special_Report_With_Bret_Baier#start/1365/end/1400</field>
+<field name="datetime">10/17/2019 22:23:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20191017_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191017_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20191017_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20191017_220000_Special_Report_With_Bret_Baier_001349.jpg</field>
+<field name="snippet">snarling services during the busy morning rush hour in lond london. interesting video, the group 'extinction rebellion' has been blocking roads, bridges, and airports for more than a week to demand faster action on climate change. just a couple of the stories</field>
+</doc>
+</add>

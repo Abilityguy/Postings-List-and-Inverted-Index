@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190207_030000_BBC_News#start/240/end/275</field>
+<field name="datetime">2/7/2019 3:04:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190207_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190207_030000_BBC_News/BBCNEWS_20190207_030000_BBC_News.thumbs/BBCNEWS_20190207_030000_BBC_News_000238.jpg</field>
+<field name="snippet">moments from a climate analyst, and if you want more on climate change in the latest predictions, go to the bbc news website. -- we will. or download the bbc news app.</field>
+</doc>
+</add>

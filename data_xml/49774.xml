@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201703.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170310_150000_MSNBC_Live_With_Hallie_Jackson#start/2113/end/2148</field>
+<field name="datetime">3/10/2017 15:35:28</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Hallie Jackson</field>
+<field name="showid">MSNBCW_20170310_150000_MSNBC_Live_With_Hallie_Jackson</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170310_150000_MSNBC_Live_With_Hallie_Jackson/MSNBCW_20170310_150000_MSNBC_Live_With_Hallie_Jackson.thumbs/MSNBCW_20170310_150000_MSNBC_Live_With_Hallie_Jackson_002098.jpg</field>
+<field name="snippet">the degree of impact. no, i would not agree that it's a primary contributor to the global warming we see. so those comments go against really the accepted science on climate change, including inside the epa, which scott pruitt</field>
+</doc>
+</add>

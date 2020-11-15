@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201110.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111002_100000_FOX_and_Friends_Sunday#start/10935/end/10970</field>
+<field name="datetime">10/2/2011 13:02:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20111002_100000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111002_100000_FOX_and_Friends_Sunday/FOXNEWSW_20111002_100000_FOX_and_Friends_Sunday.thumbs/FOXNEWSW_20111002_100000_FOX_and_Friends_Sunday_010920.jpg</field>
+<field name="snippet">protesters swarmed the brooklyn bridge and shut down traffic several hours, and police started arresting them for disorderly conduct. the protests started two weeks ago, down in the wall street area. and they are rallying against corporate greed, global warming, social in equality and other things, that they may not even</field>
+</doc>
+</add>

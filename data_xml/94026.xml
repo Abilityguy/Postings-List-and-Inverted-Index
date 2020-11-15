@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201206.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120604_160000_NOW_With_Alex_Wagner#start/2420/end/2455</field>
+<field name="datetime">6/4/2012 16:40:35</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20120604_160000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120604_160000_NOW_With_Alex_Wagner/MSNBCW_20120604_160000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20120604_160000_NOW_With_Alex_Wagner_002400.jpg</field>
+<field name="snippet">some other line of work says governor gray davis. thank you for your time. my pleasure. as warning signs of climate change heat hs up, signs are cooling down, and we will find out why when we are joined by</field>
+</doc>
+</add>

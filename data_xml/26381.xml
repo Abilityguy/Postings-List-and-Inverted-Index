@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201109.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20110920_160000_MSNBC_News_Live#start/1303/end/1338</field>
+<field name="datetime">9/20/2011 16:21:58</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBCW_20110920_160000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20110920_160000_MSNBC_News_Live/MSNBCW_20110920_160000_MSNBC_News_Live.thumbs/MSNBCW_20110920_160000_MSNBC_News_Live_001287.jpg</field>
+<field name="snippet">in 1991 the ur satellite studied the atmosphere and climate change. engineers expect it will break into 100 pieces on re-entry, a quarter could make it to earth. nasa is sure that any surviving pieces of the satellite will fall somewhere between 57</field>
+</doc>
+</add>

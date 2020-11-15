@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201203.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120319_100000_Morning_Joe#start/1416/end/1451</field>
+<field name="datetime">3/19/2012 10:23:51</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20120319_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120319_100000_Morning_Joe/MSNBCW_20120319_100000_Morning_Joe.thumbs/MSNBCW_20120319_100000_Morning_Joe_001406.jpg</field>
+<field name="snippet">very exciting. also, mika jets in from the south of france. but first, here's bill cairns with a check on the forecast. bill, i just -- i don't know what to say about this weather except you've got to love global warming. i hope it sticks around for a couple of months.</field>
+</doc>
+</add>

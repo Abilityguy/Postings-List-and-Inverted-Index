@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181122_170000_BBC_News_at_Five#start/1618/end/1653</field>
+<field name="datetime">11/22/2018 17:27:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20181122_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181122_170000_BBC_News_at_Five/BBCNEWS_20181122_170000_BBC_News_at_Five.thumbs/BBCNEWS_20181122_170000_BBC_News_at_Five_001617.jpg</field>
+<field name="snippet">amount of sunglasses in the earths atmosphere have been increasing since the industrial revolution -- some gases. the so-called greenhouse gases are now at record levels, higher than they have been for 3 million years. it is extremely</field>
+</doc>
+</add>

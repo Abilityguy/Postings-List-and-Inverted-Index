@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201012.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101201_170000_MSNBC_News_Live#start/2657/end/2692</field>
+<field name="datetime">12/1/2010 17:44:32</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20101201_170000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20101201_170000_MSNBC_News_Live/MSNBC_20101201_170000_MSNBC_News_Live.thumbs/MSNBC_20101201_170000_MSNBC_News_Live_002634.jpg</field>
+<field name="snippet">marching in the streets of mexico city. many chanted slogans and hoisted anti-global warming signs. they coincided with the talks underway in cancun.</field>
+</doc>
+</add>

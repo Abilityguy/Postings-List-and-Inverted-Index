@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201610.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161031_080000_Special_Report_With_Bret_Baier#start/2014/end/2049</field>
+<field name="datetime">10/31/2016 8:33:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20161031_080000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161031_080000_Special_Report_With_Bret_Baier/FOXNEWSW_20161031_080000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20161031_080000_Special_Report_With_Bret_Baier_002008.jpg</field>
+<field name="snippet">in low-lying miami beach, high tide flooding in the streets and neighborhoods is now so routine, warning signs get posted days in advance. accepting climate change and</field>
+</doc>
+</add>

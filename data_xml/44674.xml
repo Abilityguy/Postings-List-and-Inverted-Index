@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201706.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170601_090000_First_Look#start/51/end/86</field>
+<field name="datetime">6/1/2017 9:01:06</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20170601_090000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170601_090000_First_Look/MSNBCW_20170601_090000_First_Look.thumbs/MSNBCW_20170601_090000_First_Look_000057.jpg</field>
+<field name="snippet">it's thursday, june 1st on what could be an historic day at the white house, depending on how this day goes. i'm ayman mohyeldin alongside louis burgdorf and yasmin. we will know the future of climate change today. president trump says he will</field>
+</doc>
+</add>

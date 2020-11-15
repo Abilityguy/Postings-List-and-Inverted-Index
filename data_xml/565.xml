@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171114_040000_BBC_News#start/896/end/931</field>
+<field name="datetime">11/14/2017 4:15:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171114_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171114_040000_BBC_News/BBCNEWS_20171114_040000_BBC_News.thumbs/BBCNEWS_20171114_040000_BBC_News_000898.jpg</field>
+<field name="snippet">to curb global warming - carbon dioxide emissions are up. a new warning for the world. berliners from both east and west linked hands and danced</field>
+</doc>
+</add>

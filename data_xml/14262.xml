@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201703.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170328_220000_Special_Report_With_Bret_Baier#start/3610/end/3645</field>
+<field name="datetime">3/28/2017 23:00:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20170328_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170328_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20170328_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20170328_220000_Special_Report_With_Bret_Baier_003597.jpg</field>
+<field name="snippet">'the first 100 days' with martha maccallum is next. martha: breaking tonight, president trump making another mag break from the obama era, taking big steps to dismantle the former presidents climate change regulations, as this</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090728_230000_The_FOX_Report_With_Shepard_Smith#start/3231/end/3266</field>
+<field name="datetime">7/28/2009 23:54:06</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The FOX Report With Shepard Smith</field>
+<field name="showid">FOXNEWS_20090728_230000_The_FOX_Report_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090728_230000_The_FOX_Report_With_Shepard_Smith/FOXNEWS_20090728_230000_The_FOX_Report_With_Shepard_Smith.thumbs/FOXNEWS_20090728_230000_The_FOX_Report_With_Shepard_Smith_003210.jpg</field>
+<field name="snippet">get a climate change bill passed before the health reform bill. molly henneberg is live in washington. sounds like a bunch of inside baseball, molly, but this is important stuff. and very interesting. some conservative and moderate democrats are saying speaker pelosi should have pushed health</field>
+</doc>
+</add>

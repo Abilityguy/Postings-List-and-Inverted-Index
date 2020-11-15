@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201103.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110316_100000_Morning_Joe#start/757/end/792</field>
+<field name="datetime">3/16/2011 10:12:52</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20110316_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20110316_100000_Morning_Joe/MSNBC_20110316_100000_Morning_Joe.thumbs/MSNBC_20110316_100000_Morning_Joe_000750.jpg</field>
+<field name="snippet">of the global climate, which is what's under way right now with food prices at all-time historic highs because of climate change. we're seeing it but we don't feel it the same way. what parent wants to put their child near a nuclear</field>
+</doc>
+</add>

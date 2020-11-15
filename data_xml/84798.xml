@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201211.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121117_170000_Weekends_With_Alex_Witt#start/791/end/826</field>
+<field name="datetime">11/17/2012 17:13:26</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20121117_170000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121117_170000_Weekends_With_Alex_Witt/MSNBCW_20121117_170000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20121117_170000_Weekends_With_Alex_Witt_000778.jpg</field>
+<field name="snippet">i'm just texting my friends in mammoth saying dylan says snow is coming your way. let's make a deal, everybody. will we get a fiscal cliff agreement and will it include the president's wish for tax hikes on the rich. plus a reality check on climate change.</field>
+</doc>
+</add>

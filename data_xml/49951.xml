@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180609_040000_Tucker_Carlson_Tonight#start/2105/end/2140</field>
+<field name="datetime">6/9/2018 4:35:20</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20180609_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180609_040000_Tucker_Carlson_Tonight/FOXNEWSW_20180609_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20180609_040000_Tucker_Carlson_Tonight_002097.jpg</field>
+<field name="snippet">article was simple, most issues go through these long cycles lots of early interest the press gets onto it, a flurry of political activity at some policies are made. then we start havinge consideration trade-offs, that's beenad going on with global warming for several years now.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091201_090000_Special_Report_With_Bret_Baier#start/416/end/451</field>
+<field name="datetime">12/1/2009 9:07:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091201_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091201_090000_Special_Report_With_Bret_Baier/FOXNEWS_20091201_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091201_090000_Special_Report_With_Bret_Baier_000416.jpg</field>
+<field name="snippet">a lot of people are changing their minds about the theory of man made global warming on the heels of a major scientific scandal concerning researchers and their behavior. wendell goler reports this renewed skepticism comes as president obama prepares to attend the u.n.'s climate</field>
+</doc>
+</add>

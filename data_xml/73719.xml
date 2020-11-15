@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201002.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100213_020000_The_Rachel_Maddow_Show#start/2557/end/2592</field>
+<field name="datetime">2/13/2010 2:42:52</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBC_20100213_020000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20100213_020000_The_Rachel_Maddow_Show/MSNBC_20100213_020000_The_Rachel_Maddow_Show.thumbs/MSNBC_20100213_020000_The_Rachel_Maddow_Show_002546.jpg</field>
+<field name="snippet">increasingly -- radio show today, glenn beck played a clip of our show from wednesday in which i spoke with bill nye the science guy about global warming.</field>
+</doc>
+</add>

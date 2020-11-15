@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191126_140000_Afternoon_Live#start/10016/end/10051</field>
+<field name="datetime">11/26/2019 16:47:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20191126_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191126_140000_Afternoon_Live/BBCNEWS_20191126_140000_Afternoon_Live.thumbs/BBCNEWS_20191126_140000_Afternoon_Live_010017.jpg</field>
+<field name="snippet">the costs of renewable energy have fallen massively in price over the last decade. if the world can move away from coal and rapidly embrace wind and solar, we might have a fighting chance of limiting the damage that climate change will inevitably do. matt mcgrath, bbc news.</field>
+</doc>
+</add>

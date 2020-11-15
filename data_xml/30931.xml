@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140215_110000_FOX_and_Friends_Saturday#start/11265/end/11300</field>
+<field name="datetime">2/15/2014 14:08:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20140215_110000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140215_110000_FOX_and_Friends_Saturday/FOXNEWSW_20140215_110000_FOX_and_Friends_Saturday.thumbs/FOXNEWSW_20140215_110000_FOX_and_Friends_Saturday_011265.jpg</field>
+<field name="snippet">month. we do know that. yeah, and let's hear what charles had to say about climate change and the obama administration. it's more than political. it's become a religion. the essence of a scientific</field>
+</doc>
+</add>

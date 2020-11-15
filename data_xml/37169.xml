@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201401.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140127_040000_Huckabee#start/0/end/34</field>
+<field name="datetime">1/27/2014 4:00:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Huckabee</field>
+<field name="showid">FOXNEWSW_20140127_040000_Huckabee</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140127_040000_Huckabee/FOXNEWSW_20140127_040000_Huckabee.thumbs/FOXNEWSW_20140127_040000_Huckabee_000045.jpg</field>
+<field name="snippet">let's chill out about global warming. then free people will create a better world. that's our show. see you next week. and we'll kick it off now with huckabee.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090912_041135_Hannity#start/1199/end/1234</field>
+<field name="datetime">9/12/2009 4:31:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20090912_041135_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090912_041135_Hannity/FOXNEWS_20090912_041135_Hannity.thumbs/FOXNEWS_20090912_041135_Hannity_001195.jpg</field>
+<field name="snippet">kerry attended an event where he said the 9/11 commission report found that we suffer from a failure of imagination. we need to close the imagination gap on climate change and help people in vision and new threats. and this is a guy who wanted to</field>
+</doc>
+</add>

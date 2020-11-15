@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_110000_FOX_and_Friends#start/2444/end/2479</field>
+<field name="datetime">12/18/2009 11:40:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091218_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_110000_FOX_and_Friends/FOXNEWS_20091218_110000_FOX_and_Friends.thumbs/FOXNEWS_20091218_110000_FOX_and_Friends_002391.jpg</field>
+<field name="snippet">for almost two decades. and we have very little to show for it other than an increase acceleration of the climate</field>
+</doc>
+</add>

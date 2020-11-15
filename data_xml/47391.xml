@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201209.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120903_100000_FOX_and_Friends#start/2370/end/2405</field>
+<field name="datetime">9/3/2012 10:39:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20120903_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120903_100000_FOX_and_Friends/FOXNEWSW_20120903_100000_FOX_and_Friends.thumbs/FOXNEWSW_20120903_100000_FOX_and_Friends_002368.jpg</field>
+<field name="snippet">announce global warming to have a seat in the front row. and by the way, folk arkansas delegation say it is not that bad in the nose bleed.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100422_100000_FOX_and_Friends#start/5021/end/5056</field>
+<field name="datetime">4/22/2010 11:23:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100422_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100422_100000_FOX_and_Friends/FOXNEWS_20100422_100000_FOX_and_Friends.thumbs/FOXNEWS_20100422_100000_FOX_and_Friends_005001.jpg</field>
+<field name="snippet">-- at the media research center. kind of threw me off there, brent. first off, this story in particular covered very differently from network to network. what's your take on global warming and some of the problems</field>
+</doc>
+</add>

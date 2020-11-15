@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201404.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140423_080000_The_Five#start/241/end/276</field>
+<field name="datetime">4/23/2014 8:04:16</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20140423_080000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140423_080000_The_Five/FOXNEWSW_20140423_080000_The_Five.thumbs/FOXNEWSW_20140423_080000_The_Five_000225.jpg</field>
+<field name="snippet">we're lecturing them on fossil fuels and the evil of coal. the other part i think is really weird is the silencing of the debate. if you have facts on your side, you should always welcome the debate. i like to talk about climate change. i like to be proven wrong.</field>
+</doc>
+</add>

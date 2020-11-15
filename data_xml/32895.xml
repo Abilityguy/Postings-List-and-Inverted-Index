@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091211_230000_Special_Report_With_Bret_Baier#start/1428/end/1463</field>
+<field name="datetime">12/11/2009 23:24:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091211_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091211_230000_Special_Report_With_Bret_Baier/FOXNEWS_20091211_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091211_230000_Special_Report_With_Bret_Baier_001405.jpg</field>
+<field name="snippet">news. bret: delegates to the u.n. climate change conference in copenhagen have agreed on a draft proposal to address global warming t calls on countries to reduce emissions by up to 95% by 2050. critics call that unreachable</field>
+</doc>
+</add>

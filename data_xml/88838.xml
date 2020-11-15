@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190621_130000_Afternoon_Live#start/3692/end/3727</field>
+<field name="datetime">6/21/2019 14:01:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190621_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190621_130000_Afternoon_Live/BBCNEWS_20190621_130000_Afternoon_Live.thumbs/BBCNEWS_20190621_130000_Afternoon_Live_003687.jpg</field>
+<field name="snippet">weather before some heavy thunderstorms in next week. all the details and about 25 minutes. also coming up: the impact of climate change on wildlife in the shetland islands.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190924_040000_The_Briefing#start/11/end/46</field>
+<field name="datetime">9/24/2019 4:00:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20190924_040000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190924_040000_The_Briefing/BBCNEWS_20190924_040000_The_Briefing.thumbs/BBCNEWS_20190924_040000_The_Briefing_000028.jpg</field>
+<field name="snippet">this is the briefing, i'm sally bundock. our top story: the un secretary-general, antonio guterres, thanks young people for leading the charge against climate change. he says the world is waking up to the problem.</field>
+</doc>
+</add>

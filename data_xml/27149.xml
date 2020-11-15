@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100223_100000_The_OReilly_Factor#start/1903/end/1938</field>
+<field name="datetime">2/23/2010 10:31:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20100223_100000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100223_100000_The_OReilly_Factor/FOXNEWS_20100223_100000_The_OReilly_Factor.thumbs/FOXNEWS_20100223_100000_The_OReilly_Factor_001884.jpg</field>
+<field name="snippet">what happened this winter because there are a lot of people trying to now say all the cold and snow that we had was because of global warming. this was our forecast issued in july and then i reissued it again in october. notice the cold and snow in the mid-atlantic states, snow down here in texas, warm and dry up</field>
+</doc>
+</add>

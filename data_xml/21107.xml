@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201308.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130821_160000_NOW_With_Alex_Wagner#start/2658/end/2693</field>
+<field name="datetime">8/21/2013 16:44:33</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20130821_160000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130821_160000_NOW_With_Alex_Wagner/MSNBCW_20130821_160000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20130821_160000_NOW_With_Alex_Wagner_002655.jpg</field>
+<field name="snippet">this panel is a quorum of goodies and baddies. even they can agree with 95% certainty that climate change is caused by humans and that it is not -- what is happening is not a good thing, you would think that would spur someone somewhere into action and yet</field>
+</doc>
+</add>

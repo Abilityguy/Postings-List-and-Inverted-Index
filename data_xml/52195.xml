@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181211_200000_BBC_News#start/1810/end/1845</field>
+<field name="datetime">12/11/2018 20:30:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181211_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181211_200000_BBC_News/BBCNEWS_20181211_200000_BBC_News.thumbs/BBCNEWS_20181211_200000_BBC_News_001798.jpg</field>
+<field name="snippet">david shukman, bbc news, in poland. joining us now is dr gabrielle walker, who specialises in climate change and has written a book called antarctica - an intimate portrait of the world's most mysterious continent. doctor walker, texas much for being</field>
+</doc>
+</add>

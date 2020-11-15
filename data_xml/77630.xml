@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191106_180000_BBC_News_at_Six#start/1202/end/1237</field>
+<field name="datetime">11/6/2019 18:20:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20191106_180000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191106_180000_BBC_News_at_Six/BBCNEWS_20191106_180000_BBC_News_at_Six.thumbs/BBCNEWS_20191106_180000_BBC_News_at_Six_001198.jpg</field>
+<field name="snippet">the climate crisis protest group, has won a legal challenge against the metropolitan police, following the force's decision to ban the group's protests across london. lawyers for extinction rebellion say the met now faces claims for false imprisonment from potentially hundreds of protestors.</field>
+</doc>
+</add>

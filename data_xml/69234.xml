@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201109.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20110906_170000_America_Live#start/5387/end/5422</field>
+<field name="datetime">9/6/2011 18:30:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWSW_20110906_170000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20110906_170000_America_Live/FOXNEWSW_20110906_170000_America_Live.thumbs/FOXNEWSW_20110906_170000_America_Live_005306.jpg</field>
+<field name="snippet">hybrids that can get 150 miles a gallon and will help to curb climate change. looking good! you lost some weight. you noticed! these clothes are too big, so i'm donating them. how'd you do it? eating right, whole grain.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_080000_BBC_News_at_Nine#start/2099/end/2134</field>
+<field name="datetime">9/20/2019 8:35:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190920_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_080000_BBC_News_at_Nine/BBCNEWS_20190920_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190920_080000_BBC_News_at_Nine_002098.jpg</field>
+<field name="snippet">she says the aussies are setting the standard. she'll be attending the march in new york later. earlier, on the bbc's today programme, youth climate change activist anna taylor asked why the uk government isn't treating climate change with what she desribes as 'the utmost priority'.</field>
+</doc>
+</add>

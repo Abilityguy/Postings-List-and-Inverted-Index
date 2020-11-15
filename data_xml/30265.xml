@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201508.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150803_093000_Way_Too_Early#start/898/end/933</field>
+<field name="datetime">8/3/2015 9:45:13</field>
+<field name="station">MSNBC</field>
+<field name="show">Way Too Early</field>
+<field name="showid">MSNBCW_20150803_093000_Way_Too_Early</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150803_093000_Way_Too_Early/MSNBCW_20150803_093000_Way_Too_Early.thumbs/MSNBCW_20150803_093000_Way_Too_Early_000885.jpg</field>
+<field name="snippet">today, president obama will unveil what he called the biggest and most important step we've ever taken to tackle climate change. the initiative known as the clean power plant aims to cut carbon emissions from 32% from</field>
+</doc>
+</add>

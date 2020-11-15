@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100104_110000_FOX_and_Friends#start/453/end/488</field>
+<field name="datetime">1/4/2010 11:07:48</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100104_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100104_110000_FOX_and_Friends/FOXNEWS_20100104_110000_FOX_and_Friends.thumbs/FOXNEWS_20100104_110000_FOX_and_Friends_000446.jpg</field>
+<field name="snippet">should be on terrorism and that is understandable. they were focused on healthcare and global warming on the economy. that is understandable. we weren't focused on yemen opened the terrible things</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201811.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181102_210000_MTP_Daily#start/2508/end/2543</field>
+<field name="datetime">11/2/2018 21:42:03</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20181102_210000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181102_210000_MTP_Daily/MSNBCW_20181102_210000_MTP_Daily.thumbs/MSNBCW_20181102_210000_MTP_Daily_002487.jpg</field>
+<field name="snippet">we all care about. protecting access to health care, making sure that we protect people with pre-existing conditions, passing commonsense gun reform laws. working with scientists so that we can actually bring action to protect our environment and deal with the impacts of climate</field>
+</doc>
+</add>

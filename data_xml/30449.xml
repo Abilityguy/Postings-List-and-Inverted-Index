@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.202001.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20200109_170000_Andrea_Mitchell_Reports#start/204/end/239</field>
+<field name="datetime">1/9/2020 17:03:39</field>
+<field name="station">MSNBC</field>
+<field name="show">Andrea Mitchell Reports</field>
+<field name="showid">MSNBCW_20200109_170000_Andrea_Mitchell_Reports</field>
+<field name="preview">https://archive.org/download/MSNBCW_20200109_170000_Andrea_Mitchell_Reports/MSNBCW_20200109_170000_Andrea_Mitchell_Reports.thumbs/MSNBCW_20200109_170000_Andrea_Mitchell_Reports_000180.jpg</field>
+<field name="snippet">environment is the issue we're talking about today -- since the environment is something that is on the table here today, what is your position on global warming? do you think it's a hoax? nothing is a hoax. nothing is a hoax about that. it's a very serious subject. i want the cleanest air.</field>
+</doc>
+</add>

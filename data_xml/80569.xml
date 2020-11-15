@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190423_040000_Tucker_Carlson_Tonight#start/3417/end/3452</field>
+<field name="datetime">4/23/2019 4:57:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190423_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190423_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190423_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190423_040000_Tucker_Carlson_Tonight_003418.jpg</field>
+<field name="snippet">we have the climate change fever. we need to get it back to 98% or the planet will die. i don't know where that 3% went i think they were all used to print transcripts of the mother</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201703.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170329_030000_BBC_News#start/944/end/979</field>
+<field name="datetime">3/29/2017 3:15:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170329_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170329_030000_BBC_News/BBCNEWS_20170329_030000_BBC_News.thumbs/BBCNEWS_20170329_030000_BBC_News_000928.jpg</field>
+<field name="snippet">an order scrapping us plans to combat climate change. critics say it puts the planet at risk and are planning a legal challenge. we've all seen the distressing images of those caught up</field>
+</doc>
+</add>

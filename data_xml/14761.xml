@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201702.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170208_160000_Happening_Now#start/2423/end/2458</field>
+<field name="datetime">2/8/2017 16:40:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20170208_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170208_160000_Happening_Now/FOXNEWSW_20170208_160000_Happening_Now.thumbs/FOXNEWSW_20170208_160000_Happening_Now_002398.jpg</field>
+<field name="snippet">the real threat issues, not just some fiction such as global warming. jon: there are very expensive programs. the navy is complaining that half of its f-18 fighter jets can even fly right now.</field>
+</doc>
+</add>

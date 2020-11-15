@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100104_110000_FOX_and_Friends#start/2439/end/2474</field>
+<field name="datetime">1/4/2010 11:40:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100104_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100104_110000_FOX_and_Friends/FOXNEWS_20100104_110000_FOX_and_Friends.thumbs/FOXNEWS_20100104_110000_FOX_and_Friends_002424.jpg</field>
+<field name="snippet">and wheaties as well. take a look at the day ahead weather wise. it is cold! glad they had the global warming summit a couple of weeks ago. look at that. 9 below is the current air temperature. when you factor in the windchill it is really, really</field>
+</doc>
+</add>

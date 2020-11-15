@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201506.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150605_150000_Happening_Now#start/2924/end/2959</field>
+<field name="datetime">6/5/2015 15:48:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20150605_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150605_150000_Happening_Now/FOXNEWSW_20150605_150000_Happening_Now.thumbs/FOXNEWSW_20150605_150000_Happening_Now_002925.jpg</field>
+<field name="snippet">saying that the epa will announce a determination that airplane emissions contribute to global warming endanger human health. so it will begin regulating how much carbon they can release into the atmosphere. conservative groups say the regulations are unnecessary.</field>
+</doc>
+</add>

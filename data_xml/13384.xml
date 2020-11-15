@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201111.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111129_230000_Special_Report_With_Bret_Baier#start/213/end/248</field>
+<field name="datetime">11/29/2011 23:03:48</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20111129_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111129_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20111129_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20111129_230000_Special_Report_With_Bret_Baier_000206.jpg</field>
+<field name="snippet">conviction. you have been on both sides of issues, and there's videotape going back years, speaking about climate change, abortion, immigration, gay rights. how can voters trust what they hear from you today is what you will believe if you win the</field>
+</doc>
+</add>

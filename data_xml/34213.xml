@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_160000_Happening_Now#start/5931/end/5966</field>
+<field name="datetime">12/18/2009 17:39:06</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091218_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_160000_Happening_Now/FOXNEWS_20091218_160000_Happening_Now.thumbs/FOXNEWS_20091218_160000_Happening_Now_005910.jpg</field>
+<field name="snippet">i think he's there because he's desperate to get a deal. he knows that health care is in trouble. he knows he needs to produce results, some results, any results. and if he can come out with a climate change deal and a health care deal, even if they're</field>
+</doc>
+</add>

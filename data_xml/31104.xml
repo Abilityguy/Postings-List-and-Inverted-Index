@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090709_080000_Special_Report_With_Bret_Baier#start/285/end/320</field>
+<field name="datetime">7/9/2009 8:05:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20090709_080000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090709_080000_Special_Report_With_Bret_Baier/FOXNEWS_20090709_080000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20090709_080000_Special_Report_With_Bret_Baier_000266.jpg</field>
+<field name="snippet">in rome, the president and first lady received a royal welcome. then on to the central italian village for his first g8 meeting, and with u.s. prodding, the group promised to reduce greenhouse gas</field>
+</doc>
+</add>

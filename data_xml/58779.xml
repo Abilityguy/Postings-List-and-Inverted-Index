@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181123_040000_BBC_News#start/1070/end/1105</field>
+<field name="datetime">11/23/2018 4:18:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181123_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181123_040000_BBC_News/BBCNEWS_20181123_040000_BBC_News.thumbs/BBCNEWS_20181123_040000_BBC_News_001047.jpg</field>
+<field name="snippet">from africa to asia, which could undermine the fight against global warming. you cannot be a world leader in curbing air pollution and, at the same time, the world's biggest financier of overseas coal power plants. for local people, coal does provide jobs, but many are worried about the pollution. from everywhere, it's coming. this is the ash?</field>
+</doc>
+</add>

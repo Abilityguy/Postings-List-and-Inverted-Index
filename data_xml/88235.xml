@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191214_140000_BBC_News#start/1576/end/1611</field>
+<field name="datetime">12/14/2019 14:26:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191214_140000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191214_140000_BBC_News/BBCNEWS_20191214_140000_BBC_News.thumbs/BBCNEWS_20191214_140000_BBC_News_001557.jpg</field>
+<field name="snippet">for the implementation of the 2015 paris climate agreement. many key issues were left open after last year's summit in poland and remain unresolved. our environment correspondent matt mcgrath explained the latest developments. they've gone into overtime here at this particular conference. it's not unusual that talks at the un about climate change go into overtime,</field>
+</doc>
+</add>

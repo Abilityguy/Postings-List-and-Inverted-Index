@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200910.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091019_100000_Morning_Joe#start/5406/end/5441</field>
+<field name="datetime">10/19/2009 11:30:21</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20091019_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20091019_100000_Morning_Joe/MSNBC_20091019_100000_Morning_Joe.thumbs/MSNBC_20091019_100000_Morning_Joe_005280.jpg</field>
+<field name="snippet">we'll get the morning's headlines from savannah guthrie when we come back right here on 'morning joe.' (announcer) what the world needs now is energy. the energy to get the economy humming again. the energy to tackle challenges like climate change.</field>
+</doc>
+</add>

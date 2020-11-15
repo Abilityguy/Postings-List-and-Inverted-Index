@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201003.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100312_090000_Special_Report_With_Bret_Baier#start/1768/end/1803</field>
+<field name="datetime">3/12/2010 9:29:43</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100312_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100312_090000_Special_Report_With_Bret_Baier/FOXNEWS_20100312_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100312_090000_Special_Report_With_Bret_Baier_001764.jpg</field>
+<field name="snippet">in health care reform meetings. we'll update you as we get more. and now the latest from the political grapevine. a new gallup poll indicates public concerns over global warming continue to drop. 4% of those surveyed believe the seriousness of global warming is</field>
+</doc>
+</add>

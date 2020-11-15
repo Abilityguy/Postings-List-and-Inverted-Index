@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181226_040000_Special_Report_With_Bret_Baier#start/1352/end/1387</field>
+<field name="datetime">12/26/2018 4:22:47</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20181226_040000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181226_040000_Special_Report_With_Bret_Baier/FOXNEWSW_20181226_040000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20181226_040000_Special_Report_With_Bret_Baier_001348.jpg</field>
+<field name="snippet">rather than fight every drilling permit or new power plant, environmentalists battle climate change and have a new strategy, stop-loss production before it everer gets to market. speak with the goal is to keep it in the ground.</field>
+</doc>
+</add>

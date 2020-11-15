@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190403_000000_Tucker_Carlson_Tonight#start/1716/end/1751</field>
+<field name="datetime">4/3/2019 0:28:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190403_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190403_000000_Tucker_Carlson_Tonight/FOXNEWSW_20190403_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190403_000000_Tucker_Carlson_Tonight_001708.jpg</field>
+<field name="snippet">that's what she thinks. that's what a lot of people on the left think. the same people calling a fascist because you don't believe in global warming.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100126_110000_FOX_and_Friends#start/10099/end/10134</field>
+<field name="datetime">1/26/2010 13:48:34</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100126_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100126_110000_FOX_and_Friends/FOXNEWS_20100126_110000_FOX_and_Friends.thumbs/FOXNEWS_20100126_110000_FOX_and_Friends_010063.jpg</field>
+<field name="snippet">night, per legislator, which is more than the average american mortgage payment for a month, that's simply tone deaf. maybe americans wouldn't be so upset if they actually got something huge done. or if believed it was global warming.</field>
+</doc>
+</add>

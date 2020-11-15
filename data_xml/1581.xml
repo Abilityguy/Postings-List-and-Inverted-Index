@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200908.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20090818_190000_MSNBC_News_Live#start/2590/end/2625</field>
+<field name="datetime">8/18/2009 19:43:25</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20090818_190000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20090818_190000_MSNBC_News_Live/MSNBC_20090818_190000_MSNBC_News_Live.thumbs/MSNBC_20090818_190000_MSNBC_News_Live_002576.jpg</field>
+<field name="snippet">she's tried to establish herself as somebody who is a bit of an expert on energy up in alaska, but as we know, i think she'd be hard pressed to name a greenhouse gas. so finding some place where she can stake out territories to</field>
+</doc>
+</add>

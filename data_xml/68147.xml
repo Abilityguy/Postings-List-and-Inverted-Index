@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190221_170000_BBC_News_at_Five#start/1448/end/1483</field>
+<field name="datetime">2/21/2019 17:24:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190221_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190221_170000_BBC_News_at_Five/BBCNEWS_20190221_170000_BBC_News_at_Five.thumbs/BBCNEWS_20190221_170000_BBC_News_at_Five_001438.jpg</field>
+<field name="snippet">so we know that spending a small amount of money now to address climate change saves a big cost in the future. that's a cost that will fall on the young generation today and we know that the houses that we see around us will be around</field>
+</doc>
+</add>

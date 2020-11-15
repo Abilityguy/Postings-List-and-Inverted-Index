@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201006.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100615_190000_Studio_B_With_Shepard_Smith#start/384/end/419</field>
+<field name="datetime">6/15/2010 19:06:39</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Studio B With Shepard Smith</field>
+<field name="showid">FOXNEWS_20100615_190000_Studio_B_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100615_190000_Studio_B_With_Shepard_Smith/FOXNEWS_20100615_190000_Studio_B_With_Shepard_Smith.thumbs/FOXNEWS_20100615_190000_Studio_B_With_Shepard_Smith_000360.jpg</field>
+<field name="snippet">will the president push for climate change legislation? there's obviously going to be a robust debate about the way forward. i don't think mitch mcconnell, maybe he does. i wouldn't want my representative to think we should be more dependent on</field>
+</doc>
+</add>

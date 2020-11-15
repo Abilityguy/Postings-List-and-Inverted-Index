@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201606.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160622_210000_MTP_Daily#start/2055/end/2090</field>
+<field name="datetime">6/22/2016 21:34:30</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20160622_210000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160622_210000_MTP_Daily/MSNBCW_20160622_210000_MTP_Daily.thumbs/MSNBCW_20160622_210000_MTP_Daily_001966.jpg</field>
+<field name="snippet">an uncertain direction, frankly to a place we don't want to go. and perhaps by a driver who doesn't speak the very best of english. if we want a bigger economy and more jobs, we are better if we do it together. if we want to fight climate change, we are better if we do</field>
+</doc>
+</add>

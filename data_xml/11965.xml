@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190826_110000_BBC_News#start/350/end/385</field>
+<field name="datetime">8/26/2019 11:06:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190826_110000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190826_110000_BBC_News/BBCNEWS_20190826_110000_BBC_News.thumbs/BBCNEWS_20190826_110000_BBC_News_000327.jpg</field>
+<field name="snippet">the first generation that is suffering from the effects of climate change, and we are the last generation that can do something to avoid a tragedy. that may be true, but with respect, the point i was making was that the presidents of america and brazil have a quite</field>
+</doc>
+</add>

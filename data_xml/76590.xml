@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190505_103000_Dateline_London#start/1437/end/1472</field>
+<field name="datetime">5/5/2019 10:54:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Dateline London</field>
+<field name="showid">BBCNEWS_20190505_103000_Dateline_London</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190505_103000_Dateline_London/BBCNEWS_20190505_103000_Dateline_London.thumbs/BBCNEWS_20190505_103000_Dateline_London_001439.jpg</field>
+<field name="snippet">i think you will see the greens doing better than they have been across europe because of the recent publicity about climate change and there is more of a sense of urgency. but i do not.</field>
+</doc>
+</add>

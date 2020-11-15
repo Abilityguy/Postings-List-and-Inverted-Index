@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151231_110000_Morning_Joe#start/3348/end/3383</field>
+<field name="datetime">12/31/2015 11:56:03</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20151231_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151231_110000_Morning_Joe/MSNBCW_20151231_110000_Morning_Joe.thumbs/MSNBCW_20151231_110000_Morning_Joe_003345.jpg</field>
+<field name="snippet">billionaire in san francisco to complain about climate change and get on his corporate jet. if you're a coal miner in west virginia it's different.</field>
+</doc>
+</add>

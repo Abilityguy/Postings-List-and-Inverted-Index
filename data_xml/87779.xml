@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191224_003000_Review_2019#start/139/end/174</field>
+<field name="datetime">12/24/2019 0:32:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Review 2019</field>
+<field name="showid">BBCNEWS_20191224_003000_Review_2019</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191224_003000_Review_2019/BBCNEWS_20191224_003000_Review_2019.thumbs/BBCNEWS_20191224_003000_Review_2019_000120.jpg</field>
+<field name="snippet">welcome to a year in science, where we'll be looking at the biggest stories of 2019. there was, of course, one issue that dominated. that was climate change. not so long ago, people thought of it as a theoretical issue.</field>
+</doc>
+</add>

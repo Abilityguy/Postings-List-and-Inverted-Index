@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181206_100000_Fox_and_Friends_First#start/1956/end/1991</field>
+<field name="datetime">12/6/2018 10:32:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20181206_100000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181206_100000_Fox_and_Friends_First/FOXNEWSW_20181206_100000_Fox_and_Friends_First.thumbs/FOXNEWSW_20181206_100000_Fox_and_Friends_First_001947.jpg</field>
+<field name="snippet">it comes as the us threatens to pull out of an arms treaty accusing russia of violating its terms, russia says it has done nothing wrong. french president emmanuel macron scrapping his carbon tax after weeks of protest. this is meant to curb global</field>
+</doc>
+</add>

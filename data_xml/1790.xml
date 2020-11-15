@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170531_180000_Americas_News_HQ#start/3605/end/3640</field>
+<field name="datetime">5/31/2017 19:00:20</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20170531_180000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170531_180000_Americas_News_HQ/FOXNEWSW_20170531_180000_Americas_News_HQ.thumbs/FOXNEWSW_20170531_180000_Americas_News_HQ_003597.jpg</field>
+<field name="snippet">we're not used to. an audio-only press briefing. there will be news out of that, i'm sure. i'm jenna lee. here's shep. some scientists have called climate change the greatest threat that humanity changes.</field>
+</doc>
+</add>

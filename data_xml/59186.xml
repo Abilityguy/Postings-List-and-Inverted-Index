@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181124_040000_BBC_News#start/0/end/34</field>
+<field name="datetime">11/24/2018 4:00:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181124_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181124_040000_BBC_News/BBCNEWS_20181124_040000_BBC_News.thumbs/BBCNEWS_20181124_040000_BBC_News_000058.jpg</field>
+<field name="snippet">welcome to bbc news, broadcasting to viewers in north america and around the globe. i'm reged ahmad. our top stories: a warning - and a challenge - to president trump from his own government. a new report says unchecked climate change will cost america hundreds of billions of dollars. spain's prime minister says he hasn't got the british guarantees</field>
+</doc>
+</add>

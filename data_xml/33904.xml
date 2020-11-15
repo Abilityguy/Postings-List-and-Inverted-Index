@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091201_050000_Hannity#start/1775/end/1810</field>
+<field name="datetime">12/1/2009 5:29:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20091201_050000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091201_050000_Hannity/FOXNEWS_20091201_050000_Hannity.thumbs/FOXNEWS_20091201_050000_Hannity_001710.jpg</field>
+<field name="snippet">sean: president obama and all of his celebrity friends are getting excited about next week's climate change summit in copenhagen, but some say it would generate tons of carbon dioxide, and it will require 900</field>
+</doc>
+</add>

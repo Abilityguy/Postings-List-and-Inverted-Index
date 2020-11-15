@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201202.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120212_100000_The_Five#start/2258/end/2293</field>
+<field name="datetime">2/12/2012 10:37:53</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20120212_100000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120212_100000_The_Five/FOXNEWSW_20120212_100000_The_Five.thumbs/FOXNEWSW_20120212_100000_The_Five_002250.jpg</field>
+<field name="snippet">instead of spending 500 million on solyndra, spend $500000 on researchers looking at, for instance, whether solyndra's idea was good. john: you said we should research these things because global warming and many agree with you, is a real threat,</field>
+</doc>
+</add>

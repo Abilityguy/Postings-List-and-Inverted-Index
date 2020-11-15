@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190222_053000_Business_Briefing#start/912/end/947</field>
+<field name="datetime">2/22/2019 5:45:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Business Briefing</field>
+<field name="showid">BBCNEWS_20190222_053000_Business_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190222_053000_Business_Briefing/BBCNEWS_20190222_053000_Business_Briefing.thumbs/BBCNEWS_20190222_053000_Business_Briefing_000898.jpg</field>
+<field name="snippet">the un has issued a stark warning that animals and plants vital for feeding the world are disappearing by the day and that the world's ability to produce food is being put under threat by climate change and farming practices.</field>
+</doc>
+</add>

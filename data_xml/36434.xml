@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201906.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190607_100000_Morning_Joe#start/6989/end/7024</field>
+<field name="datetime">6/7/2019 11:56:44</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20190607_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190607_100000_Morning_Joe/MSNBCW_20190607_100000_Morning_Joe.thumbs/MSNBCW_20190607_100000_Morning_Joe_006990.jpg</field>
+<field name="snippet">weather and it changes both ways. it was called global warming, then climate change, and now it's called extreme weather. we have tornados, but then with you look back 40 years ago we</field>
+</doc>
+</add>

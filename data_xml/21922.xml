@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180807_120000_BBC_News_at_One#start/45/end/80</field>
+<field name="datetime">8/7/2018 12:01:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20180807_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180807_120000_BBC_News_at_One/BBCNEWS_20180807_120000_BBC_News_at_One.thumbs/BBCNEWS_20180807_120000_BBC_News_at_One_000057.jpg</field>
+<field name="snippet">climate change - making parts of the planet uninhabitable and coming up on bbc news, the battle for control at arsenal and it looks like stan kroenke could be winning with the majority shareholder on the verge of buying the whole club.</field>
+</doc>
+</add>

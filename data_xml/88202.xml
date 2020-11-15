@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191231_070000_Breakfast#start/581/end/616</field>
+<field name="datetime">12/31/2019 7:09:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191231_070000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191231_070000_Breakfast/BBCNEWS_20191231_070000_Breakfast.thumbs/BBCNEWS_20191231_070000_Breakfast_000568.jpg</field>
+<field name="snippet">more than 800 sightings of whales, dolphins and seals have been recorded in british waters this year. the wildlife trusts' review of the uk's marine environment reveals that thousands of people volunteered to clean beaches - amid growing concern over wildlife, climate change and pollution. forty one new marine conservation zones around england were also announced.</field>
+</doc>
+</add>

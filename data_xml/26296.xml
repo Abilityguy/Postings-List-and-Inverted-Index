@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201003.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100313_160000_Forbes_on_FOX#start/767/end/802</field>
+<field name="datetime">3/13/2010 16:13:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Forbes on FOX</field>
+<field name="showid">FOXNEWS_20100313_160000_Forbes_on_FOX</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100313_160000_Forbes_on_FOX/FOXNEWS_20100313_160000_Forbes_on_FOX.thumbs/FOXNEWS_20100313_160000_Forbes_on_FOX_000746.jpg</field>
+<field name="snippet">eric: possible blow to the president's green jobs plan. new study out of california shows climate change plans in the golden state won't help workers at all. in fact, they'll lose jobs over the short-term and with no real games in the long run. steve, is that what the rest</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190807_000000_Newsday#start/862/end/897</field>
+<field name="datetime">8/7/2019 0:14:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190807_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190807_000000_Newsday/BBCNEWS_20190807_000000_Newsday.thumbs/BBCNEWS_20190807_000000_Newsday_000839.jpg</field>
+<field name="snippet">you're watching newsday on the bbc. still to come on the programme: telephone lines cut, banks closed and food stocks running low: we hear what life is like under lockdown in indian-administered kashmir. also on the programme: is india running out of water? climate change and a rising</field>
+</doc>
+</add>

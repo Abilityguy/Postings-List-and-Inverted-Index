@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191212_090000_BBC_News_at_9#start/3199/end/3234</field>
+<field name="datetime">12/12/2019 9:53:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20191212_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191212_090000_BBC_News_at_9/BBCNEWS_20191212_090000_BBC_News_at_9.thumbs/BBCNEWS_20191212_090000_BBC_News_at_9_003177.jpg</field>
+<field name="snippet">spans the globe, and ensures that the climate crisis rarely leaves the headlines. although her fellow campaigners believe that this is the only way to avert the danger it presents, the constant message of fear is leading some to experience what's being called 'climate anxiety'. ben morris went to bath, in the west</field>
+</doc>
+</add>

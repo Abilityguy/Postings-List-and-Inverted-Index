@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201011.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101102_100000_Morning_Joe#start/9797/end/9832</field>
+<field name="datetime">11/2/2010 12:43:32</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20101102_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20101102_100000_Morning_Joe/MSNBC_20101102_100000_Morning_Joe.thumbs/MSNBC_20101102_100000_Morning_Joe_009797.jpg</field>
+<field name="snippet">this ain't cheese, joe. this is health care reform. climate change. all the heavy hitters. all the big, democratic issues. they're running away from. but not big issues in middle america. listen.</field>
+</doc>
+</add>

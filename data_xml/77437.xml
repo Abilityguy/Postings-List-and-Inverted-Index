@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191113_033000_Can_Flying_Go_Green_-_Panorama#start/596/end/631</field>
+<field name="datetime">11/13/2019 3:40:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Can Flying Go Green - Panorama</field>
+<field name="showid">BBCNEWS_20191113_033000_Can_Flying_Go_Green_-_Panorama</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191113_033000_Can_Flying_Go_Green_-_Panorama/BBCNEWS_20191113_033000_Can_Flying_Go_Green_-_Panorama.thumbs/BBCNEWS_20191113_033000_Can_Flying_Go_Green_-_Panorama_000598.jpg</field>
+<field name="snippet">just to be absolutely clear, when it's burned in a plane, it's going to release the same amount of greenhouse gas emissions as current kerosene? yes, it is. it behaves exactly like current kerosene. so the greenhouse emissions out of the plane are the same, but over the life cycle</field>
+</doc>
+</add>

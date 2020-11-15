@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191011_184500_Newswatch#start/76/end/111</field>
+<field name="datetime">10/11/2019 18:46:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newswatch</field>
+<field name="showid">BBCNEWS_20191011_184500_Newswatch</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191011_184500_Newswatch/BBCNEWS_20191011_184500_Newswatch.thumbs/BBCNEWS_20191011_184500_Newswatch_000059.jpg</field>
+<field name="snippet">now it's time for newswatch and we hear your views on the bbc's coverage of climate change. hello and welcome to newswatch. as</field>
+</doc>
+</add>

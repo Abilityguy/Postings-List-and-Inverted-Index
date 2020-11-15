@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171212_040000_BBC_News#start/777/end/812</field>
+<field name="datetime">12/12/2017 4:13:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171212_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171212_040000_BBC_News/BBCNEWS_20171212_040000_BBC_News.thumbs/BBCNEWS_20171212_040000_BBC_News_000778.jpg</field>
+<field name="snippet">the one planet summit, taking place two years to the day since the paris accord, which saw 195 countries aiming to end the use of fossil fuels and stem the rise in global warming, an agreement that america turned its back on injune, when donald trump pulled out. he has called global warming a hoax.</field>
+</doc>
+</add>

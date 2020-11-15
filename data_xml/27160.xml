@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100216_050000_Hannity#start/1569/end/1604</field>
+<field name="datetime">2/16/2010 5:26:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20100216_050000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100216_050000_Hannity/FOXNEWS_20100216_050000_Hannity.thumbs/FOXNEWS_20100216_050000_Hannity_001554.jpg</field>
+<field name="snippet">tonight's meltdown brought to you by phil jones the scientist at the center of the climate scandal, the scandal is bigger than you think. jones' findings have been used for years to bolster the u.n.'s findings on climate change in an interview with</field>
+</doc>
+</add>

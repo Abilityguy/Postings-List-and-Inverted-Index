@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190612_040000_The_Briefing#start/465/end/500</field>
+<field name="datetime">6/12/2019 4:08:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20190612_040000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190612_040000_The_Briefing/BBCNEWS_20190612_040000_The_Briefing.thumbs/BBCNEWS_20190612_040000_The_Briefing_000449.jpg</field>
+<field name="snippet">the british government has outlined ambitious plans to cut greenhouse gas emissions to almost zero by 2050 in order to tackle climate change. emissions will have to be avoided completely or offset by planting trees or sucking c02 out of the atmosphere. critics say the action is being taken too late.</field>
+</doc>
+</add>

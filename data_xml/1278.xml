@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170508_010000_BBC_News#start/92/end/127</field>
+<field name="datetime">5/8/2017 1:01:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170508_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170508_010000_BBC_News/BBCNEWS_20170508_010000_BBC_News.thumbs/BBCNEWS_20170508_010000_BBC_News_000087.jpg</field>
+<field name="snippet">emmanuel macron is set to be the youngest ever, in french history. in a televised address, the 39-year-old centrist, promised to fight the divisions in his country, re-build the links between the eu and its citizens, and to combat threats posed by terrorism and climate change. with results almost counted, projections show mr macron has won more than 66% of the vote -  _</field>
+</doc>
+</add>

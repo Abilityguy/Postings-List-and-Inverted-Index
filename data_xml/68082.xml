@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190215_130000_BBC_News_at_One#start/1123/end/1158</field>
+<field name="datetime">2/15/2019 13:18:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190215_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190215_130000_BBC_News_at_One/BBCNEWS_20190215_130000_BBC_News_at_One.thumbs/BBCNEWS_20190215_130000_BBC_News_at_One_001107.jpg</field>
+<field name="snippet">that burden you leave to us children. and on the bbc this morning, one young protestor here was putting the government on the spot. what action will you be taking to reassure our generation about climate change? george, it is great</field>
+</doc>
+</add>

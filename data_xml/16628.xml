@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201805.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20180528_100000_Morning_Joe#start/10426/end/10461</field>
+<field name="datetime">5/28/2018 12:54:01</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20180528_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20180528_100000_Morning_Joe/MSNBCW_20180528_100000_Morning_Joe.thumbs/MSNBCW_20180528_100000_Morning_Joe_010407.jpg</field>
+<field name="snippet">knows more about climate change than many adults. i worry about it basically every day. reporter: and he's worried that rising sea levels could mean his home along the florida coast could disappear completely. if climate change does not stop, then we will probably have</field>
+</doc>
+</add>

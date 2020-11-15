@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201703.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170325_100000_Fox_and_Friends_Saturday#start/8947/end/8982</field>
+<field name="datetime">3/25/2017 12:29:22</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20170325_100000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170325_100000_Fox_and_Friends_Saturday/FOXNEWSW_20170325_100000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20170325_100000_Fox_and_Friends_Saturday_008938.jpg</field>
+<field name="snippet">abby: certainly a wake-up call on how we move forward. a lot more to tackle in the weeks to come. corey lewandowski good to have you here this morning. pete: coming up, do you want to know the reason why donald trump and brexit happened? al gore says easy. it's because of climate change.</field>
+</doc>
+</add>

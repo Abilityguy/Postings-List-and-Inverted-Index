@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201211.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121102_000000_The_Ed_Show#start/2935/end/2970</field>
+<field name="datetime">11/2/2012 0:49:10</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20121102_000000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121102_000000_The_Ed_Show/MSNBCW_20121102_000000_The_Ed_Show.thumbs/MSNBCW_20121102_000000_The_Ed_Show_002937.jpg</field>
+<field name="snippet">scientific evidence and risk management looks like, here it is. what about climate? that's what caused this monster storm. climate change.</field>
+</doc>
+</add>

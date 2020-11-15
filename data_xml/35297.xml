@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201910.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191030_100000_Morning_Joe#start/6894/end/6929</field>
+<field name="datetime">10/30/2019 11:55:09</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20191030_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191030_100000_Morning_Joe/MSNBCW_20191030_100000_Morning_Joe.thumbs/MSNBCW_20191030_100000_Morning_Joe_006900.jpg</field>
+<field name="snippet">headline here. you're not suggesting climate change is accelerating at a pace you didn't anticipate, you're saying the land is not exactly where you thought it was. it's kind of shocking, right?</field>
+</doc>
+</add>

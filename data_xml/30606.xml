@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140214_230000_Special_Report_With_Bret_Baier#start/122/end/157</field>
+<field name="datetime">2/14/2014 23:02:17</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20140214_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140214_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20140214_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20140214_230000_Special_Report_With_Bret_Baier_000105.jpg</field>
+<field name="snippet">states now disproves global warming, don't believe it. yet critics say he's promoting zombie science and blaming everything on humans. it's a fancy way of saying there's no way to falsify manmade global warming claims</field>
+</doc>
+</add>

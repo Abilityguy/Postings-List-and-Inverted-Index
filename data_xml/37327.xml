@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201401.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140131_230000_Special_Report_With_Bret_Baier#start/331/end/366</field>
+<field name="datetime">1/31/2014 23:05:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20140131_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140131_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20140131_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20140131_230000_Special_Report_With_Bret_Baier_000315.jpg</field>
+<field name="snippet">consider the impact on global warming as part of the decision to build the pipeline, though the report suggests without a sharp decline in the price of oil or an increase in the cost of transporting it, the canadian oil will likely be extracted one</field>
+</doc>
+</add>

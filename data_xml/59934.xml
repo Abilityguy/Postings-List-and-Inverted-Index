@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_193000_Climate_Change#start/267/end/302</field>
+<field name="datetime">10/8/2018 19:34:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Climate Change</field>
+<field name="showid">BBCNEWS_20181008_193000_Climate_Change</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_193000_Climate_Change/BBCNEWS_20181008_193000_Climate_Change.thumbs/BBCNEWS_20181008_193000_Climate_Change_000267.jpg</field>
+<field name="snippet">those are things you can be thinking about. but who will be changing the way they live? we asked some shoppers on oxford street in central london today how they had adapted their lifestyle in the face of global warming.</field>
+</doc>
+</add>

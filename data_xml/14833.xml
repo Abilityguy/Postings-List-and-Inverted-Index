@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201702.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170207_230000_Special_Report_With_Bret_Baier#start/1655/end/1690</field>
+<field name="datetime">2/7/2017 23:27:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20170207_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170207_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20170207_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20170207_230000_Special_Report_With_Bret_Baier_001647.jpg</field>
+<field name="snippet">court, offering lawmakers no plan b. bill: thank you, catherine herridge. there is an intriguing twist in the climate change controversy this evening. it has to do with data said to be manipulated by scientists and that data was given to then</field>
+</doc>
+</add>

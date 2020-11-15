@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201709.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170921_040000_The_Five#start/3017/end/3052</field>
+<field name="datetime">9/21/2017 4:50:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20170921_040000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170921_040000_The_Five/FOXNEWSW_20170921_040000_The_Five.thumbs/FOXNEWSW_20170921_040000_The_Five_002998.jpg</field>
+<field name="snippet">making connections between some of the weather events we arewe having now and global climate change and frankly, there are</field>
+</doc>
+</add>

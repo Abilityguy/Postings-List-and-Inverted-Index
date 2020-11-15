@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190123_040000_BBC_News#start/1271/end/1306</field>
+<field name="datetime">1/23/2019 4:21:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190123_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190123_040000_BBC_News/BBCNEWS_20190123_040000_BBC_News.thumbs/BBCNEWS_20190123_040000_BBC_News_001258.jpg</field>
+<field name="snippet">we have never been more powerful, we can wreck it with ease. the question, of course, is whether this call to arms falls on deaf ears, because not everyone here is as concerned about climate change, and one of them just happens to be speaking here next, in exactly the same conference hall.</field>
+</doc>
+</add>

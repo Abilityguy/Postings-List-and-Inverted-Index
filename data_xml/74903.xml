@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200102_190000_Beyond_100_Days#start/3220/end/3255</field>
+<field name="datetime">1/2/2020 19:53:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20200102_190000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200102_190000_Beyond_100_Days/BBCNEWS_20200102_190000_Beyond_100_Days.thumbs/BBCNEWS_20200102_190000_Beyond_100_Days_003207.jpg</field>
+<field name="snippet">potentially, do you think? is this a piece of good news in the fight against climate change? i think so. we can make choices about how we fly and what cars we drive but it's difficult to make choices about heating and</field>
+</doc>
+</add>

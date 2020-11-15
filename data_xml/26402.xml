@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201109.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20110926_160000_MSNBC_News_Live#start/626/end/661</field>
+<field name="datetime">9/26/2011 16:10:41</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBCW_20110926_160000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20110926_160000_MSNBC_News_Live/MSNBCW_20110926_160000_MSNBC_News_Live.thumbs/MSNBCW_20110926_160000_MSNBC_News_Live_000626.jpg</field>
+<field name="snippet">after republican candidates. and we have a graphic of what he said at one of those fund-raising events last night. he said, you've got a governor whose state is on fire denying climate change. of course, that's a reference to rick perry. you've got audiences cheering at the prospect of somebody dying because they don't have health care.</field>
+</doc>
+</add>

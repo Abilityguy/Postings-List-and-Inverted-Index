@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190922_100000_Fox_and_Friends_Sunday#start/11306/end/11341</field>
+<field name="datetime">9/22/2019 13:08:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20190922_100000_Fox_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190922_100000_Fox_and_Friends_Sunday/FOXNEWSW_20190922_100000_Fox_and_Friends_Sunday.thumbs/FOXNEWSW_20190922_100000_Fox_and_Friends_Sunday_011309.jpg</field>
+<field name="snippet">president trump: no i'm very busy i'm going on the floods today. the floods are very important to me, and climate change. everything is very important, but today i'm going to texas on the floods, and then i'm going to houston on the big rally,</field>
+</doc>
+</add>

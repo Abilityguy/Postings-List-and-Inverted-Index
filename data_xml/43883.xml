@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151228_070000_Meet_the_Press#start/204/end/239</field>
+<field name="datetime">12/28/2015 7:03:39</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20151228_070000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151228_070000_Meet_the_Press/MSNBCW_20151228_070000_Meet_the_Press.thumbs/MSNBCW_20151228_070000_Meet_the_Press_000196.jpg</field>
+<field name="snippet">thing. right now we're in negotiations with the dnc. frankly, andrea, i think for the american people there are far more important issues having to do with the disappearance of the american middle-class and huge income and wealth inequality and climate change and the corrupt</field>
+</doc>
+</add>

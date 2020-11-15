@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181221_010000_Tucker_Carlson_Tonight#start/1668/end/1703</field>
+<field name="datetime">12/21/2018 1:28:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20181221_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181221_010000_Tucker_Carlson_Tonight/FOXNEWSW_20181221_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20181221_010000_Tucker_Carlson_Tonight_001647.jpg</field>
+<field name="snippet">carbon tax, you can argue all you want about whether climate change is man-made or not, but we do know that mercury pollution is a potent neurotoxin, we do know that sulfur pollution has significant health effects, we do know that ground-based ozone, because of</field>
+</doc>
+</add>

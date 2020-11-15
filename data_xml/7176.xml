@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201504.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150406_150000_Happening_Now#start/3020/end/3055</field>
+<field name="datetime">4/6/2015 15:50:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20150406_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150406_150000_Happening_Now/FOXNEWSW_20150406_150000_Happening_Now.thumbs/FOXNEWSW_20150406_150000_Happening_Now_003015.jpg</field>
+<field name="snippet">lower. businesses in the u.s., it's cost associated with this. there are those who say it's just the weather. it's climate change.</field>
+</doc>
+</add>

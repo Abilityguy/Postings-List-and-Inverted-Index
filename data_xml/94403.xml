@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201212.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121208_190000_MSNBC_Live#start/8798/end/8833</field>
+<field name="datetime">12/8/2012 21:26:53</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20121208_190000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121208_190000_MSNBC_Live/MSNBCW_20121208_190000_MSNBC_Live.thumbs/MSNBCW_20121208_190000_MSNBC_Live_008787.jpg</field>
+<field name="snippet">something as big as the arctic ice sheet. with climate change and forest fires, the ice sheets are getting covered with ash. and they reflect less light. and so they heat up even more. and the edges of the ice sheets</field>
+</doc>
+</add>

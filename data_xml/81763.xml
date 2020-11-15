@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091207_160000_MSNBC_News_Live#start/109/end/144</field>
+<field name="datetime">12/7/2009 16:02:04</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091207_160000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091207_160000_MSNBC_News_Live/MSNBC_20091207_160000_MSNBC_News_Live.thumbs/MSNBC_20091207_160000_MSNBC_News_Live_000090.jpg</field>
+<field name="snippet">much, jim. and now to a strategic move by the president to delay his appearance at the u.n. climate change summit. this conference is under way right now in copenhagen but in a key move president obama will now attend the final day of the conference when most key deals</field>
+</doc>
+</add>

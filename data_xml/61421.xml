@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201503.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150323_100000_Morning_Joe#start/1005/end/1040</field>
+<field name="datetime">3/23/2015 10:17:00</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20150323_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150323_100000_Morning_Joe/MSNBCW_20150323_100000_Morning_Joe.thumbs/MSNBCW_20150323_100000_Morning_Joe_001005.jpg</field>
+<field name="snippet">when you look at the swing states and the way the demographics are moving in ohio the way they're moveing in colorado, a character like this who says -- characterer? character, exactly. no such thing as climate change. basically basically, there's been no legislation in the senate.</field>
+</doc>
+</add>

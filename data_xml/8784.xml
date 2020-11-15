@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190907_100000_Fox_and_Friends_Saturday#start/837/end/872</field>
+<field name="datetime">9/7/2019 10:14:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20190907_100000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190907_100000_Fox_and_Friends_Saturday/FOXNEWSW_20190907_100000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20190907_100000_Fox_and_Friends_Saturday_002970.jpg</field>
+<field name="snippet">this is why democrats are doing seven hour debates on climate change because, really, it's very difficult to talk about the economy and come out with solutions that people are going to find palletable when you look at numbers like this. what are you going to say, all the stuff that president trump's done that's achieved all this</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201304.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130408_160000_NOW_With_Alex_Wagner#start/2153/end/2188</field>
+<field name="datetime">4/8/2013 16:36:08</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20130408_160000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130408_160000_NOW_With_Alex_Wagner/MSNBCW_20130408_160000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20130408_160000_NOW_With_Alex_Wagner_002145.jpg</field>
+<field name="snippet">we actually have to fight. if we want to defeat climate change, if we want to stabilize emissions, build a clean energy economy, we have to show leadership and we have to make sometimes difficult political decisions in favor of clean energy and we have to stand up to big oil.</field>
+</doc>
+</add>

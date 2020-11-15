@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190518_040000_Tucker_Carlson_Tonight#start/1244/end/1279</field>
+<field name="datetime">5/18/2019 4:20:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190518_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190518_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190518_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190518_040000_Tucker_Carlson_Tonight_001228.jpg</field>
+<field name="snippet">word about global warming. that's next. n >> what i'm saying is the planet is on [bleep] fire. there are a lot of things we can do to put it out. are any of them free? no, of course not. nothing is free, you idiots grow [bleep] up.</field>
+</doc>
+</add>

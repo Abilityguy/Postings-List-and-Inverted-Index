@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201501.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150104_000000_FOX_Report#start/2086/end/2121</field>
+<field name="datetime">1/4/2015 0:35:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report</field>
+<field name="showid">FOXNEWSW_20150104_000000_FOX_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150104_000000_FOX_Report/FOXNEWSW_20150104_000000_FOX_Report.thumbs/FOXNEWSW_20150104_000000_FOX_Report_002085.jpg</field>
+<field name="snippet">playing highway jobs and republicans are optimistic that the bill will get through the senate and house and get to the president's desk. president obama voiced concern that the co stone pipeline might contribute to global warming and</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201612.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161227_220000_MTP_Daily#start/1807/end/1842</field>
+<field name="datetime">12/27/2016 22:30:22</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20161227_220000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161227_220000_MTP_Daily/MSNBCW_20161227_220000_MTP_Daily.thumbs/MSNBCW_20161227_220000_MTP_Daily_001798.jpg</field>
+<field name="snippet">in too, young japanese studying across america, scientists from our two nations together unraveling the mysteries of cancer or combatting climate change or exploring the stars.</field>
+</doc>
+</add>

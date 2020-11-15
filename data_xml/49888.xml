@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201703.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170328_100000_Morning_Joe#start/4840/end/4875</field>
+<field name="datetime">3/28/2017 11:20:55</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20170328_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170328_100000_Morning_Joe/MSNBCW_20170328_100000_Morning_Joe.thumbs/MSNBCW_20170328_100000_Morning_Joe_004827.jpg</field>
+<field name="snippet">joe,' the president is set to roll back climate change policies in the name of fostering business. can it help to bring back the coal industry and jobs? senator joe manchin of west virginia joins us. we'll ask him about that.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091130_140000_Americas_Newsroom#start/6008/end/6043</field>
+<field name="datetime">11/30/2009 15:40:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20091130_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091130_140000_Americas_Newsroom/FOXNEWS_20091130_140000_Americas_Newsroom.thumbs/FOXNEWS_20091130_140000_Americas_Newsroom_006000.jpg</field>
+<field name="snippet">bill: ladies, here's the deal on the latest story. it looks bad. does that mean that global warming is a myth? issue at hand is whether or</field>
+</doc>
+</add>

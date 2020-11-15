@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201301.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130129_230000_PoliticsNation#start/1159/end/1194</field>
+<field name="datetime">1/29/2013 23:19:34</field>
+<field name="station">MSNBC</field>
+<field name="show">PoliticsNation</field>
+<field name="showid">MSNBCW_20130129_230000_PoliticsNation</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130129_230000_PoliticsNation/MSNBCW_20130129_230000_PoliticsNation.thumbs/MSNBCW_20130129_230000_PoliticsNation_001155.jpg</field>
+<field name="snippet">give me the politics of this. well, i think the very fact we're able to look at things like immigration reform and climate change is a sign it is getting better. considering how we came in and</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190122_053000_Business_Briefing#start/766/end/801</field>
+<field name="datetime">1/22/2019 5:43:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Business Briefing</field>
+<field name="showid">BBCNEWS_20190122_053000_Business_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190122_053000_Business_Briefing/BBCNEWS_20190122_053000_Business_Briefing.thumbs/BBCNEWS_20190122_053000_Business_Briefing_000747.jpg</field>
+<field name="snippet">the news on breakfast. stay with us for all the latest. this is the briefing from bbc news. the latest headlines: the international committee of the red cross has issued a new warning that climate change combined with growing violence</field>
+</doc>
+</add>

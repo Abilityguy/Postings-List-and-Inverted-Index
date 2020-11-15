@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190228_200000_BBC_News#start/86/end/121</field>
+<field name="datetime">2/28/2019 20:01:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190228_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190228_200000_BBC_News/BBCNEWS_20190228_200000_BBC_News.thumbs/BBCNEWS_20190228_200000_BBC_News_000087.jpg</field>
+<field name="snippet">the house of commons has been debating climate change for the first time in two years. only a handful of mps actually attended the debate, which was led by layla moran, a liberal democrat, who secured the discussion after being inspired by schoolchildren who went on strike over climate change last month.</field>
+</doc>
+</add>

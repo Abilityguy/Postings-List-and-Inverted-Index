@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201908.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190824_100000_MSNBC_Live#start/3376/end/3411</field>
+<field name="datetime">8/24/2019 10:56:31</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20190824_100000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190824_100000_MSNBC_Live/MSNBCW_20190824_100000_MSNBC_Live.thumbs/MSNBCW_20190824_100000_MSNBC_Live_003357.jpg</field>
+<field name="snippet">our global carbon emissions each year. so, stopping this would have a monstrous impact on slowing climate change, protecting diversity, and resources all over the world. these are self-inflicted wounds.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191116_010000_BBC_News#start/868/end/903</field>
+<field name="datetime">11/16/2019 1:14:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191116_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191116_010000_BBC_News/BBCNEWS_20191116_010000_BBC_News.thumbs/BBCNEWS_20191116_010000_BBC_News_000868.jpg</field>
+<field name="snippet">simon jack, bbc news. let us take a look at some of the other election news and the liberal democrats say they will invest heavily in tackling climate change when they -- if they are elected to power. they want to spend in areas</field>
+</doc>
+</add>

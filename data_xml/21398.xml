@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100101_210000_Your_World_With_Neil_Cavuto#start/800/end/835</field>
+<field name="datetime">1/1/2010 21:13:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWS_20100101_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100101_210000_Your_World_With_Neil_Cavuto/FOXNEWS_20100101_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWS_20100101_210000_Your_World_With_Neil_Cavuto_000780.jpg</field>
+<field name="snippet">securing an airplane but at the time keeping our civil liberties intact. i think we can do that. congressman, i'm with you on the spending but i'm not sure i'm with you on the body scanners. thank for joining us. we appreciate it. thank you. along with the new year comes a new push for a global warming</field>
+</doc>
+</add>

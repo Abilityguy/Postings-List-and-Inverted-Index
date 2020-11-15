@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190304_110000_BBC_Newsroom_Live#start/992/end/1027</field>
+<field name="datetime">3/4/2019 11:16:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190304_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190304_110000_BBC_Newsroom_Live/BBCNEWS_20190304_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190304_110000_BBC_Newsroom_Live_003538.jpg</field>
+<field name="snippet">the government's advisors on this area, are going to recommend a year when the uk should reach zero emissions, a much more stringent target in line with the paris agreement on climate change. that will obviously significantly increase the pressure to make cuts</field>
+</doc>
+</add>

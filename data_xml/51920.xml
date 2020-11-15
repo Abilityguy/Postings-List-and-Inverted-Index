@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181215_140000_BBC_News#start/320/end/355</field>
+<field name="datetime">12/15/2018 14:05:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181215_140000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181215_140000_BBC_News/BBCNEWS_20181215_140000_BBC_News.thumbs/BBCNEWS_20181215_140000_BBC_News_000298.jpg</field>
+<field name="snippet">with nearly 200 nations trying to agree on the best way to tackle rising temperatures around the world. progress has been made, but there are problems over the question of compensating poorer countries for the damage caused by global warming. our environment correspondent, matt mcgrath, reports from katowice.</field>
+</doc>
+</add>

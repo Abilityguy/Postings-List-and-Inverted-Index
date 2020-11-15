@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100210_210000_Your_World_With_Neil_Cavuto#start/3306/end/3341</field>
+<field name="datetime">2/10/2010 21:55:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWS_20100210_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100210_210000_Your_World_With_Neil_Cavuto/FOXNEWS_20100210_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWS_20100210_210000_Your_World_With_Neil_Cavuto_003293.jpg</field>
+<field name="snippet">a national emergency in washington, national guard is out. surely the man who says we're going to suffer global warming should be here explaining where is the global warming? ask where is al? we know where a copy of his book is, outside the studio.</field>
+</doc>
+</add>

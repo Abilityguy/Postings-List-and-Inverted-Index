@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181127_230000_BBC_News#start/1082/end/1117</field>
+<field name="datetime">11/27/2018 23:18:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181127_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181127_230000_BBC_News/BBCNEWS_20181127_230000_BBC_News.thumbs/BBCNEWS_20181127_230000_BBC_News_001077.jpg</field>
+<field name="snippet">food is also a factor. the global livestock population has reached 28 billlion animals. and those animals produce methane, a potent greenhouse gas that's expected to increase by 60% in the next two years. our science editor,</field>
+</doc>
+</add>

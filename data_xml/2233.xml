@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170422_080000_Special_Report_With_Bret_Baier#start/1935/end/1970</field>
+<field name="datetime">4/22/2017 8:32:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20170422_080000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170422_080000_Special_Report_With_Bret_Baier/FOXNEWSW_20170422_080000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20170422_080000_Special_Report_With_Bret_Baier_001918.jpg</field>
+<field name="snippet">bret: trish, as always, thank you. have a great weekend. tonight, the president and his advisors are debating what the official u.s. position will be on climate change. at issue, should america withdraw from a controversial global warming deal that has</field>
+</doc>
+</add>

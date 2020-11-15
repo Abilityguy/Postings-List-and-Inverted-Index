@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181204_010000_Tucker_Carlson_Tonight#start/3032/end/3067</field>
+<field name="datetime">12/4/2018 1:50:47</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20181204_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181204_010000_Tucker_Carlson_Tonight/FOXNEWSW_20181204_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20181204_010000_Tucker_Carlson_Tonight_003028.jpg</field>
+<field name="snippet">happening in brooklyn, but some of these people talking to you on television know what's actually going on and they are just not telling you. it's not about rising oil prices, that's false. it's about climate change and</field>
+</doc>
+</add>

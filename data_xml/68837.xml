@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201003.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100328_120000_MSNBC_News_Live#start/673/end/708</field>
+<field name="datetime">3/28/2010 12:11:28</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100328_120000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100328_120000_MSNBC_News_Live/MSNBC_20100328_120000_MSNBC_News_Live.thumbs/MSNBC_20100328_120000_MSNBC_News_Live_000656.jpg</field>
+<field name="snippet">and new york. and cities around the world also participated including cairo, athens, and london. organizers hope the event will re-energize efforts to reach a binding agreement of reducing greenhouse gas emissions. well, the national cherry</field>
+</doc>
+</add>

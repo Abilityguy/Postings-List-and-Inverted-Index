@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201505.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150529_100000_FOX_and_Friends#start/8276/end/8311</field>
+<field name="datetime">5/29/2015 12:18:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20150529_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150529_100000_FOX_and_Friends/FOXNEWSW_20150529_100000_FOX_and_Friends.thumbs/FOXNEWSW_20150529_100000_FOX_and_Friends_008265.jpg</field>
+<field name="snippet">global temperatures will affect the lives of all humans. that's a fact you must learn, really. by grade eight the release of greenhouse gases from fossil fuels a major factor in global warming, get that down or get it</field>
+</doc>
+</add>

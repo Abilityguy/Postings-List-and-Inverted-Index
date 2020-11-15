@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180817_120000_BBC_News_at_One#start/1621/end/1656</field>
+<field name="datetime">8/17/2018 12:27:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20180817_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180817_120000_BBC_News_at_One/BBCNEWS_20180817_120000_BBC_News_at_One.thumbs/BBCNEWS_20180817_120000_BBC_News_at_One_001617.jpg</field>
+<field name="snippet">that their map of genes is a vital breakthrough needed to boost production in areas that will be hardest hit by the climate change. and so ensure that the world's growing population will continue to have food on their plates.</field>
+</doc>
+</add>

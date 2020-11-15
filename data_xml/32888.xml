@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091204_180000_The_Live_Desk#start/4681/end/4716</field>
+<field name="datetime">12/4/2009 19:18:16</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Live Desk</field>
+<field name="showid">FOXNEWS_20091204_180000_The_Live_Desk</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091204_180000_The_Live_Desk/FOXNEWS_20091204_180000_The_Live_Desk.thumbs/FOXNEWS_20091204_180000_The_Live_Desk_004680.jpg</field>
+<field name="snippet">trace: ridiculous. a major global warming summit begins just a few days from now, but all the talk is about hacked e-mails from about some prominent -- from some prominent climate change activists. the federal government could be</field>
+</doc>
+</add>

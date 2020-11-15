@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201003.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100310_170000_MSNBC_News_Live#start/895/end/930</field>
+<field name="datetime">3/10/2010 17:15:10</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100310_170000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100310_170000_MSNBC_News_Live/MSNBC_20100310_170000_MSNBC_News_Live.thumbs/MSNBC_20100310_170000_MSNBC_News_Live_000896.jpg</field>
+<field name="snippet">regions as well as the united states. in addition to skwauks and sue fallys, global warming is a major concern for the entire</field>
+</doc>
+</add>

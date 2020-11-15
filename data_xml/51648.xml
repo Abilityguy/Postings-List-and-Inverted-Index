@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181218_090000_BBC_News_at_9#start/139/end/174</field>
+<field name="datetime">12/18/2018 9:02:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20181218_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181218_090000_BBC_News_at_9/BBCNEWS_20181218_090000_BBC_News_at_9.thumbs/BBCNEWS_20181218_090000_BBC_News_at_9_000147.jpg</field>
+<field name="snippet">buying stuff and then just throwing it away. that in turn generates greenhouse gases that are overheating the earth. it's got to change.</field>
+</doc>
+</add>

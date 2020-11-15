@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201010.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101005_100000_Morning_Joe#start/10247/end/10282</field>
+<field name="datetime">10/5/2010 12:51:02</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20101005_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20101005_100000_Morning_Joe/MSNBC_20101005_100000_Morning_Joe.thumbs/MSNBC_20101005_100000_Morning_Joe_010230.jpg</field>
+<field name="snippet">administration had led the effort to find workable compromises in the case of the bank bailouts, health care legislation and wall street reform but on climate change, obama grew timid and gave up, leaving the dysfunctional senate to figure out the issue on its</field>
+</doc>
+</add>

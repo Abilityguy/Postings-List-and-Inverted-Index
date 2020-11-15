@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170524_210000_BBC_News_at_Ten#start/2032/end/2067</field>
+<field name="datetime">5/24/2017 21:34:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20170524_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170524_210000_BBC_News_at_Ten/BBCNEWS_20170524_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20170524_210000_BBC_News_at_Ten_002007.jpg</field>
+<field name="snippet">of martin luther king. the pope gave the president some of his encyclicals, including, pointedly, one on the environment and the dangers of global warming. after two world leaders have had a difficult discussion their normal mantra is 'there is more that unites us than divides us.'</field>
+</doc>
+</add>

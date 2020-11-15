@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181128_010000_Newsday#start/983/end/1018</field>
+<field name="datetime">11/28/2018 1:16:38</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20181128_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181128_010000_Newsday/BBCNEWS_20181128_010000_Newsday.thumbs/BBCNEWS_20181128_010000_Newsday_000957.jpg</field>
+<field name="snippet">i'm sharanjit leyl in singapore. i'm babita sharma in london. our top stories: a new warning on climate change as the un says global greenhouse gas emissions reached a record high in 2017. indonesian investigators prepare</field>
+</doc>
+</add>

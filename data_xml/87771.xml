@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191217_020000_BBC_News#start/690/end/725</field>
+<field name="datetime">12/17/2019 2:11:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191217_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191217_020000_BBC_News/BBCNEWS_20191217_020000_BBC_News.thumbs/BBCNEWS_20191217_020000_BBC_News_000687.jpg</field>
+<field name="snippet">here in australia. the prime minister, scott morrison, has acknowledged a link between climate change and australia's extended bushfire season. he was reluctant, though, to get into that sort of conversation at the early parts of this fire crisis a few weeks ago.</field>
+</doc>
+</add>

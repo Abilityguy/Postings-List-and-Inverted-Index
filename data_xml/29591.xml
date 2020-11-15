@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201905.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190506_100000_Morning_Joe#start/9265/end/9300</field>
+<field name="datetime">5/6/2019 12:34:40</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20190506_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190506_100000_Morning_Joe/MSNBCW_20190506_100000_Morning_Joe.thumbs/MSNBCW_20190506_100000_Morning_Joe_009239.jpg</field>
+<field name="snippet">prison reform. it surprised me high on their list were things who voted for the democratic party like mr. bates. he said climate change. education. things that i think will help me once i get outside of the cell block. interesting.</field>
+</doc>
+</add>

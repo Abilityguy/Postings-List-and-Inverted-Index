@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201706.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170601_170000_MSNBC_Live_With_Craig_Melvin#start/578/end/613</field>
+<field name="datetime">6/1/2017 17:09:53</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Craig Melvin</field>
+<field name="showid">MSNBCW_20170601_170000_MSNBC_Live_With_Craig_Melvin</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170601_170000_MSNBC_Live_With_Craig_Melvin/MSNBCW_20170601_170000_MSNBC_Live_With_Craig_Melvin.thumbs/MSNBCW_20170601_170000_MSNBC_Live_With_Craig_Melvin_000567.jpg</field>
+<field name="snippet">conversation we had with them, the president was leaning toward removing the united states from the paris climate change accord as it's described to us with the likelihood that there would be caveats in terms of the language, so we wait frankly</field>
+</doc>
+</add>

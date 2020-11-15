@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201111.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20111130_080000_The_Ed_Show#start/1181/end/1216</field>
+<field name="datetime">11/30/2011 8:19:56</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20111130_080000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20111130_080000_The_Ed_Show/MSNBCW_20111130_080000_The_Ed_Show.thumbs/MSNBCW_20111130_080000_The_Ed_Show_001167.jpg</field>
+<field name="snippet">this was gingrich in a 2008 ad with then-speaker nancy pelosi on global warming. we don't always see eye to eye, do we, newt? no, but we do agree, our country must take action to</field>
+</doc>
+</add>

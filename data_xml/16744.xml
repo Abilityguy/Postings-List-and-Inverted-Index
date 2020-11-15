@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201811.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181122_100000_First_Look#start/2151/end/2186</field>
+<field name="datetime">11/22/2018 10:36:06</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20181122_100000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181122_100000_First_Look/MSNBCW_20181122_100000_First_Look.thumbs/MSNBCW_20181122_100000_First_Look_002128.jpg</field>
+<field name="snippet">a wildfire fuelled by climate that's creating a world increasingly inhospitable to humans. it has been a little more than a month since a u.n. report warned that the world must take unprecedented steps to avert the worst effects of global warming,</field>
+</doc>
+</add>

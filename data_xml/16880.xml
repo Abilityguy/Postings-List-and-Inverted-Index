@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201811.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181124_170000_Weekends_With_Alex_Witt#start/3168/end/3203</field>
+<field name="datetime">11/24/2018 17:53:03</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20181124_170000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181124_170000_Weekends_With_Alex_Witt/MSNBCW_20181124_170000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20181124_170000_Weekends_With_Alex_Witt_003148.jpg</field>
+<field name="snippet">was a major climate change report released on friday. this question begs to be asked -- is it mostly negative? oh, i think that's an interesting perspective.</field>
+</doc>
+</add>

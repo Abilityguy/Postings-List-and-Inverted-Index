@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191217_023000_Our_World#start/683/end/718</field>
+<field name="datetime">12/17/2019 2:41:38</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Our World</field>
+<field name="showid">BBCNEWS_20191217_023000_Our_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191217_023000_Our_World/BBCNEWS_20191217_023000_Our_World.thumbs/BBCNEWS_20191217_023000_Our_World_000658.jpg</field>
+<field name="snippet">ii has made headlines around the world for fighting climate change, and others want to follow in their footsteps. lena has been invited to speak at a conference attended by more than 200 politicians, scientists, and youth leaders.</field>
+</doc>
+</add>

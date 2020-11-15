@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091215_180000_The_Live_Desk#start/4769/end/4804</field>
+<field name="datetime">12/15/2009 19:19:44</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Live Desk</field>
+<field name="showid">FOXNEWS_20091215_180000_The_Live_Desk</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091215_180000_The_Live_Desk/FOXNEWS_20091215_180000_The_Live_Desk.thumbs/FOXNEWS_20091215_180000_The_Live_Desk_004762.jpg</field>
+<field name="snippet">middle box, the top u.s. envoy of the climate talks in denmark is defending the target for cutting greenhouse gas emissions. he says the target is equal to or higher than most of what the european union is proposing, and in the bottom box, the</field>
+</doc>
+</add>

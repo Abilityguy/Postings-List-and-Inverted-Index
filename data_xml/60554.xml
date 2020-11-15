@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181015_180000_Beyond_100_Days#start/1858/end/1893</field>
+<field name="datetime">10/15/2018 18:31:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20181015_180000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181015_180000_Beyond_100_Days/BBCNEWS_20181015_180000_Beyond_100_Days.thumbs/BBCNEWS_20181015_180000_Beyond_100_Days_001857.jpg</field>
+<field name="snippet">is saying about climate change flies in the face of overwhelming scientific evidence, that the gases given off by traffic and power stations and other sources are heating up the planet. earlier last week the un climate panel said the world had warned by one celsius</field>
+</doc>
+</add>

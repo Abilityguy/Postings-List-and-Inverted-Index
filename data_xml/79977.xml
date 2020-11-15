@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191109_190000_Americas_News_HQ#start/823/end/858</field>
+<field name="datetime">11/9/2019 19:13:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20191109_190000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191109_190000_Americas_News_HQ/FOXNEWSW_20191109_190000_Americas_News_HQ.thumbs/FOXNEWSW_20191109_190000_Americas_News_HQ_000810.jpg</field>
+<field name="snippet">he has a unique appeal. he's been a mayor. he's been a business leader. he's a philanthropist. he's got a progressive issue agenda, gun control, climate change, public health, education. so i think he's the most</field>
+</doc>
+</add>

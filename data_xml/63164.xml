@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190304_010000_Newsday#start/129/end/164</field>
+<field name="datetime">3/4/2019 1:02:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190304_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190304_010000_Newsday/BBCNEWS_20190304_010000_Newsday.thumbs/BBCNEWS_20190304_010000_Newsday_000357.jpg</field>
+<field name="snippet">of the world's biggest aviation mysteries can finally be solved. scientists in australia have made a discovery which could have major implications for combatting climate change. a team at rmit university in melbourne has successfully turned the greenhouse gas carbon dioxide back into solid flakes of carbon, similar to coal, which may be easier to store safely. a little earlier i spoke</field>
+</doc>
+</add>

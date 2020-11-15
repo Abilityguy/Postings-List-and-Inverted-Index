@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190418_043000_Business_Briefing#start/888/end/923</field>
+<field name="datetime">4/18/2019 4:45:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Business Briefing</field>
+<field name="showid">BBCNEWS_20190418_043000_Business_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190418_043000_Business_Briefing/BBCNEWS_20190418_043000_Business_Briefing.thumbs/BBCNEWS_20190418_043000_Business_Briefing_000868.jpg</field>
+<field name="snippet">next on the front page of the daily mirror, a striking image and a striking warning from sir david attenborough about climate change and the need for urgent global action.</field>
+</doc>
+</add>

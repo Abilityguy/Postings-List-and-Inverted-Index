@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170510_230000_Newsday#start/398/end/433</field>
+<field name="datetime">5/10/2017 23:06:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20170510_230000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170510_230000_Newsday/BBCNEWS_20170510_230000_Newsday.thumbs/BBCNEWS_20170510_230000_Newsday_000388.jpg</field>
+<field name="snippet">the effects of a warming climate are being felt particularly keenly in the arctic and they are eager to learn what us policy on climate change will be. the value of shares in snap, the parent company of the messaging</field>
+</doc>
+</add>

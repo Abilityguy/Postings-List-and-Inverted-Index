@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200909.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20090930_100000_Morning_Joe#start/6257/end/6292</field>
+<field name="datetime">9/30/2009 11:44:32</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20090930_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20090930_100000_Morning_Joe/MSNBC_20090930_100000_Morning_Joe.thumbs/MSNBC_20090930_100000_Morning_Joe_006238.jpg</field>
+<field name="snippet">others, will speak about the national security threat of climate change. we need to respond to it. our economic future depends on it. senator kerry, thank you very much. let us know what happens with that. we'll talk to you soon. we'll keep abreast.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200102_130000_BBC_News_at_One#start/300/end/335</field>
+<field name="datetime">1/2/2020 13:05:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20200102_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200102_130000_BBC_News_at_One/BBCNEWS_20200102_130000_BBC_News_at_One.thumbs/BBCNEWS_20200102_130000_BBC_News_at_One_000298.jpg</field>
+<field name="snippet">government's climate change -- mr morrison's government says there climate change odysseys are adequate. we will try to reduce the hazards that we have seen today but also ensure the viability of</field>
+</doc>
+</add>

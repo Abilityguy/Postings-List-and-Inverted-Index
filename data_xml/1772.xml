@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170502_040000_The_Five#start/1689/end/1724</field>
+<field name="datetime">5/2/2017 4:28:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20170502_040000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170502_040000_The_Five/FOXNEWSW_20170502_040000_The_Five.thumbs/FOXNEWSW_20170502_040000_The_Five_001677.jpg</field>
+<field name="snippet">here is some breaking news. some liberals are really upset about climate change. on saturday, tens of thousands took the streets of washington, d.c. al gore and leonardo dicaprio were there.</field>
+</doc>
+</add>

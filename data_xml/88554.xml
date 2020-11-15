@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190612_130000_Afternoon_Live#start/521/end/556</field>
+<field name="datetime">6/12/2019 13:08:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190612_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190612_130000_Afternoon_Live/BBCNEWS_20190612_130000_Afternoon_Live.thumbs/BBCNEWS_20190612_130000_Afternoon_Live_001768.jpg</field>
+<field name="snippet">some time, but we will return later. environmental campaigners have been questioning the government's plans to cut greenhouse gases to almost zero by 2050. some have suggested that the target date is too late to protect the climate, and others fear that the task is impossible.</field>
+</doc>
+</add>

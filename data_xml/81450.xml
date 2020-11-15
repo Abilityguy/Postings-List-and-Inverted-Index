@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091222_040000_The_Rachel_Maddow_Show#start/2056/end/2091</field>
+<field name="datetime">12/22/2009 4:34:31</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBC_20091222_040000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20091222_040000_The_Rachel_Maddow_Show/MSNBC_20091222_040000_The_Rachel_Maddow_Show.thumbs/MSNBC_20091222_040000_The_Rachel_Maddow_Show_002034.jpg</field>
+<field name="snippet">an issue like global warming? you know, it's scary but a sign of the times. i was staying at the crown plaza hotel in copenhagen near the conference center. they had a monorail running back and forth all day. if you wanted to go into copenhagen it came every ten</field>
+</doc>
+</add>

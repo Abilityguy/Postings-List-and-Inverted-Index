@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201501.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150126_110000_FOX_and_Friends#start/6015/end/6050</field>
+<field name="datetime">1/26/2015 12:40:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20150126_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150126_110000_FOX_and_Friends/FOXNEWSW_20150126_110000_FOX_and_Friends.thumbs/FOXNEWSW_20150126_110000_FOX_and_Friends_006015.jpg</field>
+<field name="snippet">to teach kids about global warming? a top arctic diplomat apparently there is such a thing -- says he met with disney hoping to persuade the company into making climate change psa's featuring the 'frozen' crew, but disney froze them out.</field>
+</doc>
+</add>

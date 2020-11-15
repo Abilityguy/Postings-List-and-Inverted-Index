@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191201_110000_Fox_and_Friends_Sunday#start/1757/end/1792</field>
+<field name="datetime">12/1/2019 11:29:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20191201_110000_Fox_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191201_110000_Fox_and_Friends_Sunday/FOXNEWSW_20191201_110000_Fox_and_Friends_Sunday.thumbs/FOXNEWSW_20191201_110000_Fox_and_Friends_Sunday_001738.jpg</field>
+<field name="snippet">some are a bit outlandish. on the other hand how do you respond to the u.n. report came out a few days ago, that greenhouse gas emissions are rising at very alarming level? greenhouse gas emissions are but not alarming level.</field>
+</doc>
+</add>

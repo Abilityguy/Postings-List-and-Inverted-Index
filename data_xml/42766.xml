@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201102.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110201_030000_The_Ed_Show#start/3526/end/3561</field>
+<field name="datetime">2/1/2011 3:59:01</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBC_20110201_030000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20110201_030000_The_Ed_Show/MSNBC_20110201_030000_The_Ed_Show.thumbs/MSNBC_20110201_030000_The_Ed_Show_003503.jpg</field>
+<field name="snippet">the patriot act. al gore, whose work to raise awareness about climate change won a nobel prize. dennis kucinich a fighter for the people who has consistently stood up for unions in the face of big business interests.</field>
+</doc>
+</add>

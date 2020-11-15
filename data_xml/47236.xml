@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201802.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180227_130000_BBC_News_at_One#start/1252/end/1287</field>
+<field name="datetime">2/27/2018 13:21:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20180227_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180227_130000_BBC_News_at_One/BBCNEWS_20180227_130000_BBC_News_at_One.thumbs/BBCNEWS_20180227_130000_BBC_News_at_One_001228.jpg</field>
+<field name="snippet">freezing temperatures and heavy snow cause disruption across large parts of the uk, with amber warnings of more severe weather ahead. and still to come. penguins in peril - why global warming is threatening the survival of these birds.</field>
+</doc>
+</add>

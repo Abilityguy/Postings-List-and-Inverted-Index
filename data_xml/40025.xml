@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091117_230000_Special_Report_With_Bret_Baier#start/3314/end/3349</field>
+<field name="datetime">11/17/2009 23:55:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091117_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091117_230000_Special_Report_With_Bret_Baier/FOXNEWS_20091117_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091117_230000_Special_Report_With_Bret_Baier_003293.jpg</field>
+<field name="snippet">talking about? bret: nina, last word, does the president come out of had trip with anything in regards to the chinese? well, he didn't come out with a climate change agreement. he's not coming out with anything on currency or trade, but in fairness, you know, the</field>
+</doc>
+</add>

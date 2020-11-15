@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190205_200000_BBC_News#start/2896/end/2931</field>
+<field name="datetime">2/5/2019 20:48:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190205_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190205_200000_BBC_News/BBCNEWS_20190205_200000_BBC_News.thumbs/BBCNEWS_20190205_200000_BBC_News_002877.jpg</field>
+<field name="snippet">but environmental campaigners say much of today's pollution comes from transport, and huge challenges remain. they warn government policies - such as increasing aviation, will only increase pollution. corinne le quere is a professor on climate change a the university of east anglia, shejoins me now from norwich. thank you so much for being with us</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201710.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171013_050000_Breakfast#start/6120/end/6155</field>
+<field name="datetime">10/13/2017 6:42:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20171013_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171013_050000_Breakfast/BBCNEWS_20171013_050000_Breakfast.thumbs/BBCNEWS_20171013_050000_Breakfast_006117.jpg</field>
+<field name="snippet">the health of people, but also for imports into research models for climate change and a better understanding of our planet. how quickly will we get this information back? we will get it as soon as the satellite flies over the area,</field>
+</doc>
+</add>

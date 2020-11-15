@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201902.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190220_200000_MSNBC_Live_With_Ali_Velshi#start/3006/end/3041</field>
+<field name="datetime">2/20/2019 20:50:21</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190220_200000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190220_200000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190220_200000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190220_200000_MSNBC_Live_With_Ali_Velshi_002998.jpg</field>
+<field name="snippet">frank lin roosevelt's new deal program. the goal of the green new deal is to cut global emissions from 40% to 60% to 2010 levels by 2012 2030 and neutralize greenhouse</field>
+</doc>
+</add>

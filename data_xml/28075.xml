@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201406.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140602_150000_Happening_Now#start/2976/end/3011</field>
+<field name="datetime">6/2/2014 15:49:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20140602_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140602_150000_Happening_Now/FOXNEWSW_20140602_150000_Happening_Now.thumbs/FOXNEWSW_20140602_150000_Happening_Now_002955.jpg</field>
+<field name="snippet">california. we'll have the latest word on the suspect who police consider armed and dangerous. and the white house this morning, setting in motion one of the most significant actions, they say, on global warming so far. so what does the landmark plan really mean for our bottom line?.</field>
+</doc>
+</add>

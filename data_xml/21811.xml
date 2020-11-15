@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180807_100000_BBC_Newsroom_Live#start/2038/end/2073</field>
+<field name="datetime">8/7/2018 10:34:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20180807_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180807_100000_BBC_Newsroom_Live/BBCNEWS_20180807_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20180807_100000_BBC_Newsroom_Live_002037.jpg</field>
+<field name="snippet">warned that global warming has played a part. -- life expectancy. rescuers have managed to pull people alive from the rubble two days after a deadly quake hit the indonesian island of lombok. nearly 100 people are known to have died. two wildfires in northern california have merged into one blaze and that</field>
+</doc>
+</add>

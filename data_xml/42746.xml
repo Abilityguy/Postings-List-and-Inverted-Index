@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201102.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110207_230000_MSNBC_Live#start/3084/end/3119</field>
+<field name="datetime">2/7/2011 23:51:39</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBC_20110207_230000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20110207_230000_MSNBC_Live/MSNBC_20110207_230000_MSNBC_Live.thumbs/MSNBC_20110207_230000_MSNBC_Live_003083.jpg</field>
+<field name="snippet">the right wing talking point on global warming. tell us a little bit about that. where was his original position and where is he now? well, his original position and his original statements indicate that he at the very least considered global warming a serious problem that needed to</field>
+</doc>
+</add>

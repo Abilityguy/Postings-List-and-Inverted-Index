@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201705.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170527_130000_MSNBC_Live#start/2019/end/2054</field>
+<field name="datetime">5/27/2017 13:33:54</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170527_130000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170527_130000_MSNBC_Live/MSNBCW_20170527_130000_MSNBC_Live.thumbs/MSNBCW_20170527_130000_MSNBC_Live_002007.jpg</field>
+<field name="snippet">world headquarters in new york. at 33 past the hour, this is what we're watching right now, brking news o of italy from g7 summit. the topic, climate change. nbc's kelly o'donnell traveling with the president, joining us now from italy. this is big news about the president making his decision.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201704.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170403_090000_First_Look#start/1156/end/1191</field>
+<field name="datetime">4/3/2017 9:19:31</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20170403_090000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170403_090000_First_Look/MSNBCW_20170403_090000_First_Look.thumbs/MSNBCW_20170403_090000_First_Look_001137.jpg</field>
+<field name="snippet">epa administrator scott pruitt was asked to clarify his position on climate change yesterday and he acknowledged humans are a contributing factor. there's a warming trend. climate is changing.</field>
+</doc>
+</add>

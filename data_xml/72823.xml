@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201406.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140602_230000_Hardball_With_Chris_Matthews#start/2170/end/2205</field>
+<field name="datetime">6/2/2014 23:36:25</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball With Chris Matthews</field>
+<field name="showid">MSNBCW_20140602_230000_Hardball_With_Chris_Matthews</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140602_230000_Hardball_With_Chris_Matthews/MSNBCW_20140602_230000_Hardball_With_Chris_Matthews.thumbs/MSNBCW_20140602_230000_Hardball_With_Chris_Matthews_002146.jpg</field>
+<field name="snippet">'the new york times' is calling it one of the biggest steps any american president has ever taken on climate change. president obama has directed the epa to come up with new rules to slash carbon emissions at all u.s. power plants by 2030.</field>
+</doc>
+</add>

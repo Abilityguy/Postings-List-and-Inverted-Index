@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091024_230000_FOX_Report#start/439/end/474</field>
+<field name="datetime">10/24/2009 23:07:34</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report</field>
+<field name="showid">FOXNEWS_20091024_230000_FOX_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091024_230000_FOX_Report/FOXNEWS_20091024_230000_FOX_Report.thumbs/FOXNEWS_20091024_230000_FOX_Report_000420.jpg</field>
+<field name="snippet">offer to be keynote speaker at a dinner for the chamber's board of directors. now as we've been reporting, there has been a lot of tension between the chamber of commerce and the obama white house. the pro-business group is opposed to climate change</field>
+</doc>
+</add>

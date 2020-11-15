@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201210.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121031_010000_The_Rachel_Maddow_Show#start/1705/end/1740</field>
+<field name="datetime">10/31/2012 1:28:40</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBCW_20121031_010000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121031_010000_The_Rachel_Maddow_Show/MSNBCW_20121031_010000_The_Rachel_Maddow_Show.thumbs/MSNBCW_20121031_010000_The_Rachel_Maddow_Show_001679.jpg</field>
+<field name="snippet">these events? number one, i have been talking about climate change since 1997. it's happened. it's alive and well in connecticut. number two, we have to raise a lot of infrastructure. literally lift it up off the ground. and we have to think of our cities very differently than we thought about in the past.</field>
+</doc>
+</add>

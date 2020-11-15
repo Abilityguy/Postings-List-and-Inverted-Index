@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201012.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101227_110000_FOX_and_Friends#start/2283/end/2318</field>
+<field name="datetime">12/27/2010 11:38:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20101227_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101227_110000_FOX_and_Friends/FOXNEWS_20101227_110000_FOX_and_Friends.thumbs/FOXNEWS_20101227_110000_FOX_and_Friends_002280.jpg</field>
+<field name="snippet">that's the issue. every time it gets cold, people will say it's global warming. they say see, don't jump on us like michael we just had on. this is the coldest, this has been the warmest year on record. it depends on where you are to</field>
+</doc>
+</add>

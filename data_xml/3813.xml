@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170420_160000_BBC_News_at_Five#start/949/end/984</field>
+<field name="datetime">4/20/2017 16:16:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20170420_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170420_160000_BBC_News_at_Five/BBCNEWS_20170420_160000_BBC_News_at_Five.thumbs/BBCNEWS_20170420_160000_BBC_News_at_Five_000927.jpg</field>
+<field name="snippet">if you want to cast a vote that is opposed to an extreme brexit, that is standing up for a real investment in public services and a more equal society and will always put the environment and climate change at the heart of all our policies, the only way to do it nationally</field>
+</doc>
+</add>

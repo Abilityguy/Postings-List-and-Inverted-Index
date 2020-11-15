@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201401.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140103_040000_All_In_With_Chris_Hayes#start/143/end/178</field>
+<field name="datetime">1/3/2014 4:02:38</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20140103_040000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140103_040000_All_In_With_Chris_Hayes/MSNBCW_20140103_040000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20140103_040000_All_In_With_Chris_Hayes_000136.jpg</field>
+<field name="snippet">us with a snowy white wonder in a crystal cathedral. you have windchills below zero. you're not going to convince those people they're in the middle of global warming. it's the most severe winter storm in years. get it?</field>
+</doc>
+</add>

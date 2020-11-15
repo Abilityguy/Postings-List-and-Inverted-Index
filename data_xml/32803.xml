@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091206_110000_The_OReilly_Factor#start/1262/end/1297</field>
+<field name="datetime">12/6/2009 11:21:17</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20091206_110000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091206_110000_The_OReilly_Factor/FOXNEWS_20091206_110000_The_OReilly_Factor.thumbs/FOXNEWS_20091206_110000_The_OReilly_Factor_001260.jpg</field>
+<field name="snippet">this is showing to be about as messy as the rest of academia and rasmussen did a poll this week in which it revealed 59% of americans think that scientists are falsifying data so i'm arguing that the rest of science outside this global warming</field>
+</doc>
+</add>

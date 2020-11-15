@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191111_100000_First_Look#start/580/end/615</field>
+<field name="datetime">11/11/2019 10:09:55</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20191111_100000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191111_100000_First_Look/MSNBCW_20191111_100000_First_Look.thumbs/MSNBCW_20191111_100000_First_Look_000569.jpg</field>
+<field name="snippet">at a climate change summit co-hosted by congressman alexandria ocasio-cortez, argued the high cost of the plan is the only option given the imminent threat to the planet. building on the green new deal, we have brought forth a</field>
+</doc>
+</add>

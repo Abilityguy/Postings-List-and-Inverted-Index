@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100111_210000_Your_World_With_Neil_Cavuto#start/2442/end/2477</field>
+<field name="datetime">1/11/2010 21:40:57</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWS_20100111_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100111_210000_Your_World_With_Neil_Cavuto/FOXNEWS_20100111_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWS_20100111_210000_Your_World_With_Neil_Cavuto_002423.jpg</field>
+<field name="snippet">they didn't know they had it! orange crops look like north pole. in europe, thousands are strand and the french say we thought there was global warming. more after that.</field>
+</doc>
+</add>

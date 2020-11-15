@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190226_200000_BBC_News#start/1473/end/1508</field>
+<field name="datetime">2/26/2019 20:24:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190226_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190226_200000_BBC_News/BBCNEWS_20190226_200000_BBC_News.thumbs/BBCNEWS_20190226_200000_BBC_News_001977.jpg</field>
+<field name="snippet">recorded in britain. we know the average world temperature is rising with global warming, so is this the reason? we asked a leading climate scientist. as global temperatures rise, then we are going to get more extreme heat events. this is just one example</field>
+</doc>
+</add>

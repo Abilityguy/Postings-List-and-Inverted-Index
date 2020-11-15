@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190929_000000_BBC_News#start/1110/end/1145</field>
+<field name="datetime">9/29/2019 0:18:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190929_000000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190929_000000_BBC_News/BBCNEWS_20190929_000000_BBC_News.thumbs/BBCNEWS_20190929_000000_BBC_News_001107.jpg</field>
+<field name="snippet">the government take action on climate change. 0rganisers of the march in the capital bern say a hundred thousand people took part. police would only say it was one of the biggest demonstrations in the city in recent years. it comes three weeks ahead of parliamentary elections with pollsters predicting a swing to green candidates. us sprinter christian coleman has won the 100m world championships</field>
+</doc>
+</add>

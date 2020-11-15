@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201010.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101004_170000_America_Live#start/986/end/1021</field>
+<field name="datetime">10/4/2010 17:16:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWS_20101004_170000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101004_170000_America_Live/FOXNEWS_20101004_170000_America_Live.thumbs/FOXNEWS_20101004_170000_America_Live_000900.jpg</field>
+<field name="snippet">megyn: outrage today following the release of a violent climate change video. the environmental group that produced it thought it would be funny. after only a few hours on the internet it had to take the thing down because of the massive backlash over the</field>
+</doc>
+</add>

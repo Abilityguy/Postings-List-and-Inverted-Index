@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_100000_Victoria_Derbyshire#start/3622/end/3657</field>
+<field name="datetime">1/16/2020 11:00:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20200116_100000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_100000_Victoria_Derbyshire/BBCNEWS_20200116_100000_Victoria_Derbyshire.thumbs/BBCNEWS_20200116_100000_Victoria_Derbyshire_003597.jpg</field>
+<field name="snippet">efforts to tackle climate change need to happen now as global temperatures are the second highest on record. this is an urgent problem that has to be solved. and what is more, we know how to do it. that's the paradoxical thing,</field>
+</doc>
+</add>

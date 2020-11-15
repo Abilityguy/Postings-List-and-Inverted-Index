@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201906.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190606_140000_MSNBC_Live_With_Hallie_Jackson#start/3327/end/3362</field>
+<field name="datetime">6/6/2019 14:55:42</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Hallie Jackson</field>
+<field name="showid">MSNBCW_20190606_140000_MSNBC_Live_With_Hallie_Jackson</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190606_140000_MSNBC_Live_With_Hallie_Jackson/MSNBCW_20190606_140000_MSNBC_Live_With_Hallie_Jackson.thumbs/MSNBCW_20190606_140000_MSNBC_Live_With_Hallie_Jackson_003299.jpg</field>
+<field name="snippet">donald trump and emmanuel macron about climate change. president trump being a climate denier and macron being -- having climate change being a central part of his policy. we walked away, of course, from the paris climate accords.</field>
+</doc>
+</add>

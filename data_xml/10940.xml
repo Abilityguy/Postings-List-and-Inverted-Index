@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_080000_BBC_News_at_Nine#start/654/end/689</field>
+<field name="datetime">8/8/2019 8:11:09</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190808_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_080000_BBC_News_at_Nine/BBCNEWS_20190808_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190808_080000_BBC_News_at_Nine_000628.jpg</field>
+<field name="snippet">greenhouse gases produced to make the fertiliser to grow the crops have been for nothing. a charity in geneva redistributes waste food. here they are taking stale bread and turning it into new cookies. this avoids having to produce fresh flour</field>
+</doc>
+</add>

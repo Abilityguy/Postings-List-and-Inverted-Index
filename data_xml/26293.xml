@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201003.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100316_100000_FOX_and_Friends#start/7490/end/7525</field>
+<field name="datetime">3/16/2010 12:05:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100316_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100316_100000_FOX_and_Friends/FOXNEWS_20100316_100000_FOX_and_Friends.thumbs/FOXNEWS_20100316_100000_FOX_and_Friends_007470.jpg</field>
+<field name="snippet">lunch with senate democrats. the topic? climate change. the former president last met with senate democrats in november trying to push them to pass health care reform. john kerry reportedly got president clinton to attend the climate meeting today. speak of climate, how is the</field>
+</doc>
+</add>

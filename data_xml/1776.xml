@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170531_150000_Happening_Now#start/247/end/282</field>
+<field name="datetime">5/31/2017 15:04:22</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20170531_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170531_150000_Happening_Now/FOXNEWSW_20170531_150000_Happening_Now.thumbs/FOXNEWSW_20170531_150000_Happening_Now_000238.jpg</field>
+<field name="snippet">goes. a lot of moving parts. jon: ill have a busy day there at the white house. john roberts, thank you. climate change just one subject mentioned an early morning tweet</field>
+</doc>
+</add>

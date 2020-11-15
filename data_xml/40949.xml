@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201705.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170509_170000_MSNBC_Live_With_Craig_Melvin#start/854/end/889</field>
+<field name="datetime">5/9/2017 17:14:29</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Craig Melvin</field>
+<field name="showid">MSNBCW_20170509_170000_MSNBC_Live_With_Craig_Melvin</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170509_170000_MSNBC_Live_With_Craig_Melvin/MSNBCW_20170509_170000_MSNBC_Live_With_Craig_Melvin.thumbs/MSNBCW_20170509_170000_MSNBC_Live_With_Craig_Melvin_000837.jpg</field>
+<field name="snippet">moscow? we'll ask house intel committee member eric swalwell about that and former president barack obama in italy for a conference on foot security and climate change. a live report from milan on his speech and what he's saying</field>
+</doc>
+</add>

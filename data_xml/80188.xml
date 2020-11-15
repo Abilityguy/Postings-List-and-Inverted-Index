@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190511_200000_Americas_News_HQ#start/2395/end/2430</field>
+<field name="datetime">5/11/2019 20:40:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20190511_200000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190511_200000_Americas_News_HQ/FOXNEWSW_20190511_200000_Americas_News_HQ.thumbs/FOXNEWSW_20190511_200000_Americas_News_HQ_002370.jpg</field>
+<field name="snippet">are making everything a crisis. we have a climate crisis. we have an energy crisis. we have an opioid crisis. the american people get exhausted because they can see that for many of these candidates, these are manufactured crises, so they can</field>
+</doc>
+</add>

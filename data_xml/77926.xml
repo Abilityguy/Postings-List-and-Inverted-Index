@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191113_110000_BBC_Newsroom_Live#start/650/end/685</field>
+<field name="datetime">11/13/2019 11:11:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20191113_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191113_110000_BBC_Newsroom_Live/BBCNEWS_20191113_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20191113_110000_BBC_Newsroom_Live_000628.jpg</field>
+<field name="snippet">this campaign, this will be a positive campaign for us. we will continue to present our positive vision of the society we want to create, how we tackle climate change and how we tackle exactly what sonia said, the ramp until equality there</field>
+</doc>
+</add>

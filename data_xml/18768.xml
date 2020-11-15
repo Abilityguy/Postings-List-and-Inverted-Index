@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201107.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110705_100000_FOX_and_Friends#start/7937/end/7972</field>
+<field name="datetime">7/5/2011 12:12:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20110705_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110705_100000_FOX_and_Friends/FOXNEWS_20110705_100000_FOX_and_Friends.thumbs/FOXNEWS_20110705_100000_FOX_and_Friends_007920.jpg</field>
+<field name="snippet">global warming aspect of this, which is kind of interesting. but nevertheless, they're pushing ahead with this. it's a bit surprising to me in an election year that he would do this. this seems to me an odd miscalculation. but again, he promised he would do this. this is what he campaigned on.</field>
+</doc>
+</add>

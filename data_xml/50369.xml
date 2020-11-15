@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181213_050000_Tucker_Carlson_Tonight#start/1182/end/1217</field>
+<field name="datetime">12/13/2018 5:19:57</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20181213_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181213_050000_Tucker_Carlson_Tonight/FOXNEWSW_20181213_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20181213_050000_Tucker_Carlson_Tonight_001167.jpg</field>
+<field name="snippet">tucker: you've been told many times if you watch tv that america needs to join the paris climate accord immediately, pulling out of it was immoral, and to do your part to fight global climate change you need to accept burdensome taxes on the energy you use. it's the least you can do.</field>
+</doc>
+</add>

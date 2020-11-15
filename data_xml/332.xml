@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201301.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130123_180000_America_Live#start/6429/end/6464</field>
+<field name="datetime">1/23/2013 19:47:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWSW_20130123_180000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130123_180000_America_Live/FOXNEWSW_20130123_180000_America_Live.thumbs/FOXNEWSW_20130123_180000_America_Live_006405.jpg</field>
+<field name="snippet">funding priorities between the state department, treasury, and usaid, the fiscal year 2012 request for global climate change initiative is over 1.3 billion dollars. now, what do we think or what</field>
+</doc>
+</add>

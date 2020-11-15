@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201812.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181205_110000_Morning_Joe#start/10650/end/10685</field>
+<field name="datetime">12/5/2018 13:57:45</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20181205_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181205_110000_Morning_Joe/MSNBCW_20181205_110000_Morning_Joe.thumbs/MSNBCW_20181205_110000_Morning_Joe_010647.jpg</field>
+<field name="snippet">after three weeks of nationwide protests, the french government announced it will suspend its fuel tax increase for six months. the proposed tax hikes slated to take effect in january was designed to help curb climate change. however, the proposed increase</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191207_030000_BBC_News#start/1325/end/1360</field>
+<field name="datetime">12/7/2019 3:22:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191207_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191207_030000_BBC_News/BBCNEWS_20191207_030000_BBC_News.thumbs/BBCNEWS_20191207_030000_BBC_News_001317.jpg</field>
+<field name="snippet">the un's climate change conference. songs and signs in every language make the same point - unless world leaders come together to cut greenhouse emissions, these demonstrations will grow louder. they need to be ambitious.</field>
+</doc>
+</add>

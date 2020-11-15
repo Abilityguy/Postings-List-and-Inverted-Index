@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201012.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101208_110000_Morning_Joe#start/6102/end/6137</field>
+<field name="datetime">12/8/2010 12:41:57</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20101208_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20101208_110000_Morning_Joe/MSNBC_20101208_110000_Morning_Joe.thumbs/MSNBC_20101208_110000_Morning_Joe_006090.jpg</field>
+<field name="snippet">lot, we ignore it at our peril. what if the global warming skeptics are wrong. what if the scientists and the people that observe the glaciers melting and so forth are right and we have a world that's five or ten degrees hotter than it is</field>
+</doc>
+</add>

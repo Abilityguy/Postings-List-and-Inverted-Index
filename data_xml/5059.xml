@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170602_020000_BBC_News#start/50/end/85</field>
+<field name="datetime">6/2/2017 2:01:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170602_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170602_020000_BBC_News/BBCNEWS_20170602_020000_BBC_News.thumbs/BBCNEWS_20170602_020000_BBC_News_000057.jpg</field>
+<field name="snippet">world leaders have reacted with alarm to president trump's announcement that he's pulling out of the paris accord - the biggest international agreement ever drawn up to combat climate change. it was signed by 195 nations. the us is the world's biggest polluter per head of population. until now, it's also been</field>
+</doc>
+</add>

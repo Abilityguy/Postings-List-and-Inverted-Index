@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190215_080000_Fox_News__Night_With_Shannon_Bream#start/2360/end/2395</field>
+<field name="datetime">2/15/2019 8:39:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News  Night With Shannon Bream</field>
+<field name="showid">FOXNEWSW_20190215_080000_Fox_News__Night_With_Shannon_Bream</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190215_080000_Fox_News__Night_With_Shannon_Bream/FOXNEWSW_20190215_080000_Fox_News__Night_With_Shannon_Bream.thumbs/FOXNEWSW_20190215_080000_Fox_News__Night_With_Shannon_Bream_002339.jpg</field>
+<field name="snippet">fox news contributor andrew mccarthy. i want to read something from elizabeth warren. she said gun violence is an emergency. climate change is an emergency. our country is opioid epidemic is an emergency.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_110000_FOX_and_Friends#start/3751/end/3786</field>
+<field name="datetime">12/18/2009 12:02:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091218_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_110000_FOX_and_Friends/FOXNEWS_20091218_110000_FOX_and_Friends.thumbs/FOXNEWS_20091218_110000_FOX_and_Friends_003709.jpg</field>
+<field name="snippet">brian: two minutes after the top of the hour. right away there has been big news overseas because the president was talking about climate change. gretchen: he was. that is a fox news alert for your friday. the international climate conference in copenhagen just moments ago the president addressed world leaders saying</field>
+</doc>
+</add>

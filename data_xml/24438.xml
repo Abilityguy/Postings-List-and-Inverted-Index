@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180810_220000_Special_Report_With_Bret_Baier#start/3036/end/3071</field>
+<field name="datetime">8/10/2018 22:50:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20180810_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180810_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20180810_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20180810_220000_Special_Report_With_Bret_Baier_003027.jpg</field>
+<field name="snippet">with the awful start to wildfire season in california about global warming, whether the firefighters have enough resources dave, your thoughts? look, it's a terrible event out there. it always gets politicized very quickly. you are not going to see</field>
+</doc>
+</add>

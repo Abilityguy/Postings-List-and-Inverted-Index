@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181004_130000_Afternoon_Live#start/8715/end/8750</field>
+<field name="datetime">10/4/2018 15:25:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20181004_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181004_130000_Afternoon_Live/BBCNEWS_20181004_130000_Afternoon_Live.thumbs/BBCNEWS_20181004_130000_Afternoon_Live_008697.jpg</field>
+<field name="snippet">also had record temperatures in july, 41 celsius was recorded, the highest temperature they have ever seenin seen in japan. the japanese meteorological society attributed one of the causes to flooding and the heatwave to climate change, so</field>
+</doc>
+</add>

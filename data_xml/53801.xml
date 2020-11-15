@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201807.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180713_010000_BBC_News#start/657/end/692</field>
+<field name="datetime">7/13/2018 1:11:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180713_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180713_010000_BBC_News/BBCNEWS_20180713_010000_BBC_News.thumbs/BBCNEWS_20180713_010000_BBC_News_000657.jpg</field>
+<field name="snippet">in one place, half a metre fell in 2a hours. across western japan, four times the averagejuly rainfall came in one week. the link between global climate change and extreme weather events</field>
+</doc>
+</add>

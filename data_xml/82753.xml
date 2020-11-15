@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201509.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150924_150000_Happening_Now#start/311/end/346</field>
+<field name="datetime">9/24/2015 15:05:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20150924_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150924_150000_Happening_Now/FOXNEWSW_20150924_150000_Happening_Now.thumbs/FOXNEWSW_20150924_150000_Happening_Now_000285.jpg</field>
+<field name="snippet">it was just a nonpartisan speech that made his points that he believes in, and among those are climate change and helping the poor and having an open approach to the migration problem. but at the same time, he recognized that the united states is a unique country, that it has enormous influence in the</field>
+</doc>
+</add>

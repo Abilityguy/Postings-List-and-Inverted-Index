@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_050000_Breakfast#start/3743/end/3778</field>
+<field name="datetime">9/20/2019 6:02:38</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190920_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_050000_Breakfast/BBCNEWS_20190920_050000_Breakfast.thumbs/BBCNEWS_20190920_050000_Breakfast_003717.jpg</field>
+<field name="snippet">it's friday the 20th of september. our top story: millions of people around the world are expected to take part in what could be the largest ever climate change protest today. more than 5000 demonstrations are planned in more than 150 countries. those involved are calling for governments to take more urgent action to halt global warming. 0ur correspondent</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191206_010000_Newsday#start/430/end/465</field>
+<field name="datetime">12/6/2019 1:07:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191206_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191206_010000_Newsday/BBCNEWS_20191206_010000_Newsday.thumbs/BBCNEWS_20191206_010000_Newsday_000418.jpg</field>
+<field name="snippet">all public activities in the village have been cancelled, and schools are being guarded to protect residents. conservationists say climate change could be to blame, with weak coastal ice forcing the bears to search for food on land rather than at sea.</field>
+</doc>
+</add>

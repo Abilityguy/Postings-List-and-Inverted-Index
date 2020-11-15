@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201503.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150303_210000_NOW_With_Alex_Wagner#start/2869/end/2904</field>
+<field name="datetime">3/3/2015 21:48:04</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20150303_210000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150303_210000_NOW_With_Alex_Wagner/MSNBCW_20150303_210000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20150303_210000_NOW_With_Alex_Wagner_002865.jpg</field>
+<field name="snippet">a new report seems to confirm what security officials have been saying for some time now, climate change is explicitly linked to war. we'll talk about that next. hi hampton. let's take a quick look at</field>
+</doc>
+</add>

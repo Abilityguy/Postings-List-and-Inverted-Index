@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201008.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100826_040000_Hannity#start/970/end/1005</field>
+<field name="datetime">8/26/2010 4:16:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20100826_040000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100826_040000_Hannity/FOXNEWS_20100826_040000_Hannity.thumbs/FOXNEWS_20100826_040000_Hannity_000955.jpg</field>
+<field name="snippet">his polls are dropping to help lift the veil of uncertainy. extent the bush tax cuts. don't try to slip through climate change legislation during the lame duck session. and release the ban on the drilling in the gulf.</field>
+</doc>
+</add>

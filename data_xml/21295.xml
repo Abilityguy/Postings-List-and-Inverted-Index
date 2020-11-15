@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180915_153000_Dateline_London#start/1060/end/1095</field>
+<field name="datetime">9/15/2018 15:47:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Dateline London</field>
+<field name="showid">BBCNEWS_20180915_153000_Dateline_London</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180915_153000_Dateline_London/BBCNEWS_20180915_153000_Dateline_London.thumbs/BBCNEWS_20180915_153000_Dateline_London_001048.jpg</field>
+<field name="snippet">between now and ten years ago is the breaking down of international cooperation. so if it was to happen now, in which the european union is on a collision course with donald trump, on climate change, on iran nuclear deal,</field>
+</doc>
+</add>

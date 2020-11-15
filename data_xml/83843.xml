@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190429_100000_BBC_Newsroom_Live#start/2603/end/2638</field>
+<field name="datetime">4/29/2019 10:43:38</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190429_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190429_100000_BBC_Newsroom_Live/BBCNEWS_20190429_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190429_100000_BBC_Newsroom_Live_002607.jpg</field>
+<field name="snippet">for most farmers, soil loss is a creeping problem that is only noticed too late. soils are really important for climate change, as well, because they store a lot of carbon.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201112.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20111215_010000_The_Ed_Show#start/154/end/189</field>
+<field name="datetime">12/15/2011 1:02:49</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20111215_010000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20111215_010000_The_Ed_Show/MSNBCW_20111215_010000_The_Ed_Show.thumbs/MSNBCW_20111215_010000_The_Ed_Show_000146.jpg</field>
+<field name="snippet">highlights the famous global warming campaign featuring gingrich and nancy pelosi. if enough of us demand action from our leaders -- together we can do this.</field>
+</doc>
+</add>

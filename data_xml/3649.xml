@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170410_040000_BBC_News#start/737/end/772</field>
+<field name="datetime">4/10/2017 4:12:32</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170410_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170410_040000_BBC_News/BBCNEWS_20170410_040000_BBC_News.thumbs/BBCNEWS_20170410_040000_BBC_News_000718.jpg</field>
+<field name="snippet">to try and beat climate change itself? well, when you look at the threats being faced by the great barrier reef, there are macro threats, such as the threats of global warming increasing water temperatures that caused the bleaching of the coral. there are</field>
+</doc>
+</add>

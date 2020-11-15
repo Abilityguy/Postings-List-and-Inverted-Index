@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201205.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120513_150000_Americas_News_Headquarters#start/600/end/635</field>
+<field name="datetime">5/13/2012 15:10:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20120513_150000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120513_150000_Americas_News_Headquarters/FOXNEWSW_20120513_150000_Americas_News_Headquarters.thumbs/FOXNEWSW_20120513_150000_Americas_News_Headquarters_000600.jpg</field>
+<field name="snippet">to absorb co2. there are regulations on coal plants and tail pipe emissions which are very, very expensive and in many respects don't address this anyway. there are those who say we've got to do it. they claim the emissions are causing the climate change now.</field>
+</doc>
+</add>

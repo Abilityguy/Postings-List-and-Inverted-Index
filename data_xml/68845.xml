@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201003.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100301_140000_The_Daily_Rundown#start/2542/end/2577</field>
+<field name="datetime">3/1/2010 14:42:37</field>
+<field name="station">MSNBC</field>
+<field name="show">The Daily Rundown</field>
+<field name="showid">MSNBC_20100301_140000_The_Daily_Rundown</field>
+<field name="preview">https://archive.org/download/MSNBC_20100301_140000_The_Daily_Rundown/MSNBC_20100301_140000_The_Daily_Rundown.thumbs/MSNBC_20100301_140000_The_Daily_Rundown_002517.jpg</field>
+<field name="snippet">the tallest buildings leave the lightest footprints. a fifty-ton train makes barely a mark on the environment. and a country facing climate change finds climate solutions. somewhere in america,</field>
+</doc>
+</add>

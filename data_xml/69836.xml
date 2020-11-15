@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201605.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160518_160000_MSNBC_Live#start/1648/end/1683</field>
+<field name="datetime">5/18/2016 16:27:43</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20160518_160000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160518_160000_MSNBC_Live/MSNBCW_20160518_160000_MSNBC_Live.thumbs/MSNBCW_20160518_160000_MSNBC_Live_001647.jpg</field>
+<field name="snippet">where the economy is failing nine out of ten americans and certainly the role of campaign to take on this big issue of global warming. we've got to take them on</field>
+</doc>
+</add>

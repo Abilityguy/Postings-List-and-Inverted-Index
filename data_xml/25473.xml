@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201407.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140705_220000_Americas_News_Headquarters#start/833/end/868</field>
+<field name="datetime">7/5/2014 22:14:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20140705_220000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140705_220000_Americas_News_Headquarters/FOXNEWSW_20140705_220000_Americas_News_Headquarters.thumbs/FOXNEWSW_20140705_220000_Americas_News_Headquarters_000825.jpg</field>
+<field name="snippet">from prenewable energy projects to reduce greenhouse gas emissions. it starts by building the keystone pipeline. put thousands of americans to work and show we're serious about our energy future.</field>
+</doc>
+</add>

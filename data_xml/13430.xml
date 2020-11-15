@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201703.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170310_043000_HARDtalk#start/25/end/60</field>
+<field name="datetime">3/10/2017 4:30:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">HARDtalk</field>
+<field name="showid">BBCNEWS_20170310_043000_HARDtalk</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170310_043000_HARDtalk/BBCNEWS_20170310_043000_HARDtalk.thumbs/BBCNEWS_20170310_043000_HARDtalk_000057.jpg</field>
+<field name="snippet">been criticised for saying he's not convinced carbon dioxide is a major cause of global warming. scott pruitt - a known climate change sceptic - has been accused of ignoring decades of evidence. now it's time for hardtalk.</field>
+</doc>
+</add>

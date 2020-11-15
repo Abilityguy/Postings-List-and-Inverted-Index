@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201712.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20171231_150000_AM_Joy#start/6065/end/6100</field>
+<field name="datetime">12/31/2017 16:41:20</field>
+<field name="station">MSNBC</field>
+<field name="show">AM Joy</field>
+<field name="showid">MSNBCW_20171231_150000_AM_Joy</field>
+<field name="preview">https://archive.org/download/MSNBCW_20171231_150000_AM_Joy/MSNBCW_20171231_150000_AM_Joy.thumbs/MSNBCW_20171231_150000_AM_Joy_006057.jpg</field>
+<field name="snippet">we believe in science. we know that climate change is real. we also believe that immigration makes us a stronger country.</field>
+</doc>
+</add>

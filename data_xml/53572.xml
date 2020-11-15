@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201302.csv</field>
+<field name="url">https://archive.org/details/CNNW_20130210_100000_Piers_Morgan_Tonight#start/565/end/600</field>
+<field name="datetime">2/10/2013 10:09:40</field>
+<field name="station">CNN</field>
+<field name="show">Piers Morgan Tonight</field>
+<field name="showid">CNNW_20130210_100000_Piers_Morgan_Tonight</field>
+<field name="preview">https://archive.org/download/CNNW_20130210_100000_Piers_Morgan_Tonight/CNNW_20130210_100000_Piers_Morgan_Tonight.thumbs/CNNW_20130210_100000_Piers_Morgan_Tonight_000555.jpg</field>
+<field name="snippet">yeah. many weather experts believe sandy is a grim preview of a future with more powerful and more damaging storms fueled by climate change. it's not that these storms wouldn't occur and that they wouldn't happen anyway, but</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180915_130000_BBC_News#start/1078/end/1113</field>
+<field name="datetime">9/15/2018 13:18:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180915_130000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180915_130000_BBC_News/BBCNEWS_20180915_130000_BBC_News.thumbs/BBCNEWS_20180915_130000_BBC_News_001078.jpg</field>
+<field name="snippet">liftoff of the final delta two, launching nearly three decades. the ice sat2 will measure the condition of earth's ice cover and should provide more precise information on how these frozen surfaces are being affected by global warming. tom neumann is the deputy project scientist for icesat2 at nasa -  _</field>
+</doc>
+</add>

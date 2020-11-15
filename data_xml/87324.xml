@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191204_060000_Breakfast#start/1837/end/1872</field>
+<field name="datetime">12/4/2019 6:30:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191204_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191204_060000_Breakfast/BBCNEWS_20191204_060000_Breakfast.thumbs/BBCNEWS_20191204_060000_Breakfast_001827.jpg</field>
+<field name="snippet">out how drones are being used to keep track of them. the climate change campaigner greta thunberg has just sailed the atlantic to attend a un conference in spain. we'll hear from the british skipper</field>
+</doc>
+</add>

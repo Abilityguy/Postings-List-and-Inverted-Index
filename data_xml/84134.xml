@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190429_120000_BBC_News_at_One#start/986/end/1021</field>
+<field name="datetime">4/29/2019 12:16:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190429_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190429_120000_BBC_News_at_One/BBCNEWS_20190429_120000_BBC_News_at_One.thumbs/BBCNEWS_20190429_120000_BBC_News_at_One_000987.jpg</field>
+<field name="snippet">a new report has highlighted the critical role that soil plays in climate change. there's more carbon stored in soil than in all the world's trees - and it's being released into the atmosphere by deforestation and poor farming.</field>
+</doc>
+</add>

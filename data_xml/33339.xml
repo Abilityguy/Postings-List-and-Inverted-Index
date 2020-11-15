@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091220_110000_The_OReilly_Factor#start/2678/end/2713</field>
+<field name="datetime">12/20/2009 11:44:53</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20091220_110000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091220_110000_The_OReilly_Factor/FOXNEWS_20091220_110000_The_OReilly_Factor.thumbs/FOXNEWS_20091220_110000_The_OReilly_Factor_002670.jpg</field>
+<field name="snippet">dynamic poll says 79% say that scientists understand it. 37% think that journalists who report on global warming understand it and only 25% of elected officials are supposed to be getting it according to</field>
+</doc>
+</add>

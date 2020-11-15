@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_113000_BBC_Newsroom_Live#start/3546/end/3581</field>
+<field name="datetime">12/3/2018 12:29:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20181203_113000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_113000_BBC_Newsroom_Live/BBCNEWS_20181203_113000_BBC_Newsroom_Live.thumbs/BBCNEWS_20181203_113000_BBC_Newsroom_Live_003537.jpg</field>
+<field name="snippet">since 0ctober's aborted mission. crucial talks on climate change have begun at a united nations conference in poland - the most significant since the landmark paris agreement in 2015.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190802_120000_BBC_News_at_One#start/991/end/1026</field>
+<field name="datetime">8/2/2019 12:16:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190802_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190802_120000_BBC_News_at_One/BBCNEWS_20190802_120000_BBC_News_at_One.thumbs/BBCNEWS_20190802_120000_BBC_News_at_One_000988.jpg</field>
+<field name="snippet">of weather that we are beginning to see, is in line with the predictions made by climate change experts, and they say they are likely to get worse and more frequent. pallab ghosh, bbc news.</field>
+</doc>
+</add>

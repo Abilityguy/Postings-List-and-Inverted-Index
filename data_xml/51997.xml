@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_170000_BBC_News_at_Five#start/1785/end/1820</field>
+<field name="datetime">12/3/2018 17:30:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20181203_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_170000_BBC_News_at_Five/BBCNEWS_20181203_170000_BBC_News_at_Five.thumbs/BBCNEWS_20181203_170000_BBC_News_at_Five_001768.jpg</field>
+<field name="snippet">climate change conference in poland which takes us neatly onto the weather. chris is here with a rather alarming picture behind you. it isa it is a triple rainbow, clive. these</field>
+</doc>
+</add>

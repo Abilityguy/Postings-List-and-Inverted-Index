@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190124_230000_BBC_News#start/63/end/98</field>
+<field name="datetime">1/24/2019 23:01:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190124_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190124_230000_BBC_News/BBCNEWS_20190124_230000_BBC_News.thumbs/BBCNEWS_20190124_230000_BBC_News_000058.jpg</field>
+<field name="snippet">the atlantic ocean. as a result of climate change. and at 11.30 we'll be taking an in-depth look at the papers with our reviewers asa bennett and nicola bartlett - stay with us for that. scotland's former first</field>
+</doc>
+</add>

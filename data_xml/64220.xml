@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201606.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160603_160000_MSNBC_Live#start/330/end/365</field>
+<field name="datetime">6/3/2016 16:05:45</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20160603_160000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160603_160000_MSNBC_Live/MSNBCW_20160603_160000_MSNBC_Live.thumbs/MSNBCW_20160603_160000_MSNBC_Live_000328.jpg</field>
+<field name="snippet">where the president really reign supreme is foreign policy. that's where he can move and do policies like global warming</field>
+</doc>
+</add>

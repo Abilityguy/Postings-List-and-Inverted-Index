@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180619_080000_Victoria_Derbyshire#start/843/end/878</field>
+<field name="datetime">6/19/2018 8:14:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20180619_080000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180619_080000_Victoria_Derbyshire/BBCNEWS_20180619_080000_Victoria_Derbyshire.thumbs/BBCNEWS_20180619_080000_Victoria_Derbyshire_000838.jpg</field>
+<field name="snippet">an electric plane has made its maiden flight in norway as part of the nation's bid to tackle climate change and air pollution. the two-seater plane took a short</field>
+</doc>
+</add>

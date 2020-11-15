@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20200121_100000_FOX__Friends_First#start/2503/end/2538</field>
+<field name="datetime">1/21/2020 10:41:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends First</field>
+<field name="showid">FOXNEWSW_20200121_100000_FOX__Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20200121_100000_FOX__Friends_First/FOXNEWSW_20200121_100000_FOX__Friends_First.thumbs/FOXNEWSW_20200121_100000_FOX__Friends_First_002489.jpg</field>
+<field name="snippet">companies in the world, the biggest businesses in the world and world leaders for the benefit of the united states. what about climate change? i am a big believer in the environment, it is very important.</field>
+</doc>
+</add>

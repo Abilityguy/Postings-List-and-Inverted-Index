@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191219_140000_Afternoon_Live#start/1638/end/1673</field>
+<field name="datetime">12/19/2019 14:27:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20191219_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191219_140000_Afternoon_Live/BBCNEWS_20191219_140000_Afternoon_Live.thumbs/BBCNEWS_20191219_140000_Afternoon_Live_001617.jpg</field>
+<field name="snippet">the bushfires i think are just a normal part of australia, a little bit worse this year, but ten years ago was the same, and i'm not so sure that climate change is responsible for what we're experiencing here. we are currently experiencing very hazardous air quality.</field>
+</doc>
+</add>

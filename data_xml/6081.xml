@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190906_203000_Inside_Out_West#start/18/end/53</field>
+<field name="datetime">9/6/2019 20:30:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Inside Out West</field>
+<field name="showid">BBCNEWS_20190906_203000_Inside_Out_West</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190906_203000_Inside_Out_West/BBCNEWS_20190906_203000_Inside_Out_West.thumbs/BBCNEWS_20190906_203000_Inside_Out_West_000027.jpg</field>
+<field name="snippet">will be a full round up of today's news. first there is an inside out west climate change special. exclusive interviews with people behind extension rebellion.</field>
+</doc>
+</add>

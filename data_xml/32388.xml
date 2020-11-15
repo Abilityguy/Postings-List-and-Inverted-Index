@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201205.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120507_100000_FOX_and_Friends#start/1203/end/1238</field>
+<field name="datetime">5/7/2012 10:20:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20120507_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120507_100000_FOX_and_Friends/FOXNEWSW_20120507_100000_FOX_and_Friends.thumbs/FOXNEWSW_20120507_100000_FOX_and_Friends_001200.jpg</field>
+<field name="snippet">our washington insiders here for a fair and balanced debate next. then good news, hillary clinton has the solution to global warming. what is it? millions of dollars on cooking. all energy development comes with some risk,.</field>
+</doc>
+</add>

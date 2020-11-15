@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201211.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121115_070000_The_Five#start/17/end/52</field>
+<field name="datetime">11/15/2012 7:00:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20121115_070000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121115_070000_The_Five/FOXNEWSW_20121115_070000_The_Five.thumbs/FOXNEWSW_20121115_070000_The_Five_000028.jpg</field>
+<field name="snippet">president obama held his first white house press conference since winning re-election. he took questions on topics including benghazi, petraeus resignation, fiscal cliff and climate change. we have it all covered in this hour, but first i'm kimberly guilfoyle with bob beckel, eric bolling, casey</field>
+</doc>
+</add>

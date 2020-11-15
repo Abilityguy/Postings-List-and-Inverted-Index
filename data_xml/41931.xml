@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201301.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130122_110000_Morning_Joe#start/7831/end/7866</field>
+<field name="datetime">1/22/2013 13:10:46</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20130122_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130122_110000_Morning_Joe/MSNBCW_20130122_110000_Morning_Joe.thumbs/MSNBCW_20130122_110000_Morning_Joe_007816.jpg</field>
+<field name="snippet">speech -- you know, he said that it's going to be imperfect. the solutions will be imperfect. he's not going to try to please every constituency. if he just took climate change, for instance, and energy, i wouldn't doubt that he'll approve the keystone pipeline,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190730_050000_Breakfast#start/1901/end/1936</field>
+<field name="datetime">7/30/2019 5:31:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190730_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190730_050000_Breakfast/BBCNEWS_20190730_050000_Breakfast.thumbs/BBCNEWS_20190730_050000_Breakfast_001888.jpg</field>
+<field name="snippet">30. latest news and supporting just a moment. coming up today, combating climate change with trees. we will hear from the experts to say the uk needs to plant 1.7 5 billion more by 2050. millions tuned in for the</field>
+</doc>
+</add>

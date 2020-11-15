@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190925_173000_BBC_News_Special#start/981/end/1016</field>
+<field name="datetime">9/25/2019 17:46:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News Special</field>
+<field name="showid">BBCNEWS_20190925_173000_BBC_News_Special</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190925_173000_BBC_News_Special/BBCNEWS_20190925_173000_BBC_News_Special.thumbs/BBCNEWS_20190925_173000_BBC_News_Special_000959.jpg</field>
+<field name="snippet">it's a brexit negotiations, it's chaotic and in adequate no deal preparations, its allegations of corruption, its failures on climate change, its failures to step into say thomas kent, this government is</field>
+</doc>
+</add>

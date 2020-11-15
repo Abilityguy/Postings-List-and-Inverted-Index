@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091208_070000_Glenn_Beck#start/1999/end/2034</field>
+<field name="datetime">12/8/2009 7:33:34</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20091208_070000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091208_070000_Glenn_Beck/FOXNEWS_20091208_070000_Glenn_Beck.thumbs/FOXNEWS_20091208_070000_Glenn_Beck_001851.jpg</field>
+<field name="snippet">glenn: well, today the two-week international climate change summit in copenhagen opened with a goal of curbing the amount of carbon dioxide that the biggest nations in the world produce. it hasn't really seemed to bother the climate scientists</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190303_030000_BBC_News#start/1280/end/1315</field>
+<field name="datetime">3/3/2019 3:21:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190303_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190303_030000_BBC_News/BBCNEWS_20190303_030000_BBC_News.thumbs/BBCNEWS_20190303_030000_BBC_News_001287.jpg</field>
+<field name="snippet">with other animals. but of course it opens this kind of question, whether this could link to climate change. unfortunately it is too early to say and we need much more data to be able to speculate.</field>
+</doc>
+</add>

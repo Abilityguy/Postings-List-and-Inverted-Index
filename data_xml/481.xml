@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171107_230000_BBC_News#start/166/end/201</field>
+<field name="datetime">11/7/2017 23:03:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171107_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171107_230000_BBC_News/BBCNEWS_20171107_230000_BBC_News.thumbs/BBCNEWS_20171107_230000_BBC_News_000147.jpg</field>
+<field name="snippet">the late hugh van cutsem. he was one of the prince's oldest friends. mr van cutsem was a director of sustainable forestry management limited. they were registered in bermuda, and traded in carbon credits, a market created by international treaties to tackle global warming.</field>
+</doc>
+</add>

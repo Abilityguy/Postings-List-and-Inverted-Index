@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191226_073000_Review#start/946/end/981</field>
+<field name="datetime">12/26/2019 7:46:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Review</field>
+<field name="showid">BBCNEWS_20191226_073000_Review</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191226_073000_Review/BBCNEWS_20191226_073000_Review.thumbs/BBCNEWS_20191226_073000_Review_000928.jpg</field>
+<field name="snippet">because of climate change. but it's not all doom and gloom. scientists are beginning to develop solutions to what many are calling the climate crisis. but they say we have to act soon</field>
+</doc>
+</add>

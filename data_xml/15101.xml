@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201306.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130630_030000_Red_Eye#start/2122/end/2157</field>
+<field name="datetime">6/30/2013 3:35:37</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWSW_20130630_030000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130630_030000_Red_Eye/FOXNEWSW_20130630_030000_Red_Eye.thumbs/FOXNEWSW_20130630_030000_Red_Eye_002115.jpg</field>
+<field name="snippet">it looks fun in movies. right. no -- are you kidding? say we turn back the clock for a year. it's what the global warming people want. the bad news is millions would</field>
+</doc>
+</add>

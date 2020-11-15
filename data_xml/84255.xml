@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190418_090000_Victoria_Derbyshire#start/1470/end/1505</field>
+<field name="datetime">4/18/2019 9:24:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20190418_090000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190418_090000_Victoria_Derbyshire/BBCNEWS_20190418_090000_Victoria_Derbyshire.thumbs/BBCNEWS_20190418_090000_Victoria_Derbyshire_001467.jpg</field>
+<field name="snippet">but will extinction rebellion's efforts be in vain, or will it, as it aims to do, help slow down climate change? demonstrators from the environmental group continue to blockade roads at four iconic locations in the capital, transforming the sites into mini festivals.</field>
+</doc>
+</add>

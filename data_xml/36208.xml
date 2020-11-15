@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201912.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191220_220000_MTP_Daily#start/1655/end/1690</field>
+<field name="datetime">12/20/2019 22:27:50</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20191220_220000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191220_220000_MTP_Daily/MSNBCW_20191220_220000_MTP_Daily.thumbs/MSNBCW_20191220_220000_MTP_Daily_001647.jpg</field>
+<field name="snippet">address climate change and make our economy more fair is to change business as usual in washington. we chose eleanor. it was great-grandma's name. so we're in this little town near salerno</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191007_120000_BBC_News_at_One#start/53/end/88</field>
+<field name="datetime">10/7/2019 12:01:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20191007_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191007_120000_BBC_News_at_One/BBCNEWS_20191007_120000_BBC_News_at_One.thumbs/BBCNEWS_20191007_120000_BBC_News_at_One_000058.jpg</field>
+<field name="snippet">detectives on how they handled false claims of a paedophile ring at westminster, but there's fierce criticism of its findings. more than 130 arrests as extinction rebellion block bridges and roads in westminster in a protest over climate change.</field>
+</doc>
+</add>

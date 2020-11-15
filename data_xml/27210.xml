@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100204_140000_Americas_Newsroom#start/194/end/229</field>
+<field name="datetime">2/4/2010 14:03:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20100204_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100204_140000_Americas_Newsroom/FOXNEWS_20100204_140000_Americas_Newsroom.thumbs/FOXNEWS_20100204_140000_Americas_Newsroom_000180.jpg</field>
+<field name="snippet">administration priorities like climate change, energy policy, judicial appointments. brown's election means democrats really can't push those through, they have to pull republicans into the process, bill. bill: caroline is on that story, thanks, and in washington, we'll hear more from scott brown a bit later</field>
+</doc>
+</add>

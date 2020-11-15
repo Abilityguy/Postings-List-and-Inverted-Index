@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200110_023000_Thursday_in_Parliament#start/1253/end/1288</field>
+<field name="datetime">1/10/2020 2:51:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Thursday in Parliament</field>
+<field name="showid">BBCNEWS_20200110_023000_Thursday_in_Parliament</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200110_023000_Thursday_in_Parliament/BBCNEWS_20200110_023000_Thursday_in_Parliament.thumbs/BBCNEWS_20200110_023000_Thursday_in_Parliament_001228.jpg</field>
+<field name="snippet">i was actually really quite shocked that the minister, in her statement, didn't mention climate change once. surely this is the context in which this is all happening. and when my honourable friend did raise the issue very eloquently, she had to start rummaging in herfolder to think</field>
+</doc>
+</add>

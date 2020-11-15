@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201312.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20131205_210000_Martin_Bashir#start/2656/end/2691</field>
+<field name="datetime">12/5/2013 21:44:31</field>
+<field name="station">MSNBC</field>
+<field name="show">Martin Bashir</field>
+<field name="showid">MSNBCW_20131205_210000_Martin_Bashir</field>
+<field name="preview">https://archive.org/download/MSNBCW_20131205_210000_Martin_Bashir/MSNBCW_20131205_210000_Martin_Bashir.thumbs/MSNBCW_20131205_210000_Martin_Bashir_002655.jpg</field>
+<field name="snippet">many republicans love to deny the existence of climate change. they do so at their own peril. they see a political opportunity.</field>
+</doc>
+</add>

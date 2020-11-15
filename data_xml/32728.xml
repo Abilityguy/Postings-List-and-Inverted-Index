@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091221_020000_Hannity#start/1406/end/1441</field>
+<field name="datetime">12/21/2009 2:23:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20091221_020000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091221_020000_Hannity/FOXNEWS_20091221_020000_Hannity.thumbs/FOXNEWS_20091221_020000_Hannity_001230.jpg</field>
+<field name="snippet">61 megabytes of e-mail computer codes and other data secretly downloaded from the servers at a leading center of global warming research and posted on the worldwide westbound. in a debate as polarized as that over global warming the other</field>
+</doc>
+</add>

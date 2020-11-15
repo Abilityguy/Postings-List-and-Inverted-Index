@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200106_010000_Newsday#start/643/end/678</field>
+<field name="datetime">1/6/2020 1:10:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20200106_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200106_010000_Newsday/BBCNEWS_20200106_010000_Newsday.thumbs/BBCNEWS_20200106_010000_Newsday_000628.jpg</field>
+<field name="snippet">environmental groups are calling for action, saying it should be a wake-up call to climate change in one of the world's biggest carbon emitters. china has said that an outbreak of an unknown viral pneumonia is not the respiratory disease sars that previously killed hundreds of people. the confirmation came</field>
+</doc>
+</add>

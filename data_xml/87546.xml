@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191223_090000_BBC_News#start/634/end/669</field>
+<field name="datetime">12/23/2019 9:10:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191223_090000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191223_090000_BBC_News/BBCNEWS_20191223_090000_BBC_News.thumbs/BBCNEWS_20191223_090000_BBC_News_000627.jpg</field>
+<field name="snippet">united states. we have seen mass protests in this country by recent months by people worried by climate change. the bushfires have sharpened those concerns. what climate protesters have consistently said that those demonstrations we have</field>
+</doc>
+</add>

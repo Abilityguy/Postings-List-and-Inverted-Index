@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201107.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110713_220000_Special_Report_With_Bret_Baier#start/1928/end/1963</field>
+<field name="datetime">7/13/2011 22:32:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20110713_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110713_220000_Special_Report_With_Bret_Baier/FOXNEWS_20110713_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20110713_220000_Special_Report_With_Bret_Baier_001914.jpg</field>
+<field name="snippet">raise awareness about it. the climate reality project is planning a local event that gore says will broadcast reality of the climate crisis. a gallup survey shows 53% of americans felt somewhat threatened by global warming.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201302.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130218_110000_Morning_Joe#start/10125/end/10160</field>
+<field name="datetime">2/18/2013 13:49:00</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20130218_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130218_110000_Morning_Joe/MSNBCW_20130218_110000_Morning_Joe.thumbs/MSNBCW_20130218_110000_Morning_Joe_010125.jpg</field>
+<field name="snippet">come up with actions we can take to reduce pollution, prepare communities for climate change, and speed the transition to more sustainable sources of energy. last year president obama rejected a permit to build the keystone pipeline.</field>
+</doc>
+</add>

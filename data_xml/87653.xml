@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191206_020000_BBC_News#start/1398/end/1433</field>
+<field name="datetime">12/6/2019 2:23:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191206_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191206_020000_BBC_News/BBCNEWS_20191206_020000_BBC_News.thumbs/BBCNEWS_20191206_020000_BBC_News_001378.jpg</field>
+<field name="snippet">conservationists say climate change could be to blame, with weak coastal ice forcing the bears to search for food on land rather than at sea. this two pilots have touched down in the uk, after flying around the world in a restored spitfire,</field>
+</doc>
+</add>

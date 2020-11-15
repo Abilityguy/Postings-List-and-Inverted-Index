@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091019_000000_Huckabee#start/467/end/502</field>
+<field name="datetime">10/19/2009 0:08:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Huckabee</field>
+<field name="showid">FOXNEWS_20091019_000000_Huckabee</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091019_000000_Huckabee/FOXNEWS_20091019_000000_Huckabee.thumbs/FOXNEWS_20091019_000000_Huckabee_000450.jpg</field>
+<field name="snippet">nancy, and great to have you both here. doctor, begin with you, there is still a lot of debate within the scientific community whether or not we are going through a man made issue of climate change or</field>
+</doc>
+</add>

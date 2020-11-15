@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190603_050000_Breakfast#start/3981/end/4016</field>
+<field name="datetime">6/3/2019 6:06:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190603_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190603_050000_Breakfast/BBCNEWS_20190603_050000_Breakfast.thumbs/BBCNEWS_20190603_050000_Breakfast_003958.jpg</field>
+<field name="snippet">we will hear from both of them at 8:10am. 250 climate change experts and academics have signed a letter to theresa may urging her to confront donald trump over his approach to the issue during his state visit this week. in 2017, mr trump pulled out of the paris agreement, which aims to reduce global</field>
+</doc>
+</add>

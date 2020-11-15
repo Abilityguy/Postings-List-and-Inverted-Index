@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190930_123000_BBC_News#start/973/end/1008</field>
+<field name="datetime">9/30/2019 12:46:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190930_123000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190930_123000_BBC_News/BBCNEWS_20190930_123000_BBC_News.thumbs/BBCNEWS_20190930_123000_BBC_News_000959.jpg</field>
+<field name="snippet">in the parliament and try to form a government that works for the people of austria. also celebrating are the greens. climate change has emerged as one of the top concerns for voters. and the greens could now be a viable coalition partner for mr kurz.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180826_153000_Weather_World#start/1422/end/1457</field>
+<field name="datetime">8/26/2018 15:53:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20180826_153000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180826_153000_Weather_World/BBCNEWS_20180826_153000_Weather_World.thumbs/BBCNEWS_20180826_153000_Weather_World_001407.jpg</field>
+<field name="snippet">numbers have dropped by thousands and it's thought climate change could be to blame as warming seas affect affect their main source of food, sand eels.</field>
+</doc>
+</add>

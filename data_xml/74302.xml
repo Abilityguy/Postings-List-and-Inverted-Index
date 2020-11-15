@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200114_140000_Afternoon_Live#start/4713/end/4748</field>
+<field name="datetime">1/14/2020 15:18:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20200114_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200114_140000_Afternoon_Live/BBCNEWS_20200114_140000_Afternoon_Live.thumbs/BBCNEWS_20200114_140000_Afternoon_Live_004708.jpg</field>
+<field name="snippet">the government considering cutting air passenger duty on domestic flights as part of a plan to save the troubled airline flybe from collapse. flybe is the uk's biggest regional operator but any cut in duty would have to be industry-wide. environmental groups say such a move would be 'reckless,' given the need to halt climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171113_170000_BBC_News_at_Five#start/2142/end/2177</field>
+<field name="datetime">11/13/2017 17:35:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20171113_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171113_170000_BBC_News_at_Five/BBCNEWS_20171113_170000_BBC_News_at_Five.thumbs/BBCNEWS_20171113_170000_BBC_News_at_Five_002128.jpg</field>
+<field name="snippet">real lives are saved. livelihoods are maintained and sustained. we need to minimise the effect of climate change on islands such as ours, which are at the front line of the fury of climate change. that view won't cut much ice with us</field>
+</doc>
+</add>

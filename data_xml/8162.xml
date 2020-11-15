@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190922_100000_Fox_and_Friends_Sunday#start/9251/end/9286</field>
+<field name="datetime">9/22/2019 12:34:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20190922_100000_Fox_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190922_100000_Fox_and_Friends_Sunday/FOXNEWSW_20190922_100000_Fox_and_Friends_Sunday.thumbs/FOXNEWSW_20190922_100000_Fox_and_Friends_Sunday_009239.jpg</field>
+<field name="snippet">they've talked about how it contributes to climate change if you eat meat and you should give it up because otherwise it's going to ruin the earth. here is what some have said. if we believe, as i do and you do, that climate change is real, we're going to have to</field>
+</doc>
+</add>

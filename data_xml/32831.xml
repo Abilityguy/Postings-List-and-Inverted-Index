@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091206_230000_FOX_News_Sunday_With_Chris_Wallace#start/2466/end/2501</field>
+<field name="datetime">12/6/2009 23:41:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Sunday With Chris Wallace</field>
+<field name="showid">FOXNEWS_20091206_230000_FOX_News_Sunday_With_Chris_Wallace</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091206_230000_FOX_News_Sunday_With_Chris_Wallace/FOXNEWS_20091206_230000_FOX_News_Sunday_With_Chris_Wallace.thumbs/FOXNEWS_20091206_230000_FOX_News_Sunday_With_Chris_Wallace_002460.jpg</field>
+<field name="snippet">question. chris: thank you, i can get a word in edgewise. climate change, global warming, for much of the time -- 20th century and probably more global warming between the 9th and 10th and 14th century and not clear how much of it is man made and certainly not clear the</field>
+</doc>
+</add>

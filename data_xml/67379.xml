@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140513_070000_All_In_With_Chris_Hayes#start/178/end/213</field>
+<field name="datetime">5/13/2014 7:03:13</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20140513_070000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140513_070000_All_In_With_Chris_Hayes/MSNBCW_20140513_070000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20140513_070000_All_In_With_Chris_Hayes_000165.jpg</field>
+<field name="snippet">as recently as 2008, the republican party called on the members to address the risk of climate change based on sound science. today, just six years later, gop 2016 hopefuls are running away from sound science towards denialism.</field>
+</doc>
+</add>

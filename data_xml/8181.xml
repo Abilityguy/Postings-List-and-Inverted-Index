@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190921_200000_Americas_News_HQ#start/5123/end/5158</field>
+<field name="datetime">9/21/2019 21:25:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20190921_200000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190921_200000_Americas_News_HQ/FOXNEWSW_20190921_200000_Americas_News_HQ.thumbs/FOXNEWSW_20190921_200000_Americas_News_HQ_005098.jpg</field>
+<field name="snippet">nations and corporations to curb global warming. the summit asked young people to come with plans to limit the global increase in temperatures to 1.5 degrees celsius, above pre-industrial levels, with a focus on developing tools for an economic system that eliminates waste and reuses resources.</field>
+</doc>
+</add>

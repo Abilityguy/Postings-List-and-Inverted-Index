@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191121_140000_Afternoon_Live#start/92/end/127</field>
+<field name="datetime">11/21/2019 14:01:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20191121_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191121_140000_Afternoon_Live/BBCNEWS_20191121_140000_Afternoon_Live.thumbs/BBCNEWS_20191121_140000_Afternoon_Live_000088.jpg</field>
+<field name="snippet">why have you brought us here? coldplay's climate change challenge - the band's frontman chris martin tells us why they won't be touring - because it's bad for the planet.</field>
+</doc>
+</add>

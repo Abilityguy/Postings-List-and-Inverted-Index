@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190509_050000_Breakfast#start/443/end/478</field>
+<field name="datetime">5/9/2019 5:07:38</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190509_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190509_050000_Breakfast/BBCNEWS_20190509_050000_Breakfast.thumbs/BBCNEWS_20190509_050000_Breakfast_006747.jpg</field>
+<field name="snippet">called the performance a miracle. the stress of serving on the thin blue line. one in five police officers are suffering from post-traumatic stress disorder. we cannot win a war against water. the stark warning that some communities may have to move away because of the threat of climate change.</field>
+</doc>
+</add>

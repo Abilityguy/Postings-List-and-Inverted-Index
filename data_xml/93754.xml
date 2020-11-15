@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190705_010000_BBC_News#start/963/end/998</field>
+<field name="datetime">7/5/2019 1:16:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190705_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190705_010000_BBC_News/BBCNEWS_20190705_010000_BBC_News.thumbs/BBCNEWS_20190705_010000_BBC_News_000959.jpg</field>
+<field name="snippet">present for the bastille day parade in france. the 243rd independence day in the us. stay with us on bbc news. still to come: what is the most effective way to tackle climate change? scientists in switzerland say, for the answer, look to the trees.</field>
+</doc>
+</add>

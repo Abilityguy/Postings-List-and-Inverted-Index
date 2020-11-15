@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190226_190000_Beyond_100_Days#start/1258/end/1293</field>
+<field name="datetime">2/26/2019 19:21:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20190226_190000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190226_190000_Beyond_100_Days/BBCNEWS_20190226_190000_Beyond_100_Days.thumbs/BBCNEWS_20190226_190000_Beyond_100_Days_001707.jpg</field>
+<field name="snippet">are questions about climate change, what impact does that had on our ability to take action? well some issues bother me, i think that it is a security threat, but we have been</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171117_110000_BBC_Newsroom_Live#start/1210/end/1245</field>
+<field name="datetime">11/17/2017 11:20:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20171117_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171117_110000_BBC_Newsroom_Live/BBCNEWS_20171117_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20171117_110000_BBC_Newsroom_Live_001198.jpg</field>
+<field name="snippet">in around ten minutes' time. it's the final day of the united nations climate change conference in bonn. it's the first time the international community has gathered to discuss climate change</field>
+</doc>
+</add>

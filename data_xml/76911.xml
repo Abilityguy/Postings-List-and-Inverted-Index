@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190518_120000_BBC_News#start/840/end/875</field>
+<field name="datetime">5/18/2019 12:14:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190518_120000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190518_120000_BBC_News/BBCNEWS_20190518_120000_BBC_News.thumbs/BBCNEWS_20190518_120000_BBC_News_000837.jpg</field>
+<field name="snippet">but in rural queensland where coal is still king, it has worked against labor wanted greater action on climate change. that means both sides losing seats and no one is quite sure who will emerge the victor. if it is labor as the polls have led us to believe, that would</field>
+</doc>
+</add>

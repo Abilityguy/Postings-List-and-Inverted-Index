@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201604.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160424_100000_Fox_and_Friends_Sunday#start/8767/end/8802</field>
+<field name="datetime">4/24/2016 12:26:22</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20160424_100000_Fox_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160424_100000_Fox_and_Friends_Sunday/FOXNEWSW_20160424_100000_Fox_and_Friends_Sunday.thumbs/FOXNEWSW_20160424_100000_Fox_and_Friends_Sunday_008757.jpg</field>
+<field name="snippet">used as a mascot for global cooling in the 1970s. it's now a mascot for global warming. they're claiming the armadillo is migrating north to get out of the heat to cool off.</field>
+</doc>
+</add>

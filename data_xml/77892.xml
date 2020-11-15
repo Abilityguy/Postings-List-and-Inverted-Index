@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191130_060000_Breakfast#start/5822/end/5857</field>
+<field name="datetime">11/30/2019 7:37:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191130_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191130_060000_Breakfast/BBCNEWS_20191130_060000_Breakfast.thumbs/BBCNEWS_20191130_060000_Breakfast_005817.jpg</field>
+<field name="snippet">the latest televised debate, which brought together senior figures from seven parties, who discussed issues including brexit, the nhs and climate change. three people have been stabbed in an attack on a busy shopping street in the hague</field>
+</doc>
+</add>

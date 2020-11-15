@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201405.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140523_030000_The_OReilly_Factor#start/2136/end/2171</field>
+<field name="datetime">5/23/2014 3:35:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20140523_030000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140523_030000_The_OReilly_Factor/FOXNEWSW_20140523_030000_The_OReilly_Factor.thumbs/FOXNEWSW_20140523_030000_The_OReilly_Factor_002115.jpg</field>
+<field name="snippet">i'm: i take this one heather, we appreciate you being on tonight. the climate change is</field>
+</doc>
+</add>

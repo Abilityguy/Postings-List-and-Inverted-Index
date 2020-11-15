@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201109.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20110901_100000_FOX_and_Friends#start/9838/end/9873</field>
+<field name="datetime">9/1/2011 12:44:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20110901_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20110901_100000_FOX_and_Friends/FOXNEWSW_20110901_100000_FOX_and_Friends.thumbs/FOXNEWSW_20110901_100000_FOX_and_Friends_009836.jpg</field>
+<field name="snippet">say hi to the prez. steve: very nice. gretchen: that was great. i don't know if i could do that. dave: let us know what you thought. coming up, al gore says if you don't believe in global warming, you're just like a racist. really? does he need to get his head</field>
+</doc>
+</add>

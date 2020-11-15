@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190902_050000_Breakfast#start/3385/end/3420</field>
+<field name="datetime">9/2/2019 5:56:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190902_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190902_050000_Breakfast/BBCNEWS_20190902_050000_Breakfast.thumbs/BBCNEWS_20190902_050000_Breakfast_003357.jpg</field>
+<field name="snippet">and viewers in england can find out more about how birds are coping with climate change on inside out tonight at seven thirty. you're watching breakfast, still to come this morning:</field>
+</doc>
+</add>

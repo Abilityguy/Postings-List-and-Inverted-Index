@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_213000_Climate_Defenders#start/119/end/154</field>
+<field name="datetime">1/17/2020 21:32:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Climate Defenders</field>
+<field name="showid">BBCNEWS_20200117_213000_Climate_Defenders</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_213000_Climate_Defenders/BBCNEWS_20200117_213000_Climate_Defenders.thumbs/BBCNEWS_20200117_213000_Climate_Defenders_000118.jpg</field>
+<field name="snippet">some of the inspiring stories of amazing people around the world who have been successfully battling climate change. meet the climate defenders. we will meet the environmental</field>
+</doc>
+</add>

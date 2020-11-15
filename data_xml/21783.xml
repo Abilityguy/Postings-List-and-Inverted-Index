@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180825_123000_Weather_World#start/1323/end/1358</field>
+<field name="datetime">8/25/2018 12:52:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20180825_123000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180825_123000_Weather_World/BBCNEWS_20180825_123000_Weather_World.thumbs/BBCNEWS_20180825_123000_Weather_World_001318.jpg</field>
+<field name="snippet">it is easy to see why the puffin is one of her favourite sea birds, they are colourful and charismatic but also under threat. the atlantic puffin is on the red list of threatened species meaning globally it is a danger of extinction. over the last decade numbers have dropped by thousands and it's thought climate</field>
+</doc>
+</add>

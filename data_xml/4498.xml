@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170603_040000_BBC_News#start/977/end/1012</field>
+<field name="datetime">6/3/2017 4:16:32</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170603_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170603_040000_BBC_News/BBCNEWS_20170603_040000_BBC_News.thumbs/BBCNEWS_20170603_040000_BBC_News_000957.jpg</field>
+<field name="snippet">earlier, i spoke to hilda heine, president of the republic of the marshall islands in the central pacific ocean. i asked her for her reaction to president trump's withdrawal from the climate change agreement. of course, we were very disappointed. we were. it is highly concerning for those of us that live on the front line of climate change.</field>
+</doc>
+</add>

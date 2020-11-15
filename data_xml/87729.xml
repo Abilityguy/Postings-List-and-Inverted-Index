@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191225_033000_Weather_World#start/1083/end/1118</field>
+<field name="datetime">12/25/2019 3:48:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20191225_033000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191225_033000_Weather_World/BBCNEWS_20191225_033000_Weather_World.thumbs/BBCNEWS_20191225_033000_Weather_World_001079.jpg</field>
+<field name="snippet">when it comes to climate change, more awareness about that. we've seen young people around the world really rising up and saying that our future is at stake and their future really is at stake. it's decisions that we all make</field>
+</doc>
+</add>

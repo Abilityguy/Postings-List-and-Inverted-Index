@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201907.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190705_210000_MTP_Daily#start/606/end/641</field>
+<field name="datetime">7/5/2019 21:10:21</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20190705_210000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190705_210000_MTP_Daily/MSNBCW_20190705_210000_MTP_Daily.thumbs/MSNBCW_20190705_210000_MTP_Daily_000600.jpg</field>
+<field name="snippet">they think technology is just going to fix it. that's sort of their mindset. jeff bezos will do it. well, healthy you have a policy disagreement and a policy discussion. in climate change you don't even have the same underlying belief</field>
+</doc>
+</add>

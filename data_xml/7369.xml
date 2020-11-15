@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20171229_110000_FOX__Friends#start/3717/end/3752</field>
+<field name="datetime">12/29/2017 12:02:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20171229_110000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20171229_110000_FOX__Friends/FOXNEWSW_20171229_110000_FOX__Friends.thumbs/FOXNEWSW_20171229_110000_FOX__Friends_003718.jpg</field>
+<field name="snippet">we don't need a yule log. leland: it may be the coldest new year's day ever. that's south of wisconsin. pete: global warming stuff</field>
+</doc>
+</add>

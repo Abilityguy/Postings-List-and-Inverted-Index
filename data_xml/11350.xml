@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190813_130000_Afternoon_Live#start/2509/end/2544</field>
+<field name="datetime">8/13/2019 13:42:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190813_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190813_130000_Afternoon_Live/BBCNEWS_20190813_130000_Afternoon_Live.thumbs/BBCNEWS_20190813_130000_Afternoon_Live_002487.jpg</field>
+<field name="snippet">a university is banning the sale of burgers to try to fight global warming. goldsmiths, university of london, is removing all beef products from sale and charging a 10p levy on bottled water and single-use plastic cups. it plans to install more solar panels across its campus in south-east london and switch to a 100% clean energy supplier</field>
+</doc>
+</add>

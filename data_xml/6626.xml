@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190922_150000_BBC_News#start/1305/end/1340</field>
+<field name="datetime">9/22/2019 15:22:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190922_150000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190922_150000_BBC_News/BBCNEWS_20190922_150000_BBC_News.thumbs/BBCNEWS_20190922_150000_BBC_News_001287.jpg</field>
+<field name="snippet">today from climate change to the impact of globalisation to terrorism are best dealt with as members of the eu. there is no deal we can leave the eu with danny is better than remaining in the eu. it is not sustainable to delay forming a view</field>
+</doc>
+</add>

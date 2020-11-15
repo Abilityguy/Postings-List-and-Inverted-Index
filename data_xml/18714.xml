@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170101_193000_Sportsday#start/1296/end/1331</field>
+<field name="datetime">1/1/2017 19:51:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Sportsday</field>
+<field name="showid">BBCNEWS_20170101_193000_Sportsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170101_193000_Sportsday/BBCNEWS_20170101_193000_Sportsday.thumbs/BBCNEWS_20170101_193000_Sportsday_001288.jpg</field>
+<field name="snippet">a fascinating look into the life of the penguin. scientists in the antarctica have been working on a groundbreaking project to capture the activity of a colony of penguins on camera. they have spent much of the year using remote cameras to find out how they are adapting to climate change and the threats they now face. victoria gill was given exclusive access to their research.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091204_140000_Morning_Meeting#start/3670/end/3705</field>
+<field name="datetime">12/4/2009 15:01:25</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Meeting</field>
+<field name="showid">MSNBC_20091204_140000_Morning_Meeting</field>
+<field name="preview">https://archive.org/download/MSNBC_20091204_140000_Morning_Meeting/MSNBC_20091204_140000_Morning_Meeting.thumbs/MSNBC_20091204_140000_Morning_Meeting_003653.jpg</field>
+<field name="snippet">and then climate change. is it science fiction? a british university is trying to find out if scientists have been fudging the data on global warming. skeptics say this is proof it's all a scam to accumulate power</field>
+</doc>
+</add>

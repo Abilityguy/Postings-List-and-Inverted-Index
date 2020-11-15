@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170429_200000_World_News_Today#start/988/end/1023</field>
+<field name="datetime">4/29/2017 20:16:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20170429_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170429_200000_World_News_Today/BBCNEWS_20170429_200000_World_News_Today.thumbs/BBCNEWS_20170429_200000_World_News_Today_000988.jpg</field>
+<field name="snippet">the headlines: protests over climate change. european leaders have taken just</field>
+</doc>
+</add>

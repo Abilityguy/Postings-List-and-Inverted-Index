@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171213_030000_BBC_News#start/667/end/702</field>
+<field name="datetime">12/13/2017 3:11:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171213_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171213_030000_BBC_News/BBCNEWS_20171213_030000_BBC_News.thumbs/BBCNEWS_20171213_030000_BBC_News_000657.jpg</field>
+<field name="snippet">venue is a reminder of france's long relationship with america - its shared history, shared values. emmanuel macron has been positioning himself as a global leader on human rights and democracy and now on climate change,</field>
+</doc>
+</add>

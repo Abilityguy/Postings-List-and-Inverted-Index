@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181209_220000_BBC_News#start/30/end/65</field>
+<field name="datetime">12/9/2018 22:00:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181209_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181209_220000_BBC_News/BBCNEWS_20181209_220000_BBC_News.thumbs/BBCNEWS_20181209_220000_BBC_News_000057.jpg</field>
+<field name="snippet">charged with the murder of the british backpacker grace millane. also in the next half hour - there's discord at the united nations climate change conference in poland as attempts to incorporate a key scientific study fail. the us, russia</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_210000_Outside_Source#start/40/end/75</field>
+<field name="datetime">1/16/2020 21:00:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20200116_210000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_210000_Outside_Source/BBCNEWS_20200116_210000_Outside_Source.thumbs/BBCNEWS_20200116_210000_Outside_Source_000028.jpg</field>
+<field name="snippet">is the cause of nearly a fifth of all deaths worldwide - that's more than double the number previously thought. as the bbc begins a special series on climate change, sir david attenborough warns that the world has reached a pivotal moment. the moment of crisis is calm. we can</field>
+</doc>
+</add>

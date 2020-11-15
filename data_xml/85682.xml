@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201709.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170909_220000_BBC_News#start/1363/end/1398</field>
+<field name="datetime">9/9/2017 22:22:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170909_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170909_220000_BBC_News/BBCNEWS_20170909_220000_BBC_News.thumbs/BBCNEWS_20170909_220000_BBC_News_001348.jpg</field>
+<field name="snippet">collect, is there any aspect of the research you carried out looking at climate change in terms of how frequent and how powerful these hurricanes now are? we haven't really seen a correlation with that. you have to keep in mind climate</field>
+</doc>
+</add>

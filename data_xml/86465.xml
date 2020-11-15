@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191222_220000_BBC_News#start/760/end/795</field>
+<field name="datetime">12/22/2019 22:12:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191222_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191222_220000_BBC_News/BBCNEWS_20191222_220000_BBC_News.thumbs/BBCNEWS_20191222_220000_BBC_News_000747.jpg</field>
+<field name="snippet">conceded that more needed to be done to tackle global warming, with scientists saying that drier conditions brought about by climate change have worsened the impact of bushfires. our government, and i have always acknowledged,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091221_230000_Special_Report_With_Bret_Baier#start/3563/end/3598</field>
+<field name="datetime">12/21/2009 23:59:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091221_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091221_230000_Special_Report_With_Bret_Baier/FOXNEWS_20091221_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091221_230000_Special_Report_With_Bret_Baier_003442.jpg</field>
+<field name="snippet">. bret: finally tonight after the u.n. climate change conference came to a close a lot of people were wondering what really happened and how will it be enforced? called on the nations to</field>
+</doc>
+</add>

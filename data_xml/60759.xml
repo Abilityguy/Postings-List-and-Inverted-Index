@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201804.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180409_160000_BBC_News_at_Five#start/3636/end/3671</field>
+<field name="datetime">4/9/2018 17:00:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20180409_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180409_160000_BBC_News_at_Five/BBCNEWS_20180409_160000_BBC_News_at_Five.thumbs/BBCNEWS_20180409_160000_BBC_News_at_Five_003627.jpg</field>
+<field name="snippet">the 87 million people whose personal data was improperly shared. i'll be reporting from felixstowe on the growing pressure on the shipping industry to do more to tackle climate change.</field>
+</doc>
+</add>

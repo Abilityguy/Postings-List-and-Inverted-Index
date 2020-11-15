@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190515_170000_BBC_News_at_Six#start/1395/end/1430</field>
+<field name="datetime">5/15/2019 17:23:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20190515_170000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190515_170000_BBC_News_at_Six/BBCNEWS_20190515_170000_BBC_News_at_Six.thumbs/BBCNEWS_20190515_170000_BBC_News_at_Six_001378.jpg</field>
+<field name="snippet">the effects of climate change. walk into a wood and you enter a peaceful familiar world. but what if you look down? beneath every forest and wood</field>
+</doc>
+</add>

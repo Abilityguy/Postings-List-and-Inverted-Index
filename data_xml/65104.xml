@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190301_200000_Shepard_Smith_Reporting#start/1021/end/1056</field>
+<field name="datetime">3/1/2019 20:17:16</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20190301_200000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190301_200000_Shepard_Smith_Reporting/FOXNEWSW_20190301_200000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20190301_200000_Shepard_Smith_Reporting_001018.jpg</field>
+<field name="snippet">transforming its economy to zero emissions. i am pledging today that if i'm given this high honor, i will make fighting climate change the number 1 priority of</field>
+</doc>
+</add>

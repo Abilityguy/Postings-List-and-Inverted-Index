@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201002.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100204_200000_MSNBC_News_Live#start/965/end/1000</field>
+<field name="datetime">2/4/2010 20:16:20</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100204_200000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100204_200000_MSNBC_News_Live/MSNBC_20100204_200000_MSNBC_News_Live.thumbs/MSNBC_20100204_200000_MSNBC_News_Live_000960.jpg</field>
+<field name="snippet">the tallest buildings leave the lightest footprints. a fifty-ton train makes barely a mark on the environment. and a country facing climate change finds climate solutions. somewhere in america, we've already answered</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190824_100000_Fox_and_Friends_Saturday#start/1789/end/1824</field>
+<field name="datetime">8/24/2019 10:30:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20190824_100000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190824_100000_Fox_and_Friends_Saturday/FOXNEWSW_20190824_100000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20190824_100000_Fox_and_Friends_Saturday_001768.jpg</field>
+<field name="snippet">a $2 trillion climate change. i think bernie sanders has the ideas that even if they're not adopted in whole will inform any democratic administration going forward. thanks, lauren, max. thanks for being here.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091209_200000_MSNBC_News_Live#start/2979/end/3014</field>
+<field name="datetime">12/9/2009 20:49:54</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091209_200000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091209_200000_MSNBC_News_Live/MSNBC_20091209_200000_MSNBC_News_Live.thumbs/MSNBC_20091209_200000_MSNBC_News_Live_002970.jpg</field>
+<field name="snippet">and we've come to a consensus that global warming is real. first of all, sarah palin is confusing the weather and the climate, which is fine. as a liberal, matt, i will encourage her to get out there and keep espousing her beliefs,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091116_230000_Special_Report_With_Bret_Baier#start/15/end/50</field>
+<field name="datetime">11/16/2009 23:00:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091116_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091116_230000_Special_Report_With_Bret_Baier/FOXNEWS_20091116_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091116_230000_Special_Report_With_Bret_Baier_000026.jpg</field>
+<field name="snippet">[captioning made possible by fox news channel] captioned by the national captioning institute ---www.ncicap.org---^ bret: next on 'special report' president obama visits china, hoping to nudge them toward more openness, while abandoning hopes on a global warming treaty, and the state</field>
+</doc>
+</add>

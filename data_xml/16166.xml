@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201408.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140806_210000_The_Ed_Show#start/1328/end/1363</field>
+<field name="datetime">8/6/2014 21:22:23</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20140806_210000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140806_210000_The_Ed_Show/MSNBCW_20140806_210000_The_Ed_Show.thumbs/MSNBCW_20140806_210000_The_Ed_Show_001305.jpg</field>
+<field name="snippet">top priority when 75% of your constituents live near the coast. for our environment, we need long-term solutions. rick scott's environmental plan ignores climate change.</field>
+</doc>
+</add>

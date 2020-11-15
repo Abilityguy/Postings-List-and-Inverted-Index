@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191212_210000_Outside_Source#start/811/end/846</field>
+<field name="datetime">12/12/2019 21:13:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20191212_210000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191212_210000_Outside_Source/BBCNEWS_20191212_210000_Outside_Source.thumbs/BBCNEWS_20191212_210000_Outside_Source_000808.jpg</field>
+<field name="snippet">to discuss new european union climate change plans. the president of the european council wants the bloc to commit to becoming carbon neutral by 2050, but some eastern european countries - which are more dependant on fossil fuels - are asking for financial guarantees.</field>
+</doc>
+</add>

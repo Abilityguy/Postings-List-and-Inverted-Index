@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090707_222936_Special_Report_With_Bret_Baier#start/39/end/74</field>
+<field name="datetime">7/7/2009 22:30:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20090707_222936_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090707_222936_Special_Report_With_Bret_Baier/FOXNEWS_20090707_222936_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20090707_222936_Special_Report_With_Bret_Baier_000030.jpg</field>
+<field name="snippet">to unite their nations to fight global warming. we have reported several scientists have detailed recent global cooling trends. the times on-line quotes gore as saying winston churchill aroused this nation in heroic fashion to save civilization in world war ii. we have everything we need</field>
+</doc>
+</add>

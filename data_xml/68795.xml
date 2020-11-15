@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201001.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100127_170000_MSNBC_News_Live#start/242/end/277</field>
+<field name="datetime">1/27/2010 17:04:17</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100127_170000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100127_170000_MSNBC_News_Live/MSNBC_20100127_170000_MSNBC_News_Live.thumbs/MSNBC_20100127_170000_MSNBC_News_Live_000240.jpg</field>
+<field name="snippet">now that's on hold. the question is where is that going to go? along with the climate change bill. along with high priority item signature items like financial reform that president obama has been trying to push through congress and now stalled there. we understand that the president is going to speak extensively</field>
+</doc>
+</add>

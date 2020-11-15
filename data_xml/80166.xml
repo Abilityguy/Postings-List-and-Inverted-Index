@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190518_000000_Tucker_Carlson_Tonight#start/1236/end/1271</field>
+<field name="datetime">5/18/2019 0:20:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190518_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190518_000000_Tucker_Carlson_Tonight/FOXNEWSW_20190518_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190518_000000_Tucker_Carlson_Tonight_001227.jpg</field>
+<field name="snippet">joe concha, have a nice weekend. happy weekend. tucker: bill nye is the leader of the pro-science movement. now he has a fiery and vulgar message to spread the word about global warming. that's next. what i'm saying is the planet is on [bleep] fire.</field>
+</doc>
+</add>

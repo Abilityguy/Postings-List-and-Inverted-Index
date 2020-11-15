@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190219_230000_Special_Report_With_Bret_Baier#start/2042/end/2077</field>
+<field name="datetime">2/19/2019 23:34:17</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20190219_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190219_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20190219_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20190219_230000_Special_Report_With_Bret_Baier_002038.jpg</field>
+<field name="snippet">it impact climate change? if the united states disappeared from the planet right now, ed the effect on gll temperatures would only be about a tenth of a degree by 2100. germany provides a glimpse of a u.s. future with 100%</field>
+</doc>
+</add>

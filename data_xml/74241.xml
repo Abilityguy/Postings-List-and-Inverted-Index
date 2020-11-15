@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200119_203000_The_Travel_Show#start/344/end/379</field>
+<field name="datetime">1/19/2020 20:35:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Travel Show</field>
+<field name="showid">BBCNEWS_20200119_203000_The_Travel_Show</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200119_203000_The_Travel_Show/BBCNEWS_20200119_203000_The_Travel_Show.thumbs/BBCNEWS_20200119_203000_The_Travel_Show_000328.jpg</field>
+<field name="snippet">now it is a protected wildlife preserve with trails for biking and hiking and a lake for boating. but the changes have brought some problems. the wetlands are now much more vulnerable to the effects of climate change.</field>
+</doc>
+</add>

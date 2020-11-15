@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201604.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160424_180000_Meet_the_Press#start/1309/end/1344</field>
+<field name="datetime">4/24/2016 18:22:04</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20160424_180000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160424_180000_Meet_the_Press/MSNBCW_20160424_180000_Meet_the_Press.thumbs/MSNBCW_20160424_180000_Meet_the_Press_001287.jpg</field>
+<field name="snippet">i think there's a lot that divides us. i think the fact that all of us are in agreement that donald trump would be a disaster for this country if he became president, unites us. the fact that we understand, for example, that climate change is real while republican opponents</field>
+</doc>
+</add>

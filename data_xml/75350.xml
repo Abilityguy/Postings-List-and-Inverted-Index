@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_060000_Breakfast#start/1911/end/1946</field>
+<field name="datetime">1/16/2020 6:32:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20200116_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_060000_Breakfast/BBCNEWS_20200116_060000_Breakfast.thumbs/BBCNEWS_20200116_060000_Breakfast_001888.jpg</field>
+<field name="snippet">here's a summary of today's main stories from bbc news: the moment of crisis has come in the fight against climate change - that's the warning today from the naturalist and broadcaster sir david attenborough. in an exclusive interview to mark the start of the bbc's our planet matters series, sir david praised the efforts of young people and called on governments to do more.</field>
+</doc>
+</add>

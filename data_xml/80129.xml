@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190518_000000_Tucker_Carlson_Tonight#start/1796/end/1831</field>
+<field name="datetime">5/18/2019 0:30:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190518_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190518_000000_Tucker_Carlson_Tonight/FOXNEWSW_20190518_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190518_000000_Tucker_Carlson_Tonight_001768.jpg</field>
+<field name="snippet">global warming. it's not an open question. it's a settled question. human activity is causing climate change. to what degree? to a degree that it's very serious problem. tucker: to what extent is human activity responsible for speeding that up? please be more precise: so</field>
+</doc>
+</add>

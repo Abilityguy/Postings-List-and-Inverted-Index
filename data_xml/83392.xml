@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191016_130000_Afternoon_Live#start/5256/end/5291</field>
+<field name="datetime">10/16/2019 14:27:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20191016_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191016_130000_Afternoon_Live/BBCNEWS_20191016_130000_Afternoon_Live.thumbs/BBCNEWS_20191016_130000_Afternoon_Live_005248.jpg</field>
+<field name="snippet">the duke of cambridge says more education and political action is needed to tackle climate change, as he visited a melting glacier in pakistan. prince william and his wife visited the hindu kush mountain range on the third day of their tour of the country. they were shown how the glacier has retreated rapidly in recent years</field>
+</doc>
+</add>

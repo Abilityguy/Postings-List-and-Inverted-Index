@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201704.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170429_190000_MSNBC_Live#start/3613/end/3648</field>
+<field name="datetime">4/29/2017 20:00:28</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170429_190000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170429_190000_MSNBC_Live/MSNBCW_20170429_190000_MSNBC_Live.thumbs/MSNBCW_20170429_190000_MSNBC_Live_003598.jpg</field>
+<field name="snippet">d.c. where thousands of protesters have marched in opposition to his policies on climate change. that march one of dozens being staged in cities across the country. all right. nbc's anthony terrell is in</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201901.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190129_170000_Andrea_Mitchell_Reports#start/2702/end/2737</field>
+<field name="datetime">1/29/2019 17:45:17</field>
+<field name="station">MSNBC</field>
+<field name="show">Andrea Mitchell Reports</field>
+<field name="showid">MSNBCW_20190129_170000_Andrea_Mitchell_Reports</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190129_170000_Andrea_Mitchell_Reports/MSNBCW_20190129_170000_Andrea_Mitchell_Reports.thumbs/MSNBCW_20190129_170000_Andrea_Mitchell_Reports_002698.jpg</field>
+<field name="snippet">a damaging report showing we face what they called substantial damage to the u.s. economy, environment, and human health from climate change. i hate to break this to you, mr. president, but if you don't believe in science, don't go to</field>
+</doc>
+</add>

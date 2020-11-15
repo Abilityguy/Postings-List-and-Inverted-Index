@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201012.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101229_010000_Countdown_With_Keith_Olbermann#start/3141/end/3176</field>
+<field name="datetime">12/29/2010 1:52:36</field>
+<field name="station">MSNBC</field>
+<field name="show">Countdown With Keith Olbermann</field>
+<field name="showid">MSNBC_20101229_010000_Countdown_With_Keith_Olbermann</field>
+<field name="preview">https://archive.org/download/MSNBC_20101229_010000_Countdown_With_Keith_Olbermann/MSNBC_20101229_010000_Countdown_With_Keith_Olbermann.thumbs/MSNBC_20101229_010000_Countdown_With_Keith_Olbermann_003054.jpg</field>
+<field name="snippet">that was nbc's jeff rossen reporting. if you thought the weather was bad, wait for the high-pressure system coming in from the right. with climate change denier, it's not the heat. it's the stupidity. [ john ] yea, well, there you go. yea, so what else is new?</field>
+</doc>
+</add>

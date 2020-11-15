@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190924_090000_Fox_and_Friends_First#start/1895/end/1930</field>
+<field name="datetime">9/24/2019 9:31:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190924_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190924_090000_Fox_and_Friends_First/FOXNEWSW_20190924_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190924_090000_Fox_and_Friends_First_001889.jpg</field>
+<field name="snippet">their country of origin and senate democrats force a vote to end the emergency declaration on border wall funding as early as tomorrow. client protests in the nation's capital ending with 32 people arrested. hundreds trying to pressure lawmakers into fighting climate change by seriously blocking</field>
+</doc>
+</add>

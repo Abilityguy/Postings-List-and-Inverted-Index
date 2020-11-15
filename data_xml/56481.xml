@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201510.csv</field>
+<field name="url">https://archive.org/details/CNNW_20151008_050000_CNN_Newsroom_Live#start/2425/end/2460</field>
+<field name="datetime">10/8/2015 5:40:40</field>
+<field name="station">CNN</field>
+<field name="show">CNN Newsroom Live</field>
+<field name="showid">CNNW_20151008_050000_CNN_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/CNNW_20151008_050000_CNN_Newsroom_Live/CNNW_20151008_050000_CNN_Newsroom_Live.thumbs/CNNW_20151008_050000_CNN_Newsroom_Live_002415.jpg</field>
+<field name="snippet">the california governor is dealing with tough steps for climate change. it will double the rate of energy efficiency in buildings and generate half of the state's electricity from renewable sources by 2030. and in beijing, severe smog</field>
+</doc>
+</add>

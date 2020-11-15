@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191126_010000_Newsday#start/482/end/517</field>
+<field name="datetime">11/26/2019 1:08:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191126_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191126_010000_Newsday/BBCNEWS_20191126_010000_Newsday.thumbs/BBCNEWS_20191126_010000_Newsday_000478.jpg</field>
+<field name="snippet">about climate change. it comes as the un organisation says that levels of greenhouse gases in the atmosphere reached a new high last year, despite international pledges to curb emissions. our environment correspondent matt mcgrath explains.</field>
+</doc>
+</add>

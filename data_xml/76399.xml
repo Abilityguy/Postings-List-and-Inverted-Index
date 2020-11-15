@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190509_120000_BBC_News_at_One#start/1399/end/1434</field>
+<field name="datetime">5/9/2019 12:23:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190509_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190509_120000_BBC_News_at_One/BBCNEWS_20190509_120000_BBC_News_at_One.thumbs/BBCNEWS_20190509_120000_BBC_News_at_One_001377.jpg</field>
+<field name="snippet">but, if the government really wants to protect those communities, we need to tackle the climate crisis at its heart, and to do that we've got to urgently invest in greener transport, cleaner energy and doubling the uk's tree cover. but extreme weather looks</field>
+</doc>
+</add>

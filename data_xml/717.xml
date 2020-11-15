@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171116_050000_The_Briefing#start/885/end/920</field>
+<field name="datetime">11/16/2017 5:15:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20171116_050000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171116_050000_The_Briefing/BBCNEWS_20171116_050000_The_Briefing.thumbs/BBCNEWS_20171116_050000_The_Briefing_000867.jpg</field>
+<field name="snippet">0ur headlines: a new report is warning that climate change is inevitable even if we drastically cut co2 emissions. zimbabwe's military is in full control of the country. robert mugabe - president for nearly 40 years - remains under house arrest.</field>
+</doc>
+</add>

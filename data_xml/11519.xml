@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190818_180000_BBC_News#start/1551/end/1586</field>
+<field name="datetime">8/18/2019 18:26:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190818_180000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190818_180000_BBC_News/BBCNEWS_20190818_180000_BBC_News.thumbs/BBCNEWS_20190818_180000_BBC_News_001527.jpg</field>
+<field name="snippet">of an extinct volcano in iceland, to mark the loss of the first glacier to be wiped out by climate change. ijokull went from this. .to this. as recently as the 1980's it showed</field>
+</doc>
+</add>

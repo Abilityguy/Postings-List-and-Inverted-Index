@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171212_043000_HARDtalk#start/29/end/64</field>
+<field name="datetime">12/12/2017 4:30:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">HARDtalk</field>
+<field name="showid">BBCNEWS_20171212_043000_HARDtalk</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171212_043000_HARDtalk/BBCNEWS_20171212_043000_HARDtalk.thumbs/BBCNEWS_20171212_043000_HARDtalk_000058.jpg</field>
+<field name="snippet">called to push forward plans to tackle climate change, agreed in paris two years ago. the us president won't be there of course, he pulled his country out of the agreement injune, the only one of 195 countries to do so. now on bbc news, it's hardtalk.</field>
+</doc>
+</add>

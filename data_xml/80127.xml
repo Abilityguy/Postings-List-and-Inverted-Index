@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190518_140000_Cavuto_Live#start/4100/end/4135</field>
+<field name="datetime">5/18/2019 15:08:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Cavuto Live</field>
+<field name="showid">FOXNEWSW_20190518_140000_Cavuto_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190518_140000_Cavuto_Live/FOXNEWSW_20190518_140000_Cavuto_Live.thumbs/FOXNEWSW_20190518_140000_Cavuto_Live_004079.jpg</field>
+<field name="snippet">as sanders' poll numbers decrease his attacks against biden have increased and this week sanders criticized biden for taking a middle ground approach to climate change that isn't progressive enough. of course this week biden pushed back on that and says he's going to be talking about climate</field>
+</doc>
+</add>

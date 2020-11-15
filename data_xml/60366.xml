@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_100000_BBC_Newsroom_Live#start/181/end/216</field>
+<field name="datetime">10/8/2018 10:03:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20181008_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_100000_BBC_Newsroom_Live/BBCNEWS_20181008_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20181008_100000_BBC_Newsroom_Live_000177.jpg</field>
+<field name="snippet">even with a green energy revolution, this most comprehensive assessment of the perils of climate change concludes that every one of us will need to make changes in we live our lives, in how we live our lives,</field>
+</doc>
+</add>

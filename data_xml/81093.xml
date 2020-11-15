@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091216_200000_MSNBC_News_Live#start/2457/end/2492</field>
+<field name="datetime">12/16/2009 20:41:12</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091216_200000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091216_200000_MSNBC_News_Live/MSNBC_20091216_200000_MSNBC_News_Live.thumbs/MSNBC_20091216_200000_MSNBC_News_Live_002454.jpg</field>
+<field name="snippet">welcome back in today's making their case. former alaska governor palin takes on california governor schwarzenegger. at the heart of the battle global warming.</field>
+</doc>
+</add>

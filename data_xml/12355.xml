@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170716_020000_BBC_News#start/945/end/980</field>
+<field name="datetime">7/16/2017 2:16:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170716_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170716_020000_BBC_News/BBCNEWS_20170716_020000_BBC_News.thumbs/BBCNEWS_20170716_020000_BBC_News_000927.jpg</field>
+<field name="snippet">in the north of the country. much has been made of the human contribution to climate change in recent years, but livestock is also a major factor in global warming. it's all to do, of course, with the methane gas the animals emit as they digest their food. now smallholders in kenya</field>
+</doc>
+</add>

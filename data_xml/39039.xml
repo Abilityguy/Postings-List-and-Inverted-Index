@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100404_103000_FOX_News_Watch#start/1196/end/1231</field>
+<field name="datetime">4/4/2010 10:50:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Watch</field>
+<field name="showid">FOXNEWS_20100404_103000_FOX_News_Watch</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100404_103000_FOX_News_Watch/FOXNEWS_20100404_103000_FOX_News_Watch.thumbs/FOXNEWS_20100404_103000_FOX_News_Watch_001195.jpg</field>
+<field name="snippet">a recent study by researchers at yale and george mason university found that 56% of americans trust their tv weather reporters to tell them about global warming over former vice-president al gore, 47% and the mainstream media at 36%.</field>
+</doc>
+</add>

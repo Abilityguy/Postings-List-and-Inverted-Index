@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201409.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140930_090000_First_Look#start/230/end/265</field>
+<field name="datetime">9/30/2014 9:04:05</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20140930_090000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140930_090000_First_Look/MSNBCW_20140930_090000_First_Look.thumbs/MSNBCW_20140930_090000_First_Look_000226.jpg</field>
+<field name="snippet">we now know the source of 2013's extreme sizzle climate change. that's the word from the american meteorological society. it fueled heat waves in europe and china. and? n australia, folks melted under historic temps that hit 111. the australian open was even</field>
+</doc>
+</add>

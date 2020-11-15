@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191205_220000_BBC_News_at_Ten#start/1593/end/1628</field>
+<field name="datetime">12/5/2019 22:26:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20191205_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191205_220000_BBC_News_at_Ten/BBCNEWS_20191205_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20191205_220000_BBC_News_at_Ten_001587.jpg</field>
+<field name="snippet">labour's plans to nationalise big parts of the uk economy offer the starkest divide between the two main parties. unsurprisingly, perhaps, the boss of one of the companies in labour's sights isn't keen. not least, he says, because there are more pressing concerns. we need to tackle climate change</field>
+</doc>
+</add>

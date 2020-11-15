@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201811.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181128_110000_Morning_Joe#start/6480/end/6515</field>
+<field name="datetime">11/28/2018 12:48:15</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20181128_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181128_110000_Morning_Joe/MSNBCW_20181128_110000_Morning_Joe.thumbs/MSNBCW_20181128_110000_Morning_Joe_006477.jpg</field>
+<field name="snippet">president trump again yesterday when asked in an interview about climate change said i'm just not a believer. what's your view on climate change? do you think it contributed to things like the wildfires in your state? yes. i'm a believer, but i also believe that it cuts both ways.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200910.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091008_100000_Morning_Joe#start/3185/end/3220</field>
+<field name="datetime">10/8/2009 10:53:20</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20091008_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20091008_100000_Morning_Joe/MSNBC_20091008_100000_Morning_Joe.thumbs/MSNBC_20091008_100000_Morning_Joe_003146.jpg</field>
+<field name="snippet">hours. brace yourselves. we'll explain when we come back. (announcer) what the world needs now is energy. the energy to get the economy humming again. the energy to tackle challenges like climate change. what if that energy, came from an energy company.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190818_220000_BBC_News#start/1630/end/1665</field>
+<field name="datetime">8/18/2019 22:27:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190818_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190818_220000_BBC_News/BBCNEWS_20190818_220000_BBC_News.thumbs/BBCNEWS_20190818_220000_BBC_News_001617.jpg</field>
+<field name="snippet">very quickly paddled away. well, some effects of climate change are pretty dramatic there. let's just catch up with the immediate weather prospects with chris fawkes. hello.</field>
+</doc>
+</add>

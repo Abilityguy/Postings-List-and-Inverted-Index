@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201311.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20131120_160000_Happening_Now#start/2942/end/2977</field>
+<field name="datetime">11/20/2013 16:49:17</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20131120_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20131120_160000_Happening_Now/FOXNEWSW_20131120_160000_Happening_Now.thumbs/FOXNEWSW_20131120_160000_Happening_Now_002925.jpg</field>
+<field name="snippet">chemistry. today, he remains a global leader continuing to study air quality and climate change and the environment that connects us all. [applause]</field>
+</doc>
+</add>

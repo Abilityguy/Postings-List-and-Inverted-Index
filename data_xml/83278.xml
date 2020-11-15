@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191018_210000_BBC_News_at_Ten#start/1654/end/1689</field>
+<field name="datetime">10/18/2019 21:27:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20191018_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191018_210000_BBC_News_at_Ten/BBCNEWS_20191018_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20191018_210000_BBC_News_at_Ten_001648.jpg</field>
+<field name="snippet">hello, i'm asad ahmad. two weeks of demonstrations by climate change activists hello, and welcome to sportsday - i'm gavin ramjaun. crunch time at the rugby world cup, with england up first tomorrow morning in their quarter final against australia. andy murray continues his impressive comeback to singles action -  _</field>
+</doc>
+</add>

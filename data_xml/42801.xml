@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180119_010000_Newsday#start/187/end/222</field>
+<field name="datetime">1/19/2018 1:03:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20180119_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180119_010000_Newsday/BBCNEWS_20180119_010000_Newsday.thumbs/BBCNEWS_20180119_010000_Newsday_000177.jpg</field>
+<field name="snippet">in scotland, travellers may be wondering why they've got snow while the world is warming, but that is just short-term weather. heatwaves in australia look more like climate change. records being broken all the time. all nations except the usa are committed to tackling climate</field>
+</doc>
+</add>

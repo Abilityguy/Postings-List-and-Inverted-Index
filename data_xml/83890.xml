@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190420_010000_BBC_News#start/675/end/710</field>
+<field name="datetime">4/20/2019 1:11:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190420_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190420_010000_BBC_News/BBCNEWS_20190420_010000_BBC_News.thumbs/BBCNEWS_20190420_010000_BBC_News_000658.jpg</field>
+<field name="snippet">than 680 since the climate change demonstration started on monday. a short while ago, our reporter caroline rigby sent this update from central london. we are in oxford circus in the heart</field>
+</doc>
+</add>

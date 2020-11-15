@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170603_160000_Americas_News_HQ#start/5452/end/5487</field>
+<field name="datetime">6/3/2017 17:31:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20170603_160000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170603_160000_Americas_News_HQ/FOXNEWSW_20170603_160000_Americas_News_HQ.thumbs/FOXNEWSW_20170603_160000_Americas_News_HQ_005428.jpg</field>
+<field name="snippet">some of america's most influential corporations have come out and opposed the president's decision. what the president is communicating is right now we're going to do nothing on climate change, and doing nothing puts not only americans at risk as all of these companies have --  _</field>
+</doc>
+</add>

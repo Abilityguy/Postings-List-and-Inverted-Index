@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190603_200000_Your_World_With_Neil_Cavuto#start/98/end/133</field>
+<field name="datetime">6/3/2019 20:01:53</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20190603_200000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190603_200000_Your_World_With_Neil_Cavuto/FOXNEWSW_20190603_200000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20190603_200000_Your_World_With_Neil_Cavuto_000090.jpg</field>
+<field name="snippet">it's a big day, a big event. there's the protests that come with the territory but promising signs in what was a tested relationship. it's still tested on trade issues, political issues, climate change issues.</field>
+</doc>
+</add>

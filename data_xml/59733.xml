@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201301.csv</field>
+<field name="url">https://archive.org/details/CNNW_20130124_020000_Piers_Morgan_Tonight#start/1835/end/1870</field>
+<field name="datetime">1/24/2013 2:30:50</field>
+<field name="station">CNN</field>
+<field name="show">Piers Morgan Tonight</field>
+<field name="showid">CNNW_20130124_020000_Piers_Morgan_Tonight</field>
+<field name="preview">https://archive.org/download/CNNW_20130124_020000_Piers_Morgan_Tonight/CNNW_20130124_020000_Piers_Morgan_Tonight.thumbs/CNNW_20130124_020000_Piers_Morgan_Tonight_001815.jpg</field>
+<field name="snippet">weather? you can't attribute one particular event to climate change. there's no way to deny things have been supercharged. floods, hurricane sandy, droughts, extreme chill. whether it's a cyclical thing</field>
+</doc>
+</add>

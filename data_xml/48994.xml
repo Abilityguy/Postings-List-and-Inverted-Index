@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201908.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190830_100000_Morning_Joe#start/10459/end/10494</field>
+<field name="datetime">8/30/2019 12:54:34</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20190830_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190830_100000_Morning_Joe/MSNBCW_20190830_100000_Morning_Joe.thumbs/MSNBCW_20190830_100000_Morning_Joe_010438.jpg</field>
+<field name="snippet">and everything else seems to reinforce that culture and certainly among young people. but i'm hearing a lot from young people about their aspirations and their care about the future. there is a lot of interest in climate change and they're concerned about their own futures. they'll be living way longer</field>
+</doc>
+</add>

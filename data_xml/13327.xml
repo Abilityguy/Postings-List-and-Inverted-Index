@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201111.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111127_210000_Americas_News_Headquarters#start/1075/end/1110</field>
+<field name="datetime">11/27/2011 21:18:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20111127_210000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111127_210000_Americas_News_Headquarters/FOXNEWSW_20111127_210000_Americas_News_Headquarters.thumbs/FOXNEWSW_20111127_210000_Americas_News_Headquarters_001076.jpg</field>
+<field name="snippet">gregg: members of congress may be having self-esteem issues the public is fed up. but is congress getting so down on itself it can't function at all. plus, the pope on climate</field>
+</doc>
+</add>

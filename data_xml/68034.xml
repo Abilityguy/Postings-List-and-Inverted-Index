@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190211_220000_BBC_News_at_Ten#start/1189/end/1224</field>
+<field name="datetime">2/11/2019 22:20:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20190211_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190211_220000_BBC_News_at_Ten/BBCNEWS_20190211_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20190211_220000_BBC_News_at_Ten_001168.jpg</field>
+<field name="snippet">there are three key things that this study highlights as threats to our planet's insect diversity - climate change, invasive species and critically, how we use our land. the increasing intensification of agriculture. around the world, suitable</field>
+</doc>
+</add>

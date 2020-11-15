@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191203_130000_BBC_News_at_One#start/1069/end/1104</field>
+<field name="datetime">12/3/2019 13:18:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20191203_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191203_130000_BBC_News_at_One/BBCNEWS_20191203_130000_BBC_News_at_One.thumbs/BBCNEWS_20191203_130000_BBC_News_at_One_001048.jpg</field>
+<field name="snippet">scientists say they are almost certain the past decade will prove to have been the hottest on record - with this year likely to be one of the warmest. the world meteorological office report - presented at the un climate talks in madrid - says the record temperatures are driven by greenhouse gas emissions.</field>
+</doc>
+</add>

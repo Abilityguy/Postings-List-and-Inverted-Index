@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_030000_BBC_News#start/1712/end/1747</field>
+<field name="datetime">12/3/2018 3:28:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181203_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_030000_BBC_News/BBCNEWS_20181203_030000_BBC_News.thumbs/BBCNEWS_20181203_030000_BBC_News_001708.jpg</field>
+<field name="snippet">this is bbc news. the headlines: the united nations climate chief has warned that global warming is posing a greater risk to humanity than ever before. she told an international conference on climate change that this year was going to be one of the four hottest on record. the frenchjustice minister has promised that the courts will be tough on people who resorted</field>
+</doc>
+</add>

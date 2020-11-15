@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181130_080000_Fox_News__Night_With_Shannon_Bream#start/2172/end/2207</field>
+<field name="datetime">11/30/2018 8:36:27</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News  Night With Shannon Bream</field>
+<field name="showid">FOXNEWSW_20181130_080000_Fox_News__Night_With_Shannon_Bream</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181130_080000_Fox_News__Night_With_Shannon_Bream/FOXNEWSW_20181130_080000_Fox_News__Night_With_Shannon_Bream.thumbs/FOXNEWSW_20181130_080000_Fox_News__Night_With_Shannon_Bream_002157.jpg</field>
+<field name="snippet">this is conclusive evidence by the president's own administration of how bad climate change will be for incomes, for families, workers, farmers, cities.</field>
+</doc>
+</add>

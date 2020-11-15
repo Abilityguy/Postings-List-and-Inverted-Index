@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201709.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170901_210000_BBC_News_at_Ten#start/936/end/971</field>
+<field name="datetime">9/1/2017 21:15:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20170901_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170901_210000_BBC_News_at_Ten/BBCNEWS_20170901_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20170901_210000_BBC_News_at_Ten_000928.jpg</field>
+<field name="snippet">then, of course, there's climate change. this graph of rain in the united states using american national weather service data shows that extreme rainfall has become more common since the 1960s. the international panel on climate change expects such events to become a little more</field>
+</doc>
+</add>

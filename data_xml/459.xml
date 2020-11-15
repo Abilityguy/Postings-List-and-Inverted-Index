@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201301.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130125_180000_America_Live#start/1379/end/1414</field>
+<field name="datetime">1/25/2013 18:23:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWSW_20130125_180000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130125_180000_America_Live/FOXNEWSW_20130125_180000_America_Live.thumbs/FOXNEWSW_20130125_180000_America_Live_001365.jpg</field>
+<field name="snippet">megyn: great debate, you guys. and great to see you both. thank you, megyn. megyn: all right. coming up, al gore is reportedly going on the road trying to gin up support for his new book on global change, climate change, right? just weeks after pocketing 100 million dollars from one of the world's biggest oil</field>
+</doc>
+</add>

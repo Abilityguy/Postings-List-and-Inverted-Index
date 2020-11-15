@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200910.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091005_200000_MSNBC_News_Live#start/967/end/1002</field>
+<field name="datetime">10/5/2009 20:16:22</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091005_200000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091005_200000_MSNBC_News_Live/MSNBC_20091005_200000_MSNBC_News_Live.thumbs/MSNBC_20091005_200000_MSNBC_News_Live_000956.jpg</field>
+<field name="snippet">jobs, health care, financial reform, afghanistan, iraq, guantanamo bay and climate change. and this has not gone unnoticed by the people at 'saturday night live.' here it is. when you look at my record, it's very clear what i've done</field>
+</doc>
+</add>

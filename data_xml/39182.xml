@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100426_100000_FOX_and_Friends#start/4045/end/4080</field>
+<field name="datetime">4/26/2010 11:07:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100426_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100426_100000_FOX_and_Friends/FOXNEWS_20100426_100000_FOX_and_Friends.thumbs/FOXNEWS_20100426_100000_FOX_and_Friends_000178.jpg</field>
+<field name="snippet">the other side, he's been trying to work with senator kerry and senator lieberman to try to find a coalition that would be able to put forward a responsible energy bill that would address the climate change situation. he -- i think he's gotten screwed around and he finally</field>
+</doc>
+</add>

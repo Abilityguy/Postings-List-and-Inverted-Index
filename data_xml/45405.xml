@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201909.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190919_150000_MSNBC_Live_With_Craig_Melvin#start/3209/end/3244</field>
+<field name="datetime">9/19/2019 15:53:44</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Craig Melvin</field>
+<field name="showid">MSNBCW_20190919_150000_MSNBC_Live_With_Craig_Melvin</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190919_150000_MSNBC_Live_With_Craig_Melvin/MSNBCW_20190919_150000_MSNBC_Live_With_Craig_Melvin.thumbs/MSNBCW_20190919_150000_MSNBC_Live_With_Craig_Melvin_003208.jpg</field>
+<field name="snippet">of msnbc's two-day climate change forum in washington, d.c. the candidates right now taking questions from my colleagues ali velshi and chris hayes, and youth voters as well. the candidates are talking about</field>
+</doc>
+</add>

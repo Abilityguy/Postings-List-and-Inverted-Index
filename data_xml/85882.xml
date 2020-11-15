@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201709.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170902_010000_BBC_News#start/670/end/705</field>
+<field name="datetime">9/2/2017 1:11:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170902_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170902_010000_BBC_News/BBCNEWS_20170902_010000_BBC_News.thumbs/BBCNEWS_20170902_010000_BBC_News_000658.jpg</field>
+<field name="snippet">interesting questions. one is easy, one is hard. the easy one is how much more rain there was because it was warmer. the difficult question is did climate change have any influence at all on the chance of the storm stopping as it did.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190706_010000_BBC_News#start/881/end/916</field>
+<field name="datetime">7/6/2019 1:14:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190706_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190706_010000_BBC_News/BBCNEWS_20190706_010000_BBC_News.thumbs/BBCNEWS_20190706_010000_BBC_News_000868.jpg</field>
+<field name="snippet">brian, thank you so much for your time. first of all, is this climate change? well, the entirety of alaska has been warming quite a bit in the last number of decades and it is</field>
+</doc>
+</add>

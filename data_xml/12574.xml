@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170710_044500_BBC_News#start/288/end/323</field>
+<field name="datetime">7/10/2017 4:50:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170710_044500_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170710_044500_BBC_News/BBCNEWS_20170710_044500_BBC_News.thumbs/BBCNEWS_20170710_044500_BBC_News_000268.jpg</field>
+<field name="snippet">it's interesting looking at the climate change aspect, the other nations in the eu recognising the us decision to withdraw from the paris accord. turkey starting to say actually if this affects compensation, if the us are pulling</field>
+</doc>
+</add>

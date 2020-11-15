@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191202_180000_BBC_News_at_Six#start/117/end/152</field>
+<field name="datetime">12/2/2019 18:02:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20191202_180000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191202_180000_BBC_News_at_Six/BBCNEWS_20191202_180000_BBC_News_at_Six.thumbs/BBCNEWS_20191202_180000_BBC_News_at_Six_000118.jpg</field>
+<field name="snippet">released from police custody - the paranoid schizopherenic who killed three men just hours later. climate change, the point of no return is hurtling towards us. a warning as political leaders gather at a special summit. and coming up in sportsday later in the hour on bbc news.</field>
+</doc>
+</add>

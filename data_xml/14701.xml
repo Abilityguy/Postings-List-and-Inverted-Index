@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201702.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170212_010000_Watters_World#start/2147/end/2182</field>
+<field name="datetime">2/12/2017 1:36:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Watters World</field>
+<field name="showid">FOXNEWSW_20170212_010000_Watters_World</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170212_010000_Watters_World/FOXNEWSW_20170212_010000_Watters_World.thumbs/FOXNEWSW_20170212_010000_Watters_World_002128.jpg</field>
+<field name="snippet">global warming? it's for the birds. jesse: you know what i call all this? a winter wonderland? global warming. jesse: a lot of global warming</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170826_010000_The_Five#start/2962/end/2997</field>
+<field name="datetime">8/26/2017 1:49:37</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20170826_010000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170826_010000_The_Five/FOXNEWSW_20170826_010000_The_Five.thumbs/FOXNEWSW_20170826_010000_The_Five_002848.jpg</field>
+<field name="snippet">lisa: welcome back. who didn't see this coming? climate change in hurricane harvey coverage. is there and why to this? why there's so much water associated with this storm? one thing we've heard from scientists is that climate change does impact the intensity</field>
+</doc>
+</add>

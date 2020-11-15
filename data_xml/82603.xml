@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201509.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150924_220000_Special_Report_With_Bret_Baier#start/59/end/94</field>
+<field name="datetime">9/24/2015 22:01:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20150924_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150924_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20150924_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20150924_220000_Special_Report_With_Bret_Baier_000045.jpg</field>
+<field name="snippet">meeting of congress, touching on subjects from poverty to climate change and urging lawmakers not to look away from the millions of refugees flooding across europe's borders as well as imgrapts streaming to america.</field>
+</doc>
+</add>

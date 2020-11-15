@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201203.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120330_160000_NOW_With_Alex_Wagner#start/3351/end/3386</field>
+<field name="datetime">3/30/2012 16:56:06</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20120330_160000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120330_160000_NOW_With_Alex_Wagner/MSNBCW_20120330_160000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20120330_160000_NOW_With_Alex_Wagner_003330.jpg</field>
+<field name="snippet">secretary janet napolitano joins me right here on the growing threat of cyberattacks and the recent chaos in the skies and the former president of the maldives, on being forced from power and how climate change could wipe out his island nation</field>
+</doc>
+</add>

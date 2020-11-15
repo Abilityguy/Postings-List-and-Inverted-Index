@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191008_050000_Breakfast#start/4052/end/4087</field>
+<field name="datetime">10/8/2019 6:07:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191008_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191008_050000_Breakfast/BBCNEWS_20191008_050000_Breakfast.thumbs/BBCNEWS_20191008_050000_Breakfast_004048.jpg</field>
+<field name="snippet">military operation in northern syria, warning that it could start at any time. police have arrested 280 people in london, as environmental campaign group extinction rebellion, begin their latest protest against climate change. key sites in london have been</field>
+</doc>
+</add>

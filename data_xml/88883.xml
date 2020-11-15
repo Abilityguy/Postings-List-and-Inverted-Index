@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190615_010000_BBC_News#start/665/end/700</field>
+<field name="datetime">6/15/2019 1:11:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190615_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190615_010000_BBC_News/BBCNEWS_20190615_010000_BBC_News.thumbs/BBCNEWS_20190615_010000_BBC_News_000658.jpg</field>
+<field name="snippet">discussion of climate change and energy transition must be rooted in the best scientific research available today. representatives of almost all the world's great oil firms were there for a dressing down.</field>
+</doc>
+</add>

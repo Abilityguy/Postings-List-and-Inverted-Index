@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201803.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180308_080000_Fox_News__Night_With_Shannon_Bream#start/120/end/155</field>
+<field name="datetime">3/8/2018 8:02:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News  Night With Shannon Bream</field>
+<field name="showid">FOXNEWSW_20180308_080000_Fox_News__Night_With_Shannon_Bream</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180308_080000_Fox_News__Night_With_Shannon_Bream/FOXNEWSW_20180308_080000_Fox_News__Night_With_Shannon_Bream.thumbs/FOXNEWSW_20180308_080000_Fox_News__Night_With_Shannon_Bream_000118.jpg</field>
+<field name="snippet">news on tariffs paid first, trace gallagher breaks down a world whirlwind week for jeff sessions, our exclusive interview with him minutes away. stick around for that. first to trace. shannon, great to see you tonight. climate change, among other</field>
+</doc>
+</add>

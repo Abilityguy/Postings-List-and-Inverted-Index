@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190601_143000_Click#start/1314/end/1349</field>
+<field name="datetime">6/1/2019 14:52:09</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Click</field>
+<field name="showid">BBCNEWS_20190601_143000_Click</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190601_143000_Click/BBCNEWS_20190601_143000_Click.thumbs/BBCNEWS_20190601_143000_Click_001288.jpg</field>
+<field name="snippet">how machines learn. it is usually done at incredible speed, playing millions and millions of iterations. now machine learning, so say its advocates, may one day solve the world's most pressing problems, from climate change to finding cures</field>
+</doc>
+</add>

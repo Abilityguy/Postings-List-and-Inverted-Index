@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191202_030000_BBC_News#start/910/end/945</field>
+<field name="datetime">12/2/2019 3:15:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191202_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191202_030000_BBC_News/BBCNEWS_20191202_030000_BBC_News.thumbs/BBCNEWS_20191202_030000_BBC_News_000897.jpg</field>
+<field name="snippet">head of the un is being so blunt with the governments meeting here. saying that whatever they say about their efforts to tackle climate change, many of them, by supporting fuels like coal and oil, are actually making things worse.</field>
+</doc>
+</add>

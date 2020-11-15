@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201804.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180424_190000_Shepard_Smith_Reporting#start/15/end/50</field>
+<field name="datetime">4/24/2018 19:00:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20180424_190000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180424_190000_Shepard_Smith_Reporting/FOXNEWSW_20180424_190000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20180424_190000_Shepard_Smith_Reporting_000057.jpg</field>
+<field name="snippet">first, the french president visits the white house. emmanuel macron at odds with the president on everything from climate change to the iran deal. it's insane. it's ridiculous. it should have never been made. but we will be talking about</field>
+</doc>
+</add>

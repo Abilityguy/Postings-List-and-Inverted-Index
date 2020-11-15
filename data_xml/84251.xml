@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190419_203000_Weather_World#start/42/end/77</field>
+<field name="datetime">4/19/2019 20:30:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20190419_203000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190419_203000_Weather_World/BBCNEWS_20190419_203000_Weather_World.thumbs/BBCNEWS_20190419_203000_Weather_World_000028.jpg</field>
+<field name="snippet">the british prime minister, theresa may, has condemned the murder of a journalist in northern ireland. lee-ra mckee was shot dead during overnight rioting in londonderry. police are treating it as a terrorist incident climate change protests are being held across europe.</field>
+</doc>
+</add>

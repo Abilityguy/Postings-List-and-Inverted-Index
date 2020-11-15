@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190419_130000_BBC_News#start/1135/end/1170</field>
+<field name="datetime">4/19/2019 13:19:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190419_130000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190419_130000_BBC_News/BBCNEWS_20190419_130000_BBC_News.thumbs/BBCNEWS_20190419_130000_BBC_News_001137.jpg</field>
+<field name="snippet">it's also been condemned by political leaders in northern ireland and the irish taoiseach. hundreds of police arrive in central london and stop suspected protestors heading to oxford circus - the focus of a climate change protest for the past five days.</field>
+</doc>
+</add>

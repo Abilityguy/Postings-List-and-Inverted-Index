@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180118_220000_BBC_News_at_Ten#start/979/end/1014</field>
+<field name="datetime">1/18/2018 22:16:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20180118_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180118_220000_BBC_News_at_Ten/BBCNEWS_20180118_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20180118_220000_BBC_News_at_Ten_000958.jpg</field>
+<field name="snippet">dithering and take real action. in scotland, travellers may be wondering why they've got snow while the world is warming, but that's just short-term weather. heatwaves in australia look more like climate change,</field>
+</doc>
+</add>

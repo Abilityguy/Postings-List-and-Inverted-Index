@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190824_030000_BBC_News#start/1006/end/1041</field>
+<field name="datetime">8/24/2019 3:17:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190824_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190824_030000_BBC_News/BBCNEWS_20190824_030000_BBC_News.thumbs/BBCNEWS_20190824_030000_BBC_News_000988.jpg</field>
+<field name="snippet">between two stools here. he wants to reach out on the one hand to president trump in the hope of encouraging a post-brexit uk-us trade deal, on the other hand, on many of the key issues that will be discussed, the iran nuclear deal, climate change, global trade, britain is firmly in the european</field>
+</doc>
+</add>

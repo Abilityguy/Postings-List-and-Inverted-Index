@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190215_090000_BBC_News_at_9#start/2150/end/2185</field>
+<field name="datetime">2/15/2019 9:36:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20190215_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190215_090000_BBC_News_at_9/BBCNEWS_20190215_090000_BBC_News_at_9.thumbs/BBCNEWS_20190215_090000_BBC_News_at_9_002127.jpg</field>
+<field name="snippet">and we will show that today. george, you have done a lot of research on this stuff. would you like to ask the energy manager a question? what action will you be taking to reassure our generation about climate change because it is us that we'll have to live with your decision? it is great to see you, if i was 40 years younger i would be</field>
+</doc>
+</add>

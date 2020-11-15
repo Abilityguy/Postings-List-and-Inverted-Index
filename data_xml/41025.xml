@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201705.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170526_150000_MSNBC_Live#start/597/end/632</field>
+<field name="datetime">5/26/2017 15:10:12</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170526_150000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170526_150000_MSNBC_Live/MSNBCW_20170526_150000_MSNBC_Live.thumbs/MSNBCW_20170526_150000_MSNBC_Live_000597.jpg</field>
+<field name="snippet">he is at the g7 summit in italy. leaders are set to talk about a couple topics. expected to cause some tension. trade, climate change, for example. already at the nato meetings in brussels yesterday, multiple signs of deep divisions between the president and other leaders</field>
+</doc>
+</add>

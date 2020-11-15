@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091210_110000_Morning_Joe#start/9132/end/9167</field>
+<field name="datetime">12/10/2009 13:32:27</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20091210_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20091210_110000_Morning_Joe/MSNBC_20091210_110000_Morning_Joe.thumbs/MSNBC_20091210_110000_Morning_Joe_009120.jpg</field>
+<field name="snippet">here. we appreciate it. and coming up -- the battle between al gore and sarah palin between climate change. and also our political roundtable with joan walsh with salon.com. we will be right back with more 'morning joe.'</field>
+</doc>
+</add>

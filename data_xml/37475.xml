@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201401.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140104_160000_Forbes_on_FOX#start/1540/end/1575</field>
+<field name="datetime">1/4/2014 16:25:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Forbes on FOX</field>
+<field name="showid">FOXNEWSW_20140104_160000_Forbes_on_FOX</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140104_160000_Forbes_on_FOX/FOXNEWSW_20140104_160000_Forbes_on_FOX.thumbs/FOXNEWSW_20140104_160000_Forbes_on_FOX_001515.jpg</field>
+<field name="snippet">climate change issues. there's a lot of pollution in the world. that is terrible. china consumes more coal than all the other countries combined. i think if utilities are continuing to do methane and carbon capture that's a great thing. stop pollution in the world.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20171122_050000_Tucker_Carlson_Tonight#start/1400/end/1435</field>
+<field name="datetime">11/22/2017 5:23:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20171122_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20171122_050000_Tucker_Carlson_Tonight/FOXNEWSW_20171122_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20171122_050000_Tucker_Carlson_Tonight_001377.jpg</field>
+<field name="snippet">his own family were driven out of europe by 19th century climate change. donald trump's ancestors</field>
+</doc>
+</add>

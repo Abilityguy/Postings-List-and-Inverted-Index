@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190731_050000_Breakfast#start/1917/end/1952</field>
+<field name="datetime">7/31/2019 5:32:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190731_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190731_050000_Breakfast/BBCNEWS_20190731_050000_Breakfast.thumbs/BBCNEWS_20190731_050000_Breakfast_001917.jpg</field>
+<field name="snippet">analysis of temperature records dating back to 1884 also reveals that none of the ten coldest years have occurred since 1963. scientists say the report underlines how much the uk has been affected by climate change. homes and businesses have been hit by flash-flooding in north yorkshire.</field>
+</doc>
+</add>

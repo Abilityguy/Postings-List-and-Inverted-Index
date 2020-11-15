@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201201.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120114_120000_Up_W_Chris_Hayes#start/5934/end/5969</field>
+<field name="datetime">1/14/2012 13:39:09</field>
+<field name="station">MSNBC</field>
+<field name="show">Up W Chris Hayes</field>
+<field name="showid">MSNBCW_20120114_120000_Up_W_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120114_120000_Up_W_Chris_Hayes/MSNBCW_20120114_120000_Up_W_Chris_Hayes.thumbs/MSNBCW_20120114_120000_Up_W_Chris_Hayes_005936.jpg</field>
+<field name="snippet">scientific case for the denial of human-caused climate change. yet from the media treatment of the matter, it often seems as if this is a contested matter. now, there are legitimate uncertainties in the science but the fact we are changing the climate is not one of them.</field>
+</doc>
+</add>

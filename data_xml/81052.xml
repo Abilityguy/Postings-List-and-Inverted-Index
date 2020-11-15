@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201601.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160124_140000_Up#start/179/end/214</field>
+<field name="datetime">1/24/2016 14:03:14</field>
+<field name="station">MSNBC</field>
+<field name="show">Up</field>
+<field name="showid">MSNBCW_20160124_140000_Up</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160124_140000_Up/MSNBCW_20160124_140000_Up.thumbs/MSNBCW_20160124_140000_Up_000177.jpg</field>
+<field name="snippet">new york city now seven of the ten greatest snowfalls happened in the last 20 years. there you go. that will lead you into your climate change discussion. forecast for the next seven days no snow. new york city, this is the five day forecast for new york and mid-atlantic all the same. no storms.</field>
+</doc>
+</add>

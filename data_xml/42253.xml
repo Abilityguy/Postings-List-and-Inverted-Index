@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201311.csv</field>
+<field name="url">https://archive.org/details/CNNW_20131108_070000_Anderson_Cooper_Special_Report#start/663/end/698</field>
+<field name="datetime">11/8/2013 7:11:18</field>
+<field name="station">CNN</field>
+<field name="show">Anderson Cooper Special Report</field>
+<field name="showid">CNNW_20131108_070000_Anderson_Cooper_Special_Report</field>
+<field name="preview">https://archive.org/download/CNNW_20131108_070000_Anderson_Cooper_Special_Report/CNNW_20131108_070000_Anderson_Cooper_Special_Report.thumbs/CNNW_20131108_070000_Anderson_Cooper_Special_Report_000645.jpg</field>
+<field name="snippet">we're talking about the promise and peril of nuclear energy in the wake of fukushima but also in the shadow of global warming. neither risk is hypothetical as disasters at japan, chernobyl and three mile island show. the question is not can they be made safe from these accidents</field>
+</doc>
+</add>

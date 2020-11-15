@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201505.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150505_210000_The_Ed_Show#start/2146/end/2181</field>
+<field name="datetime">5/5/2015 21:36:01</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20150505_210000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150505_210000_The_Ed_Show/MSNBCW_20150505_210000_The_Ed_Show.thumbs/MSNBCW_20150505_210000_The_Ed_Show_002085.jpg</field>
+<field name="snippet">welcome back to 'the ed show.' part two of our series tonight 'rising tide: the climate crisis.' we head to miami-dade county. these beach communities are already feeling the impact of climate change. the rising water table causes local roads to flood, even on</field>
+</doc>
+</add>

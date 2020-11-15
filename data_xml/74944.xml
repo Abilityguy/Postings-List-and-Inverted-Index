@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_023000_Wednesday_in_Parliament#start/807/end/842</field>
+<field name="datetime">1/16/2020 2:43:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Wednesday in Parliament</field>
+<field name="showid">BBCNEWS_20200116_023000_Wednesday_in_Parliament</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_023000_Wednesday_in_Parliament/BBCNEWS_20200116_023000_Wednesday_in_Parliament.thumbs/BBCNEWS_20200116_023000_Wednesday_in_Parliament_000778.jpg</field>
+<field name="snippet">the business secretary, andrea leadsom, has warned that the impact of climate change is already being felt. opening a queen's speech debate on 'the green industrial revolution', she claimed britain would lead the next 30 years of action to tackle it.</field>
+</doc>
+</add>

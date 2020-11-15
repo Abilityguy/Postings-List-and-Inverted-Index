@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180821_100000_BBC_Newsroom_Live#start/2325/end/2360</field>
+<field name="datetime">8/21/2018 10:39:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20180821_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180821_100000_BBC_Newsroom_Live/BBCNEWS_20180821_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20180821_100000_BBC_Newsroom_Live_002307.jpg</field>
+<field name="snippet">record here, but it is well down on the long-term average. scientists would say these are the fingerprints of global warming impacting the arctic. even though this particular incident is being caused by wind</field>
+</doc>
+</add>

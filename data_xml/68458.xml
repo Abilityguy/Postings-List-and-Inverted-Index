@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201309.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130920_090000_FOX_and_Friends_First#start/1379/end/1414</field>
+<field name="datetime">9/20/2013 9:23:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends First</field>
+<field name="showid">FOXNEWSW_20130920_090000_FOX_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130920_090000_FOX_and_Friends_First/FOXNEWSW_20130920_090000_FOX_and_Friends_First.thumbs/FOXNEWSW_20130920_090000_FOX_and_Friends_First_001365.jpg</field>
+<field name="snippet">turns out research shows global warming tests have slowed down in the past 15 years even though a greenhouse gas emissions are rising. humans are cooking the planet by burning coal and gas.</field>
+</doc>
+</add>

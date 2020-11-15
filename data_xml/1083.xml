@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170515_020000_BBC_News#start/1744/end/1779</field>
+<field name="datetime">5/15/2017 2:29:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170515_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170515_020000_BBC_News/BBCNEWS_20170515_020000_BBC_News.thumbs/BBCNEWS_20170515_020000_BBC_News_001738.jpg</field>
+<field name="snippet">for an emergency meeting of the un security council. emmanuel macron has promised to restore france's global standing, after being sworn in as the country's youngest president. he promised to tackle great challenges, including migration, terrorism and climate change. one of his first tasks will be to name a new prime minister. now on bbc news, dateline london.</field>
+</doc>
+</add>

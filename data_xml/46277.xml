@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201510.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151016_170000_MSNBC_Live_With_Thomas_Roberts#start/7194/end/7229</field>
+<field name="datetime">10/16/2015 19:00:09</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Thomas Roberts</field>
+<field name="showid">MSNBCW_20151016_170000_MSNBC_Live_With_Thomas_Roberts</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151016_170000_MSNBC_Live_With_Thomas_Roberts/MSNBCW_20151016_170000_MSNBC_Live_With_Thomas_Roberts.thumbs/MSNBCW_20151016_170000_MSNBC_Live_With_Thomas_Roberts_007186.jpg</field>
+<field name="snippet">translator: with the united states, we are looking to open new frontiers and cooperation, new horizons for cooperation as well. we're looking at climate change, infectious diseases, and space</field>
+</doc>
+</add>

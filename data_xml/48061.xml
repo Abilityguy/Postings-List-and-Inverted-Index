@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201505.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150508_200000_NOW_With_Alex_Wagner#start/1122/end/1157</field>
+<field name="datetime">5/8/2015 20:18:57</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20150508_200000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150508_200000_NOW_With_Alex_Wagner/MSNBCW_20150508_200000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20150508_200000_NOW_With_Alex_Wagner_001095.jpg</field>
+<field name="snippet">push forward a more aggressive climate change agenda in this moment? i believe that brown has ordered the state to cut the pollutants to 40% below 1990 levels by 2030 which are the most aggressive</field>
+</doc>
+</add>

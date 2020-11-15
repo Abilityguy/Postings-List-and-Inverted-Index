@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190414_140000_BBC_News#start/1795/end/1830</field>
+<field name="datetime">4/14/2019 14:30:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190414_140000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190414_140000_BBC_News/BBCNEWS_20190414_140000_BBC_News.thumbs/BBCNEWS_20190414_140000_BBC_News_001797.jpg</field>
+<field name="snippet">hello, and welcome to our programme. over the next half an hour, we'll bring you some of the exclusive and original journalism we have broadcast over the last week. extinction rebellion is fighting climate change and has been making</field>
+</doc>
+</add>

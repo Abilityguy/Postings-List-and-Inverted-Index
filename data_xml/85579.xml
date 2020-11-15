@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201005.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100501_000000_Countdown_With_Keith_Olbermann#start/504/end/539</field>
+<field name="datetime">5/1/2010 0:08:39</field>
+<field name="station">MSNBC</field>
+<field name="show">Countdown With Keith Olbermann</field>
+<field name="showid">MSNBC_20100501_000000_Countdown_With_Keith_Olbermann</field>
+<field name="preview">https://archive.org/download/MSNBC_20100501_000000_Countdown_With_Keith_Olbermann/MSNBC_20100501_000000_Countdown_With_Keith_Olbermann.thumbs/MSNBC_20100501_000000_Countdown_With_Keith_Olbermann_000506.jpg</field>
+<field name="snippet">they got into the debate over energy and climate change and the legislation they still think they can get through before the midterms. but just to come back here, this is bp we're talking about. this is not exxon mobil. this is the most environmentally</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201906.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190621_100000_Morning_Joe#start/6766/end/6801</field>
+<field name="datetime">6/21/2019 11:53:01</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20190621_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190621_100000_Morning_Joe/MSNBCW_20190621_100000_Morning_Joe.thumbs/MSNBCW_20190621_100000_Morning_Joe_006748.jpg</field>
+<field name="snippet">glaciers are causing changes in forest fire security. montana governor steve bullock is trying to find a way to balance the realities of climate change in a state with an energy industry that depends</field>
+</doc>
+</add>

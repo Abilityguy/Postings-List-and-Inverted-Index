@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180124_233000_Spotlight#start/229/end/264</field>
+<field name="datetime">1/24/2018 23:34:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Spotlight</field>
+<field name="showid">BBCNEWS_20180124_233000_Spotlight</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180124_233000_Spotlight/BBCNEWS_20180124_233000_Spotlight.thumbs/BBCNEWS_20180124_233000_Spotlight_000207.jpg</field>
+<field name="snippet">this plane can fly transatlantic, but it may never reach the us. unexpected turbulence amid political climate change has hit the c series hard. call it storm trump.</field>
+</doc>
+</add>

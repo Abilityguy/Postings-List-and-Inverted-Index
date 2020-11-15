@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201110.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111008_080000_Special_Report_With_Bret_Baier#start/585/end/620</field>
+<field name="datetime">10/8/2011 8:10:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20111008_080000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111008_080000_Special_Report_With_Bret_Baier/FOXNEWSW_20111008_080000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20111008_080000_Special_Report_With_Bret_Baier_000566.jpg</field>
+<field name="snippet">for some candidates pro-life is election year slogan to follow prevailing political winds. reporter: perry launched a new web attack on romney as a carbon copy of president obama when it comes to environmental regulation and climate change. i will not create jobs or</field>
+</doc>
+</add>

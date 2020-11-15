@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140214_230000_Special_Report_With_Bret_Baier#start/76/end/111</field>
+<field name="datetime">2/14/2014 23:01:31</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20140214_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140214_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20140214_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20140214_230000_Special_Report_With_Bret_Baier_000075.jpg</field>
+<field name="snippet">climate change is a fact. not everyone thinks it's that simple. california is dealing with severe drought conditions, which nasa satellite photos from last january to this january help illustrate, but kevin mccarthy from california said the drought</field>
+</doc>
+</add>

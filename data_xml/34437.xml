@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201403.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140303_110000_FOX_and_Friends#start/8364/end/8399</field>
+<field name="datetime">3/3/2014 13:19:39</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20140303_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140303_110000_FOX_and_Friends/FOXNEWSW_20140303_110000_FOX_and_Friends.thumbs/FOXNEWSW_20140303_110000_FOX_and_Friends_008355.jpg</field>
+<field name="snippet">is this the new textbook? why parents say this is crossing the line. we hear from one mom coming up. and don't believe in climate change? better switch to samsung. why apple's ceo says he doesn't want your business.</field>
+</doc>
+</add>

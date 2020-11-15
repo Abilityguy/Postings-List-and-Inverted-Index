@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201902.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190225_000000_Kasie_DC#start/3286/end/3321</field>
+<field name="datetime">2/25/2019 0:55:01</field>
+<field name="station">MSNBC</field>
+<field name="show">Kasie DC</field>
+<field name="showid">MSNBCW_20190225_000000_Kasie_DC</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190225_000000_Kasie_DC/MSNBCW_20190225_000000_Kasie_DC.thumbs/MSNBCW_20190225_000000_Kasie_DC_003268.jpg</field>
+<field name="snippet">the 'washington post' reports the white house is preparing to assemble what the paper called a quote ad hoc group of select federal scientists to reassess the government's analysis of climate change and counter conclusions</field>
+</doc>
+</add>

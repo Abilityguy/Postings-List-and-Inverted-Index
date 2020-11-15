@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201303.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130329_130000_Americas_Newsroom#start/975/end/1010</field>
+<field name="datetime">3/29/2013 13:16:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWSW_20130329_130000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130329_130000_Americas_Newsroom/FOXNEWSW_20130329_130000_Americas_Newsroom.thumbs/FOXNEWSW_20130329_130000_Americas_Newsroom_000975.jpg</field>
+<field name="snippet">of 'the hill'. good morning to you. good morning, bill. bill: why would the president want this and support it? well, president obama couldn't get climate change through a democratic congress a few years ago. the regulations on climate change are coming. everyone in washington is</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201012.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101227_110000_FOX_and_Friends#start/2329/end/2364</field>
+<field name="datetime">12/27/2010 11:39:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20101227_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101227_110000_FOX_and_Friends/FOXNEWS_20101227_110000_FOX_and_Friends.thumbs/FOXNEWS_20101227_110000_FOX_and_Friends_002310.jpg</field>
+<field name="snippet">they use climate change so there will be wild fluctuations they now predict in weather though they used to say it would be warmer and there was an op ed yesterday in 'the new york times' that basically said you know how sometimes it's too cold for snow? too cold for it to snow.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_200000_BBC_News#start/1069/end/1104</field>
+<field name="datetime">12/3/2018 20:18:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181203_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_200000_BBC_News/BBCNEWS_20181203_200000_BBC_News.thumbs/BBCNEWS_20181203_200000_BBC_News_001048.jpg</field>
+<field name="snippet">of legal advice on brexit, as the attorney general issues a summary of the guidance. sir david attenborough warns that climate change is the greatest threat to humanity for thousands of years, as critical un talks get under way.</field>
+</doc>
+</add>

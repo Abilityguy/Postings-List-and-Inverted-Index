@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191222_100000_BBC_News#start/90/end/125</field>
+<field name="datetime">12/22/2019 10:01:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191222_100000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191222_100000_BBC_News/BBCNEWS_20191222_100000_BBC_News.thumbs/BBCNEWS_20191222_100000_BBC_News_000087.jpg</field>
+<field name="snippet">on holiday while his country faces a bushfire crisis. mr morrison said if he could go back, he would have made a different choice. the fires are expected to worsen with more hot dry weather expected. mr morrison did acknowledge the role of climate change,</field>
+</doc>
+</add>

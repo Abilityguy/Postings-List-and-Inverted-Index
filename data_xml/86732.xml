@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191230_013000_Weather_World#start/1048/end/1083</field>
+<field name="datetime">12/30/2019 1:47:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20191230_013000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191230_013000_Weather_World/BBCNEWS_20191230_013000_Weather_World.thumbs/BBCNEWS_20191230_013000_Weather_World_001048.jpg</field>
+<field name="snippet">it's very clear that much of that damage is exacerbated by climate change. so we've just talked about how climate change can cause heavier rainfall and a lot of the damage associated with cyclones, this comes from the flooding,</field>
+</doc>
+</add>

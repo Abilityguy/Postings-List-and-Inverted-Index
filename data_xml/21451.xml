@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100109_050000_Hannity#start/612/end/647</field>
+<field name="datetime">1/9/2010 5:10:27</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20100109_050000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100109_050000_Hannity/FOXNEWS_20100109_050000_Hannity.thumbs/FOXNEWS_20100109_050000_Hannity_000600.jpg</field>
+<field name="snippet">the 'f' bomb at every meeting. helen thomas wants to know why the terrorists hate us. put away hats and gloves global warming will be here, any day now.ís.</field>
+</doc>
+</add>

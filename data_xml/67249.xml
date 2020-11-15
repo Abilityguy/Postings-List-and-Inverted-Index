@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140515_100000_Morning_Joe#start/25/end/60</field>
+<field name="datetime">5/15/2014 10:00:40</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20140515_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140515_100000_Morning_Joe/MSNBCW_20140515_100000_Morning_Joe.thumbs/MSNBCW_20140515_100000_Morning_Joe_000045.jpg</field>
+<field name="snippet">i went out in a t-shirt and it was 15 degrees. i know. what happened? this is just inclement weather. those climate change deniers, they make me mad.</field>
+</doc>
+</add>

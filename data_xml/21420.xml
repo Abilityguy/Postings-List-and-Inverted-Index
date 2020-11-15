@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100116_090000_Special_Report_With_Bret_Baier#start/1778/end/1813</field>
+<field name="datetime">1/16/2010 9:29:53</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100116_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100116_090000_Special_Report_With_Bret_Baier/FOXNEWS_20100116_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100116_090000_Special_Report_With_Bret_Baier_001075.jpg</field>
+<field name="snippet">now the latest from the political grapevine. actor danny glover says the earthquake in haiti is result of global warming. he told grit tv it could have happened to any of the caribbean island nations. 'they are all in peril because of global warming.' then he limited the failure</field>
+</doc>
+</add>

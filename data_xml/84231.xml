@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190419_200000_World_News_Today#start/895/end/930</field>
+<field name="datetime">4/19/2019 20:15:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190419_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190419_200000_World_News_Today/BBCNEWS_20190419_200000_World_News_Today.thumbs/BBCNEWS_20190419_200000_World_News_Today_000868.jpg</field>
+<field name="snippet">had poured onto london's streets, drafted in to end the climate change protests that had brought parts of the capital to a standstill. the home secretary says he expects the police to use the full force of the law to end that disruption.</field>
+</doc>
+</add>

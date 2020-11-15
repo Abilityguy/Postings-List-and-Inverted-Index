@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201604.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160424_190000_Americas_Election_HQ#start/345/end/380</field>
+<field name="datetime">4/24/2016 19:06:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Election HQ</field>
+<field name="showid">FOXNEWSW_20160424_190000_Americas_Election_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160424_190000_Americas_Election_HQ/FOXNEWSW_20160424_190000_Americas_Election_HQ.thumbs/FOXNEWSW_20160424_190000_Americas_Election_HQ_000327.jpg</field>
+<field name="snippet">today he went after climate change and wall street. this morning the chair of the dnc said she's confident the sides cocan come together. regardless of the intensity</field>
+</doc>
+</add>

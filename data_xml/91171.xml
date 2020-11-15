@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190604_040000_Tucker_Carlson_Tonight#start/178/end/213</field>
+<field name="datetime">6/4/2019 4:03:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190604_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190604_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190604_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190604_040000_Tucker_Carlson_Tonight_000179.jpg</field>
+<field name="snippet">billionaire will ride to the rescue and make everything okay. you know what they don't like? they don't like the reality. that infuriates them. biology is real. russia did not beat hillary. global warming isn't actually killing millions of people</field>
+</doc>
+</add>

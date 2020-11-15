@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201906.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190609_220000_Meet_the_Press#start/2905/end/2940</field>
+<field name="datetime">6/9/2019 22:48:40</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20190609_220000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190609_220000_Meet_the_Press/MSNBCW_20190609_220000_Meet_the_Press.thumbs/MSNBCW_20190609_220000_Meet_the_Press_002880.jpg</field>
+<field name="snippet">my question is climate change is real and we've got to get going on it. gm is one of our largest employers, how do we make sure that factory is not negatively impacted by your policies. good question. great question.</field>
+</doc>
+</add>

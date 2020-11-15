@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190502_013000_Wednesday_in_Parliament#start/715/end/750</field>
+<field name="datetime">5/2/2019 1:42:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Wednesday in Parliament</field>
+<field name="showid">BBCNEWS_20190502_013000_Wednesday_in_Parliament</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190502_013000_Wednesday_in_Parliament/BBCNEWS_20190502_013000_Wednesday_in_Parliament.thumbs/BBCNEWS_20190502_013000_Wednesday_in_Parliament_000717.jpg</field>
+<field name="snippet">the commons has declared an 'environment and climate emergency'. mps supported a labour motion which also called on the uk government to commit to achieving net zero emissions before the year 2050. recent protests against climate change and the extinction of species have hit the headlines. jeremy corbyn paid tribute to the many young people and others who've taken part.</field>
+</doc>
+</add>

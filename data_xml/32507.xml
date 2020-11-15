@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201211.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121101_190000_Studio_B_With_Shepard_Smith#start/1375/end/1410</field>
+<field name="datetime">11/1/2012 19:23:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Studio B With Shepard Smith</field>
+<field name="showid">FOXNEWSW_20121101_190000_Studio_B_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121101_190000_Studio_B_With_Shepard_Smith/FOXNEWSW_20121101_190000_Studio_B_With_Shepard_Smith.thumbs/FOXNEWSW_20121101_190000_Studio_B_With_Shepard_Smith_001347.jpg</field>
+<field name="snippet">given the devastation should be enough to compel all elected leaders to take immediate action,' endorsing president obama based on his leadership on climate change.</field>
+</doc>
+</add>

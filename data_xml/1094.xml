@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170511_180000_100_Days#start/43/end/78</field>
+<field name="datetime">5/11/2017 18:00:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">100 Days</field>
+<field name="showid">BBCNEWS_20170511_180000_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170511_180000_100_Days/BBCNEWS_20170511_180000_100_Days.thumbs/BBCNEWS_20170511_180000_100_Days_000058.jpg</field>
+<field name="snippet">where the ice is getting thinner, summers are getting longer, and climate change is far from just a political debate. also, a regional election in germany is suddenly in the spotlight. could the result help predict</field>
+</doc>
+</add>

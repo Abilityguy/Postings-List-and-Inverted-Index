@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201805.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180515_040000_Tucker_Carlson_Tonight#start/2435/end/2470</field>
+<field name="datetime">5/15/2018 4:40:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20180515_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180515_040000_Tucker_Carlson_Tonight/FOXNEWSW_20180515_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20180515_040000_Tucker_Carlson_Tonight_002337.jpg</field>
+<field name="snippet">tucker: you've seen the many headlines. you've heard the self-described experts, global warming is on the brink of exterminating the human race. for more than 20 years, we've had just one or two years left to take action before it's too late and yet somehow it hasn't come yet.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170828_150000_BBC_News#start/598/end/633</field>
+<field name="datetime">8/28/2017 15:10:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170828_150000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170828_150000_BBC_News/BBCNEWS_20170828_150000_BBC_News.thumbs/BBCNEWS_20170828_150000_BBC_News_000598.jpg</field>
+<field name="snippet">we we re well and get their stuff out. i think - we were well aware and informed, yes. the other thing, you're a teacher. we know that climate change is happening here. that the water levels are getting warmer, that means more moisture in the air. do you think that means we can expect more moisture feeding more hurricanes? we certainly hope not.</field>
+</doc>
+</add>

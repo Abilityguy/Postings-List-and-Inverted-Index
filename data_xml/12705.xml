@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170707_043000_World_Business_Report#start/886/end/921</field>
+<field name="datetime">7/7/2017 4:45:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World Business Report</field>
+<field name="showid">BBCNEWS_20170707_043000_World_Business_Report</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170707_043000_World_Business_Report/BBCNEWS_20170707_043000_World_Business_Report.thumbs/BBCNEWS_20170707_043000_World_Business_Report_000867.jpg</field>
+<field name="snippet">talks today on the sidelines of the summit. world leaders will discuss a range of issues including trade, climate change and the threat posed by north korea. mexican authorities say 28 inmates have been killed in a fight in a prison in the coastal</field>
+</doc>
+</add>

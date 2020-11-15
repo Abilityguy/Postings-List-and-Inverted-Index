@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_040000_BBC_News#start/1193/end/1228</field>
+<field name="datetime">1/16/2020 4:20:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200116_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_040000_BBC_News/BBCNEWS_20200116_040000_BBC_News.thumbs/BBCNEWS_20200116_040000_BBC_News_001168.jpg</field>
+<field name="snippet">measurements taken at observatories like this one show that our planet is heating up fast. already, the world's temperature has risen by 1.1 degrees above pre-industrial levels. scientists though say we need to stop temperatures from rising above 1.5 degrees to stop the worst effects of global warming but, with our current climate policies, we are heading for more than three</field>
+</doc>
+</add>

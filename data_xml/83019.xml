@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191023_120000_BBC_News_at_One#start/145/end/180</field>
+<field name="datetime">10/23/2019 12:02:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20191023_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191023_120000_BBC_News_at_One/BBCNEWS_20191023_120000_BBC_News_at_One.thumbs/BBCNEWS_20191023_120000_BBC_News_at_One_000119.jpg</field>
+<field name="snippet">of economic deprivation, war, famine, catastrophic climate change, many adverse conditions people are fleeing from, but we mustn't lose sight of the fact that these people are victims. i would also like an</field>
+</doc>
+</add>

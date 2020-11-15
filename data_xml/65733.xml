@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190215_010000_Tucker_Carlson_Tonight#start/1803/end/1838</field>
+<field name="datetime">2/15/2019 1:30:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190215_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190215_010000_Tucker_Carlson_Tonight/FOXNEWSW_20190215_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190215_010000_Tucker_Carlson_Tonight_001800.jpg</field>
+<field name="snippet">professional class, consultants, i bankers, social lites, eager to lecture you about open borders and global warming from their gated communities. nobody has seen that change better than the hillbilly he</field>
+</doc>
+</add>

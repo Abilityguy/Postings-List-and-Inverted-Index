@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171231_040000_BBC_News#start/1173/end/1208</field>
+<field name="datetime">12/31/2017 4:19:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171231_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171231_040000_BBC_News/BBCNEWS_20171231_040000_BBC_News.thumbs/BBCNEWS_20171231_040000_BBC_News_001168.jpg</field>
+<field name="snippet">cold arctic and mass over the eastern united states by an unusual jetstrea m eastern united states by an unusual jetstream pattern. i am a client, climate change scientists. influence on these weather events</field>
+</doc>
+</add>

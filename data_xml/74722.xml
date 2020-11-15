@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_000000_Newsday#start/29/end/64</field>
+<field name="datetime">1/17/2020 0:00:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20200117_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_000000_Newsday/BBCNEWS_20200117_000000_Newsday.thumbs/BBCNEWS_20200117_000000_Newsday_000029.jpg</field>
+<field name="snippet">it's a hoax, it's a hoax. everybody knows that. it's a complete hoax. the world has reached the point of climate change crisis - a stark warning from one of the world's most influential environmentalists.</field>
+</doc>
+</add>

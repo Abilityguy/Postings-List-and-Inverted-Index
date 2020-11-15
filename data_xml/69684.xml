@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201611.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161114_060000_In_Other_News#start/3288/end/3323</field>
+<field name="datetime">11/14/2016 6:55:03</field>
+<field name="station">MSNBC</field>
+<field name="show">In Other News</field>
+<field name="showid">MSNBCW_20161114_060000_In_Other_News</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161114_060000_In_Other_News/MSNBCW_20161114_060000_In_Other_News.thumbs/MSNBCW_20161114_060000_In_Other_News_003268.jpg</field>
+<field name="snippet">the bill is passed. the passage of the climate change bill is a fleeting victory for environmentalists in a struggle that will only intensify with every year. environmentalists won a</field>
+</doc>
+</add>

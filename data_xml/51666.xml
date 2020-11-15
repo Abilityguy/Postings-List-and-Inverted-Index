@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181218_130000_BBC_News_at_One#start/179/end/214</field>
+<field name="datetime">12/18/2018 13:03:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20181218_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181218_130000_BBC_News_at_One/BBCNEWS_20181218_130000_BBC_News_at_One.thumbs/BBCNEWS_20181218_130000_BBC_News_at_One_000177.jpg</field>
+<field name="snippet">are all using too much of the planet's resources buying stuff and then throwing it away. that, in turn, generates greenhouse gases that are overheating the earth. it has got to change, they say, government, businesses, you and me.</field>
+</doc>
+</add>

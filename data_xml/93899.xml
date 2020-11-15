@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190725_160000_BBC_News_at_Five#start/627/end/662</field>
+<field name="datetime">7/25/2019 16:10:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190725_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190725_160000_BBC_News_at_Five/BBCNEWS_20190725_160000_BBC_News_at_Five.thumbs/BBCNEWS_20190725_160000_BBC_News_at_Five_000628.jpg</field>
+<field name="snippet">variable. we are comparing today's figures with 2003 so you have to zoom out, look at the big picture, how are things changing at the time? that is when we start to see that climate change is playing a role in extreme weather, including heatwaves becoming more frequent. so last year, 2018, joint hottest summer on</field>
+</doc>
+</add>

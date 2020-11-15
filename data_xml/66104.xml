@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190203_210000_Americas_News_HQ#start/1114/end/1149</field>
+<field name="datetime">2/3/2019 21:18:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20190203_210000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190203_210000_Americas_News_HQ/FOXNEWSW_20190203_210000_Americas_News_HQ.thumbs/FOXNEWSW_20190203_210000_Americas_News_HQ_001108.jpg</field>
+<field name="snippet">democratic president, if he wants to declare a national emergency on climate change or medicare for all, they find this could lay the foundation for something like that. i think depending on what happens on tuesday night, if he does declare a national emergency, we will see a lot of</field>
+</doc>
+</add>

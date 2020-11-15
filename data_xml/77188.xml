@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191108_194500_Newswatch#start/15/end/50</field>
+<field name="datetime">11/8/2019 19:45:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newswatch</field>
+<field name="showid">BBCNEWS_20191108_194500_Newswatch</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191108_194500_Newswatch/BBCNEWS_20191108_194500_Newswatch.thumbs/BBCNEWS_20191108_194500_Newswatch_000029.jpg</field>
+<field name="snippet">is now up in smoke. bushfires are common in australia. but this is a dramatic start to the fire season which scientists warn will grow longer and more intense because of climate change.</field>
+</doc>
+</add>

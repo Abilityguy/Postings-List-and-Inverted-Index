@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201002.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100213_130000_MSNBC_News_Live#start/2187/end/2222</field>
+<field name="datetime">2/13/2010 13:36:42</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100213_130000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100213_130000_MSNBC_News_Live/MSNBC_20100213_130000_MSNBC_News_Live.thumbs/MSNBC_20100213_130000_MSNBC_News_Live_002186.jpg</field>
+<field name="snippet">detractors. the weather is giving some in washington to revive their argument against climate changed. we're joined by coral davenport. the global warming controversy, all this snow has really heated</field>
+</doc>
+</add>

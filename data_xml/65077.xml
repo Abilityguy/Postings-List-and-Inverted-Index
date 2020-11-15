@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190321_040000_Tucker_Carlson_Tonight#start/1140/end/1175</field>
+<field name="datetime">3/21/2019 4:19:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190321_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190321_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190321_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190321_040000_Tucker_Carlson_Tonight_001139.jpg</field>
+<field name="snippet">little foot soldiers that they are and what they're telling you is that the border is fine. i don't care what's happening in your neighborhood, it's fine. do you know what the real threat is? it's something you can't see, but it's deadlier than godzilla and vladimir putin combined, it's global warming and it's going to kill us all.</field>
+</doc>
+</add>

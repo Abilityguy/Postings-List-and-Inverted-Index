@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201101.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110106_200000_MSNBC_News_Live#start/2365/end/2400</field>
+<field name="datetime">1/6/2011 20:39:40</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20110106_200000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20110106_200000_MSNBC_News_Live/MSNBC_20110106_200000_MSNBC_News_Live.thumbs/MSNBC_20110106_200000_MSNBC_News_Live_002364.jpg</field>
+<field name="snippet">tremendous opportunities that come with overcoming global warming in terms of creating a clean energy future. we're excited about the opportunities that are there to work with anybody, mainstream environmentalists or whoever who wants to create this clean</field>
+</doc>
+</add>

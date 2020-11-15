@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201609.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160901_220000_Special_Report_With_Bret_Baier#start/1914/end/1949</field>
+<field name="datetime">9/1/2016 22:32:09</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20160901_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160901_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20160901_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20160901_220000_Special_Report_With_Bret_Baier_001887.jpg</field>
+<field name="snippet">from here. reporter: where he told the world conservation congress global warming is real. no nation, not each one as powerful as the united states, is immune from a changing climate. reporter: which is why last week the president expanded the</field>
+</doc>
+</add>

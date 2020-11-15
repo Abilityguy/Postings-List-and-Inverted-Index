@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201411.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20141112_140000_The_Daily_Rundown#start/79/end/114</field>
+<field name="datetime">11/12/2014 14:01:34</field>
+<field name="station">MSNBC</field>
+<field name="show">The Daily Rundown</field>
+<field name="showid">MSNBCW_20141112_140000_The_Daily_Rundown</field>
+<field name="preview">https://archive.org/download/MSNBCW_20141112_140000_The_Daily_Rundown/MSNBCW_20141112_140000_The_Daily_Rundown.thumbs/MSNBCW_20141112_140000_The_Daily_Rundown_000075.jpg</field>
+<field name="snippet">it is wednesday, november 12th, 2014. this is the 'daily rundown.' historic climate change agreement that was announced by president obama overnight in china. a deal between the world's top two polluters that came about after months of secret talks</field>
+</doc>
+</add>

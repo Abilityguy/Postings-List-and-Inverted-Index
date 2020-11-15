@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191209_230000_BBC_News#start/682/end/717</field>
+<field name="datetime">12/9/2019 23:11:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191209_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191209_230000_BBC_News/BBCNEWS_20191209_230000_BBC_News.thumbs/BBCNEWS_20191209_230000_BBC_News_000659.jpg</field>
+<field name="snippet">many in this audience are keen to have their say on brexit. my grandparents had two votes on this, while i myself, who will be affected by this, have not had one. and what about climate change?</field>
+</doc>
+</add>

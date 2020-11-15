@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201612.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161209_090000_Special_Report_With_Bret_Baier#start/721/end/756</field>
+<field name="datetime">12/9/2016 9:12:16</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20161209_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161209_090000_Special_Report_With_Bret_Baier/FOXNEWSW_20161209_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20161209_090000_Special_Report_With_Bret_Baier_000718.jpg</field>
+<field name="snippet">fact that he believes x, y or z about climate change, as if we have a religious test for office in the country, because as we just heard, climate change is a kind of religion. the fact is, we don't care if</field>
+</doc>
+</add>

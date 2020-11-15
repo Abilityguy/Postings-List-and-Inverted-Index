@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181213_080000_Fox_News__Night_With_Shannon_Bream#start/2188/end/2223</field>
+<field name="datetime">12/13/2018 8:36:43</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News  Night With Shannon Bream</field>
+<field name="showid">FOXNEWSW_20181213_080000_Fox_News__Night_With_Shannon_Bream</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181213_080000_Fox_News__Night_With_Shannon_Bream/FOXNEWSW_20181213_080000_Fox_News__Night_With_Shannon_Bream.thumbs/FOXNEWSW_20181213_080000_Fox_News__Night_With_Shannon_Bream_002187.jpg</field>
+<field name="snippet">as gas prices are decent and they see the economy trending upwards, those are the things they look for and want to see where to cut costs on issues like healthcare and a few cultural things like immigration that they do care about or climate change.</field>
+</doc>
+</add>

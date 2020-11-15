@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100429_100000_FOX_and_Friends#start/3315/end/3350</field>
+<field name="datetime">4/29/2010 10:55:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100429_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100429_100000_FOX_and_Friends/FOXNEWS_20100429_100000_FOX_and_Friends.thumbs/FOXNEWS_20100429_100000_FOX_and_Friends_003304.jpg</field>
+<field name="snippet">tsunamis, this is going to impact people's mental well being because they'll worry about it and because when it happens, it will cause all kinds of post-traumatic stress disorder. listen, i'm not worried. number one, we got to find out how real is global warming and is it 10 years off, 100 years</field>
+</doc>
+</add>

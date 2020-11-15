@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191023_020000_BBC_News#start/1471/end/1506</field>
+<field name="datetime">10/23/2019 2:24:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191023_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191023_020000_BBC_News/BBCNEWS_20191023_020000_BBC_News.thumbs/BBCNEWS_20191023_020000_BBC_News_001468.jpg</field>
+<field name="snippet">just time for these pictures from the arctic. these are some of the five new islands which have appeared from underneath melting glaciers there. they were found by the russian navy as russia and other nations are hoping to open up new shipping routes and exploit resources that have become easier to reach now that global warming is shrinking</field>
+</doc>
+</add>

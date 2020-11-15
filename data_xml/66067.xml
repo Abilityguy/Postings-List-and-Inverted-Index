@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190207_230000_Special_Report_With_Bret_Baier#start/2551/end/2586</field>
+<field name="datetime">2/7/2019 23:42:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20190207_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190207_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20190207_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20190207_230000_Special_Report_With_Bret_Baier_002550.jpg</field>
+<field name="snippet">thing, certainly made a big splash. bret: alexandria ocasio-cortez obviously has made a big splash since her time here she is not on the committee that deals with climate change legislation, which is also kind of surprising. right. she was asked about that on television just earlier and</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201308.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130816_150000_Happening_Now#start/5079/end/5114</field>
+<field name="datetime">8/16/2013 16:24:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20130816_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130816_150000_Happening_Now/FOXNEWSW_20130816_150000_Happening_Now.thumbs/FOXNEWSW_20130816_150000_Happening_Now_005055.jpg</field>
+<field name="snippet">jobs, but there is a risk. dan springer is live in seattle. tell us about the stakes here. reporter: well, of course, whenever you talk about oil, there's a lot at stake. you've got tax revenue, jobs, gas prices, and green groups say global warming, and that's why</field>
+</doc>
+</add>

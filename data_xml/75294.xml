@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_090000_BBC_News_at_9#start/808/end/843</field>
+<field name="datetime">1/17/2020 9:13:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20200117_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_090000_BBC_News_at_9/BBCNEWS_20200117_090000_BBC_News_at_9.thumbs/BBCNEWS_20200117_090000_BBC_News_at_9_000809.jpg</field>
+<field name="snippet">or any other major city could possibly be carbon neutral in as little as ten years' time, but the council says it wants to send a signal that at least it is trying. and this matters, because an international summit on climate change is due to take place here in november, and the world will be watching</field>
+</doc>
+</add>

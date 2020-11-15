@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201009.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100914_180000_MSNBC_News_Live#start/2157/end/2192</field>
+<field name="datetime">9/14/2010 18:36:12</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100914_180000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100914_180000_MSNBC_News_Live/MSNBC_20100914_180000_MSNBC_News_Live.thumbs/MSNBC_20100914_180000_MSNBC_News_Live_002130.jpg</field>
+<field name="snippet">this is happening for many reasons. also because some people believe global warming has something to do with the bears going into the different communities. a number of scientists out there. there's some evidence to suggest the resources that bears depend upon, for example, pine nuts which grow in high altitude</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181122_030000_BBC_News#start/1187/end/1222</field>
+<field name="datetime">11/22/2018 3:20:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181122_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181122_030000_BBC_News/BBCNEWS_20181122_030000_BBC_News.thumbs/BBCNEWS_20181122_030000_BBC_News_001167.jpg</field>
+<field name="snippet">talks in poland in less than two weeks' time. the people's seat is meant to represent the hundreds of millions of people there are around the world whose lives are about to be affected, or have already been affected, by climate change, so that it</field>
+</doc>
+</add>

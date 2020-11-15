@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201009.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100921_130000_Americas_Newsroom#start/6304/end/6339</field>
+<field name="datetime">9/21/2010 14:45:19</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20100921_130000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100921_130000_Americas_Newsroom/FOXNEWS_20100921_130000_Americas_Newsroom.thumbs/FOXNEWS_20100921_130000_Americas_Newsroom_006300.jpg</field>
+<field name="snippet">award-winning director and producer behind al gore's global warming documentary, 'an inconvenient truth' and randy weingarten, president of the american federation of teachers, praises his attempt to get the country talking about education but is not happy about what she</field>
+</doc>
+</add>

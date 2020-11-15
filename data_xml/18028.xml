@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201409.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140929_200000_NOW_With_Alex_Wagner#start/1242/end/1277</field>
+<field name="datetime">9/29/2014 20:20:57</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20140929_200000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140929_200000_NOW_With_Alex_Wagner/MSNBCW_20140929_200000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20140929_200000_NOW_With_Alex_Wagner_001215.jpg</field>
+<field name="snippet">behind climate change. i can't say one way or another what is the direct impact. i've heard arguments from both sides. back with me, sam stein.</field>
+</doc>
+</add>

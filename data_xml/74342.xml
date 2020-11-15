@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200118_060000_Breakfast#start/5022/end/5057</field>
+<field name="datetime">1/18/2020 7:23:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20200118_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200118_060000_Breakfast/BBCNEWS_20200118_060000_Breakfast.thumbs/BBCNEWS_20200118_060000_Breakfast_005007.jpg</field>
+<field name="snippet">and we will see what happens in the next two weeks. we have a countdown happening now. thank you. 23 minutes past seven. you may think that lakes and rivers in britain are environmentally friendly, but did you know they release greenhouse gases into the air?</field>
+</doc>
+</add>

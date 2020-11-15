@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201501.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150128_060000_Hannity#start/3135/end/3170</field>
+<field name="datetime">1/28/2015 6:52:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20150128_060000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150128_060000_Hannity/FOXNEWSW_20150128_060000_Hannity.thumbs/FOXNEWSW_20150128_060000_Hannity_003135.jpg</field>
+<field name="snippet">we understand that there is global warming we know that warmer atmosphere holds more moisture. then it cools and water vapor is converted into more snow. did you tell me the last 15</field>
+</doc>
+</add>

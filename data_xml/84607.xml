@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190417_170000_BBC_News_at_Six#start/510/end/545</field>
+<field name="datetime">4/17/2019 17:08:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20190417_170000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190417_170000_BBC_News_at_Six/BBCNEWS_20190417_170000_BBC_News_at_Six.thumbs/BBCNEWS_20190417_170000_BBC_News_at_Six_000507.jpg</field>
+<field name="snippet">for a third day in a row, climate change activists from extinction rebellion have been protesting in central london. a goup gathered outside jeremy corbyn's home while others glued themselves to a carriage on the docklands light railway. so far, some 300 of them have been arrested. tom symonds is at oxford circus.</field>
+</doc>
+</add>

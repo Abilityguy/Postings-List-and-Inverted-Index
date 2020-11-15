@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201004.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100430_160000_MSNBC_News_Live#start/2249/end/2284</field>
+<field name="datetime">4/30/2010 16:37:44</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100430_160000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100430_160000_MSNBC_News_Live/MSNBC_20100430_160000_MSNBC_News_Live.thumbs/MSNBC_20100430_160000_MSNBC_News_Live_002246.jpg</field>
+<field name="snippet">pickens has spent millions of his own money to push for climate change legislation. we'd like to make a clarification. earlier this month on a segment about florida groups fighting over rights to the tea party</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180609_090000_BBC_News#start/649/end/684</field>
+<field name="datetime">6/9/2018 9:11:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180609_090000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180609_090000_BBC_News/BBCNEWS_20180609_090000_BBC_News.thumbs/BBCNEWS_20180609_090000_BBC_News_000627.jpg</field>
+<field name="snippet">from the other six nations. there are big divides over climate change, iran and the israel-palestinian conflict. germany's chancellor angela merkel is one of those suggesting it may be</field>
+</doc>
+</add>

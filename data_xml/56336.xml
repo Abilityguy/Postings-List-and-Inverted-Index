@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201608.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160806_150000_Forbes_on_Fox#start/1409/end/1444</field>
+<field name="datetime">8/6/2016 15:23:44</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Forbes on Fox</field>
+<field name="showid">FOXNEWSW_20160806_150000_Forbes_on_Fox</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160806_150000_Forbes_on_Fox/FOXNEWSW_20160806_150000_Forbes_on_Fox.thumbs/FOXNEWSW_20160806_150000_Forbes_on_Fox_001407.jpg</field>
+<field name="snippet">gas, goal, and everything, this could end up costing us some cash. well, i'm all in favor of environmental aquarness. but i don't want to bury us in environmental impact statements. we have a simpler solution. let's just have a carbon tax. well, steve forbes that's in</field>
+</doc>
+</add>

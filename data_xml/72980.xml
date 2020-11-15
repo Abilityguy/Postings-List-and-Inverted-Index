@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190109_060000_Breakfast#start/5101/end/5136</field>
+<field name="datetime">1/9/2019 7:25:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190109_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190109_060000_Breakfast/BBCNEWS_20190109_060000_Breakfast.thumbs/BBCNEWS_20190109_060000_Breakfast_005097.jpg</field>
+<field name="snippet">are very specialised and you can't get hold of them or you can't get hold of the service information. a study shows that many major household appliances are not lasting as long as they did before. this impacts on climate change, because manufacturing replacement machines creates greenhouse gases. governments across europe,</field>
+</doc>
+</add>

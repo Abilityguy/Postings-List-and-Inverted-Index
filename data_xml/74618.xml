@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200115_230000_BBC_News#start/205/end/240</field>
+<field name="datetime">1/15/2020 23:03:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200115_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200115_230000_BBC_News/BBCNEWS_20200115_230000_BBC_News.thumbs/BBCNEWS_20200115_230000_BBC_News_000177.jpg</field>
+<field name="snippet">higher temperatures will mean more heatwaves and droughts, sea levels would rise and rain would intensify, bringing more floods like the ones that hit yorkshire last year. what we have to remember is that the climate crisis is going to affect our economy</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180125_010000_Tucker_Carlson_Tonight#start/2583/end/2618</field>
+<field name="datetime">1/25/2018 1:43:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20180125_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180125_010000_Tucker_Carlson_Tonight/FOXNEWSW_20180125_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20180125_010000_Tucker_Carlson_Tonight_002577.jpg</field>
+<field name="snippet">traveled around the world and seen countless tire fires and progress in downtowns around the world, you can talk -- and this is my point. you can talk all we want about global warming as a threat, but if you're the entire fires go burn in the middle of your city and your flying on a private</field>
+</doc>
+</add>

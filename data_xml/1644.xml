@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200908.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20090827_100000_Morning_Joe#start/9367/end/9402</field>
+<field name="datetime">8/27/2009 12:36:22</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20090827_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20090827_100000_Morning_Joe/MSNBC_20090827_100000_Morning_Joe.thumbs/MSNBC_20090827_100000_Morning_Joe_009355.jpg</field>
+<field name="snippet">two voices in the united states senate, under any circumstances, but especially now with these profoundly important proposals before the congress on health care or climate change or all the different ways in which the states look to the federal government for help right now to</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191212_040000_BBC_News#start/44/end/79</field>
+<field name="datetime">12/12/2019 4:00:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191212_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191212_040000_BBC_News/BBCNEWS_20191212_040000_BBC_News.thumbs/BBCNEWS_20191212_040000_BBC_News_000028.jpg</field>
+<field name="snippet">the international court ofjustice is set to hear from gambia's lawyers that rohingya muslims still face an ongoing risk of genocide. greta thunberg accuses governments of avoiding real action on climate change, as she has named time magazine's person of the year.</field>
+</doc>
+</add>

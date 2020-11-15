@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201606.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160612_050000_The_Greg_Gutfeld_Show#start/215/end/250</field>
+<field name="datetime">6/12/2016 5:03:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Greg Gutfeld Show</field>
+<field name="showid">FOXNEWSW_20160612_050000_The_Greg_Gutfeld_Show</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160612_050000_The_Greg_Gutfeld_Show/FOXNEWSW_20160612_050000_The_Greg_Gutfeld_Show.thumbs/FOXNEWSW_20160612_050000_The_Greg_Gutfeld_Show_000207.jpg</field>
+<field name="snippet">something to think about. so what's going to happen in the next 75 years as we wait for these e-mails? global warming will have wiped out manhattan, florida, and hopefully justin bieber. larry king will interview</field>
+</doc>
+</add>

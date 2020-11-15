@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201302.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130206_160000_Happening_Now#start/575/end/610</field>
+<field name="datetime">2/6/2013 16:09:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20130206_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130206_160000_Happening_Now/FOXNEWSW_20130206_160000_Happening_Now.thumbs/FOXNEWSW_20130206_160000_Happening_Now_000555.jpg</field>
+<field name="snippet">challenges ahead. while president obama doesn't have to worry about re-election a lot of his democratic colleagues do. so the president traveled up to annapolis today to rally support and encourage unity on some of the tough issues ahead including climate change, immigration, gun control and taxes.</field>
+</doc>
+</add>

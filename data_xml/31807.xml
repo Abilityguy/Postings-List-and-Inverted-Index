@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201108.csv</field>
+<field name="url">https://archive.org/details/CNNW_20110818_030000_John_King_USA#start/187/end/222</field>
+<field name="datetime">8/18/2011 3:03:22</field>
+<field name="station">CNN</field>
+<field name="show">John King USA</field>
+<field name="showid">CNNW_20110818_030000_John_King_USA</field>
+<field name="preview">https://archive.org/download/CNNW_20110818_030000_John_King_USA/CNNW_20110818_030000_John_King_USA.thumbs/CNNW_20110818_030000_John_King_USA_000177.jpg</field>
+<field name="snippet">this gallup poll. do you believe increasing earth's temperature is due to human activities? 352% say yes. natural changes 43%. so a majority of americans say humans are contributing to global warming. governor perry clearly questions and disputes that.</field>
+</doc>
+</add>

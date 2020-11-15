@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090716_100000_FOX_and_Friends#start/9489/end/9524</field>
+<field name="datetime">7/16/2009 12:38:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20090716_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090716_100000_FOX_and_Friends/FOXNEWS_20090716_100000_FOX_and_Friends.thumbs/FOXNEWS_20090716_100000_FOX_and_Friends_009476.jpg</field>
+<field name="snippet">right-wingers who don't believe in global warming even know the temperature shows that the earth has warmed in the last 30 years, three times faster than the previous hundred. that's in stone. you don't debate that. but there are people that say it's a big con.</field>
+</doc>
+</add>

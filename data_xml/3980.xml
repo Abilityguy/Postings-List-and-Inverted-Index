@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201710.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171003_123000_BBC_News#start/493/end/528</field>
+<field name="datetime">10/3/2017 12:38:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171003_123000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171003_123000_BBC_News/BBCNEWS_20171003_123000_BBC_News.thumbs/BBCNEWS_20171003_123000_BBC_News_000477.jpg</field>
+<field name="snippet">afternoon, yes, the archbishops who are gathered here, they had a meeting yesterday, they were hoping to discuss everything from how to grow the church to climate change to social inequality, but here we are</field>
+</doc>
+</add>

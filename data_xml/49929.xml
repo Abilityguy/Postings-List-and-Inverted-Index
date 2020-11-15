@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180629_100000_FOX__Friends#start/8705/end/8740</field>
+<field name="datetime">6/29/2018 12:25:20</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20180629_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180629_100000_FOX__Friends/FOXNEWSW_20180629_100000_FOX__Friends.thumbs/FOXNEWSW_20180629_100000_FOX__Friends_008698.jpg</field>
+<field name="snippet">action against global warming, the pontiff hosting a climate change summit at the vatican next week. environmental activists and researchers expected to attend. welcome to this edition of</field>
+</doc>
+</add>

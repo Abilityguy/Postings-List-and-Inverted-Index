@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201702.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170212_070000_Watters_World#start/1790/end/1825</field>
+<field name="datetime">2/12/2017 7:30:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Watters World</field>
+<field name="showid">FOXNEWSW_20170212_070000_Watters_World</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170212_070000_Watters_World/FOXNEWSW_20170212_070000_Watters_World.thumbs/FOXNEWSW_20170212_070000_Watters_World_001527.jpg</field>
+<field name="snippet">climate change. you know what i call climateulio. 'watters world.' i was a business guy. i got good press.</field>
+</doc>
+</add>

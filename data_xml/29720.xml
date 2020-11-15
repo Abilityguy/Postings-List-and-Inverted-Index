@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191129_190000_MSNBC_Live#start/3020/end/3055</field>
+<field name="datetime">11/29/2019 19:50:35</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20191129_190000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191129_190000_MSNBC_Live/MSNBCW_20191129_190000_MSNBC_Live.thumbs/MSNBCW_20191129_190000_MSNBC_Live_002998.jpg</field>
+<field name="snippet">7000 miles of line in the next 10 years. it is a large electric company in the position of citing climate change as partly</field>
+</doc>
+</add>

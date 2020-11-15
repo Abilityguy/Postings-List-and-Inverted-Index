@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201301.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130125_180000_America_Live#start/2394/end/2429</field>
+<field name="datetime">1/25/2013 18:40:09</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWSW_20130125_180000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130125_180000_America_Live/FOXNEWSW_20130125_180000_America_Live.thumbs/FOXNEWSW_20130125_180000_America_Live_002385.jpg</field>
+<field name="snippet">you can say, okay, they care about gun control and especially in the wake of newtown and the shootings. but they're at the bottom three of the bottom four, gun control, infrastructure and addressing global warming. his priorities are down here</field>
+</doc>
+</add>

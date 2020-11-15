@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200113_010000_Newsday#start/836/end/871</field>
+<field name="datetime">1/13/2020 1:14:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20200113_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200113_010000_Newsday/BBCNEWS_20200113_010000_Newsday.thumbs/BBCNEWS_20200113_010000_Newsday_000837.jpg</field>
+<field name="snippet">effects of a drier climate. a majority of australians now rank climate change as the top threat to australia's vital interests, above other more conventional threats to national interests, including cyber security an attack from china, or even a strike from north korea.</field>
+</doc>
+</add>

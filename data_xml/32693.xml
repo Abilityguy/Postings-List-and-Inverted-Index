@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091219_120000_FOX_and_Friends_Saturday#start/8021/end/8056</field>
+<field name="datetime">12/19/2009 14:13:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWS_20091219_120000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091219_120000_FOX_and_Friends_Saturday/FOXNEWS_20091219_120000_FOX_and_Friends_Saturday.thumbs/FOXNEWS_20091219_120000_FOX_and_Friends_Saturday_008010.jpg</field>
+<field name="snippet">focusing on climate change and global warming? in a recent fox news poll global warming comes in last in issues the government should be working on. fixing the economy comes in first. if the economy is the number one issue how would climate change affect it.</field>
+</doc>
+</add>

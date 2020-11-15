@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190906_000000_Tucker_Carlson_Tonight#start/638/end/673</field>
+<field name="datetime">9/6/2019 0:10:53</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190906_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190906_000000_Tucker_Carlson_Tonight/FOXNEWSW_20190906_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190906_000000_Tucker_Carlson_Tonight_000630.jpg</field>
+<field name="snippet">been kind of colluding together in order to make sure that regular people don't find out about it unless they watch shows like this. and unless they are watching tucker carlson tonight or fox news or something, they don't mind the truth about these things. they are told there is a climate crisis that is going to be a</field>
+</doc>
+</add>

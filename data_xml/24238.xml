@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201902.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190224_110000_MSNBC_Live#start/3238/end/3273</field>
+<field name="datetime">2/24/2019 11:54:13</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20190224_110000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190224_110000_MSNBC_Live/MSNBCW_20190224_110000_MSNBC_Live.thumbs/MSNBCW_20190224_110000_MSNBC_Live_003238.jpg</field>
+<field name="snippet">want to play what she said about her plan for addressing climate concerns. here we go, a real issue. sure. get back into that international climate change agreement. we're the only country not in it now.</field>
+</doc>
+</add>

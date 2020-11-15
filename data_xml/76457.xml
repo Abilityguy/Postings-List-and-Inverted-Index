@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190517_230000_BBC_News#start/269/end/304</field>
+<field name="datetime">5/17/2019 23:04:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190517_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190517_230000_BBC_News/BBCNEWS_20190517_230000_BBC_News.thumbs/BBCNEWS_20190517_230000_BBC_News_000269.jpg</field>
+<field name="snippet">that labour knew how to deal with the economy. a lot of people are also looking at the future of their children and climate change. a bit of nastiness in it. bob hawke, the</field>
+</doc>
+</add>

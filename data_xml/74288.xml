@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200101_093000_Weather_World#start/1165/end/1200</field>
+<field name="datetime">1/1/2020 9:49:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20200101_093000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200101_093000_Weather_World/BBCNEWS_20200101_093000_Weather_World.thumbs/BBCNEWS_20200101_093000_Weather_World_001139.jpg</field>
+<field name="snippet">to be able to rain down and heavy rainfall events. and that's the essential reason why we've seen more and more flooding here in the uk, but also flooding events around the world as well. and we've seen really powerful hurricanes and typhoons as well. is that something that also fits into climate change science?</field>
+</doc>
+</add>

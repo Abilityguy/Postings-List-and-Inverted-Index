@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200105_040000_BBC_News#start/929/end/964</field>
+<field name="datetime">1/5/2020 4:15:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200105_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200105_040000_BBC_News/BBCNEWS_20200105_040000_BBC_News.thumbs/BBCNEWS_20200105_040000_BBC_News_000928.jpg</field>
+<field name="snippet">within australia, so we are really seeing now climate emergency in action and the government, the commonwealth government has now realised that climate change is part of the equation. initially they were not accepting that. so, there has to</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190321_000000_Tucker_Carlson_Tonight#start/1142/end/1177</field>
+<field name="datetime">3/21/2019 0:19:17</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190321_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190321_000000_Tucker_Carlson_Tonight/FOXNEWSW_20190321_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190321_000000_Tucker_Carlson_Tonight_001138.jpg</field>
+<field name="snippet">the border is fine. i don't care what is happening in your neighborhood. it is fine. but you know what the real threat is? something you can't see, but deadlier than godzilla and vladimir putin combined, global warming and it is going to kill us all.</field>
+</doc>
+</add>

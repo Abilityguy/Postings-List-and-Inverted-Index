@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_170000_BBC_News_at_Five#start/3599/end/3634</field>
+<field name="datetime">1/16/2020 18:00:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20200116_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_170000_BBC_News_at_Five/BBCNEWS_20200116_170000_BBC_News_at_Five.thumbs/BBCNEWS_20200116_170000_BBC_News_at_Five_003537.jpg</field>
+<field name="snippet">going into next week but otherwise, for five days of dry weather. not bad. the world is facing a moment of crisis over climate change - the warning from sir david attenborough.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201406.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140616_150000_NewsNation#start/2303/end/2338</field>
+<field name="datetime">6/16/2014 15:38:38</field>
+<field name="station">MSNBC</field>
+<field name="show">NewsNation</field>
+<field name="showid">MSNBCW_20140616_150000_NewsNation</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140616_150000_NewsNation/MSNBCW_20140616_150000_NewsNation.thumbs/MSNBCW_20140616_150000_NewsNation_002296.jpg</field>
+<field name="snippet">university of california. the president announced nearly $1 billion competitive climate change fund and sharp words for climate change deniers. it's pretty rare you'll encounter somebody who says the problem you're trying to solve</field>
+</doc>
+</add>

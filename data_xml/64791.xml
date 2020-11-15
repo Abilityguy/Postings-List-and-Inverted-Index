@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201809.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20180915_160000_MSNBC_Live_With_Alex_Witt#start/1964/end/1999</field>
+<field name="datetime">9/15/2018 16:32:59</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Alex Witt</field>
+<field name="showid">MSNBCW_20180915_160000_MSNBC_Live_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20180915_160000_MSNBC_Live_With_Alex_Witt/MSNBCW_20180915_160000_MSNBC_Live_With_Alex_Witt.thumbs/MSNBCW_20180915_160000_MSNBC_Live_With_Alex_Witt_001948.jpg</field>
+<field name="snippet">speaking, good news for those 6000 residents, you hang on to your hat, we'll check in with you, hope you still have it on. as hurricane florence is pummeling the southeast coast. some are arguing climate change is causing storms to intensify.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201303.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130323_160000_Weekends_With_Alex_Witt#start/3602/end/3637</field>
+<field name="datetime">3/23/2013 17:00:17</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20130323_160000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130323_160000_Weekends_With_Alex_Witt/MSNBCW_20130323_160000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20130323_160000_Weekends_With_Alex_Witt_003586.jpg</field>
+<field name="snippet">scooped up by a storm and flooded over the land. that's the hurricane surge, and in that case, you know, the rising sea level is very clear, and that's caused by climate change, and so that's an area where scientists are much more comfortable saying, no, the link</field>
+</doc>
+</add>

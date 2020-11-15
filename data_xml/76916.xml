@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190501_130000_Afternoon_Live#start/1898/end/1933</field>
+<field name="datetime">5/1/2019 13:31:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190501_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190501_130000_Afternoon_Live/BBCNEWS_20190501_130000_Afternoon_Live.thumbs/BBCNEWS_20190501_130000_Afternoon_Live_001887.jpg</field>
+<field name="snippet">the wikilea ks co-founder julian assange has been sentenced to 50 weeks in jail for breaching bail conditions. labour leaderjeremy corbyn has once again come under the spotlight over anti-semitism as the party tries to put the focus on its climate-change policies.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191202_170000_BBC_News_at_Five#start/1575/end/1610</field>
+<field name="datetime">12/2/2019 17:26:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20191202_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191202_170000_BBC_News_at_Five/BBCNEWS_20191202_170000_BBC_News_at_Five.thumbs/BBCNEWS_20191202_170000_BBC_News_at_Five_001557.jpg</field>
+<field name="snippet">speaking as leaders gather in madrid for two weeks of talks, antonio guterres said the climate crisis was imminent - and that it was essential that countries commit to more ambitious carbon-cutting targets. last week, the world meteorological 0rganisation said the level of greenhouse gases</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201501.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150115_160000_Happening_Now#start/3250/end/3285</field>
+<field name="datetime">1/15/2015 16:54:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20150115_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150115_160000_Happening_Now/FOXNEWSW_20150115_160000_Happening_Now.thumbs/FOXNEWSW_20150115_160000_Happening_Now_003225.jpg</field>
+<field name="snippet">how do you keep the peace here? we put blinders on and have respect, mutual respect for our difference. because some conservatives disagree with us on climate change or something like that, that doesn't mean we can't work together.</field>
+</doc>
+</add>

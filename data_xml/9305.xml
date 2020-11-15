@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190824_040000_Tucker_Carlson_Tonight#start/276/end/311</field>
+<field name="datetime">8/24/2019 4:04:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190824_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190824_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190824_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190824_040000_Tucker_Carlson_Tonight_000269.jpg</field>
+<field name="snippet">that is a dynamic guaranteed to produce yet more extremism. and it has some democratic leaders worried. yesterday, for example, the dnc voted on a proposal to hold the debate focused exclusively on climate change. why would they do that? well, because the solutions the candidates would promise live on television are insane.</field>
+</doc>
+</add>

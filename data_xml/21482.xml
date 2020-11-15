@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100106_210000_Your_World_With_Neil_Cavuto#start/3077/end/3112</field>
+<field name="datetime">1/6/2010 21:51:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWS_20100106_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100106_210000_Your_World_With_Neil_Cavuto/FOXNEWS_20100106_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWS_20100106_210000_Your_World_With_Neil_Cavuto_002873.jpg</field>
+<field name="snippet">attention, congress. this is war. uuuuuuuuuuuuuuuuuuuu. neil: this is a fox news global warming alert. it's freezing! the climate is changing all right. changing into a really, really cold winter. freezing temperatures in florida.</field>
+</doc>
+</add>

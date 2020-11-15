@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201006.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100617_220000_Special_Report_With_Bret_Baier#start/917/end/952</field>
+<field name="datetime">6/17/2010 22:15:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100617_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100617_220000_Special_Report_With_Bret_Baier/FOXNEWS_20100617_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100617_220000_Special_Report_With_Bret_Baier_000895.jpg</field>
+<field name="snippet">obama's healthcare law is at its highest point. the 'associated press' press found 45% of those participating support the law. 42% of those oppose it. now some feel the president will make the same kind of push for energy and climate change legislation in the</field>
+</doc>
+</add>

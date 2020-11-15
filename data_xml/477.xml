@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171104_163000_Dateline_London#start/14/end/49</field>
+<field name="datetime">11/4/2017 16:30:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Dateline London</field>
+<field name="showid">BBCNEWS_20171104_163000_Dateline_London</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171104_163000_Dateline_London/BBCNEWS_20171104_163000_Dateline_London.thumbs/BBCNEWS_20171104_163000_Dateline_London_000057.jpg</field>
+<field name="snippet">about where they can report these things and at the same time how it can be dealt with. a report by 13 us federal agencies has concluded that humans are the dominant cause of global warming.</field>
+</doc>
+</add>

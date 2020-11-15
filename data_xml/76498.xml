@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190510_130000_Afternoon_Live#start/4819/end/4854</field>
+<field name="datetime">5/10/2019 14:20:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190510_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190510_130000_Afternoon_Live/BBCNEWS_20190510_130000_Afternoon_Live.thumbs/BBCNEWS_20190510_130000_Afternoon_Live_004798.jpg</field>
+<field name="snippet">and irreversible climate change. the ipcc says that net co2 emissions will have to be zero by 2050, to avoid some of the worst scenarios. this at a time when chinese and indian industries need much more energy,</field>
+</doc>
+</add>

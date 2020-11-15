@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171228_110000_BBC_News#start/1468/end/1503</field>
+<field name="datetime">12/28/2017 11:24:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171228_110000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171228_110000_BBC_News/BBCNEWS_20171228_110000_BBC_News.thumbs/BBCNEWS_20171228_110000_BBC_News_001468.jpg</field>
+<field name="snippet">time when our economy has grown by two thirds. we are on track with our carbon targets to date. the risk comes in the next decade when a gap sta rts starts to open up between what we need to be doing to continue to tackle climate change and what we</field>
+</doc>
+</add>

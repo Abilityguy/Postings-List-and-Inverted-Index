@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100422_100000_FOX_and_Friends#start/4735/end/4770</field>
+<field name="datetime">4/22/2010 11:19:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100422_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100422_100000_FOX_and_Friends/FOXNEWS_20100422_100000_FOX_and_Friends.thumbs/FOXNEWS_20100422_100000_FOX_and_Friends_004731.jpg</field>
+<field name="snippet">all right. straight ahead, it's been five months since the climate gate scandal broke where thousands of documents revealing top scientists had manipulated global warming data. how the mainstream media fared in the coverage on this earth day. we'll talk about that.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201007.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100723_200000_Your_World_With_Neil_Cavuto#start/972/end/1007</field>
+<field name="datetime">7/23/2010 20:16:27</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWS_20100723_200000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100723_200000_Your_World_With_Neil_Cavuto/FOXNEWS_20100723_200000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWS_20100723_200000_Your_World_With_Neil_Cavuto_000955.jpg</field>
+<field name="snippet">environmental thing with global warming and whether they rigged the data. this is near and dear to you because if the justification for the shutdown on drilling was that the data supported it, we</field>
+</doc>
+</add>

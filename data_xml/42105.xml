@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201103.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110314_100000_Morning_Joe#start/6453/end/6488</field>
+<field name="datetime">3/14/2011 11:47:48</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20110314_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20110314_100000_Morning_Joe/MSNBC_20110314_100000_Morning_Joe.thumbs/MSNBC_20110314_100000_Morning_Joe_006450.jpg</field>
+<field name="snippet">what are the long-term effects on health? the subtle point that's hard to understand, especially because we have so much propaganda in this country against it, the deaths from climate change are happening all over the world. they're huge.</field>
+</doc>
+</add>

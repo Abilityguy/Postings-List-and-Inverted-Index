@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201610.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161031_050000_Special_Report_With_Bret_Baier#start/2177/end/2212</field>
+<field name="datetime">10/31/2016 5:36:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20161031_050000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161031_050000_Special_Report_With_Bret_Baier/FOXNEWSW_20161031_050000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20161031_050000_Special_Report_With_Bret_Baier_002157.jpg</field>
+<field name="snippet">reporter: eileen simmons is voting for clinton. i support her for many reasons, one of them being climate change. she has acknowledged it, she realizes there's a problem.</field>
+</doc>
+</add>

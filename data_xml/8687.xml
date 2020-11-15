@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190920_220000_Special_Report_With_Bret_Baier#start/884/end/919</field>
+<field name="datetime">9/20/2019 22:14:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20190920_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190920_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20190920_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20190920_220000_Special_Report_With_Bret_Baier_000869.jpg</field>
+<field name="snippet">events around the world. a proclaimed climate change is worse than homework. it illustrates both the simplicity and the complexity of an issue that prompted hundreds of thousands of young people to gather in cities large and small pier the largest rally in this country was in new york.</field>
+</doc>
+</add>

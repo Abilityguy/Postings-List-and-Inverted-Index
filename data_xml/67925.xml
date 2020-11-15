@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190207_040000_BBC_News#start/1708/end/1743</field>
+<field name="datetime">2/7/2019 4:28:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190207_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190207_040000_BBC_News/BBCNEWS_20190207_040000_BBC_News.thumbs/BBCNEWS_20190207_040000_BBC_News_001709.jpg</field>
+<field name="snippet">for sunday, because it looks like we could see a spell of heavy rain pushing into england and wales to bring the weekend to a close. next week, though, high-pressure returns. it's looking quieter once again. this is bbc news, the headlines: scientists have warned that global warming may be about to hit a tipping point,</field>
+</doc>
+</add>

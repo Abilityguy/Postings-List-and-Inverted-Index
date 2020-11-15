@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100216_210000_Your_World_With_Neil_Cavuto#start/299/end/334</field>
+<field name="datetime">2/16/2010 21:05:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWS_20100216_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100216_210000_Your_World_With_Neil_Cavuto/FOXNEWS_20100216_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWS_20100216_210000_Your_World_With_Neil_Cavuto_000296.jpg</field>
+<field name="snippet">the climate scientists raise doubts. there's no significant global warming in the last 15 years. the reason why three big companies, conocophillips, bp and caterpillar are pulling out of a major climate partnership</field>
+</doc>
+</add>

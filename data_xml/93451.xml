@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190710_080000_BBC_News_at_Nine#start/631/end/666</field>
+<field name="datetime">7/10/2019 8:10:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190710_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190710_080000_BBC_News_at_Nine/BBCNEWS_20190710_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190710_080000_BBC_News_at_Nine_000628.jpg</field>
+<field name="snippet">its emissions have barely dropped. the government insists it is taking climate change very seriously. the committee wants deeds, not words. roger harrabin, bbc news.</field>
+</doc>
+</add>

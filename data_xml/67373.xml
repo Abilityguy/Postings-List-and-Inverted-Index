@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140507_090000_First_Look#start/187/end/222</field>
+<field name="datetime">5/7/2014 9:03:22</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20140507_090000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140507_090000_First_Look/MSNBCW_20140507_090000_First_Look.thumbs/MSNBCW_20140507_090000_First_Look_000165.jpg</field>
+<field name="snippet">that is nbc's ann curry reporting. climate change matters that is the message president obama is stressing following the national climate assessment. the report draws a connection between human activities and the uptake in global temperatures</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190714_060000_Breakfast#start/1371/end/1406</field>
+<field name="datetime">7/14/2019 6:23:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190714_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190714_060000_Breakfast/BBCNEWS_20190714_060000_Breakfast.thumbs/BBCNEWS_20190714_060000_Breakfast_001618.jpg</field>
+<field name="snippet">including the great barrier reef. this is just part of the solution. we have to restore coral populations, but we also have to manage climate change.</field>
+</doc>
+</add>

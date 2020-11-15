@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191124_120000_MSNBC_Live#start/1970/end/2005</field>
+<field name="datetime">11/24/2019 12:33:05</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20191124_120000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191124_120000_MSNBC_Live/MSNBCW_20191124_120000_MSNBC_Live.thumbs/MSNBCW_20191124_120000_MSNBC_Live_001948.jpg</field>
+<field name="snippet">protesting climate change took over the field during saturday's jail/harvard game, the demonstration delayed that game for almost an hour. yale would go on to win in double overtime 50-43. the house now heading towards the next phase of the impeachment inquiry following</field>
+</doc>
+</add>

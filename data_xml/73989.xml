@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201002.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100216_160000_MSNBC_News_Live#start/665/end/700</field>
+<field name="datetime">2/16/2010 16:11:20</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100216_160000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100216_160000_MSNBC_News_Live/MSNBC_20100216_160000_MSNBC_News_Live.thumbs/MSNBC_20100216_160000_MSNBC_News_Live_000660.jpg</field>
+<field name="snippet">new nuclear power plant, enthusiastic leer energy remains our largest source of fuel that emits no carbon emissions. to me our growing energy needs and prevent the worst consequences of climate change, we'll need to increase our supply of nuclear power.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190211_060000_Breakfast#start/3333/end/3368</field>
+<field name="datetime">2/11/2019 6:55:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190211_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190211_060000_Breakfast/BBCNEWS_20190211_060000_Breakfast.thumbs/BBCNEWS_20190211_060000_Breakfast_003327.jpg</field>
+<field name="snippet">gielgud, that is entertainment's select club. it could happen. you are watching breakfast. still to come this morning: when journalist david wallace-wells started interviewing scientists about climate change, he was told the outlook is much worse than people realise. he will be here to tell us how</field>
+</doc>
+</add>

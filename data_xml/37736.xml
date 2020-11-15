@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091023_100000_FOX_and_Friends#start/5615/end/5650</field>
+<field name="datetime">10/23/2009 11:33:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091023_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091023_100000_FOX_and_Friends/FOXNEWS_20091023_100000_FOX_and_Friends.thumbs/FOXNEWS_20091023_100000_FOX_and_Friends_005567.jpg</field>
+<field name="snippet">we have had senator inhofe on here. so angry in all seriousness when you say i'm not too sure about global warming. when you have bring up a question, scientists say this is not happening. gretchen: i think it's fascinating to see those poll</field>
+</doc>
+</add>

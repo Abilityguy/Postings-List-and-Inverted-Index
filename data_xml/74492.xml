@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200118_113000_Dateline_London#start/1075/end/1110</field>
+<field name="datetime">1/18/2020 11:48:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Dateline London</field>
+<field name="showid">BBCNEWS_20200118_113000_Dateline_London</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200118_113000_Dateline_London/BBCNEWS_20200118_113000_Dateline_London.thumbs/BBCNEWS_20200118_113000_Dateline_London_001048.jpg</field>
+<field name="snippet">addressed, so there is a lot of road ahead. we will leave the road ahead for now on that score and turn to a different big road. climate change. politicians once presented climate change as a crisis that might happen in the future if we're not careful now. but the natural historian</field>
+</doc>
+</add>

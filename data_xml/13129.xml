@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201101.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110120_140000_Americas_Newsroom#start/3602/end/3637</field>
+<field name="datetime">1/20/2011 15:00:17</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20110120_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110120_140000_Americas_Newsroom/FOXNEWS_20110120_140000_Americas_Newsroom.thumbs/FOXNEWS_20110120_140000_Americas_Newsroom_003600.jpg</field>
+<field name="snippet">president's environmental policies, this is going to be front and center once again. house republicans are now hoping that they can dismantle president obama's climate change policies, from restrictions on offshore drilling, to limits on the emissions of greenhouse gas, that is how we start a brand new</field>
+</doc>
+</add>

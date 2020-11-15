@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201302.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130212_080000_Red_Eye#start/3002/end/3037</field>
+<field name="datetime">2/12/2013 8:50:17</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWSW_20130212_080000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130212_080000_Red_Eye/FOXNEWSW_20130212_080000_Red_Eye.thumbs/FOXNEWSW_20130212_080000_Red_Eye_002985.jpg</field>
+<field name="snippet">now it just comes right off the lips. we blame everything so this makes sense. it is like how you know somebody is uninterruptiing. they start talking -- uninteresting. they start talking about the weather and now everybody adds their two cents. must be global warming or so</field>
+</doc>
+</add>

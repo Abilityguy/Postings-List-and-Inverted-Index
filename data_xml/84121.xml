@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190427_060000_Breakfast#start/3107/end/3142</field>
+<field name="datetime">4/27/2019 6:52:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190427_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190427_060000_Breakfast/BBCNEWS_20190427_060000_Breakfast.thumbs/BBCNEWS_20190427_060000_Breakfast_003087.jpg</field>
+<field name="snippet">to bother about? i was surprised to see the minimal coverage of the first day of the extinction rebellion's climate change protest on monday's bbc news at ten. thousands of people blocked london's streets, but this</field>
+</doc>
+</add>

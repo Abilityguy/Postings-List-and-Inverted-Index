@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201301.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130107_230000_Special_Report_With_Bret_Baier#start/1828/end/1863</field>
+<field name="datetime">1/7/2013 23:30:43</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20130107_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130107_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20130107_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20130107_230000_Special_Report_With_Bret_Baier_001815.jpg</field>
+<field name="snippet">is the second effort under president obama. none has ever made it to a floor vote. cash for clunkers is apparently a clunker for the environment. they say the program produced tons of unnecessary waste while doing little to curb greenhouse</field>
+</doc>
+</add>

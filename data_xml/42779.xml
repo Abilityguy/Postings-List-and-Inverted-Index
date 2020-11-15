@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180117_133000_BBC_News#start/574/end/609</field>
+<field name="datetime">1/17/2018 13:39:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180117_133000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180117_133000_BBC_News/BBCNEWS_20180117_133000_BBC_News.thumbs/BBCNEWS_20180117_133000_BBC_News_000567.jpg</field>
+<field name="snippet">but the company has said they expect 2017 performance to be in-line with expectations and 2018 operating profit to be ahead of current market expectations. three-fifths of new cars should be electric by 2030 if the uk is to meet its greenhouse gas targets. the committee on climate change says</field>
+</doc>
+</add>

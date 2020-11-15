@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201903.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190331_000000_All_In_With_Chris_Hayes#start/1296/end/1331</field>
+<field name="datetime">3/31/2019 0:21:51</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20190331_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190331_000000_All_In_With_Chris_Hayes/MSNBCW_20190331_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20190331_000000_All_In_With_Chris_Hayes_001287.jpg</field>
+<field name="snippet">burning fossil fuels and cutting down forests have already led to a temperature increase of about a degree celsius, that's nearly two degrees fahrenheit and we're already seeing the impacts of climate change around us in more extreme weather evebts. the impacts of climate change</field>
+</doc>
+</add>

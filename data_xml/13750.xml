@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201501.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150125_040000_Red_Eye#start/956/end/991</field>
+<field name="datetime">1/25/2015 4:16:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWSW_20150125_040000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150125_040000_Red_Eye/FOXNEWSW_20150125_040000_Red_Eye.thumbs/FOXNEWSW_20150125_040000_Red_Eye_000945.jpg</field>
+<field name="snippet">-- thank you for changing the cliche. this is another way of inserting global warming into the dialogue.</field>
+</doc>
+</add>

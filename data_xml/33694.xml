@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091204_050000_Hannity#start/2076/end/2111</field>
+<field name="datetime">12/4/2009 5:34:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20091204_050000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091204_050000_Hannity/FOXNEWS_20091204_050000_Hannity.thumbs/FOXNEWS_20091204_050000_Hannity_002070.jpg</field>
+<field name="snippet">sean: i want to get to the so-called hacked email story because the democrats want to focus on that and not on the content but it seems to be having an impact. scott rasmus has a poll out, 59% of americans believe global warming data is rigged.</field>
+</doc>
+</add>

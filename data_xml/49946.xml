@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180630_100000_Fox_and_Friends_Saturday#start/3375/end/3410</field>
+<field name="datetime">6/30/2018 10:56:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20180630_100000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180630_100000_Fox_and_Friends_Saturday/FOXNEWSW_20180630_100000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20180630_100000_Fox_and_Friends_Saturday_003358.jpg</field>
+<field name="snippet">abby: coming up on the show the political battle for the supreme court now in full swing. once president trump makes its pick it will be in the hands of the senate. who are the key senators to watch? we will break that down next hour. dean: arnold schwarzenegger going after president trump once again. this time over climate</field>
+</doc>
+</add>

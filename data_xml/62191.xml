@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201701.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170118_170000_Andrea_Mitchell_Reports#start/342/end/377</field>
+<field name="datetime">1/18/2017 17:05:57</field>
+<field name="station">MSNBC</field>
+<field name="show">Andrea Mitchell Reports</field>
+<field name="showid">MSNBCW_20170118_170000_Andrea_Mitchell_Reports</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170118_170000_Andrea_Mitchell_Reports/MSNBCW_20170118_170000_Andrea_Mitchell_Reports.thumbs/MSNBCW_20170118_170000_Andrea_Mitchell_Reports_000327.jpg</field>
+<field name="snippet">let's play that. donald trump has called global warming a hoax caused by the chinese. do you agree that global warming is a hoax? i do not, senator. so donald trump is wrong? i do not believe that climate change is a hoax.</field>
+</doc>
+</add>

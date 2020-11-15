@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100401_170000_America_Live#start/1117/end/1152</field>
+<field name="datetime">4/1/2010 17:18:52</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWS_20100401_170000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100401_170000_America_Live/FOXNEWS_20100401_170000_America_Live.thumbs/FOXNEWS_20100401_170000_America_Live_001105.jpg</field>
+<field name="snippet">when we discussed this, i said to the people who were talking about t. all right, give me a number, you're talking about global warming, give me a number of how much relief we will see from global warming if this regulation is put in place. they couldn't do it. they don't know what effect</field>
+</doc>
+</add>

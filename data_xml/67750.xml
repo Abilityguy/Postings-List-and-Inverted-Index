@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190207_043000_HARDtalk#start/0/end/34</field>
+<field name="datetime">2/7/2019 4:30:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">HARDtalk</field>
+<field name="showid">BBCNEWS_20190207_043000_HARDtalk</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190207_043000_HARDtalk/BBCNEWS_20190207_043000_HARDtalk.thumbs/BBCNEWS_20190207_043000_HARDtalk_000028.jpg</field>
+<field name="snippet">scientists have warned that global warming may be about to hit a tipping point, a level of temperature rise that could bring rapid and far-reaching changes for our planet. they say that without immediate and drastic cuts in greenhouse gas emissions, the world faces unprecedented extremes of weather, including floods, drought and wildfires. president trump says he expects</field>
+</doc>
+</add>

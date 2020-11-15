@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201212.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121205_180000_America_Live#start/49/end/84</field>
+<field name="datetime">12/5/2012 18:01:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWSW_20121205_180000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121205_180000_America_Live/FOXNEWSW_20121205_180000_America_Live.thumbs/FOXNEWSW_20121205_180000_America_Live_000028.jpg</field>
+<field name="snippet">new pressure on president obama to take bold action on the controversial issue of global warming. welcome to 'america live', i am megyn kelly. the nrdc has issued a groundbreaking proposal to cut</field>
+</doc>
+</add>

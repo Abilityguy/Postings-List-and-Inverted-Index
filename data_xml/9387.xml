@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170710_070000_MediaBuzz#start/2208/end/2243</field>
+<field name="datetime">7/10/2017 7:37:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">MediaBuzz</field>
+<field name="showid">FOXNEWSW_20170710_070000_MediaBuzz</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170710_070000_MediaBuzz/FOXNEWSW_20170710_070000_MediaBuzz.thumbs/FOXNEWSW_20170710_070000_MediaBuzz_002187.jpg</field>
+<field name="snippet">the g-20. he's pushing europeans on nato, and trade, on climate change. that word isolation has been</field>
+</doc>
+</add>

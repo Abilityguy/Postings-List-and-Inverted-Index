@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091217_210000_MSNBC_News_Live#start/2833/end/2868</field>
+<field name="datetime">12/17/2009 21:47:28</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091217_210000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091217_210000_MSNBC_News_Live/MSNBC_20091217_210000_MSNBC_News_Live.thumbs/MSNBC_20091217_210000_MSNBC_News_Live_002813.jpg</field>
+<field name="snippet">surprise, right? john kyl is one of the most conservative members of the united states senate. he doesn't want to deal with -- he doesn't even want us to be dealing with climate change. there are too many republicans out there who disagree with the science of climate change,</field>
+</doc>
+</add>

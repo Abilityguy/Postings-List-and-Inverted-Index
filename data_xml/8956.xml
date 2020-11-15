@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190830_130000_Americas_Newsroom_With_Bill_Hemmer_and_Sandra_Smith#start/2767/end/2802</field>
+<field name="datetime">8/30/2019 13:46:22</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom With Bill Hemmer and Sandra Smith</field>
+<field name="showid">FOXNEWSW_20190830_130000_Americas_Newsroom_With_Bill_Hemmer_and_Sandra_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190830_130000_Americas_Newsroom_With_Bill_Hemmer_and_Sandra_Smith/FOXNEWSW_20190830_130000_Americas_Newsroom_With_Bill_Hemmer_and_Sandra_Smith.thumbs/FOXNEWSW_20190830_130000_Americas_Newsroom_With_Bill_Hemmer_and_Sandra_Smith_002760.jpg</field>
+<field name="snippet">this is a quinnipiac poll among registered voters, 56% say climate change is an emergency. democrats 84%, a big number there but when it comes to republicans, 18% say climate change is an emergency.</field>
+</doc>
+</add>

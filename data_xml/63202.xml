@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190329_010000_Newsday#start/1312/end/1347</field>
+<field name="datetime">3/29/2019 1:22:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190329_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190329_010000_Newsday/BBCNEWS_20190329_010000_Newsday.thumbs/BBCNEWS_20190329_010000_Newsday_001289.jpg</field>
+<field name="snippet">earlier i spoke to laura paterson, from the world meteorological organisation, and asked her what sorts of extreme weather over the past year can be linked to climate change. well, the study of attribution of climate change is still almost in its infancy in some ways, so the main things</field>
+</doc>
+</add>

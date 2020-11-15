@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201308.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130804_160000_Weekends_With_Alex_Witt#start/49/end/84</field>
+<field name="datetime">8/4/2013 16:01:04</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20130804_160000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130804_160000_Weekends_With_Alex_Witt/MSNBCW_20130804_160000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20130804_160000_Weekends_With_Alex_Witt_000046.jpg</field>
+<field name="snippet">vendor, the young and the old in a seemingly intentional attack on the west coast. we will hear from a witness. climate change. a new report suggests it's causing something around the world you might never have expected. google glass experiment. what happens when you spend days</field>
+</doc>
+</add>

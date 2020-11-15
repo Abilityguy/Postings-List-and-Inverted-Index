@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201307.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130718_220000_Special_Report_With_Bret_Baier#start/1574/end/1609</field>
+<field name="datetime">7/18/2013 22:26:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20130718_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130718_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20130718_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20130718_220000_Special_Report_With_Bret_Baier_001575.jpg</field>
+<field name="snippet">u.s. military action there. bret? jennifer, thank you. few issues illustrate the divide between the democrats and republicans like climate change. both sides have statics, experts, and forecasts that are ridiculed by the other.</field>
+</doc>
+</add>

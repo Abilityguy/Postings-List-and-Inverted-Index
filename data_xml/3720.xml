@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170410_030000_BBC_News#start/1177/end/1212</field>
+<field name="datetime">4/10/2017 3:19:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170410_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170410_030000_BBC_News/BBCNEWS_20170410_030000_BBC_News.thumbs/BBCNEWS_20170410_030000_BBC_News_001168.jpg</field>
+<field name="snippet">well, time for them is running out to save the great barrier reef, unless more action is taken to try to combat climate change. and what kind of action are conservationists and the experts suggesting that the government do?</field>
+</doc>
+</add>

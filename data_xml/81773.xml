@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091217_160000_MSNBC_News_Live#start/2323/end/2358</field>
+<field name="datetime">12/17/2009 16:38:58</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091217_160000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091217_160000_MSNBC_News_Live/MSNBC_20091217_160000_MSNBC_News_Live.thumbs/MSNBC_20091217_160000_MSNBC_News_Live_002310.jpg</field>
+<field name="snippet">climate change legislation. but senator john kerry, before flying back to washington to vote on legislation, said a deal in the senate is still possible. do we have the votes today? no. but we have many more than you are to get, many, many more. and a majority of senators know</field>
+</doc>
+</add>

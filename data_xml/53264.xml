@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201104.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110407_220000_MSNBC_Live#start/195/end/230</field>
+<field name="datetime">4/7/2011 22:03:30</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBC_20110407_220000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20110407_220000_MSNBC_Live/MSNBC_20110407_220000_MSNBC_Live.thumbs/MSNBC_20110407_220000_MSNBC_Live_000176.jpg</field>
+<field name="snippet">regulating greenhouse gases, and everybody knows this. it's why protesters gathered today outside the capitol in support of planned parenthood and a woman's right to choose. perhaps the only true moment of clarity spoke when eric cantor</field>
+</doc>
+</add>

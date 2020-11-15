@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201602.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160210_020000_The_Kelly_File#start/2566/end/2601</field>
+<field name="datetime">2/10/2016 2:43:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Kelly File</field>
+<field name="showid">FOXNEWSW_20160210_020000_The_Kelly_File</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160210_020000_The_Kelly_File/FOXNEWSW_20160210_020000_The_Kelly_File.thumbs/FOXNEWSW_20160210_020000_The_Kelly_File_002547.jpg</field>
+<field name="snippet">of the energy committee in the senate and the environmental committee, the debate is over. climate change is real. it is caused by human activity.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170803_230000_Newsday#start/1007/end/1042</field>
+<field name="datetime">8/3/2017 23:17:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20170803_230000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170803_230000_Newsday/BBCNEWS_20170803_230000_Newsday.thumbs/BBCNEWS_20170803_230000_Newsday_000987.jpg</field>
+<field name="snippet">of people living in south asia face a deadly threat from heat and humidity driven by global warming. the study in the journal science advances warns that most of india, pakistan and bangladesh will experience temperatures close to the limits of survivability by 2100 if emissions aren't reduced. we spoke to people in mumbai</field>
+</doc>
+</add>

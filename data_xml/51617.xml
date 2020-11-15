@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181216_060000_Breakfast#start/0/end/33</field>
+<field name="datetime">12/16/2018 6:00:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181216_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181216_060000_Breakfast/BBCNEWS_20181216_060000_Breakfast.thumbs/BBCNEWS_20181216_060000_Breakfast_000057.jpg</field>
+<field name="snippet">good morning - welcome to breakfast, with rogerjohnson and rachel burden. our headlines today: theresa may accuses the former prime minister tony blair of insulting the office he once held through his support for another eu referendum. celebrations in poland as nearly 200 countries reach a deal to tackle climate change.</field>
+</doc>
+</add>

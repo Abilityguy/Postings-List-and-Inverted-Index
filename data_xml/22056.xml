@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201309.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130904_100000_Morning_Joe#start/10636/end/10671</field>
+<field name="datetime">9/4/2013 12:57:31</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20130904_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130904_100000_Morning_Joe/MSNBCW_20130904_100000_Morning_Joe.thumbs/MSNBCW_20130904_100000_Morning_Joe_010636.jpg</field>
+<field name="snippet">the president is of course using this 24-hour visit to the swedish capital to not only talk about syria but also to show a softer side of u.s. diplomacy. and he's focusing on climate change, technology, trade.</field>
+</doc>
+</add>

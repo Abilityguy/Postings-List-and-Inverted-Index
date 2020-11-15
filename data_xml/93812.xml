@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190725_080000_BBC_News_at_Nine#start/1414/end/1449</field>
+<field name="datetime">7/25/2019 8:23:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190725_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190725_080000_BBC_News_at_Nine/BBCNEWS_20190725_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190725_080000_BBC_News_at_Nine_001377.jpg</field>
+<field name="snippet">and the met office say that hot conditions like this and that we saw back in 2018 are now 30 times more likely due to climate change. matt mentioned those increasing temperatures in europe. gavin lee is in brussels where temperatures are also soaring. the temperatures think perhaps</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190429_100000_BBC_Newsroom_Live#start/6028/end/6063</field>
+<field name="datetime">4/29/2019 11:40:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190429_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190429_100000_BBC_Newsroom_Live/BBCNEWS_20190429_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190429_100000_BBC_Newsroom_Live_006028.jpg</field>
+<field name="snippet">to you both. and full coverage of those results will be contained in a special programme on the bbc news channel from 11:30 on thursday evening. after weeks of protests about the impact of climate change, taking better care of the soil could be one answer</field>
+</doc>
+</add>

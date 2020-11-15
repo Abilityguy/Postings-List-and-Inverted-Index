@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200113_210000_Outside_Source#start/3071/end/3106</field>
+<field name="datetime">1/13/2020 21:51:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20200113_210000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200113_210000_Outside_Source/BBCNEWS_20200113_210000_Outside_Source.thumbs/BBCNEWS_20200113_210000_Outside_Source_003059.jpg</field>
+<field name="snippet">should we use these -- what i'm saying is in the years ahead, we are going to continue to evolve our policy in this area to reduce emissions even further and we're going to do it without a carbon tax.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201005.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100503_080000_Meet_the_Press#start/532/end/567</field>
+<field name="datetime">5/3/2010 8:09:07</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBC_20100503_080000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBC_20100503_080000_Meet_the_Press/MSNBC_20100503_080000_Meet_the_Press.thumbs/MSNBC_20100503_080000_Meet_the_Press_000506.jpg</field>
+<field name="snippet">i'm thrilled to be here on the new set. thank you very much. a lot of important issues to talk about. what's certainly in the headlines this weekend is this oil spill off the coast of louisiana and mississippi. and it becomes a bigger issue and even a national security issue as it applies to climate</field>
+</doc>
+</add>

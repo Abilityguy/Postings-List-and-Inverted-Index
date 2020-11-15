@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201105.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110523_180000_News_Nation#start/2145/end/2180</field>
+<field name="datetime">5/23/2011 18:36:00</field>
+<field name="station">MSNBC</field>
+<field name="show">News Nation</field>
+<field name="showid">MSNBC_20110523_180000_News_Nation</field>
+<field name="preview">https://archive.org/download/MSNBC_20110523_180000_News_Nation/MSNBC_20110523_180000_News_Nation.thumbs/MSNBC_20110523_180000_News_Nation_000020.jpg</field>
+<field name="snippet">we were talking about global warming. dr. howard bluestein from the university of oklahoma. thank you so much. thank you. right now president obama and the first lady are still in dublin where the president</field>
+</doc>
+</add>

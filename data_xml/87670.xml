@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191209_020000_BBC_News#start/1050/end/1085</field>
+<field name="datetime">12/9/2019 2:17:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191209_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191209_020000_BBC_News/BBCNEWS_20191209_020000_BBC_News.thumbs/BBCNEWS_20191209_020000_BBC_News_001047.jpg</field>
+<field name="snippet">now, it is less than 5%. and without trees, there is nothing to protect the soil from drought, wind, and bursts of rain, which all become more intense with climate change. when the soil goes, very little grows. but people are breaking</field>
+</doc>
+</add>

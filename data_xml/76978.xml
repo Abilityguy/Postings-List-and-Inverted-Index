@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190521_010000_BBC_News#start/618/end/653</field>
+<field name="datetime">5/21/2019 1:10:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190521_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190521_010000_BBC_News/BBCNEWS_20190521_010000_BBC_News.thumbs/BBCNEWS_20190521_010000_BBC_News_000598.jpg</field>
+<field name="snippet">professor, thank you very much for your time. thank you for having me today. you can find lots more coverage of climate change on our website including this report about ice thinning in antarctica. that's all at bbc.com/news. or you can download the bbc news app. let's get some of the day's other news.</field>
+</doc>
+</add>

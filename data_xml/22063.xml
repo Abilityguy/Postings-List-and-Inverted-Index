@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201309.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130925_030000_All_In_With_Chris_Hayes#start/2950/end/2985</field>
+<field name="datetime">9/25/2013 3:49:25</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20130925_030000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130925_030000_All_In_With_Chris_Hayes/MSNBCW_20130925_030000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20130925_030000_All_In_With_Chris_Hayes_002925.jpg</field>
+<field name="snippet">joining me from washington. mr. salazar, i'd like to ask you first in the most blunt terms possible, is it the case that the u.s.' inaction legislatively on this is the single biggest obstacle to a global solution on climate? well, first, i would say, chris, that climate change is</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190424_080000_BBC_News_at_Nine#start/1802/end/1837</field>
+<field name="datetime">4/24/2019 8:30:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190424_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190424_080000_BBC_News_at_Nine/BBCNEWS_20190424_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190424_080000_BBC_News_at_Nine_001798.jpg</field>
+<field name="snippet">problem with the rivers or is it out at sea? because the salmon return to sea for a period of time. it is a multifactorial issue. there are all sorts of issues salmon are facing. 0ut out at sea they are facing issues related to climate change, food</field>
+</doc>
+</add>

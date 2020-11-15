@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190628_100000_FOX__Friends#start/7473/end/7508</field>
+<field name="datetime">6/28/2019 12:04:48</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20190628_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190628_100000_FOX__Friends/FOXNEWSW_20190628_100000_FOX__Friends.thumbs/FOXNEWSW_20190628_100000_FOX__Friends_007469.jpg</field>
+<field name="snippet">listen. ending gun violence. climate change. passing family bill of rights. middle class tax cut. taking on special interests. defeating donald trump. fix our democracy.</field>
+</doc>
+</add>

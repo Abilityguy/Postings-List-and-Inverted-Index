@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190621_164500_The_Film_Review#start/27/end/62</field>
+<field name="datetime">6/21/2019 16:45:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Film Review</field>
+<field name="showid">BBCNEWS_20190621_164500_The_Film_Review</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190621_164500_The_Film_Review/BBCNEWS_20190621_164500_The_Film_Review.thumbs/BBCNEWS_20190621_164500_The_Film_Review_000029.jpg</field>
+<field name="snippet">he was filmed pushing a climate change demonstrator at a dinner in the city of london.</field>
+</doc>
+</add>

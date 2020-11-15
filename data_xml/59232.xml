@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181118_060000_Breakfast#start/2000/end/2035</field>
+<field name="datetime">11/18/2018 6:33:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181118_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181118_060000_Breakfast/BBCNEWS_20181118_060000_Breakfast.thumbs/BBCNEWS_20181118_060000_Breakfast_001978.jpg</field>
+<field name="snippet">to make sure their climate change message is heard, by trying to set a world record for the biggest postcard of all time. it's on a glacier high up in the swiss alps and features 125000 drawings from children all over the world. it's urging governments to come together to help stop global temperatures rising by more than 1.5 degrees celsius. that is one way to get your message</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201411.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20141114_200000_The_Cycle#start/793/end/828</field>
+<field name="datetime">11/14/2014 20:13:28</field>
+<field name="station">MSNBC</field>
+<field name="show">The Cycle</field>
+<field name="showid">MSNBCW_20141114_200000_The_Cycle</field>
+<field name="preview">https://archive.org/download/MSNBCW_20141114_200000_The_Cycle/MSNBCW_20141114_200000_The_Cycle.thumbs/MSNBCW_20141114_200000_The_Cycle_000765.jpg</field>
+<field name="snippet">what will happen with climate change? the reality is, it's nonbinding. this is an agreement. it's a statement of intent. to a large extent there's no way to verify, there's no way to enforce what each side is going to do. nonetheless, in some ways at least it's a political gesture</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201702.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170228_003000_HARDtalk#start/65/end/100</field>
+<field name="datetime">2/28/2017 0:31:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">HARDtalk</field>
+<field name="showid">BBCNEWS_20170228_003000_HARDtalk</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170228_003000_HARDtalk/BBCNEWS_20170228_003000_HARDtalk.thumbs/BBCNEWS_20170228_003000_HARDtalk_000057.jpg</field>
+<field name="snippet">on everything from fossil fuel production to climate change policy. my guest today is myron ebell, who led the trump transition team on environment policy and has long been an advocate of radical reform of the federal environmental</field>
+</doc>
+</add>

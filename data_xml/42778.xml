@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180118_170000_BBC_News_at_Five#start/1454/end/1489</field>
+<field name="datetime">1/18/2018 17:24:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20180118_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180118_170000_BBC_News_at_Five/BBCNEWS_20180118_170000_BBC_News_at_Five.thumbs/BBCNEWS_20180118_170000_BBC_News_at_Five_001437.jpg</field>
+<field name="snippet">these latest figures is that it is the warmest temperatures that we've seen without the influence of the natural el nino climate phenomena. and what this is showing, really, is that the influences of the human activity on climate through our emissions of greenhouse gases are</field>
+</doc>
+</add>

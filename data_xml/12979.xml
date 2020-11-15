@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201303.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130311_050000_FOX_Report#start/2115/end/2150</field>
+<field name="datetime">3/11/2013 5:35:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report</field>
+<field name="showid">FOXNEWSW_20130311_050000_FOX_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130311_050000_FOX_Report/FOXNEWSW_20130311_050000_FOX_Report.thumbs/FOXNEWSW_20130311_050000_FOX_Report_002115.jpg</field>
+<field name="snippet">harris, back to you. harris: thank you. imagine a cheaper way to produce energy that reduces greenhouse gas emissions. john stossel, our fox family says he's found it, it's</field>
+</doc>
+</add>

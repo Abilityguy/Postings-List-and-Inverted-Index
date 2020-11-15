@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200106_020000_BBC_News#start/961/end/996</field>
+<field name="datetime">1/6/2020 2:16:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200106_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200106_020000_BBC_News/BBCNEWS_20200106_020000_BBC_News.thumbs/BBCNEWS_20200106_020000_BBC_News_000959.jpg</field>
+<field name="snippet">climate change and bushfires. 0k, thank you very much forjoining us. thank you. stay with us on bbc news. still to come: more than two years after the first public allegations against him, the trial of hollywood mogul harvey weinstein is set to begin.</field>
+</doc>
+</add>

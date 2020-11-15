@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201302.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130217_200000_MSNBC_Live#start/3818/end/3853</field>
+<field name="datetime">2/17/2013 21:03:53</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20130217_200000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130217_200000_MSNBC_Live/MSNBCW_20130217_200000_MSNBC_Live.thumbs/MSNBCW_20130217_200000_MSNBC_Live_003795.jpg</field>
+<field name="snippet">the obama administration has prepared its own immigration reform bill. 'usa today' reporting that the white house plan would call for an eight-year path to citizenship for some of those living in the country illegally. we'll have more on the president's plan a little bit later as well, and climate</field>
+</doc>
+</add>

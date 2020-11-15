@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190303_020000_BBC_News#start/1280/end/1315</field>
+<field name="datetime">3/3/2019 2:21:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190303_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190303_020000_BBC_News/BBCNEWS_20190303_020000_BBC_News.thumbs/BBCNEWS_20190303_020000_BBC_News_001258.jpg</field>
+<field name="snippet">bureau of meteorology says the pattern of warmer temperatures is consistent with observed climate change. every spring, japan celebrates cherry blossom season, with tourists flocking to the country in droves to enjoy the spectacle. but the cherry blossom is also an economic powerhouse, as catherine karelli reports.</field>
+</doc>
+</add>

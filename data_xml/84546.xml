@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190421_000000_BBC_News#start/362/end/397</field>
+<field name="datetime">4/21/2019 0:06:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190421_000000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190421_000000_BBC_News/BBCNEWS_20190421_000000_BBC_News.thumbs/BBCNEWS_20190421_000000_BBC_News_000359.jpg</field>
+<field name="snippet">the metropolitan police have defended their handling of the situation, describing the operation as unprecedented. jon donnison reports. the extinction rebellion has life in it yet. for a sixth day, climate change protesters targeted central london. yesterday's pink boat at oxford circus was replaced by a green hammock.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190914_000000_BBC_News#start/728/end/763</field>
+<field name="datetime">9/14/2019 0:12:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190914_000000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190914_000000_BBC_News/BBCNEWS_20190914_000000_BBC_News.thumbs/BBCNEWS_20190914_000000_BBC_News_000718.jpg</field>
+<field name="snippet">but the gas is also the most powerful climate-warming substance known to science, 23500 times more damaging than carbon dioxide, and levels in the atmosphere are increasing. it's leaking into the air faster than ever before. this is a very potent greenhouse gas, and it's very long-lived. so what we put up in the atmosphere</field>
+</doc>
+</add>

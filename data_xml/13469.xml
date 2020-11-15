@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201703.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170328_123000_BBC_News#start/1243/end/1278</field>
+<field name="datetime">3/28/2017 12:50:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170328_123000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170328_123000_BBC_News/BBCNEWS_20170328_123000_BBC_News.thumbs/BBCNEWS_20170328_123000_BBC_News_001227.jpg</field>
+<field name="snippet">us president donald trump is due to sign an executive order to overturn key parts of the obama administration's plan to tackle global warming. the move will undo the clean power</field>
+</doc>
+</add>

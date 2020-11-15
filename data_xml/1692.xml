@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170525_010000_The_Five#start/443/end/478</field>
+<field name="datetime">5/25/2017 1:07:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20170525_010000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170525_010000_The_Five/FOXNEWSW_20170525_010000_The_Five.thumbs/FOXNEWSW_20170525_010000_The_Five_000447.jpg</field>
+<field name="snippet">jesse: that'll solve everything. greg: that would be interesting. they had these amazingly historical concerts -- live aid. for global warming and climate</field>
+</doc>
+</add>

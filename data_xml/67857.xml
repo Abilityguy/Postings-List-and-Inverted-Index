@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190207_053000_Business_Briefing#start/866/end/901</field>
+<field name="datetime">2/7/2019 5:44:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Business Briefing</field>
+<field name="showid">BBCNEWS_20190207_053000_Business_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190207_053000_Business_Briefing/BBCNEWS_20190207_053000_Business_Briefing.thumbs/BBCNEWS_20190207_053000_Business_Briefing_000867.jpg</field>
+<field name="snippet">that global warming could exceed 1.5 celcius within five years. now, onto the business pages of the daily telegraph, and the story of the fire at 0cado. this is the online delivery service.</field>
+</doc>
+</add>

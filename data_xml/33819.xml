@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091204_110000_FOX_and_Friends#start/1038/end/1073</field>
+<field name="datetime">12/4/2009 11:17:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091204_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091204_110000_FOX_and_Friends/FOXNEWS_20091204_110000_FOX_and_Friends.thumbs/FOXNEWS_20091204_110000_FOX_and_Friends_001013.jpg</field>
+<field name="snippet">steve: in the last 10 years we have heard through the mainstream media there are all these scientists who say that it is man that is causing this global warming. now there are these hacked emailings that show wait a minute some of these scientists who have been saying this all along have been behind the</field>
+</doc>
+</add>

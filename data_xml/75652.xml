@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201210.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121020_200000_MSNBC_Live#start/1331/end/1366</field>
+<field name="datetime">10/20/2012 20:22:26</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20121020_200000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121020_200000_MSNBC_Live/MSNBCW_20121020_200000_MSNBC_Live.thumbs/MSNBCW_20121020_200000_MSNBC_Live_001318.jpg</field>
+<field name="snippet">let go of it, move on from it. americans are making their -- americans are making their own decisions. there is a pugh poll that showed 26% saying there is no global warming. 19% saying global warming is</field>
+</doc>
+</add>

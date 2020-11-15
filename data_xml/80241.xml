@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190514_090000_Fox_and_Friends_First#start/343/end/378</field>
+<field name="datetime">5/14/2019 9:05:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190514_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190514_090000_Fox_and_Friends_First/FOXNEWSW_20190514_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190514_090000_Fox_and_Friends_First_000329.jpg</field>
+<field name="snippet">the democratic nomination as senator bernie sanders and alexandria ocasio cortez lamb the record on climate change. rob: new york mayor bill diblasio running for president promote his own green new deal. griff jenkins live in washington</field>
+</doc>
+</add>

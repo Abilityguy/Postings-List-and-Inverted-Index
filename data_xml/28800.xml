@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201610.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161030_060000_Americas_Election_HQ#start/3593/end/3628</field>
+<field name="datetime">10/30/2016 7:00:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Election HQ</field>
+<field name="showid">FOXNEWSW_20161030_060000_Americas_Election_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161030_060000_Americas_Election_HQ/FOXNEWSW_20161030_060000_Americas_Election_HQ.thumbs/FOXNEWSW_20161030_060000_Americas_Election_HQ_003597.jpg</field>
+<field name="snippet">in our series on climate change. this one, thanks for inviting us in to your home tonight of that's it for this special report on a saturday. irif a, balanced, and unafraid.</field>
+</doc>
+</add>

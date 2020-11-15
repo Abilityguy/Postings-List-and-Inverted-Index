@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191106_040000_BBC_News#start/132/end/167</field>
+<field name="datetime">11/6/2019 4:02:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191106_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191106_040000_BBC_News/BBCNEWS_20191106_040000_BBC_News.thumbs/BBCNEWS_20191106_040000_BBC_News_000118.jpg</field>
+<field name="snippet">you know it, we know it. climate change is a key social and political issue, and the report's authors say governments, businesses and the public must do more to tackle the causes of climate change.</field>
+</doc>
+</add>

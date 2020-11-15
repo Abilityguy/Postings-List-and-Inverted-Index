@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170717_170000_Happening_Now#start/2338/end/2373</field>
+<field name="datetime">7/17/2017 17:39:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20170717_170000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170717_170000_Happening_Now/FOXNEWSW_20170717_170000_Happening_Now.thumbs/FOXNEWSW_20170717_170000_Happening_Now_002337.jpg</field>
+<field name="snippet">a gop fight over whether to ask the pentagon to study how military bases are impacted by climate change. here is one republicans argument. we would be remiss in our efforts to protect our national security to not fully account for the risk of climate change</field>
+</doc>
+</add>

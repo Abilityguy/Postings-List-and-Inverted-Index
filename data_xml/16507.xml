@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201502.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150216_090000_MediaBuzz#start/2081/end/2116</field>
+<field name="datetime">2/16/2015 9:34:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">MediaBuzz</field>
+<field name="showid">FOXNEWSW_20150216_090000_MediaBuzz</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150216_090000_MediaBuzz/FOXNEWSW_20150216_090000_MediaBuzz.thumbs/FOXNEWSW_20150216_090000_MediaBuzz_002055.jpg</field>
+<field name="snippet">about local news. but when isis is beheading hostages, how could that not get a lot of coverage? another point the president went on to made saying what doesn't get a lot of coverage are incremental showertories like climate change because they're not</field>
+</doc>
+</add>

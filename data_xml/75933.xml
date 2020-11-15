@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190511_050000_Breakfast#start/1832/end/1867</field>
+<field name="datetime">5/11/2019 5:30:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190511_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190511_050000_Breakfast/BBCNEWS_20190511_050000_Breakfast.thumbs/BBCNEWS_20190511_050000_Breakfast_001797.jpg</field>
+<field name="snippet">hello, this is breakfast with charlie stayt and tina daheley. good morning. here's a summary of today's main stories from bbc news. concerns over climate change might</field>
+</doc>
+</add>

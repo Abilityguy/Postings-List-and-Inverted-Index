@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201808.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20180820_100000_Morning_Joe#start/990/end/1025</field>
+<field name="datetime">8/20/2018 10:16:45</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20180820_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20180820_100000_Morning_Joe/MSNBCW_20180820_100000_Morning_Joe.thumbs/MSNBCW_20180820_100000_Morning_Joe_000987.jpg</field>
+<field name="snippet">political equivalent of climate change. it's extreme weather. the press broadly put, director mueller, the facts say x. they are going to say y. and take their chances that the</field>
+</doc>
+</add>

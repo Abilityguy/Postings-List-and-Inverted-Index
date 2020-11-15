@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201610.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161010_180000_Americas_Election_HQ#start/2935/end/2970</field>
+<field name="datetime">10/10/2016 18:49:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Election HQ</field>
+<field name="showid">FOXNEWSW_20161010_180000_Americas_Election_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161010_180000_Americas_Election_HQ/FOXNEWSW_20161010_180000_Americas_Election_HQ.thumbs/FOXNEWSW_20161010_180000_Americas_Election_HQ_002907.jpg</field>
+<field name="snippet">tomorrow hillary clinton and al gore campaigning on climate change. later he will be heading to ocala on wednesday. florida in play for both of them. thank you, adam. overseas, a u.s. navy</field>
+</doc>
+</add>

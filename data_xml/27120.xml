@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100210_230000_Special_Report_With_Bret_Baier#start/3133/end/3168</field>
+<field name="datetime">2/10/2010 23:52:28</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100210_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100210_230000_Special_Report_With_Bret_Baier/FOXNEWS_20100210_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100210_230000_Special_Report_With_Bret_Baier_003113.jpg</field>
+<field name="snippet">veracity of the science. there is no weather event in any one locality, even a string of weather events that's going to have any effect on the truth or the falsity of global climate change. i think it's perverse --  _</field>
+</doc>
+</add>

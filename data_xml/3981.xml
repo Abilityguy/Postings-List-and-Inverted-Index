@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201710.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171031_010000_Newsday#start/868/end/903</field>
+<field name="datetime">10/31/2017 1:14:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20171031_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171031_010000_Newsday/BBCNEWS_20171031_010000_Newsday.thumbs/BBCNEWS_20171031_010000_Newsday_000868.jpg</field>
+<field name="snippet">still to come on the programme: scientists warn that international targets to limit climate change may be unattainable after a surge in co2 to levels not seen for 800000 years. also on the programme:</field>
+</doc>
+</add>

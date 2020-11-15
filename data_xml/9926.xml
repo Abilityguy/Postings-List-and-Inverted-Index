@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201505.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150530_140000_Americas_News_Headquarters#start/3180/end/3215</field>
+<field name="datetime">5/30/2015 14:53:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20150530_140000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150530_140000_Americas_News_Headquarters/FOXNEWSW_20150530_140000_Americas_News_Headquarters.thumbs/FOXNEWSW_20150530_140000_Americas_News_Headquarters_003165.jpg</field>
+<field name="snippet">reduction of threats, fast evolving threats from violent extremism, pandemic cyberattacks nuclear proliferation, nation state failures to the drought, famine and floods of climate change. we must also craft a new foreign</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191219_210000_Outside_Source#start/615/end/650</field>
+<field name="datetime">12/19/2019 21:10:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20191219_210000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191219_210000_Outside_Source/BBCNEWS_20191219_210000_Outside_Source.thumbs/BBCNEWS_20191219_210000_Outside_Source_000598.jpg</field>
+<field name="snippet">scientists say extreme weather events like these fires are becoming more frequent and more extreme because of climate change. and despite the overwhelming scientific consensis around climate change, it remains a controversial issue in australia. bear in mind fossilfuels - which contribute a great</field>
+</doc>
+</add>

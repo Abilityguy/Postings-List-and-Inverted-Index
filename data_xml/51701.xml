@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181204_000000_Newsday#start/0/end/33</field>
+<field name="datetime">12/4/2018 0:00:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20181204_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181204_000000_Newsday/BBCNEWS_20181204_000000_Newsday.thumbs/BBCNEWS_20181204_000000_Newsday_001408.jpg</field>
+<field name="snippet">it will be turning milder to some of us for time. -- windier. 00:23:42275 --> 715827684:12:00134 i'm 715827684:12:00134 --> 1431655368:00:17992 ben 1431655368:00:17992 --> 2147483051:48:35852 bland 2147483051:48:35852 --> 2863310735:36:53711 with 2863310735:36:53711 --> 3579138419:25:11570 bbc 3579138419:25:11570 --> 4294966103:13:29430 news. catastrophic global warming. to save humanity from global warming is running out.</field>
+</doc>
+</add>

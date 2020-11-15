@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100407_150000_Happening_Now#start/5187/end/5222</field>
+<field name="datetime">4/7/2010 16:26:42</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20100407_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100407_150000_Happening_Now/FOXNEWS_20100407_150000_Happening_Now.thumbs/FOXNEWS_20100407_150000_Happening_Now_005181.jpg</field>
+<field name="snippet">to reduce greenhouse gas emissions significantly. identity theft, one of the fastest growing crimes in america. even if you think you're doing everything right, and hiding that social security number, you must still give it to your employer, your doctor, your accountant, insurance, school.</field>
+</doc>
+</add>

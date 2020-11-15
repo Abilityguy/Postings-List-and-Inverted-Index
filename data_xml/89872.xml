@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201401.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140130_140000_The_Daily_Rundown#start/1373/end/1408</field>
+<field name="datetime">1/30/2014 14:23:08</field>
+<field name="station">MSNBC</field>
+<field name="show">The Daily Rundown</field>
+<field name="showid">MSNBCW_20140130_140000_The_Daily_Rundown</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140130_140000_The_Daily_Rundown/MSNBCW_20140130_140000_The_Daily_Rundown.thumbs/MSNBCW_20140130_140000_The_Daily_Rundown_001366.jpg</field>
+<field name="snippet">i think the president's message is that he's really worked with congress to try to get laws in place to address the threat of climate change, more comprehensi comprehensively, but that doesn't mean we can't take reasonable steps forward.</field>
+</doc>
+</add>

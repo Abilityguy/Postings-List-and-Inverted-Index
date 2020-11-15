@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201512.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151214_220000_The_Five#start/145/end/180</field>
+<field name="datetime">12/14/2015 22:02:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20151214_220000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151214_220000_The_Five/FOXNEWSW_20151214_220000_The_Five.thumbs/FOXNEWSW_20151214_220000_The_Five_000135.jpg</field>
+<field name="snippet">the liberal reply is always this: we can chew gum and walk at the same time, meaning we can tackle climate change and terror. but where is the proof? forget walking and chewing gum,</field>
+</doc>
+</add>

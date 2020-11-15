@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170806_070000_Breakfast#start/713/end/748</field>
+<field name="datetime">8/6/2017 7:12:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20170806_070000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170806_070000_Breakfast/BBCNEWS_20170806_070000_Breakfast.thumbs/BBCNEWS_20170806_070000_Breakfast_000688.jpg</field>
+<field name="snippet">of the government's independent review into the cost of energy in the same week that british gas announced it was raising electricity prices by 12.5%. it comes amid concerns about rising bill and will look at how prices could be kept as low as possible - while ensuring the uk can still meet its climate change targets.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_050000_Breakfast#start/66/end/101</field>
+<field name="datetime">10/8/2018 5:01:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181008_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_050000_Breakfast/BBCNEWS_20181008_050000_Breakfast.thumbs/BBCNEWS_20181008_050000_Breakfast_000057.jpg</field>
+<field name="snippet">our top story - scientists have given one of the starkest warnings yet about the changes needed to tackle climate change. the report says that limiting temperature rises to no more than 1.5 celsius will require massive changes to the way we live. it warns that without action, all the world's coral reefs will die</field>
+</doc>
+</add>

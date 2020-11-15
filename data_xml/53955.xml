@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201807.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180723_170000_BBC_News_at_Six#start/510/end/545</field>
+<field name="datetime">7/23/2018 17:08:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20180723_170000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180723_170000_BBC_News_at_Six/BBCNEWS_20180723_170000_BBC_News_at_Six.thumbs/BBCNEWS_20180723_170000_BBC_News_at_Six_000507.jpg</field>
+<field name="snippet">conditions of high pressure, but scientists are also pointing to the fa ct fact that global average temperatures have been rising because of climate change. it doesn't mean we will have a heat wave like this every year from now on, but it does mean the risk goes up. it means let's see children</field>
+</doc>
+</add>

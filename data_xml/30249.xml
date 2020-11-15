@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201508.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150803_170000_MSNBC_Live_With_Thomas_Roberts#start/1690/end/1725</field>
+<field name="datetime">8/3/2015 17:28:25</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Thomas Roberts</field>
+<field name="showid">MSNBCW_20150803_170000_MSNBC_Live_With_Thomas_Roberts</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150803_170000_MSNBC_Live_With_Thomas_Roberts/MSNBCW_20150803_170000_MSNBC_Live_With_Thomas_Roberts.thumbs/MSNBCW_20150803_170000_MSNBC_Live_With_Thomas_Roberts_001666.jpg</field>
+<field name="snippet">being called the strongest action yet on climate change. we'll take a look at what he's proposing. plus, is it from mh-370? yep, we're talking about that fragment that piece of plane wing found on an indian ocean</field>
+</doc>
+</add>

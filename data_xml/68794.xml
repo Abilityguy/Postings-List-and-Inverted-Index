@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201001.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100128_110000_Morning_Joe#start/10146/end/10181</field>
+<field name="datetime">1/28/2010 13:49:21</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20100128_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20100128_110000_Morning_Joe/MSNBC_20100128_110000_Morning_Joe.thumbs/MSNBC_20100128_110000_Morning_Joe_010132.jpg</field>
+<field name="snippet">president say here's all this new spending we're going to do, we're going to do health care, we want our energy climate change bill, and starting in 2011 we're going to have a spending freeze. that had to be frustrating to millions of americans. but we still welcome the call for fiscal discipline and we'll</field>
+</doc>
+</add>

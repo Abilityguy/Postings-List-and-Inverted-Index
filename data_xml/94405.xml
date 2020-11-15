@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201212.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121229_120000_Weekends_With_Alex_Witt#start/3290/end/3325</field>
+<field name="datetime">12/29/2012 12:55:05</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20121229_120000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121229_120000_Weekends_With_Alex_Witt/MSNBCW_20121229_120000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20121229_120000_Weekends_With_Alex_Witt_003285.jpg</field>
+<field name="snippet">and climate change. give me an idea, how much are we talking about? how much warmer did things get? so the new reports show that the average temperature in antarctica have gone up 4 1/2 degrees farenheit since 1958.</field>
+</doc>
+</add>

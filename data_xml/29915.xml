@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191127_220000_MTP_Daily#start/3075/end/3110</field>
+<field name="datetime">11/27/2019 22:51:30</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20191127_220000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191127_220000_MTP_Daily/MSNBCW_20191127_220000_MTP_Daily.thumbs/MSNBCW_20191127_220000_MTP_Daily_003058.jpg</field>
+<field name="snippet">climate change, amongst those, is the most easily solvable. we have the technology that we need. we know what to do. the problem is we have a time limit because, basically, as we pollute the atmosphere,.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201012.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101227_110000_FOX_and_Friends#start/8699/end/8734</field>
+<field name="datetime">12/27/2010 13:25:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20101227_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101227_110000_FOX_and_Friends/FOXNEWS_20101227_110000_FOX_and_Friends.thumbs/FOXNEWS_20101227_110000_FOX_and_Friends_008700.jpg</field>
+<field name="snippet">times' piece about the trend of global warming and their argument is, from scientist, they say because we're seeing global warming, that's why we're seeing such weather extremes. do you buy that science? no. it is complete nonsense.</field>
+</doc>
+</add>

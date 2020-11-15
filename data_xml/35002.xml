@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201509.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150924_170000_MSNBC_Live_With_Thomas_Roberts#start/3261/end/3296</field>
+<field name="datetime">9/24/2015 17:54:36</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Thomas Roberts</field>
+<field name="showid">MSNBCW_20150924_170000_MSNBC_Live_With_Thomas_Roberts</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150924_170000_MSNBC_Live_With_Thomas_Roberts/MSNBCW_20150924_170000_MSNBC_Live_With_Thomas_Roberts.thumbs/MSNBCW_20150924_170000_MSNBC_Live_With_Thomas_Roberts_003256.jpg</field>
+<field name="snippet">they've been tweeting their opinions on both sides of the aisle. you'll see a lot of democrats tweeting about the climate change aspects of the speech and the aspects about addressing poverty. you see republicans tweeting about the pope addressing abortion and protecting life.</field>
+</doc>
+</add>

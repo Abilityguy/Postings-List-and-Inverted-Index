@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170702_230000_Newsday#start/1405/end/1440</field>
+<field name="datetime">7/2/2017 23:23:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20170702_230000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170702_230000_Newsday/BBCNEWS_20170702_230000_Newsday.thumbs/BBCNEWS_20170702_230000_Newsday_001378.jpg</field>
+<field name="snippet">to withdraw from the paris climate agreement, and what impact do you think that'll have on the future of the planet? we are close to the tipping point where global warming becomes irreversible.</field>
+</doc>
+</add>

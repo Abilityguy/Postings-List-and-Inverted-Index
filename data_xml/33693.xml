@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091211_090000_Special_Report_With_Bret_Baier#start/1907/end/1942</field>
+<field name="datetime">12/11/2009 9:32:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091211_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091211_090000_Special_Report_With_Bret_Baier/FOXNEWS_20091211_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091211_090000_Special_Report_With_Bret_Baier_001884.jpg</field>
+<field name="snippet">global warming science are dated, even though the most recent was sent out just last month. it turns out those aren't the only numbers the former vice president is having trouble with. during an appearance last month on 'the tonight show,' gore had this to say about the earth's</field>
+</doc>
+</add>

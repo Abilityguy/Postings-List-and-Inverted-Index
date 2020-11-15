@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201905.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190503_190000_MSNBC_Live_With_Ali_Velshi#start/1932/end/1967</field>
+<field name="datetime">5/3/2019 19:32:27</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190503_190000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190503_190000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190503_190000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190503_190000_MSNBC_Live_With_Ali_Velshi_001918.jpg</field>
+<field name="snippet">fight climate change, an issue at the center of his campaign. it calls for the entire electric grid and all new buildings and vehicles to emit no carbon pollution by 2030.</field>
+</doc>
+</add>

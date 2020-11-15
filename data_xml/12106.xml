@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190825_093000_Weather_World#start/587/end/622</field>
+<field name="datetime">8/25/2019 9:40:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20190825_093000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190825_093000_Weather_World/BBCNEWS_20190825_093000_Weather_World.thumbs/BBCNEWS_20190825_093000_Weather_World_000569.jpg</field>
+<field name="snippet">sarah: there's a balance to be struck about energy consumption and new homes and how to keep them warm when the temperature drops and cool when it rises. recent report from the uk committee for climate change said that homes are not fit for the future, and the quality and design had to improve to address the climate challenges.</field>
+</doc>
+</add>

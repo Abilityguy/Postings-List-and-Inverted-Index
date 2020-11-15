@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201502.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150216_220000_The_Five#start/62/end/97</field>
+<field name="datetime">2/16/2015 22:01:17</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20150216_220000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150216_220000_The_Five/FOXNEWSW_20150216_220000_The_Five.thumbs/FOXNEWSW_20150216_220000_The_Five_000045.jpg</field>
+<field name="snippet">it's the reoccurring game show where a parlizing case of phobia links no islam to terror whether it's the christian or murder at synagogue, there's never a threat. unless you count climate change.</field>
+</doc>
+</add>

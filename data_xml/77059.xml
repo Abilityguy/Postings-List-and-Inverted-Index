@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190512_050000_Breakfast#start/3235/end/3270</field>
+<field name="datetime">5/12/2019 5:54:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190512_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190512_050000_Breakfast/BBCNEWS_20190512_050000_Breakfast.thumbs/BBCNEWS_20190512_050000_Breakfast_003208.jpg</field>
+<field name="snippet">we're hopping to the other side at the atlantic now to meet some of the giants of the natural world. california's redwood trees are the tallest living things on earth and amongst the oldest too. but they are far from invulnerable. mike corey's been to big sur to find out why climate change is causing some to fear for the future</field>
+</doc>
+</add>

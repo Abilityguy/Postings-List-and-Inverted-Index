@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201610.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161025_190000_Shepard_Smith_Reporting#start/185/end/220</field>
+<field name="datetime">10/25/2016 19:03:20</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20161025_190000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161025_190000_Shepard_Smith_Reporting/FOXNEWSW_20161025_190000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20161025_190000_Shepard_Smith_Reporting_000178.jpg</field>
+<field name="snippet">last time i was here i campaigned with al gore. he said a lot about the climate crisis. you know why? we are seeing areas in miami even on sunny days without a</field>
+</doc>
+</add>

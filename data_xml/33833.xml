@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091205_170000_Americas_News_HQ#start/2175/end/2210</field>
+<field name="datetime">12/5/2009 17:36:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWS_20091205_170000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091205_170000_Americas_News_HQ/FOXNEWS_20091205_170000_Americas_News_HQ.thumbs/FOXNEWS_20091205_170000_Americas_News_HQ_002151.jpg</field>
+<field name="snippet">after leaf e-mails that was manipulating science data. the e-mails did nothing to weaken the scientific evidence on climate change they say. wendall goler has the story. the carbon monoxide changes</field>
+</doc>
+</add>

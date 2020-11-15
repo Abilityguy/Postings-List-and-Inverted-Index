@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200119_000000_BBC_News#start/1399/end/1434</field>
+<field name="datetime">1/19/2020 0:23:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200119_000000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200119_000000_BBC_News/BBCNEWS_20200119_000000_BBC_News.thumbs/BBCNEWS_20200119_000000_BBC_News_001378.jpg</field>
+<field name="snippet">this is why we need more funding, richard! so that one is methane, that one is c02, and you can see them jump when the bucket is placed on the water. jump up. exactly. i think it would surprise people that fresh water is a source of greenhouse gases. i mean, how much is in them?</field>
+</doc>
+</add>

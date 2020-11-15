@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200114_110000_BBC_Newsroom_Live#start/6681/end/6716</field>
+<field name="datetime">1/14/2020 12:51:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20200114_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200114_110000_BBC_Newsroom_Live/BBCNEWS_20200114_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20200114_110000_BBC_Newsroom_Live_006657.jpg</field>
+<field name="snippet">value of the pound is down slightly on thoughts that the bank of england might cut interest rates. that's all the business news. uk scientists have issued a stark new warning about the fires in australia and climate change. the met office hadley centre has said they're a sign of what would be</field>
+</doc>
+</add>

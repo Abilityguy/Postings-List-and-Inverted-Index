@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091229_110000_FOX_and_Friends#start/8849/end/8884</field>
+<field name="datetime">12/29/2009 13:27:44</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091229_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091229_110000_FOX_and_Friends/FOXNEWS_20091229_110000_FOX_and_Friends.thumbs/FOXNEWS_20091229_110000_FOX_and_Friends_008850.jpg</field>
+<field name="snippet">alisyn: al gore's 'inconvenient truth' is being used to teach children about global warming. where is the other side? peter: and a prison guard passed</field>
+</doc>
+</add>

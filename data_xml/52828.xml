@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180608_200000_World_News_Today#start/108/end/143</field>
+<field name="datetime">6/8/2018 20:02:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20180608_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180608_200000_World_News_Today/BBCNEWS_20180608_200000_World_News_Today.thumbs/BBCNEWS_20180608_200000_World_News_Today_000088.jpg</field>
+<field name="snippet">missing all tomorrow's discussion on climate change and the environment. it's as bad-tempered a start to a g7 as there's ever been. before leaving washington this morning, he was in no mood for compromise. they understand, and, you know, they're trying to act like, well,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201010.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101012_100000_FOX_and_Friends#start/6991/end/7026</field>
+<field name="datetime">10/12/2010 11:56:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20101012_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101012_100000_FOX_and_Friends/FOXNEWS_20101012_100000_FOX_and_Friends.thumbs/FOXNEWS_20101012_100000_FOX_and_Friends_006980.jpg</field>
+<field name="snippet">but the attorney general of that state says it's an absolute embarrassment. he will join us live. then a prominent professor says we're all getting the run around on global warming. he says it's a complete scam and it's ruining real science.</field>
+</doc>
+</add>

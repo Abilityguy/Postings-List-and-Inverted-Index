@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181127_180000_BBC_News_at_Six#start/1040/end/1075</field>
+<field name="datetime">11/27/2018 18:17:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20181127_180000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181127_180000_BBC_News_at_Six/BBCNEWS_20181127_180000_BBC_News_at_Six.thumbs/BBCNEWS_20181127_180000_BBC_News_at_Six_001017.jpg</field>
+<field name="snippet">according to the united nations. last year, greenhouse gas emissions reached a record high, and that's notjust down to pollution. the food we eat has a big impact. the global livestock population has reached 28 billion animals.</field>
+</doc>
+</add>

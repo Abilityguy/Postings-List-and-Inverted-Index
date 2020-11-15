@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20171127_160000_Happening_Now#start/1028/end/1063</field>
+<field name="datetime">11/27/2017 16:17:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20171127_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20171127_160000_Happening_Now/FOXNEWSW_20171127_160000_Happening_Now.thumbs/FOXNEWSW_20171127_160000_Happening_Now_001018.jpg</field>
+<field name="snippet">health care, terrorism, immigration, even climate change. so i think he sees it as being too skewed in one direction in terms of russia in the investigation. obviously it should be covered, there are three different investigations going on but mostly, and analysis last month</field>
+</doc>
+</add>

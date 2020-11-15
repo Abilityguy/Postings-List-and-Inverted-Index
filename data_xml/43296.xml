@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090922_220000_Special_Report_With_Bret_Baier#start/626/end/661</field>
+<field name="datetime">9/22/2009 22:10:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20090922_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090922_220000_Special_Report_With_Bret_Baier/FOXNEWS_20090922_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20090922_220000_Special_Report_With_Bret_Baier_000626.jpg</field>
+<field name="snippet">foreign trip, mr. obama pointed to a u.n. conference in december as a place to cement global climate change commitment. my hope is that we have show leadership so that by the time the international conference takes place in</field>
+</doc>
+</add>

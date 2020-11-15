@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191202_030000_BBC_News#start/1276/end/1311</field>
+<field name="datetime">12/2/2019 3:21:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191202_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191202_030000_BBC_News/BBCNEWS_20191202_030000_BBC_News.thumbs/BBCNEWS_20191202_030000_BBC_News_001257.jpg</field>
+<field name="snippet">to barren, degraded land can fight both the causes and effects of climate change, so watch out for that. the australian state of new south wales has rolled out mobile phone detection cameras</field>
+</doc>
+</add>

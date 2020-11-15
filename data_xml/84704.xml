@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190429_040000_The_Briefing#start/754/end/789</field>
+<field name="datetime">4/29/2019 4:12:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20190429_040000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190429_040000_The_Briefing/BBCNEWS_20190429_040000_The_Briefing.thumbs/BBCNEWS_20190429_040000_The_Briefing_000747.jpg</field>
+<field name="snippet">weather events more regularly due to climate change, we need to think about adaptation, mitigation and how we will move forward together. in some places, the floodwaters are starting to recede, allowing people to begin to assess the damage, but with more rain forecast over the coming days, others will have to watch and wait. donna larsen, bbc news, quebec.</field>
+</doc>
+</add>

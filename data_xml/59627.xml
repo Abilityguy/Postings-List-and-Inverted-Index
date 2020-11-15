@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201107.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20110722_210000_Hardball_With_Chris_Matthews#start/2301/end/2336</field>
+<field name="datetime">7/22/2011 21:38:36</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball With Chris Matthews</field>
+<field name="showid">MSNBCW_20110722_210000_Hardball_With_Chris_Matthews</field>
+<field name="preview">https://archive.org/download/MSNBCW_20110722_210000_Hardball_With_Chris_Matthews/MSNBCW_20110722_210000_Hardball_With_Chris_Matthews.thumbs/MSNBCW_20110722_210000_Hardball_With_Chris_Matthews_002280.jpg</field>
+<field name="snippet">the driving force in climate change is carbon emissions. the more people there are, the more fossil fuels for generating electricity, mostly coal for running cars mostly oil.</field>
+</doc>
+</add>

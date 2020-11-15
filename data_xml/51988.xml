@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_140000_Afternoon_Live#start/8917/end/8952</field>
+<field name="datetime">12/3/2018 16:28:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20181203_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_140000_Afternoon_Live/BBCNEWS_20181203_140000_Afternoon_Live.thumbs/BBCNEWS_20181203_140000_Afternoon_Live_008907.jpg</field>
+<field name="snippet">sir david attenborough tells an international summit on climate change that without action, much of the natural world could become extinct. if we don't take action, the collapse of our civilisations,</field>
+</doc>
+</add>

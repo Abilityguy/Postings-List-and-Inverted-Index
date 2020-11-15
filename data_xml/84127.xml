@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190430_123000_BBC_News#start/734/end/769</field>
+<field name="datetime">4/30/2019 12:42:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190430_123000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190430_123000_BBC_News/BBCNEWS_20190430_123000_BBC_News.thumbs/BBCNEWS_20190430_123000_BBC_News_000719.jpg</field>
+<field name="snippet">from 2040 the government says all new cars will have to look like this, producing none of the emissions that fuel climate change and harm children's lungs. but the climate committee will say this week that switchover date</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201303.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130302_230000_Americas_News_Headquarters#start/707/end/742</field>
+<field name="datetime">3/2/2013 23:12:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20130302_230000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130302_230000_Americas_News_Headquarters/FOXNEWSW_20130302_230000_Americas_News_Headquarters.thumbs/FOXNEWSW_20130302_230000_Americas_News_Headquarters_000705.jpg</field>
+<field name="snippet">committee's ranking member, henry waxman, disagrees and says to stop climate change and the destructive storms, drought, floods and wildfires that we are already experiencing, we should be investing in clean energy. not building a pipeline that</field>
+</doc>
+</add>

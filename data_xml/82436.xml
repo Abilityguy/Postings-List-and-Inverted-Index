@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201509.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150927_020000_Fox_News_Reporting#start/123/end/158</field>
+<field name="datetime">9/27/2015 2:02:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News Reporting</field>
+<field name="showid">FOXNEWSW_20150927_020000_Fox_News_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150927_020000_Fox_News_Reporting/FOXNEWSW_20150927_020000_Fox_News_Reporting.thumbs/FOXNEWSW_20150927_020000_Fox_News_Reporting_000105.jpg</field>
+<field name="snippet">the pope, boycotted his speech because he felt this pope had become too political. he's got his own agenda in regards to the environment and climate change.</field>
+</doc>
+</add>

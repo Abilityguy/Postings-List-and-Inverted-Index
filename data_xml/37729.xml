@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091005_090000_Forbes_on_FOX#start/1354/end/1389</field>
+<field name="datetime">10/5/2009 9:22:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Forbes on FOX</field>
+<field name="showid">FOXNEWS_20091005_090000_Forbes_on_FOX</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091005_090000_Forbes_on_FOX/FOXNEWS_20091005_090000_Forbes_on_FOX.thumbs/FOXNEWS_20091005_090000_Forbes_on_FOX_001225.jpg</field>
+<field name="snippet">work, democrats in the senate released their clean energy jobs an american power act. they say their global warming bill will heat up job creation in the u.s. but jack says the flip side is it will melt down our job market. how, jay. that's right, david.</field>
+</doc>
+</add>

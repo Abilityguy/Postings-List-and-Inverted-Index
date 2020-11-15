@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170725_000000_Newsday#start/30/end/65</field>
+<field name="datetime">7/25/2017 0:00:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20170725_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170725_000000_Newsday/BBCNEWS_20170725_000000_Newsday.thumbs/BBCNEWS_20170725_000000_Newsday_000058.jpg</field>
+<field name="snippet">also in the programme: one of the pope's most senior advisors, cardinal george pell, is set to appear in court to face sexual assault charges. and greenland's melting ice fuels fears of catastrophic climate change. we have a special report. only a very small portion of this</field>
+</doc>
+</add>

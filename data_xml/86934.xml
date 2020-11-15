@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191215_163000_Bloodhound#start/1843/end/1878</field>
+<field name="datetime">12/15/2019 17:00:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Bloodhound</field>
+<field name="showid">BBCNEWS_20191215_163000_Bloodhound</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191215_163000_Bloodhound/BBCNEWS_20191215_163000_Bloodhound.thumbs/BBCNEWS_20191215_163000_Bloodhound_001829.jpg</field>
+<field name="snippet">a marathon un climate summit in madrid ends in a compromise, leaving many delegates unhappy. there are millions of people all around the world, who are already suffering from the impacts of climate change.</field>
+</doc>
+</add>

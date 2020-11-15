@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201106.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110610_180000_News_Nation#start/2624/end/2659</field>
+<field name="datetime">6/10/2011 18:43:59</field>
+<field name="station">MSNBC</field>
+<field name="show">News Nation</field>
+<field name="showid">MSNBC_20110610_180000_News_Nation</field>
+<field name="preview">https://archive.org/download/MSNBC_20110610_180000_News_Nation/MSNBC_20110610_180000_News_Nation.thumbs/MSNBC_20110610_180000_News_Nation_002610.jpg</field>
+<field name="snippet">consistent with what we expect for global warming and it's consistent with what we've seen historically and it's consistent with what we see when we analyze climate model experiments for the future going forward.</field>
+</doc>
+</add>

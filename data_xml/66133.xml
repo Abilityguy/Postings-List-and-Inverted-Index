@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190218_100000_Fox_and_Friends_First#start/2276/end/2311</field>
+<field name="datetime">2/18/2019 10:38:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190218_100000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190218_100000_Fox_and_Friends_First/FOXNEWSW_20190218_100000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190218_100000_Fox_and_Friends_First_002249.jpg</field>
+<field name="snippet">rob: ford, let's talk about climate change here for a second, if they try to push, this big thing they are going for at this point. how do you -- okay, let's say america stops putting emissions at all, you still have a terrible problem with this all over the world, china pollutes twice as much as we do.</field>
+</doc>
+</add>

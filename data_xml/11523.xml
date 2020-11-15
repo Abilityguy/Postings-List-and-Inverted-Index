@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190818_050000_Breakfast#start/974/end/1009</field>
+<field name="datetime">8/18/2019 5:16:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190818_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190818_050000_Breakfast/BBCNEWS_20190818_050000_Breakfast.thumbs/BBCNEWS_20190818_050000_Breakfast_000957.jpg</field>
+<field name="snippet">days. tomorrow sees the launch of the bbc's focus on farming. all week looking at the big issues facing the uk agriculture including the possible effects of brexit and climate change. throughout the week,</field>
+</doc>
+</add>

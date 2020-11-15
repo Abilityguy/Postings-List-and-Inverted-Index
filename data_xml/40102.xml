@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201907.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190705_210000_MTP_Daily#start/145/end/180</field>
+<field name="datetime">7/5/2019 21:02:40</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20190705_210000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190705_210000_MTP_Daily/MSNBCW_20190705_210000_MTP_Daily.thumbs/MSNBCW_20190705_210000_MTP_Daily_000148.jpg</field>
+<field name="snippet">world is facing right now, is the environment. climate change, global warming. whether it's climate change or economic injustices. you see a lot of wage</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201410.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141013_200000_Your_World_With_Neil_Cavuto#start/1101/end/1136</field>
+<field name="datetime">10/13/2014 20:18:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20141013_200000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141013_200000_Your_World_With_Neil_Cavuto/FOXNEWSW_20141013_200000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20141013_200000_Your_World_With_Neil_Cavuto_001095.jpg</field>
+<field name="snippet">security in what's the threat? climate change. secretary chuck hagel unveiling a plan to deal with it today. all making conservationist howard gould very happy. howard, i don't want to discuss whether climate change is real or having an impact.</field>
+</doc>
+</add>

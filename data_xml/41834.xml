@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201301.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130121_230000_PoliticsNation#start/1210/end/1245</field>
+<field name="datetime">1/21/2013 23:20:25</field>
+<field name="station">MSNBC</field>
+<field name="show">PoliticsNation</field>
+<field name="showid">MSNBCW_20130121_230000_PoliticsNation</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130121_230000_PoliticsNation/MSNBCW_20130121_230000_PoliticsNation.thumbs/MSNBCW_20130121_230000_PoliticsNation_001186.jpg</field>
+<field name="snippet">but earlier, it was that speech. and he defied expectations again. there were specifics on voting, on gay rights, on women's rights, on climate change, on immigration, on gun control. and he defended the big three entitlements.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170806_100000_BBC_News#start/635/end/670</field>
+<field name="datetime">8/6/2017 10:10:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170806_100000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170806_100000_BBC_News/BBCNEWS_20170806_100000_BBC_News.thumbs/BBCNEWS_20170806_100000_BBC_News_000628.jpg</field>
+<field name="snippet">story with tom burke, the chairman of eg3 an independent climate change think tank. the new review ordered, is this a goodidea? the new review ordered, is this a good idea? i welcome the idea of</field>
+</doc>
+</add>

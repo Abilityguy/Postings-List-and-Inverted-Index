@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180806_233000_HARDtalk#start/1671/end/1706</field>
+<field name="datetime">8/6/2018 23:58:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">HARDtalk</field>
+<field name="showid">BBCNEWS_20180806_233000_HARDtalk</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180806_233000_HARDtalk/BBCNEWS_20180806_233000_HARDtalk.thumbs/BBCNEWS_20180806_233000_HARDtalk_001678.jpg</field>
+<field name="snippet">also in the programme: as record temperatures hit many parts of the globe, scientists say the world is at risk from extremely dangerous levels of climate change.</field>
+</doc>
+</add>

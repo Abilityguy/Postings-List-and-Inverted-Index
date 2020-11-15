@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201612.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161208_110000_Morning_Joe#start/7808/end/7843</field>
+<field name="datetime">12/8/2016 13:10:23</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20161208_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161208_110000_Morning_Joe/MSNBCW_20161208_110000_Morning_Joe.thumbs/MSNBCW_20161208_110000_Morning_Joe_007798.jpg</field>
+<field name="snippet">question that there's climate change. and that humans -- this is a fact check. and that humans actually have an impact on climate change. i think even donald trump is open to that. i know. you have to deal with the facts as they are, not as you</field>
+</doc>
+</add>

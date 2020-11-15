@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201906.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190627_100000_Morning_Joe#start/8706/end/8741</field>
+<field name="datetime">6/27/2019 12:25:21</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20190627_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190627_100000_Morning_Joe/MSNBCW_20190627_100000_Morning_Joe.thumbs/MSNBCW_20190627_100000_Morning_Joe_008698.jpg</field>
+<field name="snippet">it's solar panels and wind turbines and the 8000 parts that go into them. so you address climate change, you get manufacturing jobs back and you drive that investment into the forgotten communities. casey hunt. congressman, on stage last</field>
+</doc>
+</add>

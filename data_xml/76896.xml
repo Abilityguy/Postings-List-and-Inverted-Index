@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190511_120000_BBC_News#start/311/end/346</field>
+<field name="datetime">5/11/2019 12:05:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190511_120000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190511_120000_BBC_News/BBCNEWS_20190511_120000_BBC_News.thumbs/BBCNEWS_20190511_120000_BBC_News_000298.jpg</field>
+<field name="snippet">labour's idea is clearly designed to appeal to younger voters. the verdict from businesses, more detail needed. let's take a look at some of today's other news. concerns over climate change might restrict the growth of aviation in the uk, the government has admitted. a senior civil servant</field>
+</doc>
+</add>

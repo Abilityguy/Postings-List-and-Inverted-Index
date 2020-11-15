@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181124_000000_BBC_News#start/215/end/250</field>
+<field name="datetime">11/24/2018 0:03:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181124_000000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181124_000000_BBC_News/BBCNEWS_20181124_000000_BBC_News.thumbs/BBCNEWS_20181124_000000_BBC_News_000208.jpg</field>
+<field name="snippet">dr michael e mann is an american climatologist and geophysicist, and the author of several books on climate change. hejoins me now from pennsylvania. thank you very much for being with</field>
+</doc>
+</add>

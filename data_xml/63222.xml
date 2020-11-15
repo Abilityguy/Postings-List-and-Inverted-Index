@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190307_210000_Outside_Source#start/291/end/326</field>
+<field name="datetime">3/7/2019 21:05:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20190307_210000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190307_210000_Outside_Source/BBCNEWS_20190307_210000_Outside_Source.thumbs/BBCNEWS_20190307_210000_Outside_Source_001739.jpg</field>
+<field name="snippet">after five days of clear sky conditions, we have this rain. this scientist, jason, needed shelter from the rain on the ice sheet. and he says that global warming will make rainfall more likely in the future. there is a simple threshold, the melting point,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201002.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100218_110000_Morning_Joe#start/4991/end/5026</field>
+<field name="datetime">2/18/2010 12:23:26</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20100218_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20100218_110000_Morning_Joe/MSNBC_20100218_110000_Morning_Joe.thumbs/MSNBC_20100218_110000_Morning_Joe_004976.jpg</field>
+<field name="snippet">are going to go forward with the policies we believe in. climate change, obviously pursuing iran sanctions.</field>
+</doc>
+</add>

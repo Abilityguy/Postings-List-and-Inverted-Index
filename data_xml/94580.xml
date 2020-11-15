@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201004.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100422_170000_Andrea_Mitchell_Reports#start/3472/end/3507</field>
+<field name="datetime">4/22/2010 17:58:07</field>
+<field name="station">MSNBC</field>
+<field name="show">Andrea Mitchell Reports</field>
+<field name="showid">MSNBC_20100422_170000_Andrea_Mitchell_Reports</field>
+<field name="preview">https://archive.org/download/MSNBC_20100422_170000_Andrea_Mitchell_Reports/MSNBC_20100422_170000_Andrea_Mitchell_Reports.thumbs/MSNBC_20100422_170000_Andrea_Mitchell_Reports_003446.jpg</field>
+<field name="snippet">the tallest buildings leave the lightest footprints. a fifty-ton train makes barely a mark on the environment. and a country facing climate change finds climate solutions. somewhere in america, we've already answered</field>
+</doc>
+</add>

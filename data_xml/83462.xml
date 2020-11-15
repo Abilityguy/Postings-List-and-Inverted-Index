@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190422_160000_BBC_News#start/965/end/1000</field>
+<field name="datetime">4/22/2019 16:16:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190422_160000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190422_160000_BBC_News/BBCNEWS_20190422_160000_BBC_News.thumbs/BBCNEWS_20190422_160000_BBC_News_000958.jpg</field>
+<field name="snippet">of whom died in the bombing. police say more than a thousand people have been arrested arrested after seven days of climate change protests.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201412.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141204_220000_The_Five#start/3546/end/3581</field>
+<field name="datetime">12/4/2014 22:59:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20141204_220000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141204_220000_The_Five/FOXNEWSW_20141204_220000_The_Five.thumbs/FOXNEWSW_20141204_220000_The_Five_003525.jpg</field>
+<field name="snippet">ago. five, four, three, two, one -- and it's not solar powered, is it? it's not solar powered. it's not run by a windmill. this is terrible! what about climate change! what about climate change! oh my god, it's so scary.</field>
+</doc>
+</add>

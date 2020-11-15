@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091207_020000_Hannity#start/1900/end/1935</field>
+<field name="datetime">12/7/2009 2:31:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20091207_020000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091207_020000_Hannity/FOXNEWS_20091207_020000_Hannity.thumbs/FOXNEWS_20091207_020000_Hannity_001800.jpg</field>
+<field name="snippet">grill: ok, good talking to you. anncr: accidents are bad. anncr: but geico's good. ding! with 24-hour claims service. the climate change e-mails uncovered shed serious doubts on the science of global warming.</field>
+</doc>
+</add>

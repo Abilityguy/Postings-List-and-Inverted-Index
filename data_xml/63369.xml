@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190323_163000_Victoria_Derbyshire#start/1585/end/1620</field>
+<field name="datetime">3/23/2019 16:56:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20190323_163000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190323_163000_Victoria_Derbyshire/BBCNEWS_20190323_163000_Victoria_Derbyshire.thumbs/BBCNEWS_20190323_163000_Victoria_Derbyshire_001557.jpg</field>
+<field name="snippet">and this will happen in our lives. some people see climate change as something abstract in the future, but it's happening now, and we must realise that. that's it for this week. you can contact us with your</field>
+</doc>
+</add>

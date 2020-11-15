@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200112_220000_BBC_News#start/765/end/800</field>
+<field name="datetime">1/12/2020 22:13:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200112_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200112_220000_BBC_News/BBCNEWS_20200112_220000_BBC_News.thumbs/BBCNEWS_20200112_220000_BBC_News_000749.jpg</field>
+<field name="snippet">of the bushfire crisis, which has killed at least 28 people and destroyed thousands of homes, in the wake of the country s hottest and driest year on record. scott morrison has faced mounting criticism over his governments ties to the coal industry and its record of dismissing action on climate change.</field>
+</doc>
+</add>

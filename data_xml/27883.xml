@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201412.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141213_180000_Americas_News_Headquarters#start/823/end/858</field>
+<field name="datetime">12/13/2014 18:13:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20141213_180000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141213_180000_Americas_News_Headquarters/FOXNEWSW_20141213_180000_Americas_News_Headquarters.thumbs/FOXNEWSW_20141213_180000_Americas_News_Headquarters_000825.jpg</field>
+<field name="snippet">eric garner's chokehold death. u.n. global warming talks in lima, peru, were extended after countries couldn't agree on what 190 partner nations should pledge to do to keep our air</field>
+</doc>
+</add>

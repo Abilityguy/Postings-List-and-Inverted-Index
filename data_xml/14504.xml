@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201812.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181227_220000_MTP_Daily#start/3080/end/3115</field>
+<field name="datetime">12/27/2018 22:51:35</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20181227_220000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181227_220000_MTP_Daily/MSNBCW_20181227_220000_MTP_Daily.thumbs/MSNBCW_20181227_220000_MTP_Daily_003058.jpg</field>
+<field name="snippet">the 'new york times' had a really big editorial on climate change talking about all the ways that countries come together for the paris climate accord have failed to live up to many of their promises. germany. they talk about poland going in and saying we're not going to</field>
+</doc>
+</add>

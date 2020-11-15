@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201203.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120327_100000_FOX_and_Friends#start/1496/end/1531</field>
+<field name="datetime">3/27/2012 10:25:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20120327_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120327_100000_FOX_and_Friends/FOXNEWSW_20120327_100000_FOX_and_Friends.thumbs/FOXNEWSW_20120327_100000_FOX_and_Friends_001495.jpg</field>
+<field name="snippet">thank you, steve. leading global warming scientist putting forward a bold claim that large oil companies such as b.p. and exxon are funding climate change skeptics. our next guest says that claim is simply untrue and in fact, it's the other way around.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181029_110000_BBC_Newsroom_Live#start/6158/end/6193</field>
+<field name="datetime">10/29/2018 12:42:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20181029_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181029_110000_BBC_Newsroom_Live/BBCNEWS_20181029_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20181029_110000_BBC_Newsroom_Live_006147.jpg</field>
+<field name="snippet">brazil's presidential election. the far right candidate took 55 percent in the run-off vote in his victory speech, mr bolsonaro said he would protect freedoms and democracy, and promised to change the destiny of brazil, but concerns have been raised about his policies on climate change and deforestation,</field>
+</doc>
+</add>

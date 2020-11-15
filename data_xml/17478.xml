@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201810.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181011_210000_MTP_Daily#start/2593/end/2628</field>
+<field name="datetime">10/11/2018 21:43:28</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20181011_210000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181011_210000_MTP_Daily/MSNBCW_20181011_210000_MTP_Daily.thumbs/MSNBCW_20181011_210000_MTP_Daily_002578.jpg</field>
+<field name="snippet">we had our three hottest summers on record, we're seeing an increasing number of 90 degree days, 95 degree days. and we're seeing this not just in the summer, but in the winter, all throughout the year. we're seeing this in our backyard. not just climate change, it is urbanization here in the d.c.</field>
+</doc>
+</add>

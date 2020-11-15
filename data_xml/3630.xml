@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170410_120000_BBC_News_at_One#start/1210/end/1245</field>
+<field name="datetime">4/10/2017 12:20:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20170410_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170410_120000_BBC_News_at_One/BBCNEWS_20170410_120000_BBC_News_at_One.thumbs/BBCNEWS_20170410_120000_BBC_News_at_One_001198.jpg</field>
+<field name="snippet">and, this year, the central third of the reef has bleached severely. it's not irreparable but it does depend on whether we have more of these mass bleaching events occurring in the next few years. looking at the global warming trajectories,</field>
+</doc>
+</add>

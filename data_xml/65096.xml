@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190303_110000_Fox_and_Friends_Sunday#start/6414/end/6449</field>
+<field name="datetime">3/3/2019 12:47:09</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20190303_110000_Fox_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190303_110000_Fox_and_Friends_Sunday/FOXNEWSW_20190303_110000_Fox_and_Friends_Sunday.thumbs/FOXNEWSW_20190303_110000_Fox_and_Friends_Sunday_006388.jpg</field>
+<field name="snippet">next guest ended a congressional hearing on climate change this week after some democrats didn't show up. ideas of eliminating air travel are not promising starting points.</field>
+</doc>
+</add>

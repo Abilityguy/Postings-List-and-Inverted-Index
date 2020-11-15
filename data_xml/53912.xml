@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201807.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180712_210000_BBC_News_at_Ten#start/1497/end/1532</field>
+<field name="datetime">7/12/2018 21:25:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20180712_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180712_210000_BBC_News_at_Ten/BBCNEWS_20180712_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20180712_210000_BBC_News_at_Ten_001497.jpg</field>
+<field name="snippet">'we've lost so many people here.' the volume of rain was unprecedented. in one place, half a metre fell in 2a hours. across western japan, four times the averagejuly rainfall came in one week. the link between global climate change and extreme weather events</field>
+</doc>
+</add>

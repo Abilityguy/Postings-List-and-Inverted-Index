@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171231_030000_BBC_News#start/783/end/818</field>
+<field name="datetime">12/31/2017 3:13:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171231_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171231_030000_BBC_News/BBCNEWS_20171231_030000_BBC_News.thumbs/BBCNEWS_20171231_030000_BBC_News_000778.jpg</field>
+<field name="snippet">i'm a climate change scientist specialising in attributing human influence on these weather events and the question that is interesting to me, does global warming change the general circulation of the atmosphere to make this kind of event more likely? you mentioned global warming.</field>
+</doc>
+</add>

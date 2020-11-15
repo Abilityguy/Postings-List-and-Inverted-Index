@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201509.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150915_220000_MSNBC_Live#start/3251/end/3286</field>
+<field name="datetime">9/15/2015 22:54:26</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20150915_220000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150915_220000_MSNBC_Live/MSNBCW_20150915_220000_MSNBC_Live.thumbs/MSNBCW_20150915_220000_MSNBC_Live_003165.jpg</field>
+<field name="snippet">aleve. all day strong. and up next, nbc news goes to the arctic circle. the front lines of the climate change crisis. to clean the oceans, to start a movement,</field>
+</doc>
+</add>

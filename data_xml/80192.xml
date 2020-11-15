@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190517_220000_Special_Report_With_Bret_Baier#start/1952/end/1987</field>
+<field name="datetime">5/17/2019 22:32:47</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20190517_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190517_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20190517_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20190517_220000_Special_Report_With_Bret_Baier_001949.jpg</field>
+<field name="snippet">another headline from the ap in 1922 before protections of man-made climate change, it reads, 'arctic ocean's getting warm, seals vanished, icebergs melt.' a reminder that others forces</field>
+</doc>
+</add>

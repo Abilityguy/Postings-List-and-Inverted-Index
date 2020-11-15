@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190421_150000_BBC_News#start/43/end/78</field>
+<field name="datetime">4/21/2019 15:00:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190421_150000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190421_150000_BBC_News/BBCNEWS_20190421_150000_BBC_News.thumbs/BBCNEWS_20190421_150000_BBC_News_000057.jpg</field>
+<field name="snippet">who is responsible for the attacks. more than 830 people who were protesting in london about climate change have been arrested by police, 42 have been charged. police in west yorkshire have arrested a number of people in connection with fires burning on ilkley moor.</field>
+</doc>
+</add>

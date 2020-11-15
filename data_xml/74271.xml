@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_133000_BBC_News#start/536/end/571</field>
+<field name="datetime">1/16/2020 13:39:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200116_133000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_133000_BBC_News/BBCNEWS_20200116_133000_BBC_News.thumbs/BBCNEWS_20200116_133000_BBC_News_000509.jpg</field>
+<field name="snippet">the oceans cover most of the earth's surface and scientists say they absorb 90% of the excess heat caused by an greenhouse gases. one of the key greenhouse gases is carbon dioxide, measured here at mauna loa in hawaii and, in december, the average level was close to 412 parts per million. now, to put that into some context,</field>
+</doc>
+</add>

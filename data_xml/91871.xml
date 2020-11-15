@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190711_000000_Tucker_Carlson_Tonight#start/1865/end/1900</field>
+<field name="datetime">7/11/2019 0:31:20</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190711_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190711_000000_Tucker_Carlson_Tonight/FOXNEWSW_20190711_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190711_000000_Tucker_Carlson_Tonight_001858.jpg</field>
+<field name="snippet">on what grounds are you running for president? it remains to be seen. he does think that impeachment and climate change of the two big things but here's the other thing, the green new deal has pretty much been adopted by all of the 2020 democratic candidates.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091207_210000_MSNBC_News_Live#start/3310/end/3345</field>
+<field name="datetime">12/7/2009 21:55:25</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091207_210000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091207_210000_MSNBC_News_Live/MSNBC_20091207_210000_MSNBC_News_Live.thumbs/MSNBC_20091207_210000_MSNBC_News_Live_003293.jpg</field>
+<field name="snippet">gathering at the white house right now. president obama's holding a meeting at this hour on climate change with former vice president al gore. the president heads to copenhagen next week for a summit on global warming. and the former vice president al</field>
+</doc>
+</add>

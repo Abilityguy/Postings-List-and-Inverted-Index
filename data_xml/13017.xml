@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201303.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130324_200000_Americas_News_Headquarters#start/6990/end/7025</field>
+<field name="datetime">3/24/2013 21:56:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20130324_200000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130324_200000_Americas_News_Headquarters/FOXNEWSW_20130324_200000_Americas_News_Headquarters.thumbs/FOXNEWSW_20130324_200000_Americas_News_Headquarters_006975.jpg</field>
+<field name="snippet">the warmer weather because of global warming and the increase in carbon dioxide due to pollution and industrialization will cause a more intense pollen spreading as well as a longer season. is there anything people can do? if you have bad allergies, you</field>
+</doc>
+</add>

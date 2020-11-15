@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_090000_BBC_News_at_9#start/3208/end/3243</field>
+<field name="datetime">1/16/2020 9:53:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20200116_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_090000_BBC_News_at_9/BBCNEWS_20200116_090000_BBC_News_at_9.thumbs/BBCNEWS_20200116_090000_BBC_News_at_9_003208.jpg</field>
+<field name="snippet">high and that is important. the oceans cover most of the earth's surface and scientists say they absorb 90% of the excess heat caused by an greenhouse gases. one of the key greenhouse gases is carbon dioxide, measured here at mauna loa in hawaii</field>
+</doc>
+</add>

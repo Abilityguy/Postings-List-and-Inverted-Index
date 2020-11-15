@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190131_090000_BBC_News_at_9#start/738/end/773</field>
+<field name="datetime">1/31/2019 9:12:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20190131_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190131_090000_BBC_News_at_9/BBCNEWS_20190131_090000_BBC_News_at_9.thumbs/BBCNEWS_20190131_090000_BBC_News_at_9_000717.jpg</field>
+<field name="snippet">to rise above freezing by the weekend, scientists have warned that climate change makes these extreme weather events likely to happen more often. kim gittleson, bbc news. 0ur north america correspondent chris buckler sent us</field>
+</doc>
+</add>

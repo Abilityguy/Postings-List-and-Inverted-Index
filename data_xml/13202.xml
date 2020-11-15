@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201101.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110125_230000_Special_Report_With_Bret_Baier#start/2768/end/2803</field>
+<field name="datetime">1/25/2011 23:46:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20110125_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110125_230000_Special_Report_With_Bret_Baier/FOXNEWS_20110125_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20110125_230000_Special_Report_With_Bret_Baier_002754.jpg</field>
+<field name="snippet">it may mean climate change is set aside but look, that's precisely the context for the sputnik moment comment the president used the language before in a speech he gave in north carolina at forsyth tech.</field>
+</doc>
+</add>

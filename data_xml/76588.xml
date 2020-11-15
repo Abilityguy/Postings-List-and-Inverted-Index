@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190504_133000_Weather_World#start/1256/end/1291</field>
+<field name="datetime">5/4/2019 13:51:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20190504_133000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190504_133000_Weather_World/BBCNEWS_20190504_133000_Weather_World.thumbs/BBCNEWS_20190504_133000_Weather_World_001229.jpg</field>
+<field name="snippet">plants from places like islands which are very vulnerable to rising sea level, alpine species which are very vulnerable to climate change, they can't go any higher, there's nowhere to go. and when the seeds arrive, it starts here?</field>
+</doc>
+</add>

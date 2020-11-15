@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201105.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110514_000000_The_OReilly_Factor#start/1206/end/1241</field>
+<field name="datetime">5/14/2011 0:20:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20110514_000000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110514_000000_The_OReilly_Factor/FOXNEWS_20110514_000000_The_OReilly_Factor.thumbs/FOXNEWS_20110514_000000_The_OReilly_Factor_001200.jpg</field>
+<field name="snippet">no. but we do agree our country must take action to address climate change. we need cleaner forms of energy, and we need them fast. if enough of us demand action from our leaders, we can spark the innovation we need. go to we can solve it dot</field>
+</doc>
+</add>

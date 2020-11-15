@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201505.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150520_150000_NewsNation#start/2362/end/2397</field>
+<field name="datetime">5/20/2015 15:39:37</field>
+<field name="station">MSNBC</field>
+<field name="show">NewsNation</field>
+<field name="showid">MSNBCW_20150520_150000_NewsNation</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150520_150000_NewsNation/MSNBCW_20150520_150000_NewsNation.thumbs/MSNBCW_20150520_150000_NewsNation_002355.jpg</field>
+<field name="snippet">but what you're seeing the president do in the fourth quarter of his presidency is really try to lay the groundwork for issues other folks can take up be it hillary clinton if she becomes the next president, republicans if climate change is</field>
+</doc>
+</add>

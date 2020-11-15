@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201402.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140216_190000_Meet_the_Press#start/2303/end/2338</field>
+<field name="datetime">2/16/2014 19:38:38</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20140216_190000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140216_190000_Meet_the_Press/MSNBCW_20140216_190000_Meet_the_Press.thumbs/MSNBCW_20140216_190000_Meet_the_Press_002295.jpg</field>
+<field name="snippet">wallace. i want to pick up on the politics of weather, david, because there is agreement about where we are, about climate change being real, that it's caused by humans.</field>
+</doc>
+</add>

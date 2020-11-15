@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201607.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160703_100000_Fox_and_Friends_Sunday#start/687/end/722</field>
+<field name="datetime">7/3/2016 10:11:42</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20160703_100000_Fox_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160703_100000_Fox_and_Friends_Sunday/FOXNEWSW_20160703_100000_Fox_and_Friends_Sunday.thumbs/FOXNEWSW_20160703_100000_Fox_and_Friends_Sunday_000687.jpg</field>
+<field name="snippet">clinton? and leonardo dicaprio considers himself a climate change crusader. i'm king of the world. but his latest trip to fame.</field>
+</doc>
+</add>

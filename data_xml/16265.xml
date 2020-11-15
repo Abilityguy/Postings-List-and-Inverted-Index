@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201502.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150227_100000_FOX_and_Friends_First#start/2265/end/2300</field>
+<field name="datetime">2/27/2015 10:38:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends First</field>
+<field name="showid">FOXNEWSW_20150227_100000_FOX_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150227_100000_FOX_and_Friends_First/FOXNEWSW_20150227_100000_FOX_and_Friends_First.thumbs/FOXNEWSW_20150227_100000_FOX_and_Friends_First_002265.jpg</field>
+<field name="snippet">seen before on the senate floor. it is very very cold out. very unseasonal. mr. president catch this. he throws a snowball while disputing climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191101_000000_All_In_With_Chris_Hayes#start/3028/end/3063</field>
+<field name="datetime">11/1/2019 0:50:43</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20191101_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191101_000000_All_In_With_Chris_Hayes/MSNBCW_20191101_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20191101_000000_All_In_With_Chris_Hayes_003028.jpg</field>
+<field name="snippet">that could one day power planes, propel ships, and fuel trucks. and cut their greenhouse gas emissions in half. algae. its potential just keeps growing.</field>
+</doc>
+</add>

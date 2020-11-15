@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20200111_010000_Tucker_Carlson_Tonight#start/826/end/861</field>
+<field name="datetime">1/11/2020 1:14:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20200111_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20200111_010000_Tucker_Carlson_Tonight/FOXNEWSW_20200111_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20200111_010000_Tucker_Carlson_Tonight_000809.jpg</field>
+<field name="snippet">conversation about things like climate change and racial and ethnic justice and those kind of things that, you know, other sides, the other side does not want to have the conversation. so it's important to pull those people in and let them know that being moderate does not create</field>
+</doc>
+</add>

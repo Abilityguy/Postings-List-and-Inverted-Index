@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190422_050000_Breakfast#start/10838/end/10873</field>
+<field name="datetime">4/22/2019 8:00:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190422_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190422_050000_Breakfast/BBCNEWS_20190422_050000_Breakfast.thumbs/BBCNEWS_20190422_050000_Breakfast_010827.jpg</field>
+<field name="snippet">a week of climate change protests on waterloo bridge in london are brought to an end by police, who removed the final activists from the site late last night.</field>
+</doc>
+</add>

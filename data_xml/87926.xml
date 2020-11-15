@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191222_120000_BBC_News#start/237/end/272</field>
+<field name="datetime">12/22/2019 12:04:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191222_120000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191222_120000_BBC_News/BBCNEWS_20191222_120000_BBC_News.thumbs/BBCNEWS_20191222_120000_BBC_News_000239.jpg</field>
+<field name="snippet">change, we are taking action on climate change. arson, lightning strikes, even self combusting piles of manure, have all been blamed for triggering the blazes. first, though, the authorities have to try and take control of the flames before they can try and control the causes</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201402.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140216_190000_Meet_the_Press#start/1254/end/1289</field>
+<field name="datetime">2/16/2014 19:21:09</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20140216_190000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140216_190000_Meet_the_Press/MSNBCW_20140216_190000_Meet_the_Press.thumbs/MSNBCW_20140216_190000_Meet_the_Press_001245.jpg</field>
+<field name="snippet">in the scientific community, this is not a debate whether climate change is real. the consensus is that it is. the majority of those who believe that it is caused by humans. there are certainly some in the scientific community who don't believe that's the case. and who are skeptical about some of those conclusions. but nevertheless, there is still</field>
+</doc>
+</add>

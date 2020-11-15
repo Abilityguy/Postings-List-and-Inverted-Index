@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190419_110000_BBC_News#start/2561/end/2596</field>
+<field name="datetime">4/19/2019 11:42:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190419_110000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190419_110000_BBC_News/BBCNEWS_20190419_110000_BBC_News.thumbs/BBCNEWS_20190419_110000_BBC_News_002548.jpg</field>
+<field name="snippet">in londonderry as 'shocking and truly senseless'. it's also been condemned by political leaders in northern ireland and the irish taoiseach. climate change protests in london are entering their fifth day</field>
+</doc>
+</add>

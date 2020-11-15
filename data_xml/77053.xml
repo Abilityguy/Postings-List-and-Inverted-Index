@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190518_013000_The_Week_in_Parliament#start/1350/end/1385</field>
+<field name="datetime">5/18/2019 1:52:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Week in Parliament</field>
+<field name="showid">BBCNEWS_20190518_013000_The_Week_in_Parliament</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190518_013000_The_Week_in_Parliament/BBCNEWS_20190518_013000_The_Week_in_Parliament.thumbs/BBCNEWS_20190518_013000_The_Week_in_Parliament_001348.jpg</field>
+<field name="snippet">at two, crossbench peer lord singh put in a polite request for president trump to listen to climate change concerns on this side of the pond. could the government get the united states president to drop in on one of these classes during his visit? and at one, election officials in india crossed land and sea to bring voting machines to a remote</field>
+</doc>
+</add>

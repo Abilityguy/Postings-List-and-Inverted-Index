@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201502.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150219_220000_The_Five#start/1547/end/1582</field>
+<field name="datetime">2/19/2015 22:26:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20150219_220000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150219_220000_The_Five/FOXNEWSW_20150219_220000_The_Five.thumbs/FOXNEWSW_20150219_220000_The_Five_001515.jpg</field>
+<field name="snippet">but president obama will target those who don't believe in climate change. that is next. startup-ny. it's working for new york state. already 55 companies are investing over $98 million dollars and creating over 2100 jobs.</field>
+</doc>
+</add>

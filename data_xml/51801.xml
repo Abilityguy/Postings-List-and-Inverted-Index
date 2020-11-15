@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181201_103000_The_Travel_Show#start/187/end/222</field>
+<field name="datetime">12/1/2018 10:33:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Travel Show</field>
+<field name="showid">BBCNEWS_20181201_103000_The_Travel_Show</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181201_103000_The_Travel_Show/BBCNEWS_20181201_103000_The_Travel_Show.thumbs/BBCNEWS_20181201_103000_The_Travel_Show_000177.jpg</field>
+<field name="snippet">police in paris fire tear gas as protesters take to the streets against president macron's policy of raising fuel taxes to combat global warming. alaska is rocked by aftershocks after the powerful earthquake</field>
+</doc>
+</add>

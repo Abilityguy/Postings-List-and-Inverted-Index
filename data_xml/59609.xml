@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201112.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20111204_150000_Weekends_With_Alex_Witt#start/4905/end/4940</field>
+<field name="datetime">12/4/2011 16:22:00</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20111204_150000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20111204_150000_Weekends_With_Alex_Witt/MSNBCW_20111204_150000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20111204_150000_Weekends_With_Alex_Witt_004887.jpg</field>
+<field name="snippet">position on issues like climate change and healthcare mandates, those were the things that created some uncertainty monday the voters. i think that's going to be the nature of the attack by his rivals against him. that he's a flipflopper like mitt romney. that he's not a true conservative you can trust.</field>
+</doc>
+</add>

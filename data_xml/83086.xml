@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191011_184500_Newswatch#start/477/end/512</field>
+<field name="datetime">10/11/2019 18:53:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newswatch</field>
+<field name="showid">BBCNEWS_20191011_184500_Newswatch</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191011_184500_Newswatch/BBCNEWS_20191011_184500_Newswatch.thumbs/BBCNEWS_20191011_184500_Newswatch_000479.jpg</field>
+<field name="snippet">spoken, is the word from within the bbc. there is an association between man's activities and climate change but after that there is a massive debate about how the effects will roll out and what we do about them.</field>
+</doc>
+</add>

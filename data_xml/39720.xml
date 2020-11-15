@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091116_050000_Red_Eye#start/1898/end/1933</field>
+<field name="datetime">11/16/2009 5:31:53</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20091116_050000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091116_050000_Red_Eye/FOXNEWS_20091116_050000_Red_Eye.thumbs/FOXNEWS_20091116_050000_Red_Eye_001890.jpg</field>
+<field name="snippet">now, the united states is a highly developed country. as i said before, per capita consumes much more energy and emits much more greenhouse gases for each individual than does china. on the other hand, china is growing at a much faster pace</field>
+</doc>
+</add>

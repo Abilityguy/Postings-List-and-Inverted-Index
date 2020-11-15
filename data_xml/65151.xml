@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190331_100000_Fox_and_Friends_Sunday#start/1064/end/1099</field>
+<field name="datetime">3/31/2019 10:17:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20190331_100000_Fox_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190331_100000_Fox_and_Friends_Sunday/FOXNEWSW_20190331_100000_Fox_and_Friends_Sunday.thumbs/FOXNEWSW_20190331_100000_Fox_and_Friends_Sunday_001047.jpg</field>
+<field name="snippet">congresswoman alexandria ocasio-cortez comparing the impact of climate change, yes, to september 11th and the terror attacks. our next guest worked with for president bush when 9/11 happened.</field>
+</doc>
+</add>

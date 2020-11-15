@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201909.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190923_100000_Morning_Joe#start/2700/end/2735</field>
+<field name="datetime">9/23/2019 10:45:15</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20190923_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190923_100000_Morning_Joe/MSNBCW_20190923_100000_Morning_Joe.thumbs/MSNBCW_20190923_100000_Morning_Joe_002577.jpg</field>
+<field name="snippet">44 past the hour. live look at the white house this morning. world leaders gather at the united nations this morning and a big focus of the general assembly this week will be on addressing climate change. at the same time, president trump will be holding his own</field>
+</doc>
+</add>

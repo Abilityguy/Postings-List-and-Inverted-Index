@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201401.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140127_030000_Stossel#start/66/end/101</field>
+<field name="datetime">1/27/2014 3:01:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Stossel</field>
+<field name="showid">FOXNEWSW_20140127_030000_Stossel</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140127_030000_Stossel/FOXNEWSW_20140127_030000_Stossel.thumbs/FOXNEWSW_20140127_030000_Stossel_000045.jpg</field>
+<field name="snippet">and now, john stossel. i titled this program, chill out because after i researched the global warming scare, this was my conclusion. we ought to just chill out. our government isn't chilling</field>
+</doc>
+</add>

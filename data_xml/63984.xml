@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201410.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20141014_200000_NOW_With_Alex_Wagner#start/718/end/753</field>
+<field name="datetime">10/14/2014 20:12:13</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20141014_200000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20141014_200000_NOW_With_Alex_Wagner/MSNBCW_20141014_200000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20141014_200000_NOW_With_Alex_Wagner_000706.jpg</field>
+<field name="snippet">rate hits 70% as the who warns there could be $10000 infections per week. plus climate change a threat to national security, while republicans on the debate stage</field>
+</doc>
+</add>

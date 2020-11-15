@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100213_170000_Americas_News_HQ#start/3116/end/3151</field>
+<field name="datetime">2/13/2010 17:52:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWS_20100213_170000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100213_170000_Americas_News_HQ/FOXNEWS_20100213_170000_Americas_News_HQ.thumbs/FOXNEWS_20100213_170000_Americas_News_HQ_003113.jpg</field>
+<field name="snippet">snows in washington and in 49 states all over the country, what they've said is that oh, no, wait a minute, there's global warming expects at that kind of storm. i mean, they will not be-- let me say, you do hear, we</field>
+</doc>
+</add>

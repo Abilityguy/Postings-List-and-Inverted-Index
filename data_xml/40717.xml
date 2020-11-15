@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201708.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170808_090000_First_Look#start/1816/end/1851</field>
+<field name="datetime">8/8/2017 9:30:31</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20170808_090000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170808_090000_First_Look/MSNBCW_20170808_090000_First_Look.thumbs/MSNBCW_20170808_090000_First_Look_001798.jpg</field>
+<field name="snippet">welcome back. it is the bottom of the hour. let's start with the morning's top stories. a new federal report is suggesting a strong link between humans and climate change. the 'new york times' claiming to have obtained a draft copy of the government document, which</field>
+</doc>
+</add>

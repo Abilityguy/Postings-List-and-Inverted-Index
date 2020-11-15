@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181129_190000_Beyond_100_Days#start/46/end/81</field>
+<field name="datetime">11/29/2018 19:01:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20181129_190000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181129_190000_Beyond_100_Days/BBCNEWS_20181129_190000_Beyond_100_Days.thumbs/BBCNEWS_20181129_190000_Beyond_100_Days_000057.jpg</field>
+<field name="snippet">a scheduled meeting this weekend with vladimir putin, saying the situation in ukraine makes it bad timing. also on the programme: the planet is getting hotter, and according to the experts, these past four years were some of the hottest on record. how do we curtail the greenhouse</field>
+</doc>
+</add>

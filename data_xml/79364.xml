@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201402.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140205_210000_NOW_With_Alex_Wagner#start/2203/end/2238</field>
+<field name="datetime">2/5/2014 21:36:58</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20140205_210000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140205_210000_NOW_With_Alex_Wagner/MSNBCW_20140205_210000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20140205_210000_NOW_With_Alex_Wagner_002176.jpg</field>
+<field name="snippet">the company has embraced the idea of climate change as an economically disruptive force. that would seem to be important because it takes it out of the political narrative and places it squarely in the business and economic box.</field>
+</doc>
+</add>

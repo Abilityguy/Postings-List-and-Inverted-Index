@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201502.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150224_040000_All_In_With_Chris_Hayes#start/2445/end/2480</field>
+<field name="datetime">2/24/2015 4:41:00</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20150224_040000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150224_040000_All_In_With_Chris_Hayes/MSNBCW_20150224_040000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20150224_040000_All_In_With_Chris_Hayes_002445.jpg</field>
+<field name="snippet">because in reality, the vast majority of scientists agree that climate change is very real. you may have seen a pie chart that demonstrates that large consensus. you may have wondered who makes up the other 3%? who are the people in that</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201903.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190315_160000_Andrea_Mitchell_Reports#start/1809/end/1844</field>
+<field name="datetime">3/15/2019 16:30:24</field>
+<field name="station">MSNBC</field>
+<field name="show">Andrea Mitchell Reports</field>
+<field name="showid">MSNBCW_20190315_160000_Andrea_Mitchell_Reports</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190315_160000_Andrea_Mitchell_Reports/MSNBCW_20190315_160000_Andrea_Mitchell_Reports.thumbs/MSNBCW_20190315_160000_Andrea_Mitchell_Reports_001798.jpg</field>
+<field name="snippet">voters don't seem focused on that controversy, instead they're focused on the issues, specifically climate change and the environment, here in portsmouth. she was here to do a town hall style event on water quality.</field>
+</doc>
+</add>

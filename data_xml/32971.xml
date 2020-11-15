@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091210_160000_Happening_Now#start/3827/end/3862</field>
+<field name="datetime">12/10/2009 17:04:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091210_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091210_160000_Happening_Now/FOXNEWS_20091210_160000_Happening_Now.thumbs/FOXNEWS_20091210_160000_Happening_Now_003830.jpg</field>
+<field name="snippet">jon: in copenhagen, world leaders are looking for a way to reduce greenhouse gases all over the globe. the flying machines that circle the globe to be a big target,</field>
+</doc>
+</add>

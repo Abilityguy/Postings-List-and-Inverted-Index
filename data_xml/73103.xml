@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190122_220000_BBC_News_at_Ten#start/1449/end/1484</field>
+<field name="datetime">1/22/2019 22:24:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20190122_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190122_220000_BBC_News_at_Ten/BBCNEWS_20190122_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20190122_220000_BBC_News_at_Ten_001438.jpg</field>
+<field name="snippet">and now, a new enemy, climate change, threatening the world's most vulnerable lands. mali fights on many fronts. un forces are on the ground here, the world's most dangerous</field>
+</doc>
+</add>

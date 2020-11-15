@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201812.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181206_110000_Morning_Joe#start/6595/end/6630</field>
+<field name="datetime">12/6/2018 12:50:10</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20181206_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181206_110000_Morning_Joe/MSNBCW_20181206_110000_Morning_Joe.thumbs/MSNBCW_20181206_110000_Morning_Joe_005360.jpg</field>
+<field name="snippet">we hear climate change, beachfront property in scranton, but somehow it doesn't grab people, especially the older people get, that this is such a critical issue. how do you as a candidate</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201410.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20141025_160000_Weekends_With_Alex_Witt#start/3105/end/3140</field>
+<field name="datetime">10/25/2014 16:52:00</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20141025_160000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20141025_160000_Weekends_With_Alex_Witt/MSNBCW_20141025_160000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20141025_160000_Weekends_With_Alex_Witt_003075.jpg</field>
+<field name="snippet">jobs, health care and climate change. both sides going green as they spend big bucks on political ads to prove it. there are more reasons than ever why now is the best time to be on verizon. one: verizon's the largest, most reliable 4g lte network</field>
+</doc>
+</add>

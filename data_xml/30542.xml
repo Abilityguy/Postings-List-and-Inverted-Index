@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.202001.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20200112_030000_The_Last_Word_With_Lawrence_ODonnell#start/3301/end/3336</field>
+<field name="datetime">1/12/2020 3:55:16</field>
+<field name="station">MSNBC</field>
+<field name="show">The Last Word With Lawrence ODonnell</field>
+<field name="showid">MSNBCW_20200112_030000_The_Last_Word_With_Lawrence_ODonnell</field>
+<field name="preview">https://archive.org/download/MSNBCW_20200112_030000_The_Last_Word_With_Lawrence_ODonnell/MSNBCW_20200112_030000_The_Last_Word_With_Lawrence_ODonnell.thumbs/MSNBCW_20200112_030000_The_Last_Word_With_Lawrence_ODonnell_003298.jpg</field>
+<field name="snippet">welcome back. joining us now from sydney, australia, michael mann, distinguished professor of atmospheric science at penn state university, the author of 'the madhouse effect: how climate change denial is threatening our planet, destroying our politics, and driving us crazy.' my go-to guy when there are</field>
+</doc>
+</add>

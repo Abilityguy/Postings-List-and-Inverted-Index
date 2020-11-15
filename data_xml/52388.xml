@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181209_210000_World_News_Today#start/724/end/759</field>
+<field name="datetime">12/9/2018 21:12:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20181209_210000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181209_210000_World_News_Today/BBCNEWS_20181209_210000_World_News_Today.thumbs/BBCNEWS_20181209_210000_World_News_Today_000717.jpg</field>
+<field name="snippet">wake up! taking to the streets of katowice, thousands of protesters from around the world have descended on this city to make their voices heard, saying more needs to be done to protect the world from the devastating impacts of climate change. we need to do something now,</field>
+</doc>
+</add>

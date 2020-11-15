@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201110.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111003_100000_FOX_and_Friends#start/6357/end/6392</field>
+<field name="datetime">10/3/2011 11:46:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20111003_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111003_100000_FOX_and_Friends/FOXNEWSW_20111003_100000_FOX_and_Friends.thumbs/FOXNEWSW_20111003_100000_FOX_and_Friends_006356.jpg</field>
+<field name="snippet">what do the occupy wall street protesters stand for? some claim they're rallying against corporate greed. others say they're fighting global warming, social inequity, gas prices. joining us right now is fox news</field>
+</doc>
+</add>

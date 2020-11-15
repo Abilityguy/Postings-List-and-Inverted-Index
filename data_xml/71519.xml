@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190129_110000_FOX__Friends#start/3690/end/3725</field>
+<field name="datetime">1/29/2019 12:01:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20190129_110000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190129_110000_FOX__Friends/FOXNEWSW_20190129_110000_FOX__Friends.thumbs/FOXNEWSW_20190129_110000_FOX__Friends_003690.jpg</field>
+<field name="snippet">one of the reasons the president made a joke hey where is the global warming? we could use it right about now. brian: he tweeted it out. the president was bringing it up. it was true that climate change became climate change</field>
+</doc>
+</add>

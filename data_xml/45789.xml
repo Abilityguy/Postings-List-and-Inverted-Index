@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201909.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190919_210000_MTP_Daily#start/1982/end/2017</field>
+<field name="datetime">9/19/2019 21:33:17</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20190919_210000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190919_210000_MTP_Daily/MSNBCW_20190919_210000_MTP_Daily.thumbs/MSNBCW_20190919_210000_MTP_Daily_001978.jpg</field>
+<field name="snippet">climate change. you are looking live for instance at georgetown university here in washington, d.c. where they are in a bit of a break right now. but all day today and tomorrow, presidentials are talking with younger voters about an issue that is becoming increasingly important, two voters ahead of</field>
+</doc>
+</add>

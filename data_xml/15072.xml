@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201306.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130625_090000_FOX_and_Friends_First#start/2720/end/2755</field>
+<field name="datetime">6/25/2013 9:45:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends First</field>
+<field name="showid">FOXNEWSW_20130625_090000_FOX_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130625_090000_FOX_and_Friends_First/FOXNEWSW_20130625_090000_FOX_and_Friends_First.thumbs/FOXNEWSW_20130625_090000_FOX_and_Friends_First_002715.jpg</field>
+<field name="snippet">yesterday with prices falling partially due to the prospect the president will announce plans for regulating greenhouse gas emissions for the first time.</field>
+</doc>
+</add>

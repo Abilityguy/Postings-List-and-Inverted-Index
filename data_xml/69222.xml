@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201109.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20110902_100000_FOX_and_Friends#start/6932/end/6967</field>
+<field name="datetime">9/2/2011 11:55:47</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20110902_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20110902_100000_FOX_and_Friends/FOXNEWSW_20110902_100000_FOX_and_Friends.thumbs/FOXNEWSW_20110902_100000_FOX_and_Friends_006927.jpg</field>
+<field name="snippet">so i think people have so much cynicism now that they think well, well, do i really know for sure this is harming the fetus? we know that for sure. but people look at global warming and they're like, well, look, now there's another side to that debate.</field>
+</doc>
+</add>

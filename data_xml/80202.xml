@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190514_080000_Fox_and_Friends_First#start/40/end/75</field>
+<field name="datetime">5/14/2019 8:00:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190514_080000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190514_080000_Fox_and_Friends_First/FOXNEWSW_20190514_080000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190514_080000_Fox_and_Friends_First_000029.jpg</field>
+<field name="snippet">cripple ships in the middle east. the green new deal taking center stage for 2020. unlike the president of the united states, you know that climate change is not a hoax.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201702.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170208_090000_Special_Report_With_Bret_Baier#start/1679/end/1714</field>
+<field name="datetime">2/8/2017 9:28:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20170208_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170208_090000_Special_Report_With_Bret_Baier/FOXNEWSW_20170208_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20170208_090000_Special_Report_With_Bret_Baier_001677.jpg</field>
+<field name="snippet">the accusations are explosive, that the national oceanic and atmospheric administration intentionally manipulated data to hide a 12 year pause and global warming and that the study was a major influence in the 2015 paris climate summit where western nations agreed to spend billions</field>
+</doc>
+</add>

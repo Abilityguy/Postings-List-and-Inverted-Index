@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090926_183000_FOX_News_Watch#start/903/end/938</field>
+<field name="datetime">9/26/2009 18:45:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Watch</field>
+<field name="showid">FOXNEWS_20090926_183000_FOX_News_Watch</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090926_183000_FOX_News_Watch/FOXNEWS_20090926_183000_FOX_News_Watch.thumbs/FOXNEWS_20090926_183000_FOX_News_Watch_000895.jpg</field>
+<field name="snippet">e-mail us at fox news watch. we'll be back to talk about the crazy lead earths at the u.n. the u.n., danger posed by climate change cannot be denied. loses out to coverage of the</field>
+</doc>
+</add>

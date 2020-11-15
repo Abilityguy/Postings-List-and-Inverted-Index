@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201110.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111002_100000_FOX_and_Friends_Sunday#start/7710/end/7745</field>
+<field name="datetime">10/2/2011 12:08:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20111002_100000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111002_100000_FOX_and_Friends_Sunday/FOXNEWSW_20111002_100000_FOX_and_Friends_Sunday.thumbs/FOXNEWSW_20111002_100000_FOX_and_Friends_Sunday_007710.jpg</field>
+<field name="snippet">in new york, and that's when police started cuffing them for disorderly conduct. protests started about two weeks ago in the wall street area, rallying against corporate greed, global warming and social equality. many of them when interviewed don't know why they're out</field>
+</doc>
+</add>

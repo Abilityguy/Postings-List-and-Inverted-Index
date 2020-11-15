@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170508_043000_World_Business_Report#start/785/end/820</field>
+<field name="datetime">5/8/2017 4:43:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World Business Report</field>
+<field name="showid">BBCNEWS_20170508_043000_World_Business_Report</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170508_043000_World_Business_Report/BBCNEWS_20170508_043000_World_Business_Report.thumbs/BBCNEWS_20170508_043000_World_Business_Report_000777.jpg</field>
+<field name="snippet">the latest headlines: france's president-elect - the pro-european centrist emmanuel macron - has promised to unite the country, restore confidence in the eu, and tackle terrorism and climate change. his first priority following his decisive win will be to form a new government. his defeated rival, marine le pen,</field>
+</doc>
+</add>

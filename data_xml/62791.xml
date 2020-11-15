@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201308.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130826_050000_Stossel#start/1056/end/1091</field>
+<field name="datetime">8/26/2013 5:17:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Stossel</field>
+<field name="showid">FOXNEWSW_20130826_050000_Stossel</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130826_050000_Stossel/FOXNEWSW_20130826_050000_Stossel.thumbs/FOXNEWSW_20130826_050000_Stossel_001035.jpg</field>
+<field name="snippet">environmentalist points out that europe promised to cut greenhouse gas emissions but didn't cut them. we managed to cut half what you accidentally happened to do when you stumbled on fracking. john: so it brings fuel</field>
+</doc>
+</add>

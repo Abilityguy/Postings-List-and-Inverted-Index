@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201010.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101001_100000_Morning_Joe#start/3294/end/3329</field>
+<field name="datetime">10/1/2010 10:55:09</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20101001_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20101001_100000_Morning_Joe/MSNBC_20101001_100000_Morning_Joe.thumbs/MSNBC_20101001_100000_Morning_Joe_003293.jpg</field>
+<field name="snippet">show, lawrence o'donnell grilled another distinguished american political leader. what's your position on global warming? would you support a moratorium on foreclosures? do you think the pakistani government is protecting al qaeda within its borders.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191128_220000_BBC_News_at_Ten#start/1044/end/1079</field>
+<field name="datetime">11/28/2019 22:17:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20191128_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191128_220000_BBC_News_at_Ten/BBCNEWS_20191128_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20191128_220000_BBC_News_at_Ten_001018.jpg</field>
+<field name="snippet">about the parties' policies on climate change, you can visit bbc.co.uk/election. borisjohnson still hasn't confirmed if he'll be interviewed by the bbc's andrew neil before the election. mr neil's interviews with party leaders have already included</field>
+</doc>
+</add>

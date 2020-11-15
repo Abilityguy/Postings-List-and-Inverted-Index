@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171108_003000_HARDtalk#start/15/end/50</field>
+<field name="datetime">11/8/2017 0:30:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">HARDtalk</field>
+<field name="showid">BBCNEWS_20171108_003000_HARDtalk</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171108_003000_HARDtalk/BBCNEWS_20171108_003000_HARDtalk.thumbs/BBCNEWS_20171108_003000_HARDtalk_000058.jpg</field>
+<field name="snippet">more details are emerging from the leaked paradise papers. they reveal that prince charles campaigned for climate change agreements to be altered without disclosing that his private estate had a financial interest in the reforms. and this story is trending on bbc.com. edward enninful, the first black</field>
+</doc>
+</add>

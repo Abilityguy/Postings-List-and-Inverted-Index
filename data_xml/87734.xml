@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191220_040000_BBC_News#start/334/end/369</field>
+<field name="datetime">12/20/2019 4:05:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191220_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191220_040000_BBC_News/BBCNEWS_20191220_040000_BBC_News.thumbs/BBCNEWS_20191220_040000_BBC_News_000328.jpg</field>
+<field name="snippet">know it is difficult to link particular events and even particular disasters to climate change but surely no doubt something big is changing and there is a new normal? of course. this is now, we have to accept, that this</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20200105_110000_FOX_and_Friends_Sunday#start/10242/end/10277</field>
+<field name="datetime">1/5/2020 13:50:57</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20200105_110000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20200105_110000_FOX_and_Friends_Sunday/FOXNEWSW_20200105_110000_FOX_and_Friends_Sunday.thumbs/FOXNEWSW_20200105_110000_FOX_and_Friends_Sunday_010229.jpg</field>
+<field name="snippet">bringing some facts. in the meantime, where's the beef in apparently not at the golden globes. the awards show going vegan to combat climate change and they want you to do the same. our next guest calls out</field>
+</doc>
+</add>

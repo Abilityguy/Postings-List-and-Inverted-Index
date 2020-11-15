@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20200104_170000_Americas_News_Headquarters_With_Ed_Henry#start/970/end/1005</field>
+<field name="datetime">1/4/2020 17:16:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters With Ed Henry</field>
+<field name="showid">FOXNEWSW_20200104_170000_Americas_News_Headquarters_With_Ed_Henry</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20200104_170000_Americas_News_Headquarters_With_Ed_Henry/FOXNEWSW_20200104_170000_Americas_News_Headquarters_With_Ed_Henry.thumbs/FOXNEWSW_20200104_170000_Americas_News_Headquarters_With_Ed_Henry_000959.jpg</field>
+<field name="snippet">about climate change, they're talking about health care, the need to remove president trump from office in this election. now though with this news, ed, foreign policy seems to be a bigger issue and there's a debate in iowa on the 14th and this could be something to take</field>
+</doc>
+</add>

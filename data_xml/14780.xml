@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201702.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170208_100000_Fox_and_Friends_First#start/1039/end/1074</field>
+<field name="datetime">2/8/2017 10:17:34</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20170208_100000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170208_100000_Fox_and_Friends_First/FOXNEWSW_20170208_100000_Fox_and_Friends_First.thumbs/FOXNEWSW_20170208_100000_Fox_and_Friends_First_001017.jpg</field>
+<field name="snippet">abby: well, a shocking clip on climate change whistle blower. cheryl: this is something else,</field>
+</doc>
+</add>

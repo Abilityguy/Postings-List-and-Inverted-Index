@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140506_210000_The_Ed_Show#start/131/end/166</field>
+<field name="datetime">5/6/2014 21:02:26</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20140506_210000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140506_210000_The_Ed_Show/MSNBCW_20140506_210000_The_Ed_Show.thumbs/MSNBCW_20140506_210000_The_Ed_Show_000106.jpg</field>
+<field name="snippet">the national climate assessment finds that climate change -- once considered an issue for the distant future -- has moved firmly infirm ly to the present. folks, we are now in the 'now' business when it comes to</field>
+</doc>
+</add>

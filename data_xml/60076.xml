@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181030_110000_BBC_Newsroom_Live#start/5518/end/5553</field>
+<field name="datetime">10/30/2018 12:32:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20181030_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181030_110000_BBC_Newsroom_Live/BBCNEWS_20181030_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20181030_110000_BBC_Newsroom_Live_005517.jpg</field>
+<field name="snippet">growing awareness of these issues. we have seen a growing awareness of climate change. some worrying news has come out about climate change in recent weeks. we are seeing more discussion at least about what is happening to our natural world. we</field>
+</doc>
+</add>

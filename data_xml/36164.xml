@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201912.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191202_190000_MSNBC_Live_With_Katy_Tur#start/3316/end/3351</field>
+<field name="datetime">12/2/2019 19:55:31</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Katy Tur</field>
+<field name="showid">MSNBCW_20191202_190000_MSNBC_Live_With_Katy_Tur</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191202_190000_MSNBC_Live_With_Katy_Tur/MSNBCW_20191202_190000_MSNBC_Live_With_Katy_Tur.thumbs/MSNBCW_20191202_190000_MSNBC_Live_With_Katy_Tur_003298.jpg</field>
+<field name="snippet">usaa while you weren't looking, tens of thousands of delegates from across the world kicked off the u.n. climate change conference today in madrid.</field>
+</doc>
+</add>

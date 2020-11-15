@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190914_100000_Fox_and_Friends_Saturday#start/8010/end/8045</field>
+<field name="datetime">9/14/2019 12:13:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20190914_100000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190914_100000_Fox_and_Friends_Saturday/FOXNEWSW_20190914_100000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20190914_100000_Fox_and_Friends_Saturday_008008.jpg</field>
+<field name="snippet">depending on what the weather is fresh off the 2020 democratic debate. yes. we will address the catastrophic crisis of climate change. i refuse to postpone any longer taking on climate change.</field>
+</doc>
+</add>

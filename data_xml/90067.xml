@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200910.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091010_030000_The_Rachel_Maddow_Show#start/1274/end/1309</field>
+<field name="datetime">10/10/2009 3:21:29</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBC_20091010_030000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20091010_030000_The_Rachel_Maddow_Show/MSNBC_20091010_030000_The_Rachel_Maddow_Show.thumbs/MSNBC_20091010_030000_The_Rachel_Maddow_Show_001256.jpg</field>
+<field name="snippet">nation, and the poor people in this world are the ones who are going to suffer worse than the rest of us, we'll all suffer if we face the ravages of global warming. it will be harder for the poor.</field>
+</doc>
+</add>

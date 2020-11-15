@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190117_100000_Victoria_Derbyshire#start/266/end/301</field>
+<field name="datetime">1/17/2019 10:04:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20190117_100000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190117_100000_Victoria_Derbyshire/BBCNEWS_20190117_100000_Victoria_Derbyshire.thumbs/BBCNEWS_20190117_100000_Victoria_Derbyshire_000267.jpg</field>
+<field name="snippet">60 per cent of the world's coffee crops are on the verge of extinction, according to new research. scientists say that more than 100 species of wild coffee plants are now at risk, due to habitat loss and climate change. whilst the majority of the world's</field>
+</doc>
+</add>

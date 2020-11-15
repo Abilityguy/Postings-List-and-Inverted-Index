@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201404.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140423_050000_Hannity#start/2961/end/2996</field>
+<field name="datetime">4/23/2014 5:49:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20140423_050000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140423_050000_Hannity/FOXNEWSW_20140423_050000_Hannity.thumbs/FOXNEWSW_20140423_050000_Hannity_002955.jpg</field>
+<field name="snippet">this graph that says there's no global warming. we just went over this with mark steyn. we've been in a cooling period. what about this winter with the storms we've had?</field>
+</doc>
+</add>

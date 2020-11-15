@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201312.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20131216_160000_MSNBC_Live#start/598/end/633</field>
+<field name="datetime">12/16/2013 16:10:13</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20131216_160000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20131216_160000_MSNBC_Live/MSNBCW_20131216_160000_MSNBC_Live.thumbs/MSNBCW_20131216_160000_MSNBC_Live_000585.jpg</field>
+<field name="snippet">'boston globe' unveils its five-month investigation into the two brothers accused of masterminding the boston bombings. the feds thought they might be linked to terror groups but was something else really going on? plus this man is the government's top expert on climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180623_140000_BBC_News#start/1645/end/1680</field>
+<field name="datetime">6/23/2018 14:27:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180623_140000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180623_140000_BBC_News/BBCNEWS_20180623_140000_BBC_News.thumbs/BBCNEWS_20180623_140000_BBC_News_001648.jpg</field>
+<field name="snippet">a fast-growing population, worsening poverty and climate change are all playing into the extremists' hands. britain has joined a tough new front of the war on terror. and you can see more on this story in alistair leithead's special</field>
+</doc>
+</add>

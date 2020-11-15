@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190822_100000_BBC_Newsroom_Live#start/4388/end/4423</field>
+<field name="datetime">8/22/2019 11:13:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190822_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190822_100000_BBC_Newsroom_Live/BBCNEWS_20190822_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190822_100000_BBC_Newsroom_Live_004377.jpg</field>
+<field name="snippet">will work hand in glove to tackle climate change, to tackle the tragic loss of species and biodiversity and to ensure that every girl in the world gets 12 years of quality</field>
+</doc>
+</add>

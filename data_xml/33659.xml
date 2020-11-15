@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091201_090000_Special_Report_With_Bret_Baier#start/476/end/511</field>
+<field name="datetime">12/1/2009 9:08:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091201_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091201_090000_Special_Report_With_Bret_Baier/FOXNEWS_20091201_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091201_090000_Special_Report_With_Bret_Baier_000476.jpg</field>
+<field name="snippet">have the courage to do nothing. ben lieberman at the heritage foundation believes e-mails leaked or hacked from scientists in england undercut the whole sign scientific claim for man's impact on global warming. this raises questions about some of the very u.n. science</field>
+</doc>
+</add>

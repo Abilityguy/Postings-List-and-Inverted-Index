@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190207_000000_Newsday#start/181/end/216</field>
+<field name="datetime">2/7/2019 0:03:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190207_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190207_000000_Newsday/BBCNEWS_20190207_000000_Newsday.thumbs/BBCNEWS_20190207_000000_Newsday_000178.jpg</field>
+<field name="snippet">were the hottest on record. this blue area is their forecast for the next five years. it suggests the warming trend will continue, with a small chance temperatures could temporarily exceed 1.5 degrees. the main driver for all this is the greenhouse-gas emissions we're producing.</field>
+</doc>
+</add>

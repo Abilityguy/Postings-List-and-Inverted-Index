@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171228_090000_BBC_News#start/1177/end/1212</field>
+<field name="datetime">12/28/2017 9:19:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171228_090000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171228_090000_BBC_News/BBCNEWS_20171228_090000_BBC_News.thumbs/BBCNEWS_20171228_090000_BBC_News_001168.jpg</field>
+<field name="snippet">electricity generation, 13 clean energy records have been broken in 2017. the government's committed to phasing out unabated coal by 2025 as parts of efforts to cut the uk's greenhouse gas emissions in line with legal obligations. let's talk</field>
+</doc>
+</add>

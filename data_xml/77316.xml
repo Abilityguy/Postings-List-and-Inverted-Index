@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191125_200000_BBC_News#start/20/end/55</field>
+<field name="datetime">11/25/2019 20:00:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191125_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191125_200000_BBC_News/BBCNEWS_20191125_200000_BBC_News.thumbs/BBCNEWS_20191125_200000_BBC_News_000028.jpg</field>
+<field name="snippet">levels of greenhouse gases in the atmosphere reach another record high and there's no sign of a slowdown. a cinema chain has pulled a film about gangs after a mass brawl outside one screening and dozens</field>
+</doc>
+</add>

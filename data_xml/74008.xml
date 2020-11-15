@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201002.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100203_200000_MSNBC_News_Live#start/1556/end/1591</field>
+<field name="datetime">2/3/2010 20:26:11</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100203_200000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100203_200000_MSNBC_News_Live/MSNBC_20100203_200000_MSNBC_News_Live.thumbs/MSNBC_20100203_200000_MSNBC_News_Live_001556.jpg</field>
+<field name="snippet">and trade legislation. just moments ago the president made his case for supporting clean energy. even if you don't believe in the severity of climate change, as i do, you still should want to pursue this agenda. it's good for our national security and reducing our</field>
+</doc>
+</add>

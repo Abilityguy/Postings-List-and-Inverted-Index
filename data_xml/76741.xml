@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190522_180000_Beyond_100_Days#start/1839/end/1874</field>
+<field name="datetime">5/22/2019 18:30:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20190522_180000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190522_180000_Beyond_100_Days/BBCNEWS_20190522_180000_Beyond_100_Days.thumbs/BBCNEWS_20190522_180000_Beyond_100_Days_001828.jpg</field>
+<field name="snippet">coming up in the next half hour: as more than 70 business leaders gather on capitol hill to advocate for new climate change legislation - we'll talk to a senator who's working alongside them. and the art inspired by the vietnam war, created by those who experienced it.</field>
+</doc>
+</add>

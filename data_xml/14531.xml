@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201812.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181231_100000_Meet_the_Press#start/2200/end/2235</field>
+<field name="datetime">12/31/2018 10:36:55</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20181231_100000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181231_100000_Meet_the_Press/MSNBCW_20181231_100000_Meet_the_Press.thumbs/MSNBCW_20181231_100000_Meet_the_Press_002188.jpg</field>
+<field name="snippet">he is very convinced of his position, and his position is that there's nothing abnormal about the fires in california or the rising sea level or all the other incidents of climate change. you both have been a mayor and a governor.</field>
+</doc>
+</add>

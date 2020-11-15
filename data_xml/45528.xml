@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201909.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190908_000000_All_In_With_Chris_Hayes#start/1492/end/1527</field>
+<field name="datetime">9/8/2019 0:25:07</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20190908_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190908_000000_All_In_With_Chris_Hayes/MSNBCW_20190908_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20190908_000000_All_In_With_Chris_Hayes_001467.jpg</field>
+<field name="snippet">we've been saying for decades, the sooner we get to work on this, the better. to me, climate change, along with all the trouble, fills me with optimism because we're going to solve problems that we've never solved before.</field>
+</doc>
+</add>

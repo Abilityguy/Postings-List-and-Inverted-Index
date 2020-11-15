@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170827_060000_Breakfast#start/2274/end/2309</field>
+<field name="datetime">8/27/2017 6:38:09</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20170827_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170827_060000_Breakfast/BBCNEWS_20170827_060000_Breakfast.thumbs/BBCNEWS_20170827_060000_Breakfast_002248.jpg</field>
+<field name="snippet">picture of hurricane events, you can see oscillation overtime. it is hard to get a long-term trend out of that kind of activity or to tie it to climate change. looking at the power</field>
+</doc>
+</add>

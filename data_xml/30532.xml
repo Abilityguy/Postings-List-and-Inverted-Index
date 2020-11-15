@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.202001.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20200105_200000_MSNBC_Live_with_Kendis_Gibson#start/1364/end/1399</field>
+<field name="datetime">1/5/2020 20:22:59</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live with Kendis Gibson</field>
+<field name="showid">MSNBCW_20200105_200000_MSNBC_Live_with_Kendis_Gibson</field>
+<field name="preview">https://archive.org/download/MSNBCW_20200105_200000_MSNBC_Live_with_Kendis_Gibson/MSNBCW_20200105_200000_MSNBC_Live_with_Kendis_Gibson.thumbs/MSNBCW_20200105_200000_MSNBC_Live_with_Kendis_Gibson_001347.jpg</field>
+<field name="snippet">issues we talk about, especially in washington and in the national political conversation and what voters are really concerned about on the ground. usually they are more concerned about the bread and butter issues. health care, climate change. we're really seeing this iran issue breakthrough.</field>
+</doc>
+</add>

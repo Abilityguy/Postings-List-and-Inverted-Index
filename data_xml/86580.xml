@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191225_110000_BBC_News#start/1571/end/1606</field>
+<field name="datetime">12/25/2019 11:26:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191225_110000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191225_110000_BBC_News/BBCNEWS_20191225_110000_BBC_News.thumbs/BBCNEWS_20191225_110000_BBC_News_001558.jpg</field>
+<field name="snippet">very little greenhouse gas. we know there has been a lot of discussion lately about animals and the impact they have on their greenhouse gas emissions. so that is the big sustainable credibility around crickets. i don't know who did the counting, but they reckon there are 336 crickets in each loaf.</field>
+</doc>
+</add>

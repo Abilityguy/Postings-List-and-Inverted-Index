@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190916_120000_BBC_News_at_One#start/680/end/715</field>
+<field name="datetime">9/16/2019 12:11:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190916_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190916_120000_BBC_News_at_One/BBCNEWS_20190916_120000_BBC_News_at_One.thumbs/BBCNEWS_20190916_120000_BBC_News_at_One_000658.jpg</field>
+<field name="snippet">of climate change. in an interview with the bbc, he's warned that extreme weather events such as the melting of ice, hurricanes and wildfires are happening sooner than expected. he's called for the uk to advance its climate targets by ten years. but some scientists say emotive language over global warming</field>
+</doc>
+</add>

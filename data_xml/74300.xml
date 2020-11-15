@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_170000_BBC_News_at_Five#start/106/end/141</field>
+<field name="datetime">1/16/2020 17:02:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20200116_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_170000_BBC_News_at_Five/BBCNEWS_20200116_170000_BBC_News_at_Five.thumbs/BBCNEWS_20200116_170000_BBC_News_at_Five_000088.jpg</field>
+<field name="snippet">our main story is that the naturalist and broadcaster sir david attenborough has told the bbc that 'the moment of crisis has come' on climate change. he says governments can no longer put off urgent action to reduce global warming - life-or-death decisions, as he calls them.</field>
+</doc>
+</add>

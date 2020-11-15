@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201910.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191030_070000_All_In_With_Chris_Hayes#start/3330/end/3365</field>
+<field name="datetime">10/30/2019 7:55:45</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20191030_070000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191030_070000_All_In_With_Chris_Hayes/MSNBCW_20191030_070000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20191030_070000_All_In_With_Chris_Hayes_003327.jpg</field>
+<field name="snippet">quote, the experience of californians this week frustrated, needlessly inconvenienced and saddled with aging infrastructure built for the wrong century will define the mass climate change as much</field>
+</doc>
+</add>

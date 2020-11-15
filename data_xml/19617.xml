@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201903.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190309_010000_All_In_With_Chris_Hayes#start/2391/end/2426</field>
+<field name="datetime">3/9/2019 1:40:06</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20190309_010000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190309_010000_All_In_With_Chris_Hayes/MSNBCW_20190309_010000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20190309_010000_All_In_With_Chris_Hayes_002369.jpg</field>
+<field name="snippet">jay inslee -- a governor into a clean-energy leader with a bold vision for our future. we are the first generation to feel the sting of climate change, and we are the last generation that can do something about it. we need to break the stranglehold</field>
+</doc>
+</add>

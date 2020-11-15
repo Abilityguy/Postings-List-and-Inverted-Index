@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091005_080000_Bulls_and_Bears#start/1744/end/1779</field>
+<field name="datetime">10/5/2009 8:29:19</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Bulls and Bears</field>
+<field name="showid">FOXNEWS_20091005_080000_Bulls_and_Bears</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091005_080000_Bulls_and_Bears/FOXNEWS_20091005_080000_Bulls_and_Bears.thumbs/FOXNEWS_20091005_080000_Bulls_and_Bears_001735.jpg</field>
+<field name="snippet">brenda: todd, your prediction, please? as the climate debate heats up with the climate change bill, your electricity bills will be going up, so invest in an energy company, excelon a good pick.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190429_200000_Outside_Source#start/2560/end/2595</field>
+<field name="datetime">4/29/2019 20:42:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20190429_200000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190429_200000_Outside_Source/BBCNEWS_20190429_200000_Outside_Source.thumbs/BBCNEWS_20190429_200000_Outside_Source_002547.jpg</field>
+<field name="snippet">is as great a threat to humanity as climate change. the warning comes as scientists and diplomats from 132 countries are meeting in paris to discuss a major report on the state of nature.</field>
+</doc>
+</add>

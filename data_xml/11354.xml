@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190819_050000_Breakfast#start/6837/end/6872</field>
+<field name="datetime">8/19/2019 6:54:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190819_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190819_050000_Breakfast/BBCNEWS_20190819_050000_Breakfast.thumbs/BBCNEWS_20190819_050000_Breakfast_006838.jpg</field>
+<field name="snippet">shepherd. this week we are looking at the farming industry. and how it is dealing with climate change, to what brexit means for the future</field>
+</doc>
+</add>

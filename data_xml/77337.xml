@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191113_033000_Can_Flying_Go_Green_-_Panorama#start/567/end/602</field>
+<field name="datetime">11/13/2019 3:39:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Can Flying Go Green - Panorama</field>
+<field name="showid">BBCNEWS_20191113_033000_Can_Flying_Go_Green_-_Panorama</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191113_033000_Can_Flying_Go_Green_-_Panorama/BBCNEWS_20191113_033000_Can_Flying_Go_Green_-_Panorama.thumbs/BBCNEWS_20191113_033000_Can_Flying_Go_Green_-_Panorama_000567.jpg</field>
+<field name="snippet">he says this fuel will avoid the polluting process needed to produce kerosene. and lots of the waste would emit greenhouse gases in landfill. so why not use it to power aircraft instead? you can genuinely have the right effect by taking the carbon</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191203_180000_BBC_News_at_Six#start/668/end/703</field>
+<field name="datetime">12/3/2019 18:11:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20191203_180000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191203_180000_BBC_News_at_Six/BBCNEWS_20191203_180000_BBC_News_at_Six.thumbs/BBCNEWS_20191203_180000_BBC_News_at_Six_000659.jpg</field>
+<field name="snippet">conclusion - that the past ten years are on course to be the hottest decade on record. this is a clear climate change signal. in fact, it's notjust one year that's warmer than previous years. we're seeing, you know, entire decades. so since the mid-1980s each successive decade has been warmer than the previous one, and that's not good news. that means that heatwaves are set</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201505.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150520_100000_FOX_and_Friends#start/9253/end/9288</field>
+<field name="datetime">5/20/2015 12:34:28</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20150520_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150520_100000_FOX_and_Friends/FOXNEWSW_20150520_100000_FOX_and_Friends.thumbs/FOXNEWSW_20150520_100000_FOX_and_Friends_009225.jpg</field>
+<field name="snippet">deliver the commencement address at the u.s. coast guard academy. instead of focusing on their accomplishments and all of the rescues they have made the president will be talking about global warming. we've gotten a copy of the speech. it was released by the white house. the president says that climate</field>
+</doc>
+</add>

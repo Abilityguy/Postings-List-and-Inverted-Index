@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171104_150000_BBC_News#start/944/end/979</field>
+<field name="datetime">11/4/2017 15:15:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171104_150000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171104_150000_BBC_News/BBCNEWS_20171104_150000_BBC_News.thumbs/BBCNEWS_20171104_150000_BBC_News_000928.jpg</field>
+<field name="snippet">i think president trump dug himself into a corner in terms of his stance and declarations on climate change, but he has been known to change tune as well. he has set up a storm by not really paying that much</field>
+</doc>
+</add>

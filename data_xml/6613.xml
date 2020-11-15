@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_203000_Inside_Out_East#start/1013/end/1048</field>
+<field name="datetime">9/20/2019 20:47:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Inside Out East</field>
+<field name="showid">BBCNEWS_20190920_203000_Inside_Out_East</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_203000_Inside_Out_East/BBCNEWS_20190920_203000_Inside_Out_East.thumbs/BBCNEWS_20190920_203000_Inside_Out_East_000987.jpg</field>
+<field name="snippet">hundreds of thousands of students around the world out onto the streets over climate change, many have been especially concerned in recent weeks with the wildfires taking place in the amazon. the brazilian president, jair bolsonaro, is expected to address the issue in a speech</field>
+</doc>
+</add>

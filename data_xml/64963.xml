@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190310_200000_Americas_News_HQ#start/349/end/384</field>
+<field name="datetime">3/10/2019 20:06:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20190310_200000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190310_200000_Americas_News_HQ/FOXNEWSW_20190310_200000_Americas_News_HQ.thumbs/FOXNEWSW_20190310_200000_Americas_News_HQ_000329.jpg</field>
+<field name="snippet">climate change. the reason is very, very simple. we are the first generation to feel the sting of climate change. but we are the last generation that can do something about it.</field>
+</doc>
+</add>

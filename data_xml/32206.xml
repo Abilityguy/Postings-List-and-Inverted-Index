@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201006.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100619_140000_Bulls_and_Bears#start/334/end/369</field>
+<field name="datetime">6/19/2010 14:05:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Bulls and Bears</field>
+<field name="showid">FOXNEWS_20100619_140000_Bulls_and_Bears</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100619_140000_Bulls_and_Bears/FOXNEWS_20100619_140000_Bulls_and_Bears.thumbs/FOXNEWS_20100619_140000_Bulls_and_Bears_000326.jpg</field>
+<field name="snippet">if you put a tax on carbon, companies that produce anything widgets, call it what you want, will produce carbon and they will have to pay. if they pay for healthcare and carbon tax, they are not going to hire. they still have to make payroll.</field>
+</doc>
+</add>

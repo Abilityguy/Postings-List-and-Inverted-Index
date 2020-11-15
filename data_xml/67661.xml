@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140510_110000_Weekends_With_Alex_Witt#start/170/end/205</field>
+<field name="datetime">5/10/2014 11:03:05</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20140510_110000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140510_110000_Weekends_With_Alex_Witt/MSNBCW_20140510_110000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20140510_110000_Weekends_With_Alex_Witt_000165.jpg</field>
+<field name="snippet">temperatures like nice topping out in the 70s and 80s and a little bit humid. dylan, thank you so much for that. a bit later for this hour, the white house climate change report and what could happen if we do nothing to stop it. you'll hear how miami could be especially hard hit.</field>
+</doc>
+</add>

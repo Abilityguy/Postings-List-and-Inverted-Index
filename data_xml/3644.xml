@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170426_160000_BBC_News_at_Five#start/82/end/117</field>
+<field name="datetime">4/26/2017 16:01:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20170426_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170426_160000_BBC_News_at_Five/BBCNEWS_20170426_160000_BBC_News_at_Five.thumbs/BBCNEWS_20170426_160000_BBC_News_at_Five_000057.jpg</field>
+<field name="snippet">a show of unity in south korea as the us military holdsjoint exercises with local forces - as the us senate prepares for security briefing on north korea. and - a warning that britain's immaculate green lawns could become a thing of the past - because of climate change.</field>
+</doc>
+</add>

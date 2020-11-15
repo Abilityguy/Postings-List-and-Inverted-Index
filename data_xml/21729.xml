@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180806_000000_Newsday#start/1198/end/1233</field>
+<field name="datetime">8/6/2018 0:20:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20180806_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180806_000000_Newsday/BBCNEWS_20180806_000000_Newsday.thumbs/BBCNEWS_20180806_000000_Newsday_001197.jpg</field>
+<field name="snippet">a new report has found that china could face deadly heatwaves as a result of climate change. china's north plain is the most densely populated region of the country and will become severely impacted if greenhouse gas emissions continue at their current rate. according to the massachusetts</field>
+</doc>
+</add>

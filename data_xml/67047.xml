@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140527_200000_NOW_With_Alex_Wagner#start/3642/end/3677</field>
+<field name="datetime">5/27/2014 21:00:57</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20140527_200000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140527_200000_NOW_With_Alex_Wagner/MSNBCW_20140527_200000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20140527_200000_NOW_With_Alex_Wagner_003645.jpg</field>
+<field name="snippet">greenhouse gas emissions in the last decade. we can't use yesterday's coal technology in a world where we understand the environmental and climate</field>
+</doc>
+</add>

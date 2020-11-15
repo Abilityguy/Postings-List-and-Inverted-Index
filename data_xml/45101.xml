@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201909.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190920_000000_All_In_With_Chris_Hayes#start/3580/end/3615</field>
+<field name="datetime">9/20/2019 0:59:55</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20190920_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190920_000000_All_In_With_Chris_Hayes/MSNBCW_20190920_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20190920_000000_All_In_With_Chris_Hayes_003568.jpg</field>
+<field name="snippet">live from the campus of georgetown university. but we're not done. we have much more tomorrow night in part two of our special on the climate crisis. we're going to have reporters that are stationed around the world covering everything from how climate change is affecting migration from guatemala to melting landscapes of greenland,</field>
+</doc>
+</add>

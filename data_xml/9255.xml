@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190808_210000_The_Five#start/2117/end/2152</field>
+<field name="datetime">8/8/2019 21:35:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20190808_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190808_210000_The_Five/FOXNEWSW_20190808_210000_The_Five.thumbs/FOXNEWSW_20190808_210000_The_Five_002098.jpg</field>
+<field name="snippet">donna: the united nations is out with a new report about fighting climate change that says people should start eating less meat, grain, and more vegetables in order to save the planet. greg. greg: chaim i guess this. donna: cows produce a lot of methane gas.</field>
+</doc>
+</add>

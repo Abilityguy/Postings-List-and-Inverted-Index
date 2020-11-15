@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201306.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130619_230000_The_FOX_Report_With_Shepard_Smith#start/404/end/439</field>
+<field name="datetime">6/19/2013 23:06:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The FOX Report With Shepard Smith</field>
+<field name="showid">FOXNEWSW_20130619_230000_The_FOX_Report_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130619_230000_The_FOX_Report_With_Shepard_Smith/FOXNEWSW_20130619_230000_The_FOX_Report_With_Shepard_Smith.thumbs/FOXNEWSW_20130619_230000_The_FOX_Report_With_Shepard_Smith_000405.jpg</field>
+<field name="snippet">the ntsb says that agency will review the petition to reopen the case. she says people who were not involved in the original investigation will prepare a response for the board to consider. president obama is planning a major push on climate</field>
+</doc>
+</add>

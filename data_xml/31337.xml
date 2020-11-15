@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090712_000000_Huckabee#start/379/end/414</field>
+<field name="datetime">7/12/2009 0:06:34</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Huckabee</field>
+<field name="showid">FOXNEWS_20090712_000000_Huckabee</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090712_000000_Huckabee/FOXNEWS_20090712_000000_Huckabee.thumbs/FOXNEWS_20090712_000000_Huckabee_000355.jpg</field>
+<field name="snippet">we know we have global warming, we are no longer debating about the effects of carbon emissions in our environment. and if we don't want to take -- you know sometimes it's hard to take a leadership position on something that your constituency doesn't want to give up, but</field>
+</doc>
+</add>

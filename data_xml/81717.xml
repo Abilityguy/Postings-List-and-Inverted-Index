@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091218_200000_MSNBC_News_Live#start/2858/end/2893</field>
+<field name="datetime">12/18/2009 20:47:53</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091218_200000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091218_200000_MSNBC_News_Live/MSNBC_20091218_200000_MSNBC_News_Live.thumbs/MSNBC_20091218_200000_MSNBC_News_Live_002846.jpg</field>
+<field name="snippet">official now saying president obama has reached a deal on climate change with china, india and south africa. the official is being quoted as saying this is a meaningful agreement but went on to say it is an important first step that's been reached but is not</field>
+</doc>
+</add>

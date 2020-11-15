@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170812_030000_Tucker_Carlson_Tonight#start/1948/end/1983</field>
+<field name="datetime">8/12/2017 3:32:43</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20170812_030000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170812_030000_Tucker_Carlson_Tonight/FOXNEWSW_20170812_030000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20170812_030000_Tucker_Carlson_Tonight_001947.jpg</field>
+<field name="snippet">times' is asking the question. what is a greater threat to guam? north korea or climate change? i'm thinking when the mushroom cloud goes off, it might get a little hotter at that point. mark: yeah, that is some serious climate change.</field>
+</doc>
+</add>

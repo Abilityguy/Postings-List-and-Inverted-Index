@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201501.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150103_180000_Americas_News_Headquarters#start/2255/end/2290</field>
+<field name="datetime">1/3/2015 18:37:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20150103_180000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150103_180000_Americas_News_Headquarters/FOXNEWSW_20150103_180000_Americas_News_Headquarters.thumbs/FOXNEWSW_20150103_180000_Americas_News_Headquarters_002235.jpg</field>
+<field name="snippet">optimistic that a bill can get through the senate and house and get to the president's desk. president obama however has voiced concern that the keystone pipeline might contribute to global warming and says there are better ways to create jobs</field>
+</doc>
+</add>

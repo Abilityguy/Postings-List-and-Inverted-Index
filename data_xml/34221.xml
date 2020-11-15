@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_230000_Special_Report_With_Bret_Baier#start/389/end/424</field>
+<field name="datetime">12/18/2009 23:06:44</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091218_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_230000_Special_Report_With_Bret_Baier/FOXNEWS_20091218_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091218_230000_Special_Report_With_Bret_Baier_000386.jpg</field>
+<field name="snippet">climate change summit. president obama made his pitch for some kind of deal on the final day of the conference. senior white house correspondent major garrett is live in copenhagen tonight. major, what can you tell us? it is easier to describe what this deal isn't than what it is.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190703_100000_FOX__Friends#start/346/end/381</field>
+<field name="datetime">7/3/2019 10:06:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20190703_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190703_100000_FOX__Friends/FOXNEWSW_20190703_100000_FOX__Friends.thumbs/FOXNEWSW_20190703_100000_FOX__Friends_000329.jpg</field>
+<field name="snippet">23% terrorism, national security. 22% economy and jobs. 20% environment climate change. 17% guns. 16% national debt. ainsley: number one immigration. so important. it can determine the fabric of america.</field>
+</doc>
+</add>

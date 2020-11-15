@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100101_210000_Your_World_With_Neil_Cavuto#start/1048/end/1083</field>
+<field name="datetime">1/1/2010 21:17:43</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWS_20100101_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100101_210000_Your_World_With_Neil_Cavuto/FOXNEWS_20100101_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWS_20100101_210000_Your_World_With_Neil_Cavuto_001020.jpg</field>
+<field name="snippet">and trade? do you have a number. yes. there's one number from the university of massachusetts says that the stimulus package, combined with the global warming bill, will create about 1.7 million jobs. a study by the university of illinois says about 2 million jobs by 2020.</field>
+</doc>
+</add>

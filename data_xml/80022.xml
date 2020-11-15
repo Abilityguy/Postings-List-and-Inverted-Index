@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191125_170000_Outnumbered#start/538/end/573</field>
+<field name="datetime">11/25/2019 17:09:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Outnumbered</field>
+<field name="showid">FOXNEWSW_20191125_170000_Outnumbered</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191125_170000_Outnumbered/FOXNEWSW_20191125_170000_Outnumbered.thumbs/FOXNEWSW_20191125_170000_Outnumbered_000540.jpg</field>
+<field name="snippet">kennedy: eddie gallagher was turned in by nine members of his troop. it's not something that came from above his name. melissa: dozens of climate change protesters disrupting the harvard field at halftime. did it help or hurt their cause?</field>
+</doc>
+</add>

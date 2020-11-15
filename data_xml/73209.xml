@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190131_120000_BBC_Newsroom_Live#start/944/end/979</field>
+<field name="datetime">1/31/2019 12:15:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190131_120000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190131_120000_BBC_Newsroom_Live/BBCNEWS_20190131_120000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190131_120000_BBC_Newsroom_Live_000929.jpg</field>
+<field name="snippet">boiling water tossed into the air turns immediately to snow. although temperatures are expected to rise above freezing by the weekend, scientists have warned that climate change makes these extreme weather events likely to happen more often. kim gittleson, bbc news.</field>
+</doc>
+</add>

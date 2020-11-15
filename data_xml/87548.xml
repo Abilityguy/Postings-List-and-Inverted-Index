@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191219_050000_The_Briefing#start/600/end/635</field>
+<field name="datetime">12/19/2019 5:10:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20191219_050000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191219_050000_The_Briefing/BBCNEWS_20191219_050000_The_Briefing.thumbs/BBCNEWS_20191219_050000_The_Briefing_000598.jpg</field>
+<field name="snippet">when mr morrison returns from his vacation, like the fires, the debate over what is causing them and the impact of climate change, that will continue to rage as well. thank you, fill in the blue mountains west of</field>
+</doc>
+</add>

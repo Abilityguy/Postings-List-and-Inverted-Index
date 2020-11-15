@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190918_023000_Our_World#start/60/end/95</field>
+<field name="datetime">9/18/2019 2:31:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Our World</field>
+<field name="showid">BBCNEWS_20190918_023000_Our_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190918_023000_Our_World/BBCNEWS_20190918_023000_Our_World.thumbs/BBCNEWS_20190918_023000_Our_World_000059.jpg</field>
+<field name="snippet">to cut global emissions, and the economic consequences of tackling climate change. for the first in a series of bbc briefings, in-depth investigations into the biggest issues facing the uk today, our business editor simon jack</field>
+</doc>
+</add>

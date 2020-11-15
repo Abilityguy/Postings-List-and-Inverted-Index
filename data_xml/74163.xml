@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200102_130000_BBC_News_at_One#start/265/end/300</field>
+<field name="datetime">1/2/2020 13:04:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20200102_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200102_130000_BBC_News_at_One/BBCNEWS_20200102_130000_BBC_News_at_One.thumbs/BBCNEWS_20200102_130000_BBC_News_at_One_000237.jpg</field>
+<field name="snippet">a lot of money but we have hearts of gold, missed the prime minister. angry locals didn't hold back, accusing him of mishandling the crisis. his leadership is under great scrutiny. he's been accused of not taking global warming seriously.</field>
+</doc>
+</add>

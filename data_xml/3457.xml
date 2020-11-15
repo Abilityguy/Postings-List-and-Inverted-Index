@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201506.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150612_070000_Red_Eye#start/3326/end/3361</field>
+<field name="datetime">6/12/2015 7:55:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWSW_20150612_070000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150612_070000_Red_Eye/FOXNEWSW_20150612_070000_Red_Eye.thumbs/FOXNEWSW_20150612_070000_Red_Eye_003315.jpg</field>
+<field name="snippet">something in jellyfish helps your memory. a universe without jellyfish. think about it. are you nervous of the collapse coming up. between that and global warming i don't know why i get</field>
+</doc>
+</add>

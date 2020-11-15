@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181211_180000_BBC_News_at_Six#start/1310/end/1345</field>
+<field name="datetime">12/11/2018 18:22:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20181211_180000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181211_180000_BBC_News_at_Six/BBCNEWS_20181211_180000_BBC_News_at_Six.thumbs/BBCNEWS_20181211_180000_BBC_News_at_Six_001287.jpg</field>
+<field name="snippet">the point of these talks is to try and prevent the increase in temperatures to head off the rise of the oceans, and this new research shows why that matters. i think it's a very intimidating and worrying piece of news and i think it goes with the trend that climate change is becoming a more material issue</field>
+</doc>
+</add>

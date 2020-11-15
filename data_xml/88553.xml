@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190612_190000_BBC_News#start/1559/end/1594</field>
+<field name="datetime">6/12/2019 19:26:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190612_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190612_190000_BBC_News/BBCNEWS_20190612_190000_BBC_News.thumbs/BBCNEWS_20190612_190000_BBC_News_001558.jpg</field>
+<field name="snippet">so, what's the international view of britain's action? well, china is the biggest emitter of greenhouse gases, dwarfing whatever we produce. but it's also investing the most in clean technologies, with the world's biggest fleets of electric buses. even so, the chinese economy and others</field>
+</doc>
+</add>

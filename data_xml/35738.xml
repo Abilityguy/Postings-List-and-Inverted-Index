@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201601.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160110_150000_Sunday_Morning_Futures_With_Maria_Bartiromo#start/2919/end/2954</field>
+<field name="datetime">1/10/2016 15:48:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Sunday Morning Futures With Maria Bartiromo</field>
+<field name="showid">FOXNEWSW_20160110_150000_Sunday_Morning_Futures_With_Maria_Bartiromo</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160110_150000_Sunday_Morning_Futures_With_Maria_Bartiromo/FOXNEWSW_20160110_150000_Sunday_Morning_Futures_With_Maria_Bartiromo.thumbs/FOXNEWSW_20160110_150000_Sunday_Morning_Futures_With_Maria_Bartiromo_002895.jpg</field>
+<field name="snippet">if you look at polling, and ask people what are your major concerns and the top 25 things, climate change is close to number 25 on the list. except for young people.</field>
+</doc>
+</add>

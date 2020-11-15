@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201511.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151130_110000_Morning_Joe#start/6333/end/6368</field>
+<field name="datetime">11/30/2015 12:45:48</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20151130_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151130_110000_Morning_Joe/MSNBCW_20151130_110000_Morning_Joe.thumbs/MSNBCW_20151130_110000_Morning_Joe_006315.jpg</field>
+<field name="snippet">we believe energy technology and innovation will be critical for meeting our targets and addressing at the same time climate change, prosperity. of course, at the end of the two weeks of negotiation we see a</field>
+</doc>
+</add>

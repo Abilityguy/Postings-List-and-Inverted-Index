@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201102.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110216_200000_MSNBC_News_Live#start/3351/end/3386</field>
+<field name="datetime">2/16/2011 20:56:06</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20110216_200000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20110216_200000_MSNBC_News_Live/MSNBC_20110216_200000_MSNBC_News_Live.thumbs/MSNBC_20110216_200000_MSNBC_News_Live_003323.jpg</field>
+<field name="snippet">a loose joint make it hard for driver to steer. this affects 2009 and 2010 models, gm saying there have been no injuries reported from that glitch as of yet. and you can almost hear the debate begin, with two new studies on global warming. reports in the journal 'nature'</field>
+</doc>
+</add>

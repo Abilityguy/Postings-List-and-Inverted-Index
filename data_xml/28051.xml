@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201406.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140620_080000_The_Five#start/3181/end/3216</field>
+<field name="datetime">6/20/2014 8:53:16</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20140620_080000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140620_080000_The_Five/FOXNEWSW_20140620_080000_The_Five.thumbs/FOXNEWSW_20140620_080000_The_Five_003165.jpg</field>
+<field name="snippet">the usa beat ghana. that's good. here's the thing. i think that -- you know how you call people who don't believe in global warming neanderthals. i think people who don't understand the phenomenon that is soccer are neanderthal.</field>
+</doc>
+</add>

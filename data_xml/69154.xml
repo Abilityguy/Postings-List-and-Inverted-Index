@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201109.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20110915_170000_America_Live#start/3268/end/3303</field>
+<field name="datetime">9/15/2011 17:54:43</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWSW_20110915_170000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20110915_170000_America_Live/FOXNEWSW_20110915_170000_America_Live.thumbs/FOXNEWSW_20110915_170000_America_Live_003267.jpg</field>
+<field name="snippet">policy over global warming. emissions of greenhouse gas from human activities are changing the atmosphere in ways that affect the climate. he resigned because he says, here is his statement.</field>
+</doc>
+</add>

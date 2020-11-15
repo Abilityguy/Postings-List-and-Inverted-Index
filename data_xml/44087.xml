@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180106_010000_Tucker_Carlson_Tonight#start/1495/end/1530</field>
+<field name="datetime">1/6/2018 1:25:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20180106_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180106_010000_Tucker_Carlson_Tonight/FOXNEWSW_20180106_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20180106_010000_Tucker_Carlson_Tonight_001468.jpg</field>
+<field name="snippet">and now look of ice is global warming. what you are saying is not true. it is true. it's not true. let me tell you something. tucker: what is not true about it? let me tell you why i care about this. i just spent the entire christmas holiday on</field>
+</doc>
+</add>

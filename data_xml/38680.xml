@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201011.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101121_120000_FOX_and_Friends_Sunday#start/1977/end/2012</field>
+<field name="datetime">11/21/2010 12:33:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWS_20101121_120000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101121_120000_FOX_and_Friends_Sunday/FOXNEWS_20101121_120000_FOX_and_Friends_Sunday.thumbs/FOXNEWS_20101121_120000_FOX_and_Friends_Sunday_001950.jpg</field>
+<field name="snippet">afghanistan, and the portugese press went to the nato summit to talk to the new eu leaders about new technology and climate change and tooling around in this and they describe as an eight ton diesel fueled behemoth of a</field>
+</doc>
+</add>

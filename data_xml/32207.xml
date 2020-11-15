@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201006.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100614_210000_Glenn_Beck#start/200/end/235</field>
+<field name="datetime">6/14/2010 21:03:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20100614_210000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100614_210000_Glenn_Beck/FOXNEWS_20100614_210000_Glenn_Beck.thumbs/FOXNEWS_20100614_210000_Glenn_Beck_000176.jpg</field>
+<field name="snippet">who drafted the american power act, cap and trade. told them that a new energy deal must include serious effort to price carbon, as a way to slowly affect climate change. it cap and trade.</field>
+</doc>
+</add>

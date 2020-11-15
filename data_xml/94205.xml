@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170805_080000_BBC_News#start/1951/end/1986</field>
+<field name="datetime">8/5/2017 8:32:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170805_080000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170805_080000_BBC_News/BBCNEWS_20170805_080000_BBC_News.thumbs/BBCNEWS_20170805_080000_BBC_News_001947.jpg</field>
+<field name="snippet">the state department says the us will continue to participate in climate change meetings until the withdrawal process is completed. millions of rail passengers are facing up to three weeks of disruption as work to update</field>
+</doc>
+</add>

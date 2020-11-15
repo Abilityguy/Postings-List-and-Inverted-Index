@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200911.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091130_200000_MSNBC_News_Live#start/590/end/625</field>
+<field name="datetime">11/30/2009 20:10:05</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091130_200000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091130_200000_MSNBC_News_Live/MSNBC_20091130_200000_MSNBC_News_Live.thumbs/MSNBC_20091130_200000_MSNBC_News_Live_000534.jpg</field>
+<field name="snippet">important. jobs and our economy are terribly important. so, this may be an audacious suggestion, but i would suggest we put aside the health care debate until next year, the same way we put cap and trade and climate change and talk now about the essentials, the war</field>
+</doc>
+</add>

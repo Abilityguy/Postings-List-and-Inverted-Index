@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190416_190000_BBC_News#start/1693/end/1728</field>
+<field name="datetime">4/16/2019 19:28:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190416_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190416_190000_BBC_News/BBCNEWS_20190416_190000_BBC_News.thumbs/BBCNEWS_20190416_190000_BBC_News_001679.jpg</field>
+<field name="snippet">than 80 people have been arrested, on the second day of climate change protests, in central london. campaigners from the extinction rebellion group have continued to block roads including on waterloo bridge at oxford circus and marble arch. they say their demonstrations will</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191217_040000_BBC_News#start/791/end/826</field>
+<field name="datetime">12/17/2019 4:13:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191217_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191217_040000_BBC_News/BBCNEWS_20191217_040000_BBC_News.thumbs/BBCNEWS_20191217_040000_BBC_News_000777.jpg</field>
+<field name="snippet">of going missing while much of australia burns. this group is accusing the centre-right government of not taking climate change seriously and not doing enough to fortify australia in a time with a drying climate and worsening fire conditions.</field>
+</doc>
+</add>

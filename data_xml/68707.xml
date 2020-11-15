@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201001.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100107_110000_Morning_Joe#start/10523/end/10558</field>
+<field name="datetime">1/7/2010 13:55:38</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20100107_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20100107_110000_Morning_Joe/MSNBC_20100107_110000_Morning_Joe.thumbs/MSNBC_20100107_110000_Morning_Joe_010495.jpg</field>
+<field name="snippet">the dirtiest coal companies in the country promoting clean coal which is a myth, the idea we can somehow burn coal and have it be clean at the same time. what's happened over the past couple years? al gore's movie came out, a lot of attention on climate change.</field>
+</doc>
+</add>

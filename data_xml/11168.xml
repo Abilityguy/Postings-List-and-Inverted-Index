@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190824_033000_Our_World#start/1033/end/1068</field>
+<field name="datetime">8/24/2019 3:47:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Our World</field>
+<field name="showid">BBCNEWS_20190824_033000_Our_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190824_033000_Our_World/BBCNEWS_20190824_033000_Our_World.thumbs/BBCNEWS_20190824_033000_Our_World_001017.jpg</field>
+<field name="snippet">one of a million children caught in the syrian conflict. we'll hear from the families trying to escape airstrikes in idlib. and the cost of tackling climate change.</field>
+</doc>
+</add>

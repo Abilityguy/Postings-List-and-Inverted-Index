@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201002.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100205_110000_Morning_Joe#start/6279/end/6314</field>
+<field name="datetime">2/5/2010 12:44:54</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20100205_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20100205_110000_Morning_Joe/MSNBC_20100205_110000_Morning_Joe.thumbs/MSNBC_20100205_110000_Morning_Joe_006270.jpg</field>
+<field name="snippet">every day, jobs, jobs, jobs, forget about health care, forget about cap and trade, forget about global warming, oslo, forget about copenhagen, forget about don't ask, don't tell. by the end of the year, we were</field>
+</doc>
+</add>

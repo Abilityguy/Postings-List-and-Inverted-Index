@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201111.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20111123_040000_The_Ed_Show#start/3564/end/3599</field>
+<field name="datetime">11/23/2011 4:59:39</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20111123_040000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20111123_040000_The_Ed_Show/MSNBCW_20111123_040000_The_Ed_Show.thumbs/MSNBCW_20111123_040000_The_Ed_Show_003416.jpg</field>
+<field name="snippet">these are the things that you look at newt gingrich and then all of the flip-flips on issues where he used to be for global warming, now he's against it. that is where newt gingrich --? john, does he beat mitt romney?</field>
+</doc>
+</add>

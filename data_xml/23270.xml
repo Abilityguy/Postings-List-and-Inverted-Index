@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201405.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140520_020000_Hannity#start/3615/end/3650</field>
+<field name="datetime">5/20/2014 3:00:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20140520_020000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140520_020000_Hannity/FOXNEWSW_20140520_020000_Hannity.thumbs/FOXNEWSW_20140520_020000_Hannity_003615.jpg</field>
+<field name="snippet">on. tonight: there is virtually no republican who accepts the science that virtually is unanimous. i mean, there is no scientific question. the governor of california blaming fires and drought on climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_170000_BBC_News_at_Five#start/1503/end/1538</field>
+<field name="datetime">12/3/2018 17:25:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20181203_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_170000_BBC_News_at_Five/BBCNEWS_20181203_170000_BBC_News_at_Five.thumbs/BBCNEWS_20181203_170000_BBC_News_at_Five_001498.jpg</field>
+<field name="snippet">climate change. if we don't take action, the collapse of our civilisations and the extinction of much of the natural world</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191108_050000_Tucker_Carlson_Tonight#start/1517/end/1552</field>
+<field name="datetime">11/8/2019 5:25:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20191108_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191108_050000_Tucker_Carlson_Tonight/FOXNEWSW_20191108_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20191108_050000_Tucker_Carlson_Tonight_001498.jpg</field>
+<field name="snippet">country in private jets to lecture you about global warming and your carbon footprint! yeah, the great mark steyn is here to assess everything in the past week. that is worth it.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191126_060000_Breakfast#start/1367/end/1402</field>
+<field name="datetime">11/26/2019 6:23:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191126_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191126_060000_Breakfast/BBCNEWS_20191126_060000_Breakfast.thumbs/BBCNEWS_20191126_060000_Breakfast_002277.jpg</field>
+<field name="snippet">we are at a biomass plant. we are taking the bbc breakfast sofa to some amazing places and we are looking at energy and climate change. these i would tell and they are processed here and take it away</field>
+</doc>
+</add>

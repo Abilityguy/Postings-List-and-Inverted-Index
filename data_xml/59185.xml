@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181124_110000_BBC_News#start/922/end/957</field>
+<field name="datetime">11/24/2018 11:15:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181124_110000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181124_110000_BBC_News/BBCNEWS_20181124_110000_BBC_News.thumbs/BBCNEWS_20181124_110000_BBC_News_000897.jpg</field>
+<field name="snippet">ahead of sunday's crucial summit to formally sign off the brexit deal. french police fire a water cannon and tear gas at protesters in central paris who are demaning a cut in the price of fuel. the white house has dismissed a government report that warns unchecked climate change will seriously damage the economy and effect human health</field>
+</doc>
+</add>

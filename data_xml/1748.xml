@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170514_100000_Fox_and_Friends_Sunday#start/492/end/527</field>
+<field name="datetime">5/14/2017 10:08:27</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20170514_100000_Fox_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170514_100000_Fox_and_Friends_Sunday/FOXNEWSW_20170514_100000_Fox_and_Friends_Sunday.thumbs/FOXNEWSW_20170514_100000_Fox_and_Friends_Sunday_000478.jpg</field>
+<field name="snippet">whether we are talking about economic justice, talking about social justice, racial justice for global warming, if there is ever a time in history for a generation to be pulled into</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100216_110000_FOX_and_Friends#start/4338/end/4373</field>
+<field name="datetime">2/16/2010 12:12:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100216_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100216_110000_FOX_and_Friends/FOXNEWS_20100216_110000_FOX_and_Friends.thumbs/FOXNEWS_20100216_110000_FOX_and_Friends_004312.jpg</field>
+<field name="snippet">has been overseeing a lot of this data and is famous for the so-called hockey stick chart that shows that the earth has got a fever. apparently, he doesn't actually have the paperwork that supports that. and there's been no global warming for apparently 15 years.</field>
+</doc>
+</add>

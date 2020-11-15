@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190820_080000_BBC_News_at_Nine#start/2034/end/2069</field>
+<field name="datetime">8/20/2019 8:34:09</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190820_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190820_080000_BBC_News_at_Nine/BBCNEWS_20190820_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190820_080000_BBC_News_at_Nine_002007.jpg</field>
+<field name="snippet">time now for the morning briefing, where we bring you up to speed on the stories people are watching, reading and sharing. 0ne story that has everyone talking is the duke and duchess of sussex's travel plans. they've faced criticism after reports they took four plane journeys in 11 days, despite their support of taking action against climate change.</field>
+</doc>
+</add>

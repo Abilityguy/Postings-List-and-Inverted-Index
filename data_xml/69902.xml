@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201605.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160523_140000_MSNBC_Live#start/1848/end/1883</field>
+<field name="datetime">5/23/2016 14:31:03</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20160523_140000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160523_140000_MSNBC_Live/MSNBCW_20160523_140000_MSNBC_Live.thumbs/MSNBCW_20160523_140000_MSNBC_Live_001827.jpg</field>
+<field name="snippet">former vice president al gore is weighing in on the presidential election, expressing some concerns over the tone one candidate has taken in the fight against climate change. but despite donald trump's comments on the topic, gore says he remains hopeful a possible</field>
+</doc>
+</add>

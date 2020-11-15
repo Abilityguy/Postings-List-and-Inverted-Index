@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190923_000000_Newsday#start/91/end/126</field>
+<field name="datetime">9/23/2019 0:01:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190923_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190923_000000_Newsday/BBCNEWS_20190923_000000_Newsday.thumbs/BBCNEWS_20190923_000000_Newsday_000089.jpg</field>
+<field name="snippet">good morning. it's 8:00am in singapore and in beijing, where they're facing increasing pressure to reduce carbon emissions. later on monday global leaders will gather at the united nations in new york for a special summit on climate change. whilst china has been investing heavily in sources of renewable energy, like wind and solar, coal still remains the largest power</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201408.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140830_160000_Americas_News_Headquarters#start/3005/end/3040</field>
+<field name="datetime">8/30/2014 16:50:20</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20140830_160000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140830_160000_Americas_News_Headquarters/FOXNEWSW_20140830_160000_Americas_News_Headquarters.thumbs/FOXNEWSW_20140830_160000_Americas_News_Headquarters_002985.jpg</field>
+<field name="snippet">street? new tax on oil refiners as part of its climate change law, cost ultimately paid for by carbon c.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181126_230000_BBC_News#start/925/end/960</field>
+<field name="datetime">11/26/2018 23:15:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181126_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181126_230000_BBC_News/BBCNEWS_20181126_230000_BBC_News.thumbs/BBCNEWS_20181126_230000_BBC_News_000898.jpg</field>
+<field name="snippet">and they shouldn't be taken with the same confidence that we have that climate change is a threat. a thermal image of last summer's heatwave. predicting exactly when and where extreme heat will strike in future is clearly a challenge, but scientists are working on it, and there is a consensus about the trend that we are heading for a warmer world.</field>
+</doc>
+</add>

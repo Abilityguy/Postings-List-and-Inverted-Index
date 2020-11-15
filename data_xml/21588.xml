@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100123_100000_The_OReilly_Factor#start/1628/end/1663</field>
+<field name="datetime">1/23/2010 10:27:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20100123_100000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100123_100000_The_OReilly_Factor/FOXNEWS_20100123_100000_The_OReilly_Factor.thumbs/FOXNEWS_20100123_100000_The_OReilly_Factor_001611.jpg</field>
+<field name="snippet">you thought the copenhagen climate change conference couldn't become any more of a failure? the new york time albeit reluck landly reports even the meaningless nonbinding accord</field>
+</doc>
+</add>

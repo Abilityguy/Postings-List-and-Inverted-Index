@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201204.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120409_100000_FOX_and_Friends#start/5710/end/5745</field>
+<field name="datetime">4/9/2012 11:35:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20120409_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120409_100000_FOX_and_Friends/FOXNEWSW_20120409_100000_FOX_and_Friends.thumbs/FOXNEWSW_20120409_100000_FOX_and_Friends_005695.jpg</field>
+<field name="snippet">states. the national oceanic and atmospheric administration say the first three months of the year were on average 6 degrees higher. while some people may be enjoying the mild weather, it has scientists concerned about global warming. were they concerned last year</field>
+</doc>
+</add>

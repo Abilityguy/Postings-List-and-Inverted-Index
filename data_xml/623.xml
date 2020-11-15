@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171104_103000_The_Travel_Show#start/124/end/159</field>
+<field name="datetime">11/4/2017 10:32:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Travel Show</field>
+<field name="showid">BBCNEWS_20171104_103000_The_Travel_Show</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171104_103000_The_Travel_Show/BBCNEWS_20171104_103000_The_Travel_Show.thumbs/BBCNEWS_20171104_103000_The_Travel_Show_000118.jpg</field>
+<field name="snippet">by us government scientists. the report says it is 'extremely likely' that human activity is the 'dominant cause' of global warming. and only half of the fixed speed cameras in the uk are actually switched on, according to data obtained by a freedom of information request.</field>
+</doc>
+</add>

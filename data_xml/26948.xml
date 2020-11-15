@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100208_110000_FOX_and_Friends#start/8864/end/8899</field>
+<field name="datetime">2/8/2010 13:27:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100208_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100208_110000_FOX_and_Friends/FOXNEWS_20100208_110000_FOX_and_Friends.thumbs/FOXNEWS_20100208_110000_FOX_and_Friends_008837.jpg</field>
+<field name="snippet">obama no, ma'amics when you're threatening a $2 trillion take over of our health care system, $800 billion carbon tax, taking over our financial system. again, people are scared to create jobs.</field>
+</doc>
+</add>

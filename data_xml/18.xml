@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201103.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110313_110000_FOX_and_Friends_Sunday#start/4512/end/4547</field>
+<field name="datetime">3/13/2011 12:15:27</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWS_20110313_110000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110313_110000_FOX_and_Friends_Sunday/FOXNEWS_20110313_110000_FOX_and_Friends_Sunday.thumbs/FOXNEWS_20110313_110000_FOX_and_Friends_Sunday_004500.jpg</field>
+<field name="snippet">no carbon greenhouse gas emissions. of course, now, we're seeing something in japan a whole lot more dangerous than carbon emissions, radiation. i would think it's going-- after three mile island we had about a 30 year moratorium on</field>
+</doc>
+</add>

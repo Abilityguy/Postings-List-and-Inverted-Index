@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201610.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161012_090000_First_Look#start/570/end/605</field>
+<field name="datetime">10/12/2016 9:09:45</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20161012_090000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161012_090000_First_Look/MSNBCW_20161012_090000_First_Look.thumbs/MSNBCW_20161012_090000_First_Look_000567.jpg</field>
+<field name="snippet">at a rally in miami, gore helped underscore clinton's message that she will fight climate change, unlike her opponent. speaking from experience, gore also reminded the audience how important their vote really is come november. your vote really, really,</field>
+</doc>
+</add>

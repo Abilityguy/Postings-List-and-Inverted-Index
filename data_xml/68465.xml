@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201309.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130918_150000_Happening_Now#start/2994/end/3029</field>
+<field name="datetime">9/18/2013 15:50:09</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20130918_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130918_150000_Happening_Now/FOXNEWSW_20130918_150000_Happening_Now.thumbs/FOXNEWSW_20130918_150000_Happening_Now_002985.jpg</field>
+<field name="snippet">hour at a railroad crossing. photos show the front end of a double-decker bus ripped off. witnesses say that the crossing barrier was down at the time and it appeared that the bus drove right through it. and new report on climate change</field>
+</doc>
+</add>

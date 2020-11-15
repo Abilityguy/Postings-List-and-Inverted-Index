@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201909.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190917_210000_MTP_Daily#start/2416/end/2451</field>
+<field name="datetime">9/17/2019 21:40:31</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20190917_210000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190917_210000_MTP_Daily/MSNBCW_20190917_210000_MTP_Daily.thumbs/MSNBCW_20190917_210000_MTP_Daily_002400.jpg</field>
+<field name="snippet">the carbon tax, doesn't it not really. let's not worry about the carbon -- no go ahead. not really. there's not enough money in these companies to make up what a carbon tax would do to shift the economy towards green energy this is much more about trying</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190420_123000_Weather_World#start/1824/end/1859</field>
+<field name="datetime">4/20/2019 13:00:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20190420_123000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190420_123000_Weather_World/BBCNEWS_20190420_123000_Weather_World.thumbs/BBCNEWS_20190420_123000_Weather_World_001798.jpg</field>
+<field name="snippet">and 19, were arrested under the terrorism act. this is the live scene in oxford circus where climate change protests contiune into their sixth day. police in london say they've now arrested more than 700 people. new research suggests nearly one in ten heart attacks and strokes</field>
+</doc>
+</add>

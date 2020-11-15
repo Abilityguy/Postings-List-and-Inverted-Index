@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201006.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100618_080000_Special_Report_With_Bret_Baier#start/941/end/976</field>
+<field name="datetime">6/18/2010 8:15:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100618_080000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100618_080000_Special_Report_With_Bret_Baier/FOXNEWS_20100618_080000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100618_080000_Special_Report_With_Bret_Baier_000926.jpg</field>
+<field name="snippet">passed an energy and climate change bill sthat democrats look for agreement on a bill of their own. they haven't found it. we are not going today to tell you what we will have in the legislation, because that's a work in progress. in his address to the nation, president obama</field>
+</doc>
+</add>

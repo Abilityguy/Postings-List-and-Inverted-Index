@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201112.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20111203_120000_Up_W_Chris_Hayes#start/2074/end/2109</field>
+<field name="datetime">12/3/2011 12:34:49</field>
+<field name="station">MSNBC</field>
+<field name="show">Up W Chris Hayes</field>
+<field name="showid">MSNBCW_20111203_120000_Up_W_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20111203_120000_Up_W_Chris_Hayes/MSNBCW_20111203_120000_Up_W_Chris_Hayes.thumbs/MSNBCW_20111203_120000_Up_W_Chris_Hayes_002067.jpg</field>
+<field name="snippet">u.n.'s convention on climate change held in south africa. the most important undercovered story of the week. the first of these meetings took place in 1992. in 1997, countries around the world signed on to the kyoto</field>
+</doc>
+</add>

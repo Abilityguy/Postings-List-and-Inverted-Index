@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190414_100000_Fox_and_Friends_Sunday#start/1481/end/1516</field>
+<field name="datetime">4/14/2019 10:24:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20190414_100000_Fox_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190414_100000_Fox_and_Friends_Sunday/FOXNEWSW_20190414_100000_Fox_and_Friends_Sunday.thumbs/FOXNEWSW_20190414_100000_Fox_and_Friends_Sunday_001469.jpg</field>
+<field name="snippet">assange was arrested thursday after the ecuadorian president withdrew his asylum. and the president of an east african nation speaks out against climate change from more than 400 feet under water. watch this.</field>
+</doc>
+</add>

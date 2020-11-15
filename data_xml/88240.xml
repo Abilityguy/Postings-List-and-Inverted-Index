@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191216_040000_BBC_News#start/159/end/194</field>
+<field name="datetime">12/16/2019 4:02:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191216_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191216_040000_BBC_News/BBCNEWS_20191216_040000_BBC_News.thumbs/BBCNEWS_20191216_040000_BBC_News_000147.jpg</field>
+<field name="snippet">over one degree celsius over the last 150 years, and a rise of up to 1.5 degrees is regarded as the maximum safe limit. but, even with all the pledges that countries have made on climate change, we're still heading for an increase of at least three degrees, despite all these conferences. so what happens now?</field>
+</doc>
+</add>

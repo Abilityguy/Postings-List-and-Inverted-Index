@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190307_000000_Newsday#start/1093/end/1128</field>
+<field name="datetime">3/7/2019 0:18:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190307_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190307_000000_Newsday/BBCNEWS_20190307_000000_Newsday.thumbs/BBCNEWS_20190307_000000_Newsday_001078.jpg</field>
+<field name="snippet">and, as plants on coastal marshes suck in carbon as they grow, could these places help in the battle against climate change? you can see plants starting to come back in this restored salt marsh, but, when the plants die, rather than just lying and decomposing, these layers of sediments essentially lock that material away in the mud. so that carbon in that plant</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190906_203000_Inside_Out_West#start/621/end/656</field>
+<field name="datetime">9/6/2019 20:40:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Inside Out West</field>
+<field name="showid">BBCNEWS_20190906_203000_Inside_Out_West</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190906_203000_Inside_Out_West/BBCNEWS_20190906_203000_Inside_Out_West.thumbs/BBCNEWS_20190906_203000_Inside_Out_West_000597.jpg</field>
+<field name="snippet">a message that's definitely not shared by everyone, but they believe their tactics are making an impact. we have seen such a huge change in the way that the public, especially the media, has been talking about climate change. it has literally gone global.</field>
+</doc>
+</add>

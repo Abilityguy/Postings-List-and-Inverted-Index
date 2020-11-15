@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201612.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161211_110000_Fox_and_Friends_Sunday#start/10849/end/10884</field>
+<field name="datetime">12/11/2016 14:01:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20161211_110000_Fox_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161211_110000_Fox_and_Friends_Sunday/FOXNEWSW_20161211_110000_Fox_and_Friends_Sunday.thumbs/FOXNEWSW_20161211_110000_Fox_and_Friends_Sunday_010828.jpg</field>
+<field name="snippet">picture this, instead of preaching about god, your priest talks about climate change. the new guidelines just issued by the catholic church. and my favorite time of year, tis the season for pictures like this, the awkward family</field>
+</doc>
+</add>

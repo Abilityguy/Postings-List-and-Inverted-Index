@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190627_230000_Newsday#start/992/end/1027</field>
+<field name="datetime">6/27/2019 23:16:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190627_230000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190627_230000_Newsday/BBCNEWS_20190627_230000_Newsday.thumbs/BBCNEWS_20190627_230000_Newsday_000988.jpg</field>
+<field name="snippet">this is newsday on the bbc. i'm rico hizon in singapore. and i'm ben bland in london. our top stories: world leaders have been arriving ahead of the g20 summit injapan. trade wars, iran and climate change are all topics likely to dominate the meeting.</field>
+</doc>
+</add>

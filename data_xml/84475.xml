@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190429_120000_BBC_News_at_One#start/1167/end/1202</field>
+<field name="datetime">4/29/2019 12:19:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190429_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190429_120000_BBC_News_at_One/BBCNEWS_20190429_120000_BBC_News_at_One.thumbs/BBCNEWS_20190429_120000_BBC_News_at_One_001168.jpg</field>
+<field name="snippet">in all the talk about climate change, we don't often hear about soil. it's a cinderella subject. i think most people would have no idea there is more carbon in the soil than in all of the world's forests and there is more carbon in soil</field>
+</doc>
+</add>

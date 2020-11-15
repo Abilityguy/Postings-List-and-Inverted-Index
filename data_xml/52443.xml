@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181220_040000_BBC_News#start/1276/end/1311</field>
+<field name="datetime">12/20/2018 4:21:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181220_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181220_040000_BBC_News/BBCNEWS_20181220_040000_BBC_News.thumbs/BBCNEWS_20181220_040000_BBC_News_001257.jpg</field>
+<field name="snippet">it's a moneymaking industry, ok? this little sandwich shop back in georgetown has now got its own solar panels, and it appears that having a president who says he's not convinced about man's contribution to climate change is inspiring individuals to do their bit. i mean, you have to start somewhere,</field>
+</doc>
+</add>

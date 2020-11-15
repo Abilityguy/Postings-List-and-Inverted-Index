@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181202_150000_BBC_News#start/1083/end/1118</field>
+<field name="datetime">12/2/2018 15:18:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181202_150000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181202_150000_BBC_News/BBCNEWS_20181202_150000_BBC_News.thumbs/BBCNEWS_20181202_150000_BBC_News_001077.jpg</field>
+<field name="snippet">highlighting the urgency of tackling climate change and highlighting also the few years that are left to make a significant difference, but the report in november said that basically the world has 12 years to basically cut its emissions in half if it wants to keep</field>
+</doc>
+</add>

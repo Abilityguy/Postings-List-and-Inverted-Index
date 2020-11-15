@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100211_160000_Happening_Now#start/4198/end/4233</field>
+<field name="datetime">2/11/2010 17:10:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20100211_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100211_160000_Happening_Now/FOXNEWS_20100211_160000_Happening_Now.thumbs/FOXNEWS_20100211_160000_Happening_Now_004170.jpg</field>
+<field name="snippet">brings the bigger storms. in fact, a 2005 journal of climate change study claims it caused warmer air to be supercharged with more moisture. the union of concerned scientists told us this week's</field>
+</doc>
+</add>

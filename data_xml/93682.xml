@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190705_020000_BBC_News#start/712/end/747</field>
+<field name="datetime">7/5/2019 2:12:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190705_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190705_020000_BBC_News/BBCNEWS_20190705_020000_BBC_News.thumbs/BBCNEWS_20190705_020000_BBC_News_000688.jpg</field>
+<field name="snippet">iran has accused the uk of piracy and summoned the british ambassador in tehran. researchers in switzerland are arguing that a massive global programme of planting trees is the most effective weapon to counter climate change that is currently available.</field>
+</doc>
+</add>

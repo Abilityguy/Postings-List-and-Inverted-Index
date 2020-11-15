@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190429_100000_BBC_Newsroom_Live#start/6044/end/6079</field>
+<field name="datetime">4/29/2019 11:40:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190429_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190429_100000_BBC_Newsroom_Live/BBCNEWS_20190429_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190429_100000_BBC_Newsroom_Live_006028.jpg</field>
+<field name="snippet">to cutting emmissions. a major global report suggests soil quality is becoming poorer, which not only reduces our ability to grow crops but also releases carbon into the atmosphere, adding to global warming. here's our environment analyst, roger harrabin.</field>
+</doc>
+</add>

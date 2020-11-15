@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201906.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190628_050000_Democratic_Candidates_Debate#start/4976/end/5011</field>
+<field name="datetime">6/28/2019 6:23:11</field>
+<field name="station">MSNBC</field>
+<field name="show">Democratic Candidates Debate</field>
+<field name="showid">MSNBCW_20190628_050000_Democratic_Candidates_Debate</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190628_050000_Democratic_Candidates_Debate/MSNBCW_20190628_050000_Democratic_Candidates_Debate.thumbs/MSNBCW_20190628_050000_Democratic_Candidates_Debate_004948.jpg</field>
+<field name="snippet">democrats are arguing robustly among themselves about what's the best way to tackle climate change. but if we're honest, many republicans, including the president, are not sure if they believe it is a serious problem so are there significant ways you can cut carbon emissions if you have to do it with no support from congress? the answer is yes. number one, our administration, we built the largest wind farm</field>
+</doc>
+</add>

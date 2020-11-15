@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191006_090000_BBC_News#start/193/end/228</field>
+<field name="datetime">10/6/2019 9:03:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191006_090000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191006_090000_BBC_News/BBCNEWS_20191006_090000_BBC_News.thumbs/BBCNEWS_20191006_090000_BBC_News_000177.jpg</field>
+<field name="snippet">the deal that he is currently proposing, which is not going down very well in brussels or in dublin or with us is a deregulatory deal that business in this country doesn't want, the trade unions don't want, that climate change activists don't want, and people that care</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190207_040000_BBC_News#start/30/end/65</field>
+<field name="datetime">2/7/2019 4:00:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190207_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190207_040000_BBC_News/BBCNEWS_20190207_040000_BBC_News.thumbs/BBCNEWS_20190207_040000_BBC_News_000028.jpg</field>
+<field name="snippet">the taliban claim to the bbc they don't want to take afghanistan by force, but won't give up their weapons until foreign troops leave. and, victims of venezuela's collapsing health service. we meet the patients hardest hit by the economic and political crisis. for the first time, global</field>
+</doc>
+</add>

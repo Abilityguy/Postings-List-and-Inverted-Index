@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170610_100000_Fox_and_Friends_Saturday#start/7982/end/8017</field>
+<field name="datetime">6/10/2017 12:13:17</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20170610_100000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170610_100000_Fox_and_Friends_Saturday/FOXNEWSW_20170610_100000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20170610_100000_Fox_and_Friends_Saturday_007977.jpg</field>
+<field name="snippet">lower greenhouse gas emissions. those are your headlines. pete: thank you, sandra smith. clayton: coming up, bernie sanders famous for tackling billionaires may have a new target christians? we will show you his latest rant and you can decide.</field>
+</doc>
+</add>

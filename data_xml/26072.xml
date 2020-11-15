@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201201.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120125_020000_State_of_the_Union#start/2640/end/2675</field>
+<field name="datetime">1/25/2012 2:44:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">State of the Union</field>
+<field name="showid">FOXNEWSW_20120125_020000_State_of_the_Union</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120125_020000_State_of_the_Union/FOXNEWSW_20120125_020000_State_of_the_Union.thumbs/FOXNEWSW_20120125_020000_State_of_the_Union_002637.jpg</field>
+<field name="snippet">may be too deep to pass a comprehensive plan for climate change but there is no reason why congress shouldn't at least set a clean energy standard that creates a market for innovation. so far you haven't acted.</field>
+</doc>
+</add>

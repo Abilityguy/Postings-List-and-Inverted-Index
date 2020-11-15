@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191226_073000_Review#start/305/end/340</field>
+<field name="datetime">12/26/2019 7:35:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Review</field>
+<field name="showid">BBCNEWS_20191226_073000_Review</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191226_073000_Review/BBCNEWS_20191226_073000_Review.thumbs/BBCNEWS_20191226_073000_Review_000297.jpg</field>
+<field name="snippet">now, pallab ghosh looks back on how the frontiers of science and space were pushed in 2019 - a year shaped by the impact of deforestation and climate change - in review 2019: the year in science.</field>
+</doc>
+</add>

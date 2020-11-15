@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091126_090000_Special_Report_With_Bret_Baier#start/161/end/196</field>
+<field name="datetime">11/26/2009 9:02:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091126_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091126_090000_Special_Report_With_Bret_Baier/FOXNEWS_20091126_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091126_090000_Special_Report_With_Bret_Baier_000146.jpg</field>
+<field name="snippet">junk science. new ammunition is found in thousands of e-mails hacked or leaked from a university in england which shows data was distorted or destroyed to make the case for global warming.</field>
+</doc>
+</add>

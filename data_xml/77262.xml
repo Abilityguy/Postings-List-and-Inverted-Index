@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191116_060000_Breakfast#start/9466/end/9501</field>
+<field name="datetime">11/16/2019 8:38:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191116_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191116_060000_Breakfast/BBCNEWS_20191116_060000_Breakfast.thumbs/BBCNEWS_20191116_060000_Breakfast_009447.jpg</field>
+<field name="snippet">in other news, leading figures in labour and the trade union movement will meet this morning to decide which policies will be included in the party's election manifesto. meanwhile, both the liberal democrats and the conservatives have pledged to plant more trees in an effort to tackle climate change,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201301.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130122_100000_First_Look#start/180/end/215</field>
+<field name="datetime">1/22/2013 10:03:15</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20130122_100000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130122_100000_First_Look/MSNBCW_20130122_100000_First_Look.thumbs/MSNBCW_20130122_100000_First_Look_000165.jpg</field>
+<field name="snippet">buildi its future. reporter: we can make progress, he said, on immigration, gay rights, climate change and school safety. a night to remember for the obamas and for the nation that re-elected the president. i'm steve handelsman, nbc news, washington.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190627_120000_BBC_News_at_One#start/298/end/333</field>
+<field name="datetime">6/27/2019 12:05:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190627_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190627_120000_BBC_News_at_One/BBCNEWS_20190627_120000_BBC_News_at_One.thumbs/BBCNEWS_20190627_120000_BBC_News_at_One_000297.jpg</field>
+<field name="snippet">scientists balked at linking single events like heatwaves to climate change but there has been a growing body of evidence that connects the two. last yea r's two. last year's summer heatwave was said by the met office to have been made 30 times more likely by the</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201709.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170909_020000_The_Last_Word_With_Lawrence_ODonnell#start/818/end/853</field>
+<field name="datetime">9/9/2017 2:13:53</field>
+<field name="station">MSNBC</field>
+<field name="show">The Last Word With Lawrence ODonnell</field>
+<field name="showid">MSNBCW_20170909_020000_The_Last_Word_With_Lawrence_ODonnell</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170909_020000_The_Last_Word_With_Lawrence_ODonnell/MSNBCW_20170909_020000_The_Last_Word_With_Lawrence_ODonnell.thumbs/MSNBCW_20170909_020000_The_Last_Word_With_Lawrence_ODonnell_000807.jpg</field>
+<field name="snippet">the epa administrator told another network that now is not the time to talk about global warming, but you said earlier this is the time to talk about climate change. this is the time that the president and the epa and whoever makes decisions needs to talk about climate change.</field>
+</doc>
+</add>

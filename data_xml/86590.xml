@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191230_100000_BBC_News#start/51/end/86</field>
+<field name="datetime">12/30/2019 10:01:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191230_100000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191230_100000_BBC_News/BBCNEWS_20191230_100000_BBC_News.thumbs/BBCNEWS_20191230_100000_BBC_News_000028.jpg</field>
+<field name="snippet">i would say we're in a climate crisis, just like a financial crisis. i think what's essential on this topic, on climate change, is that we have a cross-party, nonpartisan approach to it. too late to evacuate - thousands risk being cut off as scores of fires burn out of control across australia. a heatwave sees temperatures exceed</field>
+</doc>
+</add>

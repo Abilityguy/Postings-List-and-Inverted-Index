@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190417_190000_BBC_News#start/1915/end/1950</field>
+<field name="datetime">4/17/2019 19:32:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190417_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190417_190000_BBC_News/BBCNEWS_20190417_190000_BBC_News.thumbs/BBCNEWS_20190417_190000_BBC_News_001888.jpg</field>
+<field name="snippet">i went up into the towers,. it was only when i got to the top that i saw how daunting it was. at some point, we heard an enormous noise. which must've been the spire falling down. police say 340 people have been arrested since climate change</field>
+</doc>
+</add>

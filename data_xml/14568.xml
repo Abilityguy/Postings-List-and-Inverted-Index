@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201806.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20180630_200000_MSNBC_Live#start/147/end/182</field>
+<field name="datetime">6/30/2018 20:02:42</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20180630_200000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20180630_200000_MSNBC_Live/MSNBCW_20180630_200000_MSNBC_Live.thumbs/MSNBCW_20180630_200000_MSNBC_Live_000147.jpg</field>
+<field name="snippet">cause, climate change, parenthood? we had a lot of regulars, social justice groups organizing this. a lot of no justice, no peace.</field>
+</doc>
+</add>

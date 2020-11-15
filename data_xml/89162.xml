@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190628_040000_The_Briefing#start/586/end/621</field>
+<field name="datetime">6/28/2019 4:10:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20190628_040000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190628_040000_The_Briefing/BBCNEWS_20190628_040000_The_Briefing.thumbs/BBCNEWS_20190628_040000_The_Briefing_000568.jpg</field>
+<field name="snippet">leaders of the world's most powerful economies have begun the g20 summit in the japanese city of osaka. climate change and wto reforms are on the agenda, but the meeting is likely to be dominated by differences between the united states</field>
+</doc>
+</add>

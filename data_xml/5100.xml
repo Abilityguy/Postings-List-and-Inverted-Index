@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170602_160000_BBC_News_at_Five#start/1306/end/1341</field>
+<field name="datetime">6/2/2017 16:22:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20170602_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170602_160000_BBC_News_at_Five/BBCNEWS_20170602_160000_BBC_News_at_Five.thumbs/BBCNEWS_20170602_160000_BBC_News_at_Five_001287.jpg</field>
+<field name="snippet">i've made the uk's position on the paris agreement very clear. we remain committed to the paris agreement, it's an important international agreement on climate change. i made the uk's position clear to president trump last week at the g7 meeting, as did the other g7 leaders, and i made the uk's position clear</field>
+</doc>
+</add>

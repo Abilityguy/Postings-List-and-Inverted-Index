@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190713_093000_The_Travel_Show#start/869/end/904</field>
+<field name="datetime">7/13/2019 9:44:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Travel Show</field>
+<field name="showid">BBCNEWS_20190713_093000_The_Travel_Show</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190713_093000_The_Travel_Show/BBCNEWS_20190713_093000_The_Travel_Show.thumbs/BBCNEWS_20190713_093000_The_Travel_Show_000868.jpg</field>
+<field name="snippet">this is just part of the solution. we have to restore coral populations, but we also have to manage climate change.</field>
+</doc>
+</add>

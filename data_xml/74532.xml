@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200105_213000_Our_World#start/1026/end/1061</field>
+<field name="datetime">1/5/2020 21:47:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Our World</field>
+<field name="showid">BBCNEWS_20200105_213000_Our_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200105_213000_Our_World/BBCNEWS_20200105_213000_Our_World.thumbs/BBCNEWS_20200105_213000_Our_World_001018.jpg</field>
+<field name="snippet">of course, climate change is another one. but it's not as concrete as the arctic railway.</field>
+</doc>
+</add>

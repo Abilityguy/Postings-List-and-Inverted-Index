@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200910.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091009_050000_Countdown_With_Keith_Olbermann#start/1829/end/1864</field>
+<field name="datetime">10/9/2009 5:30:44</field>
+<field name="station">MSNBC</field>
+<field name="show">Countdown With Keith Olbermann</field>
+<field name="showid">MSNBC_20091009_050000_Countdown_With_Keith_Olbermann</field>
+<field name="preview">https://archive.org/download/MSNBC_20091009_050000_Countdown_With_Keith_Olbermann/MSNBC_20091009_050000_Countdown_With_Keith_Olbermann.thumbs/MSNBC_20091009_050000_Countdown_With_Keith_Olbermann_001825.jpg</field>
+<field name="snippet">attendance mandatory. late comers will be fed to sharks. the meeting is intended to highlight climate change. they will prepare by taking scuba lessons. not to be outdone, the republican national committee will continue to hold its meetings inside an echo chamber.</field>
+</doc>
+</add>

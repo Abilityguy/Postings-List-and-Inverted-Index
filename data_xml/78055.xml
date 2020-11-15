@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191113_020000_BBC_News#start/1075/end/1110</field>
+<field name="datetime">11/13/2019 2:18:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191113_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191113_020000_BBC_News/BBCNEWS_20191113_020000_BBC_News.thumbs/BBCNEWS_20191113_020000_BBC_News_001078.jpg</field>
+<field name="snippet">conversation yesterday, we can share empathy with people who are struggling and having a terrible time on the tragedy up the coast but at the same time also recognising that climate change is having a profound influence on australia. we are the canary in the mind,</field>
+</doc>
+</add>

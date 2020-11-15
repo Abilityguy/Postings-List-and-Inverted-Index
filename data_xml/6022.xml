@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190907_140000_BBC_News#start/1394/end/1429</field>
+<field name="datetime">9/7/2019 14:23:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190907_140000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190907_140000_BBC_News/BBCNEWS_20190907_140000_BBC_News.thumbs/BBCNEWS_20190907_140000_BBC_News_001377.jpg</field>
+<field name="snippet">several hundred activists have staged a sit-in on the red carpet at the venice film festival in protest at the huge cruise ships which they accuse of damaging the environment. they say the cruise ships worsen global warming and erode the foundations of the city as they pass through the lagoon. the children's commissioner</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181124_020000_BBC_News#start/967/end/1002</field>
+<field name="datetime">11/24/2018 2:16:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181124_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181124_020000_BBC_News/BBCNEWS_20181124_020000_BBC_News.thumbs/BBCNEWS_20181124_020000_BBC_News_000958.jpg</field>
+<field name="snippet">the latest headlines: a us government report warns that climate change will cost the country hundreds of billions of dollars by the end of the century. questions from spain over gibraltar's status throws doubt over sunday's meeting on britain's proposed eu-brexit deal. un envoy to yemen has delivered a</field>
+</doc>
+</add>

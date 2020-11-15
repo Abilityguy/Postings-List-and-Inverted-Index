@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201012.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101205_120000_FOX_and_Friends_Sunday#start/2772/end/2807</field>
+<field name="datetime">12/5/2010 12:46:27</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWS_20101205_120000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101205_120000_FOX_and_Friends_Sunday/FOXNEWS_20101205_120000_FOX_and_Friends_Sunday.thumbs/FOXNEWS_20101205_120000_FOX_and_Friends_Sunday_002760.jpg</field>
+<field name="snippet">issues on climate change. why is the u.n. taking up the issue at all and some say it already has. joining us is michael barnes, good morning to you, mr. barnes. good morning. the u.n. has an awful lot on its plate.</field>
+</doc>
+</add>

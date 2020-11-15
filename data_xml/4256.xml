@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201302.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130213_015500_State_of_the_Union_2013#start/5696/end/5731</field>
+<field name="datetime">2/13/2013 3:30:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">State of the Union 2013</field>
+<field name="showid">FOXNEWSW_20130213_015500_State_of_the_Union_2013</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130213_015500_State_of_the_Union_2013/FOXNEWSW_20130213_015500_State_of_the_Union_2013.thumbs/FOXNEWSW_20130213_015500_State_of_the_Union_2013_005685.jpg</field>
+<field name="snippet">reporter: but when the president talked about issues of climate change global warming and republicans with independents and the lowest</field>
+</doc>
+</add>

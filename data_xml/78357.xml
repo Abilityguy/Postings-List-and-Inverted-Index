@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191124_060000_Breakfast#start/1836/end/1871</field>
+<field name="datetime">11/24/2019 6:30:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191124_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191124_060000_Breakfast/BBCNEWS_20191124_060000_Breakfast.thumbs/BBCNEWS_20191124_060000_Breakfast_001828.jpg</field>
+<field name="snippet">government's spending powers. the party claim it will unlock almost £3 billion over the course of the next parliament, which they plan to use to boost the economy and tackle climate change. a number of police officers have been assaulted while trying to break up a large brawl at a cinema in birmingham.</field>
+</doc>
+</add>

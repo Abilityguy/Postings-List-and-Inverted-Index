@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091121_050000_Hannity#start/3473/end/3508</field>
+<field name="datetime">11/21/2009 5:58:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20091121_050000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091121_050000_Hannity/FOXNEWS_20091121_050000_Hannity.thumbs/FOXNEWS_20091121_050000_Hannity_003450.jpg</field>
+<field name="snippet">snowing, it's global warming, if it's hot, it's global warming, if there's a volcano or earthquake it's global warming. there's nothing that doesn't protch it's global warming. -- that doesn't prove it's global warming. it's called the weather where i come from. it's a big planet.</field>
+</doc>
+</add>

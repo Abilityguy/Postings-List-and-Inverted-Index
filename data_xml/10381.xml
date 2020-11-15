@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201511.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151113_110000_FOX__Friends#start/10002/end/10037</field>
+<field name="datetime">11/13/2015 13:46:57</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20151113_110000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151113_110000_FOX__Friends/FOXNEWSW_20151113_110000_FOX__Friends.thumbs/FOXNEWSW_20151113_110000_FOX__Friends_009975.jpg</field>
+<field name="snippet">the world is one way, and then anybody who has a contrary view, don't like that. well, they learn, for example, that global warming is setted. there's no country if you shut them down. you're a victim, and therefore you get special privileges. yeah.</field>
+</doc>
+</add>

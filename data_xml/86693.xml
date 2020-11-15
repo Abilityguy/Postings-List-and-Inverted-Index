@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191222_120000_BBC_News#start/223/end/258</field>
+<field name="datetime">12/22/2019 12:03:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191222_120000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191222_120000_BBC_News/BBCNEWS_20191222_120000_BBC_News.thumbs/BBCNEWS_20191222_120000_BBC_News_000208.jpg</field>
+<field name="snippet">events around the world. but i'm sure people, equally, would acknowledge that the direct connection to any single fire event is not a credible suggestion to make that link. so, we must take action on climate</field>
+</doc>
+</add>

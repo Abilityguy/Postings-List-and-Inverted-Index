@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190425_050000_Breakfast#start/2500/end/2535</field>
+<field name="datetime">4/25/2019 5:41:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190425_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190425_050000_Breakfast/BBCNEWS_20190425_050000_Breakfast.thumbs/BBCNEWS_20190425_050000_Breakfast_002489.jpg</field>
+<field name="snippet">thanks forjoining us. climate change has been very much in the headlines in the last few weeks and the green party could capitalise on that ahead of next week's local elections in england and northern ireland. but what can the party deliver in terms of other policies?</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201407.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140706_100000_FOX_and_Friends_Sunday#start/4066/end/4101</field>
+<field name="datetime">7/6/2014 11:08:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20140706_100000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140706_100000_FOX_and_Friends_Sunday/FOXNEWSW_20140706_100000_FOX_and_Friends_Sunday.thumbs/FOXNEWSW_20140706_100000_FOX_and_Friends_Sunday_004065.jpg</field>
+<field name="snippet">americans. tom steyer is the biggest democratic donor in the united states. he's a billionaire that lives out in san francisco and pledged $100 million to attack any republican candidate who doesn't take a vigorous position against climate change. that is his reason for being.</field>
+</doc>
+</add>

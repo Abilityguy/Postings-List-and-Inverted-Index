@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201511.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151130_100000_First_Look#start/14/end/49</field>
+<field name="datetime">11/30/2015 10:00:29</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20151130_100000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151130_100000_First_Look/MSNBCW_20151130_100000_First_Look.thumbs/MSNBCW_20151130_100000_First_Look_000045.jpg</field>
+<field name="snippet">. it's monday, november 30rd, right now on 'first look' a wave of protesters welcome over 150 world leaders descending on paris, as many hope to launch the world's most ambitious fight against climate change. the fbi is investigating</field>
+</doc>
+</add>

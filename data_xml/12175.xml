@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190809_010000_BBC_News#start/125/end/160</field>
+<field name="datetime">8/9/2019 1:02:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190809_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190809_010000_BBC_News/BBCNEWS_20190809_010000_BBC_News.thumbs/BBCNEWS_20190809_010000_BBC_News_000119.jpg</field>
+<field name="snippet">the food we need, just as the world's population keeps increasing. there'll be 2 billion more of us by the middle of the century. and at the same time, up to a third of all food is wasted. and as it rots, it releases gases that raise temperatures even more. and this exacerbates climate change. the un climate panel highlights</field>
+</doc>
+</add>

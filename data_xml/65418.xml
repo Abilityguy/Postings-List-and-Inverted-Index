@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190313_020000_The_Ingraham_Angle#start/3110/end/3145</field>
+<field name="datetime">3/13/2019 2:52:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Ingraham Angle</field>
+<field name="showid">FOXNEWSW_20190313_020000_The_Ingraham_Angle</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190313_020000_The_Ingraham_Angle/FOXNEWSW_20190313_020000_The_Ingraham_Angle.thumbs/FOXNEWSW_20190313_020000_The_Ingraham_Angle_003090.jpg</field>
+<field name="snippet">'huffington post' claims trump parents antiscience misinformation. but is that accurate? we put that question to a man who started climate change for 35 years, greg wright stone is a geologist and author of the book 'inconvenient facts, the signs that al gore does not want you to know.'</field>
+</doc>
+</add>

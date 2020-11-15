@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190620_100000_BBC_Newsroom_Live#start/3435/end/3470</field>
+<field name="datetime">6/20/2019 10:57:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190620_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190620_100000_BBC_Newsroom_Live/BBCNEWS_20190620_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190620_100000_BBC_Newsroom_Live_003417.jpg</field>
+<field name="snippet">and we need these trains in britain, don't we, because there are still diesel only trains out there, polluting, the sort of change you don't want to stand next to at the station? yes, both local pollution and global warming, climate change issues, this is the train that can solve</field>
+</doc>
+</add>

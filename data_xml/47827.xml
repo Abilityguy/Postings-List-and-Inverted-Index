@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201511.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151130_220000_MTP_Daily#start/389/end/424</field>
+<field name="datetime">11/30/2015 22:06:44</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20151130_220000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151130_220000_MTP_Daily/MSNBCW_20151130_220000_MTP_Daily.thumbs/MSNBCW_20151130_220000_MTP_Daily_000376.jpg</field>
+<field name="snippet">historic global pact to tackle climate change. the 12-day task is monumental, seen as a last chance to come together to prevent the catastrophic damage around the world that's predicted if current emissions can't be</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190924_020000_BBC_News#start/70/end/105</field>
+<field name="datetime">9/24/2019 2:01:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190924_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190924_020000_BBC_News/BBCNEWS_20190924_020000_BBC_News.thumbs/BBCNEWS_20190924_020000_BBC_News_000057.jpg</field>
+<field name="snippet">at the united nations in new york, the teenage activist greta thunberg has made a scathing attack on world leaders gathered for a special summit on climate change. around 60 heads of state attended. some very prominent figures stayed away. she accused them of betraying her generation through their inaction on global warming, and said young people would never forgive them</field>
+</doc>
+</add>

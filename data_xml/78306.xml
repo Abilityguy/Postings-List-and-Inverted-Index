@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191118_200000_BBC_News#start/1634/end/1669</field>
+<field name="datetime">11/18/2019 20:27:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191118_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191118_200000_BBC_News/BBCNEWS_20191118_200000_BBC_News.thumbs/BBCNEWS_20191118_200000_BBC_News_001618.jpg</field>
+<field name="snippet">there are threats from climate change and from plant health threats, pests and diseases and land use change. so we don't know what's going to happen to our woodlands in the future, so by banking the seeds here, we have them, they're out of the environment, away from plant health threats</field>
+</doc>
+</add>

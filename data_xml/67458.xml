@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140507_070000_All_In_With_Chris_Hayes#start/2700/end/2735</field>
+<field name="datetime">5/7/2014 7:45:15</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20140507_070000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140507_070000_All_In_With_Chris_Hayes/MSNBCW_20140507_070000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20140507_070000_All_In_With_Chris_Hayes_002685.jpg</field>
+<field name="snippet">the national climate assessment released today they conclude climate change once considered an issue for the future has moved into the present. the report is based on the work of 13 agencies and 60 committee members from local and state</field>
+</doc>
+</add>

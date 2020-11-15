@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170402_040000_BBC_News#start/344/end/379</field>
+<field name="datetime">4/2/2017 4:05:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170402_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170402_040000_BBC_News/BBCNEWS_20170402_040000_BBC_News.thumbs/BBCNEWS_20170402_040000_BBC_News_000327.jpg</field>
+<field name="snippet">of rain up there? correct. while they are pretty common, it's all due to, some people say, to climate change. the level of devastation of this one did catch</field>
+</doc>
+</add>

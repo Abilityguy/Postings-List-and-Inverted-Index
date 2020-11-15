@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.202001.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20200116_100000_First_Look#start/1001/end/1036</field>
+<field name="datetime">1/16/2020 10:16:56</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20200116_100000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20200116_100000_First_Look/MSNBCW_20200116_100000_First_Look.thumbs/MSNBCW_20200116_100000_First_Look_000988.jpg</field>
+<field name="snippet">another record year for warm temperatures across the globe. what it means for the overall climate crisis coming up next. a. (sports announcer) what an unlikely field in this final heat. hang on. you're about to see history in the making.</field>
+</doc>
+</add>

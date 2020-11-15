@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181227_090000_Fox_and_Friends_First#start/1929/end/1964</field>
+<field name="datetime">12/27/2018 9:32:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20181227_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181227_090000_Fox_and_Friends_First/FOXNEWSW_20181227_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20181227_090000_Fox_and_Friends_First_001917.jpg</field>
+<field name="snippet">historic moment taking center stage, from brett kavanaugh's better supreme court nomination battle to the dire climate change warning, that is just scratching the surface. which were the top political events, here with top 5 is ash right, thank you for joining us,</field>
+</doc>
+</add>

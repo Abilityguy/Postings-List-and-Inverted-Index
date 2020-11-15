@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201502.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150220_210000_NOW_With_Alex_Wagner#start/2112/end/2147</field>
+<field name="datetime">2/20/2015 21:35:27</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20150220_210000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150220_210000_NOW_With_Alex_Wagner/MSNBCW_20150220_210000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20150220_210000_NOW_With_Alex_Wagner_002086.jpg</field>
+<field name="snippet">focus and perspective. there is to time for anything inessential. i must focus on myself my work and my friends. i shall no longer look at news hour every night. i shall no longer pay any attention to politics or arguments about global warming.</field>
+</doc>
+</add>

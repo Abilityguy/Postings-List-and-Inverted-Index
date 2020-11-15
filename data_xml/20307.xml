@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201404.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140412_070000_Red_Eye#start/18/end/53</field>
+<field name="datetime">4/12/2014 7:00:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWSW_20140412_070000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140412_070000_Red_Eye/FOXNEWSW_20140412_070000_Red_Eye.thumbs/FOXNEWSW_20140412_070000_Red_Eye_000045.jpg</field>
+<field name="snippet">tonight on 'red eye.' coming up is the miami marathon not as fun as it used to be thanks to global warming? we hit the streets of south beach to find out. and what was the vice president's reaction when a first grader asked him if he liked skittles better than</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181227_203000_Review_2018#start/484/end/519</field>
+<field name="datetime">12/27/2018 20:38:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Review 2018</field>
+<field name="showid">BBCNEWS_20181227_203000_Review_2018</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181227_203000_Review_2018/BBCNEWS_20181227_203000_Review_2018.thumbs/BBCNEWS_20181227_203000_Review_2018_000477.jpg</field>
+<field name="snippet">for example, scientists say we can't continue eating as much beef and lamb as we do currently. and the burning of fuel by passenger jets contributes a great deal to global warming.</field>
+</doc>
+</add>

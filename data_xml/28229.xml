@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201901.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190124_110000_Morning_Joe#start/10665/end/10700</field>
+<field name="datetime">1/24/2019 13:58:00</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20190124_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190124_110000_Morning_Joe/MSNBCW_20190124_110000_Morning_Joe.thumbs/MSNBCW_20190124_110000_Morning_Joe_010649.jpg</field>
+<field name="snippet">fuels in the fight against global warming. having nuclear power, this was the hope, right, that nuclear power could be made safer and it could be the counter in our effort to keep global temperatures from going up. if you weigh the risks of higher</field>
+</doc>
+</add>

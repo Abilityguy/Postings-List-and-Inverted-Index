@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201607.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160712_150000_Happening_Now#start/2825/end/2860</field>
+<field name="datetime">7/12/2016 15:47:20</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20160712_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160712_150000_Happening_Now/FOXNEWSW_20160712_150000_Happening_Now.thumbs/FOXNEWSW_20160712_150000_Happening_Now_002817.jpg</field>
+<field name="snippet">something no presidential candidate should ever do. he believes that climate change is a hoax. in fact, he wants to expand the use of fossil fuels.</field>
+</doc>
+</add>

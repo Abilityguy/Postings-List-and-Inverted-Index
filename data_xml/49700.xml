@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201609.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160917_230000_Fox_Report_Saturday#start/2090/end/2125</field>
+<field name="datetime">9/17/2016 23:35:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox Report Saturday</field>
+<field name="showid">FOXNEWSW_20160917_230000_Fox_Report_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160917_230000_Fox_Report_Saturday/FOXNEWSW_20160917_230000_Fox_Report_Saturday.thumbs/FOXNEWSW_20160917_230000_Fox_Report_Saturday_002067.jpg</field>
+<field name="snippet">in the world today in terms of economic growth, standards of living, the ability to forge international cooperation on very difficult issues like climate change. and at the same time, there's</field>
+</doc>
+</add>

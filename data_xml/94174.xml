@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170810_050000_Breakfast#start/6531/end/6566</field>
+<field name="datetime">8/10/2017 6:49:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20170810_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170810_050000_Breakfast/BBCNEWS_20170810_050000_Breakfast.thumbs/BBCNEWS_20170810_050000_Breakfast_006508.jpg</field>
+<field name="snippet">are feeling the effects of the climate crisis now. you have had all-time record downpours here in the united kingdom in the last couple of years. just this week there were record fires and high temperatures in southern europe. you could go right around the world.</field>
+</doc>
+</add>

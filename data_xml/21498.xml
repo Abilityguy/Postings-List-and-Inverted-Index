@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100109_153000_Cavuto_on_Business#start/1298/end/1333</field>
+<field name="datetime">1/9/2010 15:51:53</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Cavuto on Business</field>
+<field name="showid">FOXNEWS_20100109_153000_Cavuto_on_Business</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100109_153000_Cavuto_on_Business/FOXNEWS_20100109_153000_Cavuto_on_Business.thumbs/FOXNEWS_20100109_153000_Cavuto_on_Business_001285.jpg</field>
+<field name="snippet">will wake up and say, hey it's colder, not hotter. maybe all this talk about global warming needs to be rethought. but they are not sharing that information, we've been through this it is a fact of life that</field>
+</doc>
+</add>

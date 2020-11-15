@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181126_170000_BBC_News_at_Five#start/86/end/121</field>
+<field name="datetime">11/26/2018 17:01:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20181126_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181126_170000_BBC_News_at_Five/BBCNEWS_20181126_170000_BBC_News_at_Five.thumbs/BBCNEWS_20181126_170000_BBC_News_at_Five_000088.jpg</field>
+<field name="snippet">all that matters. the most important thing is that now we will have him back home safely. british summers could be five degrees hotter by 2070 if greenhouse gas emissions aren't cut, according to new met office projections. the first spacecraft designed to study the internal structure of mars is set to attempt a difficult landing on the planet tonight.</field>
+</doc>
+</add>

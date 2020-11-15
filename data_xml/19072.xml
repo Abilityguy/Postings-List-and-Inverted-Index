@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201612.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161211_110000_Fox_and_Friends_Sunday#start/6038/end/6073</field>
+<field name="datetime">12/11/2016 12:40:53</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20161211_110000_Fox_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161211_110000_Fox_and_Friends_Sunday/FOXNEWSW_20161211_110000_Fox_and_Friends_Sunday.thumbs/FOXNEWSW_20161211_110000_Fox_and_Friends_Sunday_006028.jpg</field>
+<field name="snippet">i love stories like that. coming up on the show, imagine you're in church for sunday mass, instead of preaching about god, the preacher decides to talk about climate change. that would be wonderful. father john is here to react to the new guidelines issued by the catholic church. the first winter storm is</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190518_030000_BBC_News#start/360/end/395</field>
+<field name="datetime">5/18/2019 3:06:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190518_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190518_030000_BBC_News/BBCNEWS_20190518_030000_BBC_News.thumbs/BBCNEWS_20190518_030000_BBC_News_000357.jpg</field>
+<field name="snippet">for the first time in australian elections we have had a strong narrative about climate change in this election. the labour party has met that. the liberal party has made fun of 's climate change. but it is</field>
+</doc>
+</add>

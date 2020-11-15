@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190704_100000_BBC_Newsroom_Live#start/5331/end/5366</field>
+<field name="datetime">7/4/2019 11:29:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190704_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190704_100000_BBC_Newsroom_Live/BBCNEWS_20190704_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190704_100000_BBC_Newsroom_Live_005308.jpg</field>
+<field name="snippet">time is getting shorter, and if we go doing silly things like global warming, it gets even shorter still. i think that scientists are a bit like artists. in the 1960s, he was an eco-pioneer who invented supersensitive testing</field>
+</doc>
+</add>

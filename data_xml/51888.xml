@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181209_020000_BBC_News#start/1669/end/1704</field>
+<field name="datetime">12/9/2018 2:28:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181209_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181209_020000_BBC_News/BBCNEWS_20181209_020000_BBC_News.thumbs/BBCNEWS_20181209_020000_BBC_News_001647.jpg</field>
+<field name="snippet">climate talks after the us, russia, saudi arabia and kuwait, objected to a major scientific report on global warming. the report recommends that carbon emissions be halved over the next twelve years to keep the global rise in temperatures under one point five degrees celsius. '1.5.</field>
+</doc>
+</add>

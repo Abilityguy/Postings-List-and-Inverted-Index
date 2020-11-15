@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190208_110000_BBC_Newsroom_Live#start/6807/end/6842</field>
+<field name="datetime">2/8/2019 12:53:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190208_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190208_110000_BBC_Newsroom_Live/BBCNEWS_20190208_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190208_110000_BBC_Newsroom_Live_006808.jpg</field>
+<field name="snippet">the new technology captures one tonne a day of emissions and the company says it's the first time it has been tried anywhere in the world and could help tackle climate change. and now for a pretty remarkable story from montana about a frozen cat that managed to thaw out and survive (00v) fluffy</field>
+</doc>
+</add>

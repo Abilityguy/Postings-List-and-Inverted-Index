@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201411.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20141107_100000_First_Look#start/1234/end/1269</field>
+<field name="datetime">11/7/2014 10:20:49</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20141107_100000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20141107_100000_First_Look/MSNBCW_20141107_100000_First_Look.thumbs/MSNBCW_20141107_100000_First_Look_001215.jpg</field>
+<field name="snippet">story. he pumped $57 million in the midterms. only three won. story's response at least climate change got into the political debate. rick perry was in court facing abuse of power charges.</field>
+</doc>
+</add>

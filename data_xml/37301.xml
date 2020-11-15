@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201401.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140108_090000_The_Five#start/769/end/804</field>
+<field name="datetime">1/8/2014 9:13:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20140108_090000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140108_090000_The_Five/FOXNEWSW_20140108_090000_The_Five.thumbs/FOXNEWSW_20140108_090000_The_Five_000765.jpg</field>
+<field name="snippet">block. it's cold. turn the global warming switch on for me, would you? i wish they were right, don't you? all right. we want to see how you are braving the cold at home. tweet us your best polar vortex snapshots at #thefive.</field>
+</doc>
+</add>

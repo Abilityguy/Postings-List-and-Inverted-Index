@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201108.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20110822_160000_MSNBC_News_Live#start/1004/end/1039</field>
+<field name="datetime">8/22/2011 16:16:59</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBCW_20110822_160000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20110822_160000_MSNBC_News_Live/MSNBCW_20110822_160000_MSNBC_News_Live.thumbs/MSNBCW_20110822_160000_MSNBC_News_Live_000986.jpg</field>
+<field name="snippet">republican nominee for president, jon huntsman isn't letting up when it comes to new attack strategy. last week he started calling out the other candidates on evolution and climate change. now he's hitting rick perry over comments fed chairman ben</field>
+</doc>
+</add>

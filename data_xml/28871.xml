@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201610.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161012_100000_FOX__Friends#start/2274/end/2309</field>
+<field name="datetime">10/12/2016 10:38:09</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20161012_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161012_100000_FOX__Friends/FOXNEWSW_20161012_100000_FOX__Friends.thumbs/FOXNEWSW_20161012_100000_FOX__Friends_002248.jpg</field>
+<field name="snippet">form a mutual -- clinton introduced her husband's former v.p. reminding the crowd of his nobel peace prize for his environmental work and called climate change one of the most important issues at stake in this election.</field>
+</doc>
+</add>

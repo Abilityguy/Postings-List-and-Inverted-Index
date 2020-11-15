@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181012_184500_Newswatch#start/400/end/435</field>
+<field name="datetime">10/12/2018 18:51:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newswatch</field>
+<field name="showid">BBCNEWS_20181012_184500_Newswatch</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181012_184500_Newswatch/BBCNEWS_20181012_184500_Newswatch.thumbs/BBCNEWS_20181012_184500_Newswatch_000387.jpg</field>
+<field name="snippet">a debate about the science. so the question comes down to, should the bbc be giving climate change deniers any air time any more? i think that was really interesting that interview, because actually i think it was more interesting around the policy and the politics of the trump administration, which is important</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_140000_Afternoon_Live#start/406/end/441</field>
+<field name="datetime">1/16/2020 14:07:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20200116_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_140000_Afternoon_Live/BBCNEWS_20200116_140000_Afternoon_Live.thumbs/BBCNEWS_20200116_140000_Afternoon_Live_000387.jpg</field>
+<field name="snippet">and where you are from. and you can find out more about how we are going to cover climate change in 2020 here on the bbc, on our website,</field>
+</doc>
+</add>

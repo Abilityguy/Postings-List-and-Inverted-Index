@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201301.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130111_110000_FOX_and_Friends#start/16/end/51</field>
+<field name="datetime">1/11/2013 11:00:31</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20130111_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130111_110000_FOX_and_Friends/FOXNEWSW_20130111_110000_FOX_and_Friends.thumbs/FOXNEWSW_20130111_110000_FOX_and_Friends_000045.jpg</field>
+<field name="snippet">question of the day responses. we asked you if a tax-funded game about climate change and gender equality is a good use of your dollars or waste of money? alex says the game is a waste of money. what role does the game play in stopping our national debt?</field>
+</doc>
+</add>

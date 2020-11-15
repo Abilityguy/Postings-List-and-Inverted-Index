@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191222_020000_BBC_News#start/106/end/141</field>
+<field name="datetime">12/22/2019 2:02:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191222_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191222_020000_BBC_News/BBCNEWS_20191222_020000_BBC_News.thumbs/BBCNEWS_20191222_020000_BBC_News_000087.jpg</field>
+<field name="snippet">destroyed and at least ten people killed. two firefighters are among those to have lost their lives. this week has seen record high temperatures repeatedly broken. with australia hotting up, the prime minister says the government would take action on climate change. there is no argument</field>
+</doc>
+</add>

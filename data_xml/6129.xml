@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_190000_BBC_News#start/1985/end/2020</field>
+<field name="datetime">9/20/2019 19:33:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190920_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_190000_BBC_News/BBCNEWS_20190920_190000_BBC_News.thumbs/BBCNEWS_20190920_190000_BBC_News_001978.jpg</field>
+<field name="snippet">the world, demanding tougher action on climate change. while more and more schemes to reduce carbon emissions are launched, researchers say that progress is still too slow. earlier, i spoke to</field>
+</doc>
+</add>

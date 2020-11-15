@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201210.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121010_100000_FOX_and_Friends#start/2917/end/2952</field>
+<field name="datetime">10/10/2012 10:48:52</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20121010_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121010_100000_FOX_and_Friends/FOXNEWSW_20121010_100000_FOX_and_Friends.thumbs/FOXNEWSW_20121010_100000_FOX_and_Friends_002908.jpg</field>
+<field name="snippet">brian: guys you can fly and cats can't. and climate change and droelectric power causes climate change, is that the truth? no, it is a great source of energy and yes, upsuts the</field>
+</doc>
+</add>

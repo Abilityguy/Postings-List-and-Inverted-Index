@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191125_050000_The_Briefing#start/1139/end/1174</field>
+<field name="datetime">11/25/2019 5:19:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20191125_050000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191125_050000_The_Briefing/BBCNEWS_20191125_050000_The_Briefing.thumbs/BBCNEWS_20191125_050000_The_Briefing_001138.jpg</field>
+<field name="snippet">emissions from the cement industry contribute to global warming three orfour times more than aviation does. and becoming carbon negative requires a huge investment in cutting edge technology to remove the remaining carbon dioxide. so, why is cement so dangerous to the planet?</field>
+</doc>
+</add>

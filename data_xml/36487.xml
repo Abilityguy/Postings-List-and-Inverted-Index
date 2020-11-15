@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201906.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190616_180000_MSNBC_Live_with_Kendis_Gibson#start/3289/end/3324</field>
+<field name="datetime">6/16/2019 18:55:04</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live with Kendis Gibson</field>
+<field name="showid">MSNBCW_20190616_180000_MSNBC_Live_with_Kendis_Gibson</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190616_180000_MSNBC_Live_with_Kendis_Gibson/MSNBCW_20190616_180000_MSNBC_Live_with_Kendis_Gibson.thumbs/MSNBCW_20190616_180000_MSNBC_Live_with_Kendis_Gibson_003268.jpg</field>
+<field name="snippet">about climate change. you talk to young people anywhere in the united states, canada, britain, france, young people are very concerned about climate change. bill, as you know rocket scientists and engineers continue to lead the way when it</field>
+</doc>
+</add>

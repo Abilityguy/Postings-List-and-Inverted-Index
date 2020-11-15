@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190924_040000_Tucker_Carlson_Tonight#start/116/end/151</field>
+<field name="datetime">9/24/2019 4:02:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190924_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190924_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190924_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190924_040000_Tucker_Carlson_Tonight_000089.jpg</field>
+<field name="snippet">tucker: threat to who we are as humans. theres are a number of questios here. let's see if we can unpack them. the first one, is climate change real? that's an easy one. of course it's real. the climate always changes. if you're in the united states for y example, the ground that</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140527_100000_Morning_Joe#start/5530/end/5565</field>
+<field name="datetime">5/27/2014 11:32:25</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20140527_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140527_100000_Morning_Joe/MSNBCW_20140527_100000_Morning_Joe.thumbs/MSNBCW_20140527_100000_Morning_Joe_005506.jpg</field>
+<field name="snippet">that was a clip from 'years of living dangerously,' a series of showtime exploring climate change. joining us now from washington, 'new york times' columnist thomas friedman who is also a correspondent for the series. tom, that was shot in such a way --  _</field>
+</doc>
+</add>

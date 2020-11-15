@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091231_000000_The_FOX_Report_With_Shepard_Smith#start/3270/end/3305</field>
+<field name="datetime">12/31/2009 0:54:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The FOX Report With Shepard Smith</field>
+<field name="showid">FOXNEWS_20091231_000000_The_FOX_Report_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091231_000000_The_FOX_Report_With_Shepard_Smith/FOXNEWS_20091231_000000_The_FOX_Report_With_Shepard_Smith.thumbs/FOXNEWS_20091231_000000_The_FOX_Report_With_Shepard_Smith_003263.jpg</field>
+<field name="snippet">climate change in the region, jobs range from maintenance, mechanical and cooking. the temperatures range from a balmy zero degrees in the summer to minus 50's in the winter time. folks there don't seem to mind.</field>
+</doc>
+</add>

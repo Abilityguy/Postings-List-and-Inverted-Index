@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201610.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161025_190000_MSNBC_Live_With_Kate_Snow#start/176/end/211</field>
+<field name="datetime">10/25/2016 19:03:11</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Kate Snow</field>
+<field name="showid">MSNBCW_20161025_190000_MSNBC_Live_With_Kate_Snow</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161025_190000_MSNBC_Live_With_Kate_Snow/MSNBCW_20161025_190000_MSNBC_Live_With_Kate_Snow.thumbs/MSNBCW_20161025_190000_MSNBC_Live_With_Kate_Snow_000148.jpg</field>
+<field name="snippet">the election two weeks from today. and, you know, it's so important for florida. there are so many issues that we need to remind people about. you know, last time i was here, i campaigned with al gore. he said a lot about the climate crisis. you know why?</field>
+</doc>
+</add>

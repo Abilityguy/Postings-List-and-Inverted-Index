@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091210_090000_Special_Report_With_Bret_Baier#start/19/end/54</field>
+<field name="datetime">12/10/2009 9:00:34</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091210_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091210_090000_Special_Report_With_Bret_Baier/FOXNEWS_20091210_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091210_090000_Special_Report_With_Bret_Baier_000027.jpg</field>
+<field name="snippet">nobel peace prize in norway. we have a live report from oslo. the white house gives congress an ultimatum. do something about greenhouse gases or we'll do it for you, and does the leaking of a secret government document about security screening put you in danger? all that, plus the all-star</field>
+</doc>
+</add>

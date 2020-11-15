@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180807_050000_Breakfast#start/2504/end/2539</field>
+<field name="datetime">8/7/2018 5:41:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20180807_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180807_050000_Breakfast/BBCNEWS_20180807_050000_Breakfast.thumbs/BBCNEWS_20180807_050000_Breakfast_002487.jpg</field>
+<field name="snippet">greenhouse emissions, scientists say the world is at risk from extremely dangerous levels of climate change. hothouse conditions could make many parts of the world uninhabitable in a matter of decades and raise sea levels by up to 197 feet higher than they are today,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201305.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130512_193000_FOX_News_Watch#start/988/end/1023</field>
+<field name="datetime">5/12/2013 19:46:43</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Watch</field>
+<field name="showid">FOXNEWSW_20130512_193000_FOX_News_Watch</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130512_193000_FOX_News_Watch/FOXNEWSW_20130512_193000_FOX_News_Watch.thumbs/FOXNEWSW_20130512_193000_FOX_News_Watch_000975.jpg</field>
+<field name="snippet">the atlantic on july 8, 2011, an era of tornadoes, how global warming causes wild winds. now just -- the report linked to a story also from 'usa today' saying tornadoes hit 60-year low. again, one goes from enormous</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201706.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170603_180000_MSNBC_Live#start/2433/end/2468</field>
+<field name="datetime">6/3/2017 18:40:48</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170603_180000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170603_180000_MSNBC_Live/MSNBCW_20170603_180000_MSNBC_Live.thumbs/MSNBCW_20170603_180000_MSNBC_Live_002427.jpg</field>
+<field name="snippet">in recent weeks has been on the russia investigation, lawmakers are facing a number of legislative questions as they return to capitol hill next week. questions about health care, tax reform and climate change. we'll discuss those with one lawmaker, congressman ami beara</field>
+</doc>
+</add>

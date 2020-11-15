@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201305.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130504_200000_Cavuto_on_Business#start/992/end/1027</field>
+<field name="datetime">5/4/2013 20:16:47</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Cavuto on Business</field>
+<field name="showid">FOXNEWSW_20130504_200000_Cavuto_on_Business</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130504_200000_Cavuto_on_Business/FOXNEWSW_20130504_200000_Cavuto_on_Business.thumbs/FOXNEWSW_20130504_200000_Cavuto_on_Business_000975.jpg</field>
+<field name="snippet">i'm not one of those environmentalists. i think we need to be careful to avoid single data points like the weather in may of 2013 or whatever the weather was. neil: but they have. that is when we use global</field>
+</doc>
+</add>

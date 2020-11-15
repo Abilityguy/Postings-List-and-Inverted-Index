@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170708_205000_BBC_News#start/0/end/32</field>
+<field name="datetime">7/8/2017 20:50:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170708_205000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170708_205000_BBC_News/BBCNEWS_20170708_205000_BBC_News.thumbs/BBCNEWS_20170708_205000_BBC_News_000027.jpg</field>
+<field name="snippet">donald trump claims victories on trade and climate change, as the 620 summit ends. but while world leaders accept america's commitment to coal and some tariffs, they keep their own pledges on global warming and free trade. mr trump also offers theresa may,</field>
+</doc>
+</add>

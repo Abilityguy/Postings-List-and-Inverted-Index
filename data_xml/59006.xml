@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181108_230000_BBC_News#start/591/end/626</field>
+<field name="datetime">11/8/2018 23:10:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181108_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181108_230000_BBC_News/BBCNEWS_20181108_230000_BBC_News.thumbs/BBCNEWS_20181108_230000_BBC_News_000567.jpg</field>
+<field name="snippet">at the failure of governments to do more about climate change. we're running out of time, because the necessary action hasn't been taken, has it? that's the problem. and i cannot believe that people simply pay no attention to science. charles has been speaking out now</field>
+</doc>
+</add>

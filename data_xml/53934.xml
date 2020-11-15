@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201807.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180725_050000_Breakfast#start/5404/end/5439</field>
+<field name="datetime">7/25/2018 6:30:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20180725_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180725_050000_Breakfast/BBCNEWS_20180725_050000_Breakfast.thumbs/BBCNEWS_20180725_050000_Breakfast_005397.jpg</field>
+<field name="snippet">cameras - like this one - will be measuring just how hot londoners are and how the city is coping as experts warn that climate change is 'loading the dice towards extreme weather,' and that rising global temperatures are fuelling heatwaves. let's have a check on the weather now with kate kinsella.</field>
+</doc>
+</add>

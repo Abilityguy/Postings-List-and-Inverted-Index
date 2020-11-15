@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.202001.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20200110_100000_First_Look#start/2730/end/2765</field>
+<field name="datetime">1/10/2020 10:45:45</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20200110_100000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20200110_100000_First_Look/MSNBCW_20200110_100000_First_Look.thumbs/MSNBCW_20200110_100000_First_Look_002730.jpg</field>
+<field name="snippet">climate and global warming. climate scientists aren't making it up to get rich. i don't know many climate scientists that are rich to be honest. climate scientists i talk to, that's the one that drives them the most nuts.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201010.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101007_060000_Glenn_Beck#start/458/end/493</field>
+<field name="datetime">10/7/2010 6:07:53</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20101007_060000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101007_060000_Glenn_Beck/FOXNEWS_20101007_060000_Glenn_Beck.thumbs/FOXNEWS_20101007_060000_Glenn_Beck_000450.jpg</field>
+<field name="snippet">slightly. this is another clip from england. we'll get to america in a second. but this one is from the environmentalists who believe that if we don't act within four years, there is no reversing climate change. so they want to warn you. well, they are already trying</field>
+</doc>
+</add>

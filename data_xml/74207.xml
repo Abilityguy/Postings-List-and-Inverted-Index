@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_110000_BBC_Newsroom_Live#start/5899/end/5934</field>
+<field name="datetime">1/16/2020 12:38:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20200116_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_110000_BBC_Newsroom_Live/BBCNEWS_20200116_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20200116_110000_BBC_Newsroom_Live_005878.jpg</field>
+<field name="snippet">caused by an greenhouse gases. one of the key greenhouse gases is carbon dioxide, measured here at mauna loa in hawaii and, in december, the average level was close to 412 parts per million.</field>
+</doc>
+</add>

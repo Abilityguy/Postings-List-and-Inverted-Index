@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191102_100000_MSNBC_Live#start/3404/end/3439</field>
+<field name="datetime">11/2/2019 10:56:59</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20191102_100000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191102_100000_MSNBC_Live/MSNBCW_20191102_100000_MSNBC_Live.thumbs/MSNBCW_20191102_100000_MSNBC_Live_003387.jpg</field>
+<field name="snippet">that could one day power planes, propel ships, and fuel trucks. and cut their greenhouse gas emissions in half. algae. its potential just keeps growing.</field>
+</doc>
+</add>

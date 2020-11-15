@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201006.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100629_100000_FOX_and_Friends#start/9112/end/9147</field>
+<field name="datetime">6/29/2010 12:32:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100629_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100629_100000_FOX_and_Friends/FOXNEWS_20100629_100000_FOX_and_Friends.thumbs/FOXNEWS_20100629_100000_FOX_and_Friends_009108.jpg</field>
+<field name="snippet">show the president and now vice president are personally involved in the disaster in the gulf. meanwhile, at the white house today, the president will have a meeting with a number of lawmakers on climate change legislation. the white house has said it wants to get energy legislation</field>
+</doc>
+</add>

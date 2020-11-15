@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190208_110000_BBC_Newsroom_Live#start/6792/end/6827</field>
+<field name="datetime">2/8/2019 12:53:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190208_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190208_110000_BBC_Newsroom_Live/BBCNEWS_20190208_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190208_110000_BBC_Newsroom_Live_006777.jpg</field>
+<field name="snippet">in north yorkshire has become the first in the world to reverse climate change on a tiny scale - in a process known as 'carbon negative'. drax burns seven million tonnes of wood chips each year to drive generators to make electricity.</field>
+</doc>
+</add>

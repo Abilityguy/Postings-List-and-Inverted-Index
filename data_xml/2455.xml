@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200909.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20090922_150000_MSNBC_News_Live#start/1272/end/1307</field>
+<field name="datetime">9/22/2009 15:21:27</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20090922_150000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20090922_150000_MSNBC_News_Live/MSNBC_20090922_150000_MSNBC_News_Live.thumbs/MSNBC_20090922_150000_MSNBC_News_Live_001256.jpg</field>
+<field name="snippet">the search. president obama telling world leaders the u.s. is committed to combating global warming. we are minutes away from the president's tri-laterally</field>
+</doc>
+</add>

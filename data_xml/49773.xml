@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201703.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170328_150000_MSNBC_Live#start/1838/end/1873</field>
+<field name="datetime">3/28/2017 15:30:53</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170328_150000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170328_150000_MSNBC_Live/MSNBCW_20170328_150000_MSNBC_Live.thumbs/MSNBCW_20170328_150000_MSNBC_Live_001827.jpg</field>
+<field name="snippet">what's your concern about what you hear from the president and what he plans to do today? well, frankly this is the most aggressive attack that we've seen from president trump on public health and the environment. we know that climate change is a</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_130000_BBC_News_at_One#start/649/end/684</field>
+<field name="datetime">1/16/2020 13:11:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20200116_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_130000_BBC_News_at_One/BBCNEWS_20200116_130000_BBC_News_at_One.thumbs/BBCNEWS_20200116_130000_BBC_News_at_One_000629.jpg</field>
+<field name="snippet">oui' rebecca, thank you, rebecca morelle, our global science correspondent. you can find out more about how we'll be covering climate change this year here on the bbc. just go to our website, bbc.co.uk, or the bbc news app. the national health service says betting companies are 'shameful' in the way they target problem gamblers. clare murdoch, head of mental health</field>
+</doc>
+</add>

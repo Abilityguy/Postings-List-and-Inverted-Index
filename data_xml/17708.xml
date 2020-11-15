@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170111_020000_Tucker_Carlson_Tonight#start/1703/end/1738</field>
+<field name="datetime">1/11/2017 2:28:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20170111_020000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170111_020000_Tucker_Carlson_Tonight/FOXNEWSW_20170111_020000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20170111_020000_Tucker_Carlson_Tonight_001707.jpg</field>
+<field name="snippet">take the challenge of climate change. in just eight years, we have our dependence on foreign oil, we've led the world to an agreement on a promise to save this planet.</field>
+</doc>
+</add>

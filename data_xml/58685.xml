@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181124_180000_BBC_News#start/1660/end/1695</field>
+<field name="datetime">11/24/2018 18:27:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181124_180000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181124_180000_BBC_News/BBCNEWS_20181124_180000_BBC_News.thumbs/BBCNEWS_20181124_180000_BBC_News_001647.jpg</field>
+<field name="snippet">deforestation is one of the main causes of global warming. hundreds of people have attended the funeral of the well-known syrian radio host and activist, ryed farez, who was killed by gunmen in the rebel-held province of</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190214_050000_Tucker_Carlson_Tonight#start/645/end/680</field>
+<field name="datetime">2/14/2019 5:11:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190214_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190214_050000_Tucker_Carlson_Tonight/FOXNEWSW_20190214_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190214_050000_Tucker_Carlson_Tonight_000630.jpg</field>
+<field name="snippet">it's not going to be effective unless we are always doing it ourselves. how does that not make sense you? can't tell someone to join new a fight if you are not fighting that fight yourself. tucker: really. go fight climate change we will do it too. don't worry about it.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181130_170000_BBC_News_at_Five#start/2156/end/2191</field>
+<field name="datetime">11/30/2018 17:36:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20181130_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181130_170000_BBC_News_at_Five/BBCNEWS_20181130_170000_BBC_News_at_Five.thumbs/BBCNEWS_20181130_170000_BBC_News_at_Five_002157.jpg</field>
+<field name="snippet">security and climate change. earlier this afternoon they came together for the traditional 'family photo', but this summit is marked by tensions and divisions among major powers, with the us and china locked in an escalating trade dispute, and western allies alarmed at russia's seizure of ukrainian ships. but theresa may's focus is on brexit and getting her deal through parliament.</field>
+</doc>
+</add>

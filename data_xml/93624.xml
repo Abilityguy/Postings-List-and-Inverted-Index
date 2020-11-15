@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190723_130000_BBC_News_Special#start/1849/end/1884</field>
+<field name="datetime">7/23/2019 13:31:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News Special</field>
+<field name="showid">BBCNEWS_20190723_130000_BBC_News_Special</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190723_130000_BBC_News_Special/BBCNEWS_20190723_130000_BBC_News_Special.thumbs/BBCNEWS_20190723_130000_BBC_News_Special_001827.jpg</field>
+<field name="snippet">spells in the uk. it is very difficult to attribute any form of heat wave to climate change in particular but scientists say that heatwaves are more likely when we have these sort of changes in our</field>
+</doc>
+</add>

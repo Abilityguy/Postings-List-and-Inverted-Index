@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100124_070000_Glenn_Beck#start/2670/end/2705</field>
+<field name="datetime">1/24/2010 7:44:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20100124_070000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100124_070000_Glenn_Beck/FOXNEWS_20100124_070000_Glenn_Beck.thumbs/FOXNEWS_20100124_070000_Glenn_Beck_002670.jpg</field>
+<field name="snippet">if somebody wants to build a coal powered plant, they can, it is just that it will bankrupt them because they will be charged a huge sum for all the greenhouse gas that is being emit. we need to ultimately make clean renewable energy the</field>
+</doc>
+</add>

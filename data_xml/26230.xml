@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201003.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100313_100000_The_OReilly_Factor#start/3390/end/3425</field>
+<field name="datetime">3/13/2010 10:56:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20100313_100000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100313_100000_The_OReilly_Factor/FOXNEWS_20100313_100000_The_OReilly_Factor.thumbs/FOXNEWS_20100313_100000_The_OReilly_Factor_003382.jpg</field>
+<field name="snippet">fines. number 6, university of alaska at fairbanks, used $50000 to send 11 students to copenhagen for the failed climate change conference using 54000 pounds</field>
+</doc>
+</add>

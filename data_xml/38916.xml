@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100422_220000_Special_Report_With_Bret_Baier#start/1746/end/1781</field>
+<field name="datetime">4/22/2010 22:29:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100422_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100422_220000_Special_Report_With_Bret_Baier/FOXNEWS_20100422_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100422_220000_Special_Report_With_Bret_Baier_001734.jpg</field>
+<field name="snippet">the u.n.'s prediction of global warming related disaster. scientists in bangladesh say the 2007 report from the u.n.'s climate change panel that predicts a three-foot rise in sea levels, the flooding of much of the</field>
+</doc>
+</add>

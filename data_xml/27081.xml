@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100209_090000_Special_Report_With_Bret_Baier#start/1538/end/1573</field>
+<field name="datetime">2/9/2010 9:25:53</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100209_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100209_090000_Special_Report_With_Bret_Baier/FOXNEWS_20100209_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100209_090000_Special_Report_With_Bret_Baier_001524.jpg</field>
+<field name="snippet">marshal says everyone assigned to work at the clean energy plant is accounted for. and no one is believed buried if in the rubble. speaking of clean energy, one attempt at combatting global warming has fallen victim to the cold sting of ironing. and what did you think of the</field>
+</doc>
+</add>

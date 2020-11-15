@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181130_213000_100_Women#start/0/end/32</field>
+<field name="datetime">11/30/2018 21:30:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">100 Women</field>
+<field name="showid">BBCNEWS_20181130_213000_100_Women</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181130_213000_100_Women/BBCNEWS_20181130_213000_100_Women.thumbs/BBCNEWS_20181130_213000_100_Women_000058.jpg</field>
+<field name="snippet">this is bbc news. our main headlines. world leaders are and what is there a 36 20 summit irony marked by tensions and disagreements. many of them caused by president trump's stance on climate change. it's feared the summit may not agree on a final</field>
+</doc>
+</add>

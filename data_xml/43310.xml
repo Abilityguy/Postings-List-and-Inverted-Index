@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090923_100000_FOX_and_Friends#start/4042/end/4077</field>
+<field name="datetime">9/23/2009 11:07:37</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20090923_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090923_100000_FOX_and_Friends/FOXNEWS_20090923_100000_FOX_and_Friends.thumbs/FOXNEWS_20090923_100000_FOX_and_Friends_004016.jpg</field>
+<field name="snippet">weapons of mass destruction, climate change, pandemic disease, are challenges that can't be met through the actions of a single nation in isolation. even one as powerful as our own. they, by necessity, require effective cooperation from others.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201110.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111031_170000_America_Live#start/5552/end/5587</field>
+<field name="datetime">10/31/2011 18:32:47</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWSW_20111031_170000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111031_170000_America_Live/FOXNEWSW_20111031_170000_America_Live.thumbs/FOXNEWSW_20111031_170000_America_Live_005547.jpg</field>
+<field name="snippet">the world. martha: when we were kids the population explosion was the global warming issue. the population was growing at such a rate but you have to wonder what it will be like. if this continues wait will be</field>
+</doc>
+</add>

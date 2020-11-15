@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201009.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100920_100000_Morning_Joe#start/4173/end/4208</field>
+<field name="datetime">9/20/2010 11:09:48</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20100920_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20100920_100000_Morning_Joe/MSNBC_20100920_100000_Morning_Joe.thumbs/MSNBC_20100920_100000_Morning_Joe_004170.jpg</field>
+<field name="snippet">newspaper, the wall stre'wall s journal' says climate change is a myth. people that read this believe it and we're creating a world that is going to be extremely dangerous, and it's getting more dangerous all the time. and it's because we're pretending. dick's doing great work trying</field>
+</doc>
+</add>

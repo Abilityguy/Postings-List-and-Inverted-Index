@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091025_100000_The_OReilly_Factor#start/660/end/695</field>
+<field name="datetime">10/25/2009 10:11:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20091025_100000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091025_100000_The_OReilly_Factor/FOXNEWS_20091025_100000_The_OReilly_Factor.thumbs/FOXNEWS_20091025_100000_The_OReilly_Factor_000660.jpg</field>
+<field name="snippet">target, having voiced opposition to many of the president's priorities, including some aspects of health care reform, financial regulation, and climate change legislation. we're back with mary o'grady and kim strossle and wall street</field>
+</doc>
+</add>

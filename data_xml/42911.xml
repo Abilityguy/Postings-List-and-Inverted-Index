@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180108_210000_Outside_Source#start/1248/end/1283</field>
+<field name="datetime">1/8/2018 21:21:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20180108_210000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180108_210000_Outside_Source/BBCNEWS_20180108_210000_Outside_Source.thumbs/BBCNEWS_20180108_210000_Outside_Source_001228.jpg</field>
+<field name="snippet">these stories there seems to be a consensus amongst scientists, politicians, that climate change is driving more extreme weather and perhaps we should expect another record year sooner rather than later. that's right. this is something also with the independent</field>
+</doc>
+</add>

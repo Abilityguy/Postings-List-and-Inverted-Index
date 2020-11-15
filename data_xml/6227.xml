@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_184500_Newswatch#start/908/end/943</field>
+<field name="datetime">9/20/2019 19:00:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newswatch</field>
+<field name="showid">BBCNEWS_20190920_184500_Newswatch</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_184500_Newswatch/BBCNEWS_20190920_184500_Newswatch.thumbs/BBCNEWS_20190920_184500_Newswatch_000898.jpg</field>
+<field name="snippet">i'm lukwesa burak. the headlines at 8pm: a global climate strike - in cities across the uk, thousands take to the streets - calling for tougher action to combat climate change. from nairobi to new york,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201008.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100813_100000_FOX_and_Friends#start/5565/end/5600</field>
+<field name="datetime">8/13/2010 11:33:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100813_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100813_100000_FOX_and_Friends/FOXNEWS_20100813_100000_FOX_and_Friends.thumbs/FOXNEWS_20100813_100000_FOX_and_Friends_005541.jpg</field>
+<field name="snippet">mentioned a moment ago, they don't know whether or not it's related to global warming. they know that great big honking thing four times the size of the island we are sitting on right now just out there floating. all right. in the meantime, 27 minutes before the top of the hour, have some headlines for you.</field>
+</doc>
+</add>

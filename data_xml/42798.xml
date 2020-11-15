@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180117_140000_Afternoon_Live#start/6365/end/6400</field>
+<field name="datetime">1/17/2018 15:46:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20180117_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180117_140000_Afternoon_Live/BBCNEWS_20180117_140000_Afternoon_Live.thumbs/BBCNEWS_20180117_140000_Afternoon_Live_006358.jpg</field>
+<field name="snippet">that were working with carillion is due to end today. three-fifths of new cars should be electric by 2030 if the uk is to meet its greenhouse gas targets. the committee on climate change says homes also need to be built with better insulation.</field>
+</doc>
+</add>

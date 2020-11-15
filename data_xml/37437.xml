@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201401.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140102_230000_Special_Report_With_Bret_Baier#start/994/end/1029</field>
+<field name="datetime">1/2/2014 23:16:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20140102_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140102_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20140102_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20140102_230000_Special_Report_With_Bret_Baier_000975.jpg</field>
+<field name="snippet">overnight. tomorrow, governor patrick says in some spots we could see up to two feet of snow. live in boston, stay warm molly. speaking of weather you may have noted a group of climate change scientists were stuck in</field>
+</doc>
+</add>

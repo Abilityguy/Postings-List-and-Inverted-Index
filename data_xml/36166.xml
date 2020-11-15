@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201912.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191219_230000_The_Beat_With_Ari_Melber#start/3528/end/3563</field>
+<field name="datetime">12/19/2019 23:59:03</field>
+<field name="station">MSNBC</field>
+<field name="show">The Beat With Ari Melber</field>
+<field name="showid">MSNBCW_20191219_230000_The_Beat_With_Ari_Melber</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191219_230000_The_Beat_With_Ari_Melber/MSNBCW_20191219_230000_The_Beat_With_Ari_Melber.thumbs/MSNBCW_20191219_230000_The_Beat_With_Ari_Melber_003507.jpg</field>
+<field name="snippet">because the only way we get universal healthcare, address climate change and make our economy more fair is to change business as usual in washington.</field>
+</doc>
+</add>

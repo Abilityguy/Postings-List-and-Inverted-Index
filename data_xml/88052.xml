@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191219_210000_Outside_Source#start/46/end/81</field>
+<field name="datetime">12/19/2019 21:01:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20191219_210000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191219_210000_Outside_Source/BBCNEWS_20191219_210000_Outside_Source.thumbs/BBCNEWS_20191219_210000_Outside_Source_000028.jpg</field>
+<field name="snippet">another record heatwave in australia as hundreds of fires burn out of control. we'll look at what's causing them and why climate change scepticism is still so prevalent in australia. the winner and loserfrom the uk election have a frosty reunion in the commons, as the queen's speech</field>
+</doc>
+</add>

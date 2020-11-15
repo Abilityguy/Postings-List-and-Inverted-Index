@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201610.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161007_000000_All_In_With_Chris_Hayes#start/2122/end/2157</field>
+<field name="datetime">10/7/2016 0:35:37</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20161007_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161007_000000_All_In_With_Chris_Hayes/MSNBCW_20161007_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20161007_000000_All_In_With_Chris_Hayes_002098.jpg</field>
+<field name="snippet">you've got a governor there, of course, i mean, we've seen sea level rise due to climate change, human-caused climate change. you got a governor there who continues to deny the existence of that but you also got insurance companies, developers</field>
+</doc>
+</add>

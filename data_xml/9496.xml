@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170713_090000_Fox_and_Friends_First#start/27/end/62</field>
+<field name="datetime">7/13/2017 9:00:42</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20170713_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170713_090000_Fox_and_Friends_First/FOXNEWSW_20170713_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20170713_090000_Fox_and_Friends_First_000058.jpg</field>
+<field name="snippet">the eve of last year's best deal they attack that killed 80 people and likely also address differences like climate change which has created tension after the president withdrew from the paris climate accord last month but the white house is tightlipped talking about it</field>
+</doc>
+</add>

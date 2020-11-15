@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190712_130000_Afternoon_Live#start/4978/end/5013</field>
+<field name="datetime">7/12/2019 14:23:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190712_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190712_130000_Afternoon_Live/BBCNEWS_20190712_130000_Afternoon_Live.thumbs/BBCNEWS_20190712_130000_Afternoon_Live_004978.jpg</field>
+<field name="snippet">square, marble arch, and oxford circus, images beamed around the world of that pink boat marooned in the middle of the one of the uk's busiestjunctions. extinction rebellion campaigning on climate change and saying civil disobedience is the best way to get their point</field>
+</doc>
+</add>

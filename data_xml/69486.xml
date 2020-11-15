@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201407.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140709_200000_NOW_With_Alex_Wagner#start/3465/end/3500</field>
+<field name="datetime">7/9/2014 20:58:00</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20140709_200000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140709_200000_NOW_With_Alex_Wagner/MSNBCW_20140709_200000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20140709_200000_NOW_With_Alex_Wagner_003466.jpg</field>
+<field name="snippet">temperature. i don't want to get into debate about climate change but i will point out we all agree that the temperature on mars is exactly as it is here, nobody will dispute that. yet there are no coal mines on mars and no factories on mars</field>
+</doc>
+</add>

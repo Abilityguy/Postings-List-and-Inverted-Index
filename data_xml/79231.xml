@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201402.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140202_190000_Meet_the_Press#start/1871/end/1906</field>
+<field name="datetime">2/2/2014 19:31:26</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20140202_190000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140202_190000_Meet_the_Press/MSNBCW_20140202_190000_Meet_the_Press.thumbs/MSNBCW_20140202_190000_Meet_the_Press_001845.jpg</field>
+<field name="snippet">pipeline. it was interesting to hear the president's chief of staff say we'll see what other cabinet members say. this decision is putting john kerry between the rock and the hard place, long-time climate</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201908.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190802_190000_MSNBC_Live_With_Ali_Velshi#start/1849/end/1884</field>
+<field name="datetime">8/2/2019 19:31:04</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190802_190000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190802_190000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190802_190000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190802_190000_MSNBC_Live_With_Ali_Velshi_001828.jpg</field>
+<field name="snippet">coming up, the 2020 candidate sent dire warnings about addressing global warming at this week's debate. but what does it all take to get americans to understand that time is running out? the republican mayor of georgetown texas has</field>
+</doc>
+</add>

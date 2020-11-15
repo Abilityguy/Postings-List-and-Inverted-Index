@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190511_090000_BBC_News#start/1491/end/1526</field>
+<field name="datetime">5/11/2019 9:25:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190511_090000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190511_090000_BBC_News/BBCNEWS_20190511_090000_BBC_News.thumbs/BBCNEWS_20190511_090000_BBC_News_001468.jpg</field>
+<field name="snippet">his poem about climate change. i think it's absolutely essential that poetry responds to that issue and i'd like there to be some kind of platform or competition or award that recognises writing around those</field>
+</doc>
+</add>

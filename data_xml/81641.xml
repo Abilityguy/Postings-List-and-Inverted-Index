@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091219_140000_MSNBC_News_Live#start/2233/end/2268</field>
+<field name="datetime">12/19/2009 14:37:28</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091219_140000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091219_140000_MSNBC_News_Live/MSNBC_20091219_140000_MSNBC_News_Live.thumbs/MSNBC_20091219_140000_MSNBC_News_Live_002213.jpg</field>
+<field name="snippet">keep it right here on msnbc for continuing coverage of this brupt storm. live updates all morning right here on 'msnbc saturday'. today there's new word out of copenhagen on the climate change deal. after all-night talks u.n.</field>
+</doc>
+</add>

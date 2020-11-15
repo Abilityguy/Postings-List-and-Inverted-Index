@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201612.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161218_210000_MSNBC_Live#start/2389/end/2424</field>
+<field name="datetime">12/18/2016 21:40:04</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20161218_210000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161218_210000_MSNBC_Live/MSNBCW_20161218_210000_MSNBC_Live.thumbs/MSNBCW_20161218_210000_MSNBC_Live_002367.jpg</field>
+<field name="snippet">'time' magazine says rex tillerson voiced support for the paris agreement, backed the carbon tax in 2009. what makes environmentalists so sure he and mr. trump wouldn't be open to conversation? tillerson is an interesting.</field>
+</doc>
+</add>

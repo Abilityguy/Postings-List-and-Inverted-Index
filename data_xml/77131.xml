@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191112_000000_Newsday#start/741/end/776</field>
+<field name="datetime">11/12/2019 0:12:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191112_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191112_000000_Newsday/BBCNEWS_20191112_000000_Newsday.thumbs/BBCNEWS_20191112_000000_Newsday_000719.jpg</field>
+<field name="snippet">and our way of life. daniela relph, bbc news. you're watching newsday on the bbc. still to come on the programme: the 'climate defenders' - personal stories from people looking for solutions to global warming.</field>
+</doc>
+</add>

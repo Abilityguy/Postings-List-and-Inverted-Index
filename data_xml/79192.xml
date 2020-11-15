@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201402.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140221_140000_The_Daily_Rundown#start/672/end/707</field>
+<field name="datetime">2/21/2014 14:11:27</field>
+<field name="station">MSNBC</field>
+<field name="show">The Daily Rundown</field>
+<field name="showid">MSNBCW_20140221_140000_The_Daily_Rundown</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140221_140000_The_Daily_Rundown/MSNBCW_20140221_140000_The_Daily_Rundown.thumbs/MSNBCW_20140221_140000_The_Daily_Rundown_000646.jpg</field>
+<field name="snippet">science today. i do know -- a lot of scientists out there say if it's not resolved, it's sort of like a blowout. it's, like, 90/10. chuck, i know we're talking about climate change. i understand that. and a few years ago, we were talking about global warming, and we haven't seen a lot of warm lately.</field>
+</doc>
+</add>

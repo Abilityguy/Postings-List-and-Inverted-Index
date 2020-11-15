@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091030_220000_Special_Report_With_Bret_Baier#start/1580/end/1615</field>
+<field name="datetime">10/30/2009 22:26:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091030_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091030_220000_Special_Report_With_Bret_Baier/FOXNEWS_20091030_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091030_220000_Special_Report_With_Bret_Baier_001554.jpg</field>
+<field name="snippet">upset with a halloween haunted house, and are the people trying to scare you about global warming actually hurting their own cause? we report. you decide. you're the colon lady!</field>
+</doc>
+</add>

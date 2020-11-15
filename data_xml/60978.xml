@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201311.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20131112_080000_All_In_With_Chris_Hayes#start/1551/end/1586</field>
+<field name="datetime">11/12/2013 8:26:06</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20131112_080000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20131112_080000_All_In_With_Chris_Hayes/MSNBCW_20131112_080000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20131112_080000_All_In_With_Chris_Hayes_001546.jpg</field>
+<field name="snippet">the 13th most populous country in the world? we're not only the 13th most populous country in the world, but we're also the 3rd most vulnerable country by study of the u.n. to be impacted by climate change. we're impacted by these typhoons</field>
+</doc>
+</add>

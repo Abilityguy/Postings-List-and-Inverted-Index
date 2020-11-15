@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190612_220000_BBC_News#start/537/end/572</field>
+<field name="datetime">6/12/2019 22:09:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190612_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190612_220000_BBC_News/BBCNEWS_20190612_220000_BBC_News.thumbs/BBCNEWS_20190612_220000_BBC_News_000538.jpg</field>
+<field name="snippet">the prime minister has announced that the uk will commit to cutting its carbon emissions to almost zero by 2050 as part of a new government plan to tackle climate change. it would mean, among other things, millions of people switching from petrol and diesel cars to electric vehicles and taking fewer flights.</field>
+</doc>
+</add>

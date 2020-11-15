@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191208_220000_BBC_News#start/946/end/981</field>
+<field name="datetime">12/8/2019 22:16:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191208_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191208_220000_BBC_News/BBCNEWS_20191208_220000_BBC_News.thumbs/BBCNEWS_20191208_220000_BBC_News_000928.jpg</field>
+<field name="snippet">the fire season has hit harder and earlier than previous years due to climate change since the crisis began in september, six people have been killed. more than 700 homes destroyed and an estimated 2 million hectares scorched. firefighters are bracing for more high temperatures and strong winds this week,</field>
+</doc>
+</add>

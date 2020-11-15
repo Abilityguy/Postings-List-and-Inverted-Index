@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_040000_BBC_News#start/951/end/986</field>
+<field name="datetime">1/17/2020 4:16:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200117_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_040000_BBC_News/BBCNEWS_20200117_040000_BBC_News.thumbs/BBCNEWS_20200117_040000_BBC_News_000928.jpg</field>
+<field name="snippet">welcome back. good to have you with us on welcome back. good to have you with us on bbc world news. the latest headlines: the world has now reached the point of climate change crisis - that's the stark warning from the world famous environmentalist sir david attenborough. president trump has been formally impeached in the us senate. he's described the allegations against him as a hoax.</field>
+</doc>
+</add>

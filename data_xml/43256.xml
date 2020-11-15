@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090922_170000_The_Live_Desk#start/3967/end/4002</field>
+<field name="datetime">9/22/2009 18:06:22</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Live Desk</field>
+<field name="showid">FOXNEWS_20090922_170000_The_Live_Desk</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090922_170000_The_Live_Desk/FOXNEWS_20090922_170000_The_Live_Desk.thumbs/FOXNEWS_20090922_170000_The_Live_Desk_003956.jpg</field>
+<field name="snippet">it was not supposed to happen with president obama, but that has after his speech about climate change. it comes from a hugo chavez ally, evo morales.</field>
+</doc>
+</add>

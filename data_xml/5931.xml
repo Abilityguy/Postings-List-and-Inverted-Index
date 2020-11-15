@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190921_000000_BBC_News#start/384/end/419</field>
+<field name="datetime">9/21/2019 0:06:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190921_000000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190921_000000_BBC_News/BBCNEWS_20190921_000000_BBC_News.thumbs/BBCNEWS_20190921_000000_BBC_News_000358.jpg</field>
+<field name="snippet">rising sea levels attributed to global warming are threatening entire communities along west africa's shoreline. an estimated 5 million people live along ghana's atlantic coast. the coastal region is a significant contributor to the country's economy.</field>
+</doc>
+</add>

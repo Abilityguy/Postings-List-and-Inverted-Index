@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201212.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121228_110000_Morning_Joe#start/1994/end/2029</field>
+<field name="datetime">12/28/2012 11:33:29</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20121228_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121228_110000_Morning_Joe/MSNBCW_20121228_110000_Morning_Joe.thumbs/MSNBCW_20121228_110000_Morning_Joe_001996.jpg</field>
+<field name="snippet">this morning? i think a race against ed markey well-known in washington, respected here and has taken strong positions on climate change and other issues. he's not a household name in massachusetts. scott brown is. there's a totally different</field>
+</doc>
+</add>

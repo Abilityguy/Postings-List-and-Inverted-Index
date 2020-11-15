@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190922_030000_BBC_News#start/146/end/181</field>
+<field name="datetime">9/22/2019 3:02:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190922_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190922_030000_BBC_News/BBCNEWS_20190922_030000_BBC_News.thumbs/BBCNEWS_20190922_030000_BBC_News_000928.jpg</field>
+<field name="snippet">millions of people across the globe marched and demanded real climate action, especially young people. we showed that we are united and that we young people are unstoppable. the sentiment shared all around the world. here a demonstration in indonesia. climate change is a global problem and it will need a global solution. tim allman, bbc news.</field>
+</doc>
+</add>

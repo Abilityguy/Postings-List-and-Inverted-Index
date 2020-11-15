@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181127_190000_Beyond_100_Days#start/2192/end/2227</field>
+<field name="datetime">11/27/2018 19:36:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20181127_190000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181127_190000_Beyond_100_Days/BBCNEWS_20181127_190000_Beyond_100_Days.thumbs/BBCNEWS_20181127_190000_Beyond_100_Days_002188.jpg</field>
+<field name="snippet">should be really proud of the fact that we were the first country in the world to pass the climate change act, ten years ago, it was its happy birthday yesterday. i am one of the few ministers in this role that actually has to set carbon budgets and our budgets are very</field>
+</doc>
+</add>

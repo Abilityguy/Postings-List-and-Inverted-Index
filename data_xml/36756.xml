@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201906.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190619_130000_The_Amazing_World_of_Gumball#start/1994/end/2029</field>
+<field name="datetime">6/19/2019 13:33:29</field>
+<field name="station">MSNBC</field>
+<field name="show">The Amazing World of Gumball</field>
+<field name="showid">MSNBCW_20190619_130000_The_Amazing_World_of_Gumball</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190619_130000_The_Amazing_World_of_Gumball/MSNBCW_20190619_130000_The_Amazing_World_of_Gumball.thumbs/MSNBCW_20190619_130000_The_Amazing_World_of_Gumball_001978.jpg</field>
+<field name="snippet">health care. what's interesting is the top three issues were basically health care, the environment, climate change, women's rights. a lot of that i think is energizing the base. that's where the focus is. you know, the economy and jobs,</field>
+</doc>
+</add>

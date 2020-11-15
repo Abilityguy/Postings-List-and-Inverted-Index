@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190117_050000_Tucker_Carlson_Tonight#start/2506/end/2541</field>
+<field name="datetime">1/17/2019 5:42:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190117_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190117_050000_Tucker_Carlson_Tonight/FOXNEWSW_20190117_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190117_050000_Tucker_Carlson_Tonight_002487.jpg</field>
+<field name="snippet">spiked about the yellow vest demonstrations there that have convulsed french society and terrified the french government. our media hasn't said much about the yellow vests and that shouldn't surprise you. ostensibly the protest are reaction to global warming and speed cameras. but he explains that you are</field>
+</doc>
+</add>

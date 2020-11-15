@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200101_093000_Weather_World#start/1214/end/1249</field>
+<field name="datetime">1/1/2020 9:50:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20200101_093000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200101_093000_Weather_World/BBCNEWS_20200101_093000_Weather_World.thumbs/BBCNEWS_20200101_093000_Weather_World_001199.jpg</field>
+<field name="snippet">that much further inland, causing that much more damage. and amidst all of that background of heat, flooding and storms, 2019 has really been a year of political activism, public activism as well, when it comes to climate change, more awareness about that, hasn't it? we've seen young people around</field>
+</doc>
+</add>

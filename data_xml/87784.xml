@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191221_190000_BBC_News#start/471/end/506</field>
+<field name="datetime">12/21/2019 19:08:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191221_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191221_190000_BBC_News/BBCNEWS_20191221_190000_BBC_News.thumbs/BBCNEWS_20191221_190000_BBC_News_000448.jpg</field>
+<field name="snippet">australia's deputy prime minister, michael mccormack has said his country must step up its efforts to tackle climate change. here's our sydney correspondent shaimaa khalil. this was said to be one of the worst days australia's most populous state has ever seen,</field>
+</doc>
+</add>

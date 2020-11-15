@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091217_090000_Special_Report_With_Bret_Baier#start/946/end/981</field>
+<field name="datetime">12/17/2009 9:16:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091217_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091217_090000_Special_Report_With_Bret_Baier/FOXNEWS_20091217_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091217_090000_Special_Report_With_Bret_Baier_000924.jpg</field>
+<field name="snippet">narrow margin to raise the debt ceiling by $300 billion through february. not only are some members eager to wrap things up for the holidays but some rushing to the airport for flights to copenhagen for the final days of the u.n. climate change summit.</field>
+</doc>
+</add>

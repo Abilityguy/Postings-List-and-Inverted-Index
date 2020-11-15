@@ -1,20 +1,20 @@
 import csv
-
 from os import listdir
 from os.path import isfile, join
-
 from elasticsearch import Elasticsearch, helpers
 import requests
-
+import argparse
 import ElastiSearch_build_index
 
 
 es = Elasticsearch([{'host':'localhost', 'port': 9200}])
+FOLDER_PATH = 'data'
+parser = argparse.ArgumentParser(description="Ranking and retrieval")
+parser.add_argument('--query', help="Enter query", default="", type=str)
 
-FOLDER_PATH = './archive'
 
-
-def search(es, search_string, number_results):
+def elastic_search(search_string, number_results):
+    global es
     search_param = {
         'query': {
             'match': {
@@ -32,7 +32,8 @@ def search(es, search_string, number_results):
 
     return return_list
 
-
-
-# Sample usage. ElastiSearch sorted top 10 results for query 'cathedral climate'. 
-print(search(es, 'cathedral climate', 10))
+if __name__=="__main__":
+    # Sample usage. ElastiSearch sorted top 20 results for query 'cathedral climate'. 
+    args = parser.parse_args()
+    search_results = elastic_search(args.query, 20)
+    print(search_results)

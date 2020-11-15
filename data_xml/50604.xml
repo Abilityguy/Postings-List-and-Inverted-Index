@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201501.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150105_220000_The_Ed_Show#start/932/end/967</field>
+<field name="datetime">1/5/2015 22:15:47</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20150105_220000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150105_220000_The_Ed_Show/MSNBCW_20150105_220000_The_Ed_Show.thumbs/MSNBCW_20150105_220000_The_Ed_Show_000915.jpg</field>
+<field name="snippet">tiernan, senator clobuchar says the project has merit. where is the merit? haz a good question. it's bad for climate change</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191106_060000_Breakfast#start/407/end/442</field>
+<field name="datetime">11/6/2019 6:07:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191106_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191106_060000_Breakfast/BBCNEWS_20191106_060000_Breakfast.thumbs/BBCNEWS_20191106_060000_Breakfast_001618.jpg</field>
+<field name="snippet">meanwhile, the green party launches its election campaign today. they are pledging to spend an additional £100 billion a year tackling climate change. earlier we spoke to their coleader, jonathan bartley, and he said spending is a price worth</field>
+</doc>
+</add>

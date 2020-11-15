@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170526_080000_Victoria_Derbyshire#start/3801/end/3836</field>
+<field name="datetime">5/26/2017 9:03:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20170526_080000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170526_080000_Victoria_Derbyshire/BBCNEWS_20170526_080000_Victoria_Derbyshire.thumbs/BBCNEWS_20170526_080000_Victoria_Derbyshire_003778.jpg</field>
+<field name="snippet">they'll discuss world trade, climate change, migration from north africa across these very seas. but, after the events of recent days, almost inevitably the focus will be the fight against global terrorism. theresa may will sit down formally with the us president, and discuss notjust those leaks from the manchester bombing</field>
+</doc>
+</add>

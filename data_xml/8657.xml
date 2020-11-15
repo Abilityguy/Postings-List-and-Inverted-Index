@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190914_100000_Fox_and_Friends_Saturday#start/8038/end/8073</field>
+<field name="datetime">9/14/2019 12:14:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20190914_100000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190914_100000_Fox_and_Friends_Saturday/FOXNEWSW_20190914_100000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20190914_100000_Fox_and_Friends_Saturday_008008.jpg</field>
+<field name="snippet">pete: well, students in new york city getting a hall pass to become activists for climate change. michael knowles sounds off i'm your cat. ever since you brought me home, that day. i've been plotting to destroy you. sizing you up. calculating your every move.</field>
+</doc>
+</add>

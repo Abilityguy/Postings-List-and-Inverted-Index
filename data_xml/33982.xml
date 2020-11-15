@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091230_220000_Glenn_Beck#start/610/end/645</field>
+<field name="datetime">12/30/2009 22:10:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20091230_220000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091230_220000_Glenn_Beck/FOXNEWS_20091230_220000_Glenn_Beck.thumbs/FOXNEWS_20091230_220000_Glenn_Beck_000600.jpg</field>
+<field name="snippet">he didn't want to offend anyone, and so people are more in touch with bad environmental information. children at schools will know more about the mythical climate change than they know about the number one threat to western</field>
+</doc>
+</add>

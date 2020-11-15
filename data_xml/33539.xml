@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091212_193000_FOX_News_Watch#start/1182/end/1217</field>
+<field name="datetime">12/12/2009 19:49:57</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Watch</field>
+<field name="showid">FOXNEWS_20091212_193000_FOX_News_Watch</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091212_193000_FOX_News_Watch/FOXNEWS_20091212_193000_FOX_News_Watch.thumbs/FOXNEWS_20091212_193000_FOX_News_Watch_001140.jpg</field>
+<field name="snippet">the next week. the conference opened amid growing controversy over what's been dubbed climate-gate by the press. the release of e-mail messages related to the global warming debate. those messages seem to suggest manipulation of data by some</field>
+</doc>
+</add>

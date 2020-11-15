@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100116_070000_Glenn_Beck#start/3237/end/3272</field>
+<field name="datetime">1/16/2010 7:54:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20100116_070000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100116_070000_Glenn_Beck/FOXNEWS_20100116_070000_Glenn_Beck.thumbs/FOXNEWS_20100116_070000_Glenn_Beck_003210.jpg</field>
+<field name="snippet">schwarzenegger, like many politicians, these days is out of touch with reality. again, he's fighting the global warming war. he doesn't realize that the war is kind of over. the climategate e-mails show that. there were a lot of manipulating of the data. he is fighting an old war.</field>
+</doc>
+</add>

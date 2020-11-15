@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201803.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180324_210000_World_News_Today#start/683/end/718</field>
+<field name="datetime">3/24/2018 21:11:38</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20180324_210000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180324_210000_World_News_Today/BBCNEWS_20180324_210000_World_News_Today.thumbs/BBCNEWS_20180324_210000_World_News_Today_000658.jpg</field>
+<field name="snippet">here's his story. stay with us on bbc world news, still to come: turning off the lights. cities around the world do their bit for the annual earth hour to raise awareness about climate change. let there be no more war</field>
+</doc>
+</add>

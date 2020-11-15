@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180117_110000_BBC_Newsroom_Live#start/2769/end/2804</field>
+<field name="datetime">1/17/2018 11:46:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20180117_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180117_110000_BBC_Newsroom_Live/BBCNEWS_20180117_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20180117_110000_BBC_Newsroom_Live_002758.jpg</field>
+<field name="snippet">with the government after reports suggested it could also be in financial difficulty. three-fifths of new cars should be electric by 2030 if the uk is to meet its greenhouse gas targets. the committee on climate change says homes also need to be built with better insulation.</field>
+</doc>
+</add>

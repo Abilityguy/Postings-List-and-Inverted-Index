@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201112.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111201_000000_The_FOX_Report_With_Shepard_Smith#start/541/end/576</field>
+<field name="datetime">12/1/2011 0:09:16</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The FOX Report With Shepard Smith</field>
+<field name="showid">FOXNEWSW_20111201_000000_The_FOX_Report_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111201_000000_The_FOX_Report_With_Shepard_Smith/FOXNEWSW_20111201_000000_The_FOX_Report_With_Shepard_Smith.thumbs/FOXNEWSW_20111201_000000_The_FOX_Report_With_Shepard_Smith_000536.jpg</field>
+<field name="snippet">campaign unveiled the first anti-campaign. hits gingrich for serial hypocrisy. points out he worked with nancy pelosi on climate change. back to personal mandate on health care. bashed ron paul's budget and</field>
+</doc>
+</add>

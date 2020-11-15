@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140222_010000_The_OReilly_Factor#start/1812/end/1847</field>
+<field name="datetime">2/22/2014 1:30:27</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20140222_010000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140222_010000_The_OReilly_Factor/FOXNEWSW_20140222_010000_The_OReilly_Factor.thumbs/FOXNEWSW_20140222_010000_The_OReilly_Factor_001815.jpg</field>
+<field name="snippet">also a summation of the state department assessment environmentally released a few weeks ago said the keystone pipeline would be unlikely to alter global greenhouse gas emissions. that from 'the washington post.'</field>
+</doc>
+</add>

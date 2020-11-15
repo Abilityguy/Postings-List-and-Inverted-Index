@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180806_190000_BBC_News#start/1716/end/1751</field>
+<field name="datetime">8/6/2018 19:28:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180806_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180806_190000_BBC_News/BBCNEWS_20180806_190000_BBC_News.thumbs/BBCNEWS_20180806_190000_BBC_News_001707.jpg</field>
+<field name="snippet">and scientists say that climate change may bring more of this. what we think is, as the globe warms, this is more likely to take place. there will be more weather extremes, there will be more heatwaves, there will be more floods, there will be more big storms</field>
+</doc>
+</add>

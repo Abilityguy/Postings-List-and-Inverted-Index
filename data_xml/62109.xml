@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201804.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180425_150000_Happening_Now#start/1341/end/1376</field>
+<field name="datetime">4/25/2018 15:22:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20180425_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180425_150000_Happening_Now/FOXNEWSW_20180425_150000_Happening_Now.thumbs/FOXNEWSW_20180425_150000_Happening_Now_001317.jpg</field>
+<field name="snippet">some people think that securing current industries and their jobs is more urgent than reforming our economies to meet the global challenge of climate change. i hear these concerns. but we must find a smooth</field>
+</doc>
+</add>

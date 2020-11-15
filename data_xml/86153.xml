@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201207.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120713_200000_Martin_Bashir#start/1166/end/1201</field>
+<field name="datetime">7/13/2012 20:19:41</field>
+<field name="station">MSNBC</field>
+<field name="show">Martin Bashir</field>
+<field name="showid">MSNBCW_20120713_200000_Martin_Bashir</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120713_200000_Martin_Bashir/MSNBCW_20120713_200000_Martin_Bashir.thumbs/MSNBCW_20120713_200000_Martin_Bashir_001140.jpg</field>
+<field name="snippet">one of the things they do is you get people together in a room and talk about -- not talking about climate change or check the box, they want to know what brought you here and everybody</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190921_183000_Sportsday#start/24/end/59</field>
+<field name="datetime">9/21/2019 18:30:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Sportsday</field>
+<field name="showid">BBCNEWS_20190921_183000_Sportsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190921_183000_Sportsday/BBCNEWS_20190921_183000_Sportsday.thumbs/BBCNEWS_20190921_183000_Sportsday_000028.jpg</field>
+<field name="snippet">greta thunberg arrives to cheering crowds at a youth summit on climate change in new york, ahead of the un general assembly next week.</field>
+</doc>
+</add>

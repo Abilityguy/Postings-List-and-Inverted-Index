@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181122_193000_BBC_News#start/4360/end/4395</field>
+<field name="datetime">11/22/2018 20:42:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181122_193000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181122_193000_BBC_News/BBCNEWS_20181122_193000_BBC_News.thumbs/BBCNEWS_20181122_193000_BBC_News_004348.jpg</field>
+<field name="snippet">these so-called greenhouse gases are now at record levels, higher than they've been for 3 million years. it's extremely critical to take actions now, and not wait until we have the wonderful solutions, because if we do not act</field>
+</doc>
+</add>

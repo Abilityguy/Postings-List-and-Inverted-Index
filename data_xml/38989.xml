@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100415_220000_Special_Report_With_Bret_Baier#start/1955/end/1990</field>
+<field name="datetime">4/15/2010 22:32:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100415_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100415_220000_Special_Report_With_Bret_Baier/FOXNEWS_20100415_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100415_220000_Special_Report_With_Bret_Baier_001945.jpg</field>
+<field name="snippet">so-called 'hockey stick graph' used by global warming believers. the financial times reports professor david han says the graph used to represent the recent rise in global temperatures was compiled using inappropriate methods.</field>
+</doc>
+</add>

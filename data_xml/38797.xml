@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201010.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101004_100000_FOX_and_Friends#start/5588/end/5623</field>
+<field name="datetime">10/4/2010 11:33:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20101004_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101004_100000_FOX_and_Friends/FOXNEWS_20101004_100000_FOX_and_Friends.thumbs/FOXNEWS_20101004_100000_FOX_and_Friends_005580.jpg</field>
+<field name="snippet">talk to a climate change conference somewhere. anyway, 33 minutes after the top of the hour on this monday. steve, stay right there. i'll take it from here. first civilian trial at gitmo detainee suddenly delayed all of a sudden. his trial was supposed to start</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200118_060000_Breakfast#start/5245/end/5280</field>
+<field name="datetime">1/18/2020 7:27:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20200118_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200118_060000_Breakfast/BBCNEWS_20200118_060000_Breakfast.thumbs/BBCNEWS_20200118_060000_Breakfast_005217.jpg</field>
+<field name="snippet">i never knew that! so much focus at the moment on climate change and a lot of coverage across the next year and looking ahead on the bbc. there is the big climate thing in november in glasgow. one story to bring you</field>
+</doc>
+</add>

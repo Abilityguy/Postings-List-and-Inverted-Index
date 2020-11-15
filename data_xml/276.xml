@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201301.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130122_160000_Happening_Now#start/3740/end/3775</field>
+<field name="datetime">1/22/2013 17:02:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20130122_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130122_160000_Happening_Now/FOXNEWSW_20130122_160000_Happening_Now.thumbs/FOXNEWSW_20130122_160000_Happening_Now_003735.jpg</field>
+<field name="snippet">launching his second term with a call for action on some hot button issues like global warming, immigration reform, gun control and gay rights. let's talk about it with syndicated -- i'm sorry, syndicated columnist and fox news contributor charles krauthammer, who calls the</field>
+</doc>
+</add>

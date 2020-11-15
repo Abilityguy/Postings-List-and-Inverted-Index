@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_100000_BBC_Newsroom_Live#start/756/end/791</field>
+<field name="datetime">10/8/2018 10:12:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20181008_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_100000_BBC_Newsroom_Live/BBCNEWS_20181008_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20181008_100000_BBC_Newsroom_Live_000747.jpg</field>
+<field name="snippet">will bejoined by report in more detail at 1235. we will be joined by professor hague. joining us then will be professorjoanna haigh from the grantham institute for climate change and environment and professor chris fogwill from the keele institute for sustainable futures at keele university.</field>
+</doc>
+</add>

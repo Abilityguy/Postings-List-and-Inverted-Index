@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20200101_110000_FOX_and_Friends#start/2753/end/2788</field>
+<field name="datetime">1/1/2020 11:46:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20200101_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20200101_110000_FOX_and_Friends/FOXNEWSW_20200101_110000_FOX_and_Friends.thumbs/FOXNEWSW_20200101_110000_FOX_and_Friends_002728.jpg</field>
+<field name="snippet">millions of dollars to people who help solve the climate crisis. the prize will go to five people each year starting in 2021. the name refers to the 1960 moon shot era when countries raced to land a man on the moon. his brother and</field>
+</doc>
+</add>

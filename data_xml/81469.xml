@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091212_140000_MSNBC_News_Live#start/2417/end/2452</field>
+<field name="datetime">12/12/2009 14:40:32</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091212_140000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091212_140000_MSNBC_News_Live/MSNBC_20091212_140000_MSNBC_News_Live.thumbs/MSNBC_20091212_140000_MSNBC_News_Live_002394.jpg</field>
+<field name="snippet">$10.5 billion over the next few years to help developing nations begin their own efforts to combat the effects of global warming. that's a start. those developing nayses say they're demanding about ten times that amount before they sign any new pact at the end of next week. as for that pact next week, the</field>
+</doc>
+</add>

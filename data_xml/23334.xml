@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201405.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140506_220000_Special_Report_With_Bret_Baier#start/78/end/113</field>
+<field name="datetime">5/6/2014 22:01:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20140506_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140506_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20140506_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20140506_220000_Special_Report_With_Bret_Baier_000075.jpg</field>
+<field name="snippet">line that shines through all these hundreds of pages that climate change is not a distant threat. it is happening now. it is affecting the american people now. officials say the report will be used to help different parts of the country cope with climate change and to guide new</field>
+</doc>
+</add>

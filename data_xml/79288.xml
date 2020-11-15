@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201402.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140214_220000_The_Ed_Show#start/2186/end/2221</field>
+<field name="datetime">2/14/2014 22:36:41</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20140214_220000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140214_220000_The_Ed_Show/MSNBCW_20140214_220000_The_Ed_Show.thumbs/MSNBCW_20140214_220000_The_Ed_Show_002176.jpg</field>
+<field name="snippet">ignited a debate. the recent report by the state department has criticized by environmental groups who claim there's a conflict of interest. i'm still not convinced that the pipeline construction will add to global warming, but i'm not</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201004.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100405_140000_MSNBC_News_Live#start/395/end/430</field>
+<field name="datetime">4/5/2010 14:06:50</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100405_140000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100405_140000_MSNBC_News_Live/MSNBC_20100405_140000_MSNBC_News_Live.thumbs/MSNBC_20100405_140000_MSNBC_News_Live_000387.jpg</field>
+<field name="snippet">a man thrown in the air after being hit by a car. amazingly he survives. a fifty-ton train makes barely a mark on the environment. and a country facing climate change finds climate solutions.</field>
+</doc>
+</add>

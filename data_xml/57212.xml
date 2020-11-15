@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181124_210000_Americas_News_HQ#start/6889/end/6924</field>
+<field name="datetime">11/24/2018 22:55:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20181124_210000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181124_210000_Americas_News_HQ/FOXNEWSW_20181124_210000_Americas_News_HQ.thumbs/FOXNEWSW_20181124_210000_Americas_News_HQ_006867.jpg</field>
+<field name="snippet">from buying cars that contribute to climate change. recent polls suggest 4/5 do not agree with him. especially in rural parts of the country where people rely more on their cars to get around.</field>
+</doc>
+</add>

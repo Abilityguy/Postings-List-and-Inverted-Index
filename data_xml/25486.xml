@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201407.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140726_030000_The_OReilly_Factor#start/1287/end/1322</field>
+<field name="datetime">7/26/2014 3:21:42</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20140726_030000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140726_030000_The_OReilly_Factor/FOXNEWSW_20140726_030000_The_OReilly_Factor.thumbs/FOXNEWSW_20140726_030000_The_OReilly_Factor_001275.jpg</field>
+<field name="snippet">i thought there was global warming, what happened? what, the cat got your tongue or did he eat that for breakfast, too? whoa, whoa. you okay? it's right here. stranger danger.</field>
+</doc>
+</add>

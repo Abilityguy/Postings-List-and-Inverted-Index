@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201108.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20110822_210000_The_Five#start/1830/end/1865</field>
+<field name="datetime">8/22/2011 21:30:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20110822_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20110822_210000_The_Five/FOXNEWSW_20110822_210000_The_Five.thumbs/FOXNEWSW_20110822_210000_The_Five_001830.jpg</field>
+<field name="snippet">greg: stupidity, it's semiplified by a lot of people who have been spreading this -- bob: 99% of the sciencetists in the world. dana: huntsman knows we should all recognize this, if we think there is global warming and we agree to reduce</field>
+</doc>
+</add>

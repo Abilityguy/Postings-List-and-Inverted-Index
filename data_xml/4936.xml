@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170601_030000_BBC_News#start/62/end/97</field>
+<field name="datetime">6/1/2017 3:01:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170601_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170601_030000_BBC_News/BBCNEWS_20170601_030000_BBC_News.thumbs/BBCNEWS_20170601_030000_BBC_News_000057.jpg</field>
+<field name="snippet">an american job-killer. one of his big election campaign promises was pulling the us out of the biggest international agreement ever drawn up to combat climate change. he's now said he'll give his decision on that in 16 hours time. china and the european union</field>
+</doc>
+</add>

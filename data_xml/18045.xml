@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201409.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140924_030000_All_In_With_Chris_Hayes#start/1926/end/1961</field>
+<field name="datetime">9/24/2014 3:32:21</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20140924_030000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140924_030000_All_In_With_Chris_Hayes/MSNBCW_20140924_030000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20140924_030000_All_In_With_Chris_Hayes_001906.jpg</field>
+<field name="snippet">in our own countries to prevent the worst effects of climate change. we have to adapt to the impacts that we can, unfortunately, no longer afford to avoid.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190216_060000_Hannity#start/2446/end/2481</field>
+<field name="datetime">2/16/2019 6:41:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20190216_060000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190216_060000_Hannity/FOXNEWSW_20190216_060000_Hannity.thumbs/FOXNEWSW_20190216_060000_Hannity_002430.jpg</field>
+<field name="snippet">we know that climate change -- at least, many of us in the democratic side, we believe that climate change is real, and we believe that there are public policy solutions that can get us away from his catastrophic a disaster that will alter the economy and impact where we</field>
+</doc>
+</add>

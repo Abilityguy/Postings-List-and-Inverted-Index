@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_200000_BBC_News#start/587/end/622</field>
+<field name="datetime">1/16/2020 20:10:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200116_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_200000_BBC_News/BBCNEWS_20200116_200000_BBC_News.thumbs/BBCNEWS_20200116_200000_BBC_News_000568.jpg</field>
+<field name="snippet">for a united nations summit on climate change that is widely regarded as readily important. it's an event where government is coming here and are meant to come up with more ambitious and tougher targets for cutting their emissions of the</field>
+</doc>
+</add>

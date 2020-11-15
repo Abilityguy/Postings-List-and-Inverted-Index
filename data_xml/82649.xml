@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201509.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150902_080000_The_Kelly_File#start/1248/end/1283</field>
+<field name="datetime">9/2/2015 8:21:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Kelly File</field>
+<field name="showid">FOXNEWSW_20150902_080000_The_Kelly_File</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150902_080000_The_Kelly_File/FOXNEWSW_20150902_080000_The_Kelly_File.thumbs/FOXNEWSW_20150902_080000_The_Kelly_File_001185.jpg</field>
+<field name="snippet">a new and passionate alarm bell about what he considers the greatest threat to this country, climate change. but there is another threat, one which many consider exponentially more dangerous. we have fox team coverage tonight. jennifer griffin is at the</field>
+</doc>
+</add>

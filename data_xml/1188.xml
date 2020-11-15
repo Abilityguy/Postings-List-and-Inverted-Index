@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170512_010000_BBC_News#start/420/end/455</field>
+<field name="datetime">5/12/2017 1:07:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170512_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170512_010000_BBC_News/BBCNEWS_20170512_010000_BBC_News.thumbs/BBCNEWS_20170512_010000_BBC_News_000417.jpg</field>
+<field name="snippet">foreign ministers from nations with territory in the arctic circle have signed an agreement accepting the need to tackle climate change. the fairbanks declaration at the end of the arctic council meeting in alaska accepts that activities in the council's eight member states are the main contributors</field>
+</doc>
+</add>

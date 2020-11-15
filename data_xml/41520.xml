@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090805_130000_Americas_Newsroom#start/5675/end/5710</field>
+<field name="datetime">8/5/2009 14:34:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20090805_130000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090805_130000_Americas_Newsroom/FOXNEWS_20090805_130000_Americas_Newsroom.thumbs/FOXNEWS_20090805_130000_Americas_Newsroom_005665.jpg</field>
+<field name="snippet">the temperature rises and falls due to multi-year cycles, such as el nino. global warming is pushing temperatures higher. 1998 was a naturally cool year</field>
+</doc>
+</add>

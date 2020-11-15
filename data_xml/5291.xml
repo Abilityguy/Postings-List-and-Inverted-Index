@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171217_153000_Click#start/780/end/815</field>
+<field name="datetime">12/17/2017 15:43:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Click</field>
+<field name="showid">BBCNEWS_20171217_153000_Click</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171217_153000_Click/BBCNEWS_20171217_153000_Click.thumbs/BBCNEWS_20171217_153000_Click_000778.jpg</field>
+<field name="snippet">so one of the main applications we can use the quantum technologies for is quantum sensors. and what we're doing in this experiment is we want to sense greenhouse gases, and measure how much there is, how that is changing over time.</field>
+</doc>
+</add>

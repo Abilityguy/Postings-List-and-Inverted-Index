@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180827_083000_Weather_World#start/1263/end/1298</field>
+<field name="datetime">8/27/2018 8:51:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20180827_083000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180827_083000_Weather_World/BBCNEWS_20180827_083000_Weather_World.thumbs/BBCNEWS_20180827_083000_Weather_World_001257.jpg</field>
+<field name="snippet">with climate change, what next? in england now, we have the climate that champagne had in the 20th century, saoin a few years maybe we will be as warm as the loire valley or possibly even bordeaux in 50 years. looking further south, across europe?</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201406.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140617_030000_All_In_With_Chris_Hayes#start/2631/end/2666</field>
+<field name="datetime">6/17/2014 3:44:06</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20140617_030000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140617_030000_All_In_With_Chris_Hayes/MSNBCW_20140617_030000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20140617_030000_All_In_With_Chris_Hayes_002625.jpg</field>
+<field name="snippet">was when he gave the commencement address at uc irving over the weekend and he got laughs for unapologetically mocking climate change deniers. it's pretty rare that you'll encounter somebody who says the problem you're trying to solve simply doesn't exist.</field>
+</doc>
+</add>

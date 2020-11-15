@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201509.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150902_200000_MSNBC_Live#start/2450/end/2485</field>
+<field name="datetime">9/2/2015 20:41:05</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20150902_200000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150902_200000_MSNBC_Live/MSNBCW_20150902_200000_MSNBC_Live.thumbs/MSNBCW_20150902_200000_MSNBC_Live_002446.jpg</field>
+<field name="snippet">i'm going to give you little bit of a view of what it looks like out here. this is worth preserving. how does president obama hope that this ship is going to be effective in pushing for stronger action on climate change moving forward? look, he's approaching this in a way that we've never seen</field>
+</doc>
+</add>

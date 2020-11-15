@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20171103_190000_Shepard_Smith_Reporting#start/2153/end/2188</field>
+<field name="datetime">11/3/2017 19:36:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20171103_190000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20171103_190000_Shepard_Smith_Reporting/FOXNEWSW_20171103_190000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20171103_190000_Shepard_Smith_Reporting_002128.jpg</field>
+<field name="snippet">dozens of united states government scientists on climate change. they conclude, climate change is real and are driven almost exclusively by human activity. climate change is happening, mostly because of the fuels we burn for energy. fuels that emit greenhouse gases</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091024_090000_The_OReilly_Factor#start/1643/end/1678</field>
+<field name="datetime">10/24/2009 9:27:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20091024_090000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091024_090000_The_OReilly_Factor/FOXNEWS_20091024_090000_The_OReilly_Factor.thumbs/FOXNEWS_20091024_090000_The_OReilly_Factor_001612.jpg</field>
+<field name="snippet">warming is real. we have a new pew poll that shows the number of americans who believe global warming is a serious problem has declined from 44% in october of 2008 to just 35% today and that skepticism holds true across</field>
+</doc>
+</add>

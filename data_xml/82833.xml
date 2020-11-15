@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191018_123000_BBC_News#start/1595/end/1630</field>
+<field name="datetime">10/18/2019 12:56:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191018_123000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191018_123000_BBC_News/BBCNEWS_20191018_123000_BBC_News.thumbs/BBCNEWS_20191018_123000_BBC_News_001588.jpg</field>
+<field name="snippet">but there is still so much we don't know about wales, how they live and how they die. if we can spot how many are stranding and where, it could help us to better understand why it is happening. strandings are complex events. the animals might be ill or lacking food, but issues like pollution, boat strikes and climate change</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190319_210000_Outside_Source#start/1218/end/1253</field>
+<field name="datetime">3/19/2019 21:20:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20190319_210000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190319_210000_Outside_Source/BBCNEWS_20190319_210000_Outside_Source.thumbs/BBCNEWS_20190319_210000_Outside_Source_001709.jpg</field>
+<field name="snippet">to produce meat in laboratories. some at bath university have grown meat cells on blades of grass - and they're now trying to reproduce it on an industrial scale - the motivation is two fold - to address food security and to address climate change. here's the lead researcher.</field>
+</doc>
+</add>

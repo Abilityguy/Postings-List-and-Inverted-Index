@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201207.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120703_160000_NOW_With_Alex_Wagner#start/770/end/805</field>
+<field name="datetime">7/3/2012 16:13:05</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20120703_160000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120703_160000_NOW_With_Alex_Wagner/MSNBCW_20120703_160000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20120703_160000_NOW_With_Alex_Wagner_000750.jpg</field>
+<field name="snippet">is this just further proof that washington is completely in the dark on the severity of global warming? joining us now from london is environmentalist and author, david de rothschild. david, always great to see you, always every time i see you, i feel like some horrible environmental catastrophe has</field>
+</doc>
+</add>

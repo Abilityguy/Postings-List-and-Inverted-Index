@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201601.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160122_170000_Andrea_Mitchell_Reports#start/1326/end/1361</field>
+<field name="datetime">1/22/2016 17:22:21</field>
+<field name="station">MSNBC</field>
+<field name="show">Andrea Mitchell Reports</field>
+<field name="showid">MSNBCW_20160122_170000_Andrea_Mitchell_Reports</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160122_170000_Andrea_Mitchell_Reports/MSNBCW_20160122_170000_Andrea_Mitchell_Reports.thumbs/MSNBCW_20160122_170000_Andrea_Mitchell_Reports_001318.jpg</field>
+<field name="snippet">bernie will fight for a living wage. green has lots of experience. bernie will combat climate change. green is more experience.</field>
+</doc>
+</add>

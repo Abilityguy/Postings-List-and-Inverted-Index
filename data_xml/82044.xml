@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201403.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140311_130000_The_Daily_Rundown#start/2643/end/2678</field>
+<field name="datetime">3/11/2014 13:44:18</field>
+<field name="station">MSNBC</field>
+<field name="show">The Daily Rundown</field>
+<field name="showid">MSNBCW_20140311_130000_The_Daily_Rundown</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140311_130000_The_Daily_Rundown/MSNBCW_20140311_130000_The_Daily_Rundown.thumbs/MSNBCW_20140311_130000_The_Daily_Rundown_002626.jpg</field>
+<field name="snippet">at the sunday talk shows that found that politicians only talked about climate change for 27 minutes across the board for all of 2013. all four major networks ended up covering it in some form or another. of course, we've had dramatic weather across the country,</field>
+</doc>
+</add>

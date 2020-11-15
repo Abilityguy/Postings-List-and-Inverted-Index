@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170621_023000_London_Tower_Fire#start/169/end/204</field>
+<field name="datetime">6/21/2017 2:33:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">London Tower Fire</field>
+<field name="showid">BBCNEWS_20170621_023000_London_Tower_Fire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170621_023000_London_Tower_Fire/BBCNEWS_20170621_023000_London_Tower_Fire.thumbs/BBCNEWS_20170621_023000_London_Tower_Fire_000147.jpg</field>
+<field name="snippet">we cut the greenhouse gases warming the climate. in arizona, a heatwave with a surprising impact. at phoenix airport, one of the busiest in the world, some planes are grounded because the temperature reached 48 degrees celsius and that's too hot for them to fly,</field>
+</doc>
+</add>

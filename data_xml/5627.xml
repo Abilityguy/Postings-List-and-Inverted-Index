@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190910_190000_BBC_News#start/1640/end/1675</field>
+<field name="datetime">9/10/2019 19:27:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190910_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190910_190000_BBC_News/BBCNEWS_20190910_190000_BBC_News.thumbs/BBCNEWS_20190910_190000_BBC_News_001618.jpg</field>
+<field name="snippet">to the climate emergency. the 26th conference of the parties, will aim to reach binding targets to limit greenhouse gases and other climate change reduction measures. campaigners have said hosting the conference will give the uk the chance to set the tone</field>
+</doc>
+</add>

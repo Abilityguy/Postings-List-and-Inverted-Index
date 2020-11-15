@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.202001.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20200101_043000#start/892/end/927</field>
+<field name="datetime">1/1/2020 4:45:07</field>
+<field name="station">MSNBC</field>
+<field name="show"></field>
+<field name="showid">MSNBCW_20200101_043000</field>
+<field name="preview">https://archive.org/download/MSNBCW_20200101_043000/MSNBCW_20200101_043000.thumbs/MSNBCW_20200101_043000_000872.jpg</field>
+<field name="snippet">on climate change, on income inequality, on gun violence, business must lead. and when it comes to the 25</field>
+</doc>
+</add>

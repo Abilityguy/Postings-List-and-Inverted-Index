@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201207.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120708_120000_Up_W_Chris_Hayes#start/1508/end/1543</field>
+<field name="datetime">7/8/2012 12:25:23</field>
+<field name="station">MSNBC</field>
+<field name="show">Up W Chris Hayes</field>
+<field name="showid">MSNBCW_20120708_120000_Up_W_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120708_120000_Up_W_Chris_Hayes/MSNBCW_20120708_120000_Up_W_Chris_Hayes.thumbs/MSNBCW_20120708_120000_Up_W_Chris_Hayes_001500.jpg</field>
+<field name="snippet">you're right, global warming's real. he went on to say, it's an engineering problem with engineering solutions and we'll just move our crop production areas to some place not so hot, which is ludicrous.</field>
+</doc>
+</add>

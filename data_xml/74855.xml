@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200120_100000_Victoria_Derbyshire#start/3033/end/3068</field>
+<field name="datetime">1/20/2020 10:50:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20200120_100000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200120_100000_Victoria_Derbyshire/BBCNEWS_20200120_100000_Victoria_Derbyshire.thumbs/BBCNEWS_20200120_100000_Victoria_Derbyshire_003028.jpg</field>
+<field name="snippet">initial report was pretty solid, and the timing has turned out to be pretty accurate in terms of the fires predicted. a very much this is climate change. there is really nothing that can be said to the</field>
+</doc>
+</add>

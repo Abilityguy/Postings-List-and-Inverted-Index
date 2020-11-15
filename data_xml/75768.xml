@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201210.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121020_160000_Weekends_With_Alex_Witt#start/6062/end/6097</field>
+<field name="datetime">10/20/2012 17:41:17</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20121020_160000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121020_160000_Weekends_With_Alex_Witt/MSNBCW_20121020_160000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20121020_160000_Weekends_With_Alex_Witt_006057.jpg</field>
+<field name="snippet">presidential debates? and we've got the debate topic that hasn't come up, climate change. bill nye the science guy talks about what's hype and what's right. we go live to the campaign trail, too. busy day. it is.</field>
+</doc>
+</add>

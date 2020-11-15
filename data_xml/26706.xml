@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100219_110000_FOX_and_Friends#start/9333/end/9368</field>
+<field name="datetime">2/19/2010 13:35:48</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100219_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100219_110000_FOX_and_Friends/FOXNEWS_20100219_110000_FOX_and_Friends.thumbs/FOXNEWS_20100219_110000_FOX_and_Friends_009316.jpg</field>
+<field name="snippet">done. what we're really going to be talking about on sunday, and i think it was chrisalized by evan bayh stepping down, is this whole idea that washington is broken and nothing gets done, whether it's on health care or the deficit or spending or climate change or whatever.</field>
+</doc>
+</add>

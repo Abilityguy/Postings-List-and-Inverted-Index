@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201101.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110127_040000_The_OReilly_Factor#start/510/end/545</field>
+<field name="datetime">1/27/2011 4:08:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20110127_040000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110127_040000_The_OReilly_Factor/FOXNEWS_20110127_040000_The_OReilly_Factor.thumbs/FOXNEWS_20110127_040000_The_OReilly_Factor_000510.jpg</field>
+<field name="snippet">because the agenda will be captured by the republican congress which is going to do real stuff, big cuts in the budget, blocking carbon tax and blocking bailouts of the states.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181215_213000_Our_World#start/0/end/33</field>
+<field name="datetime">12/15/2018 21:30:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Our World</field>
+<field name="showid">BBCNEWS_20181215_213000_Our_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181215_213000_Our_World/BBCNEWS_20181215_213000_Our_World.thumbs/BBCNEWS_20181215_213000_Our_World_000057.jpg</field>
+<field name="snippet">this is bbc world news, the headlines: representatives of around 200 nations at un climate change summit in poland have reached agreement over how to implement the paris accord. talks had continued for an extra day to resolve lingering issues. there've been scuffles in paris between groups of yellow</field>
+</doc>
+</add>

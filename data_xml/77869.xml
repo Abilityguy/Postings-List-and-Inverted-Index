@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191125_130000_BBC_News_at_One#start/1340/end/1375</field>
+<field name="datetime">11/25/2019 13:22:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20191125_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191125_130000_BBC_News_at_One/BBCNEWS_20191125_130000_BBC_News_at_One.thumbs/BBCNEWS_20191125_130000_BBC_News_at_One_001318.jpg</field>
+<field name="snippet">the world meteorological organization says the increase in co2, which contributes to climate change, was just above the average rise recorded over the last decade. levels of other warming gases, such as methane and nitrous oxide, have also risen</field>
+</doc>
+</add>

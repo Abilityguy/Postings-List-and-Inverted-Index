@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091204_110000_FOX_and_Friends#start/10085/end/10120</field>
+<field name="datetime">12/4/2009 13:48:20</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091204_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091204_110000_FOX_and_Friends/FOXNEWS_20091204_110000_FOX_and_Friends.thumbs/FOXNEWS_20091204_110000_FOX_and_Friends_010063.jpg</field>
+<field name="snippet">happens at the climate change conference that will happen in copenhagen on monday. great to you have a guest. thank you. eric: fly accomplishing and repelling down a cliff. all in a day's work for kristin</field>
+</doc>
+</add>

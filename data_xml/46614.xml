@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201302.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130218_110000_Morning_Joe#start/5809/end/5844</field>
+<field name="datetime">2/18/2013 12:37:04</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20130218_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130218_110000_Morning_Joe/MSNBCW_20130218_110000_Morning_Joe.thumbs/MSNBCW_20130218_110000_Morning_Joe_005805.jpg</field>
+<field name="snippet">coming up, tens of thousands gather on washington's national mall to call on president obama to reject the keystone pipeline oil deal, but will this president choose climate change over jobs? also, newt gingrich will be</field>
+</doc>
+</add>

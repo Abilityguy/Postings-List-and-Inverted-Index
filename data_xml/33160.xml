@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091208_070000_Glenn_Beck#start/2133/end/2168</field>
+<field name="datetime">12/8/2009 7:35:48</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20091208_070000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091208_070000_Glenn_Beck/FOXNEWS_20091208_070000_Glenn_Beck.thumbs/FOXNEWS_20091208_070000_Glenn_Beck_002091.jpg</field>
+<field name="snippet">not cool. not cool. the average european flight produces 400 kilograms or 880 pounds of greenhouse gas. that's what this is all about, stop flying. that's the average weight of a polar bear, so do polar bears</field>
+</doc>
+</add>

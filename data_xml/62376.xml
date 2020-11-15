@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201701.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170105_030000_The_Last_Word_With_Lawrence_ODonnell#start/2690/end/2725</field>
+<field name="datetime">1/5/2017 3:45:05</field>
+<field name="station">MSNBC</field>
+<field name="show">The Last Word With Lawrence ODonnell</field>
+<field name="showid">MSNBCW_20170105_030000_The_Last_Word_With_Lawrence_ODonnell</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170105_030000_The_Last_Word_With_Lawrence_ODonnell/MSNBCW_20170105_030000_The_Last_Word_With_Lawrence_ODonnell.thumbs/MSNBCW_20170105_030000_The_Last_Word_With_Lawrence_ODonnell_002668.jpg</field>
+<field name="snippet">and with respect to climate change, i think what we need to do is to continue to generate clean tech jobs. as you probably know, california generated last year more jobs than texas and florida combined. so what we need to do is make sure that more people are</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190822_000000_Tucker_Carlson_Tonight#start/2095/end/2130</field>
+<field name="datetime">8/22/2019 0:35:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190822_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190822_000000_Tucker_Carlson_Tonight/FOXNEWSW_20190822_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190822_000000_Tucker_Carlson_Tonight_002068.jpg</field>
+<field name="snippet">climate change, the biggest existential threat that we face. we need to treat global climate change like the existential threat that it is. we are facing a climate crisis. it represents an x essential threat to who we are as</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201309.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130921_143000_Cavuto_on_Business#start/762/end/797</field>
+<field name="datetime">9/21/2013 14:42:57</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Cavuto on Business</field>
+<field name="showid">FOXNEWSW_20130921_143000_Cavuto_on_Business</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130921_143000_Cavuto_on_Business/FOXNEWSW_20130921_143000_Cavuto_on_Business.thumbs/FOXNEWSW_20130921_143000_Cavuto_on_Business_000765.jpg</field>
+<field name="snippet">now back to 'cavuto on business.' and for all your headlines, log on to foxnews.com. we should be facing the reality of climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180605_000000_Tucker_Carlson_Tonight#start/3097/end/3132</field>
+<field name="datetime">6/5/2018 0:51:52</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20180605_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180605_000000_Tucker_Carlson_Tonight/FOXNEWSW_20180605_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20180605_000000_Tucker_Carlson_Tonight_003087.jpg</field>
+<field name="snippet">you are quoting. tucker: i don't think so. before we get into that, let me ask you a question. why would air-conditioners cause climate change? that's what you are saying. tucker: i'm not actually saying that. my mind is open.</field>
+</doc>
+</add>

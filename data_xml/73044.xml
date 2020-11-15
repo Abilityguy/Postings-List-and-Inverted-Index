@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190101_093000_Weather_World#start/1098/end/1133</field>
+<field name="datetime">1/1/2019 9:48:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20190101_093000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190101_093000_Weather_World/BBCNEWS_20190101_093000_Weather_World.thumbs/BBCNEWS_20190101_093000_Weather_World_001077.jpg</field>
+<field name="snippet">climate change brings almost co nsta nt constant deadly cyclones. -- as climate change. two storms hit the usa, first florence were storming over the carolinas and dumping massive amounts of rain. it was the</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091206_230000_FOX_News_Sunday_With_Chris_Wallace#start/2094/end/2129</field>
+<field name="datetime">12/6/2009 23:35:09</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Sunday With Chris Wallace</field>
+<field name="showid">FOXNEWS_20091206_230000_FOX_News_Sunday_With_Chris_Wallace</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091206_230000_FOX_News_Sunday_With_Chris_Wallace/FOXNEWS_20091206_230000_FOX_News_Sunday_With_Chris_Wallace.thumbs/FOXNEWS_20091206_230000_FOX_News_Sunday_With_Chris_Wallace_002070.jpg</field>
+<field name="snippet">questions about the science of climate change and it is time for our sunday group, bill kristol of the weekly standard, mara liasson of national public radio. former white house press secretary dana perino and juan williams also from national public radio. bill, what do you make, how much</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201509.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150919_090000_Hannity#start/572/end/607</field>
+<field name="datetime">9/19/2015 9:09:47</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20150919_090000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150919_090000_Hannity/FOXNEWSW_20150919_090000_Hannity.thumbs/FOXNEWSW_20150919_090000_Hannity_000555.jpg</field>
+<field name="snippet">when you heard the conversation about global warming, i heard marco rubio, chris christie and walker say yeah, it exists, but the question is what do woe do about it and tapper was saying well, your skeptics and cruz</field>
+</doc>
+</add>

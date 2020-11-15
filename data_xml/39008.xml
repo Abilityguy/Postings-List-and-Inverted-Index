@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100426_210000_Glenn_Beck#start/1891/end/1926</field>
+<field name="datetime">4/26/2010 21:31:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20100426_210000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100426_210000_Glenn_Beck/FOXNEWS_20100426_210000_Glenn_Beck.thumbs/FOXNEWS_20100426_210000_Glenn_Beck_001890.jpg</field>
+<field name="snippet">just a little bit? 'oh, he is a conspiracy theory.' no, this is all fact. this isn't theory. that's fact. and then, all of a sudden, illegal immigration leapfroged global warming. is it possible that's because</field>
+</doc>
+</add>

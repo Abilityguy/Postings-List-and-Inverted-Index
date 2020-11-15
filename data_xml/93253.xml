@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190705_030000_BBC_News#start/962/end/997</field>
+<field name="datetime">7/5/2019 3:16:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190705_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190705_030000_BBC_News/BBCNEWS_20190705_030000_BBC_News.thumbs/BBCNEWS_20190705_030000_BBC_News_000957.jpg</field>
+<field name="snippet">to the bbc, families of victims of the boeing plane crash in ethiopia tell us those responsible must be held to account. researchers in switzerland are arguing that a massive global programme of planting trees is the most effective weapon to counter climate change currently available.</field>
+</doc>
+</add>

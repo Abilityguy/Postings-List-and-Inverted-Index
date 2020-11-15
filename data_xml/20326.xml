@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201404.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140408_130000_Americas_Newsroom#start/3258/end/3293</field>
+<field name="datetime">4/8/2014 13:54:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWSW_20140408_130000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140408_130000_Americas_Newsroom/FOXNEWSW_20140408_130000_Americas_Newsroom.thumbs/FOXNEWSW_20140408_130000_Americas_Newsroom_003255.jpg</field>
+<field name="snippet">that's the conclusion of a panel of scientists set up to examine alternatives to the conclusions of the u.n. commission intergovernmental panel on climate change about carbon eve missions.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201702.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170214_020000_Tucker_Carlson_Tonight#start/3234/end/3269</field>
+<field name="datetime">2/14/2017 2:54:09</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20170214_020000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170214_020000_Tucker_Carlson_Tonight/FOXNEWSW_20170214_020000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20170214_020000_Tucker_Carlson_Tonight_003207.jpg</field>
+<field name="snippet">like leonardo dicaprio, if you want to talk about climate change, he went with al gore to talk about the president with climate change. but to be somebody famous and just assume that your views</field>
+</doc>
+</add>

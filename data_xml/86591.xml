@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191231_163000_Weather_World#start/308/end/343</field>
+<field name="datetime">12/31/2019 16:35:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20191231_163000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191231_163000_Weather_World/BBCNEWS_20191231_163000_Weather_World.thumbs/BBCNEWS_20191231_163000_Weather_World_000298.jpg</field>
+<field name="snippet">a new national high temperature for the uk of 38.7 degrees celsius. now, in a year when climate change has become increasingly labelled a climate crisis, that may be an unwanted accolade, but nonetheless it's a record that now cambridge holds. but how do you go about verifying a temperature like that,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_110000_FOX_and_Friends#start/2035/end/2070</field>
+<field name="datetime">12/18/2009 11:34:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091218_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_110000_FOX_and_Friends/FOXNEWS_20091218_110000_FOX_and_Friends.thumbs/FOXNEWS_20091218_110000_FOX_and_Friends_002031.jpg</field>
+<field name="snippet">economy and as the world's second largest emitter, america bears our responsibility to address climate change. and we intend to meet that</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190813_000000_Tucker_Carlson_Tonight#start/2286/end/2321</field>
+<field name="datetime">8/13/2019 0:38:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190813_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190813_000000_Tucker_Carlson_Tonight/FOXNEWSW_20190813_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190813_000000_Tucker_Carlson_Tonight_002278.jpg</field>
+<field name="snippet">environmental impact and the agricultural industry as a whole, we need to look beyond methane and beyond climate change. we need to look at things like air pollution and water pollution, and the fact that deforestation is happening at an</field>
+</doc>
+</add>

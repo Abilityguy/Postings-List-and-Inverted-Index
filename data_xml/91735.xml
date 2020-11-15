@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190713_000000_Tucker_Carlson_Tonight#start/533/end/568</field>
+<field name="datetime">7/13/2019 0:09:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190713_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190713_000000_Tucker_Carlson_Tonight/FOXNEWSW_20190713_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190713_000000_Tucker_Carlson_Tonight_000509.jpg</field>
+<field name="snippet">tucker: good to see you. well, aoc's team says they saw global warming as a preteblgt to take over the economy that, doesn't mean it's based on evidence of an actual problem. despite what they tell you, the science is not settled. we can all agree that the</field>
+</doc>
+</add>

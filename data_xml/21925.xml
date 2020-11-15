@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180807_050000_Breakfast#start/7605/end/7640</field>
+<field name="datetime">8/7/2018 7:07:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20180807_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180807_050000_Breakfast/BBCNEWS_20180807_050000_Breakfast.thumbs/BBCNEWS_20180807_050000_Breakfast_007587.jpg</field>
+<field name="snippet">that the world is at risk of tipping into extremely dangerous levels of climate change, known as a hothouse state. it could mean parts of the world are uninhabitable within decades and any efforts to reduce emissions would become futile.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190429_120000_BBC_News_at_One#start/56/end/91</field>
+<field name="datetime">4/29/2019 12:01:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190429_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190429_120000_BBC_News_at_One/BBCNEWS_20190429_120000_BBC_News_at_One.thumbs/BBCNEWS_20190429_120000_BBC_News_at_One_000058.jpg</field>
+<field name="snippet">according to a new report - amid brexit uncertainty. saving planet earth - scientists warn the way we treat our soil is fuelling climate change. and sale of the century - a charity shop in kent offers prada,</field>
+</doc>
+</add>

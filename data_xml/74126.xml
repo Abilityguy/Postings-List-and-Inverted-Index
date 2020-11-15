@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200118_170000_BBC_News#start/1582/end/1617</field>
+<field name="datetime">1/18/2020 17:26:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200118_170000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200118_170000_BBC_News/BBCNEWS_20200118_170000_BBC_News.thumbs/BBCNEWS_20200118_170000_BBC_News_001558.jpg</field>
+<field name="snippet">you may think that lakes and rivers in britain are environmentally friendly but did you know they release greenhouse gases into the air? scientists are warning that climate change could increase the amount of carbon dioxide and methane, they emit. richard westcott has more. it's obvious where some greenhouse gases come from.</field>
+</doc>
+</add>

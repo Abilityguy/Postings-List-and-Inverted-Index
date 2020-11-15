@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201812.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181228_090000_MTP_Daily#start/3056/end/3091</field>
+<field name="datetime">12/28/2018 9:51:11</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20181228_090000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181228_090000_MTP_Daily/MSNBCW_20181228_090000_MTP_Daily.thumbs/MSNBCW_20181228_090000_MTP_Daily_002937.jpg</field>
+<field name="snippet">welcome back. the 'new york times' had a really big editorial on climate change talking about all the ways that countries come together for the paris climate accord have failed to live up to many of their promises.</field>
+</doc>
+</add>

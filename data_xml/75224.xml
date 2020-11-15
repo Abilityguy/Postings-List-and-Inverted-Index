@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200101_223000_Sportsday#start/825/end/860</field>
+<field name="datetime">1/1/2020 22:44:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Sportsday</field>
+<field name="showid">BBCNEWS_20200101_223000_Sportsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200101_223000_Sportsday/BBCNEWS_20200101_223000_Sportsday.thumbs/BBCNEWS_20200101_223000_Sportsday_000807.jpg</field>
+<field name="snippet">to tackle climate change. the daily express says people in their 60s will deliver more than half of all employment growth in the next ten years. the paper says employers are being urged to end age discrimination against those who still have more to offer. the daily mail leads with a warning</field>
+</doc>
+</add>

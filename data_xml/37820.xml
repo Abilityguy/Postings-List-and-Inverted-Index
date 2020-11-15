@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091024_230000_FOX_Report#start/517/end/552</field>
+<field name="datetime">10/24/2009 23:08:52</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report</field>
+<field name="showid">FOXNEWS_20091024_230000_FOX_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091024_230000_FOX_Report/FOXNEWS_20091024_230000_FOX_Report.thumbs/FOXNEWS_20091024_230000_FOX_Report_000510.jpg</field>
+<field name="snippet">the official says he could address climate change at that time. have you heard of the pilot of the northwest airline flight that overshot the landing by 150 miles? he's speaking out. sort of. flight 188 was headed from</field>
+</doc>
+</add>

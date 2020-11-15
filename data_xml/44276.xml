@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201704.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170429_120000_MSNBC_Live#start/3373/end/3408</field>
+<field name="datetime">4/29/2017 12:56:28</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170429_120000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170429_120000_MSNBC_Live/MSNBCW_20170429_120000_MSNBC_Live.thumbs/MSNBCW_20170429_120000_MSNBC_Live_003297.jpg</field>
+<field name="snippet">take place in washington, d.c. protesting president trump's policies. this time it's about climate change. new video into our newsroom where people are beginning to gather at the capitol building for what's being called the people's climate march. tens of thousands are expected</field>
+</doc>
+</add>

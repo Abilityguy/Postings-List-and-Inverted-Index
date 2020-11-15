@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181206_010000_Tucker_Carlson_Tonight#start/2417/end/2452</field>
+<field name="datetime">12/6/2018 1:40:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20181206_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181206_010000_Tucker_Carlson_Tonight/FOXNEWSW_20181206_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20181206_010000_Tucker_Carlson_Tonight_002397.jpg</field>
+<field name="snippet">a private plane. how could he do that? how could any of them own second homes if they really believe climate change is real? how are they using a car service when they could use mass transit? why aren't they all vegans? why aren't they living what</field>
+</doc>
+</add>

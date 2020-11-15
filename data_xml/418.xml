@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201301.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130113_190000_FOX_News_Sunday_With_Chris_Wallace#start/868/end/903</field>
+<field name="datetime">1/13/2013 19:14:43</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Sunday With Chris Wallace</field>
+<field name="showid">FOXNEWSW_20130113_190000_FOX_News_Sunday_With_Chris_Wallace</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130113_190000_FOX_News_Sunday_With_Chris_Wallace/FOXNEWSW_20130113_190000_FOX_News_Sunday_With_Chris_Wallace.thumbs/FOXNEWSW_20130113_190000_FOX_News_Sunday_With_Chris_Wallace_000855.jpg</field>
+<field name="snippet">chris: do something about climate change. has he told you how much political capital he is willing to spend on what is going to be a very tough fight? i think that the president has demonstrated tremendous leadership on this issue. i think the country rallied</field>
+</doc>
+</add>

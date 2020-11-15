@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201111.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111130_140000_Americas_Newsroom#start/5713/end/5748</field>
+<field name="datetime">11/30/2011 15:35:28</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWSW_20111130_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111130_140000_Americas_Newsroom/FOXNEWSW_20111130_140000_Americas_Newsroom.thumbs/FOXNEWSW_20111130_140000_Americas_Newsroom_005696.jpg</field>
+<field name="snippet">forth is when governor romney said, listen, if i just said things to get elected, why would i continue to defend massachusetts healthcare? and he said, i've seen people on debate stages, you know, say it was a mistake in my climate</field>
+</doc>
+</add>

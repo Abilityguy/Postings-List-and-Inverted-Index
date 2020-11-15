@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201510.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151016_000000_All_In_With_Chris_Hayes#start/2471/end/2506</field>
+<field name="datetime">10/16/2015 0:41:26</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20151016_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151016_000000_All_In_With_Chris_Hayes/MSNBCW_20151016_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20151016_000000_All_In_With_Chris_Hayes_002446.jpg</field>
+<field name="snippet">when i was in college, we were told that the climate was changing but we were about to go into a deep freeze and if we didn't make urgent changes in the way we live we were all going to be popsicles within another generation. now we're hearing that we're going to burn up. is there climate change?</field>
+</doc>
+</add>

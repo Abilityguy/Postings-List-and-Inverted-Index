@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181206_010000_Tucker_Carlson_Tonight#start/2496/end/2531</field>
+<field name="datetime">12/6/2018 1:41:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20181206_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181206_010000_Tucker_Carlson_Tonight/FOXNEWSW_20181206_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20181206_010000_Tucker_Carlson_Tonight_002487.jpg</field>
+<field name="snippet">if climate change as told us only issue that matters why aren't we living like it's the only issue that matters? it comes down to the industry. if the industry wants to make planes that exist off of renewable energy rather</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201511.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151130_220000_MTP_Daily#start/3624/end/3659</field>
+<field name="datetime">11/30/2015 23:00:39</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20151130_220000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151130_220000_MTP_Daily/MSNBCW_20151130_220000_MTP_Daily.thumbs/MSNBCW_20151130_220000_MTP_Daily_003616.jpg</field>
+<field name="snippet">meeting about climate change. the united states of america not only recognizes our role in creating this problem, we embrace our responsibility to do something about it. and in the fight for 2016, donald trump meets with a group of black pastors.</field>
+</doc>
+</add>

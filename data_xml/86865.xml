@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191203_014500_Sport_Today#start/928/end/963</field>
+<field name="datetime">12/3/2019 2:00:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Sport Today</field>
+<field name="showid">BBCNEWS_20191203_014500_Sport_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191203_014500_Sport_Today/BBCNEWS_20191203_014500_Sport_Today.thumbs/BBCNEWS_20191203_014500_Sport_Today_000928.jpg</field>
+<field name="snippet">of the london bridge attack, attended by family, friends and political leaders. the fears of some countries are heard at the madrid meeting on climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190701_013000_The_Week_in_Parliament#start/879/end/914</field>
+<field name="datetime">7/1/2019 1:44:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Week in Parliament</field>
+<field name="showid">BBCNEWS_20190701_013000_The_Week_in_Parliament</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190701_013000_The_Week_in_Parliament/BBCNEWS_20190701_013000_The_Week_in_Parliament.thumbs/BBCNEWS_20190701_013000_The_Week_in_Parliament_000869.jpg</field>
+<field name="snippet">climate change protesters descended on westminster in a week in which mps backed government plans to cut greenhouse gas emissions in the uk to almost zero by 2050. many of my constituents, especially schoolchildren, will be delighted with this announcement, but others are rightly sceptical about the cost.</field>
+</doc>
+</add>

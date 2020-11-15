@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201404.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140413_160000_Weekends_With_Alex_Witt#start/5734/end/5769</field>
+<field name="datetime">4/13/2014 17:35:49</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20140413_160000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140413_160000_Weekends_With_Alex_Witt/MSNBCW_20140413_160000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20140413_160000_Weekends_With_Alex_Witt_005716.jpg</field>
+<field name="snippet">hours, as this series is, longer than the typical sound bytes, it gives you a chance to really get into some of the science. so we have time to explain how even though one extreme event can't be linked directly to climate change, we can see that the odds are going to increase</field>
+</doc>
+</add>

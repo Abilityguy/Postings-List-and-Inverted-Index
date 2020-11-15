@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190131_110000_BBC_Newsroom_Live#start/1249/end/1284</field>
+<field name="datetime">1/31/2019 11:21:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190131_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190131_110000_BBC_Newsroom_Live/BBCNEWS_20190131_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190131_110000_BBC_Newsroom_Live_001227.jpg</field>
+<field name="snippet">frozen shirt. and, at temperatures this cold, boiling water tossed into the air turns immediately to snow. although temperatures are expected to rise above freezing by the weekend, scientists have warned that climate</field>
+</doc>
+</add>

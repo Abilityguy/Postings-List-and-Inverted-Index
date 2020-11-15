@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190930_100000_BBC_Newsroom_Live#start/6626/end/6661</field>
+<field name="datetime">9/30/2019 11:50:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190930_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190930_100000_BBC_Newsroom_Live/BBCNEWS_20190930_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190930_100000_BBC_Newsroom_Live_006598.jpg</field>
+<field name="snippet">the world bank estimates that over 140 million people could be internally displaced by 2050 because of climate change. vietnam is both a warning and an example of how the world will have to adapt and change. ashley jean-ba ptiste, bbc news, vietnam.</field>
+</doc>
+</add>

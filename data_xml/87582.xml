@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191227_063000_Weather_World#start/253/end/288</field>
+<field name="datetime">12/27/2019 6:34:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20191227_063000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191227_063000_Weather_World/BBCNEWS_20191227_063000_Weather_World.thumbs/BBCNEWS_20191227_063000_Weather_World_000238.jpg</field>
+<field name="snippet">into the atmosphere. and i'm at cambridge university, where a new look at pioneering data collected in the 19705 is revealing the real impact climate change is having on our melting ice sheet today. also on weather world,</field>
+</doc>
+</add>

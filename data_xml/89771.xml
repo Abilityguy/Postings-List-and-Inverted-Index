@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201401.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140131_190000_NewsNation#start/428/end/463</field>
+<field name="datetime">1/31/2014 19:07:23</field>
+<field name="station">MSNBC</field>
+<field name="show">NewsNation</field>
+<field name="showid">MSNBCW_20140131_190000_NewsNation</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140131_190000_NewsNation/MSNBCW_20140131_190000_NewsNation.thumbs/MSNBCW_20140131_190000_NewsNation_000405.jpg</field>
+<field name="snippet">president obama has the final say on whether the pipeline gets built and has previously said he will approve the project only if he's convinced it will not significantly worsen greenhouse gas emissions. many expect today's report to conclude that the pipeline poses</field>
+</doc>
+</add>

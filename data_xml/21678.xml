@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100126_110000_FOX_and_Friends#start/9730/end/9765</field>
+<field name="datetime">1/26/2010 13:42:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100126_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100126_110000_FOX_and_Friends/FOXNEWS_20100126_110000_FOX_and_Friends.thumbs/FOXNEWS_20100126_110000_FOX_and_Friends_009703.jpg</field>
+<field name="snippet">and bring the family, sounds like a great vacation. but it was actually how congress went to the climate change summit and you paid for it. hope they had fun. the real life inspiration behind the new movie, 'extraordinary measures.'.</field>
+</doc>
+</add>

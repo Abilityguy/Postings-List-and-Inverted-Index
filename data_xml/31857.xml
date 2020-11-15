@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201204.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120411_210000_The_Five#start/1605/end/1640</field>
+<field name="datetime">4/11/2012 21:27:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20120411_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120411_210000_The_Five/FOXNEWSW_20120411_210000_The_Five.thumbs/FOXNEWSW_20120411_210000_The_Five_001380.jpg</field>
+<field name="snippet">from the canadian border, through the mid west, to the gulf coast. benefiting hundreds of thousands of families throughout the country. this is just what our economy needs right now. andrea: welcome back to 'the five.' all right, is there a climate</field>
+</doc>
+</add>

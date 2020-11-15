@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201001.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100104_110000_Morning_Joe#start/6227/end/6262</field>
+<field name="datetime">1/4/2010 12:44:02</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20100104_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20100104_110000_Morning_Joe/MSNBC_20100104_110000_Morning_Joe.thumbs/MSNBC_20100104_110000_Morning_Joe_006180.jpg</field>
+<field name="snippet">looking at it in retrospect, probably did us a favor. we had an administration not as focused as it should be on terrorism. that is understandable. they are focused on health care and global warming and the economy.</field>
+</doc>
+</add>

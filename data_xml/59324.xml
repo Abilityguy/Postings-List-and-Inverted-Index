@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201106.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110608_190000_Martin_Bashir#start/1876/end/1911</field>
+<field name="datetime">6/8/2011 19:31:31</field>
+<field name="station">MSNBC</field>
+<field name="show">Martin Bashir</field>
+<field name="showid">MSNBC_20110608_190000_Martin_Bashir</field>
+<field name="preview">https://archive.org/download/MSNBC_20110608_190000_Martin_Bashir/MSNBC_20110608_190000_Martin_Bashir.thumbs/MSNBC_20110608_190000_Martin_Bashir_001860.jpg</field>
+<field name="snippet">then the question is, what's driving the rise in temperature of the gulf of mexico? some people say it's global warming. what do you think? well, with 90% confidence, most scientists believe that human activity is beginning to change the weather.</field>
+</doc>
+</add>

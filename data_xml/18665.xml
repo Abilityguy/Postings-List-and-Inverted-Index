@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170110_220000_BBC_News_at_Ten#start/1539/end/1574</field>
+<field name="datetime">1/10/2017 22:25:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20170110_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170110_220000_BBC_News_at_Ten/BBCNEWS_20170110_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20170110_220000_BBC_News_at_Ten_001527.jpg</field>
+<field name="snippet">cuba had brought the world to the edge of nuclear war, now diplomatic relations are restored, an extraordinary transformation. he leaves office largely admired and popular around the world, not least for his role in the global climate change deal. he'd tried to carve out a foreign policy that he saw</field>
+</doc>
+</add>

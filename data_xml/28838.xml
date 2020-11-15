@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201610.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161031_050000_Special_Report_With_Bret_Baier#start/2026/end/2061</field>
+<field name="datetime">10/31/2016 5:34:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20161031_050000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161031_050000_Special_Report_With_Bret_Baier/FOXNEWSW_20161031_050000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20161031_050000_Special_Report_With_Bret_Baier_002007.jpg</field>
+<field name="snippet">accepting climate change and rising seas are happening and considering itself ground zero, the city is spending half a billion tax dollars elevating roads, replacing storm drain pipes with bigger ones, and putting in pump stations to</field>
+</doc>
+</add>

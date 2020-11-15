@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191124_190000_MSNBC_Live_with_Kendis_Gibson#start/246/end/281</field>
+<field name="datetime">11/24/2019 19:04:21</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live with Kendis Gibson</field>
+<field name="showid">MSNBCW_20191124_190000_MSNBC_Live_with_Kendis_Gibson</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191124_190000_MSNBC_Live_with_Kendis_Gibson/MSNBCW_20191124_190000_MSNBC_Live_with_Kendis_Gibson.thumbs/MSNBCW_20191124_190000_MSNBC_Live_with_Kendis_Gibson_000238.jpg</field>
+<field name="snippet">in his campaign trail events, mike bloomberg will be emphasizing how even though he hasn't been in this race all along he han bes been working on control and climate change for years behind the scenes and has really been part of this fight.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200908.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20090819_150000_MSNBC_News_Live#start/1303/end/1338</field>
+<field name="datetime">8/19/2009 15:21:58</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20090819_150000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20090819_150000_MSNBC_News_Live/MSNBC_20090819_150000_MSNBC_News_Live.thumbs/MSNBC_20090819_150000_MSNBC_News_Live_001285.jpg</field>
+<field name="snippet">honestly, what thanks do we owe progress? we're up to our necks in landfill, and down to the wire in resources and climate change is out to get us. that's why progress plays no role inside post shredded wheat. here, we put the 'no' in innovation.</field>
+</doc>
+</add>

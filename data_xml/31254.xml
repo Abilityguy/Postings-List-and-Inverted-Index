@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090720_210000_Glenn_Beck#start/0/end/21</field>
+<field name="datetime">7/20/2009 21:00:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20090720_210000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090720_210000_Glenn_Beck/FOXNEWS_20090720_210000_Glenn_Beck.thumbs/FOXNEWS_20090720_210000_Glenn_Beck_002006.jpg</field>
+<field name="snippet">now, as a 'the post' writes, we have to find replacements for the replacements, or it will cancel out all of the other things with global warming. i just love it when a plan comes together like this.</field>
+</doc>
+</add>

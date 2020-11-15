@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201901.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190124_110000_Morning_Joe#start/10217/end/10252</field>
+<field name="datetime">1/24/2019 13:50:32</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20190124_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190124_110000_Morning_Joe/MSNBCW_20190124_110000_Morning_Joe.thumbs/MSNBCW_20190124_110000_Morning_Joe_010198.jpg</field>
+<field name="snippet">great conversation. up next, is nuclear energy the answer to the climate crisis? we're going to talk to the former chairman of the nuclear regulatory commission next on 'morning joe.' oe.'</field>
+</doc>
+</add>

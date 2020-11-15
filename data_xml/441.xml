@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201301.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130126_230000_Americas_News_Headquarters#start/1412/end/1447</field>
+<field name="datetime">1/26/2013 23:23:47</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20130126_230000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130126_230000_Americas_News_Headquarters/FOXNEWSW_20130126_230000_Americas_News_Headquarters.thumbs/FOXNEWSW_20130126_230000_Americas_News_Headquarters_001395.jpg</field>
+<field name="snippet">anyone who followed the president knows the issues he talked about in the inauguration are the issues he talked about in the first and second campaign and he talked about climate change for some time now and talked about immigration reform and talked about strengthening the middle class.</field>
+</doc>
+</add>

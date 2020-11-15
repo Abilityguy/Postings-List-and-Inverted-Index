@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201301.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130129_140000_Americas_Newsroom#start/2260/end/2295</field>
+<field name="datetime">1/29/2013 14:37:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWSW_20130129_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130129_140000_Americas_Newsroom/FOXNEWSW_20130129_140000_Americas_Newsroom.thumbs/FOXNEWSW_20130129_140000_Americas_Newsroom_002235.jpg</field>
+<field name="snippet">mrs. clinton. she started her tenure going to china refusing to raise human rights issues but saying issues like climate change were too important so she couldn't raise human rights. this is norm with iran. refusing to raise any issue</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201001.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100129_234246_The_Ed_Show#start/715/end/750</field>
+<field name="datetime">1/29/2010 23:54:56</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBC_20100129_234246_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20100129_234246_The_Ed_Show/MSNBC_20100129_234246_The_Ed_Show.thumbs/MSNBC_20100129_234246_The_Ed_Show_000690.jpg</field>
+<field name="snippet">and a country facing climate change finds climate solutions. somewhere in america, we've already answered some of the nation's toughest questions. and the over sixty thousand people of siemens are ready to do it again. siemens. answers.</field>
+</doc>
+</add>

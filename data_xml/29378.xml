@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201905.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190503_140000_MSNBC_Live_With_Hallie_Jackson#start/3635/end/3670</field>
+<field name="datetime">5/3/2019 15:00:50</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Hallie Jackson</field>
+<field name="showid">MSNBCW_20190503_140000_MSNBC_Live_With_Hallie_Jackson</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190503_140000_MSNBC_Live_With_Hallie_Jackson/MSNBCW_20190503_140000_MSNBC_Live_With_Hallie_Jackson.thumbs/MSNBCW_20190503_140000_MSNBC_Live_With_Hallie_Jackson_003629.jpg</field>
+<field name="snippet">numbers present issues for democrats running against the president. also, students across the country at this hour taking part in a worldwide movement. it's called fridays for future. they're pushing for real action on climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201408.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140830_150000_Forbes_on_FOX#start/28/end/63</field>
+<field name="datetime">8/30/2014 15:00:43</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Forbes on FOX</field>
+<field name="showid">FOXNEWSW_20140830_150000_Forbes_on_FOX</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140830_150000_Forbes_on_FOX/FOXNEWSW_20140830_150000_Forbes_on_FOX.thumbs/FOXNEWSW_20140830_150000_Forbes_on_FOX_000045.jpg</field>
+<field name="snippet">climate change. now, some here say this latest end run around congress is going to put u.s. jobs on ice. are they right?</field>
+</doc>
+</add>

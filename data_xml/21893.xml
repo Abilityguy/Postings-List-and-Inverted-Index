@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180817_100000_BBC_Newsroom_Live#start/5266/end/5301</field>
+<field name="datetime">8/17/2018 11:28:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20180817_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180817_100000_BBC_Newsroom_Live/BBCNEWS_20180817_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20180817_100000_BBC_Newsroom_Live_005247.jpg</field>
+<field name="snippet">by scientists in the states. coming up - scientists say they have taken a significant step towards developing new strains of wheat, that will be able to cope with climate change. we'll be taking a closer look.</field>
+</doc>
+</add>

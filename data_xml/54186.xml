@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201306.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130625_170000_Andrea_Mitchell_Reports#start/3335/end/3370</field>
+<field name="datetime">6/25/2013 17:55:50</field>
+<field name="station">MSNBC</field>
+<field name="show">Andrea Mitchell Reports</field>
+<field name="showid">MSNBCW_20130625_170000_Andrea_Mitchell_Reports</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130625_170000_Andrea_Mitchell_Reports/MSNBCW_20130625_170000_Andrea_Mitchell_Reports.thumbs/MSNBCW_20130625_170000_Andrea_Mitchell_Reports_003315.jpg</field>
+<field name="snippet">in my state of the union address, i urged congress to come up with a bipartisan solution to climate change, like the one that republican and democratic senators worked on a few years ago. i still want to see that happen. i'm willing to work with anyone</field>
+</doc>
+</add>

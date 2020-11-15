@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171116_060000_Breakfast#start/8619/end/8654</field>
+<field name="datetime">11/16/2017 8:23:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20171116_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171116_060000_Breakfast/BBCNEWS_20171116_060000_Breakfast.thumbs/BBCNEWS_20171116_060000_Breakfast_008608.jpg</field>
+<field name="snippet">which scientists say are not caused directly by climate change but made worse by it. we've had the massive heatwave in southern europe and today we have a new report saying that even if, even if emissions were cut to the absolute maximum level</field>
+</doc>
+</add>

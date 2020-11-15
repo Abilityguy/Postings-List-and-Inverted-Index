@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201909.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190919_140000_MSNBC_Live_With_Hallie_Jackson#start/1920/end/1955</field>
+<field name="datetime">9/19/2019 14:32:15</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Hallie Jackson</field>
+<field name="showid">MSNBCW_20190919_140000_MSNBC_Live_With_Hallie_Jackson</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190919_140000_MSNBC_Live_With_Hallie_Jackson/MSNBCW_20190919_140000_MSNBC_Live_With_Hallie_Jackson.thumbs/MSNBCW_20190919_140000_MSNBC_Live_With_Hallie_Jackson_001917.jpg</field>
+<field name="snippet">the top issue for them in polling and when on the ground. mr. yang, we're live on msnbc right now. fantastic. we're live. they're going to talk to you about climate change. i want to talk about the polls we've been seeing lately seem to be enforcing this idea that it's a three-person race. do you buy that?</field>
+</doc>
+</add>

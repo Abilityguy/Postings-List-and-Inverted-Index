@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201907.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190705_010000_Democratic_Candidates_Debate#start/109/end/144</field>
+<field name="datetime">7/5/2019 1:02:04</field>
+<field name="station">MSNBC</field>
+<field name="show">Democratic Candidates Debate</field>
+<field name="showid">MSNBCW_20190705_010000_Democratic_Candidates_Debate</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190705_010000_Democratic_Candidates_Debate/MSNBCW_20190705_010000_Democratic_Candidates_Debate.thumbs/MSNBCW_20190705_010000_Democratic_Candidates_Debate_000088.jpg</field>
+<field name="snippet">we will talk about health care and immigration, the economy and job and climate change as well. quick rules of the road before we begin. they may sound familiar. 20 candidates qualify from the first debate. we heard from 10 last night and we hear from 10 tonight.</field>
+</doc>
+</add>

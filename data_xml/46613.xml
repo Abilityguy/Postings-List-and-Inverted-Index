@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201302.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130217_200000_MSNBC_Live#start/2713/end/2748</field>
+<field name="datetime">2/17/2013 20:45:28</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20130217_200000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130217_200000_MSNBC_Live/MSNBCW_20130217_200000_MSNBC_Live.thumbs/MSNBCW_20130217_200000_MSNBC_Live_002715.jpg</field>
+<field name="snippet">country. the president promising action on climate change during the state of the union address. now some activists are pressuring him to keep his word. we will take you back to the day congress woman carol mcarthy</field>
+</doc>
+</add>

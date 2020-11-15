@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191109_010000_BBC_News#start/456/end/491</field>
+<field name="datetime">11/9/2019 1:07:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191109_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191109_010000_BBC_News/BBCNEWS_20191109_010000_BBC_News.thumbs/BBCNEWS_20191109_010000_BBC_News_000449.jpg</field>
+<field name="snippet">anything to do with climate change? they cannot pin it exactly on that but scientists do say that the effects of climate change are intensifying the bushfire situation right across eastern australia to for more on this you can go to our</field>
+</doc>
+</add>

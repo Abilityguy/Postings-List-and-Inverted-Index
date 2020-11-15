@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170628_100000_FOX__Friends#start/642/end/677</field>
+<field name="datetime">6/28/2017 10:10:57</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20170628_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170628_100000_FOX__Friends/FOXNEWSW_20170628_100000_FOX__Friends.thumbs/FOXNEWSW_20170628_100000_FOX__Friends_000627.jpg</field>
+<field name="snippet">this is what the media needs to be covering. steve: sure, and you look at what tv news has been obsessed with. and we have got a graphic, they have spent 353 minutes talking about mr. comey and russia climate change 47 minutes.</field>
+</doc>
+</add>

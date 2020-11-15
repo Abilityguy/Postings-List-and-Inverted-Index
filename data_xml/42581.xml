@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201008.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100825_070000_Red_Eye#start/991/end/1026</field>
+<field name="datetime">8/25/2010 7:16:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20100825_070000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100825_070000_Red_Eye/FOXNEWS_20100825_070000_Red_Eye.thumbs/FOXNEWS_20100825_070000_Red_Eye_000986.jpg</field>
+<field name="snippet">to throw this stuff on, you have to answer the call. here is my feeling quickly on global warming. what is the crux of the problem? over the last century the temperature on the planet has gone up 1.8 degrees. maybe, or maybe not. excuse me for not trusting the</field>
+</doc>
+</add>

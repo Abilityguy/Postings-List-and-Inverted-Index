@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190225_050000_The_Briefing#start/1478/end/1513</field>
+<field name="datetime">2/25/2019 5:24:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20190225_050000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190225_050000_The_Briefing/BBCNEWS_20190225_050000_The_Briefing.thumbs/BBCNEWS_20190225_050000_The_Briefing_001468.jpg</field>
+<field name="snippet">concentration of greenhouse gases, to understand potential future scenarios in the change of the climate, we need to understand the natural variations. their mission involves scanning the surface of antarctica for a suitable location to get the best possible sample to study.</field>
+</doc>
+</add>

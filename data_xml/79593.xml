@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200907.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20090729_150000_MSNBC_News_Live#start/570/end/605</field>
+<field name="datetime">7/29/2009 15:09:45</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20090729_150000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20090729_150000_MSNBC_News_Live/MSNBC_20090729_150000_MSNBC_News_Live.thumbs/MSNBC_20090729_150000_MSNBC_News_Live_000565.jpg</field>
+<field name="snippet">policies that will mean economic growth. let me give you an example. if we pass strong energy independence legislation which means that, finally, we move away from global warming, we will create thousands and millions of jobs in this new</field>
+</doc>
+</add>

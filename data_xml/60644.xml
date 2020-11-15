@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_050000_Breakfast#start/5479/end/5514</field>
+<field name="datetime">10/8/2018 6:31:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181008_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_050000_Breakfast/BBCNEWS_20181008_050000_Breakfast.thumbs/BBCNEWS_20181008_050000_Breakfast_005457.jpg</field>
+<field name="snippet">0ver over the last 20 years, governments have gone slowly on the question of climate change and the scientists are saying that we need to ramp up the action very quickly if we have any chance of staying below 1.5 celsius. thank you very much for that. lots of people getting in</field>
+</doc>
+</add>

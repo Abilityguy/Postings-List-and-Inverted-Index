@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180125_050000_Tucker_Carlson_Tonight#start/2610/end/2645</field>
+<field name="datetime">1/25/2018 5:43:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20180125_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180125_050000_Tucker_Carlson_Tonight/FOXNEWSW_20180125_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20180125_050000_Tucker_Carlson_Tonight_002607.jpg</field>
+<field name="snippet">leader who has said, we are not going to join the rest of the world in reducing pollution. you understand that 200 nations in paris back on december 15th, 2015, said that climate change is something that we are going</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190723_210000_BBC_News_at_Ten#start/67/end/102</field>
+<field name="datetime">7/23/2019 21:01:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20190723_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190723_210000_BBC_News_at_Ten/BBCNEWS_20190723_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20190723_210000_BBC_News_at_Ten_000059.jpg</field>
+<field name="snippet">we'll be looking at the effect of the rising temperatures across much of europe and the role of climate change. and coming up on sports day on bbc news, geraint thomas crashes again in the tour de france, but he gets back on to stay second overall after the 16th stage.</field>
+</doc>
+</add>

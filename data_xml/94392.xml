@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201212.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121203_210000_Martin_Bashir#start/2700/end/2735</field>
+<field name="datetime">12/3/2012 21:45:15</field>
+<field name="station">MSNBC</field>
+<field name="show">Martin Bashir</field>
+<field name="showid">MSNBCW_20121203_210000_Martin_Bashir</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121203_210000_Martin_Bashir/MSNBCW_20121203_210000_Martin_Bashir.thumbs/MSNBCW_20121203_210000_Martin_Bashir_002698.jpg</field>
+<field name="snippet">showed up. maybe they'd heard her answer a report aers question about climate change. everybody has an opinion on it, you know, and, you know, i probably don't believe that it's manmade. i believe that, you know, that</field>
+</doc>
+</add>

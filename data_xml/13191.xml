@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201101.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110102_110000_FOX_and_Friends_Sunday#start/1439/end/1474</field>
+<field name="datetime">1/2/2011 11:24:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWS_20110102_110000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110102_110000_FOX_and_Friends_Sunday/FOXNEWS_20110102_110000_FOX_and_Friends_Sunday.thumbs/FOXNEWS_20110102_110000_FOX_and_Friends_Sunday_001440.jpg</field>
+<field name="snippet">the folks on all of those, stranded in ground because they couldn't get back for christmas break because of the incredible snowstorm. the problem that you had is not just, you know, what's the-- what's global warming and what caused it, it's the solutions</field>
+</doc>
+</add>

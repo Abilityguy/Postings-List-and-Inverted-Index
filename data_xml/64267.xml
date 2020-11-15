@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201606.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160630_070000_All_In_With_Chris_Hayes#start/15/end/50</field>
+<field name="datetime">6/30/2016 7:00:30</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20160630_070000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160630_070000_All_In_With_Chris_Hayes/MSNBCW_20160630_070000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20160630_070000_All_In_With_Chris_Hayes_000057.jpg</field>
+<field name="snippet">trump in cleveland? and the clear and present danger of climate change. spring is coming a lot sooner. it's warmer and everything is melting quicker.</field>
+</doc>
+</add>

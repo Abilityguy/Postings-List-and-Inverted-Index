@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_160000_Happening_Now#start/2343/end/2378</field>
+<field name="datetime">12/18/2009 16:39:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091218_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_160000_Happening_Now/FOXNEWS_20091218_160000_Happening_Now.thumbs/FOXNEWS_20091218_160000_Happening_Now_002340.jpg</field>
+<field name="snippet">really is the crisis that we are told it is. a new fox news opinion dynamics poll found that while a majority of americans believe global warming is real, only 1-6 say it's a crisis. here's the poll that found 17% of us think it's the crisis</field>
+</doc>
+</add>

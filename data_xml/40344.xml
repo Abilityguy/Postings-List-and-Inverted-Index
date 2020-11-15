@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201907.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190705_230000_Hardball_With_Chris_Matthews#start/558/end/593</field>
+<field name="datetime">7/5/2019 23:09:33</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball With Chris Matthews</field>
+<field name="showid">MSNBCW_20190705_230000_Hardball_With_Chris_Matthews</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190705_230000_Hardball_With_Chris_Matthews/MSNBCW_20190705_230000_Hardball_With_Chris_Matthews.thumbs/MSNBCW_20190705_230000_Hardball_With_Chris_Matthews_000540.jpg</field>
+<field name="snippet">warren, booker, buttigieg, and many of the other 20-plus candidates weigh in on impeachment, immigration, climate change, abortion, and what each of the candidates say this election is truly about. is it just about beating trump or it is something more?</field>
+</doc>
+</add>

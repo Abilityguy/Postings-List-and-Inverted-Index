@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_060000_Breakfast#start/2006/end/2041</field>
+<field name="datetime">1/16/2020 6:33:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20200116_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_060000_Breakfast/BBCNEWS_20200116_060000_Breakfast.thumbs/BBCNEWS_20200116_060000_Breakfast_006749.jpg</field>
+<field name="snippet">about our plans for covering climate change in 2020, at bbc.co.uk/news or on the bbc news app. time now to get the news, travel and weather where you are. good morning. yesterday, we had a brief respite in the conditions,</field>
+</doc>
+</add>

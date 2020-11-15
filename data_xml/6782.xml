@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_200000_World_News_Today#start/693/end/728</field>
+<field name="datetime">9/20/2019 20:11:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190920_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_200000_World_News_Today/BBCNEWS_20190920_200000_World_News_Today.thumbs/BBCNEWS_20190920_200000_World_News_Today_000688.jpg</field>
+<field name="snippet">away from climate change, let's see what other stories are hitting the headlines around the world. a prominent pakistani human rights activist, gulalai ismail, has fled to the us after months in hiding. she is seeking political asylum after receiving death threats. ms ismail is an outspoken critic of human rights abuses,</field>
+</doc>
+</add>

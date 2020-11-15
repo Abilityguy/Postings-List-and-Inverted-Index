@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201312.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20131218_090000_The_Five#start/1061/end/1096</field>
+<field name="datetime">12/18/2013 9:17:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20131218_090000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20131218_090000_The_Five/FOXNEWSW_20131218_090000_The_Five.thumbs/FOXNEWSW_20131218_090000_The_Five_001035.jpg</field>
+<field name="snippet">$125000 for nasa to develop a pizza that can be printed in 3-d. $390000 for nasa to produce a cartoon series that teaches kids about greg's favorite subject global warming.</field>
+</doc>
+</add>

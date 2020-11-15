@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_020000_BBC_News#start/130/end/165</field>
+<field name="datetime">12/3/2018 2:02:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181203_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_020000_BBC_News/BBCNEWS_20181203_020000_BBC_News.thumbs/BBCNEWS_20181203_020000_BBC_News_000117.jpg</field>
+<field name="snippet">freshly dug at a mine, one of many here in southern poland at the centre of arguments over what to do about global warming. ok, so we're on our way down. and i'm starting to feel the air pressure on my ears now. we arrive in an underworld, nearly one kilometre down.</field>
+</doc>
+</add>

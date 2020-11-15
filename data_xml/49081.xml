@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201908.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190823_000000_All_In_With_Chris_Hayes#start/604/end/639</field>
+<field name="datetime">8/23/2019 0:10:19</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20190823_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190823_000000_All_In_With_Chris_Hayes/MSNBCW_20190823_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20190823_000000_All_In_With_Chris_Hayes_000600.jpg</field>
+<field name="snippet">says to those coal miners and the men and women who work on the oil rigs, you are not our enemy. you're working to feed your family. i am programs the strongest pro union, pro worker member of the congress. those people are not my enemy. what is my enemy is climate change, and we have a very, very strong approach to make sure that those workers get trained</field>
+</doc>
+</add>

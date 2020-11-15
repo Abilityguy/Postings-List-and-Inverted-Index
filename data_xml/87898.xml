@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191220_000000_Newsday#start/260/end/295</field>
+<field name="datetime">12/20/2019 0:04:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191220_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191220_000000_Newsday/BBCNEWS_20191220_000000_Newsday.thumbs/BBCNEWS_20191220_000000_Newsday_000238.jpg</field>
+<field name="snippet">that heat the planet - but it's a big earner, and the australian government lobbied hard in the un climate talks last week to protect the industry, and many australians support that view. i'm not so sure that climate change is responsible for what we're experiencing here.</field>
+</doc>
+</add>

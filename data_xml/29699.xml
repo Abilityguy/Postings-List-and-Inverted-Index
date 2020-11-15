@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201905.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190512_160000_Weekends_With_Alex_Witt#start/3332/end/3367</field>
+<field name="datetime">5/12/2019 16:55:47</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20190512_160000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190512_160000_Weekends_With_Alex_Witt/MSNBCW_20190512_160000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20190512_160000_Weekends_With_Alex_Witt_003328.jpg</field>
+<field name="snippet">jonathan? actually, they've passed a whole series of bills on health care, climate change and a lot of other things just in the last few weeks. they can walk and chew gum at the same time and they're showing it. now, those bills are not going to become law because they're going to die in the senate.</field>
+</doc>
+</add>

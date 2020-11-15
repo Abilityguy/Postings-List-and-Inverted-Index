@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190219_110000_BBC_Newsroom_Live#start/6341/end/6376</field>
+<field name="datetime">2/19/2019 12:45:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190219_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190219_110000_BBC_Newsroom_Live/BBCNEWS_20190219_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190219_110000_BBC_Newsroom_Live_006329.jpg</field>
+<field name="snippet">effectively we are having more british food on more british plates and not less, and you look at the challenges with climate change, air miles and everything else, it makes sense that we focus on farmers' ability to care for the environment</field>
+</doc>
+</add>

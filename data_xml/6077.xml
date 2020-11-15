@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190911_000000_Newsday#start/754/end/789</field>
+<field name="datetime">9/11/2019 0:12:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190911_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190911_000000_Newsday/BBCNEWS_20190911_000000_Newsday.thumbs/BBCNEWS_20190911_000000_Newsday_000749.jpg</field>
+<field name="snippet">three revolutions. one, a revolution in understanding. we need to understand the risks of climate change on society. two, we need a revolution in planning. all climate</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201111.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20111114_110000_Morning_Joe#start/6171/end/6206</field>
+<field name="datetime">11/14/2011 12:43:06</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20111114_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20111114_110000_Morning_Joe/MSNBCW_20111114_110000_Morning_Joe.thumbs/MSNBCW_20111114_110000_Morning_Joe_006147.jpg</field>
+<field name="snippet">skeptics had raised valid issues that required addressing. what did you find? well, we studied four different effects that people thought might have affected the previous claims of global warming. one of them is whether heating</field>
+</doc>
+</add>

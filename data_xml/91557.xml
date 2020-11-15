@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191214_170000_Americas_News_HQ#start/2232/end/2267</field>
+<field name="datetime">12/14/2019 17:37:27</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20191214_170000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191214_170000_Americas_News_HQ/FOXNEWSW_20191214_170000_Americas_News_HQ.thumbs/FOXNEWSW_20191214_170000_Americas_News_HQ_002218.jpg</field>
+<field name="snippet">ahead we go into a complex campaign issue, the climate. 2020 democrats continue to introduce costly plans for climate change. first the green new deal and now michael bloomberg is vowing to shut down all coal plants in</field>
+</doc>
+</add>

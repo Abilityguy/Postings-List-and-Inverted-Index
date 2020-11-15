@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201505.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150528_170000_MSNBC_Live_With_Thomas_Roberts#start/1655/end/1690</field>
+<field name="datetime">5/28/2015 17:27:50</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Thomas Roberts</field>
+<field name="showid">MSNBCW_20150528_170000_MSNBC_Live_With_Thomas_Roberts</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150528_170000_MSNBC_Live_With_Thomas_Roberts/MSNBCW_20150528_170000_MSNBC_Live_With_Thomas_Roberts.thumbs/MSNBCW_20150528_170000_MSNBC_Live_With_Thomas_Roberts_001635.jpg</field>
+<field name="snippet">extreme weather events like hurricanes are becoming more powerful. when you combine storms with sea, that's recipe for devastating floods. climate change didn't cause hurricane sandy, but may have</field>
+</doc>
+</add>

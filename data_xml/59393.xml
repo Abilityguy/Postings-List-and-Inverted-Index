@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201106.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110607_070000_The_Last_Word#start/3468/end/3503</field>
+<field name="datetime">6/7/2011 7:58:03</field>
+<field name="station">MSNBC</field>
+<field name="show">The Last Word</field>
+<field name="showid">MSNBC_20110607_070000_The_Last_Word</field>
+<field name="preview">https://archive.org/download/MSNBC_20110607_070000_The_Last_Word/MSNBC_20110607_070000_The_Last_Word.thumbs/MSNBC_20110607_070000_The_Last_Word_003450.jpg</field>
+<field name="snippet">we heard last tim pawlenty say some brave words about ethanol. in new hampshire we heard mitt romney acknowledge the reality of global climate change and the need to at least begin to think creatively and do something about it.</field>
+</doc>
+</add>

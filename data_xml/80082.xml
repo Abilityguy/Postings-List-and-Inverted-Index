@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191121_050000_Tucker_Carlson_Tonight#start/18/end/53</field>
+<field name="datetime">11/21/2019 5:00:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20191121_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191121_050000_Tucker_Carlson_Tonight/FOXNEWSW_20191121_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20191121_050000_Tucker_Carlson_Tonight_000028.jpg</field>
+<field name="snippet">shannon: welcome back to 'fox news @ night' live special expended coverage. i am shannon bream in washington. this year you will hear from some of the 2020 democratic presidential candidates themselves as the fifth primary debate is now in the book spread climate change and health insurance, top topics. defense, not so much.</field>
+</doc>
+</add>

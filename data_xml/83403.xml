@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191010_120000_BBC_News_at_One#start/928/end/963</field>
+<field name="datetime">10/10/2019 12:15:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20191010_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191010_120000_BBC_News_at_One/BBCNEWS_20191010_120000_BBC_News_at_One.thumbs/BBCNEWS_20191010_120000_BBC_News_at_One_000928.jpg</field>
+<field name="snippet">seen a sharp drop in the amount of sugar being eaten, but today's report wants a tax on sweet, milky drinks and the phasing out of advertising of all unhealthy food. it says only bold measures will stop children from drowning in a flood of unhealthy food options. sophie hutchinson, bbc news. a climate change activist has been arrested on board a flight</field>
+</doc>
+</add>

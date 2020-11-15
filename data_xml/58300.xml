@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181128_003000_HARDtalk#start/0/end/33</field>
+<field name="datetime">11/28/2018 0:30:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">HARDtalk</field>
+<field name="showid">BBCNEWS_20181128_003000_HARDtalk</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181128_003000_HARDtalk/BBCNEWS_20181128_003000_HARDtalk.thumbs/BBCNEWS_20181128_003000_HARDtalk_000058.jpg</field>
+<field name="snippet">our top story: greenhouse gas emissions reached a record high last year. a new un report says efforts to tackle climate change are way off track. it warns that global temperatures will rise to dangerous levels unless countries radically revise their targets for cutting greenhouse gases. indonesian authorities are set to release the preliminary findings</field>
+</doc>
+</add>

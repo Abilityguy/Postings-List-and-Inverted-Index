@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.202001.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20200119_120000_MSNBC_Live#start/2951/end/2986</field>
+<field name="datetime">1/19/2020 12:49:26</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20200119_120000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20200119_120000_MSNBC_Live/MSNBCW_20200119_120000_MSNBC_Live.thumbs/MSNBCW_20200119_120000_MSNBC_Live_002938.jpg</field>
+<field name="snippet">hottest decade on record. what that's telling us is that climate change is happening. the predictions are reasonably accurate. it's hot and it's getting hotter. so you write that measuring the temperatures of the oceans is a challenge for scientists. why is that? right. the ocean is very large.</field>
+</doc>
+</add>

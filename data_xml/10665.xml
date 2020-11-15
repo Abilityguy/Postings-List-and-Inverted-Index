@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_220000_BBC_News#start/227/end/262</field>
+<field name="datetime">8/8/2019 22:04:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190808_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_220000_BBC_News/BBCNEWS_20190808_220000_BBC_News.thumbs/BBCNEWS_20190808_220000_BBC_News_000209.jpg</field>
+<field name="snippet">so what we choose to put on our plate helps define what the carbon footprint and the level of greenhouse gases is in the atmosphere, so that choice between broccoli and ribs on your plate actually has a real link to the level of global warming</field>
+</doc>
+</add>

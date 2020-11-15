@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190417_130000_Afternoon_Live#start/4169/end/4204</field>
+<field name="datetime">4/17/2019 14:09:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190417_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190417_130000_Afternoon_Live/BBCNEWS_20190417_130000_Afternoon_Live.thumbs/BBCNEWS_20190417_130000_Afternoon_Live_004168.jpg</field>
+<field name="snippet">climate change protesters have caused gridlock across london for a third day, around a dozen people have been carried to police vans at oxford circus, after they refused to comply with a public order direction by the police to leave the area. protestors have blocked busy roads, and some demonstrators glued themselves to the top of a train at ca nary wharf.</field>
+</doc>
+</add>

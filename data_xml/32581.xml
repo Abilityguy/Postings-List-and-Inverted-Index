@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201211.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121114_210000_Your_World_With_Neil_Cavuto#start/2466/end/2501</field>
+<field name="datetime">11/14/2012 21:41:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20121114_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121114_210000_Your_World_With_Neil_Cavuto/FOXNEWSW_20121114_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20121114_210000_Your_World_With_Neil_Cavuto_002458.jpg</field>
+<field name="snippet">neil: al gore is advocating that this of all times for carbon tax to fix the fiscal cliff and deal with our environmental problems and john stossel is fine with that. perfectly.</field>
+</doc>
+</add>

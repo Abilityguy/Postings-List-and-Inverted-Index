@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190809_010000_BBC_News#start/1352/end/1387</field>
+<field name="datetime">8/9/2019 1:22:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190809_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190809_010000_BBC_News/BBCNEWS_20190809_010000_BBC_News.thumbs/BBCNEWS_20190809_010000_BBC_News_001349.jpg</field>
+<field name="snippet">scientists say altering our diets to become more plant-based could dramatically reduce emissions - with one quarter of greenhouse gases coming from food production. us immigration officials have</field>
+</doc>
+</add>

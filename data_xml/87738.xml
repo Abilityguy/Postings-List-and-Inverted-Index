@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191216_030000_BBC_News#start/826/end/861</field>
+<field name="datetime">12/16/2019 3:14:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191216_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191216_030000_BBC_News/BBCNEWS_20191216_030000_BBC_News.thumbs/BBCNEWS_20191216_030000_BBC_News_000807.jpg</field>
+<field name="snippet">the latest headlines: critics have attacked a compromise deal on tackling climate change. they say the un summit in madrid failed the people and the planet. violence in the indian capital, delhi, as protesters say a new citizenship law discriminates against muslims.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190317_000000_Watters_World#start/1998/end/2033</field>
+<field name="datetime">3/17/2019 0:33:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Watters World</field>
+<field name="showid">FOXNEWSW_20190317_000000_Watters_World</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190317_000000_Watters_World/FOXNEWSW_20190317_000000_Watters_World.thumbs/FOXNEWSW_20190317_000000_Watters_World_001979.jpg</field>
+<field name="snippet">jesse: alexandria ocasio-cortez cautioning millennials about climate change and posing the question about whether people should be having more kid. but the movement reaches further than d.c. women in great britain refusing</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191110_110000_BBC_News#start/1542/end/1577</field>
+<field name="datetime">11/10/2019 11:25:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191110_110000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191110_110000_BBC_News/BBCNEWS_20191110_110000_BBC_News.thumbs/BBCNEWS_20191110_110000_BBC_News_001528.jpg</field>
+<field name="snippet">prime minister scott morrison had dodged questions about climate change when he was visiting areas that have been affected by bushfires in new south wales. at least three people have been killed, and the authorities fear that number will rise. broadcasters are so high temperatures and strong winds will</field>
+</doc>
+</add>

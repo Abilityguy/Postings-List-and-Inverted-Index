@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_090000_BBC_News_at_9#start/1287/end/1322</field>
+<field name="datetime">1/16/2020 9:21:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20200116_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_090000_BBC_News_at_9/BBCNEWS_20200116_090000_BBC_News_at_9.thumbs/BBCNEWS_20200116_090000_BBC_News_at_9_001287.jpg</field>
+<field name="snippet">let's get more now on that warning from the naturalist and broadcaster, sir david attenborough , who said 'the moment of crisis has come' in efforts to tackle climate change. in an exclusive interview with our science editor david shukman, to mark the start</field>
+</doc>
+</add>

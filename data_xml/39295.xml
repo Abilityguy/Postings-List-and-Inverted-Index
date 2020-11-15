@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201206.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120622_070000_Red_Eye#start/1109/end/1144</field>
+<field name="datetime">6/22/2012 7:18:44</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWSW_20120622_070000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120622_070000_Red_Eye/FOXNEWSW_20120622_070000_Red_Eye.thumbs/FOXNEWSW_20120622_070000_Red_Eye_001110.jpg</field>
+<field name="snippet">if you can do it universally, i have no problem. i have about a minute. jedediah, i think do they have climate change, this is</field>
+</doc>
+</add>

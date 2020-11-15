@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201702.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170213_000000_Newsday#start/480/end/515</field>
+<field name="datetime">2/13/2017 0:08:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20170213_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170213_000000_Newsday/BBCNEWS_20170213_000000_Newsday.thumbs/BBCNEWS_20170213_000000_Newsday_000478.jpg</field>
+<field name="snippet">the areas hit by fires are a long way from sydney, the state capital, where thousands of people have flocked to the beaches to cool off. while bushfires are not uncommon in australia's arid summer, climate change has pushed up average land and sea temperatures over the past century.</field>
+</doc>
+</add>

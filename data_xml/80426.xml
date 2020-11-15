@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190423_210000_The_Five#start/2436/end/2471</field>
+<field name="datetime">4/23/2019 21:40:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20190423_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190423_210000_The_Five/FOXNEWSW_20190423_210000_The_Five.thumbs/FOXNEWSW_20190423_210000_The_Five_002429.jpg</field>
+<field name="snippet">you have to fight something like global warming. you declare victory and no one knows and no one can keep count of who's winning and losing. global warming is not something that you need to fight. it's not something you can even</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191223_020000_BBC_News#start/269/end/304</field>
+<field name="datetime">12/23/2019 2:04:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191223_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191223_020000_BBC_News/BBCNEWS_20191223_020000_BBC_News.thumbs/BBCNEWS_20191223_020000_BBC_News_000268.jpg</field>
+<field name="snippet">the prime ministers got morrison appearing for the first time after fierce criticism of his holiday in hawaii, consider that more needed to be done to tackle global warming. with scientist saying dry conditions brought about by climate change have</field>
+</doc>
+</add>

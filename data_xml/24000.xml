@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201411.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141118_230000_Special_Report_With_Bret_Baier#start/285/end/320</field>
+<field name="datetime">11/18/2014 23:05:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20141118_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141118_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20141118_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20141118_230000_Special_Report_With_Bret_Baier_000285.jpg</field>
+<field name="snippet">the most important environmental issue or jobs issue out there and the president has said all along his position has been this is a sidebar issue, the big deal things he's doing on the climate change or the epa regulars or the agreement with china.</field>
+</doc>
+</add>

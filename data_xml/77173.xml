@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191104_050000_The_Briefing#start/73/end/108</field>
+<field name="datetime">11/4/2019 5:01:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20191104_050000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191104_050000_The_Briefing/BBCNEWS_20191104_050000_The_Briefing.thumbs/BBCNEWS_20191104_050000_The_Briefing_000058.jpg</field>
+<field name="snippet">a warm welcome to the programme - briefing you on all you need to know in global news, business and sport. also in the programme the climate change activist</field>
+</doc>
+</add>

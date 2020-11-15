@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200102_170000_BBC_News_at_Five#start/386/end/421</field>
+<field name="datetime">1/2/2020 17:06:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20200102_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200102_170000_BBC_News_at_Five/BBCNEWS_20200102_170000_BBC_News_at_Five.thumbs/BBCNEWS_20200102_170000_BBC_News_at_Five_000388.jpg</field>
+<field name="snippet">scott morrison saying, we are only a tiny contributor to global warming, a percentage point or so. the answer is that as a developed country, australia like britain and america has been pumping out greenhouse</field>
+</doc>
+</add>

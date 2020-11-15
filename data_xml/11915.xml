@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190815_000000_Newsday#start/1120/end/1155</field>
+<field name="datetime">8/15/2019 0:18:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190815_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190815_000000_Newsday/BBCNEWS_20190815_000000_Newsday.thumbs/BBCNEWS_20190815_000000_Newsday_001109.jpg</field>
+<field name="snippet">leaders from 18 countries are meeting for the pacific islands forum in tuvalu - a country often described as being on the front line of climate change. smaller nations are putting pressure on australia to move away from coal-powered energy and take more action on reducing emissions.</field>
+</doc>
+</add>

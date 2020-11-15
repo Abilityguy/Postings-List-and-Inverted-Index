@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201601.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160126_200000_MSNBC_Live_With_Kate_Snow#start/5735/end/5770</field>
+<field name="datetime">1/26/2016 21:35:50</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Kate Snow</field>
+<field name="showid">MSNBCW_20160126_200000_MSNBC_Live_With_Kate_Snow</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160126_200000_MSNBC_Live_With_Kate_Snow/MSNBCW_20160126_200000_MSNBC_Live_With_Kate_Snow.thumbs/MSNBCW_20160126_200000_MSNBC_Live_With_Kate_Snow_005728.jpg</field>
+<field name="snippet">what do you think of climate change, and the response is usually, well, i don't know, i'm not a scientist. honestly, the quickest answer to that is, go talk to one! go to luther college. you'll find people who can explain climate change to you and tell you what's going on in</field>
+</doc>
+</add>

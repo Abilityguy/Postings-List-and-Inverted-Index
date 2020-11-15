@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200121_110000_BBC_Newsroom_Live#start/1244/end/1279</field>
+<field name="datetime">1/21/2020 11:20:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20200121_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200121_110000_BBC_Newsroom_Live/BBCNEWS_20200121_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20200121_110000_BBC_Newsroom_Live_001228.jpg</field>
+<field name="snippet">begin in the united states, starting with a very itchy portrait of the us economy and how it has flourished under his leadership. he then went on to talk about climate change and spoke of the importance of ignoring</field>
+</doc>
+</add>

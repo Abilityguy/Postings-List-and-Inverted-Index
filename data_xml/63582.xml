@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190315_020000_BBC_News#start/1068/end/1103</field>
+<field name="datetime">3/15/2019 2:18:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190315_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190315_020000_BBC_News/BBCNEWS_20190315_020000_BBC_News.thumbs/BBCNEWS_20190315_020000_BBC_News_001049.jpg</field>
+<field name="snippet">climate change in cathedral square. that has now been cleared, we understand. there are reports again, we cannot confirm, of a second mosque being evacuated. this quote from the police commissioner, mike bushell, 'a serious and evolving situation is occurring in christchurch with an active shooter. the police have full capability to manage this situation, but the risk environment remains extremely high.' all people are asked to stay</field>
+</doc>
+</add>

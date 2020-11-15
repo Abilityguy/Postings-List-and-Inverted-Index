@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200101_080000_Breakfast#start/373/end/408</field>
+<field name="datetime">1/1/2020 8:06:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20200101_080000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200101_080000_Breakfast/BBCNEWS_20200101_080000_Breakfast.thumbs/BBCNEWS_20200101_080000_Breakfast_001798.jpg</field>
+<field name="snippet">let's look at the front pages. the daily mail leads on a warning from prince william, who says humanity risks irreparably damaging the earth through climate change. there's also a picture of prince harry with his son archie.</field>
+</doc>
+</add>

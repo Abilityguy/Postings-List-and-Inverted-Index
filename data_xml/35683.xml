@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201904.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190416_040000_The_Rachel_Maddow_Show#start/2697/end/2732</field>
+<field name="datetime">4/16/2019 4:45:12</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBCW_20190416_040000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190416_040000_The_Rachel_Maddow_Show/MSNBCW_20190416_040000_The_Rachel_Maddow_Show.thumbs/MSNBCW_20190416_040000_The_Rachel_Maddow_Show_002697.jpg</field>
+<field name="snippet">we're dealing with kids in cages and we have to deal with climate change and all these pressing, burning issues? one of the things i'm trying to have us have a conversation about is what are the conditions that made this moment, this presidency possible? one of the them i think is a fraying in the social cohesion we experience.</field>
+</doc>
+</add>

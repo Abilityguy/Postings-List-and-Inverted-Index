@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180915_200000_World_News_Today#start/574/end/609</field>
+<field name="datetime">9/15/2018 20:09:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20180915_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180915_200000_World_News_Today/BBCNEWS_20180915_200000_World_News_Today.thumbs/BBCNEWS_20180915_200000_World_News_Today_000567.jpg</field>
+<field name="snippet">a satellite designed to measure changes in the world's ice sheets and provide precise information on how they are being eroded by global warming. the billion dollar project will put a satellite almost directly over the north and south poles and from there it will fire a laser at sea and land ice to take measurements. professor helen? fricker?from</field>
+</doc>
+</add>

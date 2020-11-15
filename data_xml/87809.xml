@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191230_210000_World_News_Today#start/1410/end/1445</field>
+<field name="datetime">12/30/2019 21:23:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20191230_210000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191230_210000_World_News_Today/BBCNEWS_20191230_210000_World_News_Today.thumbs/BBCNEWS_20191230_210000_World_News_Today_001407.jpg</field>
+<field name="snippet">action on climate change. mishal husain went to stockholm to meet her. she's the girl who galvanised children to go on strike from school, and people of all ages to march, pushing for more action to control a warming world.</field>
+</doc>
+</add>

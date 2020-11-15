@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181124_080000_Breakfast#start/294/end/329</field>
+<field name="datetime">11/24/2018 8:05:09</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181124_080000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181124_080000_Breakfast/BBCNEWS_20181124_080000_Breakfast.thumbs/BBCNEWS_20181124_080000_Breakfast_000268.jpg</field>
+<field name="snippet">see what happens in parliament. climate change will cost the us hundreds of billions of dollars by the end of the centrury, according to a major government report. it says human health and agriculture are seriously at risk, and the poor will suffer most. the white house has dismissed the findings as inaccurate. here's our north america correspondent, james cook.</field>
+</doc>
+</add>

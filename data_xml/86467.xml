@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191223_020000_BBC_News#start/490/end/525</field>
+<field name="datetime">12/23/2019 2:08:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191223_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191223_020000_BBC_News/BBCNEWS_20191223_020000_BBC_News.thumbs/BBCNEWS_20191223_020000_BBC_News_000478.jpg</field>
+<field name="snippet">his words, they could be economic crunching of australia's economy so mr morrison acknowledging that link between global warming and extreme weather events, but not willing to shift australia's climate change policies. phil massa in sydney,</field>
+</doc>
+</add>

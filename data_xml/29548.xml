@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201905.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190505_230000_Kasie_DC#start/2213/end/2248</field>
+<field name="datetime">5/5/2019 23:37:08</field>
+<field name="station">MSNBC</field>
+<field name="show">Kasie DC</field>
+<field name="showid">MSNBCW_20190505_230000_Kasie_DC</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190505_230000_Kasie_DC/MSNBCW_20190505_230000_Kasie_DC.thumbs/MSNBCW_20190505_230000_Kasie_DC_002188.jpg</field>
+<field name="snippet">republicans working together to address climate change, to address the fact we're here in the low country, we see it front and center. we see it in downtown charleston, flooding. paris island in our district is</field>
+</doc>
+</add>

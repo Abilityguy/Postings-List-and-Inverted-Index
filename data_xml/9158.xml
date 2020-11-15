@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190803_040000_Tucker_Carlson_Tonight#start/2058/end/2093</field>
+<field name="datetime">8/3/2019 4:34:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190803_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190803_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190803_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190803_040000_Tucker_Carlson_Tonight_002039.jpg</field>
+<field name="snippet">carley leading mr. hemmer by one. prince harry of great britain is very concerned about climate change. so concerned he recently told reporters he's going to limit the number of children he has with his wife to how many? carley? two!</field>
+</doc>
+</add>

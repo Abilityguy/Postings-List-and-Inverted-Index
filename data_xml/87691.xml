@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191206_220000_BBC_News_at_Ten#start/778/end/813</field>
+<field name="datetime">12/6/2019 22:13:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20191206_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191206_220000_BBC_News_at_Ten/BBCNEWS_20191206_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20191206_220000_BBC_News_at_Ten_000778.jpg</field>
+<field name="snippet">i'm depressed about is the fact there was no debate about climate change which is the big issue. whether the performances tonight persuaded people or put off, the ultimate verdict will be in less than a week. alex forsyth, bbc news,</field>
+</doc>
+</add>

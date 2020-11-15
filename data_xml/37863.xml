@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091028_060000_Glenn_Beck#start/3134/end/3169</field>
+<field name="datetime">10/28/2009 6:52:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20091028_060000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091028_060000_Glenn_Beck/FOXNEWS_20091028_060000_Glenn_Beck.thumbs/FOXNEWS_20091028_060000_Glenn_Beck_003090.jpg</field>
+<field name="snippet">clip of our politicians, because if you're talking about global climate change, we have to have clean energy but the only clean energy the world has ever discovered is what? nuclear energy. nuclear energy is the only thing that can ow power us the</field>
+</doc>
+</add>

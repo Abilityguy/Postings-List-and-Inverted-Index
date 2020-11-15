@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_000000_Newsday#start/1716/end/1751</field>
+<field name="datetime">12/3/2018 0:28:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20181203_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_000000_Newsday/BBCNEWS_20181203_000000_Newsday.thumbs/BBCNEWS_20181203_000000_Newsday_001707.jpg</field>
+<field name="snippet">i'm kasia madera with bbc news. our top story: global warming is posing a greater threat to humanity than ever before, that's according to the un. their climate chief said that mankind was 'in danger of disappearing' if temperatures continued to rise. patricia espinosa was speaking at the start</field>
+</doc>
+</add>

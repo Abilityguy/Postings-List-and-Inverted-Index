@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201312.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20131214_190000_MSNBC_Live#start/4671/end/4706</field>
+<field name="datetime">12/14/2013 20:18:06</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20131214_190000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20131214_190000_MSNBC_Live/MSNBCW_20131214_190000_MSNBC_Live.thumbs/MSNBCW_20131214_190000_MSNBC_Live_004665.jpg</field>
+<field name="snippet">app designed to promote carpooling. i want people to use this application and become more knowledgeable and aware of global warming. reporter: an upcoming product launch and a fan page. nearly 40000 on facebook follow</field>
+</doc>
+</add>

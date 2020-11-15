@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190510_050000_Breakfast#start/4050/end/4085</field>
+<field name="datetime">5/10/2019 6:07:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190510_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190510_050000_Breakfast/BBCNEWS_20190510_050000_Breakfast.thumbs/BBCNEWS_20190510_050000_Breakfast_004048.jpg</field>
+<field name="snippet">a new research centre at the university of cambridge will look into some potentially bold and radical solutions to global warming and see if they actually work. so what sort of theories will they be testing? one idea is to have boats spray sea water into the clouds above the polar icecaps to reflect sunlight away. another is to develop forests of artificial trees to absorb carbon</field>
+</doc>
+</add>

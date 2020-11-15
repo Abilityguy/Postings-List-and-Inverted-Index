@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090919_090000_The_OReilly_Factor#start/2049/end/2084</field>
+<field name="datetime">9/19/2009 9:34:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20090919_090000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090919_090000_The_OReilly_Factor/FOXNEWS_20090919_090000_The_OReilly_Factor.thumbs/FOXNEWS_20090919_090000_The_OReilly_Factor_002036.jpg</field>
+<field name="snippet">now, number 10 on our list is carol browner, bill clinton's former epa administrator ond now assistant to president obama for energy and climate change. the 'washington times' reports that as recently as december</field>
+</doc>
+</add>

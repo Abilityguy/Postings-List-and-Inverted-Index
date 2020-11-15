@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181210_010000_Newsday#start/975/end/1010</field>
+<field name="datetime">12/10/2018 1:16:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20181210_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181210_010000_Newsday/BBCNEWS_20181210_010000_Newsday.thumbs/BBCNEWS_20181210_010000_Newsday_000958.jpg</field>
+<field name="snippet">to be recovering well. the annual un climate change conference takes place in poland, and trouble is brewing for the world's beer drinkers. climate change is set to cause dramatic price increases and supply shortages, according to new research. extreme heatwaves and droughts</field>
+</doc>
+</add>

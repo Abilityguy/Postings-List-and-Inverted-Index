@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201309.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130918_150000_Happening_Now#start/2186/end/2221</field>
+<field name="datetime">9/18/2013 15:36:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20130918_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130918_150000_Happening_Now/FOXNEWSW_20130918_150000_Happening_Now.thumbs/FOXNEWSW_20130918_150000_Happening_Now_002175.jpg</field>
+<field name="snippet">a hearing on the obama administration's policies on climate change is also underway. coming on the heels of the new report suggesting that global warming claims have been exaggerated. a lot of topics there. a busy day in washington and a big day on wall street with a</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201901.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190103_010000_All_In_With_Chris_Hayes#start/49/end/84</field>
+<field name="datetime">1/3/2019 1:01:04</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20190103_010000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190103_010000_All_In_With_Chris_Hayes/MSNBCW_20190103_010000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20190103_010000_All_In_With_Chris_Hayes_000028.jpg</field>
+<field name="snippet">romney's preemptive attack. he was enfordorsining me. i wasn't enforcing him. as elizabeth warren enters the fray -- so i'm in this fight all the way. tonight, my interview with another democratic presidential hopeful, putting climate change</field>
+</doc>
+</add>

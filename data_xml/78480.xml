@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201508.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150807_170000_Happening_Now#start/1514/end/1549</field>
+<field name="datetime">8/7/2015 17:25:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20150807_170000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150807_170000_Happening_Now/FOXNEWSW_20150807_170000_Happening_Now.thumbs/FOXNEWSW_20150807_170000_Happening_Now_001515.jpg</field>
+<field name="snippet">governor brown saying greenhouse gases a issue. he is seeking to have policies outside of the state, john. five people injured in southeast alabama after a tornado hit a gas station and</field>
+</doc>
+</add>

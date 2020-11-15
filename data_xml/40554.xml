@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201602.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160228_070000_Red_Eye#start/1494/end/1529</field>
+<field name="datetime">2/28/2016 7:25:09</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWSW_20160228_070000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160228_070000_Red_Eye/FOXNEWSW_20160228_070000_Red_Eye.thumbs/FOXNEWSW_20160228_070000_Red_Eye_001467.jpg</field>
+<field name="snippet">he said if he wins best supporting actor, his speech will address climate change, social injustice and income inequality. sounds like a fun night. one actor who is almost certain</field>
+</doc>
+</add>

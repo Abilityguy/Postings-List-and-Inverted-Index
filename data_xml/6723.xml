@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190904_230000_Newsday#start/1361/end/1396</field>
+<field name="datetime">9/4/2019 23:22:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190904_230000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190904_230000_Newsday/BBCNEWS_20190904_230000_Newsday.thumbs/BBCNEWS_20190904_230000_Newsday_001348.jpg</field>
+<field name="snippet">and it's raising the level of oceans around the globe. they say climate change is accelerating the rate of melting and that will increasingly threaten millions of people living in coastal cities and low lying areas. our science editor david shukman has the second of his two special reports from greenland.</field>
+</doc>
+</add>

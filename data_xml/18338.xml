@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201311.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20131104_000000_FOX_Report#start/1396/end/1431</field>
+<field name="datetime">11/4/2013 0:23:31</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report</field>
+<field name="showid">FOXNEWSW_20131104_000000_FOX_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20131104_000000_FOX_Report/FOXNEWSW_20131104_000000_FOX_Report.thumbs/FOXNEWSW_20131104_000000_FOX_Report_001395.jpg</field>
+<field name="snippet">other wind sources won't cut it by themselves. we took a look at this with peter in washington. nuclear energy may be the most important weapon human kind has to fight dangerous climate</field>
+</doc>
+</add>

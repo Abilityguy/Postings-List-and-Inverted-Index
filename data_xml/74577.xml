@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200114_040000_BBC_News#start/258/end/293</field>
+<field name="datetime">1/14/2020 4:04:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200114_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200114_040000_BBC_News/BBCNEWS_20200114_040000_BBC_News.thumbs/BBCNEWS_20200114_040000_BBC_News_000238.jpg</field>
+<field name="snippet">bbc news, sandringham. british scientists have issued a grim warning about what the australia fires may be telling us about global warming. they say the fires would be normal in a world where temperatures have risen by three degrees celsius. and already the world's average temperature has risen by one point one degrees above temperature has risen by 1.1 one degrees</field>
+</doc>
+</add>

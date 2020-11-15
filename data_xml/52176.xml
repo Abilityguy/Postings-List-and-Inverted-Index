@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181201_000000_BBC_News#start/220/end/255</field>
+<field name="datetime">12/1/2018 0:03:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181201_000000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181201_000000_BBC_News/BBCNEWS_20181201_000000_BBC_News.thumbs/BBCNEWS_20181201_000000_BBC_News_000208.jpg</field>
+<field name="snippet">of the capital this afternoon are demanding a fairer world and action on climate change. but donald trump marches to another beat, much more concerned about american business and american exports. and few people hold out much hope of a dramatic breakthrough</field>
+</doc>
+</add>

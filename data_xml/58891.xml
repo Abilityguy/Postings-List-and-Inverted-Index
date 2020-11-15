@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181122_000000_Newsday#start/1432/end/1467</field>
+<field name="datetime">11/22/2018 0:24:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20181122_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181122_000000_Newsday/BBCNEWS_20181122_000000_Newsday.thumbs/BBCNEWS_20181122_000000_Newsday_001408.jpg</field>
+<field name="snippet">to represent the hundreds of millions of people around the world whose lives are about to be affected, or have already been affected, by climate change, so that it will sit there to remind politicians that this is not</field>
+</doc>
+</add>

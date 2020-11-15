@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190122_220000_BBC_News_at_Ten#start/1368/end/1403</field>
+<field name="datetime">1/22/2019 22:23:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20190122_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190122_220000_BBC_News_at_Ten/BBCNEWS_20190122_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20190122_220000_BBC_News_at_Ten_001348.jpg</field>
+<field name="snippet">with sir david attenborough at a gathering of international leaders and businesspeople in the swiss resort of davos. sir david told the prince it was difficult to overstate the urgency needed to tackle climate change. david, recently, you were in poland and you spoke very</field>
+</doc>
+</add>

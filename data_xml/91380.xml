@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190627_040000_Tucker_Carlson_Tonight#start/3258/end/3293</field>
+<field name="datetime">6/27/2019 4:54:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190627_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190627_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190627_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190627_040000_Tucker_Carlson_Tonight_003237.jpg</field>
+<field name="snippet">of washington state, jay inslee saying he was disappointed that climate change didn't give enough attention tonight but he felt like he had a good night. you have a julian castro saying that he had a good night. cory booker, elizabeth warren kind of held her own.</field>
+</doc>
+</add>

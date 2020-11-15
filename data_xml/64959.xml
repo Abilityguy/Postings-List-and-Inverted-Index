@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190305_050000_Tucker_Carlson_Tonight#start/1883/end/1918</field>
+<field name="datetime">3/5/2019 5:31:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190305_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190305_050000_Tucker_Carlson_Tonight/FOXNEWSW_20190305_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190305_050000_Tucker_Carlson_Tonight_001857.jpg</field>
+<field name="snippet">like, this is our world war ii. tucker: fighting global warming is as important as liberating the world from the nazis. aoc says that.</field>
+</doc>
+</add>

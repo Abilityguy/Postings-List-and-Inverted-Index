@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201010.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101027_150000_Happening_Now#start/5390/end/5425</field>
+<field name="datetime">10/27/2010 16:30:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20101027_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101027_150000_Happening_Now/FOXNEWS_20101027_150000_Happening_Now.thumbs/FOXNEWS_20101027_150000_Happening_Now_005391.jpg</field>
+<field name="snippet">the nation, the global warming solutions act from taking effect in january virtually for good. it requires motorists and manufacturers to cut emissions by 25-40 percent, to 1990 levels, and supporters of prop 23 say</field>
+</doc>
+</add>

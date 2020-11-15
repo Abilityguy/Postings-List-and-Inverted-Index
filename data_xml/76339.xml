@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190527_080000_BBC_News_Special#start/2832/end/2867</field>
+<field name="datetime">5/27/2019 8:47:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News Special</field>
+<field name="showid">BBCNEWS_20190527_080000_BBC_News_Special</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190527_080000_BBC_News_Special/BBCNEWS_20190527_080000_BBC_News_Special.thumbs/BBCNEWS_20190527_080000_BBC_News_Special_002817.jpg</field>
+<field name="snippet">what's happening across europe, there is a green wave. similar pattern across europe, decline of the two big parties, people wanting more choice and people recognising the climate crisis is full square upon us. we have 11 years to turn</field>
+</doc>
+</add>

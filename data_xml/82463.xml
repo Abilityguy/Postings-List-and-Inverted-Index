@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201509.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150922_220000_Special_Report_With_Bret_Baier#start/167/end/202</field>
+<field name="datetime">9/22/2015 22:03:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20150922_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150922_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20150922_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20150922_220000_Special_Report_With_Bret_Baier_000165.jpg</field>
+<field name="snippet">agenda. reporter: white house officials say with 15000 people on the south lawn there is no way to tell who will be in the crowd. we should focus on the president's message which should mirror areas of agreement with the holy father including combatting poverty and fighting climate change.</field>
+</doc>
+</add>

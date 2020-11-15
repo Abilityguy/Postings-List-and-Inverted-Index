@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_000000_Newsday#start/73/end/108</field>
+<field name="datetime">12/3/2018 0:01:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20181203_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_000000_Newsday/BBCNEWS_20181203_000000_Newsday.thumbs/BBCNEWS_20181203_000000_Newsday_000057.jpg</field>
+<field name="snippet">it's 8am here in singapore, midnight in london, and 1am in the polish city of katowitsa, where just a few hours ago, the united nations gave a stark warning about climate change. patricia espinosa opened the latest gathering,</field>
+</doc>
+</add>

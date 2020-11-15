@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091019_000000_Huckabee#start/897/end/932</field>
+<field name="datetime">10/19/2009 0:15:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Huckabee</field>
+<field name="showid">FOXNEWS_20091019_000000_Huckabee</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091019_000000_Huckabee/FOXNEWS_20091019_000000_Huckabee.thumbs/FOXNEWS_20091019_000000_Huckabee_000870.jpg</field>
+<field name="snippet">industries? sure, well, governor, obviously, we can disagree on whether climate change is in fact occurring, but i think the measure of any good policy is is it a good idea for many other reasons as well and i think what we need to focus on</field>
+</doc>
+</add>

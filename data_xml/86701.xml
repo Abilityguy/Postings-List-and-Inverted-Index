@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191202_190000_Beyond_100_Days#start/1048/end/1083</field>
+<field name="datetime">12/2/2019 19:17:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20191202_190000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191202_190000_Beyond_100_Days/BBCNEWS_20191202_190000_Beyond_100_Days.thumbs/BBCNEWS_20191202_190000_Beyond_100_Days_001048.jpg</field>
+<field name="snippet">but how many times do we have to hear this? there are calls in madrid for dramatic action in the next year. the aim, to tackle rising global greenhouse gas emissions and achieve carbon neutrality by 2050. 0ur science editor david shukman is there.</field>
+</doc>
+</add>

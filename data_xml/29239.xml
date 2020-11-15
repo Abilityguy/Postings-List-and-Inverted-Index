@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201604.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160403_030000_Red_Eye#start/3218/end/3253</field>
+<field name="datetime">4/3/2016 3:53:53</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWSW_20160403_030000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160403_030000_Red_Eye/FOXNEWSW_20160403_030000_Red_Eye.thumbs/FOXNEWSW_20160403_030000_Red_Eye_003207.jpg</field>
+<field name="snippet">president obama visited anchorage and gave a speech. it proves this one threat is now very much in the present. he wasn't referring to a military threat. human activity is disrupting the climate. he was talking about climate</field>
+</doc>
+</add>

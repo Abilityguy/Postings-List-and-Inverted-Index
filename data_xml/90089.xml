@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200910.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091009_200000_MSNBC_News_Live#start/170/end/205</field>
+<field name="datetime">10/9/2009 20:03:05</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091009_200000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091009_200000_MSNBC_News_Live/MSNBC_20091009_200000_MSNBC_News_Live.thumbs/MSNBC_20091009_200000_MSNBC_News_Live_000146.jpg</field>
+<field name="snippet">new spirit of engagement of the world's biggest problems. climate change, nuclear disarmame disarmament, and the wide range of challenges. in less than a year, he</field>
+</doc>
+</add>

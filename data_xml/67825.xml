@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190213_000000_Newsday#start/1132/end/1167</field>
+<field name="datetime">2/13/2019 0:19:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190213_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190213_000000_Newsday/BBCNEWS_20190213_000000_Newsday.thumbs/BBCNEWS_20190213_000000_Newsday_001108.jpg</field>
+<field name="snippet">as people across the world continue to celebrate the new lunar year of the pig, environmental campaigners are urging people in china to eat less pork. but why? china consumes more meat than any other country and, according to the un food and agriculture organisation, that has helped make it the world's biggest emitter of greenhouse gases. joining us on the line</field>
+</doc>
+</add>

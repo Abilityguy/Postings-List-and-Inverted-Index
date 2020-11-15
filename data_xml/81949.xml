@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201403.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140310_200000_NOW_With_Alex_Wagner#start/1002/end/1037</field>
+<field name="datetime">3/10/2014 20:16:57</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20140310_200000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140310_200000_NOW_With_Alex_Wagner/MSNBCW_20140310_200000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20140310_200000_NOW_With_Alex_Wagner_000975.jpg</field>
+<field name="snippet">everybody who thinks it's warming, i can find who thinks it isn't. it's unclear whether somebody are actual scientists. nasa, comprised of scientists notes broad consensus regarding global warming and cites more science showing 20 warmest years</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201001.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100129_110000_Morning_Joe#start/981/end/1016</field>
+<field name="datetime">1/29/2010 11:16:36</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20100129_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20100129_110000_Morning_Joe/MSNBC_20100129_110000_Morning_Joe.thumbs/MSNBC_20100129_110000_Morning_Joe_000953.jpg</field>
+<field name="snippet">audiotape said to be the voice of osama bin laden. nbc has not confirmed if it was recorded by bin laden. he blames the united states and other industrialized nations for climate change. he's getting into climate change. oh, that's a good way to</field>
+</doc>
+</add>

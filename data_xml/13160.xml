@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201101.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110102_110000_FOX_and_Friends_Sunday#start/1379/end/1414</field>
+<field name="datetime">1/2/2011 11:23:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWS_20110102_110000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110102_110000_FOX_and_Friends_Sunday/FOXNEWS_20110102_110000_FOX_and_Friends_Sunday.thumbs/FOXNEWS_20110102_110000_FOX_and_Friends_Sunday_001380.jpg</field>
+<field name="snippet">and doug schoen. they recognize that americans have grown more skeptical about global warming. and the numbers from 71% to 56% believing in it, indicating the degree of</field>
+</doc>
+</add>

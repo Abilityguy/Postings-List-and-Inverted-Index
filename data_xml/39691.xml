@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091121_100000_The_OReilly_Factor#start/3474/end/3509</field>
+<field name="datetime">11/21/2009 10:58:09</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20091121_100000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091121_100000_The_OReilly_Factor/FOXNEWS_20091121_100000_The_OReilly_Factor.thumbs/FOXNEWS_20091121_100000_The_OReilly_Factor_003470.jpg</field>
+<field name="snippet">if it's hot, it's global warming, if there's a volcano or earthquake it's global warming. there's nothing that doesn't protch it's global warming. -- that doesn't prove it's global warming. it's called the weather where i come from. it's a big planet. and there's always extreme</field>
+</doc>
+</add>

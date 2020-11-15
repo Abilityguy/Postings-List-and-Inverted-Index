@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191108_100000_Fox_and_Friends_First#start/499/end/534</field>
+<field name="datetime">11/8/2019 10:08:34</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20191108_100000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191108_100000_Fox_and_Friends_First/FOXNEWSW_20191108_100000_Fox_and_Friends_First.thumbs/FOXNEWSW_20191108_100000_Fox_and_Friends_First_000480.jpg</field>
+<field name="snippet">bloomberg has been spending on issues like climate change and gun-control. he's not some sort of right-wing or conservative democrat or anything like this, a pretty</field>
+</doc>
+</add>

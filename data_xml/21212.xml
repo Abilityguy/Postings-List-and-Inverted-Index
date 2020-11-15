@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180902_200000_World_News_Today#start/783/end/818</field>
+<field name="datetime">9/2/2018 20:13:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20180902_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180902_200000_World_News_Today/BBCNEWS_20180902_200000_World_News_Today.thumbs/BBCNEWS_20180902_200000_World_News_Today_000777.jpg</field>
+<field name="snippet">this is bbc world news today. the latest headlines: delegates are arriving in bangkok for climate-change talks</field>
+</doc>
+</add>

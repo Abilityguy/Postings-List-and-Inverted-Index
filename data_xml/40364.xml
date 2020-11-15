@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201907.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190721_100000_MSNBC_Live#start/3225/end/3260</field>
+<field name="datetime">7/21/2019 10:54:00</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20190721_100000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190721_100000_MSNBC_Live/MSNBCW_20190721_100000_MSNBC_Live.thumbs/MSNBCW_20190721_100000_MSNBC_Live_003208.jpg</field>
+<field name="snippet">the chief of staff came out recently the green new deal is not about climate change, it is about restructuring our economy. what they want to do is a massive departure from who we have been as people. that's the debate.</field>
+</doc>
+</add>

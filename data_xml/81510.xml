@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091207_140000_Morning_Meeting#start/192/end/227</field>
+<field name="datetime">12/7/2009 14:03:27</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Meeting</field>
+<field name="showid">MSNBC_20091207_140000_Morning_Meeting</field>
+<field name="preview">https://archive.org/download/MSNBC_20091207_140000_Morning_Meeting/MSNBC_20091207_140000_Morning_Meeting.thumbs/MSNBC_20091207_140000_Morning_Meeting_000121.jpg</field>
+<field name="snippet">different papers on 45 nations on this earth, including 'the miami herald,' have issued a common editorial calling for action. but a scandal over hacked e-mails at the same time is calling the entire idea of global warming into question. those e-mails suggesting that scientists, at least some of them, may have fudged climate</field>
+</doc>
+</add>

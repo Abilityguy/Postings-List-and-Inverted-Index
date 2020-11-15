@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201103.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110330_220000_MSNBC_Live#start/1416/end/1451</field>
+<field name="datetime">3/30/2011 22:23:51</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBC_20110330_220000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20110330_220000_MSNBC_Live/MSNBC_20110330_220000_MSNBC_Live.thumbs/MSNBC_20110330_220000_MSNBC_Live_001405.jpg</field>
+<field name="snippet">and all of this is going on while congress debates whether or not the environmental protection agency should be regulating power plants and industrial facilities under the clean air act and whether or not they should be regulating greenhouse gas emissions.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_130000_Afternoon_Live#start/0/end/31</field>
+<field name="datetime">10/8/2018 13:00:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20181008_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_130000_Afternoon_Live/BBCNEWS_20181008_130000_Afternoon_Live.thumbs/BBCNEWS_20181008_130000_Afternoon_Live_000058.jpg</field>
+<field name="snippet">hello, you're watching afternoon live - i'm rebecca jones. today at 2. a planet in peril: scientists issue their starkest warning yet, about the dangers of climate change and the battle</field>
+</doc>
+</add>

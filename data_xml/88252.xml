@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191222_220000_BBC_News#start/777/end/812</field>
+<field name="datetime">12/22/2019 22:13:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191222_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191222_220000_BBC_News/BBCNEWS_20191222_220000_BBC_News.thumbs/BBCNEWS_20191222_220000_BBC_News_000777.jpg</field>
+<field name="snippet">the connection between these weather events and these broader fire events and the impact globally of climate change. i get it that people would have been upset to know that i was holidaying with my family while their families were under great stress. they know that i'm not going to stand there and hold a hose,</field>
+</doc>
+</add>

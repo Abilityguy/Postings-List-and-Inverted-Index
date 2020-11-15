@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190819_050000_Breakfast#start/569/end/604</field>
+<field name="datetime">8/19/2019 5:09:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190819_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190819_050000_Breakfast/BBCNEWS_20190819_050000_Breakfast.thumbs/BBCNEWS_20190819_050000_Breakfast_000567.jpg</field>
+<field name="snippet">very small compared with the rest of the world, really. the nfu has committed to going carbon zero x 2040. if that happens, it will play a part in limiting the most catastrophic effect of climate</field>
+</doc>
+</add>

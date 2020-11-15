@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091203_110000_FOX_and_Friends#start/1615/end/1650</field>
+<field name="datetime">12/3/2009 11:27:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091203_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091203_110000_FOX_and_Friends/FOXNEWS_20091203_110000_FOX_and_Friends.thumbs/FOXNEWS_20091203_110000_FOX_and_Friends_001611.jpg</field>
+<field name="snippet">collapse. brian: couldn't fit in global warming. tucker carlson, thanks so much. thanks. steve: a fox news alert. the co-defendant in the amanda knox trial just spoke in court. the jury gets ready to decide</field>
+</doc>
+</add>

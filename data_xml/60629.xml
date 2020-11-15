@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_130000_Afternoon_Live#start/5229/end/5264</field>
+<field name="datetime">10/8/2018 14:27:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20181008_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_130000_Afternoon_Live/BBCNEWS_20181008_130000_Afternoon_Live.thumbs/BBCNEWS_20181008_130000_Afternoon_Live_005218.jpg</field>
+<field name="snippet">this is bbc news - our latest headlines: -- our latest headlines: a major un report on climate change says there must be 'unprecedented' changes in how people live - if catastrophic shifts in the climate are to be avoided. it says the consequences of letting temperatures rise by more than 1.5 degrees celsius will be dire -  _</field>
+</doc>
+</add>

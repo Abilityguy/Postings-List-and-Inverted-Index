@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181012_184500_Newswatch#start/324/end/359</field>
+<field name="datetime">10/12/2018 18:50:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newswatch</field>
+<field name="showid">BBCNEWS_20181012_184500_Newswatch</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181012_184500_Newswatch/BBCNEWS_20181012_184500_Newswatch.thumbs/BBCNEWS_20181012_184500_Newswatch_000297.jpg</field>
+<field name="snippet">thank you for coming to newswatch. can you just sum up what exactly is the policy on giving airtime to climate change deniers now? i think the policy is clear that the science is settled on climate change - it exists, there is no debate around that. so we're not going to create a false balance or a flase equivalence</field>
+</doc>
+</add>

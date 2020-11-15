@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201109.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20110901_100000_FOX_and_Friends#start/10125/end/10160</field>
+<field name="datetime">9/1/2011 12:49:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20110901_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20110901_100000_FOX_and_Friends/FOXNEWSW_20110901_100000_FOX_and_Friends.thumbs/FOXNEWSW_20110901_100000_FOX_and_Friends_010107.jpg</field>
+<field name="snippet">earth is flat, you hate black people. what? steve: yeah. he said that climate change skeptics will be viewed in the same light as racists were once upon a time. with him there is no gray area.</field>
+</doc>
+</add>

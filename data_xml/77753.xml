@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191106_090000_BBC_News_at_Nine#start/2975/end/3010</field>
+<field name="datetime">11/6/2019 9:49:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20191106_090000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191106_090000_BBC_News_at_Nine/BBCNEWS_20191106_090000_BBC_News_at_Nine.thumbs/BBCNEWS_20191106_090000_BBC_News_at_Nine_002968.jpg</field>
+<field name="snippet">issue and the report says governments and the public must do more to tackle the causes of climate change. they neat the growing protest movement does offer hope. but as scientists warn of a changing</field>
+</doc>
+</add>

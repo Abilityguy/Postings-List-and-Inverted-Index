@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091008_040000_Hannity#start/1852/end/1887</field>
+<field name="datetime">10/8/2009 4:31:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20091008_040000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091008_040000_Hannity/FOXNEWS_20091008_040000_Hannity.thumbs/FOXNEWS_20091008_040000_Hannity_001794.jpg</field>
+<field name="snippet">anncr: accidents are bad. anncr: but geico's good. with emergency road service. sean: one japanese airline gets creative in its fight against climate change. according to -- use the            _</field>
+</doc>
+</add>

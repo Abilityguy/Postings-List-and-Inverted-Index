@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_110000_FOX_and_Friends#start/2744/end/2779</field>
+<field name="datetime">12/18/2009 11:45:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091218_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_110000_FOX_and_Friends/FOXNEWS_20091218_110000_FOX_and_Friends.thumbs/FOXNEWS_20091218_110000_FOX_and_Friends_002690.jpg</field>
+<field name="snippet">gretchen: brendan, let me talk to you about the perception worldwide on this situation now. now we've had the president, who did go to copenhagen so he's showing the world that america does care from his point of view, about climate change. and yet you have this little climategate situation with these</field>
+</doc>
+</add>

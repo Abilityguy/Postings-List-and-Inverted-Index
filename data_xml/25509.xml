@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201407.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140702_150000_Happening_Now#start/1088/end/1123</field>
+<field name="datetime">7/2/2014 15:18:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20140702_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140702_150000_Happening_Now/FOXNEWSW_20140702_150000_Happening_Now.thumbs/FOXNEWSW_20140702_150000_Happening_Now_001065.jpg</field>
+<field name="snippet">out of their homes. nasa launching a new satellite into space this morning. the mission, tracking levels of carbon dioxide in the atmosphere and studying the process of so-called global warming. jon: new developments to tell you about on the surge of</field>
+</doc>
+</add>

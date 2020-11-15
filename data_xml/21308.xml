@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180915_060000_Breakfast#start/1965/end/2000</field>
+<field name="datetime">9/15/2018 6:33:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20180915_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180915_060000_Breakfast/BBCNEWS_20180915_060000_Breakfast.thumbs/BBCNEWS_20180915_060000_Breakfast_001948.jpg</field>
+<field name="snippet">of earth's ice cover. the satellite mission, called icesat-2, should provide more precise information on the effects of climate change. antarctica, greenland and the ice floating on the arctic ocean have all lost volume in recent decades. we should get some clues about what</field>
+</doc>
+</add>

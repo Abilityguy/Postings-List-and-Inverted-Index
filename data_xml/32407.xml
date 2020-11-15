@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201205.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120521_150000_Happening_Now#start/6523/end/6558</field>
+<field name="datetime">5/21/2012 16:48:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20120521_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120521_150000_Happening_Now/FOXNEWSW_20120521_150000_Happening_Now.thumbs/FOXNEWSW_20120521_150000_Happening_Now_006510.jpg</field>
+<field name="snippet">they have so many protests going on, or so many people are upset about so many things, things from the afghan war to climate change to economic inequality and that sort of thing, eupts kind of a mixed bag of messages and you don't really know what they stand</field>
+</doc>
+</add>

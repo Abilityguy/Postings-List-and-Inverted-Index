@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181227_063000_Review_2018#start/547/end/582</field>
+<field name="datetime">12/27/2018 6:39:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Review 2018</field>
+<field name="showid">BBCNEWS_20181227_063000_Review_2018</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181227_063000_Review_2018/BBCNEWS_20181227_063000_Review_2018.thumbs/BBCNEWS_20181227_063000_Review_2018_000538.jpg</field>
+<field name="snippet">of the most worrying report we've ever had on the impact of climate change. scientists warned that it was now or never to save the planet, and they called for drastic action to keep global temperature rises to within 1.5 celsius.</field>
+</doc>
+</add>

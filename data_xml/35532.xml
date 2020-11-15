@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201904.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190411_220000_The_Beat_With_Ari_Melber#start/726/end/761</field>
+<field name="datetime">4/11/2019 22:12:21</field>
+<field name="station">MSNBC</field>
+<field name="show">The Beat With Ari Melber</field>
+<field name="showid">MSNBCW_20190411_220000_The_Beat_With_Ari_Melber</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190411_220000_The_Beat_With_Ari_Melber/MSNBCW_20190411_220000_The_Beat_With_Ari_Melber.thumbs/MSNBCW_20190411_220000_The_Beat_With_Ari_Melber_000719.jpg</field>
+<field name="snippet">jay inslee talking about climate change. i'm ari melber. you're watching 'the beat.' re we dr. scholl's kiosk. it recommends our best custom fit orthotic to relieve foot, knee, or lower back pain.</field>
+</doc>
+</add>

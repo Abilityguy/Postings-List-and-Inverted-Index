@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201905.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190503_140000_MSNBC_Live_With_Hallie_Jackson#start/2859/end/2894</field>
+<field name="datetime">5/3/2019 14:47:54</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Hallie Jackson</field>
+<field name="showid">MSNBCW_20190503_140000_MSNBC_Live_With_Hallie_Jackson</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190503_140000_MSNBC_Live_With_Hallie_Jackson/MSNBCW_20190503_140000_MSNBC_Live_With_Hallie_Jackson.thumbs/MSNBCW_20190503_140000_MSNBC_Live_With_Hallie_Jackson_002850.jpg</field>
+<field name="snippet">let's take a look at his plan. it would essentially mobilize $5 trillion over 10 years to combat climate change. it would call for rejoining the paris climate agreement. set net zero emissions carbon</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100216_000000_The_FOX_Report_With_Shepard_Smith#start/3093/end/3128</field>
+<field name="datetime">2/16/2010 0:51:48</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The FOX Report With Shepard Smith</field>
+<field name="showid">FOXNEWS_20100216_000000_The_FOX_Report_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100216_000000_The_FOX_Report_With_Shepard_Smith/FOXNEWS_20100216_000000_The_FOX_Report_With_Shepard_Smith.thumbs/FOXNEWS_20100216_000000_The_FOX_Report_With_Shepard_Smith_003082.jpg</field>
+<field name="snippet">issues including climate change and immigration. anita vogel with the news live in phoenix tonight. anita, mccain is still the frontrunner here but j.d. hayworth has pretty big name backers. hi there, shep. they both have pretty big name</field>
+</doc>
+</add>

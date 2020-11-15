@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201603.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160304_220000_MTP_Daily#start/1555/end/1590</field>
+<field name="datetime">3/4/2016 22:26:10</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20160304_220000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160304_220000_MTP_Daily/MSNBCW_20160304_220000_MTP_Daily.thumbs/MSNBCW_20160304_220000_MTP_Daily_001528.jpg</field>
+<field name="snippet">talks about a broad range of issues, how are we going to deal with climate change, how will we deal with our economy, that america should have health care for all, and free public tuition, snows he's hardly a one-issue candidate.</field>
+</doc>
+</add>

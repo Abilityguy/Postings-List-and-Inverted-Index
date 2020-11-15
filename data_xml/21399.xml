@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100109_000000_The_FOX_Report_With_Shepard_Smith#start/2667/end/2702</field>
+<field name="datetime">1/9/2010 0:44:42</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The FOX Report With Shepard Smith</field>
+<field name="showid">FOXNEWS_20100109_000000_The_FOX_Report_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100109_000000_The_FOX_Report_With_Shepard_Smith/FOXNEWS_20100109_000000_The_FOX_Report_With_Shepard_Smith.thumbs/FOXNEWS_20100109_000000_The_FOX_Report_With_Shepard_Smith_002460.jpg</field>
+<field name="snippet">and then we're going to figure out who to blame or we're going to make big changes and they are coming and the details as we know them are coming up. fox news weather alert and man, it is cold outside. hello, climate change.</field>
+</doc>
+</add>

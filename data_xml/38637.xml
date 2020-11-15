@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201011.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101114_120000_FOX_and_Friends_Sunday#start/6287/end/6322</field>
+<field name="datetime">11/14/2010 13:45:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWS_20101114_120000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101114_120000_FOX_and_Friends_Sunday/FOXNEWS_20101114_120000_FOX_and_Friends_Sunday.thumbs/FOXNEWS_20101114_120000_FOX_and_Friends_Sunday_006270.jpg</field>
+<field name="snippet">global warming is real, but the way al gore presented it is scary and the little kids worried about their future. that's a very bad place to be if we want to make good, smart decisions. if the icebergs are melted and coastal cities are going</field>
+</doc>
+</add>

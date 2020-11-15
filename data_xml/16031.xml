@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201310.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20131002_100000_FOX_and_Friends#start/6031/end/6066</field>
+<field name="datetime">10/2/2013 11:40:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20131002_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20131002_100000_FOX_and_Friends/FOXNEWSW_20131002_100000_FOX_and_Friends.thumbs/FOXNEWSW_20131002_100000_FOX_and_Friends_006015.jpg</field>
+<field name="snippet">or everybody talks about climate change and carbon dioxide, but it's actually nitrogen. steve: job well done. thank you. let's take a quick look at the weather conditions across parts of the northeast and the rest of the country because we're actually look at very warm temperatures in the northeast.</field>
+</doc>
+</add>

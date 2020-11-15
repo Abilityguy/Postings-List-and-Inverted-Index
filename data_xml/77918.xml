@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191116_060000_Breakfast#start/5598/end/5633</field>
+<field name="datetime">11/16/2019 7:33:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191116_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191116_060000_Breakfast/BBCNEWS_20191116_060000_Breakfast.thumbs/BBCNEWS_20191116_060000_Breakfast_005577.jpg</field>
+<field name="snippet">democrats and the conservatives have pledged to plant more trees in an effort to tackle climate change, if they win the general election. emergency crews have worked through the night, to tackle a fire at a student block of flats in greater manchester.</field>
+</doc>
+</add>

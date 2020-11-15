@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_110000_BBC_Newsroom_Live#start/1509/end/1544</field>
+<field name="datetime">1/17/2020 11:25:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20200117_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_110000_BBC_Newsroom_Live/BBCNEWS_20200117_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20200117_110000_BBC_Newsroom_Live_001498.jpg</field>
+<field name="snippet">an international summit on climate change is due to take place here in november, and the world will be watching what this city does. let's talk about glasgow summer with</field>
+</doc>
+</add>

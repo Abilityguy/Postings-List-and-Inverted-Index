@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180912_160000_Outnumbered#start/630/end/665</field>
+<field name="datetime">9/12/2018 16:10:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Outnumbered</field>
+<field name="showid">FOXNEWSW_20180912_160000_Outnumbered</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180912_160000_Outnumbered/FOXNEWSW_20180912_160000_Outnumbered.thumbs/FOXNEWSW_20180912_160000_Outnumbered_000627.jpg</field>
+<field name="snippet">it's too early for headlines, you look at the 'washington post,' the op ed about president trump saying another hurricane is about to batter our coast. trump is complicit. it goes on to talk about climate change.</field>
+</doc>
+</add>

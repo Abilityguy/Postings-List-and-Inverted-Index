@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181029_213000_BBC_World_News_America#start/877/end/912</field>
+<field name="datetime">10/29/2018 21:44:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC World News America</field>
+<field name="showid">BBCNEWS_20181029_213000_BBC_World_News_America</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181029_213000_BBC_World_News_America/BBCNEWS_20181029_213000_BBC_World_News_America.thumbs/BBCNEWS_20181029_213000_BBC_World_News_America_000867.jpg</field>
+<field name="snippet">trains could soon be making their way around the globe, as governments look for ways to meet climate-change targets. the technology is considered to be one of the cleanest and most efficient of power sources around.</field>
+</doc>
+</add>

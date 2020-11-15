@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151211_200000_MSNBC_Live_With_Kate_Snow#start/2164/end/2199</field>
+<field name="datetime">12/11/2015 20:36:19</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Kate Snow</field>
+<field name="showid">MSNBCW_20151211_200000_MSNBC_Live_With_Kate_Snow</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151211_200000_MSNBC_Live_With_Kate_Snow/MSNBCW_20151211_200000_MSNBC_Live_With_Kate_Snow.thumbs/MSNBCW_20151211_200000_MSNBC_Live_With_Kate_Snow_004365.jpg</field>
+<field name="snippet">and this money, for people who don't know, the u.n. green climate fund. explain what that is. it's to help support nations that are at the receiving end of the damage of climate change, but didn't have the big fossil fuel economic growth that we</field>
+</doc>
+</add>

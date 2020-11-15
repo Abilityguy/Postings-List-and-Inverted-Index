@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181216_030000_BBC_News#start/913/end/948</field>
+<field name="datetime">12/16/2018 3:15:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181216_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181216_030000_BBC_News/BBCNEWS_20181216_030000_BBC_News.thumbs/BBCNEWS_20181216_030000_BBC_News_000898.jpg</field>
+<field name="snippet">there is certainly quite a bit of conflict. i think this is one of the conferences, climate change, where we saw much more up in the air, a 2-week conference, still far too many square bracketed</field>
+</doc>
+</add>

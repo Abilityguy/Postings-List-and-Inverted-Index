@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201510.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151014_100000_FOX__Friends#start/4717/end/4752</field>
+<field name="datetime">10/14/2015 11:18:52</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20151014_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151014_100000_FOX__Friends/FOXNEWSW_20151014_100000_FOX__Friends.thumbs/FOXNEWSW_20151014_100000_FOX__Friends_004695.jpg</field>
+<field name="snippet">the scientific community is telling us if we do not address the global crisis of climate change, transform our energy system away from fossil fuel, to sustainable energy the planet that we're going to be leaving our kids and our grandchildren may well not be habitable. that is a major crisis.</field>
+</doc>
+</add>

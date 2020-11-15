@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190626_020000_BBC_News#start/456/end/491</field>
+<field name="datetime">6/26/2019 2:07:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190626_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190626_020000_BBC_News/BBCNEWS_20190626_020000_BBC_News.thumbs/BBCNEWS_20190626_020000_BBC_News_000448.jpg</field>
+<field name="snippet">even if current global targets are met, climate change will have a devastating impact. hong kong's legislative council is due to debate and vote on a motion of no-confidence against the administration of its chief executive carrie lam.</field>
+</doc>
+</add>

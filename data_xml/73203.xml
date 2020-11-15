@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190124_100000_Victoria_Derbyshire#start/2253/end/2288</field>
+<field name="datetime">1/24/2019 10:37:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20190124_100000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190124_100000_Victoria_Derbyshire/BBCNEWS_20190124_100000_Victoria_Derbyshire.thumbs/BBCNEWS_20190124_100000_Victoria_Derbyshire_002249.jpg</field>
+<field name="snippet">and is responsible for thousands of deaths each year. today, the government is to say drug-resistant superbugs are as big a threat as climate change. and to tackle this they're unveiling a new five year plan to deal with the issue.</field>
+</doc>
+</add>

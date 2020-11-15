@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190419_083000_Weather_World#start/463/end/498</field>
+<field name="datetime">4/19/2019 8:37:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20190419_083000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190419_083000_Weather_World/BBCNEWS_20190419_083000_Weather_World.thumbs/BBCNEWS_20190419_083000_Weather_World_000449.jpg</field>
+<field name="snippet">the scale of the devastation here led many to ask about the role of climate change. in fact, the frequency of tropical cyclones in this area has decreased slightly in recent decades, but the evidence shows that more of those that do form are becoming stronger.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_220000_BBC_News#start/319/end/354</field>
+<field name="datetime">10/8/2018 22:05:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181008_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_220000_BBC_News/BBCNEWS_20181008_220000_BBC_News.thumbs/BBCNEWS_20181008_220000_BBC_News_000297.jpg</field>
+<field name="snippet">dietary choices, about what we choose to eat. around the conference centre, new skyscrapers and highways crawling with traffic. all this relies on fossil fuels. and, like many development around the world, it will be incredibly hard to change. the scientists here have mapped out a way of minimising global warming. we'll now see what everyone makes of it.</field>
+</doc>
+</add>

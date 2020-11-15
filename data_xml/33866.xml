@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091207_180000_The_Live_Desk#start/188/end/223</field>
+<field name="datetime">12/7/2009 18:03:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Live Desk</field>
+<field name="showid">FOXNEWS_20091207_180000_The_Live_Desk</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091207_180000_The_Live_Desk/FOXNEWS_20091207_180000_The_Live_Desk.thumbs/FOXNEWS_20091207_180000_The_Live_Desk_000173.jpg</field>
+<field name="snippet">the white house wanted to have a signal before the president goes to copenhagen for the climate change conference, that there are tools that the administration will use if congress does not move quick</field>
+</doc>
+</add>

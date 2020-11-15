@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100215_110000_FOX_and_Friends#start/8899/end/8934</field>
+<field name="datetime">2/15/2010 13:28:34</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100215_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100215_110000_FOX_and_Friends/FOXNEWS_20100215_110000_FOX_and_Friends.thumbs/FOXNEWS_20100215_110000_FOX_and_Friends_008897.jpg</field>
+<field name="snippet">steve: okay. that global warming thing we heard b might have been a mistake. in fact, we haven't had global warming for the last 15 years. that is what a key scientist is now admitting. al gore just poured himself a large glass of malox.</field>
+</doc>
+</add>

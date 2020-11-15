@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201811.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181126_150000_MSNBC_Live_With_Hallie_Jackson#start/3199/end/3234</field>
+<field name="datetime">11/26/2018 15:53:34</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Hallie Jackson</field>
+<field name="showid">MSNBCW_20181126_150000_MSNBC_Live_With_Hallie_Jackson</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181126_150000_MSNBC_Live_With_Hallie_Jackson/MSNBCW_20181126_150000_MSNBC_Live_With_Hallie_Jackson.thumbs/MSNBCW_20181126_150000_MSNBC_Live_With_Hallie_Jackson_003178.jpg</field>
+<field name="snippet">-- century. president trump, a big proponent of fossil fuels -- we've ended the war on beautiful, clean coal. isn't convinced that global warming is a manmade phenomenon or that the planet will continue heating up.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180613_190000_BBC_News#start/2663/end/2698</field>
+<field name="datetime">6/13/2018 19:44:38</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180613_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180613_190000_BBC_News/BBCNEWS_20180613_190000_BBC_News.thumbs/BBCNEWS_20180613_190000_BBC_News_002637.jpg</field>
+<field name="snippet">you for talking to us. one in five of the uk's species of wild mammals face a high risk of extinction according to a major new study. the red squirrel, the water vole and the wildcat are all listed as facing severe threats to their survival due to climate change, loss of habitat or the use of pesticides. claire marshall has more.</field>
+</doc>
+</add>

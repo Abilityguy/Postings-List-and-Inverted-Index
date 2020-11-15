@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191110_150000_AM_Joy#start/1516/end/1551</field>
+<field name="datetime">11/10/2019 15:25:31</field>
+<field name="station">MSNBC</field>
+<field name="show">AM Joy</field>
+<field name="showid">MSNBCW_20191110_150000_AM_Joy</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191110_150000_AM_Joy/MSNBCW_20191110_150000_AM_Joy.thumbs/MSNBCW_20191110_150000_AM_Joy_001498.jpg</field>
+<field name="snippet">there is no question that everything we've been talking about in terms of everything from criminal justice reform to climate change to immigration, this is now really on the line. there is no guarantee that we are any closer than ever before and we may be further behind.</field>
+</doc>
+</add>

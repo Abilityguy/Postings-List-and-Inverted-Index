@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190906_220000_Special_Report_With_Bret_Baier#start/1847/end/1882</field>
+<field name="datetime">9/6/2019 22:31:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20190906_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190906_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20190906_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20190906_220000_Special_Report_With_Bret_Baier_001829.jpg</field>
+<field name="snippet">people here in new hampshire tonight on a chilly evening not wearing a jacket. no one on the staff has given them a jacket yet and he joked about how he was feeling cold before being confronted by an activist about global warming.</field>
+</doc>
+</add>

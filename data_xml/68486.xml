@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201309.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130910_210000_The_Five#start/3537/end/3572</field>
+<field name="datetime">9/10/2013 21:59:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20130910_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130910_210000_The_Five/FOXNEWSW_20130910_210000_The_Five.thumbs/FOXNEWSW_20130910_210000_The_Five_003525.jpg</field>
+<field name="snippet">these are news stories that the media ignores. global warming. yes, it's finally dead. according to a new study there's been a 60% increase amount of ocean covered with ice since last year.</field>
+</doc>
+</add>

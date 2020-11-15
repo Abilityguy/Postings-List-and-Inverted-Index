@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201011.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101125_030000_The_Last_Word#start/3001/end/3036</field>
+<field name="datetime">11/25/2010 3:50:16</field>
+<field name="station">MSNBC</field>
+<field name="show">The Last Word</field>
+<field name="showid">MSNBC_20101125_030000_The_Last_Word</field>
+<field name="preview">https://archive.org/download/MSNBC_20101125_030000_The_Last_Word/MSNBC_20101125_030000_The_Last_Word.thumbs/MSNBC_20101125_030000_The_Last_Word_003000.jpg</field>
+<field name="snippet">that often. what's your position on global warming, do you believe it's man made or not? there are man's activities that can be contributed to the issues that we're dealing with now with these impacts. i'm not going to solely blame all of man's activities on</field>
+</doc>
+</add>

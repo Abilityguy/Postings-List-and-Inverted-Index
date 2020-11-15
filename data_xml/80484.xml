@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190405_040000_Tucker_Carlson_Tonight#start/1489/end/1524</field>
+<field name="datetime">4/5/2019 4:25:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190405_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190405_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190405_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190405_040000_Tucker_Carlson_Tonight_001468.jpg</field>
+<field name="snippet">tucker: so bad they're running out of adjectives. so what's to blame for this world ending cataclysm? well, a new research paper has the answer. it is, you are not going to be surprised toxic masculinity that's causing global warming. the paper argues that being</field>
+</doc>
+</add>

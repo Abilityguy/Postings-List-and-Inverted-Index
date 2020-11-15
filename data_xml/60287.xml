@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181009_130000_Afternoon_Live#start/4965/end/5000</field>
+<field name="datetime">10/9/2018 14:23:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20181009_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181009_130000_Afternoon_Live/BBCNEWS_20181009_130000_Afternoon_Live.thumbs/BBCNEWS_20181009_130000_Afternoon_Live_004947.jpg</field>
+<field name="snippet">country that plays its part in meeting the global challenges of our age. climate change, automation, and ageing population, countering the forces of intolerance, how we respond to these challenges will</field>
+</doc>
+</add>

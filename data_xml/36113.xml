@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201912.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191217_200000_MSNBC_Live_With_Ali_Velshi#start/3067/end/3102</field>
+<field name="datetime">12/17/2019 20:51:22</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20191217_200000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191217_200000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20191217_200000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20191217_200000_MSNBC_Live_With_Ali_Velshi_003059.jpg</field>
+<field name="snippet">story, right? virtually no outliers, despite what some people will tell you. greenhouse gas emissions rose 1.5% a year over the past decade. global temperatures could rise 3.9% -- 3.9 degrees celsius over</field>
+</doc>
+</add>

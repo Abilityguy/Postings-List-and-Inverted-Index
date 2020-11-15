@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201805.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20180528_160000_Andrea_Mitchell_Reports#start/3457/end/3492</field>
+<field name="datetime">5/28/2018 16:57:52</field>
+<field name="station">MSNBC</field>
+<field name="show">Andrea Mitchell Reports</field>
+<field name="showid">MSNBCW_20180528_160000_Andrea_Mitchell_Reports</field>
+<field name="preview">https://archive.org/download/MSNBCW_20180528_160000_Andrea_Mitchell_Reports/MSNBCW_20180528_160000_Andrea_Mitchell_Reports.thumbs/MSNBCW_20180528_160000_Andrea_Mitchell_Reports_003448.jpg</field>
+<field name="snippet">my pet hermit crab. reporter: lehigh seems like any other 10-year-old, but this precocious science geek knows more about climate change than many adults. i worry about it basically every day. reporter: he's worried rising sea levels could mean his home</field>
+</doc>
+</add>

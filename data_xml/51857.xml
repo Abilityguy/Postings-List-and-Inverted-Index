@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181216_000000_BBC_News#start/207/end/242</field>
+<field name="datetime">12/16/2018 0:03:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181216_000000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181216_000000_BBC_News/BBCNEWS_20181216_000000_BBC_News.thumbs/BBCNEWS_20181216_000000_BBC_News_000207.jpg</field>
+<field name="snippet">like solar power. the deal in poland may encourage that. the world is responding to the threat of global warming but not nearly with the speed that scientists say is needed. just after the marathon talks ended i spoke to the eu's energy</field>
+</doc>
+</add>

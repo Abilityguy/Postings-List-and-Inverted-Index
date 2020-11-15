@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191026_100000_Fox_and_Friends_Saturday#start/2760/end/2795</field>
+<field name="datetime">10/26/2019 10:46:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20191026_100000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191026_100000_Fox_and_Friends_Saturday/FOXNEWSW_20191026_100000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20191026_100000_Fox_and_Friends_Saturday_002758.jpg</field>
+<field name="snippet">pete: quick headlines for you, ted danson arrested along hanoi jane fonda in washington, d.c. this is the third time the 81-year-old actress ended up in handcuffs at a climate change protest this month. are you bored yet? i am. both were arrested for unlawful demonstration after</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190207_040000_BBC_News#start/457/end/492</field>
+<field name="datetime">2/7/2019 4:07:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190207_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190207_040000_BBC_News/BBCNEWS_20190207_040000_BBC_News.thumbs/BBCNEWS_20190207_040000_BBC_News_000448.jpg</field>
+<field name="snippet">indeed for talking to us. ok, thank you. if you want to find out more about climate change and the latest predictions about global temperatures, just go to our website bbc.com/news, or download the bbc news app. president trump has predicted so-called islamic state will be defeated by next week,</field>
+</doc>
+</add>

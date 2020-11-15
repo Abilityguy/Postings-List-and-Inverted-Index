@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191209_100000_Victoria_Derbyshire#start/1854/end/1889</field>
+<field name="datetime">12/9/2019 10:31:09</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20191209_100000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191209_100000_Victoria_Derbyshire/BBCNEWS_20191209_100000_Victoria_Derbyshire.thumbs/BBCNEWS_20191209_100000_Victoria_Derbyshire_001827.jpg</field>
+<field name="snippet">this election really matters. what is at stake is notjust brexit but what sort of society we want to be, building a fairer society, taking action on climate change, investing in our public services and building</field>
+</doc>
+</add>

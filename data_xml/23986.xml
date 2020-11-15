@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201411.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141112_230000_Special_Report_With_Bret_Baier#start/464/end/499</field>
+<field name="datetime">11/12/2014 23:07:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20141112_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141112_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20141112_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20141112_230000_Special_Report_With_Bret_Baier_000465.jpg</field>
+<field name="snippet">drumming back home, president obama plunged into another executive action. this is a major milestone in the u.s.-china relationship. reporter: this time cutting a deal with chinese president xi jinping on climate change that, like many aspects of the state</field>
+</doc>
+</add>

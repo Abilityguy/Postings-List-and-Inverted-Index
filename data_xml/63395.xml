@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190331_100000_BBC_News#start/1603/end/1638</field>
+<field name="datetime">3/31/2019 10:26:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190331_100000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190331_100000_BBC_News/BBCNEWS_20190331_100000_BBC_News.thumbs/BBCNEWS_20190331_100000_BBC_News_001587.jpg</field>
+<field name="snippet">hong kong is renowned for its iconic skyline. but even here they sometimes have to turn out the lights. victoria harbour suddenly a lot less illuminated than normal. and the fight against climate change was the inspiration. we need to find a balance</field>
+</doc>
+</add>

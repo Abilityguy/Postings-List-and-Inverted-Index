@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190512_193000_The_Travel_Show#start/1171/end/1206</field>
+<field name="datetime">5/12/2019 19:49:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Travel Show</field>
+<field name="showid">BBCNEWS_20190512_193000_The_Travel_Show</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190512_193000_The_Travel_Show/BBCNEWS_20190512_193000_The_Travel_Show.thumbs/BBCNEWS_20190512_193000_The_Travel_Show_001168.jpg</field>
+<field name="snippet">so, i've been here trying to get a better understanding of how they're responding to climate change and how they might respond to future climate change. and how are they responding to climate change? so as the climate changes, temperatures are increasing, it's drying things out</field>
+</doc>
+</add>

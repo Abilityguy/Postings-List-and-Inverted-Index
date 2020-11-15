@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201903.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190317_220000_Meet_the_Press#start/1139/end/1174</field>
+<field name="datetime">3/17/2019 22:19:14</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20190317_220000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190317_220000_Meet_the_Press/MSNBCW_20190317_220000_Meet_the_Press.thumbs/MSNBCW_20190317_220000_Meet_the_Press_001139.jpg</field>
+<field name="snippet">climate change. when we have the weather coming down from mississippi coming down from minnesota where i have met with the weather experts, this stuff is happening and you have hurricanes battering florida and you have wildfires in colorado and california,</field>
+</doc>
+</add>

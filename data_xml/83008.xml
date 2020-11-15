@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191008_023000_The_Travel_Show#start/13/end/48</field>
+<field name="datetime">10/8/2019 2:30:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Travel Show</field>
+<field name="showid">BBCNEWS_20191008_023000_The_Travel_Show</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191008_023000_The_Travel_Show/BBCNEWS_20191008_023000_The_Travel_Show.thumbs/BBCNEWS_20191008_023000_The_Travel_Show_000028.jpg</field>
+<field name="snippet">called 'off limits.' thousands of climate change activists have begun two weeks of global protest. the campaign, coordinated by extinction rebellion, is pushing for more urgent government action to stop rising carbon emissions.</field>
+</doc>
+</add>

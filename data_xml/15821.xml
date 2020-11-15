@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201112.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111212_110000_FOX_and_Friends#start/919/end/954</field>
+<field name="datetime">12/12/2011 11:15:34</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20111212_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111212_110000_FOX_and_Friends/FOXNEWSW_20111212_110000_FOX_and_Friends.thumbs/FOXNEWSW_20111212_110000_FOX_and_Friends_000896.jpg</field>
+<field name="snippet">global climate change. both claim success. but why is stewart varney saying that both are complete failures? good morning to you, stu. i am saying that both are complete failures. let's start with europe, then, why is this a failure? what happened?</field>
+</doc>
+</add>

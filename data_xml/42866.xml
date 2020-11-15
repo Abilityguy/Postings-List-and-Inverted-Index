@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180129_220000_BBC_News_at_Ten#start/1576/end/1611</field>
+<field name="datetime">1/29/2018 22:26:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20180129_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180129_220000_BBC_News_at_Ten/BBCNEWS_20180129_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20180129_220000_BBC_News_at_Ten_001557.jpg</field>
+<field name="snippet">problem. after three years of drought no one predicted. the experts blame climate change. hotter temperatures, erratic rainfall. we really are, you know, the canary in the cage at the moment.</field>
+</doc>
+</add>

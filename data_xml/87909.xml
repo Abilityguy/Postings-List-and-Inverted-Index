@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191216_020000_BBC_News#start/189/end/224</field>
+<field name="datetime">12/16/2019 2:03:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191216_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191216_020000_BBC_News/BBCNEWS_20191216_020000_BBC_News.thumbs/BBCNEWS_20191216_020000_BBC_News_000179.jpg</field>
+<field name="snippet">but, even with all the pledges that countries have made on climate change, we're still heading for an increase of at least three degrees, despite all these conferences. so what happens now? the world's biggest polluter, china, is still using coal, the dirtiest kind of fuel,</field>
+</doc>
+</add>

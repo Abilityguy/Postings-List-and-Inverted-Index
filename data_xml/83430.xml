@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190412_120000_BBC_News_at_One#start/1684/end/1719</field>
+<field name="datetime">4/12/2019 12:28:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190412_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190412_120000_BBC_News_at_One/BBCNEWS_20190412_120000_BBC_News_at_One.thumbs/BBCNEWS_20190412_120000_BBC_News_at_One_001678.jpg</field>
+<field name="snippet">like the rest of sweden, eskilstu na is committed to sending zero waste from its citizens to landfill. waste that cannot be recycled is incinerated at a local plant to generate electricity. this reduces reliance on fossil fuels, but does create greenhouse gases.</field>
+</doc>
+</add>

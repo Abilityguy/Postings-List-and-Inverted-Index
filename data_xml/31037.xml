@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140215_110000_FOX_and_Friends_Saturday#start/573/end/608</field>
+<field name="datetime">2/15/2014 11:09:48</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20140215_110000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140215_110000_FOX_and_Friends_Saturday/FOXNEWSW_20140215_110000_FOX_and_Friends_Saturday.thumbs/FOXNEWSW_20140215_110000_FOX_and_Friends_Saturday_000555.jpg</field>
+<field name="snippet">is trying to call on congress for some of these initiatives. whether it's increasing the minimum wage or going after this green slush fund for climate change. but, if the president doesn't get his way, he seems to have been promising executive action. although this goes against</field>
+</doc>
+</add>

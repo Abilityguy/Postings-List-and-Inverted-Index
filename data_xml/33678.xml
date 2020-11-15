@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_110000_FOX_and_Friends#start/2509/end/2544</field>
+<field name="datetime">12/18/2009 11:42:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091218_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_110000_FOX_and_Friends/FOXNEWS_20091218_110000_FOX_and_Friends.thumbs/FOXNEWS_20091218_110000_FOX_and_Friends_002510.jpg</field>
+<field name="snippet">decade after decade all while the danger of climate change grows until it is irreversible. ladies and gentlemen, there's no time to waste.</field>
+</doc>
+</add>

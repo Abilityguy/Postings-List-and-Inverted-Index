@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091115_120000_FOX_and_Friends_Sunday#start/9122/end/9157</field>
+<field name="datetime">11/15/2009 14:32:17</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWS_20091115_120000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091115_120000_FOX_and_Friends_Sunday/FOXNEWS_20091115_120000_FOX_and_Friends_Sunday.thumbs/FOXNEWS_20091115_120000_FOX_and_Friends_Sunday_009120.jpg</field>
+<field name="snippet">at the end of the month and he attended an impromptu breakfast on climate change this morning and hillary clinton has harsh words for karzai and tells abc this week, he must do more to route out corruption and get the</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201401.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140129_220000_The_Ed_Show#start/717/end/752</field>
+<field name="datetime">1/29/2014 22:12:12</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20140129_220000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140129_220000_The_Ed_Show/MSNBCW_20140129_220000_The_Ed_Show.thumbs/MSNBCW_20140129_220000_The_Ed_Show_000706.jpg</field>
+<field name="snippet">[ speaking simultaneously ] did you understand any of that? i sure didn't. they did not respond in the chamber to climate change,</field>
+</doc>
+</add>

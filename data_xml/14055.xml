@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201609.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160905_110000_Meet_the_Press#start/1865/end/1900</field>
+<field name="datetime">9/5/2016 11:31:20</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20160905_110000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160905_110000_Meet_the_Press/MSNBCW_20160905_110000_Meet_the_Press.thumbs/MSNBCW_20160905_110000_Meet_the_Press_001857.jpg</field>
+<field name="snippet">issues, including climate change, global health and development, peacekeeping, counter narcotics and nuclear security. we also addressed our differences on issues like religious freedom, maretime</field>
+</doc>
+</add>

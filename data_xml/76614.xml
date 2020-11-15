@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190517_000000_Newsday#start/605/end/640</field>
+<field name="datetime">5/17/2019 0:10:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190517_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190517_000000_Newsday/BBCNEWS_20190517_000000_Newsday.thumbs/BBCNEWS_20190517_000000_Newsday_000597.jpg</field>
+<field name="snippet">they want whoever wins to cut carbon emissions and bring an end to australia's huge coal industry. all governments everywhere need to stop digging up fossil fuels. you can't have any action on climate change if you're still mining coal,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190115_000000_Newsday#start/756/end/791</field>
+<field name="datetime">1/15/2019 0:12:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190115_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190115_000000_Newsday/BBCNEWS_20190115_000000_Newsday.thumbs/BBCNEWS_20190115_000000_Newsday_000747.jpg</field>
+<field name="snippet">this darling river system. we're going through a heat wave, and there's almost certainly an underlying contribution from climate change to that heatwave. but there also been a lot of tension between how we use the water resources in the river, and there's been conflict</field>
+</doc>
+</add>

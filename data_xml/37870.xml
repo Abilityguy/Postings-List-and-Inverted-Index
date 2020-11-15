@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091006_230000_The_FOX_Report_With_Shepard_Smith#start/2474/end/2509</field>
+<field name="datetime">10/6/2009 23:41:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The FOX Report With Shepard Smith</field>
+<field name="showid">FOXNEWS_20091006_230000_The_FOX_Report_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091006_230000_The_FOX_Report_With_Shepard_Smith/FOXNEWS_20091006_230000_The_FOX_Report_With_Shepard_Smith.thumbs/FOXNEWS_20091006_230000_The_FOX_Report_With_Shepard_Smith_002460.jpg</field>
+<field name="snippet">happen later in the year, according to white house. president obama is meeting with china's president next month in beijing, and the administration wants china's support on issues like north korea and climate change, and china does not look too kindly on foreign leaders</field>
+</doc>
+</add>

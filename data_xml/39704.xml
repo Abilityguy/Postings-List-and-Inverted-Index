@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091108_020000_Glenn_Beck#start/2772/end/2807</field>
+<field name="datetime">11/8/2009 2:46:27</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20091108_020000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091108_020000_Glenn_Beck/FOXNEWS_20091108_020000_Glenn_Beck.thumbs/FOXNEWS_20091108_020000_Glenn_Beck_002760.jpg</field>
+<field name="snippet">glenn: it means that what is escaping out into space -- you get less and less going out to space as the temperature increases. that's right, less and less greenhouse gases go out to space.</field>
+</doc>
+</add>

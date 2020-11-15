@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_090000_Special_Report_With_Bret_Baier#start/2703/end/2738</field>
+<field name="datetime">12/18/2009 9:45:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091218_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_090000_Special_Report_With_Bret_Baier/FOXNEWS_20091218_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091218_090000_Special_Report_With_Bret_Baier_002693.jpg</field>
+<field name="snippet">these things. that's good segue. healthcare is up next, but first join me for a special look at climate change this weekend. global warming or a lot of hot air, this sunday 9:00 p.m. eastern time. i have been drinking a lot of</field>
+</doc>
+</add>

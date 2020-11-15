@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201908.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190824_180000_MSNBC_Live_with_Kendis_Gibson#start/3414/end/3449</field>
+<field name="datetime">8/24/2019 18:57:09</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live with Kendis Gibson</field>
+<field name="showid">MSNBCW_20190824_180000_MSNBC_Live_with_Kendis_Gibson</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190824_180000_MSNBC_Live_with_Kendis_Gibson/MSNBCW_20190824_180000_MSNBC_Live_with_Kendis_Gibson.thumbs/MSNBCW_20190824_180000_MSNBC_Live_with_Kendis_Gibson_003388.jpg</field>
+<field name="snippet">me. right now, 9 world's biggest leaders are in france and growing fears over climate change and the economy. each leader is also facing serious issues at home. our live coverage from the g-7 summit continues.</field>
+</doc>
+</add>

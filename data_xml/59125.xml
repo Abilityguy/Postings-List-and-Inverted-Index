@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181115_130000_BBC_News_at_One#start/1541/end/1576</field>
+<field name="datetime">11/15/2018 13:25:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20181115_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181115_130000_BBC_News_at_One/BBCNEWS_20181115_130000_BBC_News_at_One.thumbs/BBCNEWS_20181115_130000_BBC_News_at_One_001527.jpg</field>
+<field name="snippet">for the last ten years since we've had the climate change act in the uk we've been looking really at the energy system, looking for example at how we generate electricity. now is the time for us to start thinking properly about how we use land, and i don't think people do</field>
+</doc>
+</add>

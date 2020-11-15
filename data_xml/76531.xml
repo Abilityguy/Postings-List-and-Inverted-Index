@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190511_120000_BBC_News#start/1810/end/1845</field>
+<field name="datetime">5/11/2019 12:30:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190511_120000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190511_120000_BBC_News/BBCNEWS_20190511_120000_BBC_News.thumbs/BBCNEWS_20190511_120000_BBC_News_001738.jpg</field>
+<field name="snippet">will generally see the high teens and low 20s. that is the weather forecast for now. hello this is bbc news with shaun ley. the headlines: concerns over climate change might restrict the growth of flying in the uk,</field>
+</doc>
+</add>

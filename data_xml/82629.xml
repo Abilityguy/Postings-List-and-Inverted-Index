@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201509.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150925_090000_Fox_and_Friends_First#start/128/end/163</field>
+<field name="datetime">9/25/2015 9:02:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20150925_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150925_090000_Fox_and_Friends_First/FOXNEWSW_20150925_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20150925_090000_Fox_and_Friends_First_000105.jpg</field>
+<field name="snippet">as we said the pope as a full jam packed schedule. he will go to the u.n. to address members of the general assembly. he will focus on his theme of climate change and the refugee</field>
+</doc>
+</add>

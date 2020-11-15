@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201401.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140103_040000_All_In_With_Chris_Hayes#start/362/end/397</field>
+<field name="datetime">1/3/2014 4:06:17</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20140103_040000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140103_040000_All_In_With_Chris_Hayes/MSNBCW_20140103_040000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20140103_040000_All_In_With_Chris_Hayes_000346.jpg</field>
+<field name="snippet">and that has put me at the center of the larger debate about climate change, but it's also given me an opportunity, hopefully, to try to inform this increasingly poisonous discourse that we have over this issue. speaking of poisonous discourse, i'm going to stump you right here.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190710_090000_Fox_and_Friends_First#start/1091/end/1126</field>
+<field name="datetime">7/10/2019 9:18:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190710_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190710_090000_Fox_and_Friends_First/FOXNEWSW_20190710_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190710_090000_Fox_and_Friends_First_001078.jpg</field>
+<field name="snippet">rob: a lot of people don't know what to think about climate change because it seems there is science on both sides of this issue. what is your position? can't be good for the world to have all this air and gas dumping into the sky.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191122_170000_BBC_News_at_Five#start/500/end/535</field>
+<field name="datetime">11/22/2019 17:08:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20191122_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191122_170000_BBC_News_at_Five/BBCNEWS_20191122_170000_BBC_News_at_Five.thumbs/BBCNEWS_20191122_170000_BBC_News_at_Five_000477.jpg</field>
+<field name="snippet">with extinction rebellion outside, there was almost nothing on climate change except planting trees. the brexit party may have signed up former conservative ann widdecombe, but it is not fielding enough candidates to win this election. nigel farage has described his</field>
+</doc>
+</add>

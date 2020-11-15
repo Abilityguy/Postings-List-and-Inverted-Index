@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190501_123000_BBC_News#start/260/end/295</field>
+<field name="datetime">5/1/2019 12:34:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190501_123000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190501_123000_BBC_News/BBCNEWS_20190501_123000_BBC_News.thumbs/BBCNEWS_20190501_123000_BBC_News_001557.jpg</field>
+<field name="snippet">the spotlight over anti-semitism as the party tries to put the focus on its climate-change policies. here's the house of commons wherejeremy corbyn has urged mps to declare a national climate emergency. researchers hail an 'astonishing'</field>
+</doc>
+</add>

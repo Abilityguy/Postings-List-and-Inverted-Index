@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201107.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110705_070000_Red_Eye#start/218/end/253</field>
+<field name="datetime">7/5/2011 7:03:53</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20110705_070000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110705_070000_Red_Eye/FOXNEWS_20110705_070000_Red_Eye.thumbs/FOXNEWS_20110705_070000_Red_Eye_000210.jpg</field>
+<field name="snippet">perfectly awful. one state senator wonders -- one concern is what type of education will it be? will it be fact based or theory based. it is usually politically driven. it is going to be about global warming or climate change.</field>
+</doc>
+</add>

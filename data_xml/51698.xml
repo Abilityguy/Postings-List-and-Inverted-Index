@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181227_090000_BBC_News#start/881/end/916</field>
+<field name="datetime">12/27/2018 9:14:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181227_090000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181227_090000_BBC_News/BBCNEWS_20181227_090000_BBC_News.thumbs/BBCNEWS_20181227_090000_BBC_News_000867.jpg</field>
+<field name="snippet">and that can lead to an increase in greenhouse gas emissions. the new year may be a new start but the fight against how to clean up our planet continues.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200110_040000_BBC_News#start/664/end/699</field>
+<field name="datetime">1/10/2020 4:11:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200110_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200110_040000_BBC_News/BBCNEWS_20200110_040000_BBC_News.thumbs/BBCNEWS_20200110_040000_BBC_News_000658.jpg</field>
+<field name="snippet">and what about the political fallout from all of this, phil? in a sense, climate change, how much it is responsible for all this, what might be done about it, is dividing australia almost as brexit is dividing the uk?</field>
+</doc>
+</add>

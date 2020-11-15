@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170708_100000_BBC_News#start/113/end/148</field>
+<field name="datetime">7/8/2017 10:02:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170708_100000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170708_100000_BBC_News/BBCNEWS_20170708_100000_BBC_News.thumbs/BBCNEWS_20170708_100000_BBC_News_000088.jpg</field>
+<field name="snippet">be visiting london. asked when, he said: 'we'll work that out'. leaders have all but agreed a final communique from the summit, with climate change being the only issue yet to be resolved. talks are continuing in the search for a compromise. we can cross to hamburg now</field>
+</doc>
+</add>

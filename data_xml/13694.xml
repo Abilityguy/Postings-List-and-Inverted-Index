@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201501.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150128_030000_Hannity#start/2603/end/2638</field>
+<field name="datetime">1/28/2015 3:43:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20150128_030000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150128_030000_Hannity/FOXNEWSW_20150128_030000_Hannity.thumbs/FOXNEWSW_20150128_030000_Hannity_002595.jpg</field>
+<field name="snippet">there's little doubt severe weather events are becoming more frequent in the united states. many scientists think that there's a direct link between severe weather and climate change. oh, boy. the snow's climate change the ice age is coming, global</field>
+</doc>
+</add>

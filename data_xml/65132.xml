@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190315_090000_Fox_and_Friends_First#start/80/end/115</field>
+<field name="datetime">3/15/2019 9:01:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190315_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190315_090000_Fox_and_Friends_First/FOXNEWSW_20190315_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190315_090000_Fox_and_Friends_First_000059.jpg</field>
+<field name="snippet">jillian: here's heating things up with his colorful take on climate change. 'fox and friends first' continues right now. rob: you are watching 'fox and friends first' on friday morning.</field>
+</doc>
+</add>

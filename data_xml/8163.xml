@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190914_100000_Fox_and_Friends_Saturday#start/4179/end/4214</field>
+<field name="datetime">9/14/2019 11:09:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20190914_100000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190914_100000_Fox_and_Friends_Saturday/FOXNEWSW_20190914_100000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20190914_100000_Fox_and_Friends_Saturday_004169.jpg</field>
+<field name="snippet">background checks and climate change. can you talk about it in a way that is palatable. jedediah: many people will acknowledge that we play a role in climate change and many people are interested in innovation in a way clean energy rise up and what we can do in the free market.</field>
+</doc>
+</add>

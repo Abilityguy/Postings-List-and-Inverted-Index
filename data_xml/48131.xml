@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201505.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150520_150000_NewsNation#start/1038/end/1073</field>
+<field name="datetime">5/20/2015 15:17:33</field>
+<field name="station">MSNBC</field>
+<field name="show">NewsNation</field>
+<field name="showid">MSNBCW_20150520_150000_NewsNation</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150520_150000_NewsNation/MSNBCW_20150520_150000_NewsNation.thumbs/MSNBCW_20150520_150000_NewsNation_001035.jpg</field>
+<field name="snippet">developing now in connecticut, president obama will give the commencement address at the u.s. coast guard academy. graduation is taking place right now. you see the commencement is starting. the president will talk about climate change and the risk to national security.</field>
+</doc>
+</add>

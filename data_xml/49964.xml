@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180630_100000_Fox_and_Friends_Saturday#start/5672/end/5707</field>
+<field name="datetime">6/30/2018 11:34:47</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20180630_100000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180630_100000_Fox_and_Friends_Saturday/FOXNEWSW_20180630_100000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20180630_100000_Fox_and_Friends_Saturday_005668.jpg</field>
+<field name="snippet">poisoning the environment because, mr. president, that's what a real action hero would do. ed: that's arnold schwarzenegger, of course, releasing this video scolding the president on climate change and dean, you probably know arnold a little bit.</field>
+</doc>
+</add>

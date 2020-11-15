@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181228_010000_Tucker_Carlson_Tonight#start/1580/end/1615</field>
+<field name="datetime">12/28/2018 1:26:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20181228_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181228_010000_Tucker_Carlson_Tonight/FOXNEWSW_20181228_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20181228_010000_Tucker_Carlson_Tonight_001558.jpg</field>
+<field name="snippet">to discuss the declining fortunes of american men and paris is still coping with riots after the government tried to levy a carbon tax. why do lawmakers want a carbon tax here? that's next. if you have psoriasis, little things can be a big deal.</field>
+</doc>
+</add>

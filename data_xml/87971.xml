@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191230_090000_BBC_News#start/705/end/740</field>
+<field name="datetime">12/30/2019 9:12:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191230_090000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191230_090000_BBC_News/BBCNEWS_20191230_090000_BBC_News.thumbs/BBCNEWS_20191230_090000_BBC_News_000687.jpg</field>
+<field name="snippet">the broadcaster and naturalist sir david attenborough has paid tribute to climate change activist greta thunberg in an interview for radio 4's today programme. the 16-year-old and 93-year-old spoke to each other via the internet about their worries and fears over</field>
+</doc>
+</add>

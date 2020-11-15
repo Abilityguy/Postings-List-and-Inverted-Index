@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201902.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190206_030000_State_of_the_Union_Address#start/2819/end/2854</field>
+<field name="datetime">2/6/2019 3:47:14</field>
+<field name="station">MSNBC</field>
+<field name="show">State of the Union Address</field>
+<field name="showid">MSNBCW_20190206_030000_State_of_the_Union_Address</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190206_030000_State_of_the_Union_Address/MSNBCW_20190206_030000_State_of_the_Union_Address.thumbs/MSNBCW_20190206_030000_State_of_the_Union_Address_002820.jpg</field>
+<field name="snippet">we can do so much more. take action on climate change. defend individual liberties with fair-minded judges. but none of these ambitions are possible without the bedrock guarantee of our right to vote.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201511.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151130_160000_Happening_Now#start/36/end/71</field>
+<field name="datetime">11/30/2015 16:00:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20151130_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151130_160000_Happening_Now/FOXNEWSW_20151130_160000_Happening_Now.thumbs/FOXNEWSW_20151130_160000_Happening_Now_000045.jpg</field>
+<field name="snippet">lee, and president obama arrived in france last night for the start of the global summit on climate change. before he got to work on that, he paid his respects to victims of the paris terror attacks, laying flowers outside the concert hall along with french president and the mayor of</field>
+</doc>
+</add>

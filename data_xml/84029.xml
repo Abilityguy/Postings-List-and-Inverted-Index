@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190419_090000_BBC_News#start/39/end/74</field>
+<field name="datetime">4/19/2019 9:00:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190419_090000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190419_090000_BBC_News/BBCNEWS_20190419_090000_BBC_News.thumbs/BBCNEWS_20190419_090000_BBC_News_000058.jpg</field>
+<field name="snippet">again on the people of this city. as 500 climate change protestors have now been arrested across london, police promise a 'robust' response if they target heathrow airport. local authorities are accused of the 'social cleansing'</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201705.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170524_180000_MSNBC_Live#start/3054/end/3089</field>
+<field name="datetime">5/24/2017 18:51:09</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170524_180000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170524_180000_MSNBC_Live/MSNBCW_20170524_180000_MSNBC_Live.thumbs/MSNBCW_20170524_180000_MSNBC_Live_003027.jpg</field>
+<field name="snippet">i was there as the president was criticizing the pope when the pope was in mexico talking about building bridges and not building walls. he called the pope disgraceful. they differ on climate change, on the refugee policy.</field>
+</doc>
+</add>

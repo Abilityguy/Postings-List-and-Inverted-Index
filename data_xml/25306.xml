@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201611.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161112_210000_Americas_Election_HQ#start/615/end/650</field>
+<field name="datetime">11/12/2016 21:10:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Election HQ</field>
+<field name="showid">FOXNEWSW_20161112_210000_Americas_Election_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161112_210000_Americas_Election_HQ/FOXNEWSW_20161112_210000_Americas_Election_HQ.thumbs/FOXNEWSW_20161112_210000_Americas_Election_HQ_000597.jpg</field>
+<field name="snippet">about climate change. he has called on people to get engaged and do more during his speech to several hundred scientists and staff there. he did no though comment on president-elect trump who, as you know, has doubted climate change as manmade and called for the dismantling of the u.n.</field>
+</doc>
+</add>

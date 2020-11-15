@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091213_120000_FOX_and_Friends_Sunday#start/127/end/162</field>
+<field name="datetime">12/13/2009 12:02:22</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWS_20091213_120000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091213_120000_FOX_and_Friends_Sunday/FOXNEWS_20091213_120000_FOX_and_Friends_Sunday.thumbs/FOXNEWS_20091213_120000_FOX_and_Friends_Sunday_000120.jpg</field>
+<field name="snippet">officials say things got out of control, activists started throwing bricks and smashing windows. inside the conference the european union, japan, australia are joining forces with the u.s. in criticizing an emerging draft global</field>
+</doc>
+</add>

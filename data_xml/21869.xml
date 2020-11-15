@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180827_193000_Weather_World#start/1047/end/1082</field>
+<field name="datetime">8/27/2018 19:47:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20180827_193000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180827_193000_Weather_World/BBCNEWS_20180827_193000_Weather_World.thumbs/BBCNEWS_20180827_193000_Weather_World_001048.jpg</field>
+<field name="snippet">this is fiji in april, feeling the force of a second cyclone in as many weeks. the prime minister says this pacific island nation is in a fight for survival as climate change brings almost constant deadly cyclones.</field>
+</doc>
+</add>

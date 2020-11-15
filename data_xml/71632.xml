@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190123_080000_Fox_News__Night_With_Shannon_Bream#start/1195/end/1230</field>
+<field name="datetime">1/23/2019 8:20:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News  Night With Shannon Bream</field>
+<field name="showid">FOXNEWSW_20190123_080000_Fox_News__Night_With_Shannon_Bream</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190123_080000_Fox_News__Night_With_Shannon_Bream/FOXNEWSW_20190123_080000_Fox_News__Night_With_Shannon_Bream.thumbs/FOXNEWSW_20190123_080000_Fox_News__Night_With_Shannon_Bream_001168.jpg</field>
+<field name="snippet">the newly minted congresswoman with a reputation for bold statements, alexandria ocasio-cortez, raising eyebrows for among other things this. the world is going to end in 12 years if we don't address climate change. shannon: academy award</field>
+</doc>
+</add>

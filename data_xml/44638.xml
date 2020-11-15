@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201706.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170603_170000_MSNBC_Live_With_Alex_Witt#start/2987/end/3022</field>
+<field name="datetime">6/3/2017 17:50:02</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Alex Witt</field>
+<field name="showid">MSNBCW_20170603_170000_MSNBC_Live_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170603_170000_MSNBC_Live_With_Alex_Witt/MSNBCW_20170603_170000_MSNBC_Live_With_Alex_Witt.thumbs/MSNBCW_20170603_170000_MSNBC_Live_With_Alex_Witt_002968.jpg</field>
+<field name="snippet">the governor has avoided giving his opinion on climate change. why do you think there's such reluctance to go on record about this? maybe it has something to do with campaign contributions from the fossil fuel industry. it all comes down to that.</field>
+</doc>
+</add>

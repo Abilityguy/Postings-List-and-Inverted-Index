@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190422_120000_BBC_News#start/407/end/442</field>
+<field name="datetime">4/22/2019 12:07:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190422_120000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190422_120000_BBC_News/BBCNEWS_20190422_120000_BBC_News.thumbs/BBCNEWS_20190422_120000_BBC_News_000387.jpg</field>
+<field name="snippet">climate change protesters, who've staged a week of demonstrations in london and edinburgh, will meet this afternoon to discuss the next phase of their campaign. more than a thousand people have been arrested since the protests began. our correspondent caroline davies is at marble arch. caroline, what's the latest?</field>
+</doc>
+</add>

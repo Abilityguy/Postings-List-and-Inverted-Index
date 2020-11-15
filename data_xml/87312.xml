@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191202_000000_Newsday#start/71/end/106</field>
+<field name="datetime">12/2/2019 0:01:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191202_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191202_000000_Newsday/BBCNEWS_20191202_000000_Newsday.thumbs/BBCNEWS_20191202_000000_Newsday_000057.jpg</field>
+<field name="snippet">welcome to newsday on the bbc. i'm mariko oi in singapore. the headlines: as world leaders gather for the climate change summit, the un boss says governments must end their subsidies forfossilfuels. we are losing</field>
+</doc>
+</add>

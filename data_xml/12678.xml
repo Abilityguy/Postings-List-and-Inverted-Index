@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170707_130000_BBC_News#start/3549/end/3584</field>
+<field name="datetime">7/7/2017 13:59:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170707_130000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170707_130000_BBC_News/BBCNEWS_20170707_130000_BBC_News.thumbs/BBCNEWS_20170707_130000_BBC_News_003538.jpg</field>
+<field name="snippet">as world leaders congregate at the g20 summit in germany. german police have been out again in force against protestors, whilst issues such as climate change are on the agenda. a former teacher at a mosque in cardiff is jailed for 13</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191130_220000_BBC_News#start/1501/end/1536</field>
+<field name="datetime">11/30/2019 22:25:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191130_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191130_220000_BBC_News/BBCNEWS_20191130_220000_BBC_News.thumbs/BBCNEWS_20191130_220000_BBC_News_001498.jpg</field>
+<field name="snippet">we are also increasing the awareness of our guests on the problem that is climate change, for example, and the many changes that are taking place. trips ashore are carefully controlled. tourists keeping well away from wildlife and cleaning personal effects to avoid the introduction</field>
+</doc>
+</add>

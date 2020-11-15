@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190809_030000_BBC_News#start/1790/end/1825</field>
+<field name="datetime">8/9/2019 3:30:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190809_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190809_030000_BBC_News/BBCNEWS_20190809_030000_BBC_News.thumbs/BBCNEWS_20190809_030000_BBC_News_001707.jpg</field>
+<field name="snippet">a northerly wind. it's drawing down cooler air, particularly in the north, with highs of 15 or 16 celsius. this is bbc news. the headlines: a major united nations report says intensive farming to produce meat and diary products is fuelling global warming.</field>
+</doc>
+</add>

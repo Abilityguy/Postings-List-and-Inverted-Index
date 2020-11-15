@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201112.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111202_040000_The_OReilly_Factor#start/217/end/252</field>
+<field name="datetime">12/2/2011 4:03:52</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20111202_040000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111202_040000_The_OReilly_Factor/FOXNEWSW_20111202_040000_The_OReilly_Factor.thumbs/FOXNEWSW_20111202_040000_The_OReilly_Factor_000207.jpg</field>
+<field name="snippet">bill: frank's assessment is predictable. but listen to ron paul, who hammers newt gingrich in an internet ad. we don't always see eye to eye. do we, newt? no, but we do agree, our country must take action to address climate change. i don't think right wing</field>
+</doc>
+</add>

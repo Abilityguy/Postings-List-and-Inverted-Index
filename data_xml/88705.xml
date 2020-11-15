@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190612_050000_Breakfast#start/3670/end/3705</field>
+<field name="datetime">6/12/2019 6:01:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190612_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190612_050000_Breakfast/BBCNEWS_20190612_050000_Breakfast.thumbs/BBCNEWS_20190612_050000_Breakfast_003657.jpg</field>
+<field name="snippet">a bold plan to cut greenhouse gas emissions in the uk to almost zero by 2050 - it could mean we all have to eat less meat and take fewer flights. borisjohnson pledges to deliver brexit without delay as he makes his pitch to become the next conservative party leader - but labour seeks to block any</field>
+</doc>
+</add>

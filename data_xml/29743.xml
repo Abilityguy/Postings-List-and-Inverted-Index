@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191108_200000_MSNBC_Live_With_Ali_Velshi#start/642/end/677</field>
+<field name="datetime">11/8/2019 20:10:57</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20191108_200000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191108_200000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20191108_200000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20191108_200000_MSNBC_Live_With_Ali_Velshi_000628.jpg</field>
+<field name="snippet">michael bloomberg, if he runs, is going to make the argument that he has tried very hard and succeeded on some fronts and put a lot of his personal wealth toward policy changes that are effective for a lot of americans, including climate change and guns.</field>
+</doc>
+</add>

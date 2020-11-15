@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170809_060000_Tucker_Carlson_Tonight#start/2880/end/2915</field>
+<field name="datetime">8/9/2017 6:48:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20170809_060000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170809_060000_Tucker_Carlson_Tonight/FOXNEWSW_20170809_060000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20170809_060000_Tucker_Carlson_Tonight_002667.jpg</field>
+<field name="snippet">laura: another leak from the trump administration. a group of government climate scientists have leaked a draft report on climate change to 'the new york times.' they are claiming that they feared suppression by the trump administration. of course, there is no such evidence of suppression, and the</field>
+</doc>
+</add>

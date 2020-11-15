@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190802_100000_BBC_Newsroom_Live#start/5883/end/5918</field>
+<field name="datetime">8/2/2019 11:38:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190802_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190802_100000_BBC_Newsroom_Live/BBCNEWS_20190802_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190802_100000_BBC_Newsroom_Live_005878.jpg</field>
+<field name="snippet">climate change, which means notjust the hotter temperatures, but yes, those sorts of really severe storms which have caused so much damage in the north of england in the last few days. earlier this week, the met office pointed out the uk had had its ten warmest years since 2002, but also six of its seven wettest years.</field>
+</doc>
+</add>

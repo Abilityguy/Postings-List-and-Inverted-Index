@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201008.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100822_230000_FOX_Report#start/507/end/542</field>
+<field name="datetime">8/22/2010 23:08:42</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report</field>
+<field name="showid">FOXNEWS_20100822_230000_FOX_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100822_230000_FOX_Report/FOXNEWS_20100822_230000_FOX_Report.thumbs/FOXNEWS_20100822_230000_FOX_Report_000480.jpg</field>
+<field name="snippet">foreclosures pointing to the flooding in pakistan and other extreme weather events as signs of climate change getting worse. there is renewed concerns over climate change after legislation has stalled in the u.s. congress. well, new word president obama</field>
+</doc>
+</add>

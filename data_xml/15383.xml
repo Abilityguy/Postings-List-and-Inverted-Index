@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201702.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170213_010000_Newsday#start/538/end/573</field>
+<field name="datetime">2/13/2017 1:09:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20170213_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170213_010000_Newsday/BBCNEWS_20170213_010000_Newsday.thumbs/BBCNEWS_20170213_010000_Newsday_000538.jpg</field>
+<field name="snippet">expert and former government adviser. speaking from sydney, he told me australia's extreme weather is consistent with what scientists say will happen with climate change. one of the ways we can measure this is a thing called high fire danger weather index.</field>
+</doc>
+</add>

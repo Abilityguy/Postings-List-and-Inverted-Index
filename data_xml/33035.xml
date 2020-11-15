@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_160000_Happening_Now#start/2404/end/2439</field>
+<field name="datetime">12/18/2009 16:40:19</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091218_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_160000_Happening_Now/FOXNEWS_20091218_160000_Happening_Now.thumbs/FOXNEWS_20091218_160000_Happening_Now_002400.jpg</field>
+<field name="snippet">and help poor countries deal with the expected impact from global warming. but even as the u.n. and others have tried to rally the world around the issue, the number of americans who believe in global warming has surprisingly gone down, not up. take a look at the numbers.</field>
+</doc>
+</add>

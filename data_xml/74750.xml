@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200103_060000_Breakfast#start/4968/end/5003</field>
+<field name="datetime">1/3/2020 7:23:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20200103_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200103_060000_Breakfast/BBCNEWS_20200103_060000_Breakfast.thumbs/BBCNEWS_20200103_060000_Breakfast_004948.jpg</field>
+<field name="snippet">rare weather events but when those weather conditions play out, they play out on a warming climate. climate change is tipping the balance and we are observing more high temperature extremes and low temperature extremes. there's a risk</field>
+</doc>
+</add>

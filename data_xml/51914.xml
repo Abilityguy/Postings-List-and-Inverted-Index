@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181216_230000_BBC_News#start/1182/end/1217</field>
+<field name="datetime">12/16/2018 23:19:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181216_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181216_230000_BBC_News/BBCNEWS_20181216_230000_BBC_News.thumbs/BBCNEWS_20181216_230000_BBC_News_001168.jpg</field>
+<field name="snippet">are criticising it for lacking the ambition needed to prevent dangerous levels of global warming. delegates from nearly 200 countries reached agreement late last night on how to implement the 2015 agreement, and they outlined plans for collective rules on cutting carbon emissions. but the commitments are not legally binding.</field>
+</doc>
+</add>

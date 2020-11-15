@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091203_230000_Special_Report_With_Bret_Baier#start/1101/end/1136</field>
+<field name="datetime">12/3/2009 23:18:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091203_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091203_230000_Special_Report_With_Bret_Baier/FOXNEWS_20091203_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091203_230000_Special_Report_With_Bret_Baier_001075.jpg</field>
+<field name="snippet">investigation underway, they might choose to take the 5th. in washington, brian wilson, fox news. three senators working towards a compromise on climate change legislation today tried to ramp up momentum for next week's summit in copenhagen, but no</field>
+</doc>
+</add>

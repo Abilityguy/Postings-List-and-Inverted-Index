@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201009.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100906_010000_Hannity#start/2625/end/2660</field>
+<field name="datetime">9/6/2010 1:44:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20100906_010000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100906_010000_Hannity/FOXNEWS_20100906_010000_Hannity.thumbs/FOXNEWS_20100906_010000_Hannity_002603.jpg</field>
+<field name="snippet">the company declined an interview request but a a spokesperson explained that their purpose is to, quote, help prepare businesses and markets for potential regulations at the international or federal levels while reducing greenhouse gas</field>
+</doc>
+</add>

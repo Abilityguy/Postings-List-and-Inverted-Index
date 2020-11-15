@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201501.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150126_230000_PoliticsNation#start/1814/end/1849</field>
+<field name="datetime">1/26/2015 23:30:29</field>
+<field name="station">MSNBC</field>
+<field name="show">PoliticsNation</field>
+<field name="showid">MSNBCW_20150126_230000_PoliticsNation</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150126_230000_PoliticsNation/MSNBCW_20150126_230000_PoliticsNation.thumbs/MSNBCW_20150126_230000_PoliticsNation_001815.jpg</field>
+<field name="snippet">you've been fighting the good fight on climate change. we can see the crazy climate. we'd like to have more of you down in washington. thank you. much more of this coverage of this storm ahead. we're checking social media for</field>
+</doc>
+</add>

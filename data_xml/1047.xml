@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170526_020000_BBC_News#start/1050/end/1085</field>
+<field name="datetime">5/26/2017 2:17:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170526_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170526_020000_BBC_News/BBCNEWS_20170526_020000_BBC_News.thumbs/BBCNEWS_20170526_020000_BBC_News_001048.jpg</field>
+<field name="snippet">about multi-lateral groups like this well known. at this summit, as ever, they will discuss world trade, climate change, migration from north africa across these very seas, but after events of recent days,</field>
+</doc>
+</add>

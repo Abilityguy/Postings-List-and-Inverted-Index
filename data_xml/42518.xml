@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201008.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100828_090000_The_OReilly_Factor#start/1919/end/1954</field>
+<field name="datetime">8/28/2010 9:32:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20100828_090000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100828_090000_The_OReilly_Factor/FOXNEWS_20100828_090000_The_OReilly_Factor.thumbs/FOXNEWS_20100828_090000_The_OReilly_Factor_001915.jpg</field>
+<field name="snippet">science behind global warming. a recent scandal shows they had good reason to be suspicious. in november 2009, unknown hacker leased thousands of e-mails from the climatic</field>
+</doc>
+</add>

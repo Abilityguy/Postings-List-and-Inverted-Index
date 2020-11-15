@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201105.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110521_150000_Forbes_on_FOX#start/1397/end/1432</field>
+<field name="datetime">5/21/2011 15:23:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Forbes on FOX</field>
+<field name="showid">FOXNEWS_20110521_150000_Forbes_on_FOX</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110521_150000_Forbes_on_FOX/FOXNEWS_20110521_150000_Forbes_on_FOX.thumbs/FOXNEWS_20110521_150000_Forbes_on_FOX_001375.jpg</field>
+<field name="snippet">it's global warming. i don't know. but it seems to happen a lot more than some special occasion. it's part of the rhythm of everyday life and yes, it should be be a mandatory thing. i bought my house with earthquake insurance because i had to. i'm paying for it.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200910.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091020_150000_MSNBC_News_Live#start/1118/end/1153</field>
+<field name="datetime">10/20/2009 15:18:53</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091020_150000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091020_150000_MSNBC_News_Live/MSNBC_20091020_150000_MSNBC_News_Live.thumbs/MSNBC_20091020_150000_MSNBC_News_Live_001110.jpg</field>
+<field name="snippet">their vote. 21% say government spending. 20% pick health care reform as their concern. wars in iraq and afghanistan and climate change came in a distant fourth and fifth in this poll. andy barr joins us now from</field>
+</doc>
+</add>

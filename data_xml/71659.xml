@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190127_110000_Fox_and_Friends_Sunday#start/8634/end/8669</field>
+<field name="datetime">1/27/2019 13:24:09</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20190127_110000_Fox_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190127_110000_Fox_and_Friends_Sunday/FOXNEWSW_20190127_110000_Fox_and_Friends_Sunday.thumbs/FOXNEWSW_20190127_110000_Fox_and_Friends_Sunday_008607.jpg</field>
+<field name="snippet">pete: welcome back. a couple of quick headlines for you. spinning a basketball edition. nine people are arrested in a climate change protest at new york's rockefeller skating rink. you can see them laid out on the ice, one protester hung a banner</field>
+</doc>
+</add>

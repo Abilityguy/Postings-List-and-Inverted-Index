@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181124_090000_BBC_News#start/387/end/422</field>
+<field name="datetime">11/24/2018 9:06:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181124_090000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181124_090000_BBC_News/BBCNEWS_20181124_090000_BBC_News.thumbs/BBCNEWS_20181124_090000_BBC_News_000387.jpg</field>
+<field name="snippet">it says human health and agriculture are seriously at risk, and the poor will suffer most. the white house has dismissed the findings as inaccurate. here's our north america correspondent, james cook. this, say many scientists, is what climate change looks like. in recent years, california has seen bigger, deadlier and more destructive wildfires than ever before. during a cold snap in washington</field>
+</doc>
+</add>

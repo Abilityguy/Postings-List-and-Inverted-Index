@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100209_090000_Special_Report_With_Bret_Baier#start/620/end/655</field>
+<field name="datetime">2/9/2010 9:10:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100209_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100209_090000_Special_Report_With_Bret_Baier/FOXNEWS_20100209_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100209_090000_Special_Report_With_Bret_Baier_000595.jpg</field>
+<field name="snippet">ban on candidates with reported links to the saddam hussein regime. nouri al-maliki supports the ban but says he will leave appeals process to the committee rather tan ask parliament to rule on it. the fight against global warming gets the cold</field>
+</doc>
+</add>

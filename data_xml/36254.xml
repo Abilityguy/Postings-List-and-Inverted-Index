@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201912.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191223_030000_MSNBC_Special#start/121/end/156</field>
+<field name="datetime">12/23/2019 3:02:16</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Special</field>
+<field name="showid">MSNBCW_20191223_030000_MSNBC_Special</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191223_030000_MSNBC_Special/MSNBCW_20191223_030000_MSNBC_Special.thumbs/MSNBCW_20191223_030000_MSNBC_Special_000118.jpg</field>
+<field name="snippet">the world's most inspiring activists, those who campaign tirelessly to end poverty, fight for equality, and tackle climate change. and that is something that we should all take inspiration from because every single one of us</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201302.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130201_010000_The_OReilly_Factor#start/3175/end/3210</field>
+<field name="datetime">2/1/2013 1:53:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20130201_010000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130201_010000_The_OReilly_Factor/FOXNEWSW_20130201_010000_The_OReilly_Factor.thumbs/FOXNEWSW_20130201_010000_The_OReilly_Factor_003165.jpg</field>
+<field name="snippet">about climate change, which is an important issue. reporter: did you think that al gore explained it enough to you about selling currency to al jazeera? i'll let you be the judge of that. reporter: what do you think</field>
+</doc>
+</add>

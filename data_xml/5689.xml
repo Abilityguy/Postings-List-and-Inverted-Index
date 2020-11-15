@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190923_043000_Business_Briefing#start/17/end/52</field>
+<field name="datetime">9/23/2019 4:30:32</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Business Briefing</field>
+<field name="showid">BBCNEWS_20190923_043000_Business_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190923_043000_Business_Briefing/BBCNEWS_20190923_043000_Business_Briefing.thumbs/BBCNEWS_20190923_043000_Business_Briefing_000027.jpg</field>
+<field name="snippet">this is the business briefing. i'm sally bundock. thomas cook, one of the world's oldest travel firms, collapses, as it fails to reach a rescue deal. and pressure mounts on firms to show they mean businesses when it comes to battling climate change -  _</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201509.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150925_100000_FOX__Friends#start/9195/end/9230</field>
+<field name="datetime">9/25/2015 12:33:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20150925_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150925_100000_FOX__Friends/FOXNEWSW_20150925_100000_FOX__Friends.thumbs/FOXNEWSW_20150925_100000_FOX__Friends_009195.jpg</field>
+<field name="snippet">what the people is going to be doing and talking about among other things, climate change today. by the way, the cap and trade will hurt more people than anything else. if it's applied to the united states. the united states has actually reduced our carbon foot print</field>
+</doc>
+</add>

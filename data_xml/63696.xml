@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201404.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140419_120000_Up_WSteve_Kornacki#start/177/end/212</field>
+<field name="datetime">4/19/2014 12:03:12</field>
+<field name="station">MSNBC</field>
+<field name="show">Up WSteve Kornacki</field>
+<field name="showid">MSNBCW_20140419_120000_Up_WSteve_Kornacki</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140419_120000_Up_WSteve_Kornacki/MSNBCW_20140419_120000_Up_WSteve_Kornacki.thumbs/MSNBCW_20140419_120000_Up_WSteve_Kornacki_000165.jpg</field>
+<field name="snippet">the largest increase in greenhouse gas emissions in the last decade. they pointed to coal as a big reason for that spike. the past decade has seen a huge jump in the number of power plants that have come online. the most polluting of the power</field>
+</doc>
+</add>

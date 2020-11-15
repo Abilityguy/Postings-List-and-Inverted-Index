@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180118_220000_BBC_News_at_Ten#start/888/end/923</field>
+<field name="datetime">1/18/2018 22:15:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20180118_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180118_220000_BBC_News_at_Ten/BBCNEWS_20180118_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20180118_220000_BBC_News_at_Ten_000868.jpg</field>
+<field name="snippet">in california, not caused by man-made climate change, but influenced by high temperatures drying out parched land. followed by the deadly mudslides there, caused by an unusual</field>
+</doc>
+</add>

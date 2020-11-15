@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200101_033000_Review_2019#start/183/end/218</field>
+<field name="datetime">1/1/2020 3:33:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Review 2019</field>
+<field name="showid">BBCNEWS_20200101_033000_Review_2019</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200101_033000_Review_2019/BBCNEWS_20200101_033000_Review_2019.thumbs/BBCNEWS_20200101_033000_Review_2019_000177.jpg</field>
+<field name="snippet">in the fire season. it's led many to ask how closely the fires can be linked to climate change. in venice, the problem was flooding. it left much of the italian</field>
+</doc>
+</add>

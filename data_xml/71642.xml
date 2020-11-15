@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190109_230000_Special_Report_With_Bret_Baier#start/1402/end/1437</field>
+<field name="datetime">1/9/2019 23:23:37</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20190109_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190109_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20190109_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20190109_230000_Special_Report_With_Bret_Baier_001378.jpg</field>
+<field name="snippet">and a washington state, the governor proposed a public insurance bill that is a step towards medicare for all. democrats are also targeting climate change and tax increases to raise $1.1 billion to save critically endangered killer</field>
+</doc>
+</add>

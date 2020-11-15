@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190206_170000_BBC_News_at_Five#start/1130/end/1165</field>
+<field name="datetime">2/6/2019 17:19:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190206_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190206_170000_BBC_News_at_Five/BBCNEWS_20190206_170000_BBC_News_at_Five.thumbs/BBCNEWS_20190206_170000_BBC_News_at_Five_001108.jpg</field>
+<field name="snippet">climate change act we were set a target, legally binding, achieving 80% cuts in emissions by 2050, and in the light of the latest evidence on how fast climate change is progressing, faster than we thought,</field>
+</doc>
+</add>

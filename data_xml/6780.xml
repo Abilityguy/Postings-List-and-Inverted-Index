@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190921_040000_BBC_News#start/1801/end/1836</field>
+<field name="datetime">9/21/2019 4:30:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190921_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190921_040000_BBC_News/BBCNEWS_20190921_040000_BBC_News.thumbs/BBCNEWS_20190921_040000_BBC_News_001737.jpg</field>
+<field name="snippet">this is bbc news, the headlines: a day of worldwide protests on climate change has reached its climax in new york, with a rally addressed by greta thunberg. the swedish teenager addressed large crowds in the city praising everyone for taking part in what she called the biggest climate strike in history.</field>
+</doc>
+</add>

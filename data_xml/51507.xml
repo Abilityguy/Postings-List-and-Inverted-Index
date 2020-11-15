@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181209_153000_Click#start/127/end/162</field>
+<field name="datetime">12/9/2018 15:32:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Click</field>
+<field name="showid">BBCNEWS_20181209_153000_Click</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181209_153000_Click/BBCNEWS_20181209_153000_Click.thumbs/BBCNEWS_20181209_153000_Click_000117.jpg</field>
+<field name="snippet">un climate change conference continues. now on bbc news, the click team asks whether technology can help combat climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201709.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170905_030000_Tucker_Carlson_Tonight#start/1721/end/1756</field>
+<field name="datetime">9/5/2017 3:28:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20170905_030000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170905_030000_Tucker_Carlson_Tonight/FOXNEWSW_20170905_030000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20170905_030000_Tucker_Carlson_Tonight_001707.jpg</field>
+<field name="snippet">that seems to be the debate to me and it seems an open question, not a settled question, to what degree human activity is causing it. it's not an open question. it's a settled question. human activity is causing climate change. tucker: to what degree? to the degree that it's very</field>
+</doc>
+</add>

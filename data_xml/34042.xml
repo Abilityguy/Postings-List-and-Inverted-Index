@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091208_090000_Special_Report_With_Bret_Baier#start/299/end/334</field>
+<field name="datetime">12/8/2009 9:05:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091208_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091208_090000_Special_Report_With_Bret_Baier/FOXNEWS_20091208_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091208_090000_Special_Report_With_Bret_Baier_000300.jpg</field>
+<field name="snippet">swirling around the leaked e-mails, it cast doubt on the integrity of climate scientists, the president is raising the stakes by going in at the end. he may not achieve much on climate change but there is certain political logic to it</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190603_050000_Breakfast#start/1861/end/1896</field>
+<field name="datetime">6/3/2019 5:31:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190603_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190603_050000_Breakfast/BBCNEWS_20190603_050000_Breakfast.thumbs/BBCNEWS_20190603_050000_Breakfast_001858.jpg</field>
+<field name="snippet">hello, this is breakfast, with dan walker and louise minchin. it is 6:30am. we will bring you all the latest news and sport in a moment. but also on breakfast this morning: we talk to dame emma thompson about climate change, being a women in showbiz, and her new film, late night. former england spinner monty panesar will be here. he has been writing about the highs</field>
+</doc>
+</add>

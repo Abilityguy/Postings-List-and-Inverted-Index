@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201301.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130125_170000_NOW_With_Alex_Wagner#start/1098/end/1133</field>
+<field name="datetime">1/25/2013 17:18:33</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20130125_170000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130125_170000_NOW_With_Alex_Wagner/MSNBCW_20130125_170000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20130125_170000_NOW_With_Alex_Wagner_001095.jpg</field>
+<field name="snippet">the american people, whether it's on jobs and the economy, health care or education, reducing the deficit, or addressing climate change. dennis is respected by leaders across our government. add it all up, and i think he has spent most of the past four years leading inner-agency</field>
+</doc>
+</add>

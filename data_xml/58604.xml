@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181101_110000_BBC_Newsroom_Live#start/1940/end/1975</field>
+<field name="datetime">11/1/2018 11:32:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20181101_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181101_110000_BBC_Newsroom_Live/BBCNEWS_20181101_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20181101_110000_BBC_Newsroom_Live_001917.jpg</field>
+<field name="snippet">seriously underestimated the amount of heat soaked up by our oceans over the past 25 years, making it more difficult to limit global warming. time now for the sports news.</field>
+</doc>
+</add>

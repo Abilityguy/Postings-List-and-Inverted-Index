@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191126_020000_BBC_News#start/588/end/623</field>
+<field name="datetime">11/26/2019 2:10:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191126_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191126_020000_BBC_News/BBCNEWS_20191126_020000_BBC_News.thumbs/BBCNEWS_20191126_020000_BBC_News_000567.jpg</field>
+<field name="snippet">for climate change, thank you so much for your time. thank you for having me. the chinese government has responded to the landslide victory for pro-democracy candidates in the hong kong elections by emphasising the territory will always be ruled from beijing.</field>
+</doc>
+</add>

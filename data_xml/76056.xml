@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190516_050000_Breakfast#start/5035/end/5070</field>
+<field name="datetime">5/16/2019 6:24:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190516_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190516_050000_Breakfast/BBCNEWS_20190516_050000_Breakfast.thumbs/BBCNEWS_20190516_050000_Breakfast_005007.jpg</field>
+<field name="snippet">what is this about? we know we've got a climate emergency and we have to tackle climate change and u nfortu nately we' re unfortunately we're not going far enough. we have a government that's pulled the rug from under the solar industry, committed to fracking, which flies in the face of climate</field>
+</doc>
+</add>

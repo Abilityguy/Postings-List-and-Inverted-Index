@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201606.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160602_190000_Shepard_Smith_Reporting#start/512/end/547</field>
+<field name="datetime">6/2/2016 19:08:47</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20160602_190000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160602_190000_Shepard_Smith_Reporting/FOXNEWSW_20160602_190000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20160602_190000_Shepard_Smith_Reporting_000507.jpg</field>
+<field name="snippet">he says climate change is a hoax, invented by the chinese and has the gall to say that prisoners of war, like john mccain, aren't heroes. [booing]</field>
+</doc>
+</add>

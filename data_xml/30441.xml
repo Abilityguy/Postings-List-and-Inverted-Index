@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.202001.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20200118_130000_MSNBC_Live#start/1970/end/2005</field>
+<field name="datetime">1/18/2020 13:33:05</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20200118_130000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20200118_130000_MSNBC_Live/MSNBCW_20200118_130000_MSNBC_Live.thumbs/MSNBCW_20200118_130000_MSNBC_Live_001947.jpg</field>
+<field name="snippet">this is going to be a reminder that this is indeed winter in this part of the country. won't hear a lot of complaints about global warming the next 48 hours or so. there are plenty of whiteout conditions.</field>
+</doc>
+</add>

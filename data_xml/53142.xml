@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201111.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20111130_110000_Morning_Joe#start/70/end/105</field>
+<field name="datetime">11/30/2011 11:01:25</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20111130_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20111130_110000_Morning_Joe/MSNBCW_20111130_110000_Morning_Joe.thumbs/MSNBCW_20111130_110000_Morning_Joe_000056.jpg</field>
+<field name="snippet">i watch other people on the stage and they say, oh, that was a mistake. oh, someone says i did this ad on global warming, that was a mistake. they dust it aside. and that makes them more attractive in a primary. i'm standing by what i did in massachusetts. not trying to dust it aside.</field>
+</doc>
+</add>

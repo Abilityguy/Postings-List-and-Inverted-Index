@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191222_060000_Breakfast#start/1887/end/1922</field>
+<field name="datetime">12/22/2019 6:31:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191222_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191222_060000_Breakfast/BBCNEWS_20191222_060000_Breakfast.thumbs/BBCNEWS_20191222_060000_Breakfast_001888.jpg</field>
+<field name="snippet">the country's prime minister scott morrison, who was criticised for going on holiday during the crisis, has said that climate change is a reason behind the bushfires, but said warming temperatures couldn't be connected to any single fire. the fires are expected to worsen as the hot weather continues.</field>
+</doc>
+</add>

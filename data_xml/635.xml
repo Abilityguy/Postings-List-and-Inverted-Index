@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171116_060000_Breakfast#start/2389/end/2424</field>
+<field name="datetime">11/16/2017 6:40:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20171116_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171116_060000_Breakfast/BBCNEWS_20171116_060000_Breakfast.thumbs/BBCNEWS_20171116_060000_Breakfast_002368.jpg</field>
+<field name="snippet">the effects of climate change are now inevitable even if carbon dioxide emissions are cut dramatically, a warning from</field>
+</doc>
+</add>

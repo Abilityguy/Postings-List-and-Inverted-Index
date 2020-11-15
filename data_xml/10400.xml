@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201511.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151115_200000_FOX_News_Special#start/1203/end/1238</field>
+<field name="datetime">11/15/2015 20:20:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Special</field>
+<field name="showid">FOXNEWSW_20151115_200000_FOX_News_Special</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151115_200000_FOX_News_Special/FOXNEWSW_20151115_200000_FOX_News_Special.thumbs/FOXNEWSW_20151115_200000_FOX_News_Special_001197.jpg</field>
+<field name="snippet">hillary clinton's adversaries saying she should call it what it is. we heard bernie double down on his assertion that climate change remains the greatest</field>
+</doc>
+</add>

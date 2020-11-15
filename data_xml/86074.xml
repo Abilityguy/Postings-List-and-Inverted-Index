@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201207.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120704_000000_The_Ed_Show#start/1091/end/1126</field>
+<field name="datetime">7/4/2012 0:18:26</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20120704_000000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120704_000000_The_Ed_Show/MSNBCW_20120704_000000_The_Ed_Show.thumbs/MSNBCW_20120704_000000_The_Ed_Show_001080.jpg</field>
+<field name="snippet">year. folks, it's getter hotter. people who deny global warming said it's getting hot every summer. colorado has never seen fires like this. 10000 firefighters will spend july 4th beating back the flames in neent degree heat.</field>
+</doc>
+</add>

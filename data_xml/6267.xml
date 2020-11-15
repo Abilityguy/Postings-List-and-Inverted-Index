@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190910_120000_BBC_News_at_One#start/1072/end/1107</field>
+<field name="datetime">9/10/2019 12:18:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190910_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190910_120000_BBC_News_at_One/BBCNEWS_20190910_120000_BBC_News_at_One.thumbs/BBCNEWS_20190910_120000_BBC_News_at_One_001077.jpg</field>
+<field name="snippet">parliament is suspended for five weeks in the early hours of this morning amid chaotic scenes in the commons. £1.5 trillion needs to be spent to prepare the planet for climate change, according to a new study.</field>
+</doc>
+</add>

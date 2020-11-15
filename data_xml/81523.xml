@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091215_110000_Morning_Joe#start/9206/end/9241</field>
+<field name="datetime">12/15/2009 13:33:41</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20091215_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20091215_110000_Morning_Joe/MSNBC_20091215_110000_Morning_Joe.thumbs/MSNBC_20091215_110000_Morning_Joe_009212.jpg</field>
+<field name="snippet">joe.' we'll be right back. also, is sarah palin pulling a 180 on climate change? and from 'the washington post,' eugene robinson will be here to explain that in a few minutes.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190604_090000_Victoria_Derbyshire#start/2968/end/3003</field>
+<field name="datetime">6/4/2019 9:49:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20190604_090000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190604_090000_Victoria_Derbyshire/BBCNEWS_20190604_090000_Victoria_Derbyshire.thumbs/BBCNEWS_20190604_090000_Victoria_Derbyshire_002967.jpg</field>
+<field name="snippet">for talks theresa may and senior ministers on issues including climate change, huawei and iran.</field>
+</doc>
+</add>

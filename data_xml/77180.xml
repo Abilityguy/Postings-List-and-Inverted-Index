@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191106_030000_BBC_News#start/4/end/39</field>
+<field name="datetime">11/6/2019 3:00:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191106_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191106_030000_BBC_News/BBCNEWS_20191106_030000_BBC_News.thumbs/BBCNEWS_20191106_030000_BBC_News_000028.jpg</field>
+<field name="snippet">welcome to bbc news, i'm mike embley. our top stories: a six-point plan to save the planet. thousands of scientists demand deep and lasting changes to curb catastrophic climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170515_043000_World_Business_Report#start/30/end/65</field>
+<field name="datetime">5/15/2017 4:30:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World Business Report</field>
+<field name="showid">BBCNEWS_20170515_043000_World_Business_Report</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170515_043000_World_Business_Report/BBCNEWS_20170515_043000_World_Business_Report.thumbs/BBCNEWS_20170515_043000_World_Business_Report_000057.jpg</field>
+<field name="snippet">great challenges, including migration, terrorism, and climate change. this year's eurovision song contest winner salvador sobral has arrived home in portugal to hundreds of cheering fans. the 27-year-old singer has become an overnight celebrity. it's the first time his country has</field>
+</doc>
+</add>

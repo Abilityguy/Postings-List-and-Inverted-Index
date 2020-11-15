@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_100000_BBC_Newsroom_Live#start/120/end/155</field>
+<field name="datetime">10/8/2018 10:02:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20181008_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_100000_BBC_Newsroom_Live/BBCNEWS_20181008_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20181008_100000_BBC_Newsroom_Live_000117.jpg</field>
+<field name="snippet">extreme weather events. and, having gathered in the south korean city of incheon for the past week, climate change researchers and government delegates hammered out the final details of a dramatic report, outlining the consequences of a global temperature rise of more than 1.5 degrees and a plan</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_100000_BBC_Newsroom_Live#start/105/end/140</field>
+<field name="datetime">10/8/2018 10:02:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20181008_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_100000_BBC_Newsroom_Live/BBCNEWS_20181008_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20181008_100000_BBC_Newsroom_Live_000087.jpg</field>
+<field name="snippet">of rising sea levels. our science correspondent victoria gill reports. pictures of a warming world. scientists are more confident than ever that the impacts of climate change are playing out now in the severity and frequency of droughts, storms and other</field>
+</doc>
+</add>

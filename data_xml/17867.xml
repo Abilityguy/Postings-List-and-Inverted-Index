@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201503.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150306_080000_Red_Eye#start/45/end/80</field>
+<field name="datetime">3/6/2015 8:01:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWSW_20150306_080000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150306_080000_Red_Eye/FOXNEWSW_20150306_080000_Red_Eye.thumbs/FOXNEWSW_20150306_080000_Red_Eye_000045.jpg</field>
+<field name="snippet">it is not a hyperbole. it is a fact. none of these stories on 'red eye' tonight. hello, everyone. i am gavin mcginnis. let's welcome our guests. she is hotter than the global</field>
+</doc>
+</add>

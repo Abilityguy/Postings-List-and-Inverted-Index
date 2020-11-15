@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201608.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160822_050000_Watters_World#start/70/end/105</field>
+<field name="datetime">8/22/2016 5:01:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Watters World</field>
+<field name="showid">FOXNEWSW_20160822_050000_Watters_World</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160822_050000_Watters_World/FOXNEWSW_20160822_050000_Watters_World.thumbs/FOXNEWSW_20160822_050000_Watters_World_000057.jpg</field>
+<field name="snippet">fighting climate change is very hard work. so the president needs a rest. he's holed up in the vineyard playing golf. so i found a great way to get out on an expense account and visit the vineyard to assess the president's legacy.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140214_230000_Special_Report_With_Bret_Baier#start/45/end/80</field>
+<field name="datetime">2/14/2014 23:01:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20140214_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140214_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20140214_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20140214_230000_Special_Report_With_Bret_Baier_000045.jpg</field>
+<field name="snippet">the most ferocious winter in years, the president is linking the weather to globe ae al warm. po left the snowy east coast for california to talk about global warming. his new pitch for his 2015</field>
+</doc>
+</add>

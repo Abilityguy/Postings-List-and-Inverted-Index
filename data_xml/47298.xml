@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201802.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180228_053000_Business_Briefing#start/851/end/886</field>
+<field name="datetime">2/28/2018 5:44:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Business Briefing</field>
+<field name="showid">BBCNEWS_20180228_053000_Business_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180228_053000_Business_Briefing/BBCNEWS_20180228_053000_Business_Briefing.thumbs/BBCNEWS_20180228_053000_Business_Briefing_000838.jpg</field>
+<field name="snippet">the paper says an alarming heatwave in the sunless winter arctic is causing blizzards in europe and forcing scientists to reconsider even their most pessimistic forecasts of climate change. with me isjonathan charles who is managing director of the communications department at the european bank for reconstruction and development. good morning. braving the snowy</field>
+</doc>
+</add>

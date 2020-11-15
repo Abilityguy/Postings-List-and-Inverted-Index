@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201807.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180728_160000_BBC_News#start/1105/end/1140</field>
+<field name="datetime">7/28/2018 16:18:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180728_160000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180728_160000_BBC_News/BBCNEWS_20180728_160000_BBC_News.thumbs/BBCNEWS_20180728_160000_BBC_News_001107.jpg</field>
+<field name="snippet">said devastating wildfires fuelled by climate change have become the new normal and that large fires could happen every year. almost 3500 firefighters are battling to control</field>
+</doc>
+</add>

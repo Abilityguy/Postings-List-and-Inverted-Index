@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170601_120000_BBC_News_at_One#start/1001/end/1036</field>
+<field name="datetime">6/1/2017 12:16:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20170601_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170601_120000_BBC_News_at_One/BBCNEWS_20170601_120000_BBC_News_at_One.thumbs/BBCNEWS_20170601_120000_BBC_News_at_One_000988.jpg</field>
+<field name="snippet">our top story this lunchtime. president trump is coming under increasing international pressure, as he prepares to announce whether he'll pull the us out of the paris global climate change deal. and still to come. commentator: down the track. lovely!</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190424_000000_Tucker_Carlson_Tonight#start/1014/end/1049</field>
+<field name="datetime">4/24/2019 0:17:09</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190424_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190424_000000_Tucker_Carlson_Tonight/FOXNEWSW_20190424_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190424_000000_Tucker_Carlson_Tonight_000987.jpg</field>
+<field name="snippet">as a nation, we need to come behind goals. we need the energy of young people and people that really want to move on climate change. and tucker, mind you some groups estimate the green new deal would cost each household $600000 over a ten-year period</field>
+</doc>
+</add>

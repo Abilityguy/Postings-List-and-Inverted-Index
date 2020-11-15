@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091210_000000_The_FOX_Report_With_Shepard_Smith#start/2997/end/3032</field>
+<field name="datetime">12/10/2009 0:50:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The FOX Report With Shepard Smith</field>
+<field name="showid">FOXNEWS_20091210_000000_The_FOX_Report_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091210_000000_The_FOX_Report_With_Shepard_Smith/FOXNEWS_20091210_000000_The_FOX_Report_With_Shepard_Smith.thumbs/FOXNEWS_20091210_000000_The_FOX_Report_With_Shepard_Smith_002814.jpg</field>
+<field name="snippet">shepard: word now the white house may be giving congress an ultimatum on climate change, the message, do something or the administration will have to take tougher action that could in the end be bad for the economy. james rosen is live in washington. james, what's the story here? good evening. this was the message from a</field>
+</doc>
+</add>

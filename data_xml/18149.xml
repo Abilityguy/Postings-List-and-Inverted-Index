@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201409.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140924_130000_The_Daily_Rundown#start/46/end/81</field>
+<field name="datetime">9/24/2014 13:01:01</field>
+<field name="station">MSNBC</field>
+<field name="show">The Daily Rundown</field>
+<field name="showid">MSNBCW_20140924_130000_The_Daily_Rundown</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140924_130000_The_Daily_Rundown/MSNBCW_20140924_130000_The_Daily_Rundown.thumbs/MSNBCW_20140924_130000_The_Daily_Rundown_000045.jpg</field>
+<field name="snippet">u.n. has on its plate. from global protest over climate change to the ebola outbreak ravaging west africa but at the top of the list, no doubt, isis. the emerging terror threat will be the focus of the president's address at 10:00 a.m. eastern.</field>
+</doc>
+</add>

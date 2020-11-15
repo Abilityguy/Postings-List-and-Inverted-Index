@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201810.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181009_220000_The_Beat_With_Ari_Melber#start/2582/end/2617</field>
+<field name="datetime">10/9/2018 22:43:17</field>
+<field name="station">MSNBC</field>
+<field name="show">The Beat With Ari Melber</field>
+<field name="showid">MSNBCW_20181009_220000_The_Beat_With_Ari_Melber</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181009_220000_The_Beat_With_Ari_Melber/MSNBCW_20181009_220000_The_Beat_With_Ari_Melber.thumbs/MSNBCW_20181009_220000_The_Beat_With_Ari_Melber_002578.jpg</field>
+<field name="snippet">i'm not a scientist. i don't know the science behind climate change. i'm not a scientist. i would leave to it the scientists to decide how much, what this means, what are the consequences. i'm not qualified to debate the science over climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091106_230000_Special_Report_With_Bret_Baier#start/1109/end/1144</field>
+<field name="datetime">11/6/2009 23:18:44</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091106_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091106_230000_Special_Report_With_Bret_Baier/FOXNEWS_20091106_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091106_230000_Special_Report_With_Bret_Baier_001105.jpg</field>
+<field name="snippet">bret: thank you, major. democrats move ahead with climate change legislation without republican help, a little later, the fox all-stars weigh in on that, which was your lightning round choice on-line. first, is iran experimenting with a program deemed top secret here in the u.s.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201811.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181126_110000_Morning_Joe#start/10825/end/10860</field>
+<field name="datetime">11/26/2018 14:00:40</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20181126_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181126_110000_Morning_Joe/MSNBCW_20181126_110000_Morning_Joe.thumbs/MSNBCW_20181126_110000_Morning_Joe_010827.jpg</field>
+<field name="snippet">the government buried on a holiday weekend describes the dynamic crisis and climate change, arguing that inaction could set the u.s. back for</field>
+</doc>
+</add>

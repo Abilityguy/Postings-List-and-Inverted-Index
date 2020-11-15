@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090731_220000_Special_Report_With_Bret_Baier#start/910/end/945</field>
+<field name="datetime">7/31/2009 22:15:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20090731_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090731_220000_Special_Report_With_Bret_Baier/FOXNEWS_20090731_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20090731_220000_Special_Report_With_Bret_Baier_000896.jpg</field>
+<field name="snippet">i'm looking at you and telling you we're coming after you. they voted to officially pan the president's climate change bill 'cap and trade is a tax on energy that falls on hard working american families and the cost of the tax exceeds any benefit, especially in this type of</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201107.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20110723_090000_Hardball_Weekend#start/83/end/118</field>
+<field name="datetime">7/23/2011 9:01:38</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball Weekend</field>
+<field name="showid">MSNBCW_20110723_090000_Hardball_Weekend</field>
+<field name="preview">https://archive.org/download/MSNBCW_20110723_090000_Hardball_Weekend/MSNBCW_20110723_090000_Hardball_Weekend.thumbs/MSNBCW_20110723_090000_Hardball_Weekend_000060.jpg</field>
+<field name="snippet">now the u.s. justice department is investigating. also to paraphrase bob dylan you don't need a weather man to know it's hot out there. so hot, we're going to ask is overpopulation partly responsible for global warming? and caddy sacked. few people closer than a golfer</field>
+</doc>
+</add>

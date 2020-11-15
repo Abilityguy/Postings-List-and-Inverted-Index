@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191204_060000_Breakfast#start/8497/end/8532</field>
+<field name="datetime">12/4/2019 8:21:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191204_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191204_060000_Breakfast/BBCNEWS_20191204_060000_Breakfast.thumbs/BBCNEWS_20191204_060000_Breakfast_008487.jpg</field>
+<field name="snippet">the climate change activist greta thunberg sailed into portugal yesterday after a three-week catamaran journey from the us. greta - who refused to fly because it's bad for the environment - is due to attend a un conference on global warming. we'll hear more about that un conference in a moment from andrew shepherd,</field>
+</doc>
+</add>

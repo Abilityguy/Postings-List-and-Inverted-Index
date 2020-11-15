@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190317_113000_Dateline_London#start/31/end/66</field>
+<field name="datetime">3/17/2019 11:30:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Dateline London</field>
+<field name="showid">BBCNEWS_20190317_113000_Dateline_London</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190317_113000_Dateline_London/BBCNEWS_20190317_113000_Dateline_London.thumbs/BBCNEWS_20190317_113000_Dateline_London_001708.jpg</field>
+<field name="snippet">never leaving the eu. dozens of flood warnings are in place across england and wales after some areas had a months worth of rain injust 24 hours. also in the next hour, investigating the effects of climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181215_210000_World_News_Today#start/1690/end/1725</field>
+<field name="datetime">12/15/2018 21:28:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20181215_210000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181215_210000_World_News_Today/BBCNEWS_20181215_210000_World_News_Today.thumbs/BBCNEWS_20181215_210000_World_News_Today_001677.jpg</field>
+<field name="snippet">could get double figures in glasgow and belfast. the rain will stick around on tuesday, could bring local flooding, wendy two an sunshine and a few showers on wednesday. goodbye. this is bbc world news, the headlines: representatives of around 200 nations at un climate change summit</field>
+</doc>
+</add>

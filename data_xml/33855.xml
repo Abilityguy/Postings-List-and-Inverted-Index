@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091210_180000_The_Live_Desk#start/3751/end/3786</field>
+<field name="datetime">12/10/2009 19:02:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Live Desk</field>
+<field name="showid">FOXNEWS_20091210_180000_The_Live_Desk</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091210_180000_The_Live_Desk/FOXNEWS_20091210_180000_The_Live_Desk.thumbs/FOXNEWS_20091210_180000_The_Live_Desk_003710.jpg</field>
+<field name="snippet">john kerry to speak about the issue. e-mails suggested scientists could be fudging data to support their theory of climate change. now more than 1700 scientists in britain had signed a document</field>
+</doc>
+</add>

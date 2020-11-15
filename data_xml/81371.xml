@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091207_190000_MSNBC_News_Live#start/3220/end/3255</field>
+<field name="datetime">12/7/2009 19:53:55</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091207_190000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091207_190000_MSNBC_News_Live/MSNBC_20091207_190000_MSNBC_News_Live.thumbs/MSNBC_20091207_190000_MSNBC_News_Live_003173.jpg</field>
+<field name="snippet">working on this issue of global warming wanted to hold reports that didn't really show the planet warming that quickly. they wanted to keep it out of some of the international reports that the united nations would be looking at just to move</field>
+</doc>
+</add>

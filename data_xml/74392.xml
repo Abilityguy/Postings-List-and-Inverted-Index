@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_194500_Newswatch#start/297/end/332</field>
+<field name="datetime">1/17/2020 19:50:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newswatch</field>
+<field name="showid">BBCNEWS_20200117_194500_Newswatch</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_194500_Newswatch/BBCNEWS_20200117_194500_Newswatch.thumbs/BBCNEWS_20200117_194500_Newswatch_000298.jpg</field>
+<field name="snippet">surrounding iran at the top of our running orders and websites and radio bulletins. last friday we lead the news on stormont and the return of the northern ireland executive, what is going on regarding climate</field>
+</doc>
+</add>

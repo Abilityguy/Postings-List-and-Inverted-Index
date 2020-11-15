@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201110.csv</field>
+<field name="url">https://archive.org/details/CNNW_20111012_080000_World_Business_Today#start/820/end/855</field>
+<field name="datetime">10/12/2011 8:13:55</field>
+<field name="station">CNN</field>
+<field name="show">World Business Today</field>
+<field name="showid">CNNW_20111012_080000_World_Business_Today</field>
+<field name="preview">https://archive.org/download/CNNW_20111012_080000_World_Business_Today/CNNW_20111012_080000_World_Business_Today.thumbs/CNNW_20111012_080000_World_Business_Today_000807.jpg</field>
+<field name="snippet">despite its relatively small population, australia is the world's biggest greenhouse gas emitter per capita, according to research from the european commission. take a look at how it compares to the world's other major producers of greenhouse gases.</field>
+</doc>
+</add>

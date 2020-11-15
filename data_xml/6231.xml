@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_080000_BBC_News_at_Nine#start/106/end/141</field>
+<field name="datetime">9/20/2019 8:02:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190920_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_080000_BBC_News_at_Nine/BBCNEWS_20190920_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190920_080000_BBC_News_at_Nine_000089.jpg</field>
+<field name="snippet">large numbers of british schoolchildren are expected tojoin millions of people, in a worldwide protest against climate change. around 5000 demonstrations are planned across 150 countries. many will involve young people staying away from school,</field>
+</doc>
+</add>

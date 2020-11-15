@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170602_020000_Hannity#start/3618/end/3653</field>
+<field name="datetime">6/2/2017 3:00:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20170602_020000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170602_020000_Hannity/FOXNEWSW_20170602_020000_Hannity.thumbs/FOXNEWSW_20170602_020000_Hannity_003598.jpg</field>
+<field name="snippet">tucker: good evening and welcome to 'tucker carlson tonight.' president trump announced the united states will be pulling out of the paris agreement, intended to combat global warming by reducing greenhouse gas emissions. the united states will</field>
+</doc>
+</add>

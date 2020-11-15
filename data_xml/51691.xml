@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181216_193000_Sportsday#start/31/end/66</field>
+<field name="datetime">12/16/2018 19:30:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Sportsday</field>
+<field name="showid">BBCNEWS_20181216_193000_Sportsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181216_193000_Sportsday/BBCNEWS_20181216_193000_Sportsday.thumbs/BBCNEWS_20181216_193000_Sportsday_000057.jpg</field>
+<field name="snippet">the deal struck at a un climate conference in poland, saying it doesn't go far enough to curb greenhouse gas emissions. now on bbc news, it's time for sportsday.</field>
+</doc>
+</add>

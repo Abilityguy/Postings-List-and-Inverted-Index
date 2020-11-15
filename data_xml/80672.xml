@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190402_040000_Tucker_Carlson_Tonight#start/442/end/477</field>
+<field name="datetime">4/2/2019 4:07:37</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190402_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190402_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190402_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190402_040000_Tucker_Carlson_Tonight_000418.jpg</field>
+<field name="snippet">now it's not going to be if more people like alexandria ocasio-cortez are elected, so the green new deal is essentiallyay saying that the costs of climate change, which we have to admit, there are costs associated with that, they are not being put on every day</field>
+</doc>
+</add>

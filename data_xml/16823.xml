@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201811.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181124_120000_MSNBC_Live#start/238/end/273</field>
+<field name="datetime">11/24/2018 12:04:13</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20181124_120000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181124_120000_MSNBC_Live/MSNBCW_20181124_120000_MSNBC_Live.thumbs/MSNBCW_20181124_120000_MSNBC_Live_000238.jpg</field>
+<field name="snippet">president addressed climate change while touring the wildfire. let's take a listen. does seeing the devastation change your opinion on climate change? no. no. i want great climate and we're going to have that and forests that are very safe.</field>
+</doc>
+</add>

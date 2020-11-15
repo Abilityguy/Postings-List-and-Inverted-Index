@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170708_170000_BBC_News#start/0/end/31</field>
+<field name="datetime">7/8/2017 17:00:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170708_170000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170708_170000_BBC_News/BBCNEWS_20170708_170000_BBC_News.thumbs/BBCNEWS_20170708_170000_BBC_News_000058.jpg</field>
+<field name="snippet">this is bbc news, the headlines at 6:00. splits over climate change among the 620 group of world leaders - the us declines to join the others in backing the paris accords. like other world leaders, i am</field>
+</doc>
+</add>

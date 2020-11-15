@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201511.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151115_040000_Americas_Election_HQ#start/119/end/154</field>
+<field name="datetime">11/15/2015 4:02:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Election HQ</field>
+<field name="showid">FOXNEWSW_20151115_040000_Americas_Election_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151115_040000_Americas_Election_HQ/FOXNEWSW_20151115_040000_Americas_Election_HQ.thumbs/FOXNEWSW_20151115_040000_Americas_Election_HQ_000105.jpg</field>
+<field name="snippet">senator sanders, you said you want to rid the planet of isis. you said the greatest threat to national security is climate change. do you still believe that? absolutely.</field>
+</doc>
+</add>

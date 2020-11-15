@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201412.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141208_230000_Special_Report_With_Bret_Baier#start/2063/end/2098</field>
+<field name="datetime">12/8/2014 23:34:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20141208_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141208_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20141208_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20141208_230000_Special_Report_With_Bret_Baier_002055.jpg</field>
+<field name="snippet">a new obama administration report says the three-year california drought cannot be blamed on global warming. the national oceanic and atmospheric administration</field>
+</doc>
+</add>

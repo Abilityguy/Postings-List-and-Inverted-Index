@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170601_170000_BBC_News_at_Six#start/45/end/80</field>
+<field name="datetime">6/1/2017 17:01:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20170601_170000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170601_170000_BBC_News_at_Six/BBCNEWS_20170601_170000_BBC_News_at_Six.thumbs/BBCNEWS_20170601_170000_BBC_News_at_Six_000057.jpg</field>
+<field name="snippet">donald trump poised to make an announcement that could setback the fight against climate change. the fast train from belfast to the republic - what will this journey look like after we leave the eu? printing out the tickets to the manchester tribute concert - a bittersweet moment for those</field>
+</doc>
+</add>

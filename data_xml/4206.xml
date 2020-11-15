@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201102.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110202_110000_FOX_and_Friends#start/998/end/1033</field>
+<field name="datetime">2/2/2011 11:16:53</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20110202_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110202_110000_FOX_and_Friends/FOXNEWS_20110202_110000_FOX_and_Friends.thumbs/FOXNEWS_20110202_110000_FOX_and_Friends_000990.jpg</field>
+<field name="snippet">and freezing cold temperatures a sign of global warming? well, joe bestardi joins us from state college, pennsylvania, the accuweather meteorologist. by the way, that forecast was put out of this office back in</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191118_030000_BBC_News#start/613/end/648</field>
+<field name="datetime">11/18/2019 3:10:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191118_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191118_030000_BBC_News/BBCNEWS_20191118_030000_BBC_News.thumbs/BBCNEWS_20191118_030000_BBC_News_000598.jpg</field>
+<field name="snippet">a small relief for residents and business owners. the mayor of venice has blamed the recent extreme weather on climate change, calling for more to be done. translation: the water has devastated the city, but venetians are on their knees only when they pray.</field>
+</doc>
+</add>

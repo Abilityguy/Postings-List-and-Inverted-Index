@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171116_060000_Breakfast#start/8587/end/8622</field>
+<field name="datetime">11/16/2017 8:23:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20171116_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171116_060000_Breakfast/BBCNEWS_20171116_060000_Breakfast.thumbs/BBCNEWS_20171116_060000_Breakfast_008578.jpg</field>
+<field name="snippet">his comments come as world leaders gather in germany for theirfirst big meeting since donald trump announced that the u-s is to pull out of the paris agreement on climate change. our environment analyst roger harrabin is at the conference in bonn. roger, good morning. where does this warning come in relation to warnings</field>
+</doc>
+</add>

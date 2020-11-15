@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201301.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130109_180000_Andrea_Mitchell_Reports#start/1702/end/1737</field>
+<field name="datetime">1/9/2013 18:28:37</field>
+<field name="station">MSNBC</field>
+<field name="show">Andrea Mitchell Reports</field>
+<field name="showid">MSNBCW_20130109_180000_Andrea_Mitchell_Reports</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130109_180000_Andrea_Mitchell_Reports/MSNBCW_20130109_180000_Andrea_Mitchell_Reports.thumbs/MSNBCW_20130109_180000_Andrea_Mitchell_Reports_001695.jpg</field>
+<field name="snippet">variations in our weather. we're going to see heat waves, droughts, and hurricanes, but what climate change does, the greenhouse gases that we burn, they act like steroids in our environment, and they amplify everything, and they make heat</field>
+</doc>
+</add>

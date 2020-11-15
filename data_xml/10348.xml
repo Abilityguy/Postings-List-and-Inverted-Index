@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201511.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151124_180000_Happening_Now#start/2288/end/2323</field>
+<field name="datetime">11/24/2015 18:38:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20151124_180000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151124_180000_Happening_Now/FOXNEWSW_20151124_180000_Happening_Now.thumbs/FOXNEWSW_20151124_180000_Happening_Now_002265.jpg</field>
+<field name="snippet">clinton believes as does president obama, that the greatest threat to the world today is global warming, i think people think under her, our carbon foot print will shrink but isis foot print will expand.</field>
+</doc>
+</add>

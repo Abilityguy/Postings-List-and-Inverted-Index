@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201301.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130122_180000_Andrea_Mitchell_Reports#start/128/end/163</field>
+<field name="datetime">1/22/2013 18:02:23</field>
+<field name="station">MSNBC</field>
+<field name="show">Andrea Mitchell Reports</field>
+<field name="showid">MSNBCW_20130122_180000_Andrea_Mitchell_Reports</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130122_180000_Andrea_Mitchell_Reports/MSNBCW_20130122_180000_Andrea_Mitchell_Reports.thumbs/MSNBCW_20130122_180000_Andrea_Mitchell_Reports_000105.jpg</field>
+<field name="snippet">congress on climate change. we, the people, still believe that our obligations as americans are not just to ourselves, but to all posterity.</field>
+</doc>
+</add>

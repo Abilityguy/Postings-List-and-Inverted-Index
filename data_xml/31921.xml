@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201204.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120409_100000_FOX_and_Friends#start/8166/end/8201</field>
+<field name="datetime">4/9/2012 12:16:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20120409_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120409_100000_FOX_and_Friends/FOXNEWSW_20120409_100000_FOX_and_Friends.thumbs/FOXNEWSW_20120409_100000_FOX_and_Friends_008160.jpg</field>
+<field name="snippet">companies challenging the epa climate change regulations. good morning to you. good morning, thank you for having me on. gretchen: so you have a big job in front of you, representing a lot of different factions here. what are you trying to do? well, we're trying to hold</field>
+</doc>
+</add>

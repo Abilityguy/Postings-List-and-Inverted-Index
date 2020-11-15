@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200121_200000_BBC_News#start/949/end/984</field>
+<field name="datetime">1/21/2020 20:16:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200121_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200121_200000_BBC_News/BBCNEWS_20200121_200000_BBC_News.thumbs/BBCNEWS_20200121_200000_BBC_News_000928.jpg</field>
+<field name="snippet">how to deal or not deal with the climate crisis. the venue was the world economic forum in davos in switzerland, which brings together some of the most influential business and political leaders every year. donald trump talked about a need for optimism, while greta thunberg insisted the world was on fire. 0ur diplomatic correspondent james robbins reports.</field>
+</doc>
+</add>

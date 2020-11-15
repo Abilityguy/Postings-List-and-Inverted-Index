@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_170000_BBC_News_at_Five#start/7/end/42</field>
+<field name="datetime">1/17/2020 17:00:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20200117_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_170000_BBC_News_at_Five/BBCNEWS_20200117_170000_BBC_News_at_Five.thumbs/BBCNEWS_20200117_170000_BBC_News_at_Five_000029.jpg</field>
+<field name="snippet">today at 5. the city of glasgow becomes the biggest in the uk to pledge to become carbon neutral in the next ten years. the target comes amid fresh warnings about global warming, with the last decade the hottest on record. but becoming carbon neutral</field>
+</doc>
+</add>

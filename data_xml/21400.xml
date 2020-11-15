@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100101_230000_Special_Report_With_Bret_Baier#start/3273/end/3308</field>
+<field name="datetime">1/1/2010 23:54:48</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100101_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100101_230000_Special_Report_With_Bret_Baier/FOXNEWS_20100101_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100101_230000_Special_Report_With_Bret_Baier_003270.jpg</field>
+<field name="snippet">oslo, norway on december 10th, the president used the speech to look for increased support in afghanistan and around the world and a week later the president was back in western europe, joined many other world leaders at the u.n. climate change summit in</field>
+</doc>
+</add>

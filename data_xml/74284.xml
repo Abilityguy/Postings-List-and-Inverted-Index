@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200114_090000_BBC_News_at_9#start/3287/end/3322</field>
+<field name="datetime">1/14/2020 9:55:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20200114_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200114_090000_BBC_News_at_9/BBCNEWS_20200114_090000_BBC_News_at_9.thumbs/BBCNEWS_20200114_090000_BBC_News_at_9_003267.jpg</field>
+<field name="snippet">climate change seriously. australia has just experienced an extremely hot, an extremely dry year, and these are the types of inpacts that we can see in a climate where we have only had one degree of global warming so far. as australians experience firsthand</field>
+</doc>
+</add>

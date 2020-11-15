@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201003.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100313_130000_MSNBC_News_Live#start/1387/end/1422</field>
+<field name="datetime">3/13/2010 13:23:22</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100313_130000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100313_130000_MSNBC_News_Live/MSNBC_20100313_130000_MSNBC_News_Live.thumbs/MSNBC_20100313_130000_MSNBC_News_Live_001376.jpg</field>
+<field name="snippet">somewhere in america. the slightest breeze harbors immense power. the tallest buildings leave the lightest footprints. a fifty-ton train makes barely a mark on the environment. and a country facing climate change</field>
+</doc>
+</add>

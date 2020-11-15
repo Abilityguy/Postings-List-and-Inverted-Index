@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181205_100000_Fox_and_Friends_First#start/2467/end/2502</field>
+<field name="datetime">12/5/2018 10:41:22</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20181205_100000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181205_100000_Fox_and_Friends_First/FOXNEWSW_20181205_100000_Fox_and_Friends_First.thumbs/FOXNEWSW_20181205_100000_Fox_and_Friends_First_002458.jpg</field>
+<field name="snippet">carley: french protesters challenging the government's latest climate change initiative but american lawmakers have been pushing for similar laws for years. rob: the french protests have been bad, a sign of a bigger movement against taxes and regulations to curb climate change? carley: here to weigh in is graham allen, thank you for being with us.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201506.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150621_160000_Americas_News_Headquarters#start/1450/end/1485</field>
+<field name="datetime">6/21/2015 16:24:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20150621_160000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150621_160000_Americas_News_Headquarters/FOXNEWSW_20150621_160000_Americas_News_Headquarters.thumbs/FOXNEWSW_20150621_160000_Americas_News_Headquarters_001395.jpg</field>
+<field name="snippet">pope francis delivering mass today in turin square following release of his statement on climate change. thousands of the faithful attending. the pontiff taking a moment for silent prayer before the shroud of turin. pope francis' visit to the northern italian city comes</field>
+</doc>
+</add>

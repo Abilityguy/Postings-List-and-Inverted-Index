@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201411.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141119_110000_FOX_and_Friends#start/4212/end/4247</field>
+<field name="datetime">11/19/2014 12:10:27</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20141119_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141119_110000_FOX_and_Friends/FOXNEWSW_20141119_110000_FOX_and_Friends.thumbs/FOXNEWSW_20141119_110000_FOX_and_Friends_004185.jpg</field>
+<field name="snippet">fighting to get here. fighting to stay here. i'm going to fight for the people of my state until the day that i leave. i hope that will not be soon. that vote not without some environmental protesters there. they say it will create global warming.</field>
+</doc>
+</add>

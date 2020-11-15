@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201606.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160628_070000_Red_Eye#start/631/end/666</field>
+<field name="datetime">6/28/2016 7:10:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWSW_20160628_070000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160628_070000_Red_Eye/FOXNEWSW_20160628_070000_Red_Eye.thumbs/FOXNEWSW_20160628_070000_Red_Eye_000627.jpg</field>
+<field name="snippet">whatever the democratic party put forward as the facts of climate change. they are an accredited scientist and they have the research to back it up, then not that i agree with the democrats, but why they should be able to prove why their point is valid as well.</field>
+</doc>
+</add>

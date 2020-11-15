@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180106_030000_BBC_News#start/664/end/699</field>
+<field name="datetime">1/6/2018 3:11:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180106_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180106_030000_BBC_News/BBCNEWS_20180106_030000_BBC_News.thumbs/BBCNEWS_20180106_030000_BBC_News_000658.jpg</field>
+<field name="snippet">global warming, just see where the flood zones are. those zones didn't flood 30 years ago. not farfrom boston, in the beach town of revere, and the floodwaters which engulfed the streets have now frozen in place, trapping the cars in ice. the brutal conditions closed</field>
+</doc>
+</add>

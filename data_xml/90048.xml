@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200910.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091009_150000_MSNBC_News_Live#start/278/end/313</field>
+<field name="datetime">10/9/2009 15:04:53</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091009_150000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091009_150000_MSNBC_News_Live/MSNBC_20091009_150000_MSNBC_News_Live.thumbs/MSNBC_20091009_150000_MSNBC_News_Live_000266.jpg</field>
+<field name="snippet">covered and climate change legislation but, obviously, these things in the development stage. the climate change legislation for example is mired in a senate not backing it so far and they are working hard to get that done but everybody is saying that will not happen this year.</field>
+</doc>
+</add>

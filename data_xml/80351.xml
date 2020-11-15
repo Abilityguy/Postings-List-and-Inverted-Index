@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190519_100000_Fox_and_Friends_Sunday#start/11408/end/11443</field>
+<field name="datetime">5/19/2019 13:10:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20190519_100000_Fox_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190519_100000_Fox_and_Friends_Sunday/FOXNEWSW_20190519_100000_Fox_and_Friends_Sunday.thumbs/FOXNEWSW_20190519_100000_Fox_and_Friends_Sunday_011399.jpg</field>
+<field name="snippet">the fight trailing in the polls scott morrison wins the race for prime minister, holding off liberal opponents who focused on climate change and their own version of the green new deal. the christian focused his campaign on the economy and jobs i wonder if there's a lesson</field>
+</doc>
+</add>

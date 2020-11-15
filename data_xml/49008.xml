@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201908.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190811_020000_All_In_With_Chris_Hayes#start/3251/end/3286</field>
+<field name="datetime">8/11/2019 2:54:26</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20190811_020000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190811_020000_All_In_With_Chris_Hayes/MSNBCW_20190811_020000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20190811_020000_All_In_With_Chris_Hayes_003238.jpg</field>
+<field name="snippet">basically the u.n.'s blue-ribbon panel of national scientists. in a report released yesterday, the ipcc found that climate change is not only going to threaten the global food supply -- scary enough -- but also force us all into a series of difficult choices about how to use the finite land surface</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191211_050000_Tucker_Carlson_Tonight#start/3604/end/3639</field>
+<field name="datetime">12/11/2019 6:00:19</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20191211_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191211_050000_Tucker_Carlson_Tonight/FOXNEWSW_20191211_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20191211_050000_Tucker_Carlson_Tonight_003598.jpg</field>
+<field name="snippet">darling, there is no wind. the damn wind isn't blowing like it used to because of global warming, i think.ec i think it is global warming. tucker: we are back tomorrow at 8:00. the show that is the sworn enemy of lying, pomposity, smugness, and groupthink. sean: tucker, in other breaking news night, a lot of ground to cover.</field>
+</doc>
+</add>

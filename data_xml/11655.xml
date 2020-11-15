@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_120000_BBC_News_at_One#start/504/end/539</field>
+<field name="datetime">8/8/2019 12:08:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190808_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_120000_BBC_News_at_One/BBCNEWS_20190808_120000_BBC_News_at_One.thumbs/BBCNEWS_20190808_120000_BBC_News_at_One_000477.jpg</field>
+<field name="snippet">now, the united nation's intergovernmental panel on climate change says more people could be fed using less land, if there was a cut in meat consumption and a switch to plant-based diets. our environment alanyst, roger harrabin reports.</field>
+</doc>
+</add>

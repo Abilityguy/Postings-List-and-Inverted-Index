@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201409.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140923_100000_FOX_and_Friends#start/624/end/659</field>
+<field name="datetime">9/23/2014 10:10:39</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20140923_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140923_100000_FOX_and_Friends/FOXNEWSW_20140923_100000_FOX_and_Friends.thumbs/FOXNEWSW_20140923_100000_FOX_and_Friends_000615.jpg</field>
+<field name="snippet">find out a little later on today. he's going to be here in new york city for the united nations general assembly, going to be talking about the climate change today. but it sounds like he's going to try to rally the world tomorrow. speaking of the world, russia has condemned the airstrikes against isis</field>
+</doc>
+</add>

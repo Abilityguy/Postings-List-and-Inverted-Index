@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201102.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110221_210000_Your_World_With_Neil_Cavuto#start/2140/end/2175</field>
+<field name="datetime">2/21/2011 21:35:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWS_20110221_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110221_210000_Your_World_With_Neil_Cavuto/FOXNEWS_20110221_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWS_20110221_210000_Your_World_With_Neil_Cavuto_002124.jpg</field>
+<field name="snippet">stuart: a blisserring winter blamed for six deaths and 2800 flights canceled and hundreds of thousands without power and now the science czar claiming all the climate chaos proves global warming is for real. and now, people are seeing the</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201302.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130205_180000_America_Live#start/1770/end/1805</field>
+<field name="datetime">2/5/2013 18:29:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWSW_20130205_180000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130205_180000_America_Live/FOXNEWSW_20130205_180000_America_Live.thumbs/FOXNEWSW_20130205_180000_America_Live_001755.jpg</field>
+<field name="snippet">bay freezes over. on halloween kids can't wear white left they get mistaken for a baby polar bear. unger says he's not weighing in on global warming but the pole lar bear, as you've seen, has become a very, very big symbol</field>
+</doc>
+</add>

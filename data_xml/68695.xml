@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201001.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100129_230000_The_Ed_Show#start/188/end/223</field>
+<field name="datetime">1/29/2010 23:03:23</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBC_20100129_230000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20100129_230000_The_Ed_Show/MSNBC_20100129_230000_The_Ed_Show.thumbs/MSNBC_20100129_230000_The_Ed_Show_000180.jpg</field>
+<field name="snippet">alleged mastermind in lower manhattan. plus, osama bin laden is criticizing america on climate change.</field>
+</doc>
+</add>

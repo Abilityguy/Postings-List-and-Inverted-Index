@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190924_023000_The_Travel_Show#start/1352/end/1387</field>
+<field name="datetime">9/24/2019 2:52:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Travel Show</field>
+<field name="showid">BBCNEWS_20190924_023000_The_Travel_Show</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190924_023000_The_Travel_Show/BBCNEWS_20190924_023000_The_Travel_Show.thumbs/BBCNEWS_20190924_023000_The_Travel_Show_001348.jpg</field>
+<field name="snippet">well, that's all we've got time for this week. coming up next week: cat is in iceland, learning about the effect climate change is having on the country's glaciers and ice fields. ifeel like i'm dancing here.</field>
+</doc>
+</add>

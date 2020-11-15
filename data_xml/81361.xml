@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091208_030000_Countdown_With_Keith_Olbermann#start/1810/end/1845</field>
+<field name="datetime">12/8/2009 3:30:25</field>
+<field name="station">MSNBC</field>
+<field name="show">Countdown With Keith Olbermann</field>
+<field name="showid">MSNBC_20091208_030000_Countdown_With_Keith_Olbermann</field>
+<field name="preview">https://archive.org/download/MSNBC_20091208_030000_Countdown_With_Keith_Olbermann/MSNBC_20091208_030000_Countdown_With_Keith_Olbermann.thumbs/MSNBC_20091208_030000_Countdown_With_Keith_Olbermann_001796.jpg</field>
+<field name="snippet">copenhagen, the ministers were trying to highlight global warming and the danger it poses to glaciers. the cabinet met only briefly, for fear of getting altitude sickness. at 17000 feet, the government was able to bill the event as</field>
+</doc>
+</add>

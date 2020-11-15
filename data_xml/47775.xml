@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201511.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151110_110000_Morning_Joe#start/10367/end/10402</field>
+<field name="datetime">11/10/2015 13:53:02</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20151110_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151110_110000_Morning_Joe/MSNBCW_20151110_110000_Morning_Joe.thumbs/MSNBCW_20151110_110000_Morning_Joe_010365.jpg</field>
+<field name="snippet">guy, 'unstoppable,' his new book about climate change. the climate is changing and we want to work to have</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201505.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150505_190000_Shepard_Smith_Reporting#start/1443/end/1478</field>
+<field name="datetime">5/5/2015 19:24:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20150505_190000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150505_190000_Shepard_Smith_Reporting/FOXNEWSW_20150505_190000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20150505_190000_Shepard_Smith_Reporting_001425.jpg</field>
+<field name="snippet">go to the local starbucks. swap stories. maybe some dice. the president said that he also plans to keep working on a couple of causes including fighting climate change and helping military families.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190923_210000_BBC_News_at_Ten#start/1409/end/1444</field>
+<field name="datetime">9/23/2019 21:23:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20190923_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190923_210000_BBC_News_at_Ten/BBCNEWS_20190923_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20190923_210000_BBC_News_at_Ten_001409.jpg</field>
+<field name="snippet">another plan is to save the forests, because without them temperatures will keep rising. david shukman, bbc news. if you want to watch any of the bbc news at ten special reports on climate change they're all available on our website. just search for bbc news at ten,</field>
+</doc>
+</add>

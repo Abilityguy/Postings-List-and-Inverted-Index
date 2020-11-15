@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191202_180000_BBC_News_at_Six#start/1096/end/1131</field>
+<field name="datetime">12/2/2019 18:18:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20191202_180000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191202_180000_BBC_News_at_Six/BBCNEWS_20191202_180000_BBC_News_at_Six.thumbs/BBCNEWS_20191202_180000_BBC_News_at_Six_001078.jpg</field>
+<field name="snippet">in madrid for a two week summit on how to tackle climate change. the head of the un, antonio guterres, has warned that 'the point of no return on climate change is in sight and hurtling towards us'. the leaders of small island countries - among the most vulnerable to rising seas - have appealed for help. from madrid, our science editor</field>
+</doc>
+</add>

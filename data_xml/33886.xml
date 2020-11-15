@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091217_140000_Americas_Newsroom#start/5855/end/5890</field>
+<field name="datetime">12/17/2009 15:37:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20091217_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091217_140000_Americas_Newsroom/FOXNEWS_20091217_140000_Americas_Newsroom.thumbs/FOXNEWS_20091217_140000_Americas_Newsroom_005850.jpg</field>
+<field name="snippet">take our survey in your comments about the u.s. helping developing nations deal with climate change. that is online right now. alisyn: for years scientists have warned that the big one is going to hit.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100118_230000_Special_Report_With_Bret_Baier#start/1863/end/1898</field>
+<field name="datetime">1/18/2010 23:31:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100118_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100118_230000_Special_Report_With_Bret_Baier/FOXNEWS_20100118_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100118_230000_Special_Report_With_Bret_Baier_001854.jpg</field>
+<field name="snippet">climate scientists are reviewing a portion of their 2007 report that warned global warming will melt the himalayan glaciers by 2025. the indian scientist who first made the claim has acknowledged</field>
+</doc>
+</add>

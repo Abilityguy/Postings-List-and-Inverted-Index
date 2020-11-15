@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091208_040000_The_OReilly_Factor#start/1305/end/1340</field>
+<field name="datetime">12/8/2009 4:22:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20091208_040000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091208_040000_The_OReilly_Factor/FOXNEWS_20091208_040000_The_OReilly_Factor.thumbs/FOXNEWS_20091208_040000_The_OReilly_Factor_001290.jpg</field>
+<field name="snippet">president obama set to speak at that conference on december 18th. now the question. is the warming issue helping or hurting the president? joining us from washington fox news chief political analyst brit hume. first of all, do you believe in global warming? do you think the earth is getting warmer because of fossil</field>
+</doc>
+</add>

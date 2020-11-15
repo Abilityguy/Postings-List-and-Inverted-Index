@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201404.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140403_210000_The_Five#start/2974/end/3009</field>
+<field name="datetime">4/3/2014 21:49:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20140403_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140403_210000_The_Five/FOXNEWSW_20140403_210000_The_Five.thumbs/FOXNEWSW_20140403_210000_The_Five_002955.jpg</field>
+<field name="snippet">what do you guys do during the commercial breaks that you come back laughing at? this is an example. we'll finish a heated argument, let's say it's about global warming and we'll finish and bob will start laughing. bob, did you really believe anything that you were just</field>
+</doc>
+</add>

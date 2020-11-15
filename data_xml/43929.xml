@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151201_200000_MSNBC_Live_With_Kate_Snow#start/5236/end/5271</field>
+<field name="datetime">12/1/2015 21:27:31</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Kate Snow</field>
+<field name="showid">MSNBCW_20151201_200000_MSNBC_Live_With_Kate_Snow</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151201_200000_MSNBC_Live_With_Kate_Snow/MSNBCW_20151201_200000_MSNBC_Live_With_Kate_Snow.thumbs/MSNBCW_20151201_200000_MSNBC_Live_With_Kate_Snow_005235.jpg</field>
+<field name="snippet">there. just last week, the governor released an extraordinary report laying out doom's day scenarios if they do not address climate change. we're talking about starvation, crop failure. problems on a mass scale. so they really care about this. what is their motivation beyond keeping the folks happy</field>
+</doc>
+</add>

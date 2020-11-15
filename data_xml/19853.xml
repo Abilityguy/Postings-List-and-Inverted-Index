@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201410.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141031_070000_Red_Eye#start/17/end/52</field>
+<field name="datetime">10/31/2014 7:00:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWSW_20141031_070000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141031_070000_Red_Eye/FOXNEWSW_20141031_070000_Red_Eye.thumbs/FOXNEWSW_20141031_070000_Red_Eye_000045.jpg</field>
+<field name="snippet">coming up on 'red eye', has global warming changed the face of detroit for the better? why you may want to rethink your holiday travel plans. plus, is the president reconsidering his thoughts about the man landing? it don't make no sense. it is just not true.</field>
+</doc>
+</add>

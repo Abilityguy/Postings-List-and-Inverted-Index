@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170607_040000_BBC_News#start/736/end/771</field>
+<field name="datetime">6/7/2017 4:12:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170607_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170607_040000_BBC_News/BBCNEWS_20170607_040000_BBC_News.thumbs/BBCNEWS_20170607_040000_BBC_News_000717.jpg</field>
+<field name="snippet">very important. brexit is a huge matter, but i think for me, i'd love to see more engagement and more kind of debate over climate change. for me, one of the main issues is the nhs and funding.</field>
+</doc>
+</add>

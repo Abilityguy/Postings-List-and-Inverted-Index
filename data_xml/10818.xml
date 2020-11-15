@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_190000_BBC_News#start/3603/end/3638</field>
+<field name="datetime">8/8/2019 20:00:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190808_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_190000_BBC_News/BBCNEWS_20190808_190000_BBC_News.thumbs/BBCNEWS_20190808_190000_BBC_News_003508.jpg</field>
+<field name="snippet">southeast, wind is like you're coming from northwest so it appealed cool indeed especially in the north. hello, i'm nuala mcgovern, this is outside source. the un says we must change our diets to help stop climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201710.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171008_060000_Breakfast#start/162/end/197</field>
+<field name="datetime">10/8/2017 6:02:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20171008_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171008_060000_Breakfast/BBCNEWS_20171008_060000_Breakfast.thumbs/BBCNEWS_20171008_060000_Breakfast_000147.jpg</field>
+<field name="snippet">this is something that we are seeing more and more. there is an increased intensity of hurricanes, an increased frequency, and devastation. and the origin is clear. we are facing the consequences of climate change. and, for those facing the immediate impact, all they can do is watch, wait, and prepare for the aftermath.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201007.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100703_000000_The_OReilly_Factor#start/830/end/865</field>
+<field name="datetime">7/3/2010 0:14:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20100703_000000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100703_000000_The_OReilly_Factor/FOXNEWS_20100703_000000_The_OReilly_Factor.thumbs/FOXNEWS_20100703_000000_The_OReilly_Factor_000806.jpg</field>
+<field name="snippet">answers. right now, this is an example of frustration. during the exxon valdez, the economy was better. we weren't in wars in afghanistan and iraq. isolated up there and there weren't millions of people being affected. doctor, how do you see this? my thesis is that global warming is behind the anger and it's</field>
+</doc>
+</add>

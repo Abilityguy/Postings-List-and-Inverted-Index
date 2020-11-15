@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180915_140000_BBC_News#start/1621/end/1656</field>
+<field name="datetime">9/15/2018 14:27:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180915_140000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180915_140000_BBC_News/BBCNEWS_20180915_140000_BBC_News.thumbs/BBCNEWS_20180915_140000_BBC_News_001617.jpg</field>
+<field name="snippet">will measure the condition of earth's ice cover and should provide more precise information on how these frozen surfaces are being affected by global warming. earlier i spoke to our science correspondentjonathan amos, he told me just how important this satellite is to the scientific community.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201611.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161123_110000_FOX__Friends#start/1460/end/1495</field>
+<field name="datetime">11/23/2016 11:24:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20161123_110000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161123_110000_FOX__Friends/FOXNEWSW_20161123_110000_FOX__Friends.thumbs/FOXNEWSW_20161123_110000_FOX__Friends_001438.jpg</field>
+<field name="snippet">great. heading to court over climate change. kids ages 12 to 16 are suing washington state for what they say is a failure to protect them from the effects of global warming. they wants the department of ecology to save natural</field>
+</doc>
+</add>

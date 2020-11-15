@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100211_180000_America_Live#start/2502/end/2537</field>
+<field name="datetime">2/11/2010 18:41:57</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWS_20100211_180000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100211_180000_America_Live/FOXNEWS_20100211_180000_America_Live.thumbs/FOXNEWS_20100211_180000_America_Live_002484.jpg</field>
+<field name="snippet">energy now, we can create millions of jobs, reduce our dependence on foreign oil, and avoid the worst rift from global warming. so i think we should enjoy the snow while we have it and move on to doing something about global warming.</field>
+</doc>
+</add>

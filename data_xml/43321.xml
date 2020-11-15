@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090922_150000_Happening_Now#start/2122/end/2157</field>
+<field name="datetime">9/22/2009 15:35:37</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20090922_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090922_150000_Happening_Now/FOXNEWS_20090922_150000_Happening_Now.thumbs/FOXNEWS_20090922_150000_Happening_Now_002095.jpg</field>
+<field name="snippet">the climate change bill from june is bottled up in the senate and is going nowhere. is that something that obama is pointing to? he did, and my sense is it will be very difficult to pass the bill in anything like its</field>
+</doc>
+</add>

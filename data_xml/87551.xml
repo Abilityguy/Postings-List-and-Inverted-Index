@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191218_110000_BBC_Newsroom_Live#start/1604/end/1639</field>
+<field name="datetime">12/18/2019 11:26:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20191218_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191218_110000_BBC_Newsroom_Live/BBCNEWS_20191218_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20191218_110000_BBC_Newsroom_Live_001587.jpg</field>
+<field name="snippet">affected by climate change question mark is not something we have focused on. you think about the physical impact, more frequent rain could mean more funding which could mean the value of houses change, the transition towards electric vehicles</field>
+</doc>
+</add>

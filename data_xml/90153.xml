@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200910.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091026_170000_Andrea_Mitchell_Reports#start/2892/end/2927</field>
+<field name="datetime">10/26/2009 17:48:27</field>
+<field name="station">MSNBC</field>
+<field name="show">Andrea Mitchell Reports</field>
+<field name="showid">MSNBC_20091026_170000_Andrea_Mitchell_Reports</field>
+<field name="preview">https://archive.org/download/MSNBC_20091026_170000_Andrea_Mitchell_Reports/MSNBC_20091026_170000_Andrea_Mitchell_Reports.thumbs/MSNBC_20091026_170000_Andrea_Mitchell_Reports_002873.jpg</field>
+<field name="snippet">senator john kerry working on a timeline to wrap up committee action on stalled climate change legislation. that's taking a back seat to health care and, of course, foreign policy challenges. the house passed its plan to set a nationwide limit on carbon</field>
+</doc>
+</add>

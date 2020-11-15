@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191016_090000_Fox_and_Friends_First#start/1882/end/1917</field>
+<field name="datetime">10/16/2019 9:31:37</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20191016_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191016_090000_Fox_and_Friends_First/FOXNEWSW_20191016_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20191016_090000_Fox_and_Friends_First_001858.jpg</field>
+<field name="snippet">we can't solve the climate crisis in the united states by ourselves. it is an international crisis. donald trump let us down it dangerous cracked with unreliable foreign-policy. this is the united states of america, there's nothing we cannot do.</field>
+</doc>
+</add>

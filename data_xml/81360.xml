@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091209_030000_Countdown_With_Keith_Olbermann#start/2888/end/2923</field>
+<field name="datetime">12/9/2009 3:48:23</field>
+<field name="station">MSNBC</field>
+<field name="show">Countdown With Keith Olbermann</field>
+<field name="showid">MSNBC_20091209_030000_Countdown_With_Keith_Olbermann</field>
+<field name="preview">https://archive.org/download/MSNBC_20091209_030000_Countdown_With_Keith_Olbermann/MSNBC_20091209_030000_Countdown_With_Keith_Olbermann.thumbs/MSNBC_20091209_030000_Countdown_With_Keith_Olbermann_002876.jpg</field>
+<field name="snippet">folks at fox. the poll from the rasmussen report wasn't good enough for us. did scientists falsify research to support their own theories on global warming? 59%, somewhat likely. 35% very likely. 26% not very likely.</field>
+</doc>
+</add>

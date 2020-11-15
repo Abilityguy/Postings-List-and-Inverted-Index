@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201211.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121115_090000_The_OReilly_Factor#start/394/end/429</field>
+<field name="datetime">11/15/2012 9:06:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20121115_090000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121115_090000_The_OReilly_Factor/FOXNEWSW_20121115_090000_The_OReilly_Factor.thumbs/FOXNEWSW_20121115_090000_The_OReilly_Factor_000388.jpg</field>
+<field name="snippet">the 'new york times' asked the president about global warming. he said he is going to do everything he can to cool down this planet because our kids and grand kids deserve it or something. cbs news asked him if he would</field>
+</doc>
+</add>

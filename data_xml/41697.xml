@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201301.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130124_100000_First_Look#start/1704/end/1739</field>
+<field name="datetime">1/24/2013 10:28:39</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20130124_100000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130124_100000_First_Look/MSNBCW_20130124_100000_First_Look.thumbs/MSNBCW_20130124_100000_First_Look_001576.jpg</field>
+<field name="snippet">global warming is a total hoax. i'll tell you how i know. because it's cold today where i live.</field>
+</doc>
+</add>

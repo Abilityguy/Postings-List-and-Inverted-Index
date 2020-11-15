@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_140000_Afternoon_Live#start/156/end/191</field>
+<field name="datetime">1/17/2020 14:02:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20200117_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_140000_Afternoon_Live/BBCNEWS_20200117_140000_Afternoon_Live.thumbs/BBCNEWS_20200117_140000_Afternoon_Live_000148.jpg</field>
+<field name="snippet">cutting emissions. glasgow hosts an international summit on climate change later this year - and we're looking at the changes the city is making as part of our series our planet matters. my colleague annita mcveigh is in glasgow this lunchtime.</field>
+</doc>
+</add>

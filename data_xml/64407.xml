@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201612.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161213_150000_MSNBC_Live_With_Craig_Melvin#start/1370/end/1405</field>
+<field name="datetime">12/13/2016 15:23:05</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Craig Melvin</field>
+<field name="showid">MSNBCW_20161213_150000_MSNBC_Live_With_Craig_Melvin</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161213_150000_MSNBC_Live_With_Craig_Melvin/MSNBCW_20161213_150000_MSNBC_Live_With_Craig_Melvin.thumbs/MSNBCW_20161213_150000_MSNBC_Live_With_Craig_Melvin_001348.jpg</field>
+<field name="snippet">climate change. exxonmobil, its official position is that it's real and it's a significant threat but rex tillerson has questioned parts of climate change. exxon is also under investigation by the new york</field>
+</doc>
+</add>

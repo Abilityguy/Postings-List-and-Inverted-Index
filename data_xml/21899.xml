@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180802_190000_BBC_News#start/3025/end/3060</field>
+<field name="datetime">8/2/2018 19:50:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180802_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180802_190000_BBC_News/BBCNEWS_20180802_190000_BBC_News.thumbs/BBCNEWS_20180802_190000_BBC_News_003027.jpg</field>
+<field name="snippet">climate change is shifting the odds in favour of heatwaves becoming more frequent. extreme heatwaves can turn deadly. during the heatwave of 2003 that set the uk temperature record of 38.5 celsius in faversham in kent</field>
+</doc>
+</add>

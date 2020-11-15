@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201110.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20111030_110000_Hardball_Weekend#start/134/end/169</field>
+<field name="datetime">10/30/2011 11:02:29</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball Weekend</field>
+<field name="showid">MSNBCW_20111030_110000_Hardball_Weekend</field>
+<field name="preview">https://archive.org/download/MSNBCW_20111030_110000_Hardball_Weekend/MSNBCW_20111030_110000_Hardball_Weekend.thumbs/MSNBCW_20111030_110000_Hardball_Weekend_000116.jpg</field>
+<field name="snippet">romney was asked this summer what his position on man-made global warming was. let's listen to his response. i don't speak for the scientific community, of course, but i believe the world's getting warmer. i can't prove that, but i believe, based on what i read, that the world is getting</field>
+</doc>
+</add>

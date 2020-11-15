@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201511.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151110_110000_Morning_Joe#start/10604/end/10639</field>
+<field name="datetime">11/10/2015 13:56:59</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20151110_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151110_110000_Morning_Joe/MSNBCW_20151110_110000_Morning_Joe.thumbs/MSNBCW_20151110_110000_Morning_Joe_010605.jpg</field>
+<field name="snippet">votes? millennials are very concerned about climate change. are the conservatives just going to let those votes go or is somebody going to have an epiphany in the spring, hey, i changed my mind. i think it is a generational</field>
+</doc>
+</add>

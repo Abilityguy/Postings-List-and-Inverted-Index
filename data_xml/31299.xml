@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090709_220000_Special_Report_With_Bret_Baier#start/649/end/684</field>
+<field name="datetime">7/9/2009 22:11:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20090709_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090709_220000_Special_Report_With_Bret_Baier/FOXNEWS_20090709_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20090709_220000_Special_Report_With_Bret_Baier_000626.jpg</field>
+<field name="snippet">this admission came during the g8 summit in italy. on global warming, president obama told the world america is sorry. i know in the past the united states has sometimes fallen short of meeting our responsibilities, so let me be clear, those days are over.</field>
+</doc>
+</add>

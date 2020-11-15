@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190124_170000_BBC_News_at_Five#start/3225/end/3260</field>
+<field name="datetime">1/24/2019 17:54:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190124_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190124_170000_BBC_News_at_Five/BBCNEWS_20190124_170000_BBC_News_at_Five.thumbs/BBCNEWS_20190124_170000_BBC_News_at_Five_003208.jpg</field>
+<field name="snippet">concern must lie in terms of what the police can and cannot do. indeed. marianne fitzgerald, professor of criminology at the university of kent, thank you. scientists meeting in norway are warning that climate change is redrawing the map of the arctic.</field>
+</doc>
+</add>

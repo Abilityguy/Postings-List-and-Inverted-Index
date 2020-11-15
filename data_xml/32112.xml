@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201012.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101201_160000_Happening_Now#start/3166/end/3201</field>
+<field name="datetime">12/1/2010 16:53:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20101201_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101201_160000_Happening_Now/FOXNEWS_20101201_160000_Happening_Now.thumbs/FOXNEWS_20101201_160000_Happening_Now_003023.jpg</field>
+<field name="snippet">and a healthy level of sodium. it's amazing what soup can do. jon: wouldn't you like to be in a warm beach resort right now? representatives of nearly 200 nations are meeting at a climate change sum in it cancun, mexico. there are deep-seated disputes</field>
+</doc>
+</add>

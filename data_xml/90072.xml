@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200910.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091027_200000_MSNBC_News_Live#start/0/end/34</field>
+<field name="datetime">10/27/2009 20:00:14</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091027_200000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091027_200000_MSNBC_News_Live/MSNBC_20091027_200000_MSNBC_News_Live.thumbs/MSNBC_20091027_200000_MSNBC_News_Live_000053.jpg</field>
+<field name="snippet">really dependent on everything happening precisely correctly. reporter: it did not. could there be a cost? and remember the prankster's concerned about global warming who pretended to be the chamber of commerce? can i see your business card? could i see your business</field>
+</doc>
+</add>

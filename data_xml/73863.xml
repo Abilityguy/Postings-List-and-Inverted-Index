@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201002.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100213_150000_MSNBC_News_Live#start/3543/end/3578</field>
+<field name="datetime">2/13/2010 15:59:18</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100213_150000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100213_150000_MSNBC_News_Live/MSNBC_20100213_150000_MSNBC_News_Live.thumbs/MSNBC_20100213_150000_MSNBC_News_Live_003535.jpg</field>
+<field name="snippet">good saturday morning. i'm alex witt. all of that this morning on 'misnbc saturday' this along with the politics of global warming. here's what's happening for you. the olympic competition kicks off in vancouver after last night's opening ceremony but big</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201702.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170213_010000_Newsday#start/584/end/619</field>
+<field name="datetime">2/13/2017 1:09:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20170213_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170213_010000_Newsday/BBCNEWS_20170213_010000_Newsday.thumbs/BBCNEWS_20170213_010000_Newsday_000568.jpg</field>
+<field name="snippet">well, we seem to have a real paradox here, in that australia is on the frontline of many of the impacts of climate change. last year we saw massive bleaching of the great barrier reef, this year we are seeing extreme heat, extreme bushfires. and yet our federal government</field>
+</doc>
+</add>

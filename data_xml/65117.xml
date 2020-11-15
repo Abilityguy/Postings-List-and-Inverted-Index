@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190308_090000_Fox_and_Friends_First#start/482/end/517</field>
+<field name="datetime">3/8/2019 9:08:17</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190308_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190308_090000_Fox_and_Friends_First/FOXNEWSW_20190308_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190308_090000_Fox_and_Friends_First_000478.jpg</field>
+<field name="snippet">gillibrand, harris and elizabeth warren have supported sanders's medicare for all bill, increasing minimum wage and tackling climate change. senator sherrod brown is passing on a 2020 white house run.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201112.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20111203_120000_Up_W_Chris_Hayes#start/3635/end/3670</field>
+<field name="datetime">12/3/2011 13:00:50</field>
+<field name="station">MSNBC</field>
+<field name="show">Up W Chris Hayes</field>
+<field name="showid">MSNBCW_20111203_120000_Up_W_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20111203_120000_Up_W_Chris_Hayes/MSNBCW_20111203_120000_Up_W_Chris_Hayes.thumbs/MSNBCW_20111203_120000_Up_W_Chris_Hayes_003627.jpg</field>
+<field name="snippet">we were talking about climate change. a spirited climate debate ensued during the break. we turn our attention to republicans who have met a tax cut they don't love. the payroll tax cut extension set to expire on december 31st. what is it about this tax cut?</field>
+</doc>
+</add>

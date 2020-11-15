@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201710.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171006_073000_BBC_Business_Live#start/108/end/143</field>
+<field name="datetime">10/6/2017 7:32:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Business Live</field>
+<field name="showid">BBCNEWS_20171006_073000_BBC_Business_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171006_073000_BBC_Business_Live/BBCNEWS_20171006_073000_BBC_Business_Live.thumbs/BBCNEWS_20171006_073000_BBC_Business_Live_000088.jpg</field>
+<field name="snippet">with us here on business live. we start in the indian capital delhi, where prime minister modi is hosting the 14th eu-india summit. european commission president jean-claude juncker and european council chief donald tusk are there to discuss everything from security to migration and climate change. but they will also be trying to revive talks</field>
+</doc>
+</add>

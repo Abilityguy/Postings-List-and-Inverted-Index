@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170703_090000_Fox_and_Friends_First#start/3111/end/3146</field>
+<field name="datetime">7/3/2017 9:52:06</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20170703_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170703_090000_Fox_and_Friends_First/FOXNEWSW_20170703_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20170703_090000_Fox_and_Friends_First_003087.jpg</field>
+<field name="snippet">democratic strategists, good morning to you both. carrie, we will start with you, what do you make of this? the paris climate change agreement, barack obama did not have authority to get into it.</field>
+</doc>
+</add>

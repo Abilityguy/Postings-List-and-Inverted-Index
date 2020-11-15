@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171113_190000_Beyond_100_Days#start/1269/end/1304</field>
+<field name="datetime">11/13/2017 19:21:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20171113_190000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171113_190000_Beyond_100_Days/BBCNEWS_20171113_190000_Beyond_100_Days.thumbs/BBCNEWS_20171113_190000_Beyond_100_Days_001258.jpg</field>
+<field name="snippet">global carbon dioxide emissions are projected to rise for the first time in four years. scientists at a united nations climate conference in germany say the main cause of the expected growth has been greater use of coal in china as its economy expanded. they're warning that levels of c02 need to be reduced before 2020 if we are to limit dangerous global</field>
+</doc>
+</add>

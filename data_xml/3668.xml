@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170430_013000_Dateline_London#start/0/end/34</field>
+<field name="datetime">4/30/2017 1:30:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Dateline London</field>
+<field name="showid">BBCNEWS_20170430_013000_Dateline_London</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170430_013000_Dateline_London/BBCNEWS_20170430_013000_Dateline_London.thumbs/BBCNEWS_20170430_013000_Dateline_London_000058.jpg</field>
+<field name="snippet">this is bbc world news. the headlines: donald trump has marked his first 100 days as us president, attacking the media and defending his own record at a rally in pennsylvania. earlier, thousands of people across the us took part in protests against his policies on climate</field>
+</doc>
+</add>

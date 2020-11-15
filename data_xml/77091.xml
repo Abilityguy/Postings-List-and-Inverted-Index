@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190502_160000_BBC_News_at_Five#start/2192/end/2227</field>
+<field name="datetime">5/2/2019 16:36:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190502_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190502_160000_BBC_News_at_Five/BBCNEWS_20190502_160000_BBC_News_at_Five.thumbs/BBCNEWS_20190502_160000_BBC_News_at_Five_002187.jpg</field>
+<field name="snippet">to fight climate change. meet the martins, living a low-carbon lifestyle in aberdeen. mum, rachel, and dad, ben, head the family. then there's their two children, elizabeth and daniel. they live on a plant-based diet, meaning they don't contribute to animal emissions. i am cooking tonight yellow split peas. the kids still eat meat occasionally if they're out, but not at home.</field>
+</doc>
+</add>

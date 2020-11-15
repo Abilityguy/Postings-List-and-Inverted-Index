@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091004_070000_FOX_Report#start/3250/end/3285</field>
+<field name="datetime">10/4/2009 7:54:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report</field>
+<field name="showid">FOXNEWS_20091004_070000_FOX_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091004_070000_FOX_Report/FOXNEWS_20091004_070000_FOX_Report.thumbs/FOXNEWS_20091004_070000_FOX_Report_003240.jpg</field>
+<field name="snippet">reporter: and the regulations were adopted in 33 states and at least 130 cities including new york where in 2005 a law requires that all new and newly renovated buildings be designed according to the lead standards. make a building nonpolluting, in greenhouse gases, no.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201512.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151210_100000_Fox_and_Friends_First#start/2281/end/2316</field>
+<field name="datetime">12/10/2015 10:38:16</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20151210_100000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151210_100000_Fox_and_Friends_First/FOXNEWSW_20151210_100000_Fox_and_Friends_First.thumbs/FOXNEWSW_20151210_100000_Fox_and_Friends_First_002265.jpg</field>
+<field name="snippet">action to promote climate change. friends in the pacific northwest being hit by a storm. she is tracking it all in the weather center today. we are getting pummelled with heavy rain and mountain snow</field>
+</doc>
+</add>

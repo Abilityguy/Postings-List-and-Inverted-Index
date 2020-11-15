@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190911_000000_Tucker_Carlson_Tonight#start/3003/end/3038</field>
+<field name="datetime">9/11/2019 0:50:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190911_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190911_000000_Tucker_Carlson_Tonight/FOXNEWSW_20190911_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190911_000000_Tucker_Carlson_Tonight_002998.jpg</field>
+<field name="snippet">climate change, if we don't do something extreme tomorrow that allows the government to intrude all over every sort of personal liberty that you have then the planet is going to be destroyed in five years and the human race is going to go extinct. that's one side. on the other side</field>
+</doc>
+</add>

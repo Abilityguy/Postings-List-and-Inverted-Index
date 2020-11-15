@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200108_110000_BBC_Newsroom_Live#start/2251/end/2286</field>
+<field name="datetime">1/8/2020 11:37:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20200108_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200108_110000_BBC_Newsroom_Live/BBCNEWS_20200108_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20200108_110000_BBC_Newsroom_Live_002247.jpg</field>
+<field name="snippet">climate change alone. but if this is the right thing to do and if we do it together, we can lead the change. dear students, over the next month</field>
+</doc>
+</add>

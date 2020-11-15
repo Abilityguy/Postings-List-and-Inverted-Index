@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190822_220000_Special_Report_With_Bret_Baier#start/248/end/283</field>
+<field name="datetime">8/22/2019 22:04:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20190822_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190822_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20190822_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20190822_220000_Special_Report_With_Bret_Baier_000239.jpg</field>
+<field name="snippet">half, the s&p 500 dropped one and a half, the nasdaq lost 29. the economy is just one of many top issues on the minds of iowa voters tonight. climate change is another. peter doocy tells us one candidate who staked his</field>
+</doc>
+</add>

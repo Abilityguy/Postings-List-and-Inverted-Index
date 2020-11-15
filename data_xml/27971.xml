@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201406.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140615_100000_FOX_and_Friends_Sunday#start/615/end/650</field>
+<field name="datetime">6/15/2014 10:10:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20140615_100000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140615_100000_FOX_and_Friends_Sunday/FOXNEWSW_20140615_100000_FOX_and_Friends_Sunday.thumbs/FOXNEWSW_20140615_100000_FOX_and_Friends_Sunday_000615.jpg</field>
+<field name="snippet">listen. i don't remember someone saying the moon is not there or made of cheese. scientists will tell you climate change is a hoax or a fad. well, the president's call to action on global warming comes</field>
+</doc>
+</add>

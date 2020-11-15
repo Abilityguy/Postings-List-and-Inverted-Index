@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20200104_180000_Americas_News_Headquarters#start/4834/end/4869</field>
+<field name="datetime">1/4/2020 19:20:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20200104_180000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20200104_180000_Americas_News_Headquarters/FOXNEWSW_20200104_180000_Americas_News_Headquarters.thumbs/FOXNEWSW_20200104_180000_Americas_News_Headquarters_004830.jpg</field>
+<field name="snippet">the stage. one of many many presidential hopefuls on the trail today. allison barber is tracking they'll all. hi, allison. reporter: hey, leland. climate change, health care and beating president trump in a general election have been central issues in the democratic primary. now, foreign policy seems like</field>
+</doc>
+</add>

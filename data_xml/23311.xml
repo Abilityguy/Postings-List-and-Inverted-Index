@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201405.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140527_100000_FOX_and_Friends#start/5793/end/5828</field>
+<field name="datetime">5/27/2014 11:36:48</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20140527_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140527_100000_FOX_and_Friends/FOXNEWSW_20140527_100000_FOX_and_Friends.thumbs/FOXNEWSW_20140527_100000_FOX_and_Friends_005775.jpg</field>
+<field name="snippet">the coupon name. let's talk about the epa. it's always good to hear there is new regulations coming down and this is way overdue. in the fight against climate</field>
+</doc>
+</add>

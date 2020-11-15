@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201112.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20111210_140000_Weekends_With_Alex_Witt#start/1313/end/1348</field>
+<field name="datetime">12/10/2011 14:22:08</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20111210_140000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20111210_140000_Weekends_With_Alex_Witt/MSNBCW_20111210_140000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20111210_140000_Weekends_With_Alex_Witt_001286.jpg</field>
+<field name="snippet">the gingrich surge. gingrich has a ton of baggage, like the fact he was fined $300000 for ethics violation. he even teamed up with nancy pelosi and al gore on global warming. reporter: and gingrich's rise</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201105.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110514_000000_The_OReilly_Factor#start/36/end/71</field>
+<field name="datetime">5/14/2011 0:00:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20110514_000000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110514_000000_The_OReilly_Factor/FOXNEWS_20110514_000000_The_OReilly_Factor.thumbs/FOXNEWS_20110514_000000_The_OReilly_Factor_000030.jpg</field>
+<field name="snippet">school children are reading in their textbooks. bill: also update you on the continuing border chaos and chaos in arizona. we do agree our country must take action to address climate change. cleaner forms of energy and we need them fast.</field>
+</doc>
+</add>

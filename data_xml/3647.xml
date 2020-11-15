@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170410_160000_BBC_News_at_Five#start/1674/end/1709</field>
+<field name="datetime">4/10/2017 16:28:09</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20170410_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170410_160000_BBC_News_at_Five/BBCNEWS_20170410_160000_BBC_News_at_Five.thumbs/BBCNEWS_20170410_160000_BBC_News_at_Five_001647.jpg</field>
+<field name="snippet">to save one of nature's wonders, australia must take decisive action on climate change. the government in canberra has acknowledged that global warming was the biggest long-term threat facing the reef and has promised to protect it.</field>
+</doc>
+</add>

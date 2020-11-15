@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170106_150000_BBC_News#start/2592/end/2627</field>
+<field name="datetime">1/6/2017 15:43:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170106_150000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170106_150000_BBC_News/BBCNEWS_20170106_150000_BBC_News.thumbs/BBCNEWS_20170106_150000_BBC_News_002577.jpg</field>
+<field name="snippet">of manhattan island. but despite the concerns of global warming, researchers said they have no evidence that climate change is playing any significant role in the new iceberg's formation. dr mark brandon is a reader</field>
+</doc>
+</add>

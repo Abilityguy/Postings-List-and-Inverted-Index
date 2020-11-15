@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091218_110000_Morning_Joe#start/2708/end/2743</field>
+<field name="datetime">12/18/2009 11:45:23</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20091218_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20091218_110000_Morning_Joe/MSNBC_20091218_110000_Morning_Joe.thumbs/MSNBC_20091218_110000_Morning_Joe_002696.jpg</field>
+<field name="snippet">the president, al gore, global warming champions, all upside down with the american electorate. what's going on? first of all, good to see you. i hope we never get to the -- maybe we are there.</field>
+</doc>
+</add>

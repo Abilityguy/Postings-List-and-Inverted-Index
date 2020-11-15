@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190512_200000_World_News_Today#start/59/end/94</field>
+<field name="datetime">5/12/2019 20:01:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190512_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190512_200000_World_News_Today/BBCNEWS_20190512_200000_World_News_Today.thumbs/BBCNEWS_20190512_200000_World_News_Today_000059.jpg</field>
+<field name="snippet">hello and welcome to world news today. the world is not on track to tackle climate change, and the political will to act is fading. that's the uncompromising message from the un secretary general, antonio guterres. speaking in new zealand, he described climate change as the defining issue of our time. more now from sunita jaswal.</field>
+</doc>
+</add>

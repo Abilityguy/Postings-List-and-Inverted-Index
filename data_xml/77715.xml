@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191105_170000_BBC_News_at_Five#start/2978/end/3013</field>
+<field name="datetime">11/5/2019 17:49:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20191105_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191105_170000_BBC_News_at_Five/BBCNEWS_20191105_170000_BBC_News_at_Five.thumbs/BBCNEWS_20191105_170000_BBC_News_at_Five_002968.jpg</field>
+<field name="snippet">it also provides 'climate finance' to poorer countries - to adapt to climate change and switch to renewable energy - but with the us out of the pact, there will be a funding shortfall.</field>
+</doc>
+</add>

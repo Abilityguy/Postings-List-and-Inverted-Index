@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201504.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150422_200000_NOW_With_Alex_Wagner#start/3643/end/3678</field>
+<field name="datetime">4/22/2015 21:00:58</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20150422_200000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150422_200000_NOW_With_Alex_Wagner/MSNBCW_20150422_200000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20150422_200000_NOW_With_Alex_Wagner_003615.jpg</field>
+<field name="snippet">and -- i hope you're listening because this is so serious. in places like this, folks don't have time we don't have time, you do not have time to deny the effects of climate change. good to have you with us tonight, folks. thanks for watching. we start this evening</field>
+</doc>
+</add>

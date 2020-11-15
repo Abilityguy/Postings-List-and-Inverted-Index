@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_210000_BBC_News_at_Ten#start/121/end/156</field>
+<field name="datetime">8/8/2019 21:02:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20190808_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_210000_BBC_News_at_Ten/BBCNEWS_20190808_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20190808_210000_BBC_News_at_Ten_000087.jpg</field>
+<field name="snippet">of transfer deadline day - romelu lukaku has left manchester united to join inter milan for a club record fee. good evening. a major united nations report on land use and climate change says we should all be eating less meat</field>
+</doc>
+</add>

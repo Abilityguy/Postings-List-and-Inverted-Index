@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201003.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100323_160000_MSNBC_News_Live#start/386/end/421</field>
+<field name="datetime">3/23/2010 16:06:41</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100323_160000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100323_160000_MSNBC_News_Live/MSNBC_20100323_160000_MSNBC_News_Live.thumbs/MSNBC_20100323_160000_MSNBC_News_Live_000386.jpg</field>
+<field name="snippet">on climate change and immigration, they're going to have to be people within the republican party of good will, who actually want to get something done. that's the question for you, jonathan, again. how do you disaggregate the</field>
+</doc>
+</add>

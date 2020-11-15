@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190523_050000_Breakfast#start/604/end/639</field>
+<field name="datetime">5/23/2019 5:10:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190523_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190523_050000_Breakfast/BBCNEWS_20190523_050000_Breakfast.thumbs/BBCNEWS_20190523_050000_Breakfast_000597.jpg</field>
+<field name="snippet">their college subjects. the 100 wealthiest families and charitable institutions in britain have been sent a letter by a group of leading scientists, asking for help in tackling climate change. the letter highlights the danger of deforestation, carbon emissions and species extinction, and asks</field>
+</doc>
+</add>

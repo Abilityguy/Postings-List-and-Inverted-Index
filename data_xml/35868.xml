@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201709.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170909_140000_AM_Joy#start/5931/end/5966</field>
+<field name="datetime">9/9/2017 15:39:06</field>
+<field name="station">MSNBC</field>
+<field name="show">AM Joy</field>
+<field name="showid">MSNBCW_20170909_140000_AM_Joy</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170909_140000_AM_Joy/MSNBCW_20170909_140000_AM_Joy.thumbs/MSNBCW_20170909_140000_AM_Joy_005907.jpg</field>
+<field name="snippet">manmade, within the hurricane science community there's actually relatively little consensus still in terms of how climate change affects hurricanes. a lot of the studies use global climate models capable of resolving hurricanes within those simulations.</field>
+</doc>
+</add>

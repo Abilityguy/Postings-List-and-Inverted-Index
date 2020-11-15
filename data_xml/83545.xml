@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190423_080000_BBC_News_at_Nine#start/39/end/74</field>
+<field name="datetime">4/23/2019 8:00:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190423_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190423_080000_BBC_News_at_Nine/BBCNEWS_20190423_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190423_080000_BBC_News_at_Nine_000058.jpg</field>
+<field name="snippet">as mps return to westminster, talks are due to resume between the government and labour as they try to break the brexit deadlock. the swedish teenage enviromental activist greta thunberg urges politicians to listen to scientists when it comes to the impacts of climate change.</field>
+</doc>
+</add>

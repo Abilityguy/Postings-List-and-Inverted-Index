@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190930_100000_BBC_Newsroom_Live#start/6457/end/6492</field>
+<field name="datetime">9/30/2019 11:47:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190930_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190930_100000_BBC_Newsroom_Live/BBCNEWS_20190930_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190930_100000_BBC_Newsroom_Live_006448.jpg</field>
+<field name="snippet">this man lost his house because of climate change. he and other families across the mekong delta of facing an increasingly desperate situation. there used to be two houses where you can see this open space of water.</field>
+</doc>
+</add>

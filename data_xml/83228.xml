@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191008_030000_BBC_News#start/1816/end/1851</field>
+<field name="datetime">10/8/2019 3:30:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191008_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191008_030000_BBC_News/BBCNEWS_20191008_030000_BBC_News.thumbs/BBCNEWS_20191008_030000_BBC_News_001798.jpg</field>
+<field name="snippet">if they go what he called 'off limits.' thousands of climate change activists have begun two weeks of global protest. the campaign, coordinated by extinction rebellion, is pushing for more urgent government action to stop rising carbon emissions. in london there were more than 250</field>
+</doc>
+</add>

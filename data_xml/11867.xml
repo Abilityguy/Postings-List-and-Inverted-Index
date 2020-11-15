@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190824_090000_BBC_News#start/181/end/216</field>
+<field name="datetime">8/24/2019 9:03:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190824_090000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190824_090000_BBC_News/BBCNEWS_20190824_090000_BBC_News.thumbs/BBCNEWS_20190824_090000_BBC_News_000177.jpg</field>
+<field name="snippet">the brazilian rainforest. but he's expected to struggle to bridge the growing divide between the us and europe of issues like climate change and trade. summits like these are supposed to be opportunities for world leaders to come together and agree common action on the</field>
+</doc>
+</add>

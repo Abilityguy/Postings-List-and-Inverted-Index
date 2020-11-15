@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200119_060000_Breakfast#start/6675/end/6710</field>
+<field name="datetime">1/19/2020 7:51:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20200119_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200119_060000_Breakfast/BBCNEWS_20200119_060000_Breakfast.thumbs/BBCNEWS_20200119_060000_Breakfast_006658.jpg</field>
+<field name="snippet">the wetlands are now much more vulnerable to the effects of climate change. in 2011, a devastating forest fire burned through 6500 acres, taking more than 100 days to put out. i am meeting the man leading efforts to save the swamp. we are actually walking along washington ditch, named after george washington who was one partner in the dismal swamp land company.</field>
+</doc>
+</add>

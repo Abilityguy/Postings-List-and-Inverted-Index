@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190122_170000_BBC_News_at_Five#start/1386/end/1421</field>
+<field name="datetime">1/22/2019 17:23:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190122_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190122_170000_BBC_News_at_Five/BBCNEWS_20190122_170000_BBC_News_at_Five.thumbs/BBCNEWS_20190122_170000_BBC_News_at_Five_001379.jpg</field>
+<field name="snippet">some would argue. dharshini david, thank you. prince william has been speaking to sir david attenborough at the meeting of world leaders and top business people in davos. the prince interviewed the veteran broadcaster about the urgent challenges facing the next generation of environmental leaders. speaking to the prince, sir david said it was difficult to overstate the urgency needed to tackle climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100111_050000_Red_Eye#start/2954/end/2989</field>
+<field name="datetime">1/11/2010 5:49:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20100111_050000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100111_050000_Red_Eye/FOXNEWS_20100111_050000_Red_Eye.thumbs/FOXNEWS_20100111_050000_Red_Eye_002940.jpg</field>
+<field name="snippet">what happened to global warming? he is it a lie? it is not a lie. over the last years the earth is warming. in my own lifetime in alaska i've seen glaciers disappear. i've seen glaciers melt.</field>
+</doc>
+</add>

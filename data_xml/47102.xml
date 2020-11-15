@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201101.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110131_230000_MSNBC_Live#start/3282/end/3317</field>
+<field name="datetime">1/31/2011 23:54:57</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBC_20110131_230000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20110131_230000_MSNBC_Live/MSNBC_20110131_230000_MSNBC_Live.thumbs/MSNBC_20110131_230000_MSNBC_Live_003264.jpg</field>
+<field name="snippet">conference is to raise funds for the 2012 election. i want to show where some of the funding goes that the koh brothers give out. funding to 25 conservative and libertarian groups. $48 million to global warming opposition groups.</field>
+</doc>
+</add>

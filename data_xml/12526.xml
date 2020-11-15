@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170713_033000_BBC_News_NI_Special#start/1701/end/1736</field>
+<field name="datetime">7/13/2017 3:58:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News NI Special</field>
+<field name="showid">BBCNEWS_20170713_033000_BBC_News_NI_Special</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170713_033000_BBC_News_NI_Special/BBCNEWS_20170713_033000_BBC_News_NI_Special.thumbs/BBCNEWS_20170713_033000_BBC_News_NI_Special_001677.jpg</field>
+<field name="snippet">from the corporate world to the top job in politics: a similarjourney but two very different presidents. so, on trade and climate change, can they do business? plus - facing up to artificial intelligence.</field>
+</doc>
+</add>

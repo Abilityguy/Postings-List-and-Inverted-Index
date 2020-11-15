@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170528_020000_BBC_News#start/0/end/32</field>
+<field name="datetime">5/28/2017 2:00:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170528_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170528_020000_BBC_News/BBCNEWS_20170528_020000_BBC_News.thumbs/BBCNEWS_20170528_020000_BBC_News_000058.jpg</field>
+<field name="snippet">this is bbc news. i'm lebo diseko. our top stories: moments before he killed, the manchester suicide bomber caught on cctv. tens of thousands of passengers stranded around the world, but british airways says it will get services running again on sunday. no commitment on climate change.</field>
+</doc>
+</add>

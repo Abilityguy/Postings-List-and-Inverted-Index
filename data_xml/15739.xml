@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201112.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111226_160000_Happening_Now#start/5634/end/5669</field>
+<field name="datetime">12/26/2011 17:34:09</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20111226_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111226_160000_Happening_Now/FOXNEWSW_20111226_160000_Happening_Now.thumbs/FOXNEWSW_20111226_160000_Happening_Now_005606.jpg</field>
+<field name="snippet">yesterday's campaign promotion can become today's attack ad. we do agree our country must take action to address climate change. if enough of us demand action</field>
+</doc>
+</add>

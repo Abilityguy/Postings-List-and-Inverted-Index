@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191102_060000_Breakfast#start/1937/end/1972</field>
+<field name="datetime">11/2/2019 6:32:32</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191102_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191102_060000_Breakfast/BBCNEWS_20191102_060000_Breakfast.thumbs/BBCNEWS_20191102_060000_Breakfast_001918.jpg</field>
+<field name="snippet">30000 people are being asked how they would fight climate change. the project is being launched by several commons committees in efforts to achieve zero carbon emissions by the middle of the century. the special citizens' assembly will meet for the first time next year.</field>
+</doc>
+</add>

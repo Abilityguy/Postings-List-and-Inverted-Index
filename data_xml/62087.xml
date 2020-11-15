@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201409.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140923_190000_Shepard_Smith_Reporting#start/401/end/436</field>
+<field name="datetime">9/23/2014 19:06:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20140923_190000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140923_190000_Shepard_Smith_Reporting/FOXNEWSW_20140923_190000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20140923_190000_Shepard_Smith_Reporting_000375.jpg</field>
+<field name="snippet">tell us what the president is sitting down to the coalition leaders now. i guess they're going hash this out? that's right, he's here in new york, giving a speech on climate change. now is having a meeting next hour with some of the coalition partners you mentioned from these arab nations. but look, he has a lot of work</field>
+</doc>
+</add>

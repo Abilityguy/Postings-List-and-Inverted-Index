@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201701.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170112_110000_Morning_Joe#start/2444/end/2479</field>
+<field name="datetime">1/12/2017 11:40:59</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20170112_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170112_110000_Morning_Joe/MSNBCW_20170112_110000_Morning_Joe.thumbs/MSNBCW_20170112_110000_Morning_Joe_002427.jpg</field>
+<field name="snippet">ma mendes of new jersey what does donald trump say when you say these things? tillerson say we have not spoken with russia. they have spoken about global warming and not russia, i find that very hard to believe.</field>
+</doc>
+</add>

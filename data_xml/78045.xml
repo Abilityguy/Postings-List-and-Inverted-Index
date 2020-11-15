@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191122_093000_Victoria_Derbyshire#start/3681/end/3716</field>
+<field name="datetime">11/22/2019 10:31:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20191122_093000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191122_093000_Victoria_Derbyshire/BBCNEWS_20191122_093000_Victoria_Derbyshire.thumbs/BBCNEWS_20191122_093000_Victoria_Derbyshire_003659.jpg</field>
+<field name="snippet">country about climate change, it will make the smallest dent in global emissions, so why are we throwing all this money into something that will make no difference when that money can be spent on stuff that will make a</field>
+</doc>
+</add>

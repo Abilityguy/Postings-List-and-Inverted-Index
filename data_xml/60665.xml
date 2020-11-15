@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_180000_Beyond_100_Days#start/1722/end/1757</field>
+<field name="datetime">10/8/2018 18:28:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20181008_180000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_180000_Beyond_100_Days/BBCNEWS_20181008_180000_Beyond_100_Days.thumbs/BBCNEWS_20181008_180000_Beyond_100_Days_001708.jpg</field>
+<field name="snippet">our top stories. scientists ring the alarm bell, experts say we are running out of time to save the planet from the catastrophic effects of climate change. turkey requests to search the saudi consulate in istanbul, after authorities say they fear journalist jamal khashoggi was killed inside the building. coming up in the next half hour.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170526_043000_World_Business_Report#start/883/end/918</field>
+<field name="datetime">5/26/2017 4:44:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World Business Report</field>
+<field name="showid">BBCNEWS_20170526_043000_World_Business_Report</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170526_043000_World_Business_Report/BBCNEWS_20170526_043000_World_Business_Report.thumbs/BBCNEWS_20170526_043000_World_Business_Report_000867.jpg</field>
+<field name="snippet">donald trump's son-in-law, jared kushner, is now part of the fbi inquiry into russian involvement in the us election. president trump will attend his first g7 summit today in sicily, with discussions expected to focus on global security, trade and climate change.</field>
+</doc>
+</add>

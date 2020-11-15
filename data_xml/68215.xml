@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190222_200000_BBC_News#start/2467/end/2502</field>
+<field name="datetime">2/22/2019 20:41:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190222_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190222_200000_BBC_News/BBCNEWS_20190222_200000_BBC_News.thumbs/BBCNEWS_20190222_200000_BBC_News_002458.jpg</field>
+<field name="snippet">it's very risky really to focus just on a few species to feed the world, because anything can happen. you can have a new disease, you can have a problem with climate change, so it's very important to have available a wider range of species to feed the world.</field>
+</doc>
+</add>

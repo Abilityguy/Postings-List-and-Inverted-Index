@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201011.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101116_110000_Morning_Joe#start/9585/end/9620</field>
+<field name="datetime">11/16/2010 13:40:00</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20101116_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20101116_110000_Morning_Joe/MSNBC_20101116_110000_Morning_Joe.thumbs/MSNBC_20101116_110000_Morning_Joe_009510.jpg</field>
+<field name="snippet">ruling the climate debate. this is one picture that summarizes how a lot of people see global warming as a catastrophe. the tag line of al gore's film is, this is the most terrifying</field>
+</doc>
+</add>

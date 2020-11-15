@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200110_023000_Thursday_in_Parliament#start/1219/end/1254</field>
+<field name="datetime">1/10/2020 2:50:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Thursday in Parliament</field>
+<field name="showid">BBCNEWS_20200110_023000_Thursday_in_Parliament</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200110_023000_Thursday_in_Parliament/BBCNEWS_20200110_023000_Thursday_in_Parliament.thumbs/BBCNEWS_20200110_023000_Thursday_in_Parliament_001197.jpg</field>
+<field name="snippet">that these three leaders i mentioned have all seen the raging wildfires in their countries over the last year - in california, the amazon, and now on the eastern coast of australia. so the question we all face is how we address the challenge of climate change ?  _</field>
+</doc>
+</add>

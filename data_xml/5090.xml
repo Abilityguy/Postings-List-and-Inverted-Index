@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170602_050000_Breakfast#start/5421/end/5456</field>
+<field name="datetime">6/2/2017 6:30:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20170602_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170602_050000_Breakfast/BBCNEWS_20170602_050000_Breakfast.thumbs/BBCNEWS_20170602_050000_Breakfast_005398.jpg</field>
+<field name="snippet">president trump's decision to withdraw the united states from the paris climate change accord. mr trump said the deal disadvantaged the us and threatened american jobs. world leaders have reacted with dismay to the move, with chinese and eu leaders meeting in brussels to make a joint statement on the issue later today.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171217_043000_Click#start/774/end/809</field>
+<field name="datetime">12/17/2017 4:43:09</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Click</field>
+<field name="showid">BBCNEWS_20171217_043000_Click</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171217_043000_Click/BBCNEWS_20171217_043000_Click.thumbs/BBCNEWS_20171217_043000_Click_000748.jpg</field>
+<field name="snippet">for is quantum sensors. and what we're doing in this experiment is we want to sense greenhouse gases, and measure how much there is, how that is changing over time. and one good way to monitor large-scale systems is from space. to put something properly</field>
+</doc>
+</add>

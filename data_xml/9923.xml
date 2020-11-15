@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201505.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150525_200000_Your_World_With_Neil_Cavuto#start/2039/end/2074</field>
+<field name="datetime">5/25/2015 20:34:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20150525_200000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150525_200000_Your_World_With_Neil_Cavuto/FOXNEWSW_20150525_200000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20150525_200000_Your_World_With_Neil_Cavuto_002025.jpg</field>
+<field name="snippet">our climate models tell us that climate change could have caused a 3.8% reduction in rainfall. less than an inch. if that much rain is going to cause people to start cut</field>
+</doc>
+</add>

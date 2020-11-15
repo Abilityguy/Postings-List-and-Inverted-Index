@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201612.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161220_230000_Special_Report_With_Bret_Baier#start/2543/end/2578</field>
+<field name="datetime">12/20/2016 23:42:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20161220_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161220_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20161220_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20161220_230000_Special_Report_With_Bret_Baier_002518.jpg</field>
+<field name="snippet">debate about climate change, pruitt has acknowledged human impact on the climate and supports a robust discussion about its effects and what the government should and should not do to address it.' jeb bush there writing that. laura, what do you think the environmental policy of the</field>
+</doc>
+</add>

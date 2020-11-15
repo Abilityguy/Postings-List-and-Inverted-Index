@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201506.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150622_070000_MediaBuzz#start/1820/end/1855</field>
+<field name="datetime">6/22/2015 7:30:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">MediaBuzz</field>
+<field name="showid">FOXNEWSW_20150622_070000_MediaBuzz</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150622_070000_MediaBuzz/FOXNEWSW_20150622_070000_MediaBuzz.thumbs/FOXNEWSW_20150622_070000_MediaBuzz_001815.jpg</field>
+<field name="snippet">john: that's what i'm understanding too. so we and al gore and bill and neil what makes you qualified to talk about climate change? gore and tyson did not respond, but bill did. he says as an engineer, i studied physics classical</field>
+</doc>
+</add>

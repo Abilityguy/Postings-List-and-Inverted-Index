@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201001.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100119_010000_Countdown_With_Keith_Olbermann#start/2346/end/2381</field>
+<field name="datetime">1/19/2010 1:39:21</field>
+<field name="station">MSNBC</field>
+<field name="show">Countdown With Keith Olbermann</field>
+<field name="showid">MSNBC_20100119_010000_Countdown_With_Keith_Olbermann</field>
+<field name="preview">https://archive.org/download/MSNBC_20100119_010000_Countdown_With_Keith_Olbermann/MSNBC_20100119_010000_Countdown_With_Keith_Olbermann.thumbs/MSNBC_20100119_010000_Countdown_With_Keith_Olbermann_002336.jpg</field>
+<field name="snippet">story that fox news covered last week that was not about sarah palin. it has been presented as an auger about everything from the republicans taking the senate back to the outcome of 2012. everything except disproving climate change and they probably just didn't feel like they needed to do that. assuming it is a republican win</field>
+</doc>
+</add>

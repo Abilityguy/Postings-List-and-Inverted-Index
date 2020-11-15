@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171213_010000_Newsday#start/30/end/65</field>
+<field name="datetime">12/13/2017 1:00:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20171213_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171213_010000_Newsday/BBCNEWS_20171213_010000_Newsday.thumbs/BBCNEWS_20171213_010000_Newsday_000058.jpg</field>
+<field name="snippet">'the world is losing its fight against global warming' - france's president macron gives other world leaders a blunt warning. and on a red carpet not so far, far away. the latest star wars film feels the royal force at its european premiere.</field>
+</doc>
+</add>

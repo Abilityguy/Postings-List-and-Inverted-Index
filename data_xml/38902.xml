@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100416_080000_Special_Report_With_Bret_Baier#start/1660/end/1695</field>
+<field name="datetime">4/16/2010 8:27:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100416_080000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100416_080000_Special_Report_With_Bret_Baier/FOXNEWS_20100416_080000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100416_080000_Special_Report_With_Bret_Baier_001644.jpg</field>
+<field name="snippet">in england one hosted by sky news and another by the british broadcasting corporation. they were cautious tonight and perhaps there will be more fireworks in a we can's time. bret: john craig live in manchester. thank you. debate over global warming</field>
+</doc>
+</add>

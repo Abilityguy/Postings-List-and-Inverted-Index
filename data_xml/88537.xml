@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190612_220000_BBC_News#start/621/end/656</field>
+<field name="datetime">6/12/2019 22:10:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190612_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190612_220000_BBC_News/BBCNEWS_20190612_220000_BBC_News.thumbs/BBCNEWS_20190612_220000_BBC_News_000597.jpg</field>
+<field name="snippet">so what is a net-zero target? well, it means running the economy without adding to levels of greenhouse gases. offshore wind turbines are key to that, and there will be a lot more of them, and it also means making big changes</field>
+</doc>
+</add>

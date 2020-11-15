@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201604.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160423_080000_The_Kelly_File#start/1132/end/1167</field>
+<field name="datetime">4/23/2016 8:19:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Kelly File</field>
+<field name="showid">FOXNEWSW_20160423_080000_The_Kelly_File</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160423_080000_The_Kelly_File/FOXNEWSW_20160423_080000_The_Kelly_File.thumbs/FOXNEWSW_20160423_080000_The_Kelly_File_001107.jpg</field>
+<field name="snippet">some heads of state gathered at the u.n. to sign a climate change agreement reached last december in paris. secretary of state john kerry who brought his granddaughter represented the u.s. we learned that 2015 was the hottest year in recorded history</field>
+</doc>
+</add>

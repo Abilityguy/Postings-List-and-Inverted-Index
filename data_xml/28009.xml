@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201406.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140608_100000_FOX_and_Friends_Sunday#start/13631/end/13666</field>
+<field name="datetime">6/8/2014 13:47:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20140608_100000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140608_100000_FOX_and_Friends_Sunday/FOXNEWSW_20140608_100000_FOX_and_Friends_Sunday.thumbs/FOXNEWSW_20140608_100000_FOX_and_Friends_Sunday_013605.jpg</field>
+<field name="snippet">that's how much the epa regulations on greenhouse gases could cost your family per year in utility bills alone. according to new research from the heritage foundation the new regulations would also cut jobs. so who would be hurt the most by these regulations. here to break it down is the host of sunday morning futures</field>
+</doc>
+</add>

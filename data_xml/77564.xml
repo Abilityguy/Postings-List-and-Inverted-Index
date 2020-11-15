@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191116_043000_Our_World#start/198/end/233</field>
+<field name="datetime">11/16/2019 4:33:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Our World</field>
+<field name="showid">BBCNEWS_20191116_043000_Our_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191116_043000_Our_World/BBCNEWS_20191116_043000_Our_World.thumbs/BBCNEWS_20191116_043000_Our_World_000178.jpg</field>
+<field name="snippet">now on bbc news, our world. as australia struggles with climate change, nick lazaredes meets those blamed for the decline of the great</field>
+</doc>
+</add>

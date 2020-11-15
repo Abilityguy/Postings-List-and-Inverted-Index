@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190419_090000_BBC_News#start/484/end/519</field>
+<field name="datetime">4/19/2019 9:08:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190419_090000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190419_090000_BBC_News/BBCNEWS_20190419_090000_BBC_News.thumbs/BBCNEWS_20190419_090000_BBC_News_000478.jpg</field>
+<field name="snippet">as sarah mentioned, the organisers of a climate change protest at heathrow airport say that they have created what they call an 'emotional disruption'. a smalll group called extinction rebellion youth - mostly aged under 17 - have been standing by the entrance to terminals two and three, but all roads have remained open. simon calder, travel editor at the independent,</field>
+</doc>
+</add>

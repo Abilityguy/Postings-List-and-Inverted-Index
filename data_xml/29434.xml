@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201905.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190520_160000_Andrea_Mitchell_Reports#start/1340/end/1375</field>
+<field name="datetime">5/20/2019 16:22:35</field>
+<field name="station">MSNBC</field>
+<field name="show">Andrea Mitchell Reports</field>
+<field name="showid">MSNBCW_20190520_160000_Andrea_Mitchell_Reports</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190520_160000_Andrea_Mitchell_Reports/MSNBCW_20190520_160000_Andrea_Mitchell_Reports.thumbs/MSNBCW_20190520_160000_Andrea_Mitchell_Reports_001317.jpg</field>
+<field name="snippet">committed republican fox news viewers believe global warming is not man made. it's still in an election that could matter as the last one did with a handful of votes in various select states. i think that this is where you</field>
+</doc>
+</add>

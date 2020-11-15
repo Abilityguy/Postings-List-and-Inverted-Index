@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190827_173000_Sportsday#start/68/end/103</field>
+<field name="datetime">8/27/2019 17:31:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Sportsday</field>
+<field name="showid">BBCNEWS_20190827_173000_Sportsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190827_173000_Sportsday/BBCNEWS_20190827_173000_Sportsday.thumbs/BBCNEWS_20190827_173000_Sportsday_000059.jpg</field>
+<field name="snippet">at what else is coming up this evening on bbc news. we'll have the latest on the future of the bolton wanderers and bury fc, after the deadline to save both clubs has passed. also, we'll be finding out why vets think feeding your pets insects could be the solution to helping fight climate change.</field>
+</doc>
+</add>

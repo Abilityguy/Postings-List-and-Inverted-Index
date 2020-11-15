@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201511.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151119_020000_The_Rachel_Maddow_Show#start/2338/end/2373</field>
+<field name="datetime">11/19/2015 2:39:13</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBCW_20151119_020000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151119_020000_The_Rachel_Maddow_Show/MSNBCW_20151119_020000_The_Rachel_Maddow_Show.thumbs/MSNBCW_20151119_020000_The_Rachel_Maddow_Show_002326.jpg</field>
+<field name="snippet">friday's attack is the huge landmark global climate conference that paris is supposed to be hosting at the end of this month. it is a super high stakes, super high-profile u.n. summit on climate change that has been in the works and has been the subject of lots of political consternation in lots of</field>
+</doc>
+</add>

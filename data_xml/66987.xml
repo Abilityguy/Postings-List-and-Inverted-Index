@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140507_090000_First_Look#start/17/end/52</field>
+<field name="datetime">5/7/2014 9:00:32</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20140507_090000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140507_090000_First_Look/MSNBCW_20140507_090000_First_Look.thumbs/MSNBCW_20140507_090000_First_Look_000045.jpg</field>
+<field name="snippet">good wednesday, morning, everyone. right now on 'first look,' the girls kidnapped in nigeria. and the white house reports says the effects of climate change</field>
+</doc>
+</add>

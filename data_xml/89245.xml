@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190603_073000_BBC_News#start/972/end/1007</field>
+<field name="datetime">6/3/2019 7:46:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190603_073000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190603_073000_BBC_News/BBCNEWS_20190603_073000_BBC_News.thumbs/BBCNEWS_20190603_073000_BBC_News_000957.jpg</field>
+<field name="snippet">whether it's in terms of climate change, the one area where there might be some hard politics is around the decision on huawei and whether we give the green light to allow them to be involved in 5g. but overall it's going to be a slightly</field>
+</doc>
+</add>

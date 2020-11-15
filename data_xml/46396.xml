@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201510.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151017_000000_All_In_With_Chris_Hayes#start/2304/end/2339</field>
+<field name="datetime">10/17/2015 0:38:39</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20151017_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151017_000000_All_In_With_Chris_Hayes/MSNBCW_20151017_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20151017_000000_All_In_With_Chris_Hayes_002295.jpg</field>
+<field name="snippet">warming is far from air tight. there's a lot we really don't know about how climate will change in the 21st century and beyond.' recent reports by the 'l.a. times' and the pulitzer prize-winning 'inside climate news' document how exxon's own scientists were researching and drawing conclusions about climate change as far back as</field>
+</doc>
+</add>

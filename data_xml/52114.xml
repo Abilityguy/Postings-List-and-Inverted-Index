@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_180000_BBC_News_at_Six#start/160/end/195</field>
+<field name="datetime">12/3/2018 18:02:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20181203_180000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_180000_BBC_News_at_Six/BBCNEWS_20181203_180000_BBC_News_at_Six.thumbs/BBCNEWS_20181203_180000_BBC_News_at_Six_000147.jpg</field>
+<field name="snippet">our greatest threat in thousands of years - climate change. if we don't take action, the collapse of our civilisations and the extinction of much of the natural world is on the horizon. there was applause, but not much.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201010.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101027_150000_Happening_Now#start/5359/end/5394</field>
+<field name="datetime">10/27/2010 16:29:34</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20101027_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101027_150000_Happening_Now/FOXNEWS_20101027_150000_Happening_Now.thumbs/FOXNEWS_20101027_150000_Happening_Now_005361.jpg</field>
+<field name="snippet">jenna: back to politics now. right now, it's another big decision, and california voters have to make it come tuesday, but this one does not involve an actual candidate. instead, voters will decide on a ballot measure linking a global warming law to the</field>
+</doc>
+</add>

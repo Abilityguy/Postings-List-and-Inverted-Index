@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201302.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130213_110000_FOX_and_Friends#start/5835/end/5870</field>
+<field name="datetime">2/13/2013 12:37:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20130213_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130213_110000_FOX_and_Friends/FOXNEWSW_20130213_110000_FOX_and_Friends.thumbs/FOXNEWSW_20130213_110000_FOX_and_Friends_005835.jpg</field>
+<field name="snippet">president's agenda. he'd like to -- i'm going to start with the second one, expand preschool programs. he'd like $40 billion toward infrastructure, shovel ready stuff. he'd like to combat climate change. now the first item, he would like to increase the minimum wage from 7.25 to $9.</field>
+</doc>
+</add>

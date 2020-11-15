@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091204_110000_FOX_and_Friends#start/9882/end/9917</field>
+<field name="datetime">12/4/2009 13:44:57</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091204_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091204_110000_FOX_and_Friends/FOXNEWS_20091204_110000_FOX_and_Friends.thumbs/FOXNEWS_20091204_110000_FOX_and_Friends_009704.jpg</field>
+<field name="snippet">gretchen: resemper threatening to sue nasa now saying that he suspects the agency is manipulating data on climate change. has climate gate now reached nasa? eric: that researcher chris horner, a senior fellow with the competitive enterprise institute and author of 'red hot lies.'</field>
+</doc>
+</add>

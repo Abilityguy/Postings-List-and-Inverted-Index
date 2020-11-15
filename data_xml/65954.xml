@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190219_110000_FOX__Friends#start/7346/end/7381</field>
+<field name="datetime">2/19/2019 13:02:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20190219_110000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190219_110000_FOX__Friends/FOXNEWSW_20190219_110000_FOX__Friends.thumbs/FOXNEWSW_20190219_110000_FOX__Friends_007319.jpg</field>
+<field name="snippet">transforming our country. reporter: as for what that transformation might include, here are some highlights that he puts in his first campaign video. medicare for all, free college tuition, climate change, possibly a new green deal, taking on corporate greed,</field>
+</doc>
+</add>

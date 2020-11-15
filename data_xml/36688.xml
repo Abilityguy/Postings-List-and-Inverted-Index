@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201906.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190606_190000_MSNBC_Live_With_Ali_Velshi#start/473/end/508</field>
+<field name="datetime">6/6/2019 19:08:08</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190606_190000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190606_190000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190606_190000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190606_190000_MSNBC_Live_With_Ali_Velshi_000450.jpg</field>
+<field name="snippet">there are so many things they are concerned about right now, health care, gun violence, immigration and the economy. climate change is obviously up there. it's often number one, two, three or four. how do you make the argument</field>
+</doc>
+</add>

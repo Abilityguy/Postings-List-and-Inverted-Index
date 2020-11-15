@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_030000_BBC_News#start/732/end/767</field>
+<field name="datetime">12/3/2018 3:12:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181203_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_030000_BBC_News/BBCNEWS_20181203_030000_BBC_News.thumbs/BBCNEWS_20181203_030000_BBC_News_000718.jpg</field>
+<field name="snippet">mark howden is the director of the climate change institute at the australian national university in canberra. he also shared the nobel peace prize with the ipcc and al gore in 2007 for his contribution to climate change research. well, i spoke to him earlier about the tough negotiations that will take place at the copzii conference.</field>
+</doc>
+</add>

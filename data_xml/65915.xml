@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190227_090000_Fox_and_Friends_First#start/1505/end/1540</field>
+<field name="datetime">2/27/2019 9:25:20</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190227_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190227_090000_Fox_and_Friends_First/FOXNEWSW_20190227_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190227_090000_Fox_and_Friends_First_001498.jpg</field>
+<field name="snippet">house republicans claim a small victory or climate change hearing after democrats don't show up. tickets congressman louis goehmert ending the hearing early since two democrats were actually there, calling it a waste of taxpayer time.</field>
+</doc>
+</add>

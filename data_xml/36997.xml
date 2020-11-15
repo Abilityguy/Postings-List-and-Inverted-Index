@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201906.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190629_000000_All_In_With_Chris_Hayes#start/338/end/373</field>
+<field name="datetime">6/29/2019 0:05:53</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20190629_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190629_000000_All_In_With_Chris_Hayes/MSNBCW_20190629_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20190629_000000_All_In_With_Chris_Hayes_000329.jpg</field>
+<field name="snippet">those viewership numbers. my goal, chris, was to make sure that everybody got a fair shake to communicate their vision, and that we didn't talk about hand size. we talked about health care and climate change and how we build an economy that works for everyone, not just a few at the top. i think we did a good job in</field>
+</doc>
+</add>

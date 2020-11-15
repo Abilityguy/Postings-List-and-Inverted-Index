@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091011_110000_FOX_and_Friends_Sunday#start/7399/end/7434</field>
+<field name="datetime">10/11/2009 13:03:34</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWS_20091011_110000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091011_110000_FOX_and_Friends_Sunday/FOXNEWS_20091011_110000_FOX_and_Friends_Sunday.thumbs/FOXNEWS_20091011_110000_FOX_and_Friends_Sunday_007380.jpg</field>
+<field name="snippet">they complain they were some of the strongest supporters during the campaign, but now they're behind his other priorities like bailouts and health care and afghanistan and climate change. so far president obama has delayed action on don't ask don't tell, saying the pentagon is reviewing the policy.</field>
+</doc>
+</add>

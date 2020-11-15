@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201410.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141014_210000_The_Five#start/141/end/176</field>
+<field name="datetime">10/14/2014 21:02:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20141014_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141014_210000_The_Five/FOXNEWSW_20141014_210000_The_Five.thumbs/FOXNEWSW_20141014_210000_The_Five_000135.jpg</field>
+<field name="snippet">climate change creates terrorism, last time i checked, all the terrorists came from a desert. it's very hot there and it's been hot there for hundreds of years. i don't think the terrorists care that it's hot.</field>
+</doc>
+</add>

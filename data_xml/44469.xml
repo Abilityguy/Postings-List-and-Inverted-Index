@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201706.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170603_190000_MSNBC_Live#start/1928/end/1963</field>
+<field name="datetime">6/3/2017 19:32:23</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170603_190000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170603_190000_MSNBC_Live/MSNBCW_20170603_190000_MSNBC_Live.thumbs/MSNBCW_20170603_190000_MSNBC_Live_001918.jpg</field>
+<field name="snippet">say whether the president believes in climate change. you're the epa administrator. shouldn't you be able to tell the american people whether or not the president believes that climate change is a hoax? where does he stand? it's not indicated.</field>
+</doc>
+</add>

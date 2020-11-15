@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190214_020000_Hannity#start/705/end/740</field>
+<field name="datetime">2/14/2019 2:12:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20190214_020000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190214_020000_Hannity/FOXNEWSW_20190214_020000_Hannity.thumbs/FOXNEWSW_20190214_020000_Hannity_000689.jpg</field>
+<field name="snippet">just last year we gave the military a $700 billion tax -- budget increase. which they didn't even ask for. we're, like, the world is going to end in 12 years, if we don't address climate change.</field>
+</doc>
+</add>

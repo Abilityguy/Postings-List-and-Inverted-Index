@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191227_073000_Review_2019#start/348/end/383</field>
+<field name="datetime">12/27/2019 7:36:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Review 2019</field>
+<field name="showid">BBCNEWS_20191227_073000_Review_2019</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191227_073000_Review_2019/BBCNEWS_20191227_073000_Review_2019.thumbs/BBCNEWS_20191227_073000_Review_2019_000327.jpg</field>
+<field name="snippet">you are watching bbc breakfast. climate change has been a major issue over the last year and it looks likely to dominate the agenda as we enter a new decade. climate defenders is a bbc news special report about some of the people looking for solutions to this global threat.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181216_210000_World_News_Today#start/167/end/202</field>
+<field name="datetime">12/16/2018 21:03:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20181216_210000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181216_210000_World_News_Today/BBCNEWS_20181216_210000_World_News_Today.thumbs/BBCNEWS_20181216_210000_World_News_Today_000147.jpg</field>
+<field name="snippet">coombe, bbc news. there's been a mixed reaction to the agreement finally reached at the un climate change talks in poland late on saturday. nearly 200 hundred countries overcame their differences - eventually - to support measures which will put the 2015 paris agreement into action. it aims to limit the rise in average global tempeartures to 'well below' two celsius. some are satisfied with the outcome - bur environmental activists are still warning that not enough</field>
+</doc>
+</add>

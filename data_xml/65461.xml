@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190311_090000_Fox_and_Friends_First#start/1430/end/1465</field>
+<field name="datetime">3/11/2019 9:24:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190311_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190311_090000_Fox_and_Friends_First/FOXNEWSW_20190311_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190311_090000_Fox_and_Friends_First_001409.jpg</field>
+<field name="snippet">the congresswoman who said the world is going to end in 12 years if we don't do anything about climate change is sounding the alarm again, this time saying people who don't have a job in the united states are left to die. but folks on social media quick to poke holes in that theory.</field>
+</doc>
+</add>

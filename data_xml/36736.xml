@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201906.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190624_090000_First_Look#start/2483/end/2518</field>
+<field name="datetime">6/24/2019 9:41:38</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20190624_090000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190624_090000_First_Look/MSNBCW_20190624_090000_First_Look.thumbs/MSNBCW_20190624_090000_First_Look_002457.jpg</field>
+<field name="snippet">welcome back. the trump administration is refusing to publicize dozens of government funded climate change studies breaking a long standing department of agriculture practice. according to politico it's the latest in the persistent pattern of downplaying such findings</field>
+</doc>
+</add>

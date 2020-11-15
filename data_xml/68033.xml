@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190211_220000_BBC_News_at_Ten#start/1081/end/1116</field>
+<field name="datetime">2/11/2019 22:18:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20190211_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190211_220000_BBC_News_at_Ten/BBCNEWS_20190211_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20190211_220000_BBC_News_at_Ten_001078.jpg</field>
+<field name="snippet">so any decline threatens food production, and there are warnings now that 40% of species could be gone within just a few decades. pesticides, agriculture and climate change are being blamed. 0ur environment correspondent victoria gill has more details.</field>
+</doc>
+</add>

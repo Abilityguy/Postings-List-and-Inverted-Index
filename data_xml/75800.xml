@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201210.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121017_063000_MSNBC_Special_Coverage#start/4007/end/4042</field>
+<field name="datetime">10/17/2012 7:37:02</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Special Coverage</field>
+<field name="showid">MSNBCW_20121017_063000_MSNBC_Special_Coverage</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121017_063000_MSNBC_Special_Coverage/MSNBCW_20121017_063000_MSNBC_Special_Coverage.thumbs/MSNBCW_20121017_063000_MSNBC_Special_Coverage_003988.jpg</field>
+<field name="snippet">ezra klein, thank you very much for that. chris hayes with the audible grunt on climate change. having an energy conversation without talking about climate is like talking about smoking and not talking about cancer. you can't talk about it unless you talk about what the stakes</field>
+</doc>
+</add>

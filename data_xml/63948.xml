@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201410.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20141029_200000_NOW_With_Alex_Wagner#start/1821/end/1856</field>
+<field name="datetime">10/29/2014 20:30:36</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20141029_200000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20141029_200000_NOW_With_Alex_Wagner/MSNBCW_20141029_200000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20141029_200000_NOW_With_Alex_Wagner_001816.jpg</field>
+<field name="snippet">i'm talking europe's uncanny knack. the 28 members agreed to cut greenhouse gas emissions by 40%. the eu commissioner said this target would send a strong sign</field>
+</doc>
+</add>

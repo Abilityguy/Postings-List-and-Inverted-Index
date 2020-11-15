@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190514_080000_Fox_and_Friends_First#start/377/end/412</field>
+<field name="datetime">5/14/2019 8:06:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190514_080000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190514_080000_Fox_and_Friends_First/FOXNEWSW_20190514_080000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190514_080000_Fox_and_Friends_First_000360.jpg</field>
+<field name="snippet">someone else asked to present beat out 14 other candidates in the field. here in the nation's capital sanders joining forces with alexandria ocasio cortez rallying for a green revolution taking aim at joe biden who is suggesting a less radical approach to climate change.</field>
+</doc>
+</add>

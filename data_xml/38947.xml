@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100422_100000_FOX_and_Friends#start/2102/end/2137</field>
+<field name="datetime">4/22/2010 10:35:17</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100422_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100422_100000_FOX_and_Friends/FOXNEWS_20100422_100000_FOX_and_Friends.thumbs/FOXNEWS_20100422_100000_FOX_and_Friends_002094.jpg</field>
+<field name="snippet">the goal, to increase awareness about environmental and ecological issues and check out this spectacular first image of the sun from nasa's new solar dynamics observatory. it's going to help discover some of the sun's inner workings and provide information on climate</field>
+</doc>
+</add>

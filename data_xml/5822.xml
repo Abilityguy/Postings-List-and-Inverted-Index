@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_120000_BBC_News_at_One#start/168/end/203</field>
+<field name="datetime">9/20/2019 12:03:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190920_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_120000_BBC_News_at_One/BBCNEWS_20190920_120000_BBC_News_at_One.thumbs/BBCNEWS_20190920_120000_BBC_News_at_One_000148.jpg</field>
+<field name="snippet">climate before classroom, thousands marching with teachers and other workers to call for government action to cut greenhouse gas emissions. the younger a person is, the more that the changing climate will impact them as they grow, and the less of a voice</field>
+</doc>
+</add>

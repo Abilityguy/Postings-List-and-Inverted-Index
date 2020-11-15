@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201303.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130328_030000_The_OReilly_Factor#start/3380/end/3415</field>
+<field name="datetime">3/28/2013 3:56:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20130328_030000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130328_030000_The_OReilly_Factor/FOXNEWSW_20130328_030000_The_OReilly_Factor.thumbs/FOXNEWSW_20130328_030000_The_OReilly_Factor_003375.jpg</field>
+<field name="snippet">dared to present alternative viewpoints to global warming. john thomas, bakersfield, california, you told glenn beck they can stomp on your name all day long.</field>
+</doc>
+</add>

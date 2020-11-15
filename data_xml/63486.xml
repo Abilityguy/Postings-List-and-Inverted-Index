@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190302_213000_Our_World#start/28/end/63</field>
+<field name="datetime">3/2/2019 21:30:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Our World</field>
+<field name="showid">BBCNEWS_20190302_213000_Our_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190302_213000_Our_World/BBCNEWS_20190302_213000_Our_World.thumbs/BBCNEWS_20190302_213000_Our_World_000027.jpg</field>
+<field name="snippet">company have launched the first astronaut capsule from american soil in eight years. the craft, owned by the spacex company, is carrying a test dummy to the international space station. german chancellor angela merkel has said she supports school students' protests about climate change. she said students might be</field>
+</doc>
+</add>

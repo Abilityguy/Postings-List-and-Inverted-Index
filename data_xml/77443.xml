@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191110_030000_BBC_News#start/1085/end/1120</field>
+<field name="datetime">11/10/2019 3:18:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191110_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191110_030000_BBC_News/BBCNEWS_20191110_030000_BBC_News.thumbs/BBCNEWS_20191110_030000_BBC_News_001077.jpg</field>
+<field name="snippet">climate change, and what effect it is having. is it too early to say? can you not pinpoint individual events and blame climate change where are we? it is always difficult to be able to say such and such an</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151202_100000_First_Look#start/904/end/939</field>
+<field name="datetime">12/2/2015 10:15:19</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20151202_100000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151202_100000_First_Look/MSNBCW_20151202_100000_First_Look.thumbs/MSNBCW_20151202_100000_First_Look_000885.jpg</field>
+<field name="snippet">small umbrella. you don't need the big boy. thank you very much, bill. as president obama pushes for global climate agreement, house republicans are pushing back. the house voted to block the president's plan to cut greenhouse gas emissions from both existing, and future u.s. power plants.</field>
+</doc>
+</add>

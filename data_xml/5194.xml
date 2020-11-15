@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201208.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120806_100000_Morning_Joe#start/6669/end/6704</field>
+<field name="datetime">8/6/2012 11:51:24</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20120806_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120806_100000_Morning_Joe/MSNBCW_20120806_100000_Morning_Joe.thumbs/MSNBCW_20120806_100000_Morning_Joe_006660.jpg</field>
+<field name="snippet">and what's really interesting is that, you know, they're canadians. they're not supposed to do that! but also, you know, they have a carbon tax in alberta, which is exploiting this. they have the one in british columbia. they've got a strong</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201204.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120413_100000_FOX_and_Friends#start/6587/end/6622</field>
+<field name="datetime">4/13/2012 11:50:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20120413_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120413_100000_FOX_and_Friends/FOXNEWSW_20120413_100000_FOX_and_Friends.thumbs/FOXNEWSW_20120413_100000_FOX_and_Friends_006566.jpg</field>
+<field name="snippet">couple of days ago that said basically they're presenting science. that's not really the case. this week, for example, you had jim hansen there who said climate change is the moral equivalency of slavery. he wants a worldwide tax on carbon emissions.</field>
+</doc>
+</add>

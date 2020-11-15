@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200108_110000_BBC_Newsroom_Live#start/3069/end/3104</field>
+<field name="datetime">1/8/2020 11:51:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20200108_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200108_110000_BBC_Newsroom_Live/BBCNEWS_20200108_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20200108_110000_BBC_Newsroom_Live_003058.jpg</field>
+<field name="snippet">of wars but there are other topics where we have come round for example the topic of climate change. china sta rts the topic of climate change. china starts now to introduce the emission trading system and is coming to the</field>
+</doc>
+</add>

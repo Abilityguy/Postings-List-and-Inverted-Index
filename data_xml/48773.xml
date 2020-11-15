@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201908.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190822_140000_MSNBC_Live_With_Hallie_Jackson#start/389/end/424</field>
+<field name="datetime">8/22/2019 14:06:44</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Hallie Jackson</field>
+<field name="showid">MSNBCW_20190822_140000_MSNBC_Live_With_Hallie_Jackson</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190822_140000_MSNBC_Live_With_Hallie_Jackson/MSNBCW_20190822_140000_MSNBC_Live_With_Hallie_Jackson.thumbs/MSNBCW_20190822_140000_MSNBC_Live_With_Hallie_Jackson_000390.jpg</field>
+<field name="snippet">chris and susan, let me ask you this. jay inslee's exit from the race. what it says about climate change for voters. listen, he was a single issue candidate even though he resisted that label in the conversations we would have.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170420_150000_BBC_News#start/755/end/790</field>
+<field name="datetime">4/20/2017 15:12:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170420_150000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170420_150000_BBC_News/BBCNEWS_20170420_150000_BBC_News.thumbs/BBCNEWS_20170420_150000_BBC_News_000747.jpg</field>
+<field name="snippet">and climate change at the heart of all our policies, the only way to do it nationally is to vote green. the only way to do it in bristol west is to vote for the wonderful molly. you are watching bbc news.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_130000_BBC_News_at_One#start/43/end/78</field>
+<field name="datetime">1/16/2020 13:00:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20200116_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_130000_BBC_News_at_One/BBCNEWS_20200116_130000_BBC_News_at_One.thumbs/BBCNEWS_20200116_130000_BBC_News_at_One_000029.jpg</field>
+<field name="snippet">as talks continue to work out the future roles of harry and meghan. also this lunchtime: time for life or death decisions on climate change - a warning from sir david attenborough. we have been putting things off year after year, we've been raising targets and saying, 'oh, well, if we do</field>
+</doc>
+</add>

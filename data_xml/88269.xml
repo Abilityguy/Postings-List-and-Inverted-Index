@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191230_113000_Weather_World#start/672/end/707</field>
+<field name="datetime">12/30/2019 11:41:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20191230_113000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191230_113000_Weather_World/BBCNEWS_20191230_113000_Weather_World.thumbs/BBCNEWS_20191230_113000_Weather_World_000657.jpg</field>
+<field name="snippet">so why is it that the poles are quite so sensitive to climate change? the arctic is almost inarguably the most sensitive part of the whole global climate system. but in the last 20 or 30 years, there's been an enormous change in the summer sea-ice cover in the arctic. in fact, a change from about eight</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201407.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140706_100000_FOX_and_Friends_Sunday#start/514/end/549</field>
+<field name="datetime">7/6/2014 10:08:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20140706_100000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140706_100000_FOX_and_Friends_Sunday/FOXNEWSW_20140706_100000_FOX_and_Friends_Sunday.thumbs/FOXNEWSW_20140706_100000_FOX_and_Friends_Sunday_000495.jpg</field>
+<field name="snippet">policies in the united states, the keystone pipeline, other things that he says are causing the burning of fossil fuels in this country, that we are creating climate change in this country, funding large coal processing plants in other</field>
+</doc>
+</add>

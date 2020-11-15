@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191118_060000_Breakfast#start/7755/end/7790</field>
+<field name="datetime">11/18/2019 8:09:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191118_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191118_060000_Breakfast/BBCNEWS_20191118_060000_Breakfast.thumbs/BBCNEWS_20191118_060000_Breakfast_007738.jpg</field>
+<field name="snippet">of high tides since 1872, when official statistics were first produced. strong winds have made the flooding worse, but the mayor of venice has blamed it in part on climate change.</field>
+</doc>
+</add>

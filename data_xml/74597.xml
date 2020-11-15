@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200121_100000_Victoria_Derbyshire#start/2524/end/2559</field>
+<field name="datetime">1/21/2020 10:42:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20200121_100000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200121_100000_Victoria_Derbyshire/BBCNEWS_20200121_100000_Victoria_Derbyshire.thumbs/BBCNEWS_20200121_100000_Victoria_Derbyshire_002517.jpg</field>
+<field name="snippet">hundreds of world leaders have flown in to the world economic forum, focusing on climate change in davos. president trump is now being introduced. let's listen. many</field>
+</doc>
+</add>

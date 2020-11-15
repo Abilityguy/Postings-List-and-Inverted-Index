@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191119_130000_BBC_News_at_One#start/565/end/600</field>
+<field name="datetime">11/19/2019 13:09:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20191119_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191119_130000_BBC_News_at_One/BBCNEWS_20191119_130000_BBC_News_at_One.thumbs/BBCNEWS_20191119_130000_BBC_News_at_One_000538.jpg</field>
+<field name="snippet">the greens have policies to introduce a universal basic income, to abolish tuition fees for students and to reform the voting system. they want to remain in the european union. but their main focus - obviously - is on the climate crisis, and an unashamedly ambitious programme to transform the economy and make this country</field>
+</doc>
+</add>

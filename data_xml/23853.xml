@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201411.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141113_040000_The_OReilly_Factor#start/16/end/51</field>
+<field name="datetime">11/13/2014 4:00:31</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20141113_040000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141113_040000_The_OReilly_Factor/FOXNEWSW_20141113_040000_The_OReilly_Factor.thumbs/FOXNEWSW_20141113_040000_The_OReilly_Factor_000045.jpg</field>
+<field name="snippet">tonight: we have a special responsibility it to lead the global effort against climate change. that's why today i am proud that we can announce historic agreement. but some critics say china's conning the u.s. on the climate change issue. tonight, we will talook at that.</field>
+</doc>
+</add>

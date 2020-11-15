@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201008.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100828_090000_The_OReilly_Factor#start/1013/end/1048</field>
+<field name="datetime">8/28/2010 9:17:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20100828_090000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100828_090000_The_OReilly_Factor/FOXNEWS_20100828_090000_The_OReilly_Factor.thumbs/FOXNEWS_20100828_090000_The_OReilly_Factor_000986.jpg</field>
+<field name="snippet">around the world? sean: when a second assessment report was published all of the uncertainty about how much humans contributed to global warming was removed. copy that came out, after peer review said the balance of evidence suggests there's a</field>
+</doc>
+</add>

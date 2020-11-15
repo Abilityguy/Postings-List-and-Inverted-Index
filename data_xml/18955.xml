@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201612.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161231_170000_Americas_News_HQ#start/825/end/860</field>
+<field name="datetime">12/31/2016 17:14:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20161231_170000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161231_170000_Americas_News_HQ/FOXNEWSW_20161231_170000_Americas_News_HQ.thumbs/FOXNEWSW_20161231_170000_Americas_News_HQ_000808.jpg</field>
+<field name="snippet">we have many things it to do. we have to take care of many things, like fighting terrorists, like taking care of climate change. a vermont electric company said it detected mal wear on a</field>
+</doc>
+</add>

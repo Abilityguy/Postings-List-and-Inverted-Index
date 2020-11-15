@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201307.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130730_220000_Special_Report_With_Bret_Baier#start/965/end/1000</field>
+<field name="datetime">7/30/2013 22:16:20</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20130730_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130730_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20130730_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20130730_220000_Special_Report_With_Bret_Baier_000945.jpg</field>
+<field name="snippet">reporter: at harvard, epa administrator gina mccarthy in her first speech said climate change won't be fixed overnight but will be engaged in the next three years. she said her agency is trying to</field>
+</doc>
+</add>

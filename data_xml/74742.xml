@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200121_090000_BBC_News_at_9#start/54/end/89</field>
+<field name="datetime">1/21/2020 9:01:09</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20200121_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200121_090000_BBC_News_at_9/BBCNEWS_20200121_090000_BBC_News_at_9.thumbs/BBCNEWS_20200121_090000_BBC_News_at_9_000057.jpg</field>
+<field name="snippet">to fight climate change, greta thunberg tells business and political leaders in switzerland. she's been addressing the world economic forum in davos. pretty much nothing has been done since the global emissions of c02</field>
+</doc>
+</add>

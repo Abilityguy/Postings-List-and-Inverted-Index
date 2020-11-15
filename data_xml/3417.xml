@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201506.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150620_000000_The_OReilly_Factor#start/2393/end/2428</field>
+<field name="datetime">6/20/2015 0:40:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20150620_000000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150620_000000_The_OReilly_Factor/FOXNEWSW_20150620_000000_The_OReilly_Factor.thumbs/FOXNEWSW_20150620_000000_The_OReilly_Factor_002385.jpg</field>
+<field name="snippet">thanks for staying with us, i'm bill o'reilly. in the unresolved problem segment tonight, global warming, while most scientists believe fossil fuel emissions have led to global warming and higher temperatures. there is dissent as we have said from conservatives.</field>
+</doc>
+</add>

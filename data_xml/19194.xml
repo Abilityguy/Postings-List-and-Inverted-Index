@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201606.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160615_070000_Red_Eye#start/22/end/57</field>
+<field name="datetime">6/15/2016 7:00:37</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWSW_20160615_070000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160615_070000_Red_Eye/FOXNEWSW_20160615_070000_Red_Eye.thumbs/FOXNEWSW_20160615_070000_Red_Eye_000057.jpg</field>
+<field name="snippet">shy welcome to 'red eye.' hello, i'm tom shillue. let's check in with tv's andy levey at the 'red eye' tease deck to find out what is coming up on tonight's show. president obama delivers a fiery speech against his beggest critic. i wonder who that could be. plus scientists say climate change is making small rodents</field>
+</doc>
+</add>

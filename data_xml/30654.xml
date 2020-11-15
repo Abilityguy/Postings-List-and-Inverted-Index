@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140217_110000_FOX_and_Friends#start/8366/end/8401</field>
+<field name="datetime">2/17/2014 13:19:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20140217_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140217_110000_FOX_and_Friends/FOXNEWSW_20140217_110000_FOX_and_Friends.thumbs/FOXNEWSW_20140217_110000_FOX_and_Friends_008355.jpg</field>
+<field name="snippet">by a slight of hand, now it's become all incom passing climate change. i saw on one of the web sites, 4406 record cold temperatures in january. so global warming, you be the</field>
+</doc>
+</add>

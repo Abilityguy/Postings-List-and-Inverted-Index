@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201503.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150314_100000_FOX_and_Friends_Saturday#start/2044/end/2079</field>
+<field name="datetime">3/14/2015 10:34:19</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20150314_100000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150314_100000_FOX_and_Friends_Saturday/FOXNEWSW_20150314_100000_FOX_and_Friends_Saturday.thumbs/FOXNEWSW_20150314_100000_FOX_and_Friends_Saturday_002025.jpg</field>
+<field name="snippet">favorites. they had the idea that the democrats had in mind for this, they had a link there where they said hey click on which one of these things you like the best, healthcare reform, action on climate change, expanding equality. did not see any of those</field>
+</doc>
+</add>

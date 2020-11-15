@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190606_180000_The_Daily_Briefing_With_Dana_Perino#start/3444/end/3479</field>
+<field name="datetime">6/6/2019 18:57:39</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Daily Briefing With Dana Perino</field>
+<field name="showid">FOXNEWSW_20190606_180000_The_Daily_Briefing_With_Dana_Perino</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190606_180000_The_Daily_Briefing_With_Dana_Perino/FOXNEWSW_20190606_180000_The_Daily_Briefing_With_Dana_Perino.thumbs/FOXNEWSW_20190606_180000_The_Daily_Briefing_With_Dana_Perino_003447.jpg</field>
+<field name="snippet">the fcc voted to let phone carriers block robo calls by default. today we have the dnc rejecting a debate on climate change. new plans to keep foreign money out of u.s. elections and a</field>
+</doc>
+</add>

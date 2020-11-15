@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190226_190000_Beyond_100_Days#start/1210/end/1245</field>
+<field name="datetime">2/26/2019 19:20:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20190226_190000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190226_190000_Beyond_100_Days/BBCNEWS_20190226_190000_Beyond_100_Days.thumbs/BBCNEWS_20190226_190000_Beyond_100_Days_001707.jpg</field>
+<field name="snippet">united states climate change is happening, the scientists have formed a consensus across the world and we know what that means. but i think. we can say clearly that there is a consensus of scientists? that it is human induced, yes. and i</field>
+</doc>
+</add>

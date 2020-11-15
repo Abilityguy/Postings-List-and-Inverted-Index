@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201108.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20110801_100000_Morning_Joe#start/143/end/178</field>
+<field name="datetime">8/1/2011 10:02:38</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20110801_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20110801_100000_Morning_Joe/MSNBCW_20110801_100000_Morning_Joe.thumbs/MSNBCW_20110801_100000_Morning_Joe_000140.jpg</field>
+<field name="snippet">really have to go from 42 to 117? are we on mars where we have no atmosphere? yeah. global warming. the leaves started to change</field>
+</doc>
+</add>

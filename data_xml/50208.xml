@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181205_090000_Fox_and_Friends_First#start/1837/end/1872</field>
+<field name="datetime">12/5/2018 9:30:52</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20181205_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181205_090000_Fox_and_Friends_First/FOXNEWSW_20181205_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20181205_090000_Fox_and_Friends_First_001827.jpg</field>
+<field name="snippet">violent protests against a new carbon tax forces it to back down. the prime minister admitting they would be tough not to take notice. this is the anger of the french which works hard and has a difficult time making ends to meet. the anger of the french people</field>
+</doc>
+</add>

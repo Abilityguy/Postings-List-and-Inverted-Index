@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171104_160000_BBC_News#start/961/end/996</field>
+<field name="datetime">11/4/2017 16:16:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171104_160000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171104_160000_BBC_News/BBCNEWS_20171104_160000_BBC_News.thumbs/BBCNEWS_20171104_160000_BBC_News_000958.jpg</field>
+<field name="snippet">a new independent system to tackle sexual harassment at westminster. the white house downplays a report by us government scientists, which concludes that human activity is the main cause of global warming. only half of fixed speed cameras in the uk are actually switched on -  _</field>
+</doc>
+</add>

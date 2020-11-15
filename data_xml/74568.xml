@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200105_213000_Our_World#start/1374/end/1409</field>
+<field name="datetime">1/5/2020 21:53:09</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Our World</field>
+<field name="showid">BBCNEWS_20200105_213000_Our_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200105_213000_Our_World/BBCNEWS_20200105_213000_Our_World.thumbs/BBCNEWS_20200105_213000_Our_World_001377.jpg</field>
+<field name="snippet">nature gives, if we give back. we can't just take. will climate change destroy the forests and the lakes in europe's last great wilderness?</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200111_030000_BBC_News#start/1177/end/1212</field>
+<field name="datetime">1/11/2020 3:19:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200111_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200111_030000_BBC_News/BBCNEWS_20200111_030000_BBC_News.thumbs/BBCNEWS_20200111_030000_BBC_News_001168.jpg</field>
+<field name="snippet">after the crash, claiming diplomatic immunity. sweden has seen a drop in air passengers for the first year in a decade. the number of people flying fell by 4% in 2019 - a rare drop in recent years in a european union country. the state-owned airport operator says concern about climate change and increases in aviation tax</field>
+</doc>
+</add>

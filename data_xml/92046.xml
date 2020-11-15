@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170809_000000_Tucker_Carlson_Tonight#start/3200/end/3235</field>
+<field name="datetime">8/9/2017 0:53:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20170809_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170809_000000_Tucker_Carlson_Tonight/FOXNEWSW_20170809_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20170809_000000_Tucker_Carlson_Tonight_003177.jpg</field>
+<field name="snippet">media is based on science. all of the things that we have to see about what science is telling us is that climate change is going to create a situation which is very, very dangerous and difficult for civilizations to endure. climate change will raise sea levels to the point to which it</field>
+</doc>
+</add>

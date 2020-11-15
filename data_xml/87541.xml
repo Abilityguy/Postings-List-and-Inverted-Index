@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191222_090000_BBC_News#start/361/end/396</field>
+<field name="datetime">12/22/2019 9:06:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191222_090000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191222_090000_BBC_News/BBCNEWS_20191222_090000_BBC_News.thumbs/BBCNEWS_20191222_090000_BBC_News_000357.jpg</field>
+<field name="snippet">joining me now from sydney is chloe rafferty from uni students for climate change, who also marched in yesterday's rally across the sydney harbour bridge to the prime minister's residence. thank you for being with us. why did</field>
+</doc>
+</add>

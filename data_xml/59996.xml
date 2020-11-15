@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181013_060000_Breakfast#start/3262/end/3297</field>
+<field name="datetime">10/13/2018 6:54:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181013_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181013_060000_Breakfast/BBCNEWS_20181013_060000_Breakfast.thumbs/BBCNEWS_20181013_060000_Breakfast_003238.jpg</field>
+<field name="snippet">some of the misconceptions that can be made around global warming and climate change. we have offered some guidance, there's some training, as well, and it's just to make sure our staff are making informed decisions on this important issue.</field>
+</doc>
+</add>

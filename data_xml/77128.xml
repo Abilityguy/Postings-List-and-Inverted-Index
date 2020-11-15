@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191126_033000_The_Travel_Show#start/1/end/36</field>
+<field name="datetime">11/26/2019 3:30:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Travel Show</field>
+<field name="showid">BBCNEWS_20191126_033000_The_Travel_Show</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191126_033000_The_Travel_Show/BBCNEWS_20191126_033000_The_Travel_Show.thumbs/BBCNEWS_20191126_033000_The_Travel_Show_000028.jpg</field>
+<field name="snippet">this is bbc news. the headlines: new figures confirm that concentrations of greenhouse gases in the earth's atmosphere have reached another record high. the statistics by the world meteorological organisation, collected over thirty years, suggest that rising concentrations of carbon dioxide, methane and other greenhouse gases are driving the severity of climate change. there is no sign of any slowdown.</field>
+</doc>
+</add>

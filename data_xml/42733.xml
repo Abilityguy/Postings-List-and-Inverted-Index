@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201102.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110210_100000_First_Look#start/692/end/727</field>
+<field name="datetime">2/10/2011 10:11:47</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBC_20110210_100000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBC_20110210_100000_First_Look/MSNBC_20110210_100000_First_Look.thumbs/MSNBC_20110210_100000_First_Look_000685.jpg</field>
+<field name="snippet">where another official said an american born islamic cleric now tops osama bin laden as the biggest threat to the u.s. england's prince charles lashed out at climate change</field>
+</doc>
+</add>

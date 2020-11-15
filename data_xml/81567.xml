@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091210_110000_Morning_Joe#start/7978/end/8013</field>
+<field name="datetime">12/10/2009 13:13:13</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20091210_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20091210_110000_Morning_Joe/MSNBC_20091210_110000_Morning_Joe.thumbs/MSNBC_20091210_110000_Morning_Joe_007950.jpg</field>
+<field name="snippet">and it is also why the world must come together to confront climate change. there's little scientific dispute that if we do nothing, we will face more drought, more famine, more amass displacement, all of which will fuel more</field>
+</doc>
+</add>

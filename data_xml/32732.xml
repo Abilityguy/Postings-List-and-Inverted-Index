@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091208_140000_Americas_Newsroom#start/361/end/396</field>
+<field name="datetime">12/8/2009 14:06:16</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20091208_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091208_140000_Americas_Newsroom/FOXNEWS_20091208_140000_Americas_Newsroom.thumbs/FOXNEWS_20091208_140000_Americas_Newsroom_000353.jpg</field>
+<field name="snippet">polls to just over 9% of europeans believe climate change is a problem, and -- 90% of europeans believe climate change</field>
+</doc>
+</add>

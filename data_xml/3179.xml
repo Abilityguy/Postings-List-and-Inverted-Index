@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201512.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151219_110000_Fox_and_Friends_Saturday#start/3828/end/3863</field>
+<field name="datetime">12/19/2015 12:04:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20151219_110000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151219_110000_Fox_and_Friends_Saturday/FOXNEWSW_20151219_110000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20151219_110000_Fox_and_Friends_Saturday_003825.jpg</field>
+<field name="snippet">the president just says isis uses gitmo to make the claim that america is not living up to his own ideals. the president himself has said that part of the pattern of him blaming america for terror attacks. we have got too many guns. we are islamophobic. we cause global warming.</field>
+</doc>
+</add>

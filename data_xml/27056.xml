@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100202_080000_Red_Eye#start/1923/end/1958</field>
+<field name="datetime">2/2/2010 8:32:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20100202_080000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100202_080000_Red_Eye/FOXNEWS_20100202_080000_Red_Eye.thumbs/FOXNEWS_20100202_080000_Red_Eye_001920.jpg</field>
+<field name="snippet">and we are not all physicists. aren't we though? yo -- no. to be fair and balanced, climate change believers say things like this shouldn't distract us from the bigger</field>
+</doc>
+</add>

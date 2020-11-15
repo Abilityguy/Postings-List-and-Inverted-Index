@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190922_090000_FOX_Report_With_Jon_Scott#start/1215/end/1250</field>
+<field name="datetime">9/22/2019 9:20:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report With Jon Scott</field>
+<field name="showid">FOXNEWSW_20190922_090000_FOX_Report_With_Jon_Scott</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190922_090000_FOX_Report_With_Jon_Scott/FOXNEWSW_20190922_090000_FOX_Report_With_Jon_Scott.thumbs/FOXNEWSW_20190922_090000_FOX_Report_With_Jon_Scott_001197.jpg</field>
+<field name="snippet">jackie? jon, about a thousand young people, ranging in age from 18 to 29 sharing their solutions for climate change. several hundred more, though, followed on-line today, and more than 7000 applied to attend. it's all in response to what they call slow action from</field>
+</doc>
+</add>

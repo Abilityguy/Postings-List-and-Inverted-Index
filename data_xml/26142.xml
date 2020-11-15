@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201003.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100314_043000_FOX_News_Watch#start/1439/end/1474</field>
+<field name="datetime">3/14/2010 4:54:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Watch</field>
+<field name="showid">FOXNEWS_20100314_043000_FOX_News_Watch</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100314_043000_FOX_News_Watch/FOXNEWS_20100314_043000_FOX_News_Watch.thumbs/FOXNEWS_20100314_043000_FOX_News_Watch_001435.jpg</field>
+<field name="snippet">take a look at the current cover of the weekly standard. questionable science of global warming, always a hot topic for the magazine. is this what you would expect from usa today? their cover story on thursday, is it the global warming movement cooling or should i ask</field>
+</doc>
+</add>

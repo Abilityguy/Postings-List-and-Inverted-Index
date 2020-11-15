@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170402_180000_Fox_News_Sunday_With_Chris_Wallace#start/1064/end/1099</field>
+<field name="datetime">4/2/2017 18:17:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News Sunday With Chris Wallace</field>
+<field name="showid">FOXNEWSW_20170402_180000_Fox_News_Sunday_With_Chris_Wallace</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170402_180000_Fox_News_Sunday_With_Chris_Wallace/FOXNEWSW_20170402_180000_Fox_News_Sunday_With_Chris_Wallace.thumbs/FOXNEWSW_20170402_180000_Fox_News_Sunday_With_Chris_Wallace_001047.jpg</field>
+<field name="snippet">chris: a look at nationals park where washington's finest have opening day tomorrow for the baseball season. but there will be no presidential first pitch as the white house declined an invitation. mr. trump, who once called global warming a hoax, signed a</field>
+</doc>
+</add>

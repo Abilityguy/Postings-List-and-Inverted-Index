@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191206_190000_BBC_News#start/1566/end/1601</field>
+<field name="datetime">12/6/2019 19:26:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191206_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191206_190000_BBC_News/BBCNEWS_20191206_190000_BBC_News.thumbs/BBCNEWS_20191206_190000_BBC_News_001559.jpg</field>
+<field name="snippet">the teenagerjoined a youth demonstration inside the conference, where next week she will address the cop conference which focuses on greenhouse gases. a berkshire couple who were rejected by their local adoption service</field>
+</doc>
+</add>

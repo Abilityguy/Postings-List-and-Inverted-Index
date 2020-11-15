@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201406.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140616_220000_PoliticsNation#start/1045/end/1080</field>
+<field name="datetime">6/16/2014 22:17:40</field>
+<field name="station">MSNBC</field>
+<field name="show">PoliticsNation</field>
+<field name="showid">MSNBCW_20140616_220000_PoliticsNation</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140616_220000_PoliticsNation/MSNBCW_20140616_220000_PoliticsNation.thumbs/MSNBCW_20140616_220000_PoliticsNation_001035.jpg</field>
+<field name="snippet">obama is taking a major step forward. it comes after a flurry of executive actions. over 20 this year on climate change, student loan debt, and on raising the minimum wage for federal employees.</field>
+</doc>
+</add>

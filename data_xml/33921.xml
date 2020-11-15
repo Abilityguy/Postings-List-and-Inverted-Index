@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091208_180000_The_Live_Desk#start/5057/end/5092</field>
+<field name="datetime">12/8/2009 19:24:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Live Desk</field>
+<field name="showid">FOXNEWS_20091208_180000_The_Live_Desk</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091208_180000_The_Live_Desk/FOXNEWS_20091208_180000_The_Live_Desk.thumbs/FOXNEWS_20091208_180000_The_Live_Desk_005028.jpg</field>
+<field name="snippet">now to that pivotal meeting taking place in copenhagen. 192 nation discussing climate change. on day two of the conference, a weather agency has come out with new statistics on the weather. wendell goler, a report this</field>
+</doc>
+</add>

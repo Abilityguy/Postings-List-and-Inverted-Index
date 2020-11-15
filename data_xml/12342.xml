@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170707_200000_World_News_Today#start/234/end/269</field>
+<field name="datetime">7/7/2017 20:04:09</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20170707_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170707_200000_World_News_Today/BBCNEWS_20170707_200000_World_News_Today.thumbs/BBCNEWS_20170707_200000_World_News_Today_000208.jpg</field>
+<field name="snippet">climate change is one of the many issues of concern to the thousands of protesters seeking to disrupt the summit. though forget global warming, some were getting a hamburg police cool down. we're not entirely clear how effective the umbrellas were.</field>
+</doc>
+</add>

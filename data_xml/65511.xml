@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.200911.csv</field>
+<field name="url">https://archive.org/details/CNN_20091127_110000_American_Morning#start/1286/end/1321</field>
+<field name="datetime">11/27/2009 11:21:41</field>
+<field name="station">CNN</field>
+<field name="show">American Morning</field>
+<field name="showid">CNN_20091127_110000_American_Morning</field>
+<field name="preview">https://archive.org/download/CNN_20091127_110000_American_Morning/CNN_20091127_110000_American_Morning.thumbs/CNN_20091127_110000_American_Morning_001254.jpg</field>
+<field name="snippet">post'/abc news poll out this week the number of americans who believe global warming is happening is down from 80% to 72% from last year. down but still a large majority. we really do have a global warming. the polar bears are getting in</field>
+</doc>
+</add>

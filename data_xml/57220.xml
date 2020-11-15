@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181112_200000_Shepard_Smith_Reporting#start/313/end/348</field>
+<field name="datetime">11/12/2018 20:05:28</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20181112_200000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181112_200000_Shepard_Smith_Reporting/FOXNEWSW_20181112_200000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20181112_200000_Shepard_Smith_Reporting_000297.jpg</field>
+<field name="snippet">the governor adding climate change is threatening our whole way of life. this is not the new normal. this is the new abnormal. this new abnormal will continue, certainly in the next 10-15 to 20 years.</field>
+</doc>
+</add>

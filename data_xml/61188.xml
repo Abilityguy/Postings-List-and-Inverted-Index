@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201503.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150323_080000_Meet_the_Press#start/1772/end/1807</field>
+<field name="datetime">3/23/2015 8:29:47</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20150323_080000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150323_080000_Meet_the_Press/MSNBCW_20150323_080000_Meet_the_Press.thumbs/MSNBCW_20150323_080000_Meet_the_Press_001755.jpg</field>
+<field name="snippet">polarizing here in washington president obama has tried to make fighting climate change a priority in his second term. on thursday he signed an executive order that directs the federal government to cut greenhouse gas emissions by 40% from 2008 levels and to make that cut over the next decade.</field>
+</doc>
+</add>

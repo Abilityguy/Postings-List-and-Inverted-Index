@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181128_010000_Newsday#start/1680/end/1715</field>
+<field name="datetime">11/28/2018 1:28:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20181128_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181128_010000_Newsday/BBCNEWS_20181128_010000_Newsday.thumbs/BBCNEWS_20181128_010000_Newsday_001677.jpg</field>
+<field name="snippet">it warns that global temperatures will rise to dangerous levels unless countries radically revise their targets for cutting greenhouse gases. indonesian authorities are set to release the preliminary findings into why a boeing 737-max jet plummeted into the java sea killing all 189 people on board last month. the world chess championship will be</field>
+</doc>
+</add>

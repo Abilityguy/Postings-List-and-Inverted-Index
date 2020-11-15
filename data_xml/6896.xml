@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_123000_BBC_News#start/804/end/839</field>
+<field name="datetime">9/20/2019 12:43:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190920_123000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_123000_BBC_News/BBCNEWS_20190920_123000_BBC_News.thumbs/BBCNEWS_20190920_123000_BBC_News_000778.jpg</field>
+<field name="snippet">there are hundreds of protesters here, climate change, climate activists who have come out into the middle of nairobi. they are marching towards the government offices. they have a petition to present there. a number of issues they want to highlight here in kenya - protection of water towers, prevention of deforestation, as well as asking the government to stop a project to exploit coal</field>
+</doc>
+</add>

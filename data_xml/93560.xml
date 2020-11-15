@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190725_130000_Afternoon_Live#start/7423/end/7458</field>
+<field name="datetime">7/25/2019 15:03:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190725_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190725_130000_Afternoon_Live/BBCNEWS_20190725_130000_Afternoon_Live.thumbs/BBCNEWS_20190725_130000_Afternoon_Live_007407.jpg</field>
+<field name="snippet">link to climate change. we are bringing up this very warm air from northern africa, which has seen a warming of over two celsius over the last 100 years, twice the global average, and we have seen records</field>
+</doc>
+</add>

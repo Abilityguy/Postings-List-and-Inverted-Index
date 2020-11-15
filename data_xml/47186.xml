@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201101.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110126_080000_The_Last_Word#start/943/end/978</field>
+<field name="datetime">1/26/2011 8:15:58</field>
+<field name="station">MSNBC</field>
+<field name="show">The Last Word</field>
+<field name="showid">MSNBC_20110126_080000_The_Last_Word</field>
+<field name="preview">https://archive.org/download/MSNBC_20110126_080000_The_Last_Word/MSNBC_20110126_080000_The_Last_Word.thumbs/MSNBC_20110126_080000_The_Last_Word_000925.jpg</field>
+<field name="snippet">senator, as the chairman of the environment committee were you surprised that a democratic president could stand before you in a speech of that length and breadth and not mention climate change? well, lawrence, he didn't use those words. but he absolutely addressed it.</field>
+</doc>
+</add>

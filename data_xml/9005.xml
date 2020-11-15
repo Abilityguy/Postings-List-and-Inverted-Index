@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190813_040000_Tucker_Carlson_Tonight#start/2092/end/2127</field>
+<field name="datetime">8/13/2019 4:35:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190813_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190813_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190813_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190813_040000_Tucker_Carlson_Tonight_002069.jpg</field>
+<field name="snippet">global warming by 2016. that's three years ago that the world would be finished. well, it's 2019 and we are still here, just about, but he says that doesn't matter. in a new interview he says he was actually right all the way</field>
+</doc>
+</add>

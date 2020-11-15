@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201811.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181124_120000_MSNBC_Live#start/192/end/227</field>
+<field name="datetime">11/24/2018 12:03:27</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20181124_120000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181124_120000_MSNBC_Live/MSNBCW_20181124_120000_MSNBC_Live.thumbs/MSNBCW_20181124_120000_MSNBC_Live_000178.jpg</field>
+<field name="snippet">visited the wildfires in california and we're seeing a lot of these more extreme weather scenarios, whether it be hurricanes, wildfires come more frequent. and a lot of scientists and experts have pointed to climate change as a reason for this, so it's interesting that the</field>
+</doc>
+</add>

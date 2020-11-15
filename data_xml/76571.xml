@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190507_000000_Newsday#start/1459/end/1494</field>
+<field name="datetime">5/7/2019 0:24:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190507_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190507_000000_Newsday/BBCNEWS_20190507_000000_Newsday.thumbs/BBCNEWS_20190507_000000_Newsday_001439.jpg</field>
+<field name="snippet">so things like climate change, which are going to be affecting all sorts of environments throughout the world, particularly alpine environments, are going to be changing, and by monitoring how these stoneflies are doing, can tell us more about.</field>
+</doc>
+</add>

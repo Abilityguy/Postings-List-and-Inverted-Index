@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201510.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151020_220000_Special_Report_With_Bret_Baier#start/1100/end/1135</field>
+<field name="datetime">10/20/2015 22:18:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20151020_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151020_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20151020_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20151020_220000_Special_Report_With_Bret_Baier_001095.jpg</field>
+<field name="snippet">fighting climate change has a high priority. which had opponents of keystone on both sides of the border. it's likely trudeau will take no for an answer on keystone xl.</field>
+</doc>
+</add>

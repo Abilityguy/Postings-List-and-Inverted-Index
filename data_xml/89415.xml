@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190621_170000_BBC_News_at_Six#start/59/end/94</field>
+<field name="datetime">6/21/2019 17:01:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20190621_170000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190621_170000_BBC_News_at_Six/BBCNEWS_20190621_170000_BBC_News_at_Six.thumbs/BBCNEWS_20190621_170000_BBC_News_at_Six_000057.jpg</field>
+<field name="snippet">the foreign office minister mark field is suspended from government after manhandling a climate change protestor at the mansion house dinner. commerations to mark 100 years since germany sunk more than 50 of its own vessels off the coast of scotland to stop allied forces seizing them after the war.</field>
+</doc>
+</add>

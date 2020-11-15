@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_133000_BBC_News#start/1808/end/1843</field>
+<field name="datetime">1/16/2020 14:00:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200116_133000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_133000_BBC_News/BBCNEWS_20200116_133000_BBC_News.thumbs/BBCNEWS_20200116_133000_BBC_News_001739.jpg</field>
+<field name="snippet">hello, you're watching afternoon live. i'm simon mccoy. today at 2. we're out of time - and world leaders need to make life or death decisions on climate change now - a warning from sir david attenborough. we have been putting things off year after year.</field>
+</doc>
+</add>

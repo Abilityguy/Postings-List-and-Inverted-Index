@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201405.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140506_220000_Special_Report_With_Bret_Baier#start/2295/end/2330</field>
+<field name="datetime">5/6/2014 22:38:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20140506_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140506_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20140506_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20140506_220000_Special_Report_With_Bret_Baier_002205.jpg</field>
+<field name="snippet">the single most important bottom line that shines through all these hundreds of pages is that climate change is not a distant threat. it is something that is happening now. it is affecting the american people now in important ways.</field>
+</doc>
+</add>

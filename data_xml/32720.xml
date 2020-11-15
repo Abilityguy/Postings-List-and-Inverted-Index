@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091221_020000_Hannity#start/40/end/75</field>
+<field name="datetime">12/21/2009 2:00:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20091221_020000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091221_020000_Hannity/FOXNEWS_20091221_020000_Hannity.thumbs/FOXNEWS_20091221_020000_Hannity_000030.jpg</field>
+<field name="snippet">hello. welcome to fox news reporting, global warming or a lot of hot air? i am bret baier. for months ahead of time the build up to the copenhagen conference on global warming was</field>
+</doc>
+</add>

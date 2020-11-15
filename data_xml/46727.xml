@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201208.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120804_100000_FOX_and_Friends_Saturday#start/7231/end/7266</field>
+<field name="datetime">8/4/2012 12:00:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20120804_100000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120804_100000_FOX_and_Friends_Saturday/FOXNEWSW_20120804_100000_FOX_and_Friends_Saturday.thumbs/FOXNEWSW_20120804_100000_FOX_and_Friends_Saturday_007230.jpg</field>
+<field name="snippet">who is correct here? we're going to crunch the numbers straight ahead. warning, watch out for climate change. senator john kerry says global warming is just as dangerous as a war with iran and nukes. wait until you hear what the senator had to say about that.</field>
+</doc>
+</add>

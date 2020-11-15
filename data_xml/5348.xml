@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171213_020000_BBC_News#start/14/end/49</field>
+<field name="datetime">12/13/2017 2:00:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171213_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171213_020000_BBC_News/BBCNEWS_20171213_020000_BBC_News.thumbs/BBCNEWS_20171213_020000_BBC_News_000058.jpg</field>
+<field name="snippet">a change of tune on north korea - the us says it's ready to open talks talks without preconditions. the world is losing its fight against global warming - france's president macron gives other world leaders a blunt warning. also in the programme - on a red carpet not so far far away,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181215_170000_BBC_News#start/3282/end/3317</field>
+<field name="datetime">12/15/2018 17:54:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181215_170000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181215_170000_BBC_News/BBCNEWS_20181215_170000_BBC_News.thumbs/BBCNEWS_20181215_170000_BBC_News_003267.jpg</field>
+<field name="snippet">a cross-party consensus on brexit, as the church of england calls for national reconciliation. talks at the un climate conference in poland continue, as countries struggle to agree on how to limit global warming. water cannon and tear gas are used</field>
+</doc>
+</add>

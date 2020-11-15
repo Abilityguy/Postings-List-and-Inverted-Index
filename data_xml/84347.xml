@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190423_190000_BBC_News#start/776/end/811</field>
+<field name="datetime">4/23/2019 19:13:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190423_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190423_190000_BBC_News/BBCNEWS_20190423_190000_BBC_News.thumbs/BBCNEWS_20190423_190000_BBC_News_000748.jpg</field>
+<field name="snippet">greta was just 15 when she walked out of class and began the first school strike against climate change. since then, more than a million in countries all over the world have followed suit. their message a simple one - why should we waste time learning</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140513_070000_All_In_With_Chris_Hayes#start/513/end/548</field>
+<field name="datetime">5/13/2014 7:08:48</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20140513_070000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140513_070000_All_In_With_Chris_Hayes/MSNBCW_20140513_070000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20140513_070000_All_In_With_Chris_Hayes_000495.jpg</field>
+<field name="snippet">when i speak to democrats, in a disengaged year when democrats are worried about turnout, when they talk about climate change, base voters get energized and reminded why they're on the ground fighting.</field>
+</doc>
+</add>

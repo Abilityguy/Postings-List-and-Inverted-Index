@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201712.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20171222_140000_MSNBC_Live_With_Stephanie_Ruhle#start/2004/end/2039</field>
+<field name="datetime">12/22/2017 14:33:39</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Stephanie Ruhle</field>
+<field name="showid">MSNBCW_20171222_140000_MSNBC_Live_With_Stephanie_Ruhle</field>
+<field name="preview">https://archive.org/download/MSNBCW_20171222_140000_MSNBC_Live_With_Stephanie_Ruhle/MSNBCW_20171222_140000_MSNBC_Live_With_Stephanie_Ruhle.thumbs/MSNBCW_20171222_140000_MSNBC_Live_With_Stephanie_Ruhle_002007.jpg</field>
+<field name="snippet">the middle east, freezing the bank accounts of those countries who continue to sponsor terrorism like saudi arabia. and nuclear weapons abolition and climate change. so those were my issues.</field>
+</doc>
+</add>

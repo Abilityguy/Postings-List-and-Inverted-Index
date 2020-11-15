@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191008_120000_BBC_News_at_One#start/1336/end/1371</field>
+<field name="datetime">10/8/2019 12:22:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20191008_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191008_120000_BBC_News_at_One/BBCNEWS_20191008_120000_BBC_News_at_One.thumbs/BBCNEWS_20191008_120000_BBC_News_at_One_001317.jpg</field>
+<field name="snippet">guerin, many thanks. climate change protesters have continued their demonstrations in london, with some activists glueing themselves to government buildings. the prime minister made unflattering comments about the extinction rebellion protesters at a book launch last night. this is what he had to say: my own team didn't want me to come</field>
+</doc>
+</add>

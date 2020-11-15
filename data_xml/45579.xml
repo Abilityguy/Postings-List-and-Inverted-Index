@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201909.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190915_200000_MSNBC_Live#start/2026/end/2061</field>
+<field name="datetime">9/15/2019 20:34:01</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20190915_200000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190915_200000_MSNBC_Live/MSNBCW_20190915_200000_MSNBC_Live.thumbs/MSNBCW_20190915_200000_MSNBC_Live_002007.jpg</field>
+<field name="snippet">all this week, nbc news and msnbc are going to confront climate change with reports from al roker in greenland, lester holt in alaska and the nbc news team will be around the world talking about this issue. on thursday and friday chris</field>
+</doc>
+</add>

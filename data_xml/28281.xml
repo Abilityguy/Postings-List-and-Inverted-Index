@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201901.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190106_170000_Weekends_With_Alex_Witt#start/1514/end/1549</field>
+<field name="datetime">1/6/2019 17:25:29</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20190106_170000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190106_170000_Weekends_With_Alex_Witt/MSNBCW_20190106_170000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20190106_170000_Weekends_With_Alex_Witt_001497.jpg</field>
+<field name="snippet">let's invest in infrastructure like roads and bridges and cyber security. let's look at climate change. let's make sure that we're putting transparency and accountability back into the work we do in congress, which is</field>
+</doc>
+</add>

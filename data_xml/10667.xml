@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190806_040000_The_Briefing#start/1080/end/1115</field>
+<field name="datetime">8/6/2019 4:18:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20190806_040000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190806_040000_The_Briefing/BBCNEWS_20190806_040000_The_Briefing.thumbs/BBCNEWS_20190806_040000_The_Briefing_001078.jpg</field>
+<field name="snippet">peace pact with the opposition renamo group. and this evening, the 50th session of the intergovernmental panel on climate change comes to a formal close. it's been discussing how to account for different countries greenhouse gas emissions.</field>
+</doc>
+</add>

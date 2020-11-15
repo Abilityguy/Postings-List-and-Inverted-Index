@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180101_150000_Americas_News_HQ#start/4684/end/4719</field>
+<field name="datetime">1/1/2018 16:18:19</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20180101_150000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180101_150000_Americas_News_HQ/FOXNEWSW_20180101_150000_Americas_News_HQ.thumbs/FOXNEWSW_20180101_150000_Americas_News_HQ_004678.jpg</field>
+<field name="snippet">headed with this debate. whether somebody believes in manmade climate change or not is kind of irrelevant. it's how we address extreme weather conditions. leland: i wonder whether you believe it or not being</field>
+</doc>
+</add>

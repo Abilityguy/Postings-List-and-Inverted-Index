@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170119_050000_Tucker_Carlson_Tonight#start/615/end/650</field>
+<field name="datetime">1/19/2017 5:10:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20170119_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170119_050000_Tucker_Carlson_Tonight/FOXNEWSW_20170119_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20170119_050000_Tucker_Carlson_Tonight_000598.jpg</field>
+<field name="snippet">was telling the truth but could not offer assurances. then came the hearing for scott pruitt, chosen to head the epa. he is from one of the biggest oil and gas estates, is a fierce critic and skeptic of climate</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190921_200000_World_News_Today#start/1829/end/1864</field>
+<field name="datetime">9/21/2019 20:30:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190921_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190921_200000_World_News_Today/BBCNEWS_20190921_200000_World_News_Today.thumbs/BBCNEWS_20190921_200000_World_News_Today_001827.jpg</field>
+<field name="snippet">saudi arabia has said that iran bears responsibility for the drone and missile strikes on its oil facilities last week. the saudi foreign minister said the attack used iranian weapons. teenage climate activist greta thunberg has arrived to cheering crowds at a youth summit on climate change in new york</field>
+</doc>
+</add>

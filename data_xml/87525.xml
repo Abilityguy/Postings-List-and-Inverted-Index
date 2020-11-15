@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191226_140000_BBC_News#start/1387/end/1422</field>
+<field name="datetime">12/26/2019 14:23:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191226_140000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191226_140000_BBC_News/BBCNEWS_20191226_140000_BBC_News.thumbs/BBCNEWS_20191226_140000_BBC_News_001378.jpg</field>
+<field name="snippet">so the next step is to grow corals on land, tinker around with them until they become resilient to climate change and plant them back. scientists predict most of the world's coral will be gone by 2050.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090922_150000_Happening_Now#start/911/end/946</field>
+<field name="datetime">9/22/2009 15:15:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20090922_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090922_150000_Happening_Now/FOXNEWS_20090922_150000_Happening_Now.thumbs/FOXNEWS_20090922_150000_Happening_Now_000896.jpg</field>
+<field name="snippet">jane: a jam-packed day for the president today. he has already made remarks of the climate change summit. he talks to the prime minister of israel, and benjamin netanyahu -- benjamin netanyahu.            _</field>
+</doc>
+</add>

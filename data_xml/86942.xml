@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191215_140000_BBC_News#start/71/end/106</field>
+<field name="datetime">12/15/2019 14:01:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191215_140000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191215_140000_BBC_News/BBCNEWS_20191215_140000_BBC_News.thumbs/BBCNEWS_20191215_140000_BBC_News_000058.jpg</field>
+<field name="snippet">delegates at un climate talks in madrid struggle to reach agreement, in a bid to tackle global warming. a british man has been killed and his son wounded, after being shot during a suspected robbery, outside a five-star hotel in buenos aires. and in half an hour here on bbc</field>
+</doc>
+</add>

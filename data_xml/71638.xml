@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190105_040000_Fox_News__Night_With_Shannon_Bream#start/47/end/82</field>
+<field name="datetime">1/5/2019 4:01:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News  Night With Shannon Bream</field>
+<field name="showid">FOXNEWSW_20190105_040000_Fox_News__Night_With_Shannon_Bream</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190105_040000_Fox_News__Night_With_Shannon_Bream/FOXNEWSW_20190105_040000_Fox_News__Night_With_Shannon_Bream.thumbs/FOXNEWSW_20190105_040000_Fox_News__Night_With_Shannon_Bream_000058.jpg</field>
+<field name="snippet">backdrop of new leadership promising bipartisanship. democrats are calling for the president to be impeached now. how will house speaker nancy pelosi manage her members impeachment fever and demand that climate change beat the top priority over shattering the</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201509.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150930_100000_Morning_Joe#start/9730/end/9765</field>
+<field name="datetime">9/30/2015 12:42:25</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20150930_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150930_100000_Morning_Joe/MSNBCW_20150930_100000_Morning_Joe.thumbs/MSNBCW_20150930_100000_Morning_Joe_005106.jpg</field>
+<field name="snippet">climate change. the x prize foundation offering $10 million to teams around the world to develop breakthrough technologies to transform carbon dioxide into something we can</field>
+</doc>
+</add>

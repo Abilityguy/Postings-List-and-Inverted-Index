@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_200000_Studio_B_With_Shepard_Smith#start/139/end/174</field>
+<field name="datetime">12/18/2009 20:02:34</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Studio B With Shepard Smith</field>
+<field name="showid">FOXNEWS_20091218_200000_Studio_B_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_200000_Studio_B_With_Shepard_Smith/FOXNEWS_20091218_200000_Studio_B_With_Shepard_Smith.thumbs/FOXNEWS_20091218_200000_Studio_B_With_Shepard_Smith_000120.jpg</field>
+<field name="snippet">through monday. frustration in copenhagen as the president and more than 100 other world leaders are struggling to make any deals on a slowing climate change. this morning the president called the participants of the conference in denmark and expressed pessimism about their</field>
+</doc>
+</add>

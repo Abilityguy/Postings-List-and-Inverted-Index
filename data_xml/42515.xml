@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201008.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100828_010000_Hannity#start/269/end/304</field>
+<field name="datetime">8/28/2010 1:04:44</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20100828_010000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100828_010000_Hannity/FOXNEWS_20100828_010000_Hannity.thumbs/FOXNEWS_20100828_010000_Hannity_000266.jpg</field>
+<field name="snippet">a cover story in the 1975 issue of 'newsweek' magazine elevated the hysteria to a nation level. these fears would morph into global warming as science indicated the temperatures</field>
+</doc>
+</add>

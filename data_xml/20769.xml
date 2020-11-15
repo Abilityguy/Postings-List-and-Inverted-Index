@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201202.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120209_230000_Special_Report_With_Bret_Baier#start/560/end/595</field>
+<field name="datetime">2/9/2012 23:09:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20120209_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120209_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20120209_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20120209_230000_Special_Report_With_Bret_Baier_000537.jpg</field>
+<field name="snippet">the straw poll is an ambiguous as the campaign season itself. bret? bret: more on this with the panel. doug, thank you. chilling news for global warming enthusiasts, later in the grapevine. up next, is time running out for the syrian opposition?</field>
+</doc>
+</add>

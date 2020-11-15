@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201610.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161019_100000_FOX__Friends#start/4045/end/4080</field>
+<field name="datetime">10/19/2016 11:07:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20161019_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161019_100000_FOX__Friends/FOXNEWSW_20161019_100000_FOX__Friends.thumbs/FOXNEWSW_20161019_100000_FOX__Friends_004047.jpg</field>
+<field name="snippet">news poll most important issue facing the country, the economy has 24%. terrorism, 18. health care, 8, which i'm sure donald trump wants to focus on because of the implosion of obamacare. climate change is 7. that's a favorite topic amongst</field>
+</doc>
+</add>

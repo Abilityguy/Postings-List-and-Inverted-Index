@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140531_100000_Hardball_With_Chris_Matthews#start/874/end/909</field>
+<field name="datetime">5/31/2014 10:14:49</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball With Chris Matthews</field>
+<field name="showid">MSNBCW_20140531_100000_Hardball_With_Chris_Matthews</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140531_100000_Hardball_With_Chris_Matthews/MSNBCW_20140531_100000_Hardball_With_Chris_Matthews.thumbs/MSNBCW_20140531_100000_Hardball_With_Chris_Matthews_000855.jpg</field>
+<field name="snippet">according to a new report by the yale project on climate change communication, the word climate change doesn't carry the same level of urgency as global warming. look at this. 76% of americans say global warming is a bad thing versus just 63% who say the same about climate change. we'll be right back. ergens?</field>
+</doc>
+</add>

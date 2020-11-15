@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201104.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110430_150000_MSNBC_News_Live#start/3029/end/3064</field>
+<field name="datetime">4/30/2011 15:50:44</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20110430_150000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20110430_150000_MSNBC_News_Live/MSNBC_20110430_150000_MSNBC_News_Live.thumbs/MSNBC_20110430_150000_MSNBC_News_Live_003023.jpg</field>
+<field name="snippet">bye-bye. thank you very much, george. we invite you to watch the beatification ceremony tomorrow morning at 4:00 p.m. the science of the twister. is climate change to blame for the horrific outbreak?</field>
+</doc>
+</add>

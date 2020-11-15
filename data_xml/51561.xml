@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181214_130000_BBC_News_at_One#start/1329/end/1364</field>
+<field name="datetime">12/14/2018 13:22:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20181214_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181214_130000_BBC_News_at_One/BBCNEWS_20181214_130000_BBC_News_at_One.thumbs/BBCNEWS_20181214_130000_BBC_News_at_One_001317.jpg</field>
+<field name="snippet">for a quarter of all manmade greenhouse gas emissions, which contribute to global warming, according to a recent study by oxford university. the environmental impact of different foods varies hugely - and there have been calls for better labelling to help people understand the carbon footprint</field>
+</doc>
+</add>

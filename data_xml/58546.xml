@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181121_170000_BBC_News_at_Five#start/2724/end/2759</field>
+<field name="datetime">11/21/2018 17:45:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20181121_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181121_170000_BBC_News_at_Five/BBCNEWS_20181121_170000_BBC_News_at_Five.thumbs/BBCNEWS_20181121_170000_BBC_News_at_Five_002698.jpg</field>
+<field name="snippet">solution to climate change must be a global one that involves everybody. speaking to the bbc ahead of next month's un climate change conference in poland, the naturalist says the discussion must include people from across the globe regardless</field>
+</doc>
+</add>

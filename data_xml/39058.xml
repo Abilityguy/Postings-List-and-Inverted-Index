@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100428_000000_The_OReilly_Factor#start/2875/end/2910</field>
+<field name="datetime">4/28/2010 0:48:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20100428_000000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100428_000000_The_OReilly_Factor/FOXNEWS_20100428_000000_The_OReilly_Factor.thumbs/FOXNEWS_20100428_000000_The_OReilly_Factor_000052.jpg</field>
+<field name="snippet">to the so-called climate crisis when we come back. i'm ed whitacre, from general motors. a lot of americans didn't agree with giving gm a second chance. quite frankly, i can respect that.</field>
+</doc>
+</add>

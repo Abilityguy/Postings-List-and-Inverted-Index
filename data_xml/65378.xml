@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190316_200000_Americas_News_HQ#start/737/end/772</field>
+<field name="datetime">3/16/2019 20:12:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20190316_200000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190316_200000_Americas_News_HQ/FOXNEWSW_20190316_200000_Americas_News_HQ.thumbs/FOXNEWSW_20190316_200000_Americas_News_HQ_000719.jpg</field>
+<field name="snippet">we're going to begin in new hampshire where washington governor jay inslee is set to speak at any moment. i'll be joined by some state lawmakers and rockingham county democrats where he will be discussing his core issue, climate change. over in iowa, that's where</field>
+</doc>
+</add>

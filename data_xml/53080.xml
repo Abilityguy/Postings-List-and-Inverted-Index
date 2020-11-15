@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201111.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20111113_130000_Up_W_Chris_Hayes#start/5026/end/5061</field>
+<field name="datetime">11/13/2011 14:24:01</field>
+<field name="station">MSNBC</field>
+<field name="show">Up W Chris Hayes</field>
+<field name="showid">MSNBCW_20111113_130000_Up_W_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20111113_130000_Up_W_Chris_Hayes/MSNBCW_20111113_130000_Up_W_Chris_Hayes.thumbs/MSNBCW_20111113_130000_Up_W_Chris_Hayes_005006.jpg</field>
+<field name="snippet">friend and colleague, martin bashir. we just had mark and josh on that were talking about the climate change. his statistics about the job</field>
+</doc>
+</add>

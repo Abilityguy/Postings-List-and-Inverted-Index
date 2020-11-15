@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191209_010000_Newsday#start/305/end/340</field>
+<field name="datetime">12/9/2019 1:05:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191209_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191209_010000_Newsday/BBCNEWS_20191209_010000_Newsday.thumbs/BBCNEWS_20191209_010000_Newsday_000297.jpg</field>
+<field name="snippet">firefighters in australia are trying to contain more than 140 fires before very hot and windy conditions return to fan the flames in the next few days. australia is experiencing a devastating start to its fire season due to the effects of climate change. 2019 is on track to be one of australia's hottest and driest years on record. courtney bembridge reports.</field>
+</doc>
+</add>

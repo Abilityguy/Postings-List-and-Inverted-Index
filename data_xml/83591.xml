@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190412_194500_The_Film_Review#start/3/end/38</field>
+<field name="datetime">4/12/2019 19:45:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Film Review</field>
+<field name="showid">BBCNEWS_20190412_194500_The_Film_Review</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190412_194500_The_Film_Review/BBCNEWS_20190412_194500_The_Film_Review.thumbs/BBCNEWS_20190412_194500_The_Film_Review_000028.jpg</field>
+<field name="snippet">this reduces reliance on fossil fuels, but does create greenhouse gases. as countries around the world try to improve recycling rates, some may look to eskilstuna as an example to follow. as long as they think they can persuade their citizens to get</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201107.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110708_100000_FOX_and_Friends#start/8300/end/8335</field>
+<field name="datetime">7/8/2011 12:18:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20110708_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110708_100000_FOX_and_Friends/FOXNEWS_20110708_100000_FOX_and_Friends.thumbs/FOXNEWS_20110708_100000_FOX_and_Friends_008268.jpg</field>
+<field name="snippet">one it was. by the way, when you have global cooling and global warming, what do you have? climate change. it's also called weather. molly: brent, thank you for joining us this morning. it will be interesting to see how things would be implemented</field>
+</doc>
+</add>

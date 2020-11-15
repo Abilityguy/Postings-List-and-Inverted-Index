@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180910_100000_BBC_Newsroom_Live#start/1778/end/1813</field>
+<field name="datetime">9/10/2018 10:29:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20180910_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180910_100000_BBC_Newsroom_Live/BBCNEWS_20180910_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20180910_100000_BBC_Newsroom_Live_001767.jpg</field>
+<field name="snippet">crossroads and the political choices that we make now will determine our future. if used for good, technology can protect the planet from climate</field>
+</doc>
+</add>

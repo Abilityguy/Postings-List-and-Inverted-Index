@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170708_220000_BBC_News#start/96/end/131</field>
+<field name="datetime">7/8/2017 22:01:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170708_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170708_220000_BBC_News/BBCNEWS_20170708_220000_BBC_News.thumbs/BBCNEWS_20170708_220000_BBC_News_000088.jpg</field>
+<field name="snippet">news. the 620 summit has drawn to a close in germany, with donald trump claiming victories on trade and climate change. in a joint statement the other 19 world leaders, did acknowledge america's isolated commitment to coal, and some trade tariffs. but they all renewed their pledges to the paris climate change agreement and to promoting free trade.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091210_020000_Hannity#start/650/end/685</field>
+<field name="datetime">12/10/2009 2:11:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20091210_020000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091210_020000_Hannity/FOXNEWS_20091210_020000_Hannity.thumbs/FOXNEWS_20091210_020000_Hannity_000570.jpg</field>
+<field name="snippet">sean: president obama is currently en route to oslo, norway, to pick up his nobel prize and while overseas plans to attend the copenhagen climate change conference in denmark. in light of the climate change scandal, governor palin has a suggestion for the president, in a 'washington post' op-ed</field>
+</doc>
+</add>

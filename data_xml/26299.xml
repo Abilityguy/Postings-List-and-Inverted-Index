@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201003.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100323_170000_America_Live#start/133/end/168</field>
+<field name="datetime">3/23/2010 17:02:28</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWS_20100323_170000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100323_170000_America_Live/FOXNEWS_20100323_170000_America_Live.thumbs/FOXNEWS_20100323_170000_America_Live_000120.jpg</field>
+<field name="snippet">care reform bill is the law of the land, lawmakers on capitol hill are reportedly about to take up the old cap and trade bill, the one critics call cap and tax. massachusetts senator john kerry says a climate change bill will be the next best opportunity to</field>
+</doc>
+</add>

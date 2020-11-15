@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100211_160000_Happening_Now#start/4227/end/4262</field>
+<field name="datetime">2/11/2010 17:10:42</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20100211_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100211_160000_Happening_Now/FOXNEWS_20100211_160000_Happening_Now.thumbs/FOXNEWS_20100211_160000_Happening_Now_004200.jpg</field>
+<field name="snippet">consistent with global warming. it just means that you're in a cold season. reporter: she says precipitation has actually increased 6 7%. you know what that means? more snow when it's cold. but other scientists who accept</field>
+</doc>
+</add>

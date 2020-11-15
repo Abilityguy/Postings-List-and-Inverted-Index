@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191126_033000_The_Travel_Show#start/1807/end/1842</field>
+<field name="datetime">11/26/2019 4:00:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Travel Show</field>
+<field name="showid">BBCNEWS_20191126_033000_The_Travel_Show</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191126_033000_The_Travel_Show/BBCNEWS_20191126_033000_The_Travel_Show.thumbs/BBCNEWS_20191126_033000_The_Travel_Show_001737.jpg</field>
+<field name="snippet">typically 5-8 celsius. this is bbc news - welcome if you're watching here in the uk, on pbs in america or around the globe. i'm mike embley. our top stories. a new report shows concentrations of carbon dioxide - the main gas behind global warming - are at record levels.</field>
+</doc>
+</add>

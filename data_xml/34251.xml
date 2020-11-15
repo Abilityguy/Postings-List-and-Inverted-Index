@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091220_150000_Americas_News_HQ#start/976/end/1011</field>
+<field name="datetime">12/20/2009 15:16:31</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWS_20091220_150000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091220_150000_Americas_News_HQ/FOXNEWS_20091220_150000_Americas_News_HQ.thumbs/FOXNEWS_20091220_150000_Americas_News_HQ_000960.jpg</field>
+<field name="snippet">thank you, you too. eric: a lot more on the climate change controversy on the fox news channel, there is a special tonight, only the way that we can do it. the science, the controversial e-mails and we'll go behind the scenes, interview scientists across the globe. the special this evening, it is</field>
+</doc>
+</add>

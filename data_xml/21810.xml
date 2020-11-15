@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180807_030000_BBC_News#start/1293/end/1328</field>
+<field name="datetime">8/7/2018 3:21:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180807_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180807_030000_BBC_News/BBCNEWS_20180807_030000_BBC_News.thumbs/BBCNEWS_20180807_030000_BBC_News_001287.jpg</field>
+<field name="snippet">and scientists say that climate change may bring more of this. a new report warns that we're still pumping out the gases but warm</field>
+</doc>
+</add>

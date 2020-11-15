@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180101_150000_Americas_News_HQ#start/4364/end/4399</field>
+<field name="datetime">1/1/2018 16:12:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20180101_150000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180101_150000_Americas_News_HQ/FOXNEWSW_20180101_150000_Americas_News_HQ.thumbs/FOXNEWSW_20180101_150000_Americas_News_HQ_004348.jpg</field>
+<field name="snippet">harassment claims in the workplace. plus president trump and elizabeth warren debating climate change politics on twitter as an arctic blast covers much of the country. so is this a winning strategy</field>
+</doc>
+</add>

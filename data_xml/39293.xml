@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201212.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121210_140000_Americas_Newsroom#start/1541/end/1576</field>
+<field name="datetime">12/10/2012 14:25:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWSW_20121210_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121210_140000_Americas_Newsroom/FOXNEWSW_20121210_140000_Americas_Newsroom.thumbs/FOXNEWSW_20121210_140000_Americas_Newsroom_001528.jpg</field>
+<field name="snippet">i'm a snow fan. bill: listen, going up to 57 degrees today. all this talk about climate change, i think it is underrated. i'm just saying it is, just for now. i mean we're going to get it in january. martha: i like winter to be winter. bill: we'll get cold days in</field>
+</doc>
+</add>

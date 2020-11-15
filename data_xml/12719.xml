@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170714_013000_Thursday_in_Parliament#start/0/end/32</field>
+<field name="datetime">7/14/2017 1:30:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Thursday in Parliament</field>
+<field name="showid">BBCNEWS_20170714_013000_Thursday_in_Parliament</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170714_013000_Thursday_in_Parliament/BBCNEWS_20170714_013000_Thursday_in_Parliament.thumbs/BBCNEWS_20170714_013000_Thursday_in_Parliament_000058.jpg</field>
+<field name="snippet">mr trump said something could happen with respect to the paris accord on climate change, from which the us withdrew six weeks ago. president trump and chancellor angela merkel have led the tributes to the chinese nobel peace laureate, liu xiaobo, who has died of liver cancer.</field>
+</doc>
+</add>

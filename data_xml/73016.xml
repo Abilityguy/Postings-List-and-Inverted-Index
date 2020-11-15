@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190110_200000_BBC_News#start/613/end/648</field>
+<field name="datetime">1/10/2019 20:10:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190110_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190110_200000_BBC_News/BBCNEWS_20190110_200000_BBC_News.thumbs/BBCNEWS_20190110_200000_BBC_News_000597.jpg</field>
+<field name="snippet">act quickly enough to understand that the public was turning away from diesel? well, i think it is very easy with hindsight to make that assumption. but remember that one of the advantages that diesel confers is that you get more miles per gallon. so from the point of view of tackling climate change,</field>
+</doc>
+</add>

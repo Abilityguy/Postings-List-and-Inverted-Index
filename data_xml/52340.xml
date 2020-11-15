@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181215_233000_The_Papers#start/0/end/33</field>
+<field name="datetime">12/15/2018 23:30:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Papers</field>
+<field name="showid">BBCNEWS_20181215_233000_The_Papers</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181215_233000_The_Papers/BBCNEWS_20181215_233000_The_Papers.thumbs/BBCNEWS_20181215_233000_The_Papers_000058.jpg</field>
+<field name="snippet">hello. this is bbc news with rachel scofield. we'll be taking a look at tomorrow mornings papers in a moment. first, the headlines. a deal is reached tonight by nearly 200 countries, on international rules to tackle climate change. the work and pensions secretary, amber rudd,</field>
+</doc>
+</add>

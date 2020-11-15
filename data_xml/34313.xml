@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201403.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140313_000000_The_OReilly_Factor#start/16/end/51</field>
+<field name="datetime">3/13/2014 0:00:31</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20140313_000000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140313_000000_The_OReilly_Factor/FOXNEWSW_20140313_000000_The_OReilly_Factor.thumbs/FOXNEWSW_20140313_000000_The_OReilly_Factor_000045.jpg</field>
+<field name="snippet">the o'reilly factor is on. tonight: take action and take on this crisis. put a price on. put a price on denial. a new poll says americans don't really care very much about global warming, climate change but they do care about their financial</field>
+</doc>
+</add>

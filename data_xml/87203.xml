@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191226_210000_World_News_Today#start/49/end/84</field>
+<field name="datetime">12/26/2019 21:01:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20191226_210000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191226_210000_World_News_Today/BBCNEWS_20191226_210000_World_News_Today.thumbs/BBCNEWS_20191226_210000_World_News_Today_000027.jpg</field>
+<field name="snippet">to climate change and plant them back. and - catching a glimpse of a rare eclipse - from the middle east to asia - people have been marvelling at the 'ring of fire'.</field>
+</doc>
+</add>

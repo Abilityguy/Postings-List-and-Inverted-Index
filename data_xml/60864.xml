@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201804.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180429_200000_World_News_Today#start/834/end/869</field>
+<field name="datetime">4/29/2018 20:14:09</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20180429_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180429_200000_World_News_Today/BBCNEWS_20180429_200000_World_News_Today.thumbs/BBCNEWS_20180429_200000_World_News_Today_000837.jpg</field>
+<field name="snippet">ministers say there will be efforts to mitigate the effects of climate change, but they gave no specific details. critics accused them of being hopelessly unable to tackle the climate emergency facing this underwater paradise that snakes down north-eastern australia.</field>
+</doc>
+</add>

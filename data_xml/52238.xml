@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_130000_BBC_News_at_One#start/0/end/33</field>
+<field name="datetime">12/3/2018 13:00:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20181203_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_130000_BBC_News_at_One/BBCNEWS_20181203_130000_BBC_News_at_One.thumbs/BBCNEWS_20181203_130000_BBC_News_at_One_000057.jpg</field>
+<field name="snippet">time is against us - as un climate talks begin in poland they're described as the most critical since the 2015 paris agreement. reenforcing the message, naturalist sir david attenborough - who says climate change is humanity's greatest threat in thousands of years.</field>
+</doc>
+</add>

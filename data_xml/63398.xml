@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190331_070000_Breakfast_BBC_News_Channel#start/70/end/105</field>
+<field name="datetime">3/31/2019 7:01:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast BBC News Channel</field>
+<field name="showid">BBCNEWS_20190331_070000_Breakfast_BBC_News_Channel</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190331_070000_Breakfast_BBC_News_Channel/BBCNEWS_20190331_070000_Breakfast_BBC_News_Channel.thumbs/BBCNEWS_20190331_070000_Breakfast_BBC_News_Channel_000059.jpg</field>
+<field name="snippet">cabinet split over its next steps on brexit, all eyes are on tomorrow's vote by mps on alternative options. some of the world's most famous landmarks are plunged into darkness to draw attention to climate change. in sport, it's farewell to huddersfield,</field>
+</doc>
+</add>

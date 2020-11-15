@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170527_060000_Breakfast#start/39/end/74</field>
+<field name="datetime">5/27/2017 6:00:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20170527_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170527_060000_Breakfast/BBCNEWS_20170527_060000_Breakfast.thumbs/BBCNEWS_20170527_060000_Breakfast_000058.jpg</field>
+<field name="snippet">it's saturday 27 may. also ahead, a desperate attempt by world leaders to keep america involved in talks on climate change. and good morning from wembley, where</field>
+</doc>
+</add>

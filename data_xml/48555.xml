@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201908.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190830_000000_All_In_With_Chris_Hayes#start/275/end/310</field>
+<field name="datetime">8/30/2019 0:04:50</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20190830_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190830_000000_All_In_With_Chris_Hayes/MSNBCW_20190830_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20190830_000000_All_In_With_Chris_Hayes_000268.jpg</field>
+<field name="snippet">about trump's weakness on environmental issues. a quinnipiac poll finds 167% of voters say the senate needs to do more and 56% see climate change as an emergency.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181005_130000_Afternoon_Live#start/8922/end/8957</field>
+<field name="datetime">10/5/2018 15:28:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20181005_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181005_130000_Afternoon_Live/BBCNEWS_20181005_130000_Afternoon_Live.thumbs/BBCNEWS_20181005_130000_Afternoon_Live_008907.jpg</field>
+<field name="snippet">in south korea, to discuss the rise in global warming. they will publish a report next week, which is expected to say urgent action is needed to keep the rise in temperatures below 1.5 degrees celsius. many low lying countries say they may disappear under the sea if that limit is breached.</field>
+</doc>
+</add>

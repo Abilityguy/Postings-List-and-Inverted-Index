@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190311_100000_Victoria_Derbyshire#start/1867/end/1902</field>
+<field name="datetime">3/11/2019 10:31:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20190311_100000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190311_100000_Victoria_Derbyshire/BBCNEWS_20190311_100000_Victoria_Derbyshire.thumbs/BBCNEWS_20190311_100000_Victoria_Derbyshire_001858.jpg</field>
+<field name="snippet">use increased by 2.1%. the average uk home emits around eight tonnes of greenhouse gases every year. that's as heavy as 12 cows. greenhouse gases are the ones that make our planet warmer.</field>
+</doc>
+</add>

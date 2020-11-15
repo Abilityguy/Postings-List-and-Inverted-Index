@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181201_030000_BBC_News#start/773/end/808</field>
+<field name="datetime">12/1/2018 3:13:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181201_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181201_030000_BBC_News/BBCNEWS_20181201_030000_BBC_News.thumbs/BBCNEWS_20181201_030000_BBC_News_000747.jpg</field>
+<field name="snippet">the latest headlines: world leaders have gathered in buenos aires for the 620 summit, but there's tension over trade, climate change,</field>
+</doc>
+</add>

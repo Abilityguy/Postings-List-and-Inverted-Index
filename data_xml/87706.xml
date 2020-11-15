@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191208_100000_BBC_News#start/1398/end/1433</field>
+<field name="datetime">12/8/2019 10:23:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191208_100000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191208_100000_BBC_News/BBCNEWS_20191208_100000_BBC_News.thumbs/BBCNEWS_20191208_100000_BBC_News_001378.jpg</field>
+<field name="snippet">the liberal democrats and greens, are offering much more in terms of tackling climate change. and they are not just talking about cutting emissions, they're talking about policies that will soak up carbon dioxide from the atmosphere in the shape of trees.</field>
+</doc>
+</add>

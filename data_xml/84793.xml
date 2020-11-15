@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201211.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121101_040000_The_Rachel_Maddow_Show#start/2161/end/2196</field>
+<field name="datetime">11/1/2012 4:36:16</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBCW_20121101_040000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121101_040000_The_Rachel_Maddow_Show/MSNBCW_20121101_040000_The_Rachel_Maddow_Show.thumbs/MSNBCW_20121101_040000_The_Rachel_Maddow_Show_002158.jpg</field>
+<field name="snippet">on the water is now over. mostly this gets talked about in terms of the people denying that climate change is a real thing, and big talk about whether we should try to stop climate change and global warming. but that may be getting resolved otherwise, as officials responsible for the 60 million americans who live on the edge</field>
+</doc>
+</add>

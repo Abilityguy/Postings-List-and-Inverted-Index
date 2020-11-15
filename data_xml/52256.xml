@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181215_110000_BBC_News#start/430/end/465</field>
+<field name="datetime">12/15/2018 11:07:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181215_110000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181215_110000_BBC_News/BBCNEWS_20181215_110000_BBC_News.thumbs/BBCNEWS_20181215_110000_BBC_News_000417.jpg</field>
+<field name="snippet">that's right, although governments have accepted that report. they have accepted the scientific assessment of what is going on and one of the key findings of that report is we are already feeling the impact of climate change. and this has opened</field>
+</doc>
+</add>

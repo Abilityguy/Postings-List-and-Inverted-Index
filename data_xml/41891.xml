@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201301.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130122_110000_Morning_Joe#start/5309/end/5344</field>
+<field name="datetime">1/22/2013 12:28:44</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20130122_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130122_110000_Morning_Joe/MSNBCW_20130122_110000_Morning_Joe.thumbs/MSNBCW_20130122_110000_Morning_Joe_005296.jpg</field>
+<field name="snippet">they're relentless. we'll talk about gun control now and talk about climate change and talk about peace in iran. then talk about something else, fiscal accountability, poor people and gay rights and the gun people never stop talking about guns.</field>
+</doc>
+</add>

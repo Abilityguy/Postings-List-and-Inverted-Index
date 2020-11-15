@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201005.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100502_020000_Geraldo_at_Large#start/1996/end/2031</field>
+<field name="datetime">5/2/2010 2:33:31</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Geraldo at Large</field>
+<field name="showid">FOXNEWS_20100502_020000_Geraldo_at_Large</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100502_020000_Geraldo_at_Large/FOXNEWS_20100502_020000_Geraldo_at_Large.thumbs/FOXNEWS_20100502_020000_Geraldo_at_Large_001974.jpg</field>
+<field name="snippet">duct tape, the all american solution to everything. of course, osama bin laden now releasing tapes blaming the united states for global warming. i think he has run out of</field>
+</doc>
+</add>

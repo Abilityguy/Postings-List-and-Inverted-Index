@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201601.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160131_010000_Republican_Presidential_Debate#start/3230/end/3265</field>
+<field name="datetime">1/31/2016 1:54:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Republican Presidential Debate</field>
+<field name="showid">FOXNEWSW_20160131_010000_Republican_Presidential_Debate</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160131_010000_Republican_Presidential_Debate/FOXNEWSW_20160131_010000_Republican_Presidential_Debate.thumbs/FOXNEWSW_20160131_010000_Republican_Presidential_Debate_003207.jpg</field>
+<field name="snippet">-- on the issue of climate change, in 2008 you wanted florida to get ahead of other states and establish a cap and trade system, a program for carbon emissions, which many republicans thought at the time would hurt the florida economy. now you're a skeptic of climate</field>
+</doc>
+</add>

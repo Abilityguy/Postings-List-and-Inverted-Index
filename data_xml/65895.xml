@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190220_080000_Fox_News__Night_With_Shannon_Bream#start/2456/end/2491</field>
+<field name="datetime">2/20/2019 8:41:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News  Night With Shannon Bream</field>
+<field name="showid">FOXNEWSW_20190220_080000_Fox_News__Night_With_Shannon_Bream</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190220_080000_Fox_News__Night_With_Shannon_Bream/FOXNEWSW_20190220_080000_Fox_News__Night_With_Shannon_Bream.thumbs/FOXNEWSW_20190220_080000_Fox_News__Night_With_Shannon_Bream_002429.jpg</field>
+<field name="snippet">$150 million of investment in renewables and a lot of it was wasted, maybe most of it. reporter: even if it was implemented how would it impact climate change? if the united states disappeared from the planet</field>
+</doc>
+</add>

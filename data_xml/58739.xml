@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181104_020000_BBC_News#start/1022/end/1057</field>
+<field name="datetime">11/4/2018 2:17:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181104_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181104_020000_BBC_News/BBCNEWS_20181104_020000_BBC_News.thumbs/BBCNEWS_20181104_020000_BBC_News_001018.jpg</field>
+<field name="snippet">trees face many threats in the wild, from climate change to diseases like ash dieback, which can wipe out whole populations. scientists say it's</field>
+</doc>
+</add>

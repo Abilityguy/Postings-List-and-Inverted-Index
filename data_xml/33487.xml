@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091207_160000_Happening_Now#start/4469/end/4504</field>
+<field name="datetime">12/7/2009 17:14:44</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091207_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091207_160000_Happening_Now/FOXNEWS_20091207_160000_Happening_Now.thumbs/FOXNEWS_20091207_160000_Happening_Now_004470.jpg</field>
+<field name="snippet">the top issue on the agenda -- striking a deal that provides aid to developing countries so they can grow their economies while contributing less to the possibility of global warming. wendell is live for us in copenhagen. what is happening?</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100128_220000_Glenn_Beck#start/1485/end/1520</field>
+<field name="datetime">1/28/2010 22:25:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20100128_220000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100128_220000_Glenn_Beck/FOXNEWS_20100128_220000_Glenn_Beck.thumbs/FOXNEWS_20100128_220000_Glenn_Beck_001440.jpg</field>
+<field name="snippet">those who disagree with the overwhelming scientific evidence on climate change. but -- glenn: the scientists that faked, the fake science? and yes, it means passing a comprehensive energy and</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190525_000000_BBC_News#start/922/end/957</field>
+<field name="datetime">5/25/2019 0:15:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190525_000000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190525_000000_BBC_News/BBCNEWS_20190525_000000_BBC_News.thumbs/BBCNEWS_20190525_000000_BBC_News_000928.jpg</field>
+<field name="snippet">stay with us on bbc world news, still to come: from japan to germany, and 100 countries in between, school children skip classes to demand action against climate change.</field>
+</doc>
+</add>

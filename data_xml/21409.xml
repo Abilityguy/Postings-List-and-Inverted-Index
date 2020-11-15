@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100111_230000_Special_Report_With_Bret_Baier#start/527/end/562</field>
+<field name="datetime">1/11/2010 23:09:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100111_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100111_230000_Special_Report_With_Bret_Baier/FOXNEWS_20100111_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100111_230000_Special_Report_With_Bret_Baier_000506.jpg</field>
+<field name="snippet">good thing they changed their name, or the movement from global warming to climate change, because they would look even more out of touch than they do today. reporter: but experts caution there is a big difference between the weather which is short-term, local and hard to predict and climate which is long-term,</field>
+</doc>
+</add>

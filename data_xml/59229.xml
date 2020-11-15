@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181130_060000_Breakfast#start/7771/end/7806</field>
+<field name="datetime">11/30/2018 8:09:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181130_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181130_060000_Breakfast/BBCNEWS_20181130_060000_Breakfast.thumbs/BBCNEWS_20181130_060000_Breakfast_007767.jpg</field>
+<field name="snippet">from our reporter on the island of sark in 20 minutes. school pupils from across australia have taken part in a day of strikes, to call for greater action on climate change. they want the government to stop all new coal and gas projects, as our sydney correspondent, hywel griffith reports. they may not have the vote but they definitely have a voice. with placards, posters</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190706_100000_Fox_and_Friends_Saturday#start/4110/end/4145</field>
+<field name="datetime">7/6/2019 11:08:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20190706_100000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190706_100000_Fox_and_Friends_Saturday/FOXNEWSW_20190706_100000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20190706_100000_Fox_and_Friends_Saturday_004109.jpg</field>
+<field name="snippet">have been hurt by the weather. you can't have umbrellas. there's a national security threat. it's raining. michael moore tweets this. he says god, mother, mother nature, karma, climate change, all got together to create this</field>
+</doc>
+</add>

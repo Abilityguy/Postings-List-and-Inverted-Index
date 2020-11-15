@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201008.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100811_140000_MSNBC_News_Live#start/3340/end/3375</field>
+<field name="datetime">8/11/2010 14:55:55</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100811_140000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100811_140000_MSNBC_News_Live/MSNBC_20100811_140000_MSNBC_News_Live.thumbs/MSNBC_20100811_140000_MSNBC_News_Live_003323.jpg</field>
+<field name="snippet">not just about new orleans. the same kind of haphazard approach to water policy, water problems is happening all over the country and at a time of climate change, water is going to be the big issue of the 21st century. we might want to take a whole</field>
+</doc>
+</add>

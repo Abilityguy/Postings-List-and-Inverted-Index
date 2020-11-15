@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201211.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121109_160000_Happening_Now#start/7148/end/7183</field>
+<field name="datetime">11/9/2012 17:59:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20121109_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121109_160000_Happening_Now/FOXNEWSW_20121109_160000_Happening_Now.thumbs/FOXNEWSW_20121109_160000_Happening_Now_007077.jpg</field>
+<field name="snippet">the mayan century collapsed after a century long drought. you can probably bet that it was not man-made. researchers say that the rise and fall of a sophisticated stylization failing to adapt successfully to climate change.</field>
+</doc>
+</add>

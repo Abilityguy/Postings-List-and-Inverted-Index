@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201011.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101116_170000_MSNBC_News_Live#start/3140/end/3175</field>
+<field name="datetime">11/16/2010 17:52:35</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20101116_170000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20101116_170000_MSNBC_News_Live/MSNBC_20101116_170000_MSNBC_News_Live.thumbs/MSNBC_20101116_170000_MSNBC_News_Live_003114.jpg</field>
+<field name="snippet">elections have consequences. especially if you're trying to push through stalled legislation. when republicans take over the house next month and add to their numbers in the senate, gro grouping working on climate change could find getting</field>
+</doc>
+</add>

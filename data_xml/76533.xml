@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190511_090000_BBC_News#start/292/end/327</field>
+<field name="datetime">5/11/2019 9:05:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190511_090000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190511_090000_BBC_News/BBCNEWS_20190511_090000_BBC_News.thumbs/BBCNEWS_20190511_090000_BBC_News_000267.jpg</field>
+<field name="snippet">government's climate change obligations. but this latest report suggests that actually, if by 2050 we are supposed to be zero carbon, thatis that is very difficult to see how that will work with the present aircraft technology. interesting,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201710.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171030_213000_BBC_World_News_America#start/803/end/838</field>
+<field name="datetime">10/30/2017 21:43:38</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC World News America</field>
+<field name="showid">BBCNEWS_20171030_213000_BBC_World_News_America</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171030_213000_BBC_World_News_America/BBCNEWS_20171030_213000_BBC_World_News_America.thumbs/BBCNEWS_20171030_213000_BBC_World_News_America_000777.jpg</field>
+<field name="snippet">keeping track of our atmosphere: for decades, research stations like this one in the swiss alps had been monitoring levels of carbon dioxide. their latest findings show that the greenhouse gas has hit a new high. this should be setting off alarm bells throughout the corridors of power around the world. we're talking about three parts</field>
+</doc>
+</add>

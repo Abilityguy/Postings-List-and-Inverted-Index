@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191007_233000_HARDtalk#start/18/end/53</field>
+<field name="datetime">10/7/2019 23:30:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">HARDtalk</field>
+<field name="showid">BBCNEWS_20191007_233000_HARDtalk</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191007_233000_HARDtalk/BBCNEWS_20191007_233000_HARDtalk.thumbs/BBCNEWS_20191007_233000_HARDtalk_000029.jpg</field>
+<field name="snippet">hundreds of climate activists from the extinction rebellion movement are arrested in cities around the world at the start of a two-week campaign to demand government action on limiting global warming. and this story is getting a lot of attention on bbc.com</field>
+</doc>
+</add>

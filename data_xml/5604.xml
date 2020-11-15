@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190913_210000_BBC_News_at_Ten#start/1234/end/1269</field>
+<field name="datetime">9/13/2019 21:20:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20190913_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190913_210000_BBC_News_at_Ten/BBCNEWS_20190913_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20190913_210000_BBC_News_at_Ten_001228.jpg</field>
+<field name="snippet">and offices all over the uk. on every step of the journey, switches and fuses are used to prevent short circuits and fires. but around 80% of the ones in the uk depend on the powerful greenhouse gas, sf6.</field>
+</doc>
+</add>

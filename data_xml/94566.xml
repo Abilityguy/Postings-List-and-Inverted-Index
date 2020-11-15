@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201004.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100418_180000_Meet_the_Press#start/3280/end/3315</field>
+<field name="datetime">4/18/2010 18:54:55</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBC_20100418_180000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBC_20100418_180000_Meet_the_Press/MSNBC_20100418_180000_Meet_the_Press.thumbs/MSNBC_20100418_180000_Meet_the_Press_003266.jpg</field>
+<field name="snippet">the tallest buildings leave the lightest footprints. a fifty-ton train makes barely a mark on the environment. and a country facing climate change finds climate solutions. somewhere in america,</field>
+</doc>
+</add>

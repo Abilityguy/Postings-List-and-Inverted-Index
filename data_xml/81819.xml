@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091218_140000_Morning_Meeting#start/0/end/35</field>
+<field name="datetime">12/18/2009 14:00:15</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Meeting</field>
+<field name="showid">MSNBC_20091218_140000_Morning_Meeting</field>
+<field name="preview">https://archive.org/download/MSNBC_20091218_140000_Morning_Meeting/MSNBC_20091218_140000_Morning_Meeting.thumbs/MSNBC_20091218_140000_Morning_Meeting_000027.jpg</field>
+<field name="snippet">obama ditching his schedule to huddle with all world leaders and calling them in a fiery address to stop the talking and get behind a last-minute deal on climate change. take a listen to the president. we are ready to get this done today. but there has to be movement on</field>
+</doc>
+</add>

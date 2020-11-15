@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201009.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100923_150000_MSNBC_News_Live#start/236/end/271</field>
+<field name="datetime">9/23/2010 15:04:11</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100923_150000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100923_150000_MSNBC_News_Live/MSNBC_20100923_150000_MSNBC_News_Live.thumbs/MSNBC_20100923_150000_MSNBC_News_Live_000210.jpg</field>
+<field name="snippet">his speech wrapped up just a little while ago and addressed a number of issues from the global economy, climate change and world disasters. a large part of his speech was devoted to the israeli/palestinian conflict. peace must be made by</field>
+</doc>
+</add>

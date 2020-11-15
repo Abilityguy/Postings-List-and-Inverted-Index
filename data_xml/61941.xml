@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201409.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140901_050000_Stossel#start/2532/end/2567</field>
+<field name="datetime">9/1/2014 5:42:27</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Stossel</field>
+<field name="showid">FOXNEWSW_20140901_050000_Stossel</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140901_050000_Stossel/FOXNEWSW_20140901_050000_Stossel.thumbs/FOXNEWSW_20140901_050000_Stossel_002535.jpg</field>
+<field name="snippet">we need to take action to protect families from the mounting impacts of climate change and 3700 cases of bronchitis in children, 150000 asthma attacks, 300000 heart</field>
+</doc>
+</add>

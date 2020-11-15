@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191004_160000_BBC_News_at_Five#start/1354/end/1389</field>
+<field name="datetime">10/4/2019 16:22:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20191004_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191004_160000_BBC_News_at_Five/BBCNEWS_20191004_160000_BBC_News_at_Five.thumbs/BBCNEWS_20191004_160000_BBC_News_at_Five_001347.jpg</field>
+<field name="snippet">the green party's co-leader has called for the home office to be scrapped in a radical shake-up of immigration policy. speaking at the green party conference in newport, jonathan bartley said the department was 'pernicious' in its treatment of people and a new ministry for sanctuary should oversee a 'fa i rer' system. he also called for action on what he called the 'climate crisis'</field>
+</doc>
+</add>

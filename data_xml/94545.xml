@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201004.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100416_100000_Morning_Joe#start/4565/end/4600</field>
+<field name="datetime">4/16/2010 11:16:20</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20100416_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20100416_100000_Morning_Joe/MSNBC_20100416_100000_Morning_Joe.thumbs/MSNBC_20100416_100000_Morning_Joe_004553.jpg</field>
+<field name="snippet">there's no such thing as global warming. again, we're talking about something that's developed over the centuries. you do have to take a much longer, a much longer look at it. but i've got to say -- i want to get into this when we come back.</field>
+</doc>
+</add>

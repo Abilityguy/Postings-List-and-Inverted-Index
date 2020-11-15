@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170118_220000_BBC_News_at_Ten#start/1253/end/1288</field>
+<field name="datetime">1/18/2017 22:21:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20170118_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170118_220000_BBC_News_at_Ten/BBCNEWS_20170118_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20170118_220000_BBC_News_at_Ten_001228.jpg</field>
+<field name="snippet">weather phenomenon played a role but increasing levels of greenhouse gases were the main factor in driving up temperatures, as our science correspondent rebecca morelle explains. our planet is warming, fast, and the latest data suggests that 2016 was a record-breaking year.</field>
+</doc>
+</add>

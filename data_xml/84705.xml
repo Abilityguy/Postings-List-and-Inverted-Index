@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190417_190000_BBC_News#start/634/end/669</field>
+<field name="datetime">4/17/2019 19:10:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190417_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190417_190000_BBC_News/BBCNEWS_20190417_190000_BBC_News.thumbs/BBCNEWS_20190417_190000_BBC_News_000629.jpg</field>
+<field name="snippet">on the island, which is popular with british holidaymakers. a foreign and commonwealth office spokesman said: 'our staff are assisting the families of two british people who have died on the island of santorini and are in contact with the greek authorities.' for a third day in a row, climate change activists from extinction rebellion have been protesting in central london.</field>
+</doc>
+</add>

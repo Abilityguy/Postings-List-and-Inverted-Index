@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170106_010000_Newsday#start/785/end/820</field>
+<field name="datetime">1/6/2017 1:13:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20170106_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170106_010000_Newsday/BBCNEWS_20170106_010000_Newsday.thumbs/BBCNEWS_20170106_010000_Newsday_000777.jpg</field>
+<field name="snippet">one hand the biggest contributor to greenhouse gas emissions and also at the same time the biggest contributor on the planet to the solution. i mean, it is building this huge windfarms, solar on and on</field>
+</doc>
+</add>

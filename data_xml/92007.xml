@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170809_000000_Tucker_Carlson_Tonight#start/3107/end/3142</field>
+<field name="datetime">8/9/2017 0:52:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20170809_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170809_000000_Tucker_Carlson_Tonight/FOXNEWSW_20170809_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20170809_000000_Tucker_Carlson_Tonight_003087.jpg</field>
+<field name="snippet">of climate change. do you understand the science on climate change? tucker: that you ought to have fewer kids? no, no, no. do you understand the science of climate change?</field>
+</doc>
+</add>

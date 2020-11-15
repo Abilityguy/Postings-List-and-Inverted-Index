@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181216_194500_BBC_News#start/785/end/820</field>
+<field name="datetime">12/16/2018 19:58:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181216_194500_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181216_194500_BBC_News/BBCNEWS_20181216_194500_BBC_News.thumbs/BBCNEWS_20181216_194500_BBC_News_000777.jpg</field>
+<field name="snippet">environmental groups criticise the deal struck at a un climate conference in poland , saying it doesn't go far enough to curb greenhouse gas emissions. liverpool return to the top of the premier league with a 3-1</field>
+</doc>
+</add>

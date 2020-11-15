@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180903_130000_Afternoon_Live#start/4178/end/4213</field>
+<field name="datetime">9/3/2018 14:09:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20180903_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180903_130000_Afternoon_Live/BBCNEWS_20180903_130000_Afternoon_Live.thumbs/BBCNEWS_20180903_130000_Afternoon_Live_004167.jpg</field>
+<field name="snippet">our environment correpondent matt mcgrathjoins me now. let's speak to michael le page, a reporter covering climate change for new scientist. give us an idea of how we are</field>
+</doc>
+</add>

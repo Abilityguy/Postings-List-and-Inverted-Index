@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_003000_HARDtalk#start/0/end/34</field>
+<field name="datetime">12/3/2018 0:30:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">HARDtalk</field>
+<field name="showid">BBCNEWS_20181203_003000_HARDtalk</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_003000_HARDtalk/BBCNEWS_20181203_003000_HARDtalk.thumbs/BBCNEWS_20181203_003000_HARDtalk_000057.jpg</field>
+<field name="snippet">our top story: global warming is posing a greater threat to humanity than ever before, that's according to the un. their climate chief said that mankind was 'in danger of disappearing' if temperatures continued to rise. patricia espinosa was speaking at the start of a climate conference in katowice in poland. delegates will try to agree rules</field>
+</doc>
+</add>

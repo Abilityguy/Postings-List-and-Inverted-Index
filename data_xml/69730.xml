@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201611.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161112_080000_In_Other_News#start/91/end/126</field>
+<field name="datetime">11/12/2016 8:01:46</field>
+<field name="station">MSNBC</field>
+<field name="show">In Other News</field>
+<field name="showid">MSNBCW_20161112_080000_In_Other_News</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161112_080000_In_Other_News/MSNBCW_20161112_080000_In_Other_News.thumbs/MSNBCW_20161112_080000_In_Other_News_000087.jpg</field>
+<field name="snippet">what's going on in iran is massive, mostly peaceful protests over the alleged stealing of an election. in the u.s. capital, a political storm erupts over a ground breaking climate change bill. we have been talking about this issue for decades.</field>
+</doc>
+</add>

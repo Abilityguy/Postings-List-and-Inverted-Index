@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201411.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141112_140000_Americas_Newsroom#start/3647/end/3682</field>
+<field name="datetime">11/12/2014 15:01:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWSW_20141112_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141112_140000_Americas_Newsroom/FOXNEWSW_20141112_140000_Americas_Newsroom.thumbs/FOXNEWSW_20141112_140000_Americas_Newsroom_003645.jpg</field>
+<field name="snippet">did the white house give away the store to china and get nothing in return? a new climate change agreement has the u.s. setting stringent new goals to slash coal emissions at home while china</field>
+</doc>
+</add>

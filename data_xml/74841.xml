@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_130000_BBC_News_at_One#start/366/end/401</field>
+<field name="datetime">1/17/2020 13:06:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20200117_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_130000_BBC_News_at_One/BBCNEWS_20200117_130000_BBC_News_at_One.thumbs/BBCNEWS_20200117_130000_BBC_News_at_One_000358.jpg</field>
+<field name="snippet">that at least it's trying. and this matters because an international summit on climate change is due to take place here in november, and the world will be watching what this city does. david shukman, bbc news, in glasgow.</field>
+</doc>
+</add>

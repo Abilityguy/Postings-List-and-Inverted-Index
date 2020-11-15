@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200907.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20090723_150000_MSNBC_News_Live#start/431/end/466</field>
+<field name="datetime">7/23/2009 15:07:26</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20090723_150000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20090723_150000_MSNBC_News_Live/MSNBC_20090723_150000_MSNBC_News_Live.thumbs/MSNBC_20090723_150000_MSNBC_News_Live_000416.jpg</field>
+<field name="snippet">president put front and center in the agenda, climate change legislation. you're the chair of the environmental public works committee and the senate. do you think that we are going to get major climate change legislation? the reality is we spent so much and will continue to spend so much time on health care that</field>
+</doc>
+</add>

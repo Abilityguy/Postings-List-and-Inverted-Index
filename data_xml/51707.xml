@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181218_200000_BBC_News#start/1698/end/1733</field>
+<field name="datetime">12/18/2018 20:28:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181218_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181218_200000_BBC_News/BBCNEWS_20181218_200000_BBC_News.thumbs/BBCNEWS_20181218_200000_BBC_News_001678.jpg</field>
+<field name="snippet">extend food waste collections across england. methane, a powerful greenhouse gas. and to roll out a deposit and return scheme like this one in norway for plastic bottles and cans. there is plenty of detail</field>
+</doc>
+</add>

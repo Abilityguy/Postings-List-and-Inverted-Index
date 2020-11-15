@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201212.csv</field>
+<field name="url">https://archive.org/details/CNNW_20121205_020000_Piers_Morgan_Tonight#start/110/end/145</field>
+<field name="datetime">12/5/2012 2:02:05</field>
+<field name="station">CNN</field>
+<field name="show">Piers Morgan Tonight</field>
+<field name="showid">CNNW_20121205_020000_Piers_Morgan_Tonight</field>
+<field name="preview">https://archive.org/download/CNNW_20121205_020000_Piers_Morgan_Tonight/CNNW_20121205_020000_Piers_Morgan_Tonight.thumbs/CNNW_20121205_020000_Piers_Morgan_Tonight_000087.jpg</field>
+<field name="snippet">york just outside cnn's studios. the average high temperature in december is normally 43. a warm front has flooded the lower 48 states. quite extraordinary but is it evidence of man-made global warming? that's tonight's battleground</field>
+</doc>
+</add>

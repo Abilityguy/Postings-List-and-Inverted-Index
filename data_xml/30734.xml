@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140219_160000_Happening_Now#start/775/end/810</field>
+<field name="datetime">2/19/2014 16:13:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20140219_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140219_160000_Happening_Now/FOXNEWSW_20140219_160000_Happening_Now.thumbs/FOXNEWSW_20140219_160000_Happening_Now_000765.jpg</field>
+<field name="snippet">climate change push? reporter: critics maintain this intense focus on the drought and attempt to link it to climate change serves as diversion from obamacare's troubles and could be issue to re-energize democratic voters in the upcoming midterm elections.</field>
+</doc>
+</add>

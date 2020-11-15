@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201110.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111028_220000_Special_Report_With_Bret_Baier#start/1591/end/1626</field>
+<field name="datetime">10/28/2011 22:26:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20111028_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111028_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20111028_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20111028_220000_Special_Report_With_Bret_Baier_001586.jpg</field>
+<field name="snippet">weather. and monitor climate change. many democrats are running away from president obama's healthcare law. that's next in the grapevine. and are the occupy wall streeters getting preferential treatment? pain.</field>
+</doc>
+</add>

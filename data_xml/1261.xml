@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170527_140000_BBC_News#start/1368/end/1403</field>
+<field name="datetime">5/27/2017 14:23:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170527_140000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170527_140000_BBC_News/BBCNEWS_20170527_140000_BBC_News.thumbs/BBCNEWS_20170527_140000_BBC_News_001348.jpg</field>
+<field name="snippet">important issue. the us suggests it may leave the climate change agreement, others may be tempted to be the same. the us secretary general has told us it is not the end of the world if the us leaves, but very clearly it will be a severe blow to the deal if that were to happen. thank you.</field>
+</doc>
+</add>

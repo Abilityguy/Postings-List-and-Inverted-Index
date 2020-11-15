@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181208_210000_World_News_Today#start/1154/end/1189</field>
+<field name="datetime">12/8/2018 21:19:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20181208_210000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181208_210000_World_News_Today/BBCNEWS_20181208_210000_World_News_Today.thumbs/BBCNEWS_20181208_210000_World_News_Today_001137.jpg</field>
+<field name="snippet">the australian prime minister, scott morrison, is under pressure to take action on climate change, with the country's rising greenhouse gas emissions pushing it further away from its paris targets. when thousands of students skipped school to attend climate change rallies last month,</field>
+</doc>
+</add>

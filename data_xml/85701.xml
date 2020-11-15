@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201709.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170901_040000_BBC_News#start/441/end/476</field>
+<field name="datetime">9/1/2017 4:07:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170901_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170901_040000_BBC_News/BBCNEWS_20170901_040000_BBC_News.thumbs/BBCNEWS_20170901_040000_BBC_News_000418.jpg</field>
+<field name="snippet">institute for climate studies. he's in asheville for us now. a warm welcome to you. in your view, has hurricane harvey if not conclusively been linked to climate</field>
+</doc>
+</add>

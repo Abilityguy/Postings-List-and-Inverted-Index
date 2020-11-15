@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201606.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160602_180000_MSNBC_Live#start/2983/end/3018</field>
+<field name="datetime">6/2/2016 18:49:58</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20160602_180000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160602_180000_MSNBC_Live/MSNBCW_20160602_180000_MSNBC_Live.thumbs/MSNBCW_20160602_180000_MSNBC_Live_002248.jpg</field>
+<field name="snippet">san diego. on the other side of screen, we're also watching a bernie sanders event. it has thus far centered on climate change. senator sanders has been sharing the podium with others. this was as it looks to be</field>
+</doc>
+</add>

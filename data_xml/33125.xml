@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091213_120000_FOX_and_Friends_Sunday#start/8159/end/8194</field>
+<field name="datetime">12/13/2009 14:16:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWS_20091213_120000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091213_120000_FOX_and_Friends_Sunday/FOXNEWS_20091213_120000_FOX_and_Friends_Sunday.thumbs/FOXNEWS_20091213_120000_FOX_and_Friends_Sunday_008070.jpg</field>
+<field name="snippet">i'm proud to announce epa has finalized the endangerment finding on greenhouse gas pollution and is now authorized and obligated to make reasonable efforts to reduce greenhouse pollutants under the clean air</field>
+</doc>
+</add>

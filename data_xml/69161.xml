@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201109.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20110917_080000_Special_Report_With_Bret_Baier#start/1809/end/1844</field>
+<field name="datetime">9/17/2011 8:30:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20110917_080000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20110917_080000_Special_Report_With_Bret_Baier/FOXNEWSW_20110917_080000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20110917_080000_Special_Report_With_Bret_Baier_001797.jpg</field>
+<field name="snippet">bret: now some fresh pickings from the political grapevine. al gore's 24 hours of reality climate change program ended thursday night. the online presentation consisted of one hour slide shows in 13 languages, highlighting the suppose dangers of manmade climate</field>
+</doc>
+</add>

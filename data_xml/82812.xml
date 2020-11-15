@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191008_220000_BBC_News#start/1529/end/1564</field>
+<field name="datetime">10/8/2019 22:25:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191008_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191008_220000_BBC_News/BBCNEWS_20191008_220000_BBC_News.thumbs/BBCNEWS_20191008_220000_BBC_News_001529.jpg</field>
+<field name="snippet">in lorry loads of vegetables and fruitjuice, before being moved around the uk over an 18-month period. police have arrested more than 500 protesters over the last two-days, including people who have blocked roads and bridges around westminster, to demand action on climate change.</field>
+</doc>
+</add>

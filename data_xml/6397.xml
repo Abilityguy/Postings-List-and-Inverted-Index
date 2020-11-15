@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190925_200000_Outside_Source#start/1173/end/1208</field>
+<field name="datetime">9/25/2019 20:19:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20190925_200000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190925_200000_Outside_Source/BBCNEWS_20190925_200000_Outside_Source.thumbs/BBCNEWS_20190925_200000_Outside_Source_001169.jpg</field>
+<field name="snippet">warned that climate change is devastating the world's seas and frozen regions as never before. research by more than a hundred scientists has shown that sea levels are rising faster than predicted, as ice in greenland and antarctica melts at an unprecedented rate.</field>
+</doc>
+</add>

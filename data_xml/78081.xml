@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191118_020000_BBC_News#start/1077/end/1112</field>
+<field name="datetime">11/18/2019 2:18:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191118_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191118_020000_BBC_News/BBCNEWS_20191118_020000_BBC_News.thumbs/BBCNEWS_20191118_020000_BBC_News_001078.jpg</field>
+<field name="snippet">the burning of coal is a huge driver of climate change, producing around 40% of global carbon dioxide emissions. but it's also estimated that coal mining employs 6 million people worldwide. so it stands to reason that helping those miners find alternative livelihoods will also help</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191105_050000_The_Briefing#start/472/end/507</field>
+<field name="datetime">11/5/2019 5:08:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20191105_050000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191105_050000_The_Briefing/BBCNEWS_20191105_050000_The_Briefing.thumbs/BBCNEWS_20191105_050000_The_Briefing_000477.jpg</field>
+<field name="snippet">stories making the news: the trump administration has formally notified the united nations that it intends to withdraw the us from the paris climate change agreement. it is the first formal step in a process that will take a year to effect.</field>
+</doc>
+</add>

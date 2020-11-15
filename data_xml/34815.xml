@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201509.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150922_200000_MSNBC_Live#start/2605/end/2640</field>
+<field name="datetime">9/22/2015 20:43:40</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20150922_200000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150922_200000_MSNBC_Live/MSNBCW_20150922_200000_MSNBC_Live.thumbs/MSNBCW_20150922_200000_MSNBC_Live_002596.jpg</field>
+<field name="snippet">about refugees and immigrants and the rights of poor people, the dispossessed. here's a pope that engaged in one of the, i think, most important national security debates today, climate change, the importance of saving and preserving our planet.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_200000_World_News_Today#start/546/end/581</field>
+<field name="datetime">9/20/2019 20:09:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190920_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_200000_World_News_Today/BBCNEWS_20190920_200000_World_News_Today.thumbs/BBCNEWS_20190920_200000_World_News_Today_000538.jpg</field>
+<field name="snippet">in new york, thanks very much for bringing us up to speed with everything that's happened. friday's protests come ahead next week's un climate change summit in new york, where world leaders will discuss how best to address global warming. here's our science</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190129_080000_Fox_News__Night_With_Shannon_Bream#start/1638/end/1673</field>
+<field name="datetime">1/29/2019 8:27:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News  Night With Shannon Bream</field>
+<field name="showid">FOXNEWSW_20190129_080000_Fox_News__Night_With_Shannon_Bream</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190129_080000_Fox_News__Night_With_Shannon_Bream/FOXNEWSW_20190129_080000_Fox_News__Night_With_Shannon_Bream.thumbs/FOXNEWSW_20190129_080000_Fox_News__Night_With_Shannon_Bream_001618.jpg</field>
+<field name="snippet">temperatures reaching-60, the coldest ever recorded, in coming days expect to get even colder, people can't last outside even for minutes. what the hell is going on with global warming? please come back fast, we need</field>
+</doc>
+</add>

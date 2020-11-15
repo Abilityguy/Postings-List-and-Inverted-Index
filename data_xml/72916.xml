@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201412.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20141212_230000_PoliticsNation#start/150/end/185</field>
+<field name="datetime">12/12/2014 23:02:45</field>
+<field name="station">MSNBC</field>
+<field name="show">PoliticsNation</field>
+<field name="showid">MSNBCW_20141212_230000_PoliticsNation</field>
+<field name="preview">https://archive.org/download/MSNBCW_20141212_230000_PoliticsNation/MSNBCW_20141212_230000_PoliticsNation.thumbs/MSNBCW_20141212_230000_PoliticsNation_000136.jpg</field>
+<field name="snippet">providing health insurance to all americans, to make sure that we continue with our efforts to combat climate change, that we're able to expand early childhood education. i think what the american people are looking for is some</field>
+</doc>
+</add>

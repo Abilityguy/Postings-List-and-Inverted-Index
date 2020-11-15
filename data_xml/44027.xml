@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180125_050000_Tucker_Carlson_Tonight#start/2481/end/2516</field>
+<field name="datetime">1/25/2018 5:41:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20180125_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180125_050000_Tucker_Carlson_Tonight/FOXNEWSW_20180125_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20180125_050000_Tucker_Carlson_Tonight_002457.jpg</field>
+<field name="snippet">flying in these planes? if you want to put things in context, all of the air travel for everybody going to davos equals about one second of total annual global emissions. tucker: i guess it depends on how you look at it. i'm not insisting people don't travel because of global</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170531_190000_Shepard_Smith_Reporting#start/13/end/48</field>
+<field name="datetime">5/31/2017 19:00:28</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20170531_190000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170531_190000_Shepard_Smith_Reporting/FOXNEWSW_20170531_190000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20170531_190000_Shepard_Smith_Reporting_000058.jpg</field>
+<field name="snippet">some scientists have called climate change the greatest threat that humanity changes. president trump's defense secretar james mattis called it a challenge to national security. the president said he would make</field>
+</doc>
+</add>

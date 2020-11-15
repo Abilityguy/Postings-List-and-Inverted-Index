@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181122_130000_BBC_News_at_One#start/1327/end/1362</field>
+<field name="datetime">11/22/2018 13:22:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20181122_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181122_130000_BBC_News_at_One/BBCNEWS_20181122_130000_BBC_News_at_One.thumbs/BBCNEWS_20181122_130000_BBC_News_at_One_001317.jpg</field>
+<field name="snippet">planet's net emissions of co2 will need to be zero by 2050 to prevent damaging climate change. two degree rise will mean that the world will have no coral. the message to the</field>
+</doc>
+</add>

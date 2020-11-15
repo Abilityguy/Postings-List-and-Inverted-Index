@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_180000_BBC_News#start/1734/end/1769</field>
+<field name="datetime">9/20/2019 18:29:09</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190920_180000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_180000_BBC_News/BBCNEWS_20190920_180000_BBC_News.thumbs/BBCNEWS_20190920_180000_BBC_News_001707.jpg</field>
+<field name="snippet">the headlines at 7.30. a global climate strike: in cities across the uk - thousands take to the streets - calling for tougher action to combat climate change. from nairobi to new york, sydney to stockholm, millions protest in more than a 150</field>
+</doc>
+</add>

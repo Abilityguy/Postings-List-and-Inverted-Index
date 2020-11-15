@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181121_230000_BBC_News#start/1541/end/1576</field>
+<field name="datetime">11/21/2018 23:25:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181121_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181121_230000_BBC_News/BBCNEWS_20181121_230000_BBC_News.thumbs/BBCNEWS_20181121_230000_BBC_News_001527.jpg</field>
+<field name="snippet">the monsoons are sometimes coming too early or too late, like, nothing is on time. translation: of course, but what can i do about that? concern and confusion over climate change. it is a global conversation. and now, the un has turned to a very familiar figure to take messages like these from people all around the world to the crucial climate</field>
+</doc>
+</add>

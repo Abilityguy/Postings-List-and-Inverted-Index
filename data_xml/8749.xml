@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190922_090000_FOX_Report_With_Jon_Scott#start/1199/end/1234</field>
+<field name="datetime">9/22/2019 9:20:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report With Jon Scott</field>
+<field name="showid">FOXNEWSW_20190922_090000_FOX_Report_With_Jon_Scott</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190922_090000_FOX_Report_With_Jon_Scott/FOXNEWSW_20190922_090000_FOX_Report_With_Jon_Scott.thumbs/FOXNEWSW_20190922_090000_FOX_Report_With_Jon_Scott_001197.jpg</field>
+<field name="snippet">one of the many teens in attendance as the united nations hosts its first ever youth climate summit in new york city. it comes a day after students around the world walked out of school to take part in climate change demonstrations. joining us now with more on all of this, jackie heinrich,</field>
+</doc>
+</add>

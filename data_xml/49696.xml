@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201609.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160906_190000_Shepard_Smith_Reporting#start/374/end/409</field>
+<field name="datetime">9/6/2016 19:06:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20160906_190000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160906_190000_Shepard_Smith_Reporting/FOXNEWSW_20160906_190000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20160906_190000_Shepard_Smith_Reporting_000357.jpg</field>
+<field name="snippet">climate change. 2016 was the hottest year on record and the science is clear. it's real and wreaking havoc on nations across the world. last week's hurricane is another</field>
+</doc>
+</add>

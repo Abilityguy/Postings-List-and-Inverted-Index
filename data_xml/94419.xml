@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201212.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121225_110000_Morning_Joe#start/1687/end/1722</field>
+<field name="datetime">12/25/2012 11:28:22</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20121225_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121225_110000_Morning_Joe/MSNBCW_20121225_110000_Morning_Joe.thumbs/MSNBCW_20121225_110000_Morning_Joe_001665.jpg</field>
+<field name="snippet">barnicle, of all people, mike, you chose weather-driven events, superstorm sandy, climate change, overall. which may have had an impact on the last week of the election as well. oh, i think so, joe. and i think what happened after sandy or during sandy to the</field>
+</doc>
+</add>

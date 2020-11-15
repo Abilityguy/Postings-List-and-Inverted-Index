@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091210_160000_Happening_Now#start/1371/end/1406</field>
+<field name="datetime">12/10/2009 16:23:06</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091210_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091210_160000_Happening_Now/FOXNEWS_20091210_160000_Happening_Now.thumbs/FOXNEWS_20091210_160000_Happening_Now_001372.jpg</field>
+<field name="snippet">and this is the statement that was issued. it says we, the members of the science community, have but most confidence in observational evidence for global warming and the scientific basis for concluding it is primarily due to human activities.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140218_140000_Americas_Newsroom#start/5190/end/5225</field>
+<field name="datetime">2/18/2014 15:26:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWSW_20140218_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140218_140000_Americas_Newsroom/FOXNEWSW_20140218_140000_Americas_Newsroom.thumbs/FOXNEWSW_20140218_140000_Americas_Newsroom_005175.jpg</field>
+<field name="snippet">house democrats lost 51 seats in 2010, many of them at the time specifically blamed the debate of climate change and the debates to vote on it. this time around it is the control of the senate in play. by taking effective action they</field>
+</doc>
+</add>

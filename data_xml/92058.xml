@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170810_000000_Tucker_Carlson_Tonight#start/1775/end/1810</field>
+<field name="datetime">8/10/2017 0:29:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20170810_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170810_000000_Tucker_Carlson_Tonight/FOXNEWSW_20170810_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20170810_000000_Tucker_Carlson_Tonight_001767.jpg</field>
+<field name="snippet">there's many questions up in the air. like what causes global warming. that's not a big question anymore. may not be -- most people may agree with a interpretation. that's one of many. is it real? how profound is it?</field>
+</doc>
+</add>

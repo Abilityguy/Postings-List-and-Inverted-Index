@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190417_170000_BBC_News_at_Six#start/75/end/110</field>
+<field name="datetime">4/17/2019 17:01:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20190417_170000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190417_170000_BBC_News_at_Six/BBCNEWS_20190417_170000_BBC_News_at_Six.thumbs/BBCNEWS_20190417_170000_BBC_News_at_Six_000058.jpg</field>
+<field name="snippet">a third day of protests in london - activists say being arrested is part of their campaign to highlight climate change. i'm here because humanity's facing extinction and ecocide. i'm here as a peaceful protester, the government must take action. teenager amy el-keria took her own</field>
+</doc>
+</add>

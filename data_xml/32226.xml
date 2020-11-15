@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201006.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100616_220000_Special_Report_With_Bret_Baier#start/219/end/254</field>
+<field name="datetime">6/16/2010 22:03:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100616_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100616_220000_Special_Report_With_Bret_Baier/FOXNEWS_20100616_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100616_220000_Special_Report_With_Bret_Baier_000206.jpg</field>
+<field name="snippet">energy and climate change legislation. but chief washington jim angle reports there didn't seem to be much of a spark today on capitol hill. senate democrats considering several versions of energy legislation were looking to president obama to give some clear direction</field>
+</doc>
+</add>

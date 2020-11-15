@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191105_220000_BBC_News_at_Ten#start/1207/end/1242</field>
+<field name="datetime">11/5/2019 22:20:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20191105_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191105_220000_BBC_News_at_Ten/BBCNEWS_20191105_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20191105_220000_BBC_News_at_Ten_001199.jpg</field>
+<field name="snippet">with revelations about the natural world. climate change now has a profile like never before. so, do people care about it? protests by extinction rebellion were annoying for some, but inspiring for many others. we love you!</field>
+</doc>
+</add>

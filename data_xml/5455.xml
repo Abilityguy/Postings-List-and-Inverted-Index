@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171231_150000_BBC_News#start/1449/end/1484</field>
+<field name="datetime">12/31/2017 15:24:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171231_150000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171231_150000_BBC_News/BBCNEWS_20171231_150000_BBC_News.thumbs/BBCNEWS_20171231_150000_BBC_News_001438.jpg</field>
+<field name="snippet">issuing an appeal, i am issuing an alert, a red alert for our world. conflicts have deepened and new dangers have emerged. global anxieties about nuclear weapons are the highest since the cold war and climate change is moving faster than we are.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180118_010000_Tucker_Carlson_Tonight#start/2992/end/3027</field>
+<field name="datetime">1/18/2018 1:50:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20180118_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180118_010000_Tucker_Carlson_Tonight/FOXNEWSW_20180118_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20180118_010000_Tucker_Carlson_Tonight_002968.jpg</field>
+<field name="snippet">framed in moral terms. it's put in practical, pragmatic terms. we're facing the cataclysmic climate change. that has moral implications but</field>
+</doc>
+</add>

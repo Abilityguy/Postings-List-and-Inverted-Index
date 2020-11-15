@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170410_160000_BBC_News_at_Five#start/1642/end/1677</field>
+<field name="datetime">4/10/2017 16:27:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20170410_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170410_160000_BBC_News_at_Five/BBCNEWS_20170410_160000_BBC_News_at_Five.thumbs/BBCNEWS_20170410_160000_BBC_News_at_Five_001617.jpg</field>
+<field name="snippet">it's not irreparable, but it does depend on whether we have more of these mass bleaching events occurring in the next few years. looking at the global-warming trajectories, we would expect that. there is evidence the bleaching</field>
+</doc>
+</add>

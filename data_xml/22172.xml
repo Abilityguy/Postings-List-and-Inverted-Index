@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201309.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130904_090000_First_Look#start/238/end/273</field>
+<field name="datetime">9/4/2013 9:04:13</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20130904_090000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130904_090000_First_Look/MSNBCW_20130904_090000_First_Look.thumbs/MSNBCW_20130904_090000_First_Look_000226.jpg</field>
+<field name="snippet">tracie potts is live in washington. good morning. what is the president hoping to accomplish on this trip? reporter: he's hoping in sweden to get some good discussion going on climate change. and security and trade. those are going to be the focus. and he did touchdown in sweden</field>
+</doc>
+</add>

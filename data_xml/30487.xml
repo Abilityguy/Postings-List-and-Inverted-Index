@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.202001.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20200110_200000_MSNBC_Live_With_Ali_Velshi#start/2674/end/2709</field>
+<field name="datetime">1/10/2020 20:44:49</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20200110_200000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20200110_200000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20200110_200000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20200110_200000_MSNBC_Live_With_Ali_Velshi_002669.jpg</field>
+<field name="snippet">like the trump administration has been unraveling environmental protections across the board, clean air, clean water, climate change. it is part of a dramatic unraveling of half century old environmental protection in this country.</field>
+</doc>
+</add>

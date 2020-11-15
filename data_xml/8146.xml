@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190920_090000_Fox_and_Friends_First#start/2655/end/2690</field>
+<field name="datetime">9/20/2019 9:44:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190920_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190920_090000_Fox_and_Friends_First/FOXNEWSW_20190920_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190920_090000_Fox_and_Friends_First_002639.jpg</field>
+<field name="snippet">climate activist greta thunberg who made headlines for her journey from the uk to new york on a clean energy power yacht. she spoke to congress about global warming just a couple days ago.</field>
+</doc>
+</add>

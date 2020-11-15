@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201509.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150925_100000_Morning_Joe#start/10495/end/10530</field>
+<field name="datetime">9/25/2015 12:55:10</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20150925_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150925_100000_Morning_Joe/MSNBCW_20150925_100000_Morning_Joe.thumbs/MSNBCW_20150925_100000_Morning_Joe_010486.jpg</field>
+<field name="snippet">inspiration from humanity and from your global call for action on social justice, climate change and ensuring a live of dignity of all.</field>
+</doc>
+</add>

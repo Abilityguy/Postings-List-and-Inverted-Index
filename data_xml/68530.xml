@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201309.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130924_230000_The_FOX_Report_With_Shepard_Smith#start/2996/end/3031</field>
+<field name="datetime">9/24/2013 23:50:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The FOX Report With Shepard Smith</field>
+<field name="showid">FOXNEWSW_20130924_230000_The_FOX_Report_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130924_230000_The_FOX_Report_With_Shepard_Smith/FOXNEWSW_20130924_230000_The_FOX_Report_With_Shepard_Smith.thumbs/FOXNEWSW_20130924_230000_The_FOX_Report_With_Shepard_Smith_002985.jpg</field>
+<field name="snippet">pat quinn says he's open to sending national guard troops or state police into chicago to help the police. the debate over climate change set to heat up again as scientists from around the world are expected to release a report showing they are almost</field>
+</doc>
+</add>

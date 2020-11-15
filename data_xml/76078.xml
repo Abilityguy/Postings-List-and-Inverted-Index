@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190510_190000_BBC_News#start/1603/end/1638</field>
+<field name="datetime">5/10/2019 19:26:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190510_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190510_190000_BBC_News/BBCNEWS_20190510_190000_BBC_News.thumbs/BBCNEWS_20190510_190000_BBC_News_001588.jpg</field>
+<field name="snippet">processes that can take out billions of tonnes of greenhouse gases, each year. with trillions of tonnes of ice gone from both the earth's poles, the new centre will look at ways of refreezing them.</field>
+</doc>
+</add>

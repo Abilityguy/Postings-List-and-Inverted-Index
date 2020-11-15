@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170725_020000_BBC_News#start/45/end/80</field>
+<field name="datetime">7/25/2017 2:01:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170725_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170725_020000_BBC_News/BBCNEWS_20170725_020000_BBC_News.thumbs/BBCNEWS_20170725_020000_BBC_News_000058.jpg</field>
+<field name="snippet">is hit by drought. and greenland's melting ice fuels fears of catastrophic climate change. we have a special report. only a very small amount of this ice needs to melt to threaten coastal</field>
+</doc>
+</add>

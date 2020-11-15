@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181013_123000_Inside_Out#start/1195/end/1230</field>
+<field name="datetime">10/13/2018 12:50:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Inside Out</field>
+<field name="showid">BBCNEWS_20181013_123000_Inside_Out</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181013_123000_Inside_Out/BBCNEWS_20181013_123000_Inside_Out.thumbs/BBCNEWS_20181013_123000_Inside_Out_001168.jpg</field>
+<field name="snippet">a species with different pressures all at once - climate change, loss of habitat and hunting - you are really multiplying the pressure on them. what you also see from the mammoth is that once it's gone, it's gone. you can't get it back.</field>
+</doc>
+</add>

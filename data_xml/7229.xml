@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201504.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150417_100000_FOX_and_Friends#start/1433/end/1468</field>
+<field name="datetime">4/17/2015 10:24:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20150417_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150417_100000_FOX_and_Friends/FOXNEWSW_20150417_100000_FOX_and_Friends.thumbs/FOXNEWSW_20150417_100000_FOX_and_Friends_001425.jpg</field>
+<field name="snippet">president obama's historic climate change program could risk 300000 jobs. and whoops, it looks more like a</field>
+</doc>
+</add>

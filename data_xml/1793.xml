@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170528_060000_Watters_World#start/407/end/442</field>
+<field name="datetime">5/28/2017 6:07:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Watters World</field>
+<field name="showid">FOXNEWSW_20170528_060000_Watters_World</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170528_060000_Watters_World/FOXNEWSW_20170528_060000_Watters_World.thumbs/FOXNEWSW_20170528_060000_Watters_World_000387.jpg</field>
+<field name="snippet">the epa, trump's cutting the epa. the epa spent $700000 for a climate change musical. do you think that's a good use of taxpayer money, anton? i wouldn't necessarily spend money on a music cal, but i</field>
+</doc>
+</add>

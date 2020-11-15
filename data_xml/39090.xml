@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100404_103000_FOX_News_Watch#start/1214/end/1249</field>
+<field name="datetime">4/4/2010 10:50:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Watch</field>
+<field name="showid">FOXNEWS_20100404_103000_FOX_News_Watch</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100404_103000_FOX_News_Watch/FOXNEWS_20100404_103000_FOX_News_Watch.thumbs/FOXNEWS_20100404_103000_FOX_News_Watch_001195.jpg</field>
+<field name="snippet">judy, every weather forecaster across america should frame this report and put it in their office. how could it be? that's it it explains why so many americans still think there's no such thing as global warming. if your local weather person says it, half of whom turn out</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_160000_BBC_News_at_Five#start/112/end/147</field>
+<field name="datetime">9/20/2019 16:02:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190920_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_160000_BBC_News_at_Five/BBCNEWS_20190920_160000_BBC_News_at_Five.thumbs/BBCNEWS_20190920_160000_BBC_News_at_Five_000088.jpg</field>
+<field name="snippet">it's 5 o'clock - our main story is that children around the world have stayed away from school - to take part in a global day of protests calling for action on climate change. thousands of separate demonstrations are taking place in 150 countries, including the uk.</field>
+</doc>
+</add>

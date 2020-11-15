@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201110.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20111028_160000_MSNBC_News_Live#start/1927/end/1962</field>
+<field name="datetime">10/28/2011 16:32:22</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBCW_20111028_160000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20111028_160000_MSNBC_News_Live/MSNBCW_20111028_160000_MSNBC_News_Live.thumbs/MSNBCW_20111028_160000_MSNBC_News_Live_001916.jpg</field>
+<field name="snippet">a pre-dawn launch lit up the skies of central california this morning. the delta 2 rocket is carrying a satellite used to improve weather forecast and monitor climate change. happy birthday lady liberty.</field>
+</doc>
+</add>

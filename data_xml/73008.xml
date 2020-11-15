@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190122_110000_BBC_Newsroom_Live#start/2164/end/2199</field>
+<field name="datetime">1/22/2019 11:36:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190122_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190122_110000_BBC_Newsroom_Live/BBCNEWS_20190122_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190122_110000_BBC_Newsroom_Live_002159.jpg</field>
+<field name="snippet">that's all the sport for now. there's a new warning about the impact of climate change in one of the areas worst affected by global warming - the sahel - a region of africa that covers the gateways into the sahara desert.</field>
+</doc>
+</add>

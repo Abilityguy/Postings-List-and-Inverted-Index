@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170602_130000_BBC_News#start/365/end/400</field>
+<field name="datetime">6/2/2017 13:06:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170602_130000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170602_130000_BBC_News/BBCNEWS_20170602_130000_BBC_News.thumbs/BBCNEWS_20170602_130000_BBC_News_000358.jpg</field>
+<field name="snippet">meanwhile, in brussels, the eu and china have beenjoining forces, to send a message to the world that they stood by the paris agreement. from brussels, our correspondent damian grammaticas has sent this report. in the fight against global warming, and just hours after donald trump</field>
+</doc>
+</add>

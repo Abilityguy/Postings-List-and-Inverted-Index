@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201311.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20131121_230000_Special_Report_With_Bret_Baier#start/1835/end/1870</field>
+<field name="datetime">11/21/2013 23:30:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20131121_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20131121_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20131121_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20131121_230000_Special_Report_With_Bret_Baier_001815.jpg</field>
+<field name="snippet">its troops on a vegetarian diet once a week termed meatless mondays. the limit intake ecologically unfriendly foods. it says livestock farming accounts for nearly a fifth of global greenhouse gas emissions.</field>
+</doc>
+</add>

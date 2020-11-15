@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191211_140000_Afternoon_Live#start/1574/end/1609</field>
+<field name="datetime">12/11/2019 14:26:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20191211_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191211_140000_Afternoon_Live/BBCNEWS_20191211_140000_Afternoon_Live.thumbs/BBCNEWS_20191211_140000_Afternoon_Live_001559.jpg</field>
+<field name="snippet">this fits the bill because it was spoken about european countries reducing their greenhouse gas emissions by 2030 and greta thunburg talks about 70% being a realistic</field>
+</doc>
+</add>

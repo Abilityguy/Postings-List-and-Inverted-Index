@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091212_210000_Americas_News_HQ#start/4218/end/4253</field>
+<field name="datetime">12/12/2009 22:10:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWS_20091212_210000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091212_210000_Americas_News_HQ/FOXNEWS_20091212_210000_Americas_News_HQ.thumbs/FOXNEWS_20091212_210000_Americas_News_HQ_004189.jpg</field>
+<field name="snippet">thousands turning out, calling for countries to take action on climate change. the protests started out peacefully, but then police say they ended up arresting 600 people for throwing bricks and braking windows.</field>
+</doc>
+</add>

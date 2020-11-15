@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201107.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110705_070000_Red_Eye#start/397/end/432</field>
+<field name="datetime">7/5/2011 7:06:52</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20110705_070000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110705_070000_Red_Eye/FOXNEWS_20110705_070000_Red_Eye.thumbs/FOXNEWS_20110705_070000_Red_Eye_000390.jpg</field>
+<field name="snippet">if you teach something like global warming or the environment, there is no facts. nobody has any idea. listening to al gore, the world will end in the next 20 years. so on the other side, we are fine. and it goes back to, if you are going to teach theory, we will start teaching religion.</field>
+</doc>
+</add>

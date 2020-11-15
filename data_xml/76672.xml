@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190519_010000_BBC_News#start/69/end/104</field>
+<field name="datetime">5/19/2019 1:01:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190519_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190519_010000_BBC_News/BBCNEWS_20190519_010000_BBC_News.thumbs/BBCNEWS_20190519_010000_BBC_News_000808.jpg</field>
+<field name="snippet">well, clearly one of the coalition's key points on climate change action was that they will do something about it, they will meet the paris agreement but they are not willing to do anything that would harm the economy and that has</field>
+</doc>
+</add>

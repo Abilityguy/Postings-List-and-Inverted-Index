@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200911.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091125_200000_MSNBC_News_Live#start/1904/end/1939</field>
+<field name="datetime">11/25/2009 20:31:59</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091125_200000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091125_200000_MSNBC_News_Live/MSNBC_20091125_200000_MSNBC_News_Live.thumbs/MSNBC_20091125_200000_MSNBC_News_Live_001853.jpg</field>
+<field name="snippet">denmark on his way to neighboring norway to accept the nobel peace prize, at least 65 world leaders attend the climate change conference. it was originally intended to produce a new global treaty on limiting emissions of greenhouse gases blamed for global warm bug</field>
+</doc>
+</add>

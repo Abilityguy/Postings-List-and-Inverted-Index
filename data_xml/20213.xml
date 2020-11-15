@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201404.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140409_220000_Special_Report_With_Bret_Baier#start/1070/end/1105</field>
+<field name="datetime">4/9/2014 22:18:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20140409_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140409_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20140409_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20140409_220000_Special_Report_With_Bret_Baier_001065.jpg</field>
+<field name="snippet">still ahead, the debate heats up over the science of global warming. first, john mccain on why he's still demanding answers on benghazi.</field>
+</doc>
+</add>

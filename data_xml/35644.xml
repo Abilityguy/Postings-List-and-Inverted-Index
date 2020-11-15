@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201904.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190401_140000_MSNBC_Live_With_Hallie_Jackson#start/2609/end/2644</field>
+<field name="datetime">4/1/2019 14:43:44</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Hallie Jackson</field>
+<field name="showid">MSNBCW_20190401_140000_MSNBC_Live_With_Hallie_Jackson</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190401_140000_MSNBC_Live_With_Hallie_Jackson/MSNBCW_20190401_140000_MSNBC_Live_With_Hallie_Jackson.thumbs/MSNBCW_20190401_140000_MSNBC_Live_With_Hallie_Jackson_002610.jpg</field>
+<field name="snippet">so, what's this one? this is one of our fundamental weather stations that measures air pressure, air temperatures. so, the other thing this thing measures is also winds and sea level pressure. these are the fundamental parameters we need to forecast weather and city climate change. let's go talk about your</field>
+</doc>
+</add>

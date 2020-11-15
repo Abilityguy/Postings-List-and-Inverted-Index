@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091023_100000_FOX_and_Friends#start/5445/end/5480</field>
+<field name="datetime">10/23/2009 11:31:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091023_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091023_100000_FOX_and_Friends/FOXNEWS_20091023_100000_FOX_and_Friends.thumbs/FOXNEWS_20091023_100000_FOX_and_Friends_005447.jpg</field>
+<field name="snippet">it's not a typewriter. i am doolg doing keyboarding. thank you for maying -- making my day brian. brian: i said you are one of the biggest villains of global</field>
+</doc>
+</add>

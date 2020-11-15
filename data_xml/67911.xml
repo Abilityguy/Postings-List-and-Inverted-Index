@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190206_170000_BBC_News_at_Five#start/922/end/957</field>
+<field name="datetime">2/6/2019 17:15:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190206_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190206_170000_BBC_News_at_Five/BBCNEWS_20190206_170000_BBC_News_at_Five.thumbs/BBCNEWS_20190206_170000_BBC_News_at_Five_000898.jpg</field>
+<field name="snippet">the french club nantes, has demanded payment from cardiff city, over the £15 million transfer of emiliano sala, whose plane crashed in the english channel. and there's a warning on global warming, with the met office predicting we could be living in the hottest decade since records began.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_060000_Breakfast#start/4537/end/4572</field>
+<field name="datetime">1/17/2020 7:15:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20200117_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_060000_Breakfast/BBCNEWS_20200117_060000_Breakfast.thumbs/BBCNEWS_20200117_060000_Breakfast_004527.jpg</field>
+<field name="snippet">matt is by the river clyde in glasgow where bbc news is taking a closer look at the impact of climate change. that is why david was just reporting from. having a look at climate change also. it is a subject you are interested in but you will also bring us up-to-date with the</field>
+</doc>
+</add>

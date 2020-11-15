@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091017_230000_FOX_Report#start/2074/end/2109</field>
+<field name="datetime">10/17/2009 23:34:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report</field>
+<field name="showid">FOXNEWS_20091017_230000_FOX_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091017_230000_FOX_Report/FOXNEWS_20091017_230000_FOX_Report.thumbs/FOXNEWS_20091017_230000_FOX_Report_002070.jpg</field>
+<field name="snippet">raising awareness of climate change by going way beneath the waves. two stops as we go around the world in 80 seconds. india, a massive blaze erupts at a fire works warehouse killing more than 30 people</field>
+</doc>
+</add>

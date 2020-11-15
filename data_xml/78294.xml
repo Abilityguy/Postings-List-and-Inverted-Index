@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191116_060000_Breakfast#start/1928/end/1963</field>
+<field name="datetime">11/16/2019 6:32:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191116_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191116_060000_Breakfast/BBCNEWS_20191116_060000_Breakfast.thumbs/BBCNEWS_20191116_060000_Breakfast_001918.jpg</field>
+<field name="snippet">which policies will be included in the party's election manifesto. meanwhile, both the liberal democrats and the conservatives have pledged to plant more trees in an effort to tackle climate change, if they win the general election. emergency crews have worked through the night, to tackle a fire at a student block</field>
+</doc>
+</add>

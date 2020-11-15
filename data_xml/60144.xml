@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_080000_Victoria_Derbyshire#start/3908/end/3943</field>
+<field name="datetime">10/8/2018 9:05:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20181008_080000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_080000_Victoria_Derbyshire/BBCNEWS_20181008_080000_Victoria_Derbyshire.thumbs/BBCNEWS_20181008_080000_Victoria_Derbyshire_003897.jpg</field>
+<field name="snippet">climate scientists meeting in south korea have given one of the starkest warnings yet about the scale of the challenge involved in tackling global warming, saying society will have to undergo rapid and far-reaching change.</field>
+</doc>
+</add>

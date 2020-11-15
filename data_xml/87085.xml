@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191219_210000_Outside_Source#start/2180/end/2215</field>
+<field name="datetime">12/19/2019 21:36:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20191219_210000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191219_210000_Outside_Source/BBCNEWS_20191219_210000_Outside_Source.thumbs/BBCNEWS_20191219_210000_Outside_Source_002158.jpg</field>
+<field name="snippet">it's a particular challenge for australia where fossil fuels - which contribute a great deal to climate change - are a major export. here's our science editor david shukman.</field>
+</doc>
+</add>

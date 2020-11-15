@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201103.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110318_020000_The_Ed_Show#start/2866/end/2901</field>
+<field name="datetime">3/18/2011 2:48:01</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBC_20110318_020000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20110318_020000_The_Ed_Show/MSNBC_20110318_020000_The_Ed_Show.thumbs/MSNBC_20110318_020000_The_Ed_Show_002844.jpg</field>
+<field name="snippet">christian parente joins us tonight contributing editor of 'the nation' magazine and author of the upcoming book 'tropic of chaos, climate change and the new geography of violence.' thanks for your time tonight. thanks for having me on. what do you make of these</field>
+</doc>
+</add>

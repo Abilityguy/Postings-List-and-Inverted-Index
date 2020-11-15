@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191201_220000_BBC_News#start/1004/end/1039</field>
+<field name="datetime">12/1/2019 22:16:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191201_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191201_220000_BBC_News/BBCNEWS_20191201_220000_BBC_News.thumbs/BBCNEWS_20191201_220000_BBC_News_000988.jpg</field>
+<field name="snippet">taxpayers' money, our money, to boost hurricanes, to melt glaciers, to destroy corals, to create all the negative impacts of climate change.</field>
+</doc>
+</add>

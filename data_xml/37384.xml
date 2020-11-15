@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201401.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140129_110000_FOX_and_Friends#start/2756/end/2791</field>
+<field name="datetime">1/29/2014 11:46:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20140129_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140129_110000_FOX_and_Friends/FOXNEWSW_20140129_110000_FOX_and_Friends.thumbs/FOXNEWSW_20140129_110000_FOX_and_Friends_002745.jpg</field>
+<field name="snippet">in havana. their talks touched on climate change, troubles in syria and nuclear proliferation and former president jimmy carter heading a new book about women's rights. a call to action: women,</field>
+</doc>
+</add>

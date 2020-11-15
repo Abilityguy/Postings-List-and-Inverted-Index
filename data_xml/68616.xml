@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201203.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120302_140000_The_Daily_Rundown#start/519/end/554</field>
+<field name="datetime">3/2/2012 14:08:54</field>
+<field name="station">MSNBC</field>
+<field name="show">The Daily Rundown</field>
+<field name="showid">MSNBCW_20120302_140000_The_Daily_Rundown</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120302_140000_The_Daily_Rundown/MSNBCW_20120302_140000_The_Daily_Rundown.thumbs/MSNBCW_20120302_140000_The_Daily_Rundown_000506.jpg</field>
+<field name="snippet">running against a general election candidate who believed in banning torture, who believed in doing something about climate change, someone who could never get a nomination this time, because he was too liberal. the president feeling some</field>
+</doc>
+</add>

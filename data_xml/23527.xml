@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201405.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140512_220000_Special_Report_With_Bret_Baier#start/3112/end/3147</field>
+<field name="datetime">5/12/2014 22:52:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20140512_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140512_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20140512_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20140512_220000_Special_Report_With_Bret_Baier_003105.jpg</field>
+<field name="snippet">steve? this is an issue that was pretty consistently misreported across all kinds of media today. he didn't say humans had nothing to do with climate change. he said he doesn't believe human activity is causing these dramatic changes to</field>
+</doc>
+</add>

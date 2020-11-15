@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201502.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150218_230000_Special_Report_With_Bret_Baier#start/2001/end/2036</field>
+<field name="datetime">2/18/2015 23:33:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20150218_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150218_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20150218_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20150218_230000_Special_Report_With_Bret_Baier_001995.jpg</field>
+<field name="snippet">state and federal investigators look into whether her fiance and unpaid advisor used the governor's office to land jobs for her consulting firm and secure backing for a climate change bill advanced by senate democrats.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191213_020000_BBC_Election_2019#start/1460/end/1495</field>
+<field name="datetime">12/13/2019 2:24:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Election 2019</field>
+<field name="showid">BBCNEWS_20191213_020000_BBC_Election_2019</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191213_020000_BBC_Election_2019/BBCNEWS_20191213_020000_BBC_Election_2019.thumbs/BBCNEWS_20191213_020000_BBC_Election_2019_001438.jpg</field>
+<field name="snippet">because of the state of the economy, the public service, the threat of climate change is so dramatic that it requires drastic solutions and we will still need them at the next election. i will bring alan duncan</field>
+</doc>
+</add>

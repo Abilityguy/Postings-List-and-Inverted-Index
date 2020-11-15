@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190513_030000_BBC_News#start/666/end/701</field>
+<field name="datetime">5/13/2019 3:11:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190513_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190513_030000_BBC_News/BBCNEWS_20190513_030000_BBC_News.thumbs/BBCNEWS_20190513_030000_BBC_News_000658.jpg</field>
+<field name="snippet">a runaway climate change. we need to protect the lives of our people, and we need to protect our planet. speaking about the recent floods in mozambique, he said the world is feeling the effects of climate change faster than the human efforts</field>
+</doc>
+</add>

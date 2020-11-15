@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190317_030000_Watters_World#start/2102/end/2137</field>
+<field name="datetime">3/17/2019 3:35:17</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Watters World</field>
+<field name="showid">FOXNEWSW_20190317_030000_Watters_World</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190317_030000_Watters_World/FOXNEWSW_20190317_030000_Watters_World.thumbs/FOXNEWSW_20190317_030000_Watters_World_002099.jpg</field>
+<field name="snippet">from around the world. jesse: you think if you have a baby and that baby grows up they won't have anything to eat because climate change will cause massive droughts and food shortages. do you really believe we are not going to have any food in a</field>
+</doc>
+</add>

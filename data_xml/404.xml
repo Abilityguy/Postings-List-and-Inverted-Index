@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201301.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130127_203000_FOX_News_Watch#start/310/end/345</field>
+<field name="datetime">1/27/2013 20:35:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Watch</field>
+<field name="showid">FOXNEWSW_20130127_203000_FOX_News_Watch</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130127_203000_FOX_News_Watch/FOXNEWSW_20130127_203000_FOX_News_Watch.thumbs/FOXNEWSW_20130127_203000_FOX_News_Watch_000285.jpg</field>
+<field name="snippet">have been saying here almost every week about the problem with the press corps and their inability to cover the president. we heard during the inaugural address. we heard about climate change. we heard about gay rights. we heard about lots of issues</field>
+</doc>
+</add>

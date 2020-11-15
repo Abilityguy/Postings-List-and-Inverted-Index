@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100215_180000_America_Live#start/2745/end/2780</field>
+<field name="datetime">2/15/2010 18:46:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWS_20100215_180000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100215_180000_America_Live/FOXNEWS_20100215_180000_America_Live.thumbs/FOXNEWS_20100215_180000_America_Live_002730.jpg</field>
+<field name="snippet">december, following an e-mail leak scandal that showed researchers had manipulated data to prove global warming exists. jones is now saying a lack of organization caused him to lose track of the data used to prove a significant spike in global temperatures. he says there has not been a</field>
+</doc>
+</add>

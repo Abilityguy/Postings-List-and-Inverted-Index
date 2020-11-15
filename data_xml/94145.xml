@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170815_150000_BBC_News#start/39/end/74</field>
+<field name="datetime">8/15/2017 15:00:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170815_150000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170815_150000_BBC_News/BBCNEWS_20170815_150000_BBC_News.thumbs/BBCNEWS_20170815_150000_BBC_News_000058.jpg</field>
+<field name="snippet">the expedition has just departed from alaska - aiming to highlight the impact of climate change. good afternoon and</field>
+</doc>
+</add>

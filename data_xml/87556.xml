@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191215_220000_BBC_News#start/320/end/355</field>
+<field name="datetime">12/15/2019 22:05:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191215_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191215_220000_BBC_News/BBCNEWS_20191215_220000_BBC_News.thumbs/BBCNEWS_20191215_220000_BBC_News_000299.jpg</field>
+<field name="snippet">in talks, trying to resolve differences. professor sir david king is the former climate change ambassador and chief scientist for the uk during the paris climate accord in 2015. he told us he was massively disappointed by the outcome</field>
+</doc>
+</add>

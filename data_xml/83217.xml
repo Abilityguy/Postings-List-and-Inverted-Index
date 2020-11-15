@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191007_130000_Afternoon_Live#start/2269/end/2304</field>
+<field name="datetime">10/7/2019 13:38:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20191007_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191007_130000_Afternoon_Live/BBCNEWS_20191007_130000_Afternoon_Live.thumbs/BBCNEWS_20191007_130000_Afternoon_Live_002427.jpg</field>
+<field name="snippet">police have arrested more than 130 people in connection with a climate change protest in london, organised by extinction rebellion. the group has blocked lambeth and westminster bridges, but says its aim is to shut down the whole of westminster. our correspondent, dan johnson,</field>
+</doc>
+</add>

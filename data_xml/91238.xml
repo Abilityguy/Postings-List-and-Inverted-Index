@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190605_180000_The_Daily_Briefing_With_Dana_Perino#start/2109/end/2144</field>
+<field name="datetime">6/5/2019 18:35:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Daily Briefing With Dana Perino</field>
+<field name="showid">FOXNEWSW_20190605_180000_The_Daily_Briefing_With_Dana_Perino</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190605_180000_The_Daily_Briefing_With_Dana_Perino/FOXNEWSW_20190605_180000_The_Daily_Briefing_With_Dana_Perino.thumbs/FOXNEWSW_20190605_180000_The_Daily_Briefing_With_Dana_Perino_002098.jpg</field>
+<field name="snippet">dana: the former vp also unveiled his climate change plan yesterday, but failed to cite some sources in the proposal. more severe storms and droughts, rising sea levels, warming temperatures and ice</field>
+</doc>
+</add>

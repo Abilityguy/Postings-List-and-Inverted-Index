@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170627_090000_Fox_and_Friends_First#start/2008/end/2043</field>
+<field name="datetime">6/27/2017 9:33:43</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20170627_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170627_090000_Fox_and_Friends_First/FOXNEWSW_20170627_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20170627_090000_Fox_and_Friends_First_002008.jpg</field>
+<field name="snippet">$100000 to 35 cities, other cities will get $1 million and one city will receive a grand prize of $5 million. among the issues bloomberg wants to tackle, climate change, immigration and gun control.</field>
+</doc>
+</add>

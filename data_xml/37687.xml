@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091029_000000_The_OReilly_Factor#start/1144/end/1179</field>
+<field name="datetime">10/29/2009 0:19:19</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20091029_000000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091029_000000_The_OReilly_Factor/FOXNEWS_20091029_000000_The_OReilly_Factor.thumbs/FOXNEWS_20091029_000000_The_OReilly_Factor_001080.jpg</field>
+<field name="snippet">dennis miller on models who say they are too hot because of global warming. all right. i'm robert shapiro. over a million people. have discovered how easy it is to use legalzoom for important legal documents.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200910.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091003_130000_MSNBC_News_Live#start/852/end/887</field>
+<field name="datetime">10/3/2009 13:14:27</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091003_130000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091003_130000_MSNBC_News_Live/MSNBC_20091003_130000_MSNBC_News_Live.thumbs/MSNBC_20091003_130000_MSNBC_News_Live_000835.jpg</field>
+<field name="snippet">public relations blitz or whether this is going to give opponents even more ammunition to attack the president. as we head into a fall with an incredibly busy schedule, afghanistan, health care, climate change, iraq and the jobless numbers that just came out yesterday all on the</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201704.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170430_220000_MSNBC_Live#start/2269/end/2304</field>
+<field name="datetime">4/30/2017 22:38:04</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170430_220000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170430_220000_MSNBC_Live/MSNBCW_20170430_220000_MSNBC_Live.thumbs/MSNBCW_20170430_220000_MSNBC_Live_002247.jpg</field>
+<field name="snippet">gathering around the country including in washington for the climate march, calling for political action to combat climate change. marchers just one measure of civic participation. other metrics suggest trump's administration is galvanizing a new resistance.</field>
+</doc>
+</add>

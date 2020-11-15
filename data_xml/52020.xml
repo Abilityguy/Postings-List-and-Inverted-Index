@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_003000_HARDtalk#start/1626/end/1661</field>
+<field name="datetime">12/3/2018 0:57:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">HARDtalk</field>
+<field name="showid">BBCNEWS_20181203_003000_HARDtalk</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_003000_HARDtalk/BBCNEWS_20181203_003000_HARDtalk.thumbs/BBCNEWS_20181203_003000_HARDtalk_001617.jpg</field>
+<field name="snippet">the headlines: a stark warning about climate change, as a key un summit opens experts say the threat posed by rising temperatures has never been worse. a ceasefire in the trade war</field>
+</doc>
+</add>

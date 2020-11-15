@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170601_000000_Newsday#start/466/end/501</field>
+<field name="datetime">6/1/2017 0:08:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20170601_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170601_000000_Newsday/BBCNEWS_20170601_000000_Newsday.thumbs/BBCNEWS_20170601_000000_Newsday_000448.jpg</field>
+<field name="snippet">as climate change and free trade. the bbc'sjoe mellor has been following the events in berlin. it's tempting to read a lot into this, there have been two east asian leaders here and this comes after a week where</field>
+</doc>
+</add>

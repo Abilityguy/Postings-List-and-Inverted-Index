@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201302.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130220_230000_Special_Report_With_Bret_Baier#start/1118/end/1153</field>
+<field name="datetime">2/20/2013 23:18:53</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20130220_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130220_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20130220_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20130220_230000_Special_Report_With_Bret_Baier_001095.jpg</field>
+<field name="snippet">york border. john roberts, fox news. bret: the company behind the controversial keystone xl pipeline says project will have no m on climate change. that comes days after 35000 people marched on washington</field>
+</doc>
+</add>

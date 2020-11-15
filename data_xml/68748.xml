@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201001.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100104_140000_Morning_Meeting#start/6740/end/6775</field>
+<field name="datetime">1/4/2010 15:52:35</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Meeting</field>
+<field name="showid">MSNBC_20100104_140000_Morning_Meeting</field>
+<field name="preview">https://archive.org/download/MSNBC_20100104_140000_Morning_Meeting/MSNBC_20100104_140000_Morning_Meeting.thumbs/MSNBC_20100104_140000_Morning_Meeting_006720.jpg</field>
+<field name="snippet">for climate change and made us vote for health care reform. please, please, please don't give us a tough immigration vote. that would just kill us. and then others say, well, we've got to do something about the</field>
+</doc>
+</add>

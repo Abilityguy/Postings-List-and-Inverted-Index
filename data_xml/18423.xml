@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201311.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20131101_100000_FOX_and_Friends#start/2236/end/2271</field>
+<field name="datetime">11/1/2013 10:37:31</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20131101_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20131101_100000_FOX_and_Friends/FOXNEWSW_20131101_100000_FOX_and_Friends.thumbs/FOXNEWSW_20131101_100000_FOX_and_Friends_002235.jpg</field>
+<field name="snippet">arnold schwarzenegger can add a new title. park ranger. he is being made an honorary ranger this week because of what they say is his leadership on climate change issues. it is a pretty exclusive club. he joins the actress betty white and the rolling stone</field>
+</doc>
+</add>

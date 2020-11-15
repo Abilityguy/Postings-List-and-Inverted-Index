@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201203.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120323_220000_Special_Report_With_Bret_Baier#start/3550/end/3585</field>
+<field name="datetime">3/23/2012 22:59:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20120323_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120323_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20120323_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20120323_220000_Special_Report_With_Bret_Baier_003506.jpg</field>
+<field name="snippet">to our environment from acid rain to global warming. here is a new one. if you have any doubts, just listen to the scientist make his case. scientists and medical researchers are launching a war against party balloons. the world supply of helium which is essential in research and medicine is running</field>
+</doc>
+</add>

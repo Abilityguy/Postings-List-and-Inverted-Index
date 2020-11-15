@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_130000_Afternoon_Live#start/7208/end/7243</field>
+<field name="datetime">9/20/2019 15:00:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190920_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_130000_Afternoon_Live/BBCNEWS_20190920_130000_Afternoon_Live.thumbs/BBCNEWS_20190920_130000_Afternoon_Live_007197.jpg</field>
+<field name="snippet">hello, you're watching afternoon live - i'm martine croxall. today at 4. school children lead what could be the biggest demonstration yet, calling for urgent action on climate change. protests are taking place in more than 150 countries -  _</field>
+</doc>
+</add>

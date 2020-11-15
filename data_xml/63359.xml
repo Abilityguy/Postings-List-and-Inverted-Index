@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190319_170000_BBC_News_at_Five#start/1134/end/1169</field>
+<field name="datetime">3/19/2019 17:19:09</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190319_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190319_170000_BBC_News_at_Five/BBCNEWS_20190319_170000_BBC_News_at_Five.thumbs/BBCNEWS_20190319_170000_BBC_News_at_Five_001857.jpg</field>
+<field name="snippet">sirjames bevin says that climate change and a growing population means that unless we have a different attitude to water, in a few decades, there may not be enough to go round. 0ur environment analyst roger harrabin reports.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200114_133000_BBC_News#start/1174/end/1209</field>
+<field name="datetime">1/14/2020 13:49:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200114_133000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200114_133000_BBC_News/BBCNEWS_20200114_133000_BBC_News.thumbs/BBCNEWS_20200114_133000_BBC_News_001169.jpg</field>
+<field name="snippet">or flooded islands or eroded coastlines, are things we will see with increasing frequency. these fires are a real wake-up call that we really need to start taking climate change seriously. australia has just experienced</field>
+</doc>
+</add>

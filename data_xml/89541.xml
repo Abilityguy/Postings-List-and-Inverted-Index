@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190620_050000_Breakfast#start/4008/end/4043</field>
+<field name="datetime">6/20/2019 6:07:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190620_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190620_050000_Breakfast/BBCNEWS_20190620_050000_Breakfast.thumbs/BBCNEWS_20190620_050000_Breakfast_003988.jpg</field>
+<field name="snippet">since 2000, the height of the glaciers has shrunk by an average of half a metre every year. that means they're losing 8 billion tons of water annually. scientists say that climate change is the main cause of this rapid melt, leaving the area dramatically altered. the concern is that there are millions of people who rely on the glaciers for water.</field>
+</doc>
+</add>

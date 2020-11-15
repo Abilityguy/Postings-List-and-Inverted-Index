@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190720_060000_Breakfast#start/475/end/510</field>
+<field name="datetime">7/20/2019 6:08:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190720_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190720_060000_Breakfast/BBCNEWS_20190720_060000_Breakfast.thumbs/BBCNEWS_20190720_060000_Breakfast_000477.jpg</field>
+<field name="snippet">where the heat will be felt. in montreal, the humidity could make it feel like 45 degrees. the world experienced its hottest june on record last month and we've experienced more frequent heatwaves. this, experts say, it's down to climate change. this latest heatwave is likely</field>
+</doc>
+</add>

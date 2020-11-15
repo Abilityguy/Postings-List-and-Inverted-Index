@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201012.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101228_050000_Hannity#start/2773/end/2808</field>
+<field name="datetime">12/28/2010 5:46:28</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20101228_050000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101228_050000_Hannity/FOXNEWS_20101228_050000_Hannity.thumbs/FOXNEWS_20101228_050000_Hannity_002754.jpg</field>
+<field name="snippet">falseable -- false . the problem is the global warming scientists haven't set forth a model that can be verified? our climate has been getting warmer over the last</field>
+</doc>
+</add>

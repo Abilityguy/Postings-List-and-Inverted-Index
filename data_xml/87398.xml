@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191230_100000_BBC_News#start/567/end/602</field>
+<field name="datetime">12/30/2019 10:09:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191230_100000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191230_100000_BBC_News/BBCNEWS_20191230_100000_BBC_News.thumbs/BBCNEWS_20191230_100000_BBC_News_000539.jpg</field>
+<field name="snippet">i would say we're in a climate crisis, just like a financial crisis, where action needs to be taken. this is a slow-burn crisis, if you will, so it's more difficult to act because you don't have the public spectacle of a failing bank or queues outside</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100213_170000_Americas_News_HQ#start/3052/end/3087</field>
+<field name="datetime">2/13/2010 17:51:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWS_20100213_170000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100213_170000_Americas_News_HQ/FOXNEWS_20100213_170000_Americas_News_HQ.thumbs/FOXNEWS_20100213_170000_Americas_News_HQ_003053.jpg</field>
+<field name="snippet">kind of headquarters and temperatures funneling into them. the computers were broken into, still don't know by whom, we found they were fiddling with the numbers and doing all kind of things to fibs the research, so that global warming would still be</field>
+</doc>
+</add>

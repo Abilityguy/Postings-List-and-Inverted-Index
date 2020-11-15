@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100107_110000_FOX_and_Friends#start/1423/end/1458</field>
+<field name="datetime">1/7/2010 11:23:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100107_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100107_110000_FOX_and_Friends/FOXNEWS_20100107_110000_FOX_and_Friends.thumbs/FOXNEWS_20100107_110000_FOX_and_Friends_001410.jpg</field>
+<field name="snippet">intelligence system, to allow a nigerian man to board a u.s. plane with a woman, the obama administration decides to revise a program that will tap valuable resources to address climate</field>
+</doc>
+</add>

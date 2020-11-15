@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190215_090000_BBC_News_at_9#start/2236/end/2271</field>
+<field name="datetime">2/15/2019 9:37:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20190215_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190215_090000_BBC_News_at_9/BBCNEWS_20190215_090000_BBC_News_at_9.thumbs/BBCNEWS_20190215_090000_BBC_News_at_9_002218.jpg</field>
+<field name="snippet">where we hold those global climate change talks next year, because that will be the crucial year when the countries get together and show what our plans are. george is very polite. ministers sometimes talk for a long time. sorry, george. you are nodding as you are going along but the fact you are so worked up about this and you want to be out of school to make a point, is what you</field>
+</doc>
+</add>

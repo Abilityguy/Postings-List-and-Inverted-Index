@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170810_060000_Tucker_Carlson_Tonight#start/1817/end/1852</field>
+<field name="datetime">8/10/2017 6:30:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20170810_060000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170810_060000_Tucker_Carlson_Tonight/FOXNEWSW_20170810_060000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20170810_060000_Tucker_Carlson_Tonight_001797.jpg</field>
+<field name="snippet">exactly we can reverse this. if we can at all. there's not a -- there's not a debate. there's not a 97% consensus that this is -- for example, the paris accord is the only way to reverse global warming.</field>
+</doc>
+</add>

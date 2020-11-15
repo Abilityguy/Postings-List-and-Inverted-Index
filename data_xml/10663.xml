@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190826_103000_Focus_on_Farming#start/481/end/516</field>
+<field name="datetime">8/26/2019 10:38:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Focus on Farming</field>
+<field name="showid">BBCNEWS_20190826_103000_Focus_on_Farming</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190826_103000_Focus_on_Farming/BBCNEWS_20190826_103000_Focus_on_Farming.thumbs/BBCNEWS_20190826_103000_Focus_on_Farming_000477.jpg</field>
+<field name="snippet">this is what happens when flood defences fail. the government says it has put aside £2 billion for climate change. agriculture is a key driver of global warming. nitrogen fertilizers can lead to emissions of nitrous oxide - a potent greenhouse gas.</field>
+</doc>
+</add>

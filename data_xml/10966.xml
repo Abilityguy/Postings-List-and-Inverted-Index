@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_130000_Afternoon_Live#start/5844/end/5879</field>
+<field name="datetime">8/8/2019 14:37:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190808_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_130000_Afternoon_Live/BBCNEWS_20190808_130000_Afternoon_Live.thumbs/BBCNEWS_20190808_130000_Afternoon_Live_005817.jpg</field>
+<field name="snippet">these peat moors in the north of england were previously drained so animals can graze. when peat is exposed to the air it gives off greenhouse gases, so now they are blocking up the channels to soak the peat again. one of the easier options in what for scientists has become an increasingly desperate attempt</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201405.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140522_010000_The_Kelly_File#start/3260/end/3295</field>
+<field name="datetime">5/22/2014 1:54:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Kelly File</field>
+<field name="showid">FOXNEWSW_20140522_010000_The_Kelly_File</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140522_010000_The_Kelly_File/FOXNEWSW_20140522_010000_The_Kelly_File.thumbs/FOXNEWSW_20140522_010000_The_Kelly_File_003135.jpg</field>
+<field name="snippet">some people want the host of the wildly popular game show 'wheel of fortune' fired after he dared to have fun with the issue of global warming. america's letter king, what? trace gallagher, what?</field>
+</doc>
+</add>

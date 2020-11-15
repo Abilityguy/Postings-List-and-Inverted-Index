@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190818_170000_BBC_News#start/1847/end/1882</field>
+<field name="datetime">8/18/2019 17:31:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190818_170000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190818_170000_BBC_News/BBCNEWS_20190818_170000_BBC_News.thumbs/BBCNEWS_20190818_170000_BBC_News_001827.jpg</field>
+<field name="snippet">the couple said they would remain friends and keep dancing together. a ceremony is being held at the top of an extinct volcano in iceland, to mark the loss of the first glacier to be wiped out by climate change.</field>
+</doc>
+</add>

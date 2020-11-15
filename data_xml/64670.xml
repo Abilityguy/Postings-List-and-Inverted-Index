@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201612.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161205_170000_MSNBC_Live_With_Andrea_Mitchell#start/487/end/522</field>
+<field name="datetime">12/5/2016 17:08:22</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Andrea Mitchell</field>
+<field name="showid">MSNBCW_20161205_170000_MSNBC_Live_With_Andrea_Mitchell</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161205_170000_MSNBC_Live_With_Andrea_Mitchell/MSNBCW_20161205_170000_MSNBC_Live_With_Andrea_Mitchell.thumbs/MSNBCW_20161205_170000_MSNBC_Live_With_Andrea_Mitchell_000477.jpg</field>
+<field name="snippet">scheduled with ivanka trump. the topic they will share, climate change. kristen welker live outside trump tower. it's a cold one outside in new york now. let's get to you out of the gates. give us a sense of where things stand in terms of the new names</field>
+</doc>
+</add>

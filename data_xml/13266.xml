@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201105.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110507_100000_FOX_and_Friends_Saturday#start/9857/end/9892</field>
+<field name="datetime">5/7/2011 12:44:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWS_20110507_100000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110507_100000_FOX_and_Friends_Saturday/FOXNEWS_20110507_100000_FOX_and_Friends_Saturday.thumbs/FOXNEWS_20110507_100000_FOX_and_Friends_Saturday_009840.jpg</field>
+<field name="snippet">of the worst. the culprit is climate change. the american college of allergy says pollen is add record highs because of heavy winter snow and early spring warm up. caffeine jolt can be a rich</field>
+</doc>
+</add>

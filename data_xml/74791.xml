@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200114_180000_BBC_News_at_Six#start/1042/end/1077</field>
+<field name="datetime">1/14/2020 18:17:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20200114_180000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200114_180000_BBC_News_at_Six/BBCNEWS_20200114_180000_BBC_News_at_Six.thumbs/BBCNEWS_20200114_180000_BBC_News_at_Six_001019.jpg</field>
+<field name="snippet">so the sooner we can rein in emissions, the sooner we can slow the increase in warming and increased climate change impacts. back in australia, as human activity is linked to the fires, it's wildlife that's suffering most.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190515_100000_BBC_Newsroom_Live#start/1895/end/1930</field>
+<field name="datetime">5/15/2019 10:31:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190515_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190515_100000_BBC_Newsroom_Live/BBCNEWS_20190515_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190515_100000_BBC_Newsroom_Live_001888.jpg</field>
+<field name="snippet">by a parent with a history of violence in the last five years, after being granted access by a family court. baftas calls on tv shows to have more storylines and references about climate change to help raise awareness of the issue.</field>
+</doc>
+</add>

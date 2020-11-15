@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191008_080000_BBC_News_at_Nine#start/2092/end/2127</field>
+<field name="datetime">10/8/2019 8:35:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20191008_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191008_080000_BBC_News_at_Nine/BBCNEWS_20191008_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20191008_080000_BBC_News_at_Nine_002067.jpg</field>
+<field name="snippet">since the beginning of world war i. we are heading for the sixth mass extinction event. it's notjust about climate change but it is also about species loss. threatened with extinction is 1 million species across the world.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201909.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190903_190000_MSNBC_Live_With_Ali_Velshi#start/880/end/915</field>
+<field name="datetime">9/3/2019 19:14:55</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190903_190000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190903_190000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190903_190000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190903_190000_MSNBC_Live_With_Ali_Velshi_000870.jpg</field>
+<field name="snippet">in climate change, damages from a hurricane may not be the most effective way to look at this. absolutely. all of our research on the topic suggests a huge amount of the costs from these types of storms</field>
+</doc>
+</add>

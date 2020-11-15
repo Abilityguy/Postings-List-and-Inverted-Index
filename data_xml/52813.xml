@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180613_050000_Breakfast#start/5448/end/5483</field>
+<field name="datetime">6/13/2018 6:31:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20180613_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180613_050000_Breakfast/BBCNEWS_20180613_050000_Breakfast.thumbs/BBCNEWS_20180613_050000_Breakfast_005427.jpg</field>
+<field name="snippet">the red squirrel, the wildcat and the water vole are all listed as facing severe threats to their survival, with the blame being placed on climate change, loss of habitat and the overuse of pesticides. worth saying as well we are going to</field>
+</doc>
+</add>

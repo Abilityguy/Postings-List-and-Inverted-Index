@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181130_210000_BBC_News#start/0/end/33</field>
+<field name="datetime">11/30/2018 21:00:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181130_210000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181130_210000_BBC_News/BBCNEWS_20181130_210000_BBC_News.thumbs/BBCNEWS_20181130_210000_BBC_News_000057.jpg</field>
+<field name="snippet">this is bbc world news today. i'm kasia madera. our top stories. world leaders have gathered in buenos aires for the 620 summit. but there's tension between the leaders over many issues, trade, climate change and the situation in ukraine. the government in kiev raises the tension with moscow.</field>
+</doc>
+</add>

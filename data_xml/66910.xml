@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201411.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20141102_170000_Weekends_With_Alex_Witt#start/1117/end/1152</field>
+<field name="datetime">11/2/2014 17:18:52</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20141102_170000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20141102_170000_Weekends_With_Alex_Witt/MSNBCW_20141102_170000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20141102_170000_Weekends_With_Alex_Witt_001095.jpg</field>
+<field name="snippet">extremists lined up and shot dead at least 50 iraqi men, women and children near ramadi. it's estimated 150 people have been killed by isis in that area in recent days. the united nations panel on climate science says climate change is happening and it's almost entirely due to human</field>
+</doc>
+</add>

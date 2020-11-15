@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_100000_BBC_Newsroom_Live#start/89/end/124</field>
+<field name="datetime">10/8/2018 10:01:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20181008_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_100000_BBC_Newsroom_Live/BBCNEWS_20181008_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20181008_100000_BBC_Newsroom_Live_000087.jpg</field>
+<field name="snippet">the report by the intergovernmental panel on climate change says that limiting temperature rises to no more than 1.5 celsius will require massive changes to the way we live. it warns that without action, all the world's coral reefs will die out and low lying regions will disappear because</field>
+</doc>
+</add>

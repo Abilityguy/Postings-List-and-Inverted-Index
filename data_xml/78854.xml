@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20200115_200000_Fox_News_Reporting#start/3405/end/3440</field>
+<field name="datetime">1/15/2020 20:57:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News Reporting</field>
+<field name="showid">FOXNEWSW_20200115_200000_Fox_News_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20200115_200000_Fox_News_Reporting/FOXNEWSW_20200115_200000_Fox_News_Reporting.thumbs/FOXNEWSW_20200115_200000_Fox_News_Reporting_003387.jpg</field>
+<field name="snippet">colonizing other planets or thoughtfully solving climate change, or the challenges of genetically engineering superhumans, or positively harnessing the seemingly miraculous power of artificial</field>
+</doc>
+</add>

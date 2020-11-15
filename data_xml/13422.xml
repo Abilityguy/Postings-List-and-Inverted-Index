@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201703.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170310_030000_BBC_News#start/553/end/588</field>
+<field name="datetime">3/10/2017 3:09:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170310_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170310_030000_BBC_News/BBCNEWS_20170310_030000_BBC_News.thumbs/BBCNEWS_20170310_030000_BBC_News_000537.jpg</field>
+<field name="snippet">cause of global warming - a view that goes against the overwhelming body of scientific evidence, from researchers around the world. scott pruitt is a former attorney general of oklahoma who's frequently sued the environmental protection agency, in the past. he also described the paris climate accord - to reduce greenhouse gas emissions - as a bad deal.</field>
+</doc>
+</add>

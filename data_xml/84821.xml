@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201211.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121103_110000_Weekends_With_Alex_Witt#start/2914/end/2949</field>
+<field name="datetime">11/3/2012 11:48:49</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20121103_110000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121103_110000_Weekends_With_Alex_Witt/MSNBCW_20121103_110000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20121103_110000_Weekends_With_Alex_Witt_002909.jpg</field>
+<field name="snippet">coral, welcome, good morning. thanks, good to be here. i know for the past few months you've written a few pieses about global warming. one came in september, proved especially futuristic here. no laughing matter. you wrote about how global warming is already affecting the coastal residents.</field>
+</doc>
+</add>

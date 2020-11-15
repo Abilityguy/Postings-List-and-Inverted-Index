@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181219_185000_BBC_News#start/550/end/585</field>
+<field name="datetime">12/19/2018 18:59:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181219_185000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181219_185000_BBC_News/BBCNEWS_20181219_185000_BBC_News.thumbs/BBCNEWS_20181219_185000_BBC_News_000538.jpg</field>
+<field name="snippet">theresa may, a 'stupid woman.' and, would you believe it, a republican mayor in red state texas, is leading a local fight, against climate change?</field>
+</doc>
+</add>

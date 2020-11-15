@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201301.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130130_180000_Andrea_Mitchell_Reports#start/1948/end/1983</field>
+<field name="datetime">1/30/2013 18:32:43</field>
+<field name="station">MSNBC</field>
+<field name="show">Andrea Mitchell Reports</field>
+<field name="showid">MSNBCW_20130130_180000_Andrea_Mitchell_Reports</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130130_180000_Andrea_Mitchell_Reports/MSNBCW_20130130_180000_Andrea_Mitchell_Reports.thumbs/MSNBCW_20130130_180000_Andrea_Mitchell_Reports_001936.jpg</field>
+<field name="snippet">now under a tornado watch until 4:00 eastern today. a severe storm system is pushing east. video posted to youtube tracks the tornado hitting adairsville, georgia, where one person is confirmed dead. extreme weather and climate</field>
+</doc>
+</add>

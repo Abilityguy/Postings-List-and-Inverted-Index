@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191101_030000_The_11th_Hour_With_Brian_Williams#start/1672/end/1707</field>
+<field name="datetime">11/1/2019 3:28:07</field>
+<field name="station">MSNBC</field>
+<field name="show">The 11th Hour With Brian Williams</field>
+<field name="showid">MSNBCW_20191101_030000_The_11th_Hour_With_Brian_Williams</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191101_030000_The_11th_Hour_With_Brian_Williams/MSNBCW_20191101_030000_The_11th_Hour_With_Brian_Williams.thumbs/MSNBCW_20191101_030000_The_11th_Hour_With_Brian_Williams_001649.jpg</field>
+<field name="snippet">exxonmobil is growing algae for biofuels. that could one day power planes, propel ships, and fuel trucks. and cut their greenhouse gas emissions in half.</field>
+</doc>
+</add>

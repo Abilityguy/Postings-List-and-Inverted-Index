@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140513_070000_All_In_With_Chris_Hayes#start/162/end/197</field>
+<field name="datetime">5/13/2014 7:02:57</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20140513_070000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140513_070000_All_In_With_Chris_Hayes/MSNBCW_20140513_070000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20140513_070000_All_In_With_Chris_Hayes_000135.jpg</field>
+<field name="snippet">denialism is one of the most dispiriting trends in the last decade. in 2003, 52% of republicans thought global warming was due to human activities. now it's 41%. and it's no better with republican politicians.</field>
+</doc>
+</add>

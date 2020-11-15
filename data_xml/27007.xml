@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100211_180000_America_Live#start/417/end/452</field>
+<field name="datetime">2/11/2010 18:07:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWS_20100211_180000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100211_180000_America_Live/FOXNEWS_20100211_180000_America_Live.thumbs/FOXNEWS_20100211_180000_America_Live_000416.jpg</field>
+<field name="snippet">happen, back-to-back blizzards have a growing number of people asking not only for their shovels but asking where is that global warming that everyone was so worried about? we've got some answers just ahead. and have you seen this disturbing videotape?</field>
+</doc>
+</add>

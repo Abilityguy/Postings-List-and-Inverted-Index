@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180903_130000_Afternoon_Live#start/1798/end/1833</field>
+<field name="datetime">9/3/2018 13:30:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20180903_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180903_130000_Afternoon_Live/BBCNEWS_20180903_130000_Afternoon_Live.thumbs/BBCNEWS_20180903_130000_Afternoon_Live_001797.jpg</field>
+<field name="snippet">global warming continuing we are more likely to see spells like that. i think with global warming it's also the extremes we talk about. we have seen some incredible extremes so so far this year and we are really interested in what the next few</field>
+</doc>
+</add>

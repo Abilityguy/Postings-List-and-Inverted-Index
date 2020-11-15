@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190421_020000_BBC_News#start/319/end/354</field>
+<field name="datetime">4/21/2019 2:05:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190421_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190421_020000_BBC_News/BBCNEWS_20190421_020000_BBC_News.thumbs/BBCNEWS_20190421_020000_BBC_News_000298.jpg</field>
+<field name="snippet">have been drafted into central london to help clear climate change protestors from the capital's roads. more than 750 people have been arrested since the demonstrations began on monday. the metropolitan police have defended their handling of the situation, describing the operation as unprecedented. jon donnison reports.</field>
+</doc>
+</add>

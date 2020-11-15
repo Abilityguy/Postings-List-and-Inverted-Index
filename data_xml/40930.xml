@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201705.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170529_170000_MSNBC_Live#start/1079/end/1114</field>
+<field name="datetime">5/29/2017 17:18:14</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170529_170000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170529_170000_MSNBC_Live/MSNBCW_20170529_170000_MSNBC_Live.thumbs/MSNBCW_20170529_170000_MSNBC_Live_000988.jpg</field>
+<field name="snippet">after president trump scolded allies in his nato address and failed to sign on to a climate change agreement at the g7 summit german chance lar angela merkel suggested europe can no longer entirely rely on the you states.</field>
+</doc>
+</add>

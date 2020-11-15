@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191105_170000_BBC_News_at_Five#start/3047/end/3082</field>
+<field name="datetime">11/5/2019 17:51:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20191105_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191105_170000_BBC_News_at_Five/BBCNEWS_20191105_170000_BBC_News_at_Five.thumbs/BBCNEWS_20191105_170000_BBC_News_at_Five_003027.jpg</field>
+<field name="snippet">business and investors, universities, who have all woken up to the challenge of climate change and the opportunities of taking action so we now have something like 70% of us gdp and 65% of the population in those states, cities</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140217_110000_FOX_and_Friends#start/703/end/738</field>
+<field name="datetime">2/17/2014 11:11:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20140217_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140217_110000_FOX_and_Friends/FOXNEWSW_20140217_110000_FOX_and_Friends.thumbs/FOXNEWSW_20140217_110000_FOX_and_Friends_000675.jpg</field>
+<field name="snippet">great -- elisabeth brings up a great point. is this something you are worried about? climate change or global warming? e-mail us at 'fox & friends'.com. you can twitter us or e-mail us. coming up, do you think</field>
+</doc>
+</add>

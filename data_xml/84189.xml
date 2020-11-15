@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190424_013000_Tuesday_in_Parliament#start/549/end/584</field>
+<field name="datetime">4/24/2019 1:39:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Tuesday in Parliament</field>
+<field name="showid">BBCNEWS_20190424_013000_Tuesday_in_Parliament</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190424_013000_Tuesday_in_Parliament/BBCNEWS_20190424_013000_Tuesday_in_Parliament.thumbs/BBCNEWS_20190424_013000_Tuesday_in_Parliament_000537.jpg</field>
+<field name="snippet">including being the first country in the world to pass a climate change act. we've made huge progress on plastics-free activity, we have renewables last month contributing over 40% of our electricity supply, we have had our longest ever period</field>
+</doc>
+</add>

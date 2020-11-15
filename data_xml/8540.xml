@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190903_000000_Hurricane_Dorian_Coverage#start/795/end/830</field>
+<field name="datetime">9/3/2019 0:13:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hurricane Dorian Coverage</field>
+<field name="showid">FOXNEWSW_20190903_000000_Hurricane_Dorian_Coverage</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190903_000000_Hurricane_Dorian_Coverage/FOXNEWSW_20190903_000000_Hurricane_Dorian_Coverage.thumbs/FOXNEWSW_20190903_000000_Hurricane_Dorian_Coverage_000777.jpg</field>
+<field name="snippet">martha: welcome back. special break in coverage tonight hurricane dorian. dorian is an extremely powerful storm, and we are sure to hear people blame its strength on global climate change. so, should we? is that correct? roy spencer is a meteorologist.</field>
+</doc>
+</add>

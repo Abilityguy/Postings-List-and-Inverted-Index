@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091024_010000_Hannity#start/1642/end/1677</field>
+<field name="datetime">10/24/2009 1:27:37</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20091024_010000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091024_010000_Hannity/FOXNEWS_20091024_010000_Hannity.thumbs/FOXNEWS_20091024_010000_Hannity_001620.jpg</field>
+<field name="snippet">warming is real. we have a new pew poll that shows the number of americans who believe global warming is a serious problem has declined from 44% in october of 2008 to just 35% today and that skepticism holds true across</field>
+</doc>
+</add>

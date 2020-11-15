@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201906.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190616_230000_Kasie_DC#start/2187/end/2222</field>
+<field name="datetime">6/16/2019 23:36:42</field>
+<field name="station">MSNBC</field>
+<field name="show">Kasie DC</field>
+<field name="showid">MSNBCW_20190616_230000_Kasie_DC</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190616_230000_Kasie_DC/MSNBCW_20190616_230000_Kasie_DC.thumbs/MSNBCW_20190616_230000_Kasie_DC_002188.jpg</field>
+<field name="snippet">vote on primary and election day, not on party rules. one party rule, or at least decision that came down, is that they vetoed a debate on climate change. a climate change-only focused</field>
+</doc>
+</add>

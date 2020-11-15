@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091203_110000_FOX_and_Friends#start/4184/end/4219</field>
+<field name="datetime">12/3/2009 12:09:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091203_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091203_110000_FOX_and_Friends/FOXNEWS_20091203_110000_FOX_and_Friends.thumbs/FOXNEWS_20091203_110000_FOX_and_Friends_004129.jpg</field>
+<field name="snippet">branch to the chamber of commerce. everyone knows they had a little spat a couple of weeks ago because the chamber did not support health care reform. and they did not support climate change. wouldn't it have been a better pr move to reach out to the chamber of commerce and invite them to this jobs summit?</field>
+</doc>
+</add>

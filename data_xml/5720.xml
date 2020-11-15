@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190926_080000_BBC_News_at_Nine#start/1571/end/1606</field>
+<field name="datetime">9/26/2019 8:26:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190926_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190926_080000_BBC_News_at_Nine/BBCNEWS_20190926_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190926_080000_BBC_News_at_Nine_001558.jpg</field>
+<field name="snippet">prince harry has travelled to botswana to visit conservation and health projects as part of his family's tour of southern africa, their first overseas trip as a family. speaking this morning, prince harry has stressed the importance of conservation and said the world is losing the race against climate change.</field>
+</doc>
+</add>

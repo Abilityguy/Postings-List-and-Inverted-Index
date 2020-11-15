@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201811.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181127_070000_The_11th_Hour_With_Brian_Williams#start/2638/end/2673</field>
+<field name="datetime">11/27/2018 7:44:13</field>
+<field name="station">MSNBC</field>
+<field name="show">The 11th Hour With Brian Williams</field>
+<field name="showid">MSNBCW_20181127_070000_The_11th_Hour_With_Brian_Williams</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181127_070000_The_11th_Hour_With_Brian_Williams/MSNBCW_20181127_070000_The_11th_Hour_With_Brian_Williams.thumbs/MSNBCW_20181127_070000_The_11th_Hour_With_Brian_Williams_002638.jpg</field>
+<field name="snippet">damaging weather has cost the u.s. nearly 400 billion, with a b, dollars. and if left unchecked, climate change is forecast to cost hundreds of billions of dollars more in annual losses by the year 2100.</field>
+</doc>
+</add>

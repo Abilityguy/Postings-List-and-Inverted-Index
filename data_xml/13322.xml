@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201111.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111129_040000_The_OReilly_Factor#start/943/end/978</field>
+<field name="datetime">11/29/2011 4:15:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20111129_040000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111129_040000_The_OReilly_Factor/FOXNEWSW_20111129_040000_The_OReilly_Factor.thumbs/FOXNEWSW_20111129_040000_The_OReilly_Factor_000926.jpg</field>
+<field name="snippet">bill: he's an agnostic. he's pretty clear on that you're a global warming. this guy knows more than global warming. he's done environmental</field>
+</doc>
+</add>

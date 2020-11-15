@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091209_140000_Americas_Newsroom#start/5921/end/5956</field>
+<field name="datetime">12/9/2009 15:38:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20091209_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091209_140000_Americas_Newsroom/FOXNEWS_20091209_140000_Americas_Newsroom.thumbs/FOXNEWS_20091209_140000_Americas_Newsroom_005867.jpg</field>
+<field name="snippet">bill: if any city can handle it, it is right here. they are set up to handle things like this in lower manhattan. but there will be changes, clearly. in the meantime, the epa warning that greenhouse gases are a</field>
+</doc>
+</add>

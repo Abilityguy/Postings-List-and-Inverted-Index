@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201003.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100313_193000_FOX_News_Watch#start/1451/end/1486</field>
+<field name="datetime">3/13/2010 19:54:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Watch</field>
+<field name="showid">FOXNEWS_20100313_193000_FOX_News_Watch</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100313_193000_FOX_News_Watch/FOXNEWS_20100313_193000_FOX_News_Watch.thumbs/FOXNEWS_20100313_193000_FOX_News_Watch_001435.jpg</field>
+<field name="snippet">their cover story on thursday, is it the global warming movement cooling or should i ask is the media giving the cold shoulder to global warming groups, is it? well, i think that's probably an anomaly. you know, and if anyone was going to do it probably would be</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_140000_Afternoon_Live#start/1735/end/1770</field>
+<field name="datetime">1/16/2020 14:29:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20200116_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_140000_Afternoon_Live/BBCNEWS_20200116_140000_Afternoon_Live.thumbs/BBCNEWS_20200116_140000_Afternoon_Live_001737.jpg</field>
+<field name="snippet">the all-time record with january 1902. we could say are his getting these extremes because of climate change, but i wonder if we would have had the conversation about climate change had we been here,</field>
+</doc>
+</add>

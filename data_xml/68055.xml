@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190222_050000_The_Briefing#start/501/end/536</field>
+<field name="datetime">2/22/2019 5:08:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20190222_050000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190222_050000_The_Briefing/BBCNEWS_20190222_050000_The_Briefing.thumbs/BBCNEWS_20190222_050000_The_Briefing_000477.jpg</field>
+<field name="snippet">the world's fish stocks are overfished. scientists say that climate change, land loss and disease are driving this loss. i come behind the scenes at kew gardens where you can see crops grown around the world, from this</field>
+</doc>
+</add>

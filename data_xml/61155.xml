@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201503.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150309_220000_PoliticsNation#start/1688/end/1723</field>
+<field name="datetime">3/9/2015 22:28:23</field>
+<field name="station">MSNBC</field>
+<field name="show">PoliticsNation</field>
+<field name="showid">MSNBCW_20150309_220000_PoliticsNation</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150309_220000_PoliticsNation/MSNBCW_20150309_220000_PoliticsNation.thumbs/MSNBCW_20150309_220000_PoliticsNation_001665.jpg</field>
+<field name="snippet">warming, climate change? i'm not a scientist. no, governor, you definitely are not, but you did start a catchphrase. you know, i'm not a scientist. i'm not a scientist. i don't know the science behind climate change.</field>
+</doc>
+</add>

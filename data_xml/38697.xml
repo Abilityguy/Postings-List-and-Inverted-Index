@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201010.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101004_170000_America_Live#start/2133/end/2168</field>
+<field name="datetime">10/4/2010 17:35:48</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWS_20101004_170000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101004_170000_America_Live/FOXNEWS_20101004_170000_America_Live.thumbs/FOXNEWS_20101004_170000_America_Live_002130.jpg</field>
+<field name="snippet">on the economy. we will work with the president on immigration, energy and other policies that are interesting to him but we are going to work on what the people want. megyn: he'll have to focus on energy, climate change and</field>
+</doc>
+</add>

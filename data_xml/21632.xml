@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100107_160000_Happening_Now#start/15/end/50</field>
+<field name="datetime">1/7/2010 16:00:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20100107_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100107_160000_Happening_Now/FOXNEWS_20100107_160000_Happening_Now.thumbs/FOXNEWS_20100107_160000_Happening_Now_000026.jpg</field>
+<field name="snippet">climate change. 'happening now' starts with jon and jane. see you tomorrow. jon: we beginning with this fox news alert, a frightening scene in north st. louis where a gunman armed with an assault rifle</field>
+</doc>
+</add>

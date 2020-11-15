@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201012.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101227_190000_News_Nation#start/1340/end/1375</field>
+<field name="datetime">12/27/2010 19:22:35</field>
+<field name="station">MSNBC</field>
+<field name="show">News Nation</field>
+<field name="showid">MSNBC_20101227_190000_News_Nation</field>
+<field name="preview">https://archive.org/download/MSNBC_20101227_190000_News_Nation/MSNBC_20101227_190000_News_Nation.thumbs/MSNBC_20101227_190000_News_Nation_001315.jpg</field>
+<field name="snippet">what we've been looking at is decades worth of data. we average them up around the globe and what we find is several incontrovertible facts. the earth has gotten warmer. the amount of greenhouse gases in the atmosphere has increased. we know that's coming from human</field>
+</doc>
+</add>

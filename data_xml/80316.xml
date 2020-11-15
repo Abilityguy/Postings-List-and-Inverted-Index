@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190514_080000_Fox_and_Friends_First#start/320/end/355</field>
+<field name="datetime">5/14/2019 8:05:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190514_080000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190514_080000_Fox_and_Friends_First/FOXNEWSW_20190514_080000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190514_080000_Fox_and_Friends_First_000300.jpg</field>
+<field name="snippet">in other news joe biden takes back the lead in a new national poll for the 2020 democratic nomination. this as bernie sanders and alexandria ocasio cortez slam his record on climate change. griff jenkins live in washington with division over the green new deal.</field>
+</doc>
+</add>

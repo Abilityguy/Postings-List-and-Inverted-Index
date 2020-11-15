@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190509_100000_BBC_Newsroom_Live#start/41/end/76</field>
+<field name="datetime">5/9/2019 10:00:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190509_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190509_100000_BBC_Newsroom_Live/BBCNEWS_20190509_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190509_100000_BBC_Newsroom_Live_000058.jpg</field>
+<field name="snippet">communities may have to move because of the threat of climate change and flooding. the broadcaster danny baker says he's been fired from 5 live for a joke on twitter about the duke and duchess of sussex's new baby. also this hour.</field>
+</doc>
+</add>

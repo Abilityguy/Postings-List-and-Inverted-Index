@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191215_230000_BBC_News#start/950/end/985</field>
+<field name="datetime">12/15/2019 23:16:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191215_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191215_230000_BBC_News/BBCNEWS_20191215_230000_BBC_News.thumbs/BBCNEWS_20191215_230000_BBC_News_000928.jpg</field>
+<field name="snippet">anglian water has apologised. the headlines on bbc news: labour's leaders apologise for the party's crushing defeat in last week's general election. nicola sturgeon renews her call for a second referendum on scottish independence, saying the people of scotland mustn't be kept in the union against their will. the climate change talks in madrid</field>
+</doc>
+</add>

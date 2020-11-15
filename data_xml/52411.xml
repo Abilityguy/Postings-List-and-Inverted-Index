@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181201_210000_World_News_Today#start/262/end/297</field>
+<field name="datetime">12/1/2018 21:04:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20181201_210000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181201_210000_World_News_Today/BBCNEWS_20181201_210000_World_News_Today.thumbs/BBCNEWS_20181201_210000_World_News_Today_000238.jpg</field>
+<field name="snippet">president macron says the higher taxes are intended to help france reduce emissions which cause climate change, by discouraging the use of vehicles. much of the focus of today's protests was around the arc de triomphe, one of the most famous landmarks in paris. it also serves as a memorial</field>
+</doc>
+</add>

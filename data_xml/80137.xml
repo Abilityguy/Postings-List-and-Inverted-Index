@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190514_070000_Fox_News__Night_With_Shannon_Bream#start/1754/end/1789</field>
+<field name="datetime">5/14/2019 7:29:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News  Night With Shannon Bream</field>
+<field name="showid">FOXNEWSW_20190514_070000_Fox_News__Night_With_Shannon_Bream</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190514_070000_Fox_News__Night_With_Shannon_Bream/FOXNEWSW_20190514_070000_Fox_News__Night_With_Shannon_Bream.thumbs/FOXNEWSW_20190514_070000_Fox_News__Night_With_Shannon_Bream_001739.jpg</field>
+<field name="snippet">city's green new deal inside trump tower. democrats threatened to hit the company with millions of dollars in fines if they don't cut greenhouse gas emissions. he faced the crowd of raucous protesters, he shouted his speech at times.</field>
+</doc>
+</add>

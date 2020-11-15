@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100218_090000_Special_Report_With_Bret_Baier#start/1499/end/1534</field>
+<field name="datetime">2/18/2010 9:25:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100218_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100218_090000_Special_Report_With_Bret_Baier/FOXNEWS_20100218_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100218_090000_Special_Report_With_Bret_Baier_001494.jpg</field>
+<field name="snippet">the climategate e-mail scandal last year phil jones acknowledged there's been no statistically significant global warming since 1995, but he claims most of the climate warming since 1950 is, 'due to human activity.'</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091207_190000_MSNBC_News_Live#start/3345/end/3380</field>
+<field name="datetime">12/7/2009 19:56:00</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091207_190000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091207_190000_MSNBC_News_Live/MSNBC_20091207_190000_MSNBC_News_Live.thumbs/MSNBC_20091207_190000_MSNBC_News_Live_003292.jpg</field>
+<field name="snippet">he's basically signaling the united states is ready to move forward. given the ep's declaration finally that greenhouse gases are bad for you, at least we're seeing movement on that front. thank you so much for joining us. appreciate that. thank you. that wraps up this hour.</field>
+</doc>
+</add>

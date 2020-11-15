@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201801.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20180130_000000_Hardball_With_Chris_Matthews#start/2572/end/2607</field>
+<field name="datetime">1/30/2018 0:43:07</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball With Chris Matthews</field>
+<field name="showid">MSNBCW_20180130_000000_Hardball_With_Chris_Matthews</field>
+<field name="preview">https://archive.org/download/MSNBCW_20180130_000000_Hardball_With_Chris_Matthews/MSNBCW_20180130_000000_Hardball_With_Chris_Matthews.thumbs/MSNBCW_20180130_000000_Hardball_With_Chris_Matthews_002547.jpg</field>
+<field name="snippet">look, it used to not be climate change. it used to be global warming, right? that wasn't working too well because it was getting too cold all over the place. the icecaps were going to melt. they were going to be gone by now. but now they're setting records. they're at a record level. i tell you what i believe in.</field>
+</doc>
+</add>

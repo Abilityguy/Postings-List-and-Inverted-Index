@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191120_110000_Morning_Joe#start/9812/end/9847</field>
+<field name="datetime">11/20/2019 13:43:47</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20191120_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191120_110000_Morning_Joe/MSNBCW_20191120_110000_Morning_Joe.thumbs/MSNBCW_20191120_110000_Morning_Joe_009809.jpg</field>
+<field name="snippet">i would say that across the board, what we want to hear is a conversation about voter suppression. because that is the most fundamental threat to any of the issues that the candidates are speaking to. if we want action on climate change, if we want reproductive health to be a choice for</field>
+</doc>
+</add>

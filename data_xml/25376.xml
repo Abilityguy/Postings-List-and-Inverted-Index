@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201611.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161120_230000_Americas_News_HQ#start/31/end/66</field>
+<field name="datetime">11/20/2016 23:00:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20161120_230000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161120_230000_Americas_News_HQ/FOXNEWSW_20161120_230000_Americas_News_HQ.thumbs/FOXNEWSW_20161120_230000_Americas_News_HQ_000058.jpg</field>
+<field name="snippet">progress in fighting climate change bringing the paris agreement into force agreeing to aviation emissions and here in lima we continue our work to phase out fossil fuel subsidies and new commitment to our goal</field>
+</doc>
+</add>

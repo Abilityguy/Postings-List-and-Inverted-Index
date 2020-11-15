@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191130_020000_Hannity#start/3307/end/3342</field>
+<field name="datetime">11/30/2019 2:55:22</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20191130_020000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191130_020000_Hannity/FOXNEWSW_20191130_020000_Hannity.thumbs/FOXNEWSW_20191130_020000_Hannity_003299.jpg</field>
+<field name="snippet">saying it is all causing climate change! we will be right back. (chime)</field>
+</doc>
+</add>

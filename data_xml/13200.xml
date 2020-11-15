@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201101.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110119_180000_America_Live#start/2570/end/2605</field>
+<field name="datetime">1/19/2011 18:43:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWS_20110119_180000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110119_180000_America_Live/FOXNEWS_20110119_180000_America_Live.thumbs/FOXNEWS_20110119_180000_America_Live_002543.jpg</field>
+<field name="snippet">views on major international and regional issues including the situation on the korean peninsula, the iranian nuclear issue, climate change and others. we agreed to strengthen consultation and coordination on major issues that concern peace</field>
+</doc>
+</add>

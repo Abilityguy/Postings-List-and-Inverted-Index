@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201110.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20111028_230000_Hardball_With_Chris_Matthews#start/238/end/273</field>
+<field name="datetime">10/28/2011 23:04:13</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball With Chris Matthews</field>
+<field name="showid">MSNBCW_20111028_230000_Hardball_With_Chris_Matthews</field>
+<field name="preview">https://archive.org/download/MSNBCW_20111028_230000_Hardball_With_Chris_Matthews/MSNBCW_20111028_230000_Hardball_With_Chris_Matthews.thumbs/MSNBCW_20111028_230000_Hardball_With_Chris_Matthews_000237.jpg</field>
+<field name="snippet">and his campaign has sent me an e-mail saying he hasn't changed positions, that he continues to believe that there is climate change and he believes humans contribute to it, but he's not sure by how much. but that's not exactly what he said in this most recent appearance. and one thing with romney -- why's he doing this? there's a logic to this.</field>
+</doc>
+</add>

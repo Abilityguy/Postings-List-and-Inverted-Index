@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191203_000000_Newsday#start/513/end/548</field>
+<field name="datetime">12/3/2019 0:08:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191203_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191203_000000_Newsday/BBCNEWS_20191203_000000_Newsday.thumbs/BBCNEWS_20191203_000000_Newsday_000508.jpg</field>
+<field name="snippet">to declare open this 25th session. so here in madrid, as the annual un talks on climate change get under way, one of the loudest demands is from the countries most vulnerable to those bigger storms. we worry about our livelihoods, we worry about the future generations, we worry</field>
+</doc>
+</add>

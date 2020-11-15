@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201411.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141112_140000_Americas_Newsroom#start/1155/end/1190</field>
+<field name="datetime">11/12/2014 14:19:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWSW_20141112_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141112_140000_Americas_Newsroom/FOXNEWSW_20141112_140000_Americas_Newsroom.thumbs/FOXNEWSW_20141112_140000_Americas_Newsroom_001155.jpg</field>
+<field name="snippet">in hong kong. while you have got tens of thousands of people on the streets of hong kong pushing for more democracy. there are so many issues the president did engage on. he engaged on climate change.</field>
+</doc>
+</add>

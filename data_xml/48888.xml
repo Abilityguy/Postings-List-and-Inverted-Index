@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201908.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190822_190000_MSNBC_Live_With_Ali_Velshi#start/85/end/120</field>
+<field name="datetime">8/22/2019 19:01:40</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190822_190000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190822_190000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190822_190000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190822_190000_MSNBC_Live_With_Ali_Velshi_000058.jpg</field>
+<field name="snippet">buzz is around jay inslee having left the competition. he was never somebody who could muster a lot of support in terms of percentage of the vote. but he had an outsized influence when it came to making the discussion of climate change central to the campaign.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200112_220000_BBC_News#start/65/end/100</field>
+<field name="datetime">1/12/2020 22:01:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200112_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200112_220000_BBC_News/BBCNEWS_20200112_220000_BBC_News.thumbs/BBCNEWS_20200112_220000_BBC_News_000057.jpg</field>
+<field name="snippet">after the uk's ambassador there is arrested and released - britain condemns the move. as australia's prime minister apologises for his handling of the bushfires - there are calls for him to adopt a stronger position on climate change. and serena williams celebrates her</field>
+</doc>
+</add>

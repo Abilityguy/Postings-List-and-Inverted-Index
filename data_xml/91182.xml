@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190620_040000_Tucker_Carlson_Tonight#start/3305/end/3340</field>
+<field name="datetime">6/20/2019 4:55:20</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190620_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190620_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190620_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190620_040000_Tucker_Carlson_Tonight_003298.jpg</field>
+<field name="snippet">ocasio-cortez isn't big on subtlety or nuance or fax. global warming will destroy the planet in 12 years. the only solution is a $10 trillion green new deal. that's what she told us last month. now this week she says illegal immigration detention facilities are identical to concentration camps.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190215_100000_Victoria_Derbyshire#start/1495/end/1530</field>
+<field name="datetime">2/15/2019 10:25:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20190215_100000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190215_100000_Victoria_Derbyshire/BBCNEWS_20190215_100000_Victoria_Derbyshire.thumbs/BBCNEWS_20190215_100000_Victoria_Derbyshire_001497.jpg</field>
+<field name="snippet">for all manner of everyday tasks, to do her homework, brush her teeth, and even paint pictures. we will talk to her later. and do you have a child who is walking out of class today to protest against climate change?</field>
+</doc>
+</add>

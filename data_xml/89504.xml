@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190624_190000_BBC_News#start/760/end/795</field>
+<field name="datetime">6/24/2019 19:12:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190624_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190624_190000_BBC_News/BBCNEWS_20190624_190000_BBC_News.thumbs/BBCNEWS_20190624_190000_BBC_News_001799.jpg</field>
+<field name="snippet">as the world seeks to cut carbon dioxide emissions - and attempt to reduce the impact of climate change - scientists are meeting in germany to explore how to put carbon dioxide to useful purposes - including for commercial gain. until recently it was assumed emissions from industry would have to be buried to prevent them</field>
+</doc>
+</add>

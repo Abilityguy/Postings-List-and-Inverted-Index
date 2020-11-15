@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_200000_BBC_News#start/1926/end/1961</field>
+<field name="datetime">1/17/2020 20:32:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200117_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_200000_BBC_News/BBCNEWS_20200117_200000_BBC_News.thumbs/BBCNEWS_20200117_200000_BBC_News_001917.jpg</field>
+<field name="snippet">tackle climate change. glasgow is hosting a major un climate change summit later this year. it's promising to achieve the ambition by radically cutting emissions and planting of trees to absorb the</field>
+</doc>
+</add>

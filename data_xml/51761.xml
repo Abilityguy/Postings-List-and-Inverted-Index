@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181209_043000_Click#start/125/end/160</field>
+<field name="datetime">12/9/2018 4:32:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Click</field>
+<field name="showid">BBCNEWS_20181209_043000_Click</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181209_043000_Click/BBCNEWS_20181209_043000_Click.thumbs/BBCNEWS_20181209_043000_Click_000117.jpg</field>
+<field name="snippet">which contain damning results. we are failing to meet the targets to slow down global warming. if we do not take action, the collapse of our civilisations</field>
+</doc>
+</add>

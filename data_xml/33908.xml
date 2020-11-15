@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091201_050000_Hannity#start/1666/end/1701</field>
+<field name="datetime">12/1/2009 5:28:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20091201_050000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091201_050000_Hannity/FOXNEWS_20091201_050000_Hannity.thumbs/FOXNEWS_20091201_050000_Hannity_001650.jpg</field>
+<field name="snippet">by the way, to all of you out there, merry christmas, and that is the news tonight from hannity's america. president obama is gearing up for the copenhagen climate change conference, but how big of.</field>
+</doc>
+</add>

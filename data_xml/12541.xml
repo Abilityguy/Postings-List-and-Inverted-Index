@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170708_050000_Breakfast#start/46/end/81</field>
+<field name="datetime">7/8/2017 5:01:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20170708_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170708_050000_Breakfast/BBCNEWS_20170708_050000_Breakfast.thumbs/BBCNEWS_20170708_050000_Breakfast_000058.jpg</field>
+<field name="snippet">are hopeful and confident that charlie may get a chance. theresa may will come face-to-face with president trump at the 620 summit - with brexit and climate change at the top of the agenda.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090810_100000_FOX_and_Friends#start/8028/end/8063</field>
+<field name="datetime">8/10/2009 12:14:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20090810_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090810_100000_FOX_and_Friends/FOXNEWS_20090810_100000_FOX_and_Friends.thumbs/FOXNEWS_20090810_100000_FOX_and_Friends_008006.jpg</field>
+<field name="snippet">brian: by the way, congratulations because your book is already a top seller. we are going to hear more about this on the other side of the break. she will also be talking about global warming.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_190000_BBC_News#start/1907/end/1942</field>
+<field name="datetime">9/20/2019 19:32:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190920_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_190000_BBC_News/BBCNEWS_20190920_190000_BBC_News.thumbs/BBCNEWS_20190920_190000_BBC_News_001888.jpg</field>
+<field name="snippet">to combat climate change. from nairobi to new york, sydney to stockholm, and here live in mexico city. millions have protested in more</field>
+</doc>
+</add>

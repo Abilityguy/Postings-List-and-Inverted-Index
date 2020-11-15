@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201007.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100731_040000_Hannity#start/1241/end/1276</field>
+<field name="datetime">7/31/2010 4:20:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20100731_040000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100731_040000_Hannity/FOXNEWS_20100731_040000_Hannity.thumbs/FOXNEWS_20100731_040000_Hannity_001195.jpg</field>
+<field name="snippet">obama -- abc news ambushes one republican senator on a hot july day and tries to prove that global warming exists. host: could switching to geico really save you fifteen percent or more on car insurance?</field>
+</doc>
+</add>

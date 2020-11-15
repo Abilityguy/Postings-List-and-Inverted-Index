@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201409.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140921_160000_Weekends_With_Alex_Witt#start/1673/end/1708</field>
+<field name="datetime">9/21/2014 16:28:08</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20140921_160000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140921_160000_Weekends_With_Alex_Witt/MSNBCW_20140921_160000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20140921_160000_Weekends_With_Alex_Witt_001665.jpg</field>
+<field name="snippet">you're looking at one of the largest climate change rallies ever taking place right now here in new york city. in 162 countries today over 100000 people are expected to rally here in new york city. and that is where we find msnbc.</field>
+</doc>
+</add>

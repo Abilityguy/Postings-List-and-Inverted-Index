@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091116_160000_Happening_Now#start/3882/end/3917</field>
+<field name="datetime">11/16/2009 17:04:57</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091116_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091116_160000_Happening_Now/FOXNEWS_20091116_160000_Happening_Now.thumbs/FOXNEWS_20091116_160000_Happening_Now_003870.jpg</field>
+<field name="snippet">what do we expect the president to say to the president of china? the bottom line is that tackling an lot of the major problems facing the world right now, climate change, the global economy, or even global security</field>
+</doc>
+</add>

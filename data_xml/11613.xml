@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190819_080000_BBC_News_at_Nine#start/3109/end/3144</field>
+<field name="datetime">8/19/2019 8:52:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190819_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190819_080000_BBC_News_at_Nine/BBCNEWS_20190819_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190819_080000_BBC_News_at_Nine_003087.jpg</field>
+<field name="snippet">it's the island's first to melt away due to climate change, but scientists warn it won't be the last, unless immediate action is taken. courtney bembridge reports. photographs taken from space show just how rapidly the 0kjokull glacier disappeared.</field>
+</doc>
+</add>

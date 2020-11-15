@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201901.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190130_070000_The_11th_Hour_With_Brian_Williams#start/2326/end/2361</field>
+<field name="datetime">1/30/2019 7:39:01</field>
+<field name="station">MSNBC</field>
+<field name="show">The 11th Hour With Brian Williams</field>
+<field name="showid">MSNBCW_20190130_070000_The_11th_Hour_With_Brian_Williams</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190130_070000_The_11th_Hour_With_Brian_Williams/MSNBCW_20190130_070000_The_11th_Hour_With_Brian_Williams.thumbs/MSNBCW_20190130_070000_The_11th_Hour_With_Brian_Williams_002310.jpg</field>
+<field name="snippet">who's chairing that subcommittee. and we need to tackle how climate change is adding to these disasters, is affecting these natural disasters like the wildfires in my state and across the entire country. i think that the effects of this</field>
+</doc>
+</add>

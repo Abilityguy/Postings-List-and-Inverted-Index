@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201412.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20141219_110000_Morning_Joe#start/5586/end/5621</field>
+<field name="datetime">12/19/2014 12:33:21</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20141219_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20141219_110000_Morning_Joe/MSNBCW_20141219_110000_Morning_Joe.thumbs/MSNBCW_20141219_110000_Morning_Joe_005565.jpg</field>
+<field name="snippet">the 2014 election the billionaires, the people obsessed on climate. i'm not saying that there's not global warming but people, many in america might consider taking</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191112_110000_BBC_Newsroom_Live#start/3770/end/3805</field>
+<field name="datetime">11/12/2019 12:03:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20191112_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191112_110000_BBC_Newsroom_Live/BBCNEWS_20191112_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20191112_110000_BBC_Newsroom_Live_003747.jpg</field>
+<field name="snippet">this has to change. 0ver this has to change. over a million jobs have been identified as being at risk of automation and responding to climate crisis requires a fundamental change to our economy. it will be impossible to respond to</field>
+</doc>
+</add>

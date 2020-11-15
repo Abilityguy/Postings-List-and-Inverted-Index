@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201312.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20131231_010000_All_In_With_Chris_Hayes#start/1245/end/1280</field>
+<field name="datetime">12/31/2013 1:21:00</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20131231_010000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20131231_010000_All_In_With_Chris_Hayes/MSNBCW_20131231_010000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20131231_010000_All_In_With_Chris_Hayes_001246.jpg</field>
+<field name="snippet">natural disaster made more disastrous by his own administration's failure to prepare. during his first term, christie defunded the state's office of climate change and energy. after sandy, when reporters filed public records requests to new york and new jersey, they</field>
+</doc>
+</add>

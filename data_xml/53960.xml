@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201807.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180726_080000_Victoria_Derbyshire#start/802/end/837</field>
+<field name="datetime">7/26/2018 8:13:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20180726_080000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180726_080000_Victoria_Derbyshire/BBCNEWS_20180726_080000_Victoria_Derbyshire.thumbs/BBCNEWS_20180726_080000_Victoria_Derbyshire_000777.jpg</field>
+<field name="snippet">temperature record broken by the end of the week. so today's report from a group of mps warning what could happen if we fail to adapt to climate change is incredibly timely. we're going to talk about the longer term consequences of higher temperatures later on, but first, let's look at the immediate impact.</field>
+</doc>
+</add>

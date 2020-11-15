@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181102_180000_BBC_News_at_Six#start/0/end/33</field>
+<field name="datetime">11/2/2018 18:00:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20181102_180000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181102_180000_BBC_News_at_Six/BBCNEWS_20181102_180000_BBC_News_at_Six.thumbs/BBCNEWS_20181102_180000_BBC_News_at_Six_000057.jpg</field>
+<field name="snippet">how our weather is getting more extreme - hotter summer days, warmer winters and more rain. the met office says our changing weather patterns are due to man made global warming. we're already starting to experience the effects of climate change. and it's the extreme events that will continue to increase into the future.</field>
+</doc>
+</add>

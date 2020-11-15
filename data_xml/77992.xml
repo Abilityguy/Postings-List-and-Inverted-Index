@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191121_140000_Afternoon_Live#start/7086/end/7121</field>
+<field name="datetime">11/21/2019 15:58:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20191121_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191121_140000_Afternoon_Live/BBCNEWS_20191121_140000_Afternoon_Live.thumbs/BBCNEWS_20191121_140000_Afternoon_Live_007078.jpg</field>
+<field name="snippet">there was chris martin talking to our entertainment correspondent about cutting climate change. we will have more on that later on. more on the weather. we have had quite a lot of dry weather over the last couple of days. the river</field>
+</doc>
+</add>

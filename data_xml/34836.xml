@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201509.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150902_200000_MSNBC_Live#start/2310/end/2345</field>
+<field name="datetime">9/2/2015 20:38:45</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20150902_200000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150902_200000_MSNBC_Live/MSNBCW_20150902_200000_MSNBC_Live.thumbs/MSNBCW_20150902_200000_MSNBC_Live_002296.jpg</field>
+<field name="snippet">washington. thank you. while in alaska this week president obama has a lot on the agenda. renaming mountains, hiking glaciers, speaking about climate change, starring in reality tv show with bear grylls. and apparently using a selfie stick.</field>
+</doc>
+</add>

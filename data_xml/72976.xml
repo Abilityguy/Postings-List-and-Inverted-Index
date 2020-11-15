@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190109_130000_BBC_News_at_One#start/1583/end/1618</field>
+<field name="datetime">1/9/2019 13:26:38</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190109_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190109_130000_BBC_News_at_One/BBCNEWS_20190109_130000_BBC_News_at_One.thumbs/BBCNEWS_20190109_130000_BBC_News_at_One_001557.jpg</field>
+<field name="snippet">a recycling centre showed that more than 10% were less than five years old. this impacts on climate change because manufacturing replacement machines creates greenhouse gases. governments across europe have responded to the challenge from consumers by imposing new standards, which should mean</field>
+</doc>
+</add>

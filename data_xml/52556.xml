@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181216_023000_Dateline_London#start/0/end/32</field>
+<field name="datetime">12/16/2018 2:30:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Dateline London</field>
+<field name="showid">BBCNEWS_20181216_023000_Dateline_London</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181216_023000_Dateline_London/BBCNEWS_20181216_023000_Dateline_London.thumbs/BBCNEWS_20181216_023000_Dateline_London_000058.jpg</field>
+<field name="snippet">this is bbc news. the headlines: representatives of around 200 nations at a un climate change summit in poland have reached agreement over how to implement the paris accord. talks had continued for an extra day, but some critics say the deal doesn't put enough pressure on countries to cut their emissions. there've been scuffles in paris</field>
+</doc>
+</add>

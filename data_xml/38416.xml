@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201005.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100505_150000_Happening_Now#start/3215/end/3250</field>
+<field name="datetime">5/5/2010 15:53:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20100505_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100505_150000_Happening_Now/FOXNEWS_20100505_150000_Happening_Now.thumbs/FOXNEWS_20100505_150000_Happening_Now_003210.jpg</field>
+<field name="snippet">climate change legislation, cap and trade, or what critics call cap and tax, david obey has been complaining about the partisanship and the sort of blunt instrument politics he's often been both subjecting on others and subjected to. he'll have a news conference at 1:00 this afternoon and</field>
+</doc>
+</add>

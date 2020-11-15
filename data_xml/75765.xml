@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201210.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121029_100000_Morning_Joe#start/5281/end/5316</field>
+<field name="datetime">10/29/2012 11:28:16</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20121029_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121029_100000_Morning_Joe/MSNBCW_20121029_100000_Morning_Joe.thumbs/MSNBCW_20121029_100000_Morning_Joe_005278.jpg</field>
+<field name="snippet">hunkering down right now to try to avoid the worst of this one. chuck, isn't it fascinating that back in 2004, 2005, 2006 -- but joe -- -- politicians were talking about climate change. they just aren't talking about it this year.</field>
+</doc>
+</add>

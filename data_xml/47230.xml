@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201802.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180228_054500_The_Briefing#start/504/end/539</field>
+<field name="datetime">2/28/2018 5:53:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20180228_054500_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180228_054500_The_Briefing/BBCNEWS_20180228_054500_The_Briefing.thumbs/BBCNEWS_20180228_054500_The_Briefing_000508.jpg</field>
+<field name="snippet">the question is it is clearly a battle between the scientists, is it global warming or a natural phenomenon. but we don't want a warmer arctic. there are</field>
+</doc>
+</add>

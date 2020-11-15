@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190825_093000_Weather_World#start/327/end/362</field>
+<field name="datetime">8/25/2019 9:35:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20190825_093000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190825_093000_Weather_World/BBCNEWS_20190825_093000_Weather_World.thumbs/BBCNEWS_20190825_093000_Weather_World_000329.jpg</field>
+<field name="snippet">as temperatures have warmed over time. this is how australia looks, it's the work of professor ed hawkins of reading university who wanted to find a clearer way of communicating climate change.</field>
+</doc>
+</add>

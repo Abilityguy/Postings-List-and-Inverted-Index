@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190328_130000_Americas_Newsroom_With_Bill_Hemmer_and_Sandra_Smith#start/8588/end/8623</field>
+<field name="datetime">3/28/2019 15:23:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom With Bill Hemmer and Sandra Smith</field>
+<field name="showid">FOXNEWSW_20190328_130000_Americas_Newsroom_With_Bill_Hemmer_and_Sandra_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190328_130000_Americas_Newsroom_With_Bill_Hemmer_and_Sandra_Smith/FOXNEWSW_20190328_130000_Americas_Newsroom_With_Bill_Hemmer_and_Sandra_Smith.thumbs/FOXNEWSW_20190328_130000_Americas_Newsroom_With_Bill_Hemmer_and_Sandra_Smith_008578.jpg</field>
+<field name="snippet">continuation of the hearings that we're having on the climate crisis. whether we're dealing with it in terms of a public health issue, a national security issue, an economic issue to create jobs for a moral issue to preserve the planet.</field>
+</doc>
+</add>

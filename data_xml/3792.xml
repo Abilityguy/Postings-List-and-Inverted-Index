@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170422_160000_BBC_News#start/1488/end/1523</field>
+<field name="datetime">4/22/2017 16:25:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170422_160000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170422_160000_BBC_News/BBCNEWS_20170422_160000_BBC_News.thumbs/BBCNEWS_20170422_160000_BBC_News_001468.jpg</field>
+<field name="snippet">facing resorts is the effect of rising temperatures causing glacial melt. it's a lesser known side effect of climate change, but some glaciers have diminished by a quarter over the past forty years. sara thornton travelled to the austrian alps to a resort built on a glacier that's melting</field>
+</doc>
+</add>

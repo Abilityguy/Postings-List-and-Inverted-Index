@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201505.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150505_210000_The_Ed_Show#start/2205/end/2240</field>
+<field name="datetime">5/5/2015 21:37:00</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20150505_210000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150505_210000_The_Ed_Show/MSNBCW_20150505_210000_The_Ed_Show.thumbs/MSNBCW_20150505_210000_The_Ed_Show_002205.jpg</field>
+<field name="snippet">talk to any scientist or anybody who is working on climate change, and they use two words consistently. irreversible damage. the water's coming and they can't do anything about it.</field>
+</doc>
+</add>

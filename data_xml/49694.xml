@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201609.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160922_090000_Fox_and_Friends_First#start/1138/end/1173</field>
+<field name="datetime">9/22/2016 9:19:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20160922_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160922_090000_Fox_and_Friends_First/FOXNEWSW_20160922_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20160922_090000_Fox_and_Friends_First_001137.jpg</field>
+<field name="snippet">being here this morning. thank you so much. we will have you back if you are right. climate change is the real national security threat according to the president.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181121_210000_Outside_Source#start/3120/end/3155</field>
+<field name="datetime">11/21/2018 21:52:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20181121_210000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181121_210000_Outside_Source/BBCNEWS_20181121_210000_Outside_Source.thumbs/BBCNEWS_20181121_210000_Outside_Source_003117.jpg</field>
+<field name="snippet">people's seat is representing hundreds of millions of people around the world whose lives are about to be affected, by climate change. so they will sit there to remind politicians that this is not</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100403_183000_FOX_News_Watch#start/1221/end/1256</field>
+<field name="datetime">4/3/2010 18:50:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Watch</field>
+<field name="showid">FOXNEWS_20100403_183000_FOX_News_Watch</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100403_183000_FOX_News_Watch/FOXNEWS_20100403_183000_FOX_News_Watch.thumbs/FOXNEWS_20100403_183000_FOX_News_Watch_001195.jpg</field>
+<field name="snippet">that's it it explains why so many americans still think there's no such thing as global warming. if your local weather person says it, half of whom turn out to be -- have no advanced training in meteorology, no wonder the country is confused.</field>
+</doc>
+</add>

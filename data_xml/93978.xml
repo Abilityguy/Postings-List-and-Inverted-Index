@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201206.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120614_040000_The_Rachel_Maddow_Show#start/911/end/946</field>
+<field name="datetime">6/14/2012 4:15:26</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBCW_20120614_040000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120614_040000_The_Rachel_Maddow_Show/MSNBCW_20120614_040000_The_Rachel_Maddow_Show.thumbs/MSNBCW_20120614_040000_The_Rachel_Maddow_Show_000840.jpg</field>
+<field name="snippet">it's the at&t network -- doing more with data to help business do more for customers. as we've told you on the show previously there's still unbelievably some real debate in this country about whether we should say global warming or climate change or rising sea levels or recurring flooding. when we want to talk about the</field>
+</doc>
+</add>

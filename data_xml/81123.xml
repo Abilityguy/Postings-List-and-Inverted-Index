@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091212_120000_MSNBC_News_Live#start/2266/end/2301</field>
+<field name="datetime">12/12/2009 12:38:01</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091212_120000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091212_120000_MSNBC_News_Live/MSNBC_20091212_120000_MSNBC_News_Live.thumbs/MSNBC_20091212_120000_MSNBC_News_Live_002250.jpg</field>
+<field name="snippet">among the four killed, the alleged killer's pregnant sister and 6-year-old cousin. two others were wounded. overseas, more protests taking place this morning at the climate change summit in</field>
+</doc>
+</add>

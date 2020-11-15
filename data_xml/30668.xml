@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140207_230000_Special_Report_With_Bret_Baier#start/1031/end/1066</field>
+<field name="datetime">2/7/2014 23:17:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20140207_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140207_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20140207_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20140207_230000_Special_Report_With_Bret_Baier_001005.jpg</field>
+<field name="snippet">a welcome develop, they say, given the consequences of global warming. i think there has been a fair amount of scaremongering that says the only way we can address climate change is through drastic action that is going to increase everybody's electricity</field>
+</doc>
+</add>

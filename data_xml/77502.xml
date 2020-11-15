@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191127_003000_HARDtalk#start/1/end/36</field>
+<field name="datetime">11/27/2019 0:30:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">HARDtalk</field>
+<field name="showid">BBCNEWS_20191127_003000_HARDtalk</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191127_003000_HARDtalk/BBCNEWS_20191127_003000_HARDtalk.thumbs/BBCNEWS_20191127_003000_HARDtalk_000029.jpg</field>
+<field name="snippet">our top story: a new warning from the united nations that time is running out to stop temperatures rising and a climate disaster. our current targets to cut greenhouse gas emissions are short of the limit agreed under the paris climate accord. the un says global emissions need to fall by more than 7% every year</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201606.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160622_000000_The_OReilly_Factor#start/3594/end/3629</field>
+<field name="datetime">6/22/2016 1:00:09</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20160622_000000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160622_000000_The_OReilly_Factor/FOXNEWSW_20160622_000000_The_OReilly_Factor.thumbs/FOXNEWSW_20160622_000000_The_OReilly_Factor_003567.jpg</field>
+<field name="snippet">attacks like the cougar in colorado and the bear is caused by global warming so miller's going to address that tomorrow night, don't miss it. again, thanks for watching us tonight. i am bill o'reilly. the spin stops here because we're definitely looking out for you.</field>
+</doc>
+</add>

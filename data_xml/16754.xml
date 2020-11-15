@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201811.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181119_110000_Morning_Joe#start/8367/end/8402</field>
+<field name="datetime">11/19/2018 13:19:42</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20181119_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181119_110000_Morning_Joe/MSNBCW_20181119_110000_Morning_Joe.thumbs/MSNBCW_20181119_110000_Morning_Joe_008367.jpg</field>
+<field name="snippet">political moment of division is the extent to which climate change has become a victim of that partisanship. if you are on the side of trump and his supporters, you will go to the ends of the earth to say that climate change is not</field>
+</doc>
+</add>

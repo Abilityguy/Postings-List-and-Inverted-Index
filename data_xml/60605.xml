@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_050000_Breakfast#start/5397/end/5432</field>
+<field name="datetime">10/8/2018 6:30:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181008_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_050000_Breakfast/BBCNEWS_20181008_050000_Breakfast.thumbs/BBCNEWS_20181008_050000_Breakfast_005397.jpg</field>
+<field name="snippet">on climate change says that limiting temperature rises to no more than 1.5 celsius will require massive changes to the way we live. it warns that without action, there could be severe consequences for the global population and natural world. the report was released overnight in incheon in south korea.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191125_230000_Special_Report_With_Bret_Baier#start/1065/end/1100</field>
+<field name="datetime">11/25/2019 23:18:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20191125_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191125_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20191125_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20191125_230000_Special_Report_With_Bret_Baier_001047.jpg</field>
+<field name="snippet">game between archrivals harvard and yale. students and alumni from both schools occupy the field during halftime to call for action on climate change. fox 14 in el paso, our affiliate there, a memorial is unveiled honoring the 22 people who were</field>
+</doc>
+</add>

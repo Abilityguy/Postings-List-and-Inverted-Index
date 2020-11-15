@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190922_090000_FOX_Report_With_Jon_Scott#start/1231/end/1266</field>
+<field name="datetime">9/22/2019 9:20:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report With Jon Scott</field>
+<field name="showid">FOXNEWSW_20190922_090000_FOX_Report_With_Jon_Scott</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190922_090000_FOX_Report_With_Jon_Scott/FOXNEWSW_20190922_090000_FOX_Report_With_Jon_Scott.thumbs/FOXNEWSW_20190922_090000_FOX_Report_With_Jon_Scott_001227.jpg</field>
+<field name="snippet">nations and corporations to curb global warming. the summit asks young people to come with plans to limit the global increase in temperature to 1.5 degrees celsius, above pre-industrial levels, with a focus on developing tools for an economic system that eliminates waste and reuses resources.</field>
+</doc>
+</add>

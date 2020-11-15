@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190512_200000_World_News_Today#start/186/end/221</field>
+<field name="datetime">5/12/2019 20:03:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190512_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190512_200000_World_News_Today/BBCNEWS_20190512_200000_World_News_Today.thumbs/BBCNEWS_20190512_200000_World_News_Today_000179.jpg</field>
+<field name="snippet">just about humans. it's also about wildlife. take polar bears, for example. global warming means there's less sea ice for them to hunt seals on, limiting their access to food, and threatening their survival. then you have african elephants. they need to drink 225</field>
+</doc>
+</add>

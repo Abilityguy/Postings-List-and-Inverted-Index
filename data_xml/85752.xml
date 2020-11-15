@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201709.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170910_230000_Newsday#start/1489/end/1524</field>
+<field name="datetime">9/10/2017 23:25:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20170910_230000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170910_230000_Newsday/BBCNEWS_20170910_230000_Newsday.thumbs/BBCNEWS_20170910_230000_Newsday_001468.jpg</field>
+<field name="snippet">you have been watching newsday. stay with us. we look at how businesses in india are being urged to develop solutions to tackle the effects of global warming. and before we go, let's take a look at these pictures of our top story on hurricane irma, which slammed into the us state</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191008_030000_BBC_News#start/995/end/1030</field>
+<field name="datetime">10/8/2019 3:16:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191008_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191008_030000_BBC_News/BBCNEWS_20191008_030000_BBC_News.thumbs/BBCNEWS_20191008_030000_BBC_News_000988.jpg</field>
+<field name="snippet">action on climate change. the british prime minister has urged the trump administration to reconsider the diplomatic immunity of an american diplomat's wife who's left the uk even though she is a suspect</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190920_220000_Special_Report_With_Bret_Baier#start/929/end/964</field>
+<field name="datetime">9/20/2019 22:15:44</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20190920_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190920_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20190920_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20190920_220000_Special_Report_With_Bret_Baier_000929.jpg</field>
+<field name="snippet">from washington, d.c., where thousands of protesters marched towards the capital to michigan and indiana, teams across the u.s. mobilized. in australia, an estimated 300000 people marched, demanding the world's largest coal producer take immediate action to limit greenhouse gas</field>
+</doc>
+</add>

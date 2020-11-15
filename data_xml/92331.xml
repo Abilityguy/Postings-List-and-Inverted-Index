@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200911.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091125_200000_MSNBC_News_Live#start/1916/end/1951</field>
+<field name="datetime">11/25/2009 20:32:11</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091125_200000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091125_200000_MSNBC_News_Live/MSNBC_20091125_200000_MSNBC_News_Live.thumbs/MSNBC_20091125_200000_MSNBC_News_Live_001913.jpg</field>
+<field name="snippet">now it is homed the summit will produce a framework for future action. the white house says the president will pro-foes cut greenhouse gas emissions by 17% by the year 2020 while the european union wants a 20% cut.</field>
+</doc>
+</add>

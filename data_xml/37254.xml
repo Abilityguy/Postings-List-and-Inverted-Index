@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201401.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140122_040000_The_OReilly_Factor#start/3060/end/3095</field>
+<field name="datetime">1/22/2014 4:51:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20140122_040000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140122_040000_The_OReilly_Factor/FOXNEWSW_20140122_040000_The_OReilly_Factor.thumbs/FOXNEWSW_20140122_040000_The_OReilly_Factor_003045.jpg</field>
+<field name="snippet">it's just like global warming, other studies show the opposite. what i'm doing is i'm neutralizing, you can get one study, i can get another. forget all the studies. forget all the studies at this juncture?</field>
+</doc>
+</add>

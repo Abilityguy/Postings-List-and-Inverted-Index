@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140207_230000_Special_Report_With_Bret_Baier#start/3012/end/3047</field>
+<field name="datetime">2/7/2014 23:50:27</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20140207_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140207_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20140207_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20140207_230000_Special_Report_With_Bret_Baier_003015.jpg</field>
+<field name="snippet">up. the debate over climate change rolls on. each week we ask to you vote in our friday lightening round poll. this week you chose epa regulations. we are back now with our panel. so the epa has come out with a proposal for tough</field>
+</doc>
+</add>

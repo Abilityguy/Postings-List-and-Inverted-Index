@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190504_133000_Weather_World#start/1511/end/1546</field>
+<field name="datetime">5/4/2019 13:55:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20190504_133000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190504_133000_Weather_World/BBCNEWS_20190504_133000_Weather_World.thumbs/BBCNEWS_20190504_133000_Weather_World_001499.jpg</field>
+<field name="snippet">defences cut wetlands off and shut the system down, so conservationists are calling for the protection and regeneration of wetlands around the world to help fight climate change by ensuring that more carbon remains stuck in the mud.</field>
+</doc>
+</add>

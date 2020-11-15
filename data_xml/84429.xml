@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190418_120000_BBC_News_at_One#start/503/end/538</field>
+<field name="datetime">4/18/2019 12:08:38</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190418_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190418_120000_BBC_News_at_One/BBCNEWS_20190418_120000_BBC_News_at_One.thumbs/BBCNEWS_20190418_120000_BBC_News_at_One_000477.jpg</field>
+<field name="snippet">the first people to be charged in connection with this week's climate change protests have appeared in court. three people have pleaded not guilty for obstructing trains at canary wharf station. the protests, which have disrupted parts of central london and other cities during the week,</field>
+</doc>
+</add>

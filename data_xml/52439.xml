@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181220_000000_Newsday#start/1287/end/1322</field>
+<field name="datetime">12/20/2018 0:21:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20181220_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181220_000000_Newsday/BBCNEWS_20181220_000000_Newsday.thumbs/BBCNEWS_20181220_000000_Newsday_001288.jpg</field>
+<field name="snippet">appears that having a president who says he is not convinced about man's contribution to climate change is inspiring individuals to do their bit. i mean, you have to start somewhere and if you wait for someone else to do it is never going to happen. you have to do it</field>
+</doc>
+</add>

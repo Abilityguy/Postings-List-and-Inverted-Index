@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190417_123000_BBC_News#start/1098/end/1133</field>
+<field name="datetime">4/17/2019 12:48:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190417_123000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190417_123000_BBC_News/BBCNEWS_20190417_123000_BBC_News.thumbs/BBCNEWS_20190417_123000_BBC_News_001079.jpg</field>
+<field name="snippet">but first the headlines on bbc news. the french president promises to finish the renovation of notre-dame cathedral within five years as nearly a billion uuros is pledged towards the restoration work. -- euros is pledged towards the restoration work. as climate change protests</field>
+</doc>
+</add>

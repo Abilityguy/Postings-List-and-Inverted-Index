@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190721_170000_BBC_News#start/1686/end/1721</field>
+<field name="datetime">7/21/2019 17:28:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190721_170000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190721_170000_BBC_News/BBCNEWS_20190721_170000_BBC_News.thumbs/BBCNEWS_20190721_170000_BBC_News_001677.jpg</field>
+<field name="snippet">the scientists now want to carry out further research to see if the plants recover after initial exposure to the plastics hidden inside. louise hubball, bbc news. the uk has committed to a target of net zero greenhouse gas emissions by 2050,</field>
+</doc>
+</add>

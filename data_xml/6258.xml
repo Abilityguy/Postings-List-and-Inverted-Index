@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_160000_BBC_News_at_Five#start/2634/end/2669</field>
+<field name="datetime">9/20/2019 16:44:09</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190920_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_160000_BBC_News_at_Five/BBCNEWS_20190920_160000_BBC_News_at_Five.thumbs/BBCNEWS_20190920_160000_BBC_News_at_Five_002609.jpg</field>
+<field name="snippet">the headlines on bbc news. millions of people are protesting around the world to demand greater action on climate change. the brexit secretary insists there is a 'common purpose' to get a new deal - after talks with the eu</field>
+</doc>
+</add>

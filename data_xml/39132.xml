@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100421_100000_FOX_and_Friends#start/8732/end/8767</field>
+<field name="datetime">4/21/2010 12:25:47</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100421_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100421_100000_FOX_and_Friends/FOXNEWS_20100421_100000_FOX_and_Friends.thumbs/FOXNEWS_20100421_100000_FOX_and_Friends_008717.jpg</field>
+<field name="snippet">regulating the markets, the climate change bill is about yes, protecting the environment, but hopefully creating green jobs. they may not pay off tomorrow or six months, but will long-term. gretchen: will it not increase taxes?</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201509.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150925_100000_FOX__Friends#start/231/end/266</field>
+<field name="datetime">9/25/2015 10:04:06</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20150925_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150925_100000_FOX__Friends/FOXNEWSW_20150925_100000_FOX__Friends.thumbs/FOXNEWSW_20150925_100000_FOX__Friends_000225.jpg</field>
+<field name="snippet">as we were saying about before. in a couple of hours, he'll leave this residence and he's going to head to the united nations where he will address the members of the general assembly and he's likely to focus, of course, on his theme of climate change and the</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201212.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121208_130000_Up_W_Chris_Hayes#start/4213/end/4248</field>
+<field name="datetime">12/8/2012 14:10:28</field>
+<field name="station">MSNBC</field>
+<field name="show">Up W Chris Hayes</field>
+<field name="showid">MSNBCW_20121208_130000_Up_W_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121208_130000_Up_W_Chris_Hayes/MSNBCW_20121208_130000_Up_W_Chris_Hayes.thumbs/MSNBCW_20121208_130000_Up_W_Chris_Hayes_004200.jpg</field>
+<field name="snippet">we hope to get one that looks for the future and addresses climate change as the gravest threat facing the planet at this point. i'm glad you cued up the renewable conversation because that's next. steve palmer of the new american</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170601_010000_BBC_News#start/1332/end/1367</field>
+<field name="datetime">6/1/2017 1:22:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170601_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170601_010000_BBC_News/BBCNEWS_20170601_010000_BBC_News.thumbs/BBCNEWS_20170601_010000_BBC_News_001317.jpg</field>
+<field name="snippet">in about 18 hours from the white house. the chinese premier has been given a red-carpet welcome with military honours in berlin by the german chancellor, angela merkel. climate change and trade were expected to dominate their discussions. the visit coincides with indications by mrs merkel of strained relations with mr trump, partly over his stance on climate change.</field>
+</doc>
+</add>

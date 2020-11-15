@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201211.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121101_150000_MSNBC_Live#start/1065/end/1100</field>
+<field name="datetime">11/1/2012 15:18:00</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20121101_150000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121101_150000_MSNBC_Live/MSNBCW_20121101_150000_MSNBC_Live.thumbs/MSNBCW_20121101_150000_MSNBC_Live_001048.jpg</field>
+<field name="snippet">craft will be helping with the aftermath of hurricane sandy. coming up next, though, is this a man-made storm? there's lots of talk about climate change right now being responsible for the devastation caused by hurricane sandy. certainly the frequency of these types of storms we're seeing now needs to be questioned.</field>
+</doc>
+</add>

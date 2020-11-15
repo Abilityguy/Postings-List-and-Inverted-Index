@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181202_090000_BBC_News#start/706/end/741</field>
+<field name="datetime">12/2/2018 9:12:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181202_090000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181202_090000_BBC_News/BBCNEWS_20181202_090000_BBC_News.thumbs/BBCNEWS_20181202_090000_BBC_News_000687.jpg</field>
+<field name="snippet">limits this century. the social, economic and environmental costs of climate change dwarf the costs of acting now. failure to act means more disasters and emergencies and air pollution that could cost the global economy</field>
+</doc>
+</add>

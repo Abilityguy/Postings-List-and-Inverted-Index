@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140216_230000_FOX_News_Sunday_With_Chris_Wallace#start/2615/end/2650</field>
+<field name="datetime">2/16/2014 23:43:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Sunday With Chris Wallace</field>
+<field name="showid">FOXNEWSW_20140216_230000_FOX_News_Sunday_With_Chris_Wallace</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140216_230000_FOX_News_Sunday_With_Chris_Wallace/FOXNEWSW_20140216_230000_FOX_News_Sunday_With_Chris_Wallace.thumbs/FOXNEWSW_20140216_230000_FOX_News_Sunday_With_Chris_Wallace_002595.jpg</field>
+<field name="snippet">say, climate change accounts for everything from drought to floods. george, do you buy it? no, and neither does science. but i'm one of those who are</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201108.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20110830_170000_Andrea_Mitchell_Reports#start/225/end/260</field>
+<field name="datetime">8/30/2011 17:04:00</field>
+<field name="station">MSNBC</field>
+<field name="show">Andrea Mitchell Reports</field>
+<field name="showid">MSNBCW_20110830_170000_Andrea_Mitchell_Reports</field>
+<field name="preview">https://archive.org/download/MSNBCW_20110830_170000_Andrea_Mitchell_Reports/MSNBCW_20110830_170000_Andrea_Mitchell_Reports.thumbs/MSNBCW_20110830_170000_Andrea_Mitchell_Reports_000207.jpg</field>
+<field name="snippet">what does this mean -- is we may be in a situation where we have to do things differently now in vermont because of climate change? well, i think that we will see some changes because of that. we've done a lot over the years.</field>
+</doc>
+</add>

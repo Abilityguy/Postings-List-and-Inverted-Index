@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190225_090000_BBC_News_at_9#start/1540/end/1575</field>
+<field name="datetime">2/25/2019 9:25:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20190225_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190225_090000_BBC_News_at_9/BBCNEWS_20190225_090000_BBC_News_at_9.thumbs/BBCNEWS_20190225_090000_BBC_News_at_9_001527.jpg</field>
+<field name="snippet">researchers in antarctica are searching for the world's oldest ice. scientists hope it'll enable them to better understand past climate change - and predict future variations. caroline rigby reports. it may be the coldest region on earth, but scientists believe</field>
+</doc>
+</add>

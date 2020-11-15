@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190826_180000_Beyond_100_Days#start/11/end/46</field>
+<field name="datetime">8/26/2019 18:00:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20190826_180000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190826_180000_Beyond_100_Days/BBCNEWS_20190826_180000_Beyond_100_Days.thumbs/BBCNEWS_20190826_180000_Beyond_100_Days_000027.jpg</field>
+<field name="snippet">you're watching beyond 100 days. world leaders have a lot on their plates and not much agreement on how to deal with global problems. iran, china, russia, climate change, brexit, all big, contentious issues that dominated the g7 summit.</field>
+</doc>
+</add>

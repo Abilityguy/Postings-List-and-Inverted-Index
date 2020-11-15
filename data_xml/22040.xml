@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180805_230000_Newsday#start/1126/end/1161</field>
+<field name="datetime">8/5/2018 23:19:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20180805_230000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180805_230000_Newsday/BBCNEWS_20180805_230000_Newsday.thumbs/BBCNEWS_20180805_230000_Newsday_001107.jpg</field>
+<field name="snippet">very often on a busy london street. it's a tropical snake eating a pigeon in broad daylight on the pavement. the snake is thought to be an abandoned boa constrictor and a charity has now taken it to an animal welfare centre. a new report has found that china could face deadly heatwaves as a result of climate change. china's north plain is the most</field>
+</doc>
+</add>

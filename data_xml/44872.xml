@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201712.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20171210_170000_MSNBC_Live_With_Alex_Witt#start/1896/end/1931</field>
+<field name="datetime">12/10/2017 17:31:51</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Alex Witt</field>
+<field name="showid">MSNBCW_20171210_170000_MSNBC_Live_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20171210_170000_MSNBC_Live_With_Alex_Witt/MSNBCW_20171210_170000_MSNBC_Live_With_Alex_Witt.thumbs/MSNBCW_20171210_170000_MSNBC_Live_With_Alex_Witt_001887.jpg</field>
+<field name="snippet">ro monrovia after six wildfires destroyed over 800 structures. 90000 have been evacuated, some returning to see what is left of them. governor brown says climate</field>
+</doc>
+</add>

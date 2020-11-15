@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_214000_The_Papers#start/1208/end/1243</field>
+<field name="datetime">9/20/2019 22:00:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Papers</field>
+<field name="showid">BBCNEWS_20190920_214000_The_Papers</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_214000_The_Papers/BBCNEWS_20190920_214000_The_Papers.thumbs/BBCNEWS_20190920_214000_The_Papers_001108.jpg</field>
+<field name="snippet">this is bbc news, i'm lukwesa burak. the headlines at 11:00pm. a global call to combat climate change: thousands march across the uk and around the world, demanding an end to fossil fuels.</field>
+</doc>
+</add>

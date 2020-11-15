@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190929_070000_Breakfast#start/1667/end/1702</field>
+<field name="datetime">9/29/2019 7:28:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190929_070000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190929_070000_Breakfast/BBCNEWS_20190929_070000_Breakfast.thumbs/BBCNEWS_20190929_070000_Breakfast_001648.jpg</field>
+<field name="snippet">of the coal industry and concerns about climate change, have already come head to head, as our correspondent james cook reports. it was the day the uk voted to leave the european union, but nobody cared about that in white sulphur springs.</field>
+</doc>
+</add>

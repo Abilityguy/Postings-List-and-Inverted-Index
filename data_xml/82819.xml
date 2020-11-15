@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191010_190000_BBC_News#start/2599/end/2634</field>
+<field name="datetime">10/10/2019 19:43:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191010_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191010_190000_BBC_News/BBCNEWS_20191010_190000_BBC_News.thumbs/BBCNEWS_20191010_190000_BBC_News_002578.jpg</field>
+<field name="snippet">a climate change activist has climbed on top of a plane at london city airport as protests continue over global warming. the man, identified as a former paralympian cyclist, got on top of the plane as part of demonstrations by extinction rebellion.</field>
+</doc>
+</add>

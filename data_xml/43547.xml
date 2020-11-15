@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201506.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150608_090000_First_Look#start/483/end/518</field>
+<field name="datetime">6/8/2015 9:08:18</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20150608_090000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150608_090000_First_Look/MSNBCW_20150608_090000_First_Look.thumbs/MSNBCW_20150608_090000_First_Look_000466.jpg</field>
+<field name="snippet">a meeting in paris on climate change. what's going on in the u.s. congress on trade and whether the president will be able to push a trade deal through. we'll get the president's take on how all of this went a little later on today when he holds a</field>
+</doc>
+</add>

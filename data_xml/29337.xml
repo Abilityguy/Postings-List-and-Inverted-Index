@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201604.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160422_220000_Special_Report_With_Bret_Baier#start/1134/end/1169</field>
+<field name="datetime">4/22/2016 22:19:09</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20160422_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160422_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20160422_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20160422_220000_Special_Report_With_Bret_Baier_001107.jpg</field>
+<field name="snippet">some heads of state gathered at the u.n. to sign a climate change agreement reached last december in paris. secretary of state john kerry who brought his granddaughter represented the u.s. we learned that 2015 was the hottest year in recorded history by far.</field>
+</doc>
+</add>

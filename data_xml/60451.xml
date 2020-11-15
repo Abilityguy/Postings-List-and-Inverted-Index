@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181001_120000_BBC_News_at_One#start/1402/end/1437</field>
+<field name="datetime">10/1/2018 12:23:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20181001_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181001_120000_BBC_News_at_One/BBCNEWS_20181001_120000_BBC_News_at_One.thumbs/BBCNEWS_20181001_120000_BBC_News_at_One_001377.jpg</field>
+<field name="snippet">than one-and-a-half degrees celsius this century. the intergovernmental panel on climate change is expected to warn the threshold will be breached by the year 20110, unless rapid action is taken. they'll recommend faster cuts in co2 emissions,</field>
+</doc>
+</add>

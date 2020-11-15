@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_133000_BBC_News#start/159/end/194</field>
+<field name="datetime">1/16/2020 13:32:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200116_133000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_133000_BBC_News/BBCNEWS_20200116_133000_BBC_News.thumbs/BBCNEWS_20200116_133000_BBC_News_000149.jpg</field>
+<field name="snippet">from front line royal duties. sir david attenborough warns the time has come for life or death decisions on climate change. we have been putting things off and seeing if we do it within 20</field>
+</doc>
+</add>

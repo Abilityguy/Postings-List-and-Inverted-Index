@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191215_050000_BBC_News#start/88/end/123</field>
+<field name="datetime">12/15/2019 5:01:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191215_050000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191215_050000_BBC_News/BBCNEWS_20191215_050000_BBC_News.thumbs/BBCNEWS_20191215_050000_BBC_News_000088.jpg</field>
+<field name="snippet">the european union and many small island states which vulnerable to climate change are pushing for more ambitious action from all countries, but some of the biggest polluters, including the us, brazil and india, have objected. gareth barlow reports. international delegates</field>
+</doc>
+</add>

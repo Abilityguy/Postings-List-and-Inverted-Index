@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201605.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160527_220000_Special_Report_With_Bret_Baier#start/1666/end/1701</field>
+<field name="datetime">5/27/2016 22:28:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20160527_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160527_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20160527_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20160527_220000_Special_Report_With_Bret_Baier_001647.jpg</field>
+<field name="snippet">the national average is $2.32 a gallon, substantially lower than five years ago when it hit almost $4 a gallon. president obama justice department may be going after your business if he does not like the way you think about global warming.</field>
+</doc>
+</add>

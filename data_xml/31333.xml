@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090710_100000_FOX_and_Friends#start/3817/end/3852</field>
+<field name="datetime">7/10/2009 11:03:52</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20090710_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090710_100000_FOX_and_Friends/FOXNEWS_20090710_100000_FOX_and_Friends.thumbs/FOXNEWS_20090710_100000_FOX_and_Friends_003806.jpg</field>
+<field name="snippet">brian: g-8 summit. what is solved? what is signed, what is delivered? have we handled the issue of global warming yet? well, the g-8 conference is historically famous for statement upon statement upon statement. lots of talking. but historically not so much</field>
+</doc>
+</add>

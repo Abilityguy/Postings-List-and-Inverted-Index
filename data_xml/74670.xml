@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_110000_BBC_Newsroom_Live#start/4847/end/4882</field>
+<field name="datetime">1/17/2020 12:21:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20200117_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_110000_BBC_Newsroom_Live/BBCNEWS_20200117_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20200117_110000_BBC_Newsroom_Live_004828.jpg</field>
+<field name="snippet">the carbon in any remaining fumes. it comes as the city prepares to host an international summit on climate change in november. the bbc is taking a closer look at the changes glasgow</field>
+</doc>
+</add>

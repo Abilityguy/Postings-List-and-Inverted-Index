@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201508.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150803_200000_NOW_With_Alex_Wagner#start/1875/end/1910</field>
+<field name="datetime">8/3/2015 20:31:30</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20150803_200000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150803_200000_NOW_With_Alex_Wagner/MSNBCW_20150803_200000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20150803_200000_NOW_With_Alex_Wagner_001875.jpg</field>
+<field name="snippet">welcome back to msnbc live. right now president obama has announced perhaps the stroengs steps yet to battle climate change. unveiling the first standards to cut carbon dioxide from power</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190629_123000_Talking_Movies#start/231/end/266</field>
+<field name="datetime">6/29/2019 12:34:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Talking Movies</field>
+<field name="showid">BBCNEWS_20190629_123000_Talking_Movies</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190629_123000_Talking_Movies/BBCNEWS_20190629_123000_Talking_Movies.thumbs/BBCNEWS_20190629_123000_Talking_Movies_000208.jpg</field>
+<field name="snippet">hello, i would welcome to the special edition of talking movies on the film industry out of the environment. i'm talking movies. in today's programme, how hollywood has dealt with global warming and other</field>
+</doc>
+</add>

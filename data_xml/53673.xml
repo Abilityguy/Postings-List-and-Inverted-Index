@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201807.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180704_010000_BBC_News#start/806/end/841</field>
+<field name="datetime">7/4/2018 1:13:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180704_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180704_010000_BBC_News/BBCNEWS_20180704_010000_BBC_News.thumbs/BBCNEWS_20180704_010000_BBC_News_000778.jpg</field>
+<field name="snippet">these are the largest places on earth, all working together, sharing the best ideas and lessons learned. downstairs in the classroom, the science students monitor how much energy the solar panels have saved. their studies have left them with a sense of urgency about tackling climate change.</field>
+</doc>
+</add>

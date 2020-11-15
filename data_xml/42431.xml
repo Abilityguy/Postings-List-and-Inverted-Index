@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201009.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100905_230000_FOX_Report#start/3065/end/3100</field>
+<field name="datetime">9/5/2010 23:51:20</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report</field>
+<field name="showid">FOXNEWS_20100905_230000_FOX_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100905_230000_FOX_Report/FOXNEWS_20100905_230000_FOX_Report.thumbs/FOXNEWS_20100905_230000_FOX_Report_003060.jpg</field>
+<field name="snippet">kids being held back. well, if you've ever gone snorkeling or diving you've probably seen the beautiful coral reeves down under, but some scientists say that pollution and global warming are taking a toll on coral around the world and many of the colorful reeves are dying.</field>
+</doc>
+</add>

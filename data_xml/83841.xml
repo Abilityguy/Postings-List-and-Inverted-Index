@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190429_050000_Breakfast#start/1437/end/1472</field>
+<field name="datetime">4/29/2019 5:24:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190429_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190429_050000_Breakfast/BBCNEWS_20190429_050000_Breakfast.thumbs/BBCNEWS_20190429_050000_Breakfast_001437.jpg</field>
+<field name="snippet">it also releases carbon trapped in the earth, and that contributes to climate change. in parts of the south of england, some carelessly farmed fields are steadily running into the rivers.</field>
+</doc>
+</add>

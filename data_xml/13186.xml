@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201101.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110129_070000_Glenn_Beck#start/2100/end/2135</field>
+<field name="datetime">1/29/2011 7:35:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20110129_070000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110129_070000_Glenn_Beck/FOXNEWS_20110129_070000_Glenn_Beck.thumbs/FOXNEWS_20110129_070000_Glenn_Beck_002094.jpg</field>
+<field name="snippet">if you get sick, america, the republican health care plan is this -- die quickly! the planet has a fever. the threat of climate change is serious. it is urgent.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190520_230000_Newsday#start/745/end/780</field>
+<field name="datetime">5/20/2019 23:12:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190520_230000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190520_230000_Newsday/BBCNEWS_20190520_230000_Newsday.thumbs/BBCNEWS_20190520_230000_Newsday_000719.jpg</field>
+<field name="snippet">vienna. you're watching newsday on the bbc. still to come on the programme: the threat of lasting environmental damage in the solomon islands after a ship is refloated after three months stuck on a reef. also on the programme: how climate change is forcing farmers in south korea to adapt and switch to growing new crops.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201002.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100205_110000_Morning_Joe#start/3471/end/3506</field>
+<field name="datetime">2/5/2010 11:58:06</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20100205_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20100205_110000_Morning_Joe/MSNBC_20100205_110000_Morning_Joe.thumbs/MSNBC_20100205_110000_Morning_Joe_003360.jpg</field>
+<field name="snippet">global warming. you're big on that, frightened of it. you want to flee, don't you? flee what? the planet? yeah. i'm okay. i'm not a scientist. i can only assume common sense,</field>
+</doc>
+</add>

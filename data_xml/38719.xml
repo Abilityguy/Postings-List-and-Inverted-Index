@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201010.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101004_170000_America_Live#start/1269/end/1304</field>
+<field name="datetime">10/4/2010 17:21:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWS_20101004_170000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101004_170000_America_Live/FOXNEWS_20101004_170000_America_Live.thumbs/FOXNEWS_20101004_170000_America_Live_001260.jpg</field>
+<field name="snippet">warming fear promoters have used these tactics. they say it's criminally negligent to not believe in global warming. that rhetoric means something and it may cause people to act.</field>
+</doc>
+</add>

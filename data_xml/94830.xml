@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201010.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101022_100000_Morning_Joe#start/4674/end/4709</field>
+<field name="datetime">10/22/2010 11:18:09</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20101022_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20101022_100000_Morning_Joe/MSNBC_20101022_100000_Morning_Joe.thumbs/MSNBC_20101022_100000_Morning_Joe_004671.jpg</field>
+<field name="snippet">focused on jobs when it comes to climate change and the health care bill the president said over and over and over again we've got to take care of these -- one, somewhere to take care of the problems for the future of our fiscal health, but also we have to do these things to create jobs in the long term.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191227_140000_BBC_News#start/1635/end/1670</field>
+<field name="datetime">12/27/2019 14:27:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191227_140000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191227_140000_BBC_News/BBCNEWS_20191227_140000_BBC_News.thumbs/BBCNEWS_20191227_140000_BBC_News_001617.jpg</field>
+<field name="snippet">from turning farmlands to flood plains, they've reduced the greenhouse gas emissions here by 80%. we are as hands-off as possible, and by introducing animals and by putting water back into the landscape which has</field>
+</doc>
+</add>

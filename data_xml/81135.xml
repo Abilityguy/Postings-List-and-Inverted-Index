@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091219_120000_MSNBC_News_Live#start/56/end/91</field>
+<field name="datetime">12/19/2009 12:01:11</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091219_120000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091219_120000_MSNBC_News_Live/MSNBC_20091219_120000_MSNBC_News_Live.thumbs/MSNBC_20091219_120000_MSNBC_News_Live_000030.jpg</field>
+<field name="snippet">fall in d.c., new york and parts of virginia. we'll have the latest weather channel forecast and also live reports. climate confusion? president obama returns to d.c. in a snowstorm after brokering a deal on climate change.</field>
+</doc>
+</add>

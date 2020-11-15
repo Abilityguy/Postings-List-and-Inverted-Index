@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_140000_Americas_Newsroom#start/4179/end/4214</field>
+<field name="datetime">12/18/2009 15:09:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20091218_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_140000_Americas_Newsroom/FOXNEWS_20091218_140000_Americas_Newsroom.thumbs/FOXNEWS_20091218_140000_Americas_Newsroom_004170.jpg</field>
+<field name="snippet">meeting, china trying to find a compromise. china did not show up. well, it did but only in a very symbolic way. it was really a who's who of a major international economic powers and those interested in climate change all around a big</field>
+</doc>
+</add>

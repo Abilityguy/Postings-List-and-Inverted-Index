@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180609_100000_Fox_and_Friends_Saturday#start/7574/end/7609</field>
+<field name="datetime">6/9/2018 12:06:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20180609_100000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180609_100000_Fox_and_Friends_Saturday/FOXNEWSW_20180609_100000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20180609_100000_Fox_and_Friends_Saturday_007558.jpg</field>
+<field name="snippet">at the gender equality advisory counsel breakfast which the president will be attending this morning. although he will be cutting his day short. is he not sticking around for climate change talks. instead, griff, as we were talking about before, he is heading to singapore for the</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190627_160000_BBC_News_at_Five#start/3025/end/3060</field>
+<field name="datetime">6/27/2019 16:50:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190627_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190627_160000_BBC_News_at_Five/BBCNEWS_20190627_160000_BBC_News_at_Five.thumbs/BBCNEWS_20190627_160000_BBC_News_at_Five_002998.jpg</field>
+<field name="snippet">at a time when the international system seems to be under almost unprecedented strain, japan would love nothing more than to be seen emerging from the summit as some sort of peacemaker. but the divisions between donald trump in particular and much of the rest of the world are so deep, over climate change, over trade, thatjust keeping</field>
+</doc>
+</add>

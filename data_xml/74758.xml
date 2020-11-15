@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200106_020000_BBC_News#start/913/end/948</field>
+<field name="datetime">1/6/2020 2:15:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200106_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200106_020000_BBC_News/BBCNEWS_20200106_020000_BBC_News.thumbs/BBCNEWS_20200106_020000_BBC_News_000899.jpg</field>
+<field name="snippet">run landscape fire models over the last couple of decades looking at various climate change scenarios, and irrespective of what scenario with increased temperatures we run with those landscape fire models, they produce increases of area</field>
+</doc>
+</add>

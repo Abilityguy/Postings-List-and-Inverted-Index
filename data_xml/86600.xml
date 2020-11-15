@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191208_100000_BBC_News#start/1461/end/1496</field>
+<field name="datetime">12/8/2019 10:24:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191208_100000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191208_100000_BBC_News/BBCNEWS_20191208_100000_BBC_News.thumbs/BBCNEWS_20191208_100000_BBC_News_001439.jpg</field>
+<field name="snippet">but here is a warning from the united nations at the conference this week in madrid. delegates have been clearly told that the line of omissions of carbon dioxide and other greenhouse gases is still going up.</field>
+</doc>
+</add>

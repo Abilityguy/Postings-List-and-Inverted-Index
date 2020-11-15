@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_050000_Breakfast#start/340/end/375</field>
+<field name="datetime">8/8/2019 5:05:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190808_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_050000_Breakfast/BBCNEWS_20190808_050000_Breakfast.thumbs/BBCNEWS_20190808_050000_Breakfast_000328.jpg</field>
+<field name="snippet">women and girls, and we will be speaking to a former female gang member just after 8:00am. people are being urged to eat less red meat to help combat global warming. scientists meeting in geneva are expected to say that we should change our diets to include more pla nt-based food. here is our environment</field>
+</doc>
+</add>

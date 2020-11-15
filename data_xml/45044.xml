@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201909.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190919_150000_MSNBC_Live_With_Craig_Melvin#start/726/end/761</field>
+<field name="datetime">9/19/2019 15:12:21</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Craig Melvin</field>
+<field name="showid">MSNBCW_20190919_150000_MSNBC_Live_With_Craig_Melvin</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190919_150000_MSNBC_Live_With_Craig_Melvin/MSNBCW_20190919_150000_MSNBC_Live_With_Craig_Melvin.thumbs/MSNBCW_20190919_150000_MSNBC_Live_With_Craig_Melvin_000719.jpg</field>
+<field name="snippet">dylan, i want to pivot to other tech news. i saw this article this morning. apparently amazon alexa is going to start accepting campaign donations for 2020 presidential candidates. is this going to climate change</field>
+</doc>
+</add>

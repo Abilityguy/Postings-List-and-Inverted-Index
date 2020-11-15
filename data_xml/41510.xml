@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090802_040000_Glenn_Beck#start/573/end/608</field>
+<field name="datetime">8/2/2009 4:09:48</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20090802_040000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090802_040000_Glenn_Beck/FOXNEWS_20090802_040000_Glenn_Beck.thumbs/FOXNEWS_20090802_040000_Glenn_Beck_000570.jpg</field>
+<field name="snippet">what i say about whether coal is good or bad, because i'm capping greenhouse gases. coal-powered plants, you know, natural gas, you name it, whatever the plants were, whatever the industry was, they would have to retrofit</field>
+</doc>
+</add>

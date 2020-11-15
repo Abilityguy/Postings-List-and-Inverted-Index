@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_113000_BBC_Newsroom_Live#start/3561/end/3596</field>
+<field name="datetime">12/3/2018 12:29:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20181203_113000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_113000_BBC_Newsroom_Live/BBCNEWS_20181203_113000_BBC_Newsroom_Live.thumbs/BBCNEWS_20181203_113000_BBC_Newsroom_Live_003537.jpg</field>
+<field name="snippet">scientists say that - at the moment - the world is on course to warm by three to five degrees by the end of the century. and that the greenhouse gases we're adding to the atmosphere need to be cut by 45% by the year 2030. in the past half hour, sir david attenborough has been speaking at the conference in katowice.</field>
+</doc>
+</add>

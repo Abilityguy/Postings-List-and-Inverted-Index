@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170601_120000_BBC_News_at_One#start/96/end/131</field>
+<field name="datetime">6/1/2017 12:01:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20170601_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170601_120000_BBC_News_at_One/BBCNEWS_20170601_120000_BBC_News_at_One.thumbs/BBCNEWS_20170601_120000_BBC_News_at_One_000088.jpg</field>
+<field name="snippet">the us president donald trump is coming under growing international pressure to honour the paris global climate change deal. he's expected to announce this evening whether the us will withdraw from its commitment to reduce carbon emissions. china's premier said this morning that they will honour the agreement,</field>
+</doc>
+</add>

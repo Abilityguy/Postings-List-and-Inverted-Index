@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201909.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190920_100000_Morning_Joe#start/6951/end/6986</field>
+<field name="datetime">9/20/2019 11:56:06</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20190920_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190920_100000_Morning_Joe/MSNBCW_20190920_100000_Morning_Joe.thumbs/MSNBCW_20190920_100000_Morning_Joe_006930.jpg</field>
+<field name="snippet">reporter: willie, this is internal department of homeland security research that they compiled and presented to other top dhs officials about the connection between climate change and migration, and it is not some small effect. it is one of the main driving factors, food insecurity, of</field>
+</doc>
+</add>

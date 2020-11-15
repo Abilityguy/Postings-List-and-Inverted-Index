@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201909.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190923_130000_MSNBC_Live_With_Stephanie_Ruhle#start/1973/end/2008</field>
+<field name="datetime">9/23/2019 13:33:08</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Stephanie Ruhle</field>
+<field name="showid">MSNBCW_20190923_130000_MSNBC_Live_With_Stephanie_Ruhle</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190923_130000_MSNBC_Live_With_Stephanie_Ruhle/MSNBCW_20190923_130000_MSNBC_Live_With_Stephanie_Ruhle.thumbs/MSNBCW_20190923_130000_MSNBC_Live_With_Stephanie_Ruhle_001948.jpg</field>
+<field name="snippet">his conversations with the president of ukraine. bobby, if i'm an international leader, do i care about this long list of challenges including the climate crisis?</field>
+</doc>
+</add>

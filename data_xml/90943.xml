@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201709.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170905_060000_Tucker_Carlson_Tonight#start/1930/end/1965</field>
+<field name="datetime">9/5/2017 6:32:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20170905_060000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170905_060000_Tucker_Carlson_Tonight/FOXNEWSW_20170905_060000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20170905_060000_Tucker_Carlson_Tonight_001918.jpg</field>
+<field name="snippet">tucker: i think that's probably all true -- the forests would not be overwhelmed by pine bark beetles as it is because of climate change. that is -- tucker: so much of this you don't know, you pretend that you know, but you don't know. i really have to disagree</field>
+</doc>
+</add>

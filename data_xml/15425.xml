@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201702.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170202_231500_Newsnight#start/376/end/411</field>
+<field name="datetime">2/2/2017 23:21:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsnight</field>
+<field name="showid">BBCNEWS_20170202_231500_Newsnight</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170202_231500_Newsnight/BBCNEWS_20170202_231500_Newsnight.thumbs/BBCNEWS_20170202_231500_Newsnight_000358.jpg</field>
+<field name="snippet">on global affairs, country by country. president trump is not keen on the big international bodies or the multi-country trade deals. the us prefers bilaterals to multilaterals now. one area where the existing global arrangements are being reviewed for example, is in climate change. president trump wants to exit the paris agreement.</field>
+</doc>
+</add>

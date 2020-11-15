@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_110000_FOX_and_Friends#start/2128/end/2163</field>
+<field name="datetime">12/18/2009 11:35:43</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091218_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_110000_FOX_and_Friends/FOXNEWS_20091218_110000_FOX_and_Friends.thumbs/FOXNEWS_20091218_110000_FOX_and_Friends_002091.jpg</field>
+<field name="snippet">oil. and it helps us deal with some of the dangers posed by climate change. so i want this session to understand, america is going to continue on this course of action to mitigate our emissions</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091013_040000_Hannity#start/1663/end/1698</field>
+<field name="datetime">10/13/2009 4:27:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20091013_040000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091013_040000_Hannity/FOXNEWS_20091013_040000_Hannity.thumbs/FOXNEWS_20091013_040000_Hannity_001650.jpg</field>
+<field name="snippet">-- the mike is not on. sean: that should not come as much of a surprise considering the vanquished vice president didn't think there's room for debate on climate change. i do. the debate is over. there's no global warming. that is the news from</field>
+</doc>
+</add>

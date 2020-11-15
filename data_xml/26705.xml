@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100201_140000_Americas_Newsroom#start/3331/end/3366</field>
+<field name="datetime">2/1/2010 14:55:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20100201_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100201_140000_Americas_Newsroom/FOXNEWS_20100201_140000_Americas_Newsroom.thumbs/FOXNEWS_20100201_140000_Americas_Newsroom_003323.jpg</field>
+<field name="snippet">enough electricity in this country without nuclear generation. reporter: construction is already underway on two new plants in georgia, expected to go online in 2016. thirty more are in the permit process, but the key to more nuclear power in the u.s. is climate change.</field>
+</doc>
+</add>

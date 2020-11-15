@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170819_050000_Hannity#start/1523/end/1558</field>
+<field name="datetime">8/19/2017 5:25:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20170819_050000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170819_050000_Hannity/FOXNEWSW_20170819_050000_Hannity.thumbs/FOXNEWSW_20170819_050000_Hannity_001497.jpg</field>
+<field name="snippet">whether it is climate change or international trade or illegal immigration or fighting terrorism, all of these things -- he has not budged about what his commitments were to the voters.</field>
+</doc>
+</add>

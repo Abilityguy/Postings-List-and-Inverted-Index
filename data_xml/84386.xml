@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190419_050000_Breakfast#start/5485/end/5520</field>
+<field name="datetime">4/19/2019 6:31:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190419_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190419_050000_Breakfast/BBCNEWS_20190419_050000_Breakfast.thumbs/BBCNEWS_20190419_050000_Breakfast_005488.jpg</field>
+<field name="snippet">in the last half hour, climate change protestors have begun to target london's heathrow airport. activists are gathering at the road leading to terminals two and three, but are not causing any disruption at the moment. since monday more than 500 activists have been arrested.</field>
+</doc>
+</add>

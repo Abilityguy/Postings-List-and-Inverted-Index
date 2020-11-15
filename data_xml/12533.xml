@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170713_220000_BBC_News#start/163/end/198</field>
+<field name="datetime">7/13/2017 22:02:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170713_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170713_220000_BBC_News/BBCNEWS_20170713_220000_BBC_News.thumbs/BBCNEWS_20170713_220000_BBC_News_000148.jpg</field>
+<field name="snippet">french influence abroad, has since turned on the charm. and mr trump's comments today on climate change suggest it might be working. something could happen with respect to the paris accord. we'll see what happens.</field>
+</doc>
+</add>

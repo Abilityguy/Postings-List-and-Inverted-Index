@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180807_080000_Victoria_Derbyshire#start/154/end/189</field>
+<field name="datetime">8/7/2018 8:02:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20180807_080000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180807_080000_Victoria_Derbyshire/BBCNEWS_20180807_080000_Victoria_Derbyshire.thumbs/BBCNEWS_20180807_080000_Victoria_Derbyshire_000148.jpg</field>
+<field name="snippet">into climate change. scientists have warned that if global temperatures rise by more than two degrees celsius, extreme temperatures and rising sea levels could be irreversible, and that current plans to cut carbon emissions may not be enough to stop it. 0ur science editor</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181206_110000_FOX__Friends#start/6625/end/6660</field>
+<field name="datetime">12/6/2018 12:50:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20181206_110000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181206_110000_FOX__Friends/FOXNEWSW_20181206_110000_FOX__Friends.thumbs/FOXNEWSW_20181206_110000_FOX__Friends_004976.jpg</field>
+<field name="snippet">schwarzenegger who went to the u.n. summit in poland and called president trump crazy for not believing in climate change, he commuted daily to the governor's mansion when he was governor at the same time touting his global warming bill. a total disconnect between what they claim to be doing</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091201_220000_Glenn_Beck#start/2894/end/2929</field>
+<field name="datetime">12/1/2009 22:48:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20091201_220000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091201_220000_Glenn_Beck/FOXNEWS_20091201_220000_Glenn_Beck.thumbs/FOXNEWS_20091201_220000_Glenn_Beck_002871.jpg</field>
+<field name="snippet">a british climatologists temporarily stepping down pending an allegation that he overstated the case for man-made global warming. earlier, i said this was the hockey stick guys stepping down, but actually, the hockey stick</field>
+</doc>
+</add>

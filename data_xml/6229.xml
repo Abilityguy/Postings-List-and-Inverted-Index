@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_170000_BBC_News_at_Six#start/123/end/158</field>
+<field name="datetime">9/20/2019 17:02:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20190920_170000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_170000_BBC_News_at_Six/BBCNEWS_20190920_170000_BBC_News_at_Six.thumbs/BBCNEWS_20190920_170000_BBC_News_at_Six_000118.jpg</field>
+<field name="snippet">more to save the planet. the teenage activist greta thunberg, who protested alone outside the swedish parliament last year to draw attention to climate change, is tonight leading a march in new york. our correspondent,</field>
+</doc>
+</add>

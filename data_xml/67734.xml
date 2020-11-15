@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190207_020000_BBC_News#start/1714/end/1749</field>
+<field name="datetime">2/7/2019 2:28:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190207_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190207_020000_BBC_News/BBCNEWS_20190207_020000_BBC_News.thumbs/BBCNEWS_20190207_020000_BBC_News_001708.jpg</field>
+<field name="snippet">scientists are warning that global warming may be about to hit a tipping point - a level of temperature rise that could bring rapid and far-reaching changes for our planet. they say without immediate and drastic cuts in greenhouse gas emissions, the world faces unprecedented extremes of weather,</field>
+</doc>
+</add>

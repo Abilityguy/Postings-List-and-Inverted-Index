@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190730_040000_The_Briefing#start/1198/end/1233</field>
+<field name="datetime">7/30/2019 4:20:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20190730_040000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190730_040000_The_Briefing/BBCNEWS_20190730_040000_The_Briefing.thumbs/BBCNEWS_20190730_040000_The_Briefing_001198.jpg</field>
+<field name="snippet">prime minister abiy ahmed led the project, which aims to counter the effects of deforestation and climate change in a country prone to drought. bill hayton reports.</field>
+</doc>
+</add>

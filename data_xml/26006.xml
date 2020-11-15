@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201201.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120106_160000_Happening_Now#start/4710/end/4745</field>
+<field name="datetime">1/6/2012 17:18:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20120106_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120106_160000_Happening_Now/FOXNEWSW_20120106_160000_Happening_Now.thumbs/FOXNEWSW_20120106_160000_Happening_Now_004707.jpg</field>
+<field name="snippet">decades. the epa is ordering heavy trucks sold in the u.s., including trucks made in mexico, to reduce greenhouse gas emissions by up to 20 percent. engines must become more fuel efficient starting with models built in 2014. it basically means virtually every trucker will</field>
+</doc>
+</add>

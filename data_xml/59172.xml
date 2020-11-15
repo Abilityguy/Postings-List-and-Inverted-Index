@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181130_133000_BBC_News#start/204/end/239</field>
+<field name="datetime">11/30/2018 13:33:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181130_133000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181130_133000_BBC_News/BBCNEWS_20181130_133000_BBC_News.thumbs/BBCNEWS_20181130_133000_BBC_News_000207.jpg</field>
+<field name="snippet">the world's most powerful leaders gather in argentina for the g20 summit. but it's clouded by tensions over trade, climate change, and the conflict in ukraine. that's all from the bbc news at one, so it's goodbye from me, and on bbc one we nowjoin the bbc's news teams where you are. good afternoon.</field>
+</doc>
+</add>

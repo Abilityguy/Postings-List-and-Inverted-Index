@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200910.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091027_130000_Morning_Meeting#start/6203/end/6238</field>
+<field name="datetime">10/27/2009 14:43:38</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Meeting</field>
+<field name="showid">MSNBC_20091027_130000_Morning_Meeting</field>
+<field name="preview">https://archive.org/download/MSNBC_20091027_130000_Morning_Meeting/MSNBC_20091027_130000_Morning_Meeting.thumbs/MSNBC_20091027_130000_Morning_Meeting_006180.jpg</field>
+<field name="snippet">right now lawmakers on capitol hill talking climate change. john kerry addressed the committee moments ago. i will say to you the science, senators, is more definitive than ever. the science is screaming at us to take action.</field>
+</doc>
+</add>

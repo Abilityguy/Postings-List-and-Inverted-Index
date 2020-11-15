@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190621_043000_Business_Briefing#start/70/end/105</field>
+<field name="datetime">6/21/2019 4:31:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Business Briefing</field>
+<field name="showid">BBCNEWS_20190621_043000_Business_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190621_043000_Business_Briefing/BBCNEWS_20190621_043000_Business_Briefing.thumbs/BBCNEWS_20190621_043000_Business_Briefing_000058.jpg</field>
+<field name="snippet">we start with climate change because european union leaders have failed to agree a target of zero net greenhouse emissions by 2050. france and germany were among some of the nations pushing for the pledge to go carbon neutral into decades but failed to get unanimous agreement at</field>
+</doc>
+</add>

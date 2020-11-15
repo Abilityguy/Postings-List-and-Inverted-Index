@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201012.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101208_230000_Special_Report_With_Bret_Baier#start/1973/end/2008</field>
+<field name="datetime">12/8/2010 23:33:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20101208_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101208_230000_Special_Report_With_Bret_Baier/FOXNEWS_20101208_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20101208_230000_Special_Report_With_Bret_Baier_001974.jpg</field>
+<field name="snippet">united nations climate negotiators continue to talk in mexico about fighting global warming, as the host city deals with unusually low temperatures. cancun's normal low for this week is 70 degrees.</field>
+</doc>
+</add>

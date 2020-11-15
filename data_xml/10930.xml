@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_040000_The_Briefing#start/153/end/188</field>
+<field name="datetime">8/8/2019 4:02:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20190808_040000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_040000_The_Briefing/BBCNEWS_20190808_040000_The_Briefing.thumbs/BBCNEWS_20190808_040000_The_Briefing_000147.jpg</field>
+<field name="snippet">this sort of low intensity grazing may reduce protein from poor soil, and it does have some environmental benefits but it still creates more greenhouse gases than growing plant protein. scientists meeting here in the alps</field>
+</doc>
+</add>

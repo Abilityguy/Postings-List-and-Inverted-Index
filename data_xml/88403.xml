@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190625_013000_Monday_in_Parliament#start/237/end/272</field>
+<field name="datetime">6/25/2019 1:34:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Monday in Parliament</field>
+<field name="showid">BBCNEWS_20190625_013000_Monday_in_Parliament</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190625_013000_Monday_in_Parliament/BBCNEWS_20190625_013000_Monday_in_Parliament.thumbs/BBCNEWS_20190625_013000_Monday_in_Parliament_000717.jpg</field>
+<field name="snippet">the energy minister said the revised target would be a legally binding commitment to end the uk's contribution to climate change. last year, the intergovernment panel for climate change published a sobering report on the impact of global warming at 1.5 degree centigrade above</field>
+</doc>
+</add>

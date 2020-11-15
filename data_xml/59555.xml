@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201112.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20111202_160000_MSNBC_Live#start/1823/end/1858</field>
+<field name="datetime">12/2/2011 16:30:38</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20111202_160000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20111202_160000_MSNBC_Live/MSNBCW_20111202_160000_MSNBC_Live.thumbs/MSNBCW_20111202_160000_MSNBC_Live_001826.jpg</field>
+<field name="snippet">several years now and i believe as strongly as i can say that this is good business, creates jobs, makes us more energy independent and helps to fight climate change. it's the nearest thing we've got to a free lunch in a tough</field>
+</doc>
+</add>

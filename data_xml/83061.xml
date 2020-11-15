@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191016_170000_BBC_News_at_Six#start/1553/end/1588</field>
+<field name="datetime">10/16/2019 17:26:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20191016_170000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191016_170000_BBC_News_at_Six/BBCNEWS_20191016_170000_BBC_News_at_Six.thumbs/BBCNEWS_20191016_170000_BBC_News_at_Six_001528.jpg</field>
+<field name="snippet">the duke and duchess of cambridge have spent the third day of their royal tour in the hindu kush - a majestic mountain range in pakistan. against the backdrop of a melting glacier prince william drew attention to the challenges of the climate crisis - and called for more action.</field>
+</doc>
+</add>

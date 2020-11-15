@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171227_123000_Great_Explorations#start/580/end/615</field>
+<field name="datetime">12/27/2017 12:39:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Great Explorations</field>
+<field name="showid">BBCNEWS_20171227_123000_Great_Explorations</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171227_123000_Great_Explorations/BBCNEWS_20171227_123000_Great_Explorations.thumbs/BBCNEWS_20171227_123000_Great_Explorations_000568.jpg</field>
+<field name="snippet">they use them to determine the impact climate change has had on the himalayas over the past hundred years. but until now, he's only had a handful of still images from the early expeditions.</field>
+</doc>
+</add>

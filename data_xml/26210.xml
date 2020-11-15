@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201003.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100324_080000_Special_Report_With_Bret_Baier#start/1775/end/1810</field>
+<field name="datetime">3/24/2010 8:29:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100324_080000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100324_080000_Special_Report_With_Bret_Baier/FOXNEWS_20100324_080000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100324_080000_Special_Report_With_Bret_Baier_001764.jpg</field>
+<field name="snippet">livestock play in global warming. a new jersey town is barking mad. a local tv station reports a city ordinance about incessant dog barking between 8:00 p.m. and 8:00 a.m. has been expanded to include barking around the</field>
+</doc>
+</add>

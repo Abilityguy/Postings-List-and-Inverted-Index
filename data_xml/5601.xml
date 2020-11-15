@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190928_030000_BBC_News#start/1256/end/1291</field>
+<field name="datetime">9/28/2019 3:21:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190928_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190928_030000_BBC_News/BBCNEWS_20190928_030000_BBC_News.thumbs/BBCNEWS_20190928_030000_BBC_News_001257.jpg</field>
+<field name="snippet">the canadian prime minister, justin trudeau. she told him - and other world leaders - that they were not doing enough to curb greenhouse gas emissions.</field>
+</doc>
+</add>

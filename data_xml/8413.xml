@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190905_220000_Special_Report_With_Bret_Baier#start/2680/end/2715</field>
+<field name="datetime">9/5/2019 22:44:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20190905_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190905_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20190905_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20190905_220000_Special_Report_With_Bret_Baier_002669.jpg</field>
+<field name="snippet">an awful lot of people were going to have trouble getting elected in places like ohio, pennsylvania, michigan, iowa, the entire midwest. bret: but that issue is big. climate change is huge and the young people want to vote</field>
+</doc>
+</add>

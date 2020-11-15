@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091017_230000_FOX_Report#start/103/end/138</field>
+<field name="datetime">10/17/2009 23:01:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report</field>
+<field name="showid">FOXNEWS_20091017_230000_FOX_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091017_230000_FOX_Report/FOXNEWS_20091017_230000_FOX_Report.thumbs/FOXNEWS_20091017_230000_FOX_Report_000090.jpg</field>
+<field name="snippet">also, war games near the russian border. going below the waves to protest climate change. three, two, one. julie: and look out below! thousands gather to watch what's being called the</field>
+</doc>
+</add>

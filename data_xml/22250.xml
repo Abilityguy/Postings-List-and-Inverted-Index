@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201203.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120315_210000_The_Five#start/2905/end/2940</field>
+<field name="datetime">3/15/2012 21:48:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20120315_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120315_210000_The_Five/FOXNEWSW_20120315_210000_The_Five.thumbs/FOXNEWSW_20120315_210000_The_Five_002850.jpg</field>
+<field name="snippet">an analysis claims today's young americans are less green than their elders. how could this be? weren't they the ones who embraced global warming as scripture and solar and wind power could cure all our ills, including toenail fungus, which is also green? maybe when you get push toad</field>
+</doc>
+</add>

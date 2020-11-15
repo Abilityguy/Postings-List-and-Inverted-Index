@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181124_200000_BBC_News#start/1346/end/1381</field>
+<field name="datetime">11/24/2018 20:22:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181124_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181124_200000_BBC_News/BBCNEWS_20181124_200000_BBC_News.thumbs/BBCNEWS_20181124_200000_BBC_News_001347.jpg</field>
+<field name="snippet">people from all political backgrounds, all parts of france, but it is a movement with no national leader, no formal structure, its membership and its identity hard to control. a us government report has warned that climate change will cost</field>
+</doc>
+</add>

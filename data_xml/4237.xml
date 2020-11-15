@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201302.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130218_230000_Special_Report_With_Bret_Baier#start/3349/end/3384</field>
+<field name="datetime">2/18/2013 23:56:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20130218_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130218_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20130218_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20130218_230000_Special_Report_With_Bret_Baier_003345.jpg</field>
+<field name="snippet">should be president obama's effort and his legacy to limit greenhouse gases that are causing global warming. i think right now it's just what you heard te the from canada say.</field>
+</doc>
+</add>

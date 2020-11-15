@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201807.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180726_200000_Outside_Source#start/3163/end/3198</field>
+<field name="datetime">7/26/2018 20:52:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20180726_200000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180726_200000_Outside_Source/BBCNEWS_20180726_200000_Outside_Source.thumbs/BBCNEWS_20180726_200000_Outside_Source_003147.jpg</field>
+<field name="snippet">looked at data from different things, 15 criteria for things that humans do, fishing, pollution, climate change, and they analysed data from all over the world from studies that had been done before and put it together to create this map. tell us where these areas are.</field>
+</doc>
+</add>

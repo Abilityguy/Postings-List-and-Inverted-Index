@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190509_080000_BBC_News_at_Nine#start/667/end/702</field>
+<field name="datetime">5/9/2019 8:11:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190509_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190509_080000_BBC_News_at_Nine/BBCNEWS_20190509_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190509_080000_BBC_News_at_Nine_000658.jpg</field>
+<field name="snippet">methods for better protecting communities against flooding and climate change. house-building on flood plains to cope with the uk's growing population will mean properties built there will double over the next 50</field>
+</doc>
+</add>

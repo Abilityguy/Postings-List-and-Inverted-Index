@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200911.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091120_140000_Morning_Meeting#start/5006/end/5041</field>
+<field name="datetime">11/20/2009 15:23:41</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Meeting</field>
+<field name="showid">MSNBC_20091120_140000_Morning_Meeting</field>
+<field name="preview">https://archive.org/download/MSNBC_20091120_140000_Morning_Meeting/MSNBC_20091120_140000_Morning_Meeting.thumbs/MSNBC_20091120_140000_Morning_Meeting_005010.jpg</field>
+<field name="snippet">general brent snowcroft: because climate change threatens our national security. rev. c. douglas smith: we have a responsibility to protect god's creation. ted turner: because i want jobs that are made in america. indra nooyi: because some of america's most trusted companies know clean energy will create new industries and new jobs.</field>
+</doc>
+</add>

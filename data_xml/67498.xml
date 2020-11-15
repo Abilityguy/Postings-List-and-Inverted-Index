@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140513_200000_NOW_With_Alex_Wagner#start/2930/end/2965</field>
+<field name="datetime">5/13/2014 20:49:05</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20140513_200000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140513_200000_NOW_With_Alex_Wagner/MSNBCW_20140513_200000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20140513_200000_NOW_With_Alex_Wagner_002926.jpg</field>
+<field name="snippet">thanks so much for joining me. you heard senator sanders there. here is -- the voice of clarity. exactly. from your perspective, you know, i feel like we are talking more about climate change than we have in several election cycles.</field>
+</doc>
+</add>

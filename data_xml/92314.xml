@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200911.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091125_110000_Morning_Joe#start/2370/end/2405</field>
+<field name="datetime">11/25/2009 11:39:45</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20091125_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20091125_110000_Morning_Joe/MSNBC_20091125_110000_Morning_Joe.thumbs/MSNBC_20091125_110000_Morning_Joe_002370.jpg</field>
+<field name="snippet">should be taken at all. adding fuel to the debate on climate change, britain's telegraph newspaper released a series of e-mails from prominent scientists who promote global warming theories, and one of those damaging alleged e-mails</field>
+</doc>
+</add>

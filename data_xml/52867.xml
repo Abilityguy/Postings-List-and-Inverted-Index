@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180609_110000_BBC_News#start/628/end/663</field>
+<field name="datetime">6/9/2018 11:10:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180609_110000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180609_110000_BBC_News/BBCNEWS_20180609_110000_BBC_News.thumbs/BBCNEWS_20180609_110000_BBC_News_000627.jpg</field>
+<field name="snippet">climate change, iran and the israel-palestinian conflict. germany's chancellor angela merkel is one of those suggesting it may be impossible to agree a final summit communique. it's more honest, she said, to name the differing views and try to overcome them than try to pretend everything is ok.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201501.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150124_220000_The_Five#start/1768/end/1803</field>
+<field name="datetime">1/24/2015 22:29:43</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20150124_220000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150124_220000_The_Five/FOXNEWSW_20150124_220000_The_Five.thumbs/FOXNEWSW_20150124_220000_The_Five_001755.jpg</field>
+<field name="snippet">it is a week of talking about the economic issues that trouble the world but 1700 private planes one thing they talk about is climate change. that carbon footprint has to be bigger than most things.</field>
+</doc>
+</add>

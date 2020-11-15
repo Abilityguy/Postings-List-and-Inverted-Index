@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201610.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161005_190000_Shepard_Smith_Reporting#start/1805/end/1840</field>
+<field name="datetime">10/5/2016 19:30:20</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20161005_190000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161005_190000_Shepard_Smith_Reporting/FOXNEWSW_20161005_190000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20161005_190000_Shepard_Smith_Reporting_001797.jpg</field>
+<field name="snippet">hurricane. take a look there. tomorrow afternoon, shep, we have tropical storm winds onshore in florida. rick, thank you. fox news palert. president obama speaking live at the white house, land mark paris agreement on climate change.</field>
+</doc>
+</add>

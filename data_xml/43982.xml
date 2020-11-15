@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151212_120000_Weekends_With_Alex_Witt#start/830/end/865</field>
+<field name="datetime">12/12/2015 12:14:05</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20151212_120000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151212_120000_Weekends_With_Alex_Witt/MSNBCW_20151212_120000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20151212_120000_Weekends_With_Alex_Witt_000825.jpg</field>
+<field name="snippet">thanks so much. a quick update now on one of the top stories. in just this past hour, world leaders in paris have released a draft of the potentially ground breaking plan to fight climate change. right now, delegates are looking over the plan. they will officially vote on it in a few hours.</field>
+</doc>
+</add>

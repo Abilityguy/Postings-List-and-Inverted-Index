@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201012.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101230_210000_Your_World_With_Neil_Cavuto#start/2556/end/2591</field>
+<field name="datetime">12/30/2010 21:42:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWS_20101230_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101230_210000_Your_World_With_Neil_Cavuto/FOXNEWS_20101230_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWS_20101230_210000_Your_World_With_Neil_Cavuto_002424.jpg</field>
+<field name="snippet">truck sales are hot. small car sales are not. why washington's push to go green could be hitting a red light. stay tuned. texas getting testy over greenhouse gas emissions</field>
+</doc>
+</add>

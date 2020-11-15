@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201301.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130126_130000_Up_W_Chris_Hayes#start/145/end/180</field>
+<field name="datetime">1/26/2013 13:02:40</field>
+<field name="station">MSNBC</field>
+<field name="show">Up W Chris Hayes</field>
+<field name="showid">MSNBCW_20130126_130000_Up_W_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130126_130000_Up_W_Chris_Hayes/MSNBCW_20130126_130000_Up_W_Chris_Hayes.thumbs/MSNBCW_20130126_130000_Up_W_Chris_Hayes_000135.jpg</field>
+<field name="snippet">we will respond to the threat of climate change. knowing that the failure to do so would betray our children and future generations. some may still deny the overwhelming judgment of science but none can avoid the</field>
+</doc>
+</add>

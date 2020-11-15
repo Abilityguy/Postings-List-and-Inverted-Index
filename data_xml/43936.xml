@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151201_200000_MSNBC_Live_With_Kate_Snow#start/4771/end/4806</field>
+<field name="datetime">12/1/2015 21:19:46</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Kate Snow</field>
+<field name="showid">MSNBCW_20151201_200000_MSNBC_Live_With_Kate_Snow</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151201_200000_MSNBC_Live_With_Kate_Snow/MSNBCW_20151201_200000_MSNBC_Live_With_Kate_Snow.thumbs/MSNBCW_20151201_200000_MSNBC_Live_With_Kate_Snow_004755.jpg</field>
+<field name="snippet">you for being with us. thank you. coming up, president obama has strong words on the issue of climate change, calling it a national security concern. he's now headed back to d.c. but we'll go live to paris where the summit is still well under way. up next.</field>
+</doc>
+</add>

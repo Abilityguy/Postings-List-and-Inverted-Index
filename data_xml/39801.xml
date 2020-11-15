@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091117_180000_The_Live_Desk#start/6110/end/6145</field>
+<field name="datetime">11/17/2009 19:42:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Live Desk</field>
+<field name="showid">FOXNEWS_20091117_180000_The_Live_Desk</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091117_180000_The_Live_Desk/FOXNEWS_20091117_180000_The_Live_Desk.thumbs/FOXNEWS_20091117_180000_The_Live_Desk_006107.jpg</field>
+<field name="snippet">that the bush administration tried to silence views on global warming a few years ago, and another scientist claims that they were not listening. obama's epa is answering some of their own climate experts for</field>
+</doc>
+</add>

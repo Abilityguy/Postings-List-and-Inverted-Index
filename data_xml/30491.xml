@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.202001.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20200118_190000_MSNBC_Live_with_David_Gura#start/5345/end/5380</field>
+<field name="datetime">1/18/2020 20:29:20</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live with David Gura</field>
+<field name="showid">MSNBCW_20200118_190000_MSNBC_Live_with_David_Gura</field>
+<field name="preview">https://archive.org/download/MSNBCW_20200118_190000_MSNBC_Live_with_David_Gura/MSNBCW_20200118_190000_MSNBC_Live_with_David_Gura.thumbs/MSNBCW_20200118_190000_MSNBC_Live_with_David_Gura_005337.jpg</field>
+<field name="snippet">fourth annual women's march. while crowds were a bit smaller, organizers hope their message remains strong in 2020. election issues were front and center with speakers focusing on climate change, immigration and reproduction rights.</field>
+</doc>
+</add>

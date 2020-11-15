@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201807.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180712_030000_BBC_News#start/806/end/841</field>
+<field name="datetime">7/12/2018 3:13:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180712_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180712_030000_BBC_News/BBCNEWS_20180712_030000_BBC_News.thumbs/BBCNEWS_20180712_030000_BBC_News_000807.jpg</field>
+<field name="snippet">unpredictable weather caused by climate change. japan is one of the best-prepared countries in the world when it comes to disaster risk reduction, disaster response. they are supremely well prepared, and so the magnitude of the casualties of the destruction that we're seeing now really is an indication ofjust how big and how extreme this was. nearly 200 people have died.</field>
+</doc>
+</add>

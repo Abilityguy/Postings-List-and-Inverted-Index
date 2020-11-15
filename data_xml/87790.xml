@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191227_110000_BBC_News#start/23/end/58</field>
+<field name="datetime">12/27/2019 11:00:38</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191227_110000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191227_110000_BBC_News/BBCNEWS_20191227_110000_BBC_News.thumbs/BBCNEWS_20191227_110000_BBC_News_000057.jpg</field>
+<field name="snippet">in a hotel swimming pool in spain on christmas eve. free hospital parking in england for some patients and visitors from april - but questions are raised over how it will be funded. the national trust says climate change has led to an increase</field>
+</doc>
+</add>

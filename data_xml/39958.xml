@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091117_160000_Happening_Now#start/451/end/486</field>
+<field name="datetime">11/17/2009 16:07:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091117_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091117_160000_Happening_Now/FOXNEWS_20091117_160000_Happening_Now.thumbs/FOXNEWS_20091117_160000_Happening_Now_000450.jpg</field>
+<field name="snippet">jane: trying to pull the country out of the recession, obama in china working together, as well as on climate change and energy issues. leaders are not shying away from these issues. mike, a little bit about these</field>
+</doc>
+</add>

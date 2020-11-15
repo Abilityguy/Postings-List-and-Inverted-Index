@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201012.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101221_110000_FOX_and_Friends#start/8344/end/8379</field>
+<field name="datetime">12/21/2010 13:19:19</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20101221_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101221_110000_FOX_and_Friends/FOXNEWS_20101221_110000_FOX_and_Friends.thumbs/FOXNEWS_20101221_110000_FOX_and_Friends_008340.jpg</field>
+<field name="snippet">we've seen them try things on quiet mornings like september 11. but they're trying all the time. we have to be on our game all the time. here is my problem. last week, the secretary of homeland security said one of the most important things we're working on is global warming.</field>
+</doc>
+</add>

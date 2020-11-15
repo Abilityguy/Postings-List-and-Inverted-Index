@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201611.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161122_200000_Shepard_Smith_Reporting#start/969/end/1004</field>
+<field name="datetime">11/22/2016 20:16:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20161122_200000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161122_200000_Shepard_Smith_Reporting/FOXNEWSW_20161122_200000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20161122_200000_Shepard_Smith_Reporting_000958.jpg</field>
+<field name="snippet">life-saving medical care to millions, boosting clean water supplies, improving education for our children, rallying aggressive international action on climate change, cutting childhood mortality in half, the</field>
+</doc>
+</add>

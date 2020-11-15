@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201212.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121224_200000_Stossel#start/47/end/82</field>
+<field name="datetime">12/24/2012 20:01:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Stossel</field>
+<field name="showid">FOXNEWSW_20121224_200000_Stossel</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121224_200000_Stossel/FOXNEWSW_20121224_200000_Stossel.thumbs/FOXNEWSW_20121224_200000_Stossel_000045.jpg</field>
+<field name="snippet">right now. biological attack is possible. swine flu panic grips the nation. climate change is killing people. the media says life is horrible. poverty has reached new depths. but the media missed the big</field>
+</doc>
+</add>

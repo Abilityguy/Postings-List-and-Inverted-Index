@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201804.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180425_160000_BBC_News_at_Five#start/970/end/1005</field>
+<field name="datetime">4/25/2018 16:16:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20180425_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180425_160000_BBC_News_at_Five/BBCNEWS_20180425_160000_BBC_News_at_Five.thumbs/BBCNEWS_20180425_160000_BBC_News_at_Five_000957.jpg</field>
+<field name="snippet">macron has warned that rampaging nationalism is threatening global prosperity in a rare speech by a foreign leader to both houses of the us congress. he also appealed to president trump not to abandon efforts to tackle climate change</field>
+</doc>
+</add>

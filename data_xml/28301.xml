@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201901.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190101_010000_All_In_With_Chris_Hayes#start/2319/end/2354</field>
+<field name="datetime">1/1/2019 1:38:54</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20190101_010000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190101_010000_All_In_With_Chris_Hayes/MSNBCW_20190101_010000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20190101_010000_All_In_With_Chris_Hayes_002307.jpg</field>
+<field name="snippet">in-house do something. in some ways i get they have a lot on their plate, they're swimming upstream. in the area of climate change, the fact this is a u.s. territory, it is in the caribbean ocean in a warming world.</field>
+</doc>
+</add>

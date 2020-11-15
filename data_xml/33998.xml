@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091203_230000_Special_Report_With_Bret_Baier#start/1930/end/1965</field>
+<field name="datetime">12/3/2009 23:32:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091203_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091203_230000_Special_Report_With_Bret_Baier/FOXNEWS_20091203_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091203_230000_Special_Report_With_Bret_Baier_001914.jpg</field>
+<field name="snippet">shoats, according to media research center, even with president obama heading to a climate change summit in copenhagen next week. from the 'our stimulus dollars at work' file, will increasing your taxes trim your waist line?</field>
+</doc>
+</add>

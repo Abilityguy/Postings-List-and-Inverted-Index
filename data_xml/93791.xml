@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190714_060000_Breakfast#start/1128/end/1163</field>
+<field name="datetime">7/14/2019 6:19:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190714_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190714_060000_Breakfast/BBCNEWS_20190714_060000_Breakfast.thumbs/BBCNEWS_20190714_060000_Breakfast_001618.jpg</field>
+<field name="snippet">this week on the show. saving the great barrier reef. this is just part of the solution. we have to restore coral populations, but we also have to manage climate change. .rv adventures in the states. and a long weekend in london. our local guru's got</field>
+</doc>
+</add>

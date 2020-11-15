@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170724_030000_BBC_News#start/1375/end/1410</field>
+<field name="datetime">7/24/2017 3:23:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170724_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170724_030000_BBC_News/BBCNEWS_20170724_030000_BBC_News.thumbs/BBCNEWS_20170724_030000_BBC_News_001348.jpg</field>
+<field name="snippet">to combat climate change. this monumental kit comes dear, but the price should fall. we think that this is a game-changer, this project, for enabling us in the future to reduce the cost, and develop the wind farms</field>
+</doc>
+</add>

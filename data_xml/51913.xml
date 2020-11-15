@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181216_010000_BBC_News#start/119/end/154</field>
+<field name="datetime">12/16/2018 1:02:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181216_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181216_010000_BBC_News/BBCNEWS_20181216_010000_BBC_News.thumbs/BBCNEWS_20181216_010000_BBC_News_000118.jpg</field>
+<field name="snippet">more climate action? the hope is for a transition to cleaner forms of energy, like solar power. the deal in poland may encourage that. the world is responding to the threat of global warming but not nearly with the speed that scientists say is needed. there have been clashes</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190305_050000_Tucker_Carlson_Tonight#start/1868/end/1903</field>
+<field name="datetime">3/5/2019 5:31:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190305_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190305_050000_Tucker_Carlson_Tonight/FOXNEWSW_20190305_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190305_050000_Tucker_Carlson_Tonight_001857.jpg</field>
+<field name="snippet">we have to address factory farming. maybe we should not be eating hamburgers for breakfast, lunch and dinner. the world will end in 12 years if we don't address climate change. your biggest issue is how are we going to pay for it?</field>
+</doc>
+</add>

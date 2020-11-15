@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190518_000000_Tucker_Carlson_Tonight#start/1965/end/2000</field>
+<field name="datetime">5/18/2019 0:33:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190518_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190518_000000_Tucker_Carlson_Tonight/FOXNEWSW_20190518_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190518_000000_Tucker_Carlson_Tonight_001948.jpg</field>
+<field name="snippet">how upset or not of you of climate change? well, there are reasons for concern. there are reasons to try to better understand it. i don't -- any predictions of warming in the 21st</field>
+</doc>
+</add>

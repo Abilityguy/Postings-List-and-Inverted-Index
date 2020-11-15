@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190307_060000_Breakfast#start/6708/end/6743</field>
+<field name="datetime">3/7/2019 7:52:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190307_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190307_060000_Breakfast/BBCNEWS_20190307_060000_Breakfast.thumbs/BBCNEWS_20190307_060000_Breakfast_006688.jpg</field>
+<field name="snippet">buckets are helping to shape global decisions on climate change. if you'd like to volunteer to transcribe the log books seen in richard's report - you can do so by visiting 'southern weather discovery dot org'</field>
+</doc>
+</add>

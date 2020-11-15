@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201501.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150124_230000_Americas_News_Headquarters#start/206/end/241</field>
+<field name="datetime">1/24/2015 23:03:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20150124_230000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150124_230000_Americas_News_Headquarters/FOXNEWSW_20150124_230000_Americas_News_Headquarters.thumbs/FOXNEWSW_20150124_230000_Americas_News_Headquarters_000195.jpg</field>
+<field name="snippet">now in these kind of executive moves. so we're already hearing from indian officials that they're getting the word from the white house that they may not have enough running room to really get a climate change deal and might have to focus on getting trade deals and get momentum</field>
+</doc>
+</add>

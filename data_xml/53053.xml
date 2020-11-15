@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201111.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20111114_110000_Morning_Joe#start/5902/end/5937</field>
+<field name="datetime">11/14/2011 12:38:37</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20111114_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20111114_110000_Morning_Joe/MSNBCW_20111114_110000_Morning_Joe.thumbs/MSNBCW_20111114_110000_Morning_Joe_005877.jpg</field>
+<field name="snippet">56, you were at 70 yesterday. what a beautiful sunday it was for you. there's nothing too dramatic out there. this is a nice, quiet weather week and that's the way we like it. well, still ahead, a leading scientist whose highly anticipated study is shaking the conversation over climate</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091210_040000_The_OReilly_Factor#start/780/end/815</field>
+<field name="datetime">12/10/2009 4:13:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20091210_040000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091210_040000_The_OReilly_Factor/FOXNEWS_20091210_040000_The_OReilly_Factor.thumbs/FOXNEWS_20091210_040000_The_OReilly_Factor_000780.jpg</field>
+<field name="snippet">response, al gore said this about global warming. they have worked intensively for 20 years with in this process and they say the evidence is unequivocal. 150 years ago this year was the discovery that co2 traps heat. that is a principle in physics. it is not a question of debate. it is like gravity. it exists. bill: there is evidence the global warming industry is not telling the whole truth.</field>
+</doc>
+</add>

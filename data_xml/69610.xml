@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201611.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161122_220000_MTP_Daily#start/160/end/195</field>
+<field name="datetime">11/22/2016 22:02:55</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20161122_220000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161122_220000_MTP_Daily/MSNBCW_20161122_220000_MTP_Daily.thumbs/MSNBCW_20161122_220000_MTP_Daily_000147.jpg</field>
+<field name="snippet">todd. welcome to 'mtp daily' this is not the donald trump from rallies. at the big interview, trump backed off pledges and signals an openness to keep the u.s. climate change in paris.</field>
+</doc>
+</add>

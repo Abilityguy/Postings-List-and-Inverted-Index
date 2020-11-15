@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191127_110000_Morning_Joe#start/10548/end/10583</field>
+<field name="datetime">11/27/2019 13:56:03</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20191127_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191127_110000_Morning_Joe/MSNBCW_20191127_110000_Morning_Joe.thumbs/MSNBCW_20191127_110000_Morning_Joe_010529.jpg</field>
+<field name="snippet">today, he'd be celebrating the black lives matter movement. he would be standing alongside our neighbors, especially who are immigrants and refugees. he would be fiercely defending the planet from global warming.</field>
+</doc>
+</add>

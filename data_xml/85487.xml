@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201011.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101108_070000_Meet_the_Press#start/2380/end/2415</field>
+<field name="datetime">11/8/2010 7:39:55</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBC_20101108_070000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBC_20101108_070000_Meet_the_Press/MSNBC_20101108_070000_Meet_the_Press.thumbs/MSNBC_20101108_070000_Meet_the_Press_002364.jpg</field>
+<field name="snippet">opportunity for our people to confronting terrorism and violent extremism, from preventing the spread of nuclear weapons to addressing climate change, from the development that gives people and nations a path out of poverty, to</field>
+</doc>
+</add>

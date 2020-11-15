@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.202001.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20200112_040000_The_11th_Hour_With_Brian_Williams#start/1611/end/1646</field>
+<field name="datetime">1/12/2020 4:27:06</field>
+<field name="station">MSNBC</field>
+<field name="show">The 11th Hour With Brian Williams</field>
+<field name="showid">MSNBCW_20200112_040000_The_11th_Hour_With_Brian_Williams</field>
+<field name="preview">https://archive.org/download/MSNBCW_20200112_040000_The_11th_Hour_With_Brian_Williams/MSNBCW_20200112_040000_The_11th_Hour_With_Brian_Williams.thumbs/MSNBCW_20200112_040000_The_11th_Hour_With_Brian_Williams_001589.jpg</field>
+<field name="snippet">the world, and also the country that had the most ability to do good, to fight climate change, to spread democracy, to do all kinds of things that we think are virtuous in international affairs.</field>
+</doc>
+</add>

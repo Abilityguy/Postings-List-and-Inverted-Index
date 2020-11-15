@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201012.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101213_230000_The_Ed_Show#start/1729/end/1764</field>
+<field name="datetime">12/13/2010 23:29:04</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBC_20101213_230000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20101213_230000_The_Ed_Show/MSNBC_20101213_230000_The_Ed_Show.thumbs/MSNBC_20101213_230000_The_Ed_Show_001705.jpg</field>
+<field name="snippet">tonight, all of the wintry weather across the middle of the country is giving the righties their yearly excuse to rail against global warming, here we go again, and as usual they're ignoring all of the facts like a nasa study saying that 2010 will likely be the hottest year on</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170529_190000_Shepard_Smith_Reporting#start/1970/end/2005</field>
+<field name="datetime">5/29/2017 19:33:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20170529_190000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170529_190000_Shepard_Smith_Reporting/FOXNEWSW_20170529_190000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20170529_190000_Shepard_Smith_Reporting_001947.jpg</field>
+<field name="snippet">rich edson with more. hi, rich. angela merkel is now working with the president of the united states potentially at odds with european positions on climate change, one what has pushed for trade barriers and openly complained of the trade imbalance between the u.s. and</field>
+</doc>
+</add>

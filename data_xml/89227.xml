@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190615_010000_BBC_News#start/650/end/685</field>
+<field name="datetime">6/15/2019 1:11:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190615_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190615_010000_BBC_News/BBCNEWS_20190615_010000_BBC_News.thumbs/BBCNEWS_20190615_010000_BBC_News_000628.jpg</field>
+<field name="snippet">crisis, and especially climate change, threatens the very future of this human family, and this is not an exaggeration. for too long we have collectively failed to listen to the fruits of scientific analysis, and doomsday predictions can no longer be met with irony or disdain.</field>
+</doc>
+</add>

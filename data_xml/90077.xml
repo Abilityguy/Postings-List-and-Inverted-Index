@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200910.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091011_130000_MSNBC_News_Live#start/1203/end/1238</field>
+<field name="datetime">10/11/2009 13:20:18</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091011_130000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091011_130000_MSNBC_News_Live/MSNBC_20091011_130000_MSNBC_News_Live.thumbs/MSNBC_20091011_130000_MSNBC_News_Live_001193.jpg</field>
+<field name="snippet">to a question of whether cap and trade and all the other global warming issues can be resolved or health care. it will be, really, only so much time that the congress has right now. okay, bob franken, great to talk to you, as always.</field>
+</doc>
+</add>

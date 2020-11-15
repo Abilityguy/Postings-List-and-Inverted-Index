@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_110000_BBC_Newsroom_Live#start/6159/end/6194</field>
+<field name="datetime">1/17/2020 12:42:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20200117_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_110000_BBC_Newsroom_Live/BBCNEWS_20200117_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20200117_110000_BBC_Newsroom_Live_006147.jpg</field>
+<field name="snippet">the year looking at climate change and what you can do and if you want to find out more about that right now you can go to our website or the bbc news app. much more from us throughout the day but now let's go</field>
+</doc>
+</add>

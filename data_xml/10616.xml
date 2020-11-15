@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201511.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151129_110000_Fox_and_Friends_Sunday#start/1702/end/1737</field>
+<field name="datetime">11/29/2015 11:28:37</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20151129_110000_Fox_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151129_110000_Fox_and_Friends_Sunday/FOXNEWSW_20151129_110000_Fox_and_Friends_Sunday.thumbs/FOXNEWSW_20151129_110000_Fox_and_Friends_Sunday_001695.jpg</field>
+<field name="snippet">great to see you this morning. thanks for joining us. you bet, tucker. still ahead, how do you defeat isis? why don't you hold a climate change conference? that might do it. what a powerful rebuke to the terrorists it will be when the world stands as one as shows</field>
+</doc>
+</add>

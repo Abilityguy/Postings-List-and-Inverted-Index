@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190813_200000_Outside_Source#start/3236/end/3271</field>
+<field name="datetime">8/13/2019 20:54:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20190813_200000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190813_200000_Outside_Source/BBCNEWS_20190813_200000_Outside_Source.thumbs/BBCNEWS_20190813_200000_Outside_Source_003208.jpg</field>
+<field name="snippet">the boat's electricity is from solar panels and turbines. the emissions of greenhouse gases haven't gone down, scientific studies show that around the year 2020, the emission curve must be rounded down if we are to have a chance to stay below the 1.5</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190418_180000_Beyond_100_Days#start/2718/end/2753</field>
+<field name="datetime">4/18/2019 18:45:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20190418_180000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190418_180000_Beyond_100_Days/BBCNEWS_20190418_180000_Beyond_100_Days.thumbs/BBCNEWS_20190418_180000_Beyond_100_Days_002698.jpg</field>
+<field name="snippet">investigation that they might choose to undertake would take a long time, certainly beyond next year's collection. this is beyond 100 days. still to come: we'll have the latest on the climate change protests in london as they continue into a fourth day.</field>
+</doc>
+</add>

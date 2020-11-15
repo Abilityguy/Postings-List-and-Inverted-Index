@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191008_030000_BBC_News#start/26/end/61</field>
+<field name="datetime">10/8/2019 3:00:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191008_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191008_030000_BBC_News/BBCNEWS_20191008_030000_BBC_News.thumbs/BBCNEWS_20191008_030000_BBC_News_000028.jpg</field>
+<field name="snippet">hundreds of arrests as activists worldwide begin a two-week campaign of disruption, demanding action on climate change. the fallout from hong kong's demonstrations reaches the basketball courts of america, igniting a debate about free speech</field>
+</doc>
+</add>

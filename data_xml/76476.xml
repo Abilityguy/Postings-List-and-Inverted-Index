@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190505_070000_Breakfast_BBC_News_Channel#start/1344/end/1379</field>
+<field name="datetime">5/5/2019 7:22:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast BBC News Channel</field>
+<field name="showid">BBCNEWS_20190505_070000_Breakfast_BBC_News_Channel</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190505_070000_Breakfast_BBC_News_Channel/BBCNEWS_20190505_070000_Breakfast_BBC_News_Channel.thumbs/BBCNEWS_20190505_070000_Breakfast_BBC_News_Channel_001348.jpg</field>
+<field name="snippet">dame emma thompson for flying to new york afterjoining the recent climate change protests in london. it also prints childhood photos of meghan markle as she herself waits for her baby to be born.</field>
+</doc>
+</add>

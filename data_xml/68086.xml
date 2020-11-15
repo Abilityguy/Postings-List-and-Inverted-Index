@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190216_030000_BBC_News#start/1222/end/1257</field>
+<field name="datetime">2/16/2019 3:20:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190216_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190216_030000_BBC_News/BBCNEWS_20190216_030000_BBC_News.thumbs/BBCNEWS_20190216_030000_BBC_News_001227.jpg</field>
+<field name="snippet">the government has said today's protests are a waste of lesson time and increasing teachers' workload, but the threat of school disciplinary action pales in significance to the danger these youngsters think the planet is under from climate change. engineers say they've successfully</field>
+</doc>
+</add>

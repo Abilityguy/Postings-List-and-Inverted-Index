@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201208.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120812_160000_Weekends_With_Alex_Witt#start/1103/end/1138</field>
+<field name="datetime">8/12/2012 16:18:38</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20120812_160000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120812_160000_Weekends_With_Alex_Witt/MSNBCW_20120812_160000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20120812_160000_Weekends_With_Alex_Witt_001080.jpg</field>
+<field name="snippet">much of the u.s. and that in conjunction with global warming and climate change is why you're seeing sort of this perfect storm, if you will, of drought and heat. now, i want to show our viewers this map about the drought across the country.</field>
+</doc>
+</add>

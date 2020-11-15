@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200118_060000_Breakfast#start/580/end/615</field>
+<field name="datetime">1/18/2020 6:09:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20200118_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200118_060000_Breakfast/BBCNEWS_20200118_060000_Breakfast.thumbs/BBCNEWS_20200118_060000_Breakfast_000567.jpg</field>
+<field name="snippet">-- measures the gases. so that one is methane, that one is c02, and you can see them jump when the bucket is placed on the water. exactly. i think it would surprise people that freshwater is a source of greenhouse gases. how much do they contain?</field>
+</doc>
+</add>

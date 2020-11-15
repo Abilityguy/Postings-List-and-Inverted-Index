@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190925_210000_BBC_News_at_Ten#start/1474/end/1509</field>
+<field name="datetime">9/25/2019 21:24:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20190925_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190925_210000_BBC_News_at_Ten/BBCNEWS_20190925_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20190925_210000_BBC_News_at_Ten_001468.jpg</field>
+<field name="snippet">scientists have delivered another stark assessment, of the global impact of climate change, warning that the world's seas and frozen areas are being threatened as never before. they say if nothing is done to limit carbon emissions, sea levels could rise by more than a metre, on average, by the end of the century.</field>
+</doc>
+</add>

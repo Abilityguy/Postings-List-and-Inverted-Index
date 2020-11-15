@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190506_190000_Shepard_Smith_Reporting#start/2784/end/2819</field>
+<field name="datetime">5/6/2019 19:46:39</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20190506_190000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190506_190000_Shepard_Smith_Reporting/FOXNEWSW_20190506_190000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20190506_190000_Shepard_Smith_Reporting_002758.jpg</field>
+<field name="snippet">representatives from 109 countries including united states approved the report. eric shawn with more. explain what this report uncovered. there's alarming predictions from the united nations on the impact of climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171203_163000_Nico_Rosberg#start/1199/end/1234</field>
+<field name="datetime">12/3/2017 16:50:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Nico Rosberg</field>
+<field name="showid">BBCNEWS_20171203_163000_Nico_Rosberg</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171203_163000_Nico_Rosberg/BBCNEWS_20171203_163000_Nico_Rosberg.thumbs/BBCNEWS_20171203_163000_Nico_Rosberg_001198.jpg</field>
+<field name="snippet">something with them now. one thing is that of course being passionate about cars, cars are going to change our planet very soon and mobility in general. it will revolutionise our lives. so we are going to electric cars which in the long-term will also improve emissions and global warming and all that.</field>
+</doc>
+</add>

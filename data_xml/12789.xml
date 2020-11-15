@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170711_013000_Monday_in_Parliament#start/68/end/103</field>
+<field name="datetime">7/11/2017 1:31:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Monday in Parliament</field>
+<field name="showid">BBCNEWS_20170711_013000_Monday_in_Parliament</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170711_013000_Monday_in_Parliament/BBCNEWS_20170711_013000_Monday_in_Parliament.thumbs/BBCNEWS_20170711_013000_Monday_in_Parliament_000058.jpg</field>
+<field name="snippet">the main news from westminster: after the 620 summit, the prime minister is confident about the uk's position in the world - but dismayed at america's position on climate change. i spoke personally to president trump to encourage them to rejoin the paris agreement and i continue to hope</field>
+</doc>
+</add>

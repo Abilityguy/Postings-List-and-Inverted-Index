@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140215_110000_FOX_and_Friends_Saturday#start/387/end/422</field>
+<field name="datetime">2/15/2014 11:06:42</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20140215_110000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140215_110000_FOX_and_Friends_Saturday/FOXNEWSW_20140215_110000_FOX_and_Friends_Saturday.thumbs/FOXNEWSW_20140215_110000_FOX_and_Friends_Saturday_000375.jpg</field>
+<field name="snippet">now, nobody, i don't think anybody denies that climate is changing. climate always changes. that's what climate does. the question is why and in what way so we know, for example. global warming which has</field>
+</doc>
+</add>

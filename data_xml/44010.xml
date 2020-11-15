@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180125_100000_Fox_and_Friends_First#start/509/end/544</field>
+<field name="datetime">1/25/2018 10:08:44</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20180125_100000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180125_100000_Fox_and_Friends_First/FOXNEWSW_20180125_100000_Fox_and_Friends_First.thumbs/FOXNEWSW_20180125_100000_Fox_and_Friends_First_000507.jpg</field>
+<field name="snippet">president at davos. when you look outside, it could be hard to believe in global warming. obviously you didn't invite anybody skeptical of global</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181126_060000_Breakfast#start/2924/end/2959</field>
+<field name="datetime">11/26/2018 6:48:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181126_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181126_060000_Breakfast/BBCNEWS_20181126_060000_Breakfast.thumbs/BBCNEWS_20181126_060000_Breakfast_002908.jpg</field>
+<field name="snippet">from naga who is at westminster for us. it's been ten years since the climate change act was signed and the uk became the first country to introduce legislation to cut carbon emissions. a decade on, leading scientists are warning that we still need to do more to protect the future of our planet.</field>
+</doc>
+</add>

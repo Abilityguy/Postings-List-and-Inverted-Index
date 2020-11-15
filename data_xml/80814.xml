@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191020_200000_Americas_News_HQ#start/3440/end/3475</field>
+<field name="datetime">10/20/2019 20:57:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20191020_200000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191020_200000_Americas_News_HQ/FOXNEWSW_20191020_200000_Americas_News_HQ.thumbs/FOXNEWSW_20191020_200000_Americas_News_HQ_003418.jpg</field>
+<field name="snippet">david lee is in ottawa tracking the election. reporter: the issues range from climate change to government spending. but one thing all canadians agree on, this will be a close</field>
+</doc>
+</add>

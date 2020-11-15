@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201401.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140107_210000_MSNBC_Live#start/2247/end/2282</field>
+<field name="datetime">1/7/2014 21:37:42</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20140107_210000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140107_210000_MSNBC_Live/MSNBCW_20140107_210000_MSNBC_Live.thumbs/MSNBCW_20140107_210000_MSNBC_Live_002236.jpg</field>
+<field name="snippet">readings are so accurate. how can there be snow when there's global warming? we climate scientists actually have a technical term for this phenomenon, it's called winter. he blinded them with science.</field>
+</doc>
+</add>

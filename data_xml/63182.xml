@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190311_060000_Breakfast#start/701/end/736</field>
+<field name="datetime">3/11/2019 6:11:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190311_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190311_060000_Breakfast/BBCNEWS_20190311_060000_Breakfast.thumbs/BBCNEWS_20190311_060000_Breakfast_003537.jpg</field>
+<field name="snippet">cow's digestive process emits methane, a potent greenhouse gas. there is also the carbon created by packaging and transportation. but there are now signs the industry is starting to address the problem. environmentalists have long</field>
+</doc>
+</add>

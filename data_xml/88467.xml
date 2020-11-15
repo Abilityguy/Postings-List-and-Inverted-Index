@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190618_100000_BBC_Newsroom_Live#start/3838/end/3873</field>
+<field name="datetime">6/18/2019 11:04:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190618_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190618_100000_BBC_Newsroom_Live/BBCNEWS_20190618_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190618_100000_BBC_Newsroom_Live_003837.jpg</field>
+<field name="snippet">londoners will be affected by concentrated flight pass over 700 new flights a day and noise. it has been shown to be terrible for people's mental health and general enjoyment of life in the city. these are enormous impact locally, but think about climate change, as well.</field>
+</doc>
+</add>

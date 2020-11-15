@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_090000_Special_Report_With_Bret_Baier#start/282/end/317</field>
+<field name="datetime">12/18/2009 9:04:57</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091218_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_090000_Special_Report_With_Bret_Baier/FOXNEWS_20091218_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091218_090000_Special_Report_With_Bret_Baier_000266.jpg</field>
+<field name="snippet">the theory. join me for a special look at climate change, global warming or a lot of hot air. that's this sunday at 9:00 p.m. eastern. a u.s. official tells fox news president obama will meet with russian president dimitry medvedev friday on the sidelines at the copenhagen conference.</field>
+</doc>
+</add>

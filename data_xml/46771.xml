@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201208.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120804_100000_FOX_and_Friends_Saturday#start/7559/end/7594</field>
+<field name="datetime">8/4/2012 12:06:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20120804_100000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120804_100000_FOX_and_Friends_Saturday/FOXNEWSW_20120804_100000_FOX_and_Friends_Saturday.thumbs/FOXNEWSW_20120804_100000_FOX_and_Friends_Saturday_007560.jpg</field>
+<field name="snippet">interesting discussions. well, senator john kerry in a major sort of policy discussion this week on wednesday taking the senate floor to make the claim that climate change is as much of a threat to the united states as iran. take a listen.</field>
+</doc>
+</add>

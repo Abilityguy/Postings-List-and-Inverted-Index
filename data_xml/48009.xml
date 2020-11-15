@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201505.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150508_200000_NOW_With_Alex_Wagner#start/436/end/471</field>
+<field name="datetime">5/8/2015 20:07:31</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20150508_200000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150508_200000_NOW_With_Alex_Wagner/MSNBCW_20150508_200000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20150508_200000_NOW_With_Alex_Wagner_000435.jpg</field>
+<field name="snippet">are massive storms that are going up-and-down the northeast corridor. glen, i wonder chris christie said something yesterday that made waves. i think global warming is real. i don't think it's denial. i think human activity</field>
+</doc>
+</add>

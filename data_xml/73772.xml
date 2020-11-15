@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201002.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100213_160000_MSNBC_News_Live#start/1144/end/1179</field>
+<field name="datetime">2/13/2010 16:19:19</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100213_160000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100213_160000_MSNBC_News_Live/MSNBC_20100213_160000_MSNBC_News_Live.thumbs/MSNBC_20100213_160000_MSNBC_News_Live_001140.jpg</field>
+<field name="snippet">in alaska. girlfriend. you know, alex, alex? yes. a big problem with global warming and climate change is a lot of hoaxes. there's no doubt that the arctic ice mass at the north pole is shrinking but the south pole is</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100213_010000_The_OReilly_Factor#start/2329/end/2364</field>
+<field name="datetime">2/13/2010 1:39:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20100213_010000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100213_010000_The_OReilly_Factor/FOXNEWS_20100213_010000_The_OReilly_Factor.thumbs/FOXNEWS_20100213_010000_The_OReilly_Factor_002304.jpg</field>
+<field name="snippet">i'm checking for global warming out here. bill: did you find any? is there any warming out there? no. surprising. i put an amber alert out for al gore and rfk jr. they haven't been seen since the</field>
+</doc>
+</add>

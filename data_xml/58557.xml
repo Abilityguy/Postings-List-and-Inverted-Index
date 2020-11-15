@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181124_113000_Dateline_London#start/1694/end/1729</field>
+<field name="datetime">11/24/2018 11:58:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Dateline London</field>
+<field name="showid">BBCNEWS_20181124_113000_Dateline_London</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181124_113000_Dateline_London/BBCNEWS_20181124_113000_Dateline_London.thumbs/BBCNEWS_20181124_113000_Dateline_London_001678.jpg</field>
+<field name="snippet">a government report that warns unchecked climate change will seriously damage the economy and effect human health and quality of life.</field>
+</doc>
+</add>

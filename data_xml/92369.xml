@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200911.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091120_190000_MSNBC_News_Live#start/240/end/275</field>
+<field name="datetime">11/20/2009 19:04:15</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091120_190000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091120_190000_MSNBC_News_Live/MSNBC_20091120_190000_MSNBC_News_Live.thumbs/MSNBC_20091120_190000_MSNBC_News_Live_000233.jpg</field>
+<field name="snippet">on energy, clean energy research, climate change, without specifics but agreements to take action, those didn't qualify? well, to my mind they did not because it was the third meeting between president obama and</field>
+</doc>
+</add>

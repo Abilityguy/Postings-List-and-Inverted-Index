@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180125_050000_Tucker_Carlson_Tonight#start/2434/end/2469</field>
+<field name="datetime">1/25/2018 5:40:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20180125_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180125_050000_Tucker_Carlson_Tonight/FOXNEWSW_20180125_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20180125_050000_Tucker_Carlson_Tonight_002337.jpg</field>
+<field name="snippet">just boarded air force one, headed to davos, resort town in switzerland, for the worldnt economic forum. that happened about 60 seconds ago. one of the biggest topics is global warming, but that comes with a huge helping of irony dripping all over it. the climate cognoscenti of davos are arriving in more than 1000</field>
+</doc>
+</add>

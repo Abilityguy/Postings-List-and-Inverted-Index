@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190511_100000_Fox_and_Friends_Saturday#start/3922/end/3957</field>
+<field name="datetime">5/11/2019 11:05:37</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20190511_100000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190511_100000_Fox_and_Friends_Saturday/FOXNEWSW_20190511_100000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20190511_100000_Fox_and_Friends_Saturday_003898.jpg</field>
+<field name="snippet">candidates and saying listen, i'm sorry, guys, enough with this. talk to me about healthcare and talk to me about the economy. talk to me about climate change and about the issues i care about. stop talking to me about subpoenas that aren't going anywhere. griff: you have a good point though the underlying documents is the reason</field>
+</doc>
+</add>

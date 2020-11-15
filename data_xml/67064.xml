@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140503_120000_Up_WSteve_Kornacki#start/5172/end/5207</field>
+<field name="datetime">5/3/2014 13:26:27</field>
+<field name="station">MSNBC</field>
+<field name="show">Up WSteve Kornacki</field>
+<field name="showid">MSNBCW_20140503_120000_Up_WSteve_Kornacki</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140503_120000_Up_WSteve_Kornacki/MSNBCW_20140503_120000_Up_WSteve_Kornacki.thumbs/MSNBCW_20140503_120000_Up_WSteve_Kornacki_005145.jpg</field>
+<field name="snippet">on the issue of climate change. this is what tillis is talking like in the primary. is climate change a fact? no.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190330_100000_Fox_and_Friends_Saturday#start/6659/end/6694</field>
+<field name="datetime">3/30/2019 11:51:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20190330_100000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190330_100000_Fox_and_Friends_Saturday/FOXNEWSW_20190330_100000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20190330_100000_Fox_and_Friends_Saturday_006660.jpg</field>
+<field name="snippet">climate change to this. on the events of september 11th, 2001. thousands of americans died in one -- in the largest terrorist attack on u.s. soil.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190929_210000_BBC_News#start/1501/end/1536</field>
+<field name="datetime">9/29/2019 21:25:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190929_210000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190929_210000_BBC_News/BBCNEWS_20190929_210000_BBC_News.thumbs/BBCNEWS_20190929_210000_BBC_News_001498.jpg</field>
+<field name="snippet">but first - climate change - and as the youth movement led by the activist greta thunberg sweeps the globe the issue of america's use of fossil fuels looks like it will be a battle ground topic in next year's us presidential election. but in some of the president's</field>
+</doc>
+</add>

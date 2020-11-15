@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_060000_Breakfast#start/428/end/463</field>
+<field name="datetime">12/3/2018 6:07:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181203_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_060000_Breakfast/BBCNEWS_20181203_060000_Breakfast.thumbs/BBCNEWS_20181203_060000_Breakfast_000417.jpg</field>
+<field name="snippet">a speech at the united nation's climate change talks in poland today - the most critical meeting since the 2015 paris agreement. sir david will be representing the un's 'people's seat', an initiative which gave citizens around the world the opportunity to send their messages to leaders</field>
+</doc>
+</add>

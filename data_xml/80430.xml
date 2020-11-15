@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190402_000000_Tucker_Carlson_Tonight#start/929/end/964</field>
+<field name="datetime">4/2/2019 0:15:44</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190402_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190402_000000_Tucker_Carlson_Tonight/FOXNEWSW_20190402_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190402_000000_Tucker_Carlson_Tonight_000930.jpg</field>
+<field name="snippet">actually, so i look at all what the scientists are telling us. they are telling us global warming is a problem but it's also a moderate one. they tell us by the end of the century, global warming will cost somewhere between 2% and 4% global gdp remember, by then, we will</field>
+</doc>
+</add>

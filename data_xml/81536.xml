@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091216_210000_MSNBC_News_Live#start/1954/end/1989</field>
+<field name="datetime">12/16/2009 21:32:49</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091216_210000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091216_210000_MSNBC_News_Live/MSNBC_20091216_210000_MSNBC_News_Live.thumbs/MSNBC_20091216_210000_MSNBC_News_Live_001913.jpg</field>
+<field name="snippet">pepper spray to beat back protestors. it was the largest demonstration outside of the conference that started ten days ago. inside the conference there is no climate change agreement. talks are said to be deadlocked.</field>
+</doc>
+</add>

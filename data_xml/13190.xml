@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201101.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110102_110000_FOX_and_Friends_Sunday#start/1346/end/1381</field>
+<field name="datetime">1/2/2011 11:22:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWS_20110102_110000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110102_110000_FOX_and_Friends_Sunday/FOXNEWS_20110102_110000_FOX_and_Friends_Sunday.thumbs/FOXNEWS_20110102_110000_FOX_and_Friends_Sunday_001320.jpg</field>
+<field name="snippet">lost contact when one of the pilots accidentally turned to the wrong frequency, whoops. alisyn. all right, 2010 was the year that americans cooled off about global warming. with climate gate and the death of the cap and trade bill, scientists and lawmakers have not given up.</field>
+</doc>
+</add>

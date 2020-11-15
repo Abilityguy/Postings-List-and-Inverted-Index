@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201802.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180218_040000_BBC_News#start/989/end/1024</field>
+<field name="datetime">2/18/2018 4:16:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180218_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180218_040000_BBC_News/BBCNEWS_20180218_040000_BBC_News.thumbs/BBCNEWS_20180218_040000_BBC_News_000987.jpg</field>
+<field name="snippet">afghanistan. it's man-made conflict and when you compound that with climate change, it's a disaster in the works. we are dealing with this and every time you have hunger, you have a migration. we know for every 1% increase of hunger, there's a 2%</field>
+</doc>
+</add>

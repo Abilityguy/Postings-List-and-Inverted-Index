@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190706_060000_Breakfast#start/2048/end/2083</field>
+<field name="datetime">7/6/2019 6:34:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190706_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190706_060000_Breakfast/BBCNEWS_20190706_060000_Breakfast.thumbs/BBCNEWS_20190706_060000_Breakfast_002037.jpg</field>
+<field name="snippet">the average temperature there at this time of year is 18. climate change researchers say it's a worrying development. the pictures we have enjoyed this morning now. a sculpture of the american first</field>
+</doc>
+</add>

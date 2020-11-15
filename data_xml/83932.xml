@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190419_050000_Breakfast#start/7209/end/7244</field>
+<field name="datetime">4/19/2019 7:00:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190419_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190419_050000_Breakfast/BBCNEWS_20190419_050000_Breakfast.thumbs/BBCNEWS_20190419_050000_Breakfast_007197.jpg</field>
+<field name="snippet">of this city. as 500 climate change protestors have now been arrested across london, police promise a 'robust' response if they target heathrow airport. chelsea and arsenal are through to the europa league semifinals.</field>
+</doc>
+</add>

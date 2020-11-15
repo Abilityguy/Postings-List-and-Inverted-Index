@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201810.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181013_170000_MSNBC_Live_With_Alex_Witt#start/3117/end/3152</field>
+<field name="datetime">10/13/2018 17:52:12</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Alex Witt</field>
+<field name="showid">MSNBCW_20181013_170000_MSNBC_Live_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181013_170000_MSNBC_Live_With_Alex_Witt/MSNBCW_20181013_170000_MSNBC_Live_With_Alex_Witt.thumbs/MSNBCW_20181013_170000_MSNBC_Live_With_Alex_Witt_003117.jpg</field>
+<field name="snippet">tomorrow' airs tonight on 9 p.m. on the discovery channel. i'm so glad to have you here. i'd love to talk about the role that nasa is playing, particularly in climate change now. yes. first of all, it's great to be here. thank you for having me.</field>
+</doc>
+</add>

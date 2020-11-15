@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170602_073000_BBC_Business_Live#start/108/end/143</field>
+<field name="datetime">6/2/2017 7:32:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Business Live</field>
+<field name="showid">BBCNEWS_20170602_073000_BBC_Business_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170602_073000_BBC_Business_Live/BBCNEWS_20170602_073000_BBC_Business_Live.thumbs/BBCNEWS_20170602_073000_BBC_Business_Live_000088.jpg</field>
+<field name="snippet">great to have you with us. president trump has said he will pull the united states out of the paris climate change accord, calling it an unfair agreement that would hamstring the american economy while empowering the worst polluting nations.</field>
+</doc>
+</add>

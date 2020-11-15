@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100211_160000_Happening_Now#start/4275/end/4310</field>
+<field name="datetime">2/11/2010 17:11:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20100211_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100211_160000_Happening_Now/FOXNEWS_20100211_160000_Happening_Now.thumbs/FOXNEWS_20100211_160000_Happening_Now_004260.jpg</field>
+<field name="snippet">environmentalist told us that he does believe in global warming, he thinks it's not right to blame every extreme weather event on it. we interviewed him in december for a fox news climate change special. there's a tendency in which you assign everything out of the</field>
+</doc>
+</add>

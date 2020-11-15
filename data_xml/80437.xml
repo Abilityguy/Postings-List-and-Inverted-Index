@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190430_040000_Tucker_Carlson_Tonight#start/2080/end/2115</field>
+<field name="datetime">4/30/2019 4:34:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190430_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190430_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190430_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190430_040000_Tucker_Carlson_Tonight_002069.jpg</field>
+<field name="snippet">ambitious climate plan in the history of the united states. we will ensure that we are at net zero greenhouse gas emissions by the year 2050. tucker: wait a second. by 2050? we are keeping track, am i, so</field>
+</doc>
+</add>

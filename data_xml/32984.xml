@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091217_140000_Americas_Newsroom#start/548/end/583</field>
+<field name="datetime">12/17/2009 14:09:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20091217_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091217_140000_Americas_Newsroom/FOXNEWS_20091217_140000_Americas_Newsroom.thumbs/FOXNEWS_20091217_140000_Americas_Newsroom_000540.jpg</field>
+<field name="snippet">the overwhelming historical responsibility for the accumulation of greenhouse gases. last night, senator john kerry got a standing ovation in this building. compare that to the reception from senator james inhofe this</field>
+</doc>
+</add>

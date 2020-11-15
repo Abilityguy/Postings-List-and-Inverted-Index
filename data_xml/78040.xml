@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191130_010000_BBC_News#start/958/end/993</field>
+<field name="datetime">11/30/2019 1:16:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191130_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191130_010000_BBC_News/BBCNEWS_20191130_010000_BBC_News.thumbs/BBCNEWS_20191130_010000_BBC_News_000958.jpg</field>
+<field name="snippet">in a black friday protest. world leaders will gather in spain's capital next week for un climate change talks that are being labelled as a last chance to act. and in manchester, less than two weeks from a general election,</field>
+</doc>
+</add>

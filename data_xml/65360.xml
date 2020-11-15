@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190322_080000_Fox_and_Friends_First#start/2362/end/2397</field>
+<field name="datetime">3/22/2019 8:39:37</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190322_080000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190322_080000_Fox_and_Friends_First/FOXNEWSW_20190322_080000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190322_080000_Fox_and_Friends_First_002339.jpg</field>
+<field name="snippet">that is an example. i heard radio silence. not what trump's plan is on climate change, let's talk about the border wall. maximum-security instead of the weather. heather: just the beginning of the campaign. things will definitely change. thank you for joining us.</field>
+</doc>
+</add>

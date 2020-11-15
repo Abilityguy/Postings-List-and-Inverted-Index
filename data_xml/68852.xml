@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201003.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100303_110000_Morning_Joe#start/8368/end/8403</field>
+<field name="datetime">3/3/2010 13:19:43</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20100303_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20100303_110000_Morning_Joe/MSNBC_20100303_110000_Morning_Joe.thumbs/MSNBC_20100303_110000_Morning_Joe_008340.jpg</field>
+<field name="snippet">the tallest buildings leave the lightest footprints. a fifty-ton train makes barely a mark on the environment. and a country facing climate change finds climate solutions. somewhere in america, we've already answered</field>
+</doc>
+</add>

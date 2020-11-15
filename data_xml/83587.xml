@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190412_160000_BBC_News_at_Five#start/1679/end/1714</field>
+<field name="datetime">4/12/2019 16:28:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190412_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190412_160000_BBC_News_at_Five/BBCNEWS_20190412_160000_BBC_News_at_Five.thumbs/BBCNEWS_20190412_160000_BBC_News_at_Five_001677.jpg</field>
+<field name="snippet">create greenhouse gases. as countries around the world try to improve recycling rates, some may look to eskilstuna as an example to follow. as long as they think they can persuade their citizens to get busy sorting at home.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20171207_050000_Tucker_Carlson_Tonight#start/2690/end/2725</field>
+<field name="datetime">12/7/2017 5:45:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20171207_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20171207_050000_Tucker_Carlson_Tonight/FOXNEWSW_20171207_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20171207_050000_Tucker_Carlson_Tonight_002668.jpg</field>
+<field name="snippet">voice in handling the big issues that affect us all, like climate change which, of course, is a major cause of those tragic wildfires in southerner california. like inequality, which is hollowing out the middle class,</field>
+</doc>
+</add>

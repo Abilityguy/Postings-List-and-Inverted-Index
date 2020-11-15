@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201805.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180509_220000_Special_Report_With_Bret_Baier#start/1039/end/1074</field>
+<field name="datetime">5/9/2018 22:17:34</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20180509_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180509_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20180509_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20180509_220000_Special_Report_With_Bret_Baier_001017.jpg</field>
+<field name="snippet">vote to require solar panels on new homes and at low rise apartment buildings built after 2020. it's the first such mandate nationwide and california's latest step to aggressively curb greenhouse gas emissions there. and this is a live look at</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200115_020000_BBC_News#start/1197/end/1232</field>
+<field name="datetime">1/15/2020 2:20:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200115_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200115_020000_BBC_News/BBCNEWS_20200115_020000_BBC_News.thumbs/BBCNEWS_20200115_020000_BBC_News_001197.jpg</field>
+<field name="snippet">something that was predicted as temperatures have been rising with climate change. this graph shows how the average temperature in december in australia has risen over the past century. 2018 set one new record and then last year set another that was far higher.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181211_130000_BBC_News_at_One#start/1686/end/1721</field>
+<field name="datetime">12/11/2018 13:28:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20181211_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181211_130000_BBC_News_at_One/BBCNEWS_20181211_130000_BBC_News_at_One.thumbs/BBCNEWS_20181211_130000_BBC_News_at_One_001677.jpg</field>
+<field name="snippet">in one of the most remarkable landscapes on earth. we're about to get a tidal wave! .change is afoot, and it's worrying scientists. it's been known for years that climate change is causing warmer</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191231_073000_Weather_World#start/820/end/855</field>
+<field name="datetime">12/31/2019 7:43:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20191231_073000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191231_073000_Weather_World/BBCNEWS_20191231_073000_Weather_World.thumbs/BBCNEWS_20191231_073000_Weather_World_000809.jpg</field>
+<field name="snippet">you talk about climate change in warmer waters, we have some pictures of some dolphins. this is how far south dolphins are moving. we know there is a population of bottlenose dolphins in the moray firth in scotland. they have been recorded there for a number of years. but</field>
+</doc>
+</add>

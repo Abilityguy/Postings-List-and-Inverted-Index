@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181204_010000_Newsday#start/0/end/34</field>
+<field name="datetime">12/4/2018 1:00:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20181204_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181204_010000_Newsday/BBCNEWS_20181204_010000_Newsday.thumbs/BBCNEWS_20181204_010000_Newsday_000058.jpg</field>
+<field name="snippet">i'm rico hizon in singapore, the headlines: a warning our planet's future is in jeopardy at a crucial summit on climate change, with a call to action from the bbc presenter and naturalist david attenborough.</field>
+</doc>
+</add>

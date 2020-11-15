@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190502_160000_BBC_News_at_Five#start/679/end/714</field>
+<field name="datetime">5/2/2019 16:11:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190502_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190502_160000_BBC_News_at_Five/BBCNEWS_20190502_160000_BBC_News_at_Five.thumbs/BBCNEWS_20190502_160000_BBC_News_at_Five_000658.jpg</field>
+<field name="snippet">against climate change, according to a new report today. the government's independent advisers on climate change say the uk should cut greenhouse emissions to virtually zero by 2050, and say 'there's no time to lose'. the committee on climate change says it could mean us switching from diesel and petrol vehicles to electric ones, eating less meat and planting more trees.</field>
+</doc>
+</add>

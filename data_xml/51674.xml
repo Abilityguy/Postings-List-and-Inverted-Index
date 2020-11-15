@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181202_210000_World_News_Today#start/72/end/107</field>
+<field name="datetime">12/2/2018 21:01:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20181202_210000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181202_210000_World_News_Today/BBCNEWS_20181202_210000_World_News_Today.thumbs/BBCNEWS_20181202_210000_World_News_Today_000057.jpg</field>
+<field name="snippet">at the moment, the world is on course for warming of 3 to 5 degrees celcius by 2100 and that the greenhouse gases we're adding to the atmosphere need to be cut by 45% by 2030. one of the biggest sources of pollution is coal, and poland,</field>
+</doc>
+</add>

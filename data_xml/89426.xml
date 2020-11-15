@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190612_080000_BBC_News_at_Nine#start/2091/end/2126</field>
+<field name="datetime">6/12/2019 8:35:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190612_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190612_080000_BBC_News_at_Nine/BBCNEWS_20190612_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190612_080000_BBC_News_at_Nine_002067.jpg</field>
+<field name="snippet">it is an important moment because when i was secretary of state for energy and climate change me legislated for 80% reductions in carbon emissions by 2015. now we are taking that extra step because the science tells us that we need to go to zero emissions. if we can do it</field>
+</doc>
+</add>

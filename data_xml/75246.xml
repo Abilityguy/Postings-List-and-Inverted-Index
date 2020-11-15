@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_110000_BBC_Newsroom_Live#start/5334/end/5369</field>
+<field name="datetime">1/17/2020 12:29:09</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20200117_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_110000_BBC_Newsroom_Live/BBCNEWS_20200117_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20200117_110000_BBC_Newsroom_Live_005308.jpg</field>
+<field name="snippet">the city has to be, but oh everywhere has to be in order to deal with climate change, but do you think this carbon neutral target by the end of the decade is achievable? absolutely. if we start now it is still achievable. nobody would have known that ten years ago we would be</field>
+</doc>
+</add>

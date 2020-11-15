@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091203_090000_Special_Report_With_Bret_Baier#start/1317/end/1352</field>
+<field name="datetime">12/3/2009 9:22:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091203_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091203_090000_Special_Report_With_Bret_Baier/FOXNEWS_20091203_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091203_090000_Special_Report_With_Bret_Baier_001290.jpg</field>
+<field name="snippet">she said showed how climate change is working the world's oceans more acidic. she was invited by the chairman of the energy independence and global warming department to talk about science, but republicans wanted to talk about the lee e-mails, which one called the elephant in the room.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180915_230000_BBC_News#start/1427/end/1462</field>
+<field name="datetime">9/15/2018 23:24:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180915_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180915_230000_BBC_News/BBCNEWS_20180915_230000_BBC_News.thumbs/BBCNEWS_20180915_230000_BBC_News_001407.jpg</field>
+<field name="snippet">what we see is that ice is being lost and sea level is rising and icesat-2 to icesat-2 to help us understand how quickly that is happening so we can make accurate projections for the future. will it make a causal link between global warming and ice loss?</field>
+</doc>
+</add>

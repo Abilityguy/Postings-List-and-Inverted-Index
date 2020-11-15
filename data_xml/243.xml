@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201301.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130112_200000_Stossel#start/1290/end/1325</field>
+<field name="datetime">1/12/2013 20:21:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Stossel</field>
+<field name="showid">FOXNEWSW_20130112_200000_Stossel</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130112_200000_Stossel/FOXNEWSW_20130112_200000_Stossel.thumbs/FOXNEWSW_20130112_200000_Stossel_001275.jpg</field>
+<field name="snippet">four major grains. pasta is safe. john: we will not die from global warming but 'newsweek' died maybe that is okay with their bad reporting. bjorn lomborg. what if the disaster bonkers</field>
+</doc>
+</add>

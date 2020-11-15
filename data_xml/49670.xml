@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201609.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160906_000000_Watters_World#start/1506/end/1541</field>
+<field name="datetime">9/6/2016 0:25:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Watters World</field>
+<field name="showid">FOXNEWSW_20160906_000000_Watters_World</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160906_000000_Watters_World/FOXNEWSW_20160906_000000_Watters_World.thumbs/FOXNEWSW_20160906_000000_Watters_World_001497.jpg</field>
+<field name="snippet">public education system. what do you think is more dangerous climate change or terrorism. i think climate change. really? what is the most important issue for you? i think the national security is important and after that obviously, it's the economy.</field>
+</doc>
+</add>

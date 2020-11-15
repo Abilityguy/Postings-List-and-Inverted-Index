@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190525_100000_Fox_and_Friends_Saturday#start/3234/end/3269</field>
+<field name="datetime">5/25/2019 10:54:09</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20190525_100000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190525_100000_Fox_and_Friends_Saturday/FOXNEWSW_20190525_100000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20190525_100000_Fox_and_Friends_Saturday_003147.jpg</field>
+<field name="snippet">facing the country. the answer is climate change. if we do not act with everything that we have got in the next 10 years, it will be far too late. crisis posed by climate change. there is not much time left.</field>
+</doc>
+</add>

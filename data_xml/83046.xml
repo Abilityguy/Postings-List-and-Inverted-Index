@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191010_160000_BBC_News_at_Five#start/2613/end/2648</field>
+<field name="datetime">10/10/2019 16:43:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20191010_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191010_160000_BBC_News_at_Five/BBCNEWS_20191010_160000_BBC_News_at_Five.thumbs/BBCNEWS_20191010_160000_BBC_News_at_Five_002607.jpg</field>
+<field name="snippet">and then, essentially, talking to other passengers on board about climate change, and eventually being taken away by the police. but, of course, that delayed that flight, significantly. it was a flight to dublin.</field>
+</doc>
+</add>

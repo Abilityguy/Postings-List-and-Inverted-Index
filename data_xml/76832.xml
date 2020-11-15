@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190508_160000_BBC_News_at_Five#start/1736/end/1771</field>
+<field name="datetime">5/8/2019 16:29:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190508_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190508_160000_BBC_News_at_Five/BBCNEWS_20190508_160000_BBC_News_at_Five.thumbs/BBCNEWS_20190508_160000_BBC_News_at_Five_001709.jpg</field>
+<field name="snippet">via video-link tomorrow. the green party has launched its campaign for the european elections on may 23rd with the message 'yes to europe, no to climate change'. after gaining a hundred and 85 council seats in last weeks english local elections, the party is hopeful</field>
+</doc>
+</add>

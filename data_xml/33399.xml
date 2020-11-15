@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_060000_Greta_Van_Susteren#start/2490/end/2525</field>
+<field name="datetime">12/18/2009 6:41:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Greta Van Susteren</field>
+<field name="showid">FOXNEWS_20091218_060000_Greta_Van_Susteren</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_060000_Greta_Van_Susteren/FOXNEWS_20091218_060000_Greta_Van_Susteren.thumbs/FOXNEWS_20091218_060000_Greta_Van_Susteren_002490.jpg</field>
+<field name="snippet">global warming. fox is will carry the president's speech live at 4:00 a.m. eastern time. a developing story of phoenix, ariz., where a police officer is fighting for his life. he was setting out spike strips</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191202_010000_Newsday#start/313/end/348</field>
+<field name="datetime">12/2/2019 1:05:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191202_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191202_010000_Newsday/BBCNEWS_20191202_010000_Newsday.thumbs/BBCNEWS_20191202_010000_Newsday_000299.jpg</field>
+<field name="snippet">in our climate defenders series which profiles people leading the battle against climate change. this week, we'll be looking at the danish inventor trying to drive down the cost of wind power.</field>
+</doc>
+</add>

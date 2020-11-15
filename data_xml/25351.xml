@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201611.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161120_100000_Fox_Report_Saturday#start/556/end/591</field>
+<field name="datetime">11/20/2016 10:09:31</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox Report Saturday</field>
+<field name="showid">FOXNEWSW_20161120_100000_Fox_Report_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161120_100000_Fox_Report_Saturday/FOXNEWSW_20161120_100000_Fox_Report_Saturday.thumbs/FOXNEWSW_20161120_100000_Fox_Report_Saturday_000538.jpg</field>
+<field name="snippet">president obama addressed the topecs including the provocations by north korea and ways to fight climate change and expansion of china sea. and as it wraps up, president</field>
+</doc>
+</add>

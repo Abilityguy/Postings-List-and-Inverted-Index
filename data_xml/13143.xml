@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201101.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110127_210000_Your_World_With_Neil_Cavuto#start/431/end/466</field>
+<field name="datetime">1/27/2011 21:07:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWS_20110127_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110127_210000_Your_World_With_Neil_Cavuto/FOXNEWS_20110127_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWS_20110127_210000_Your_World_With_Neil_Cavuto_000416.jpg</field>
+<field name="snippet">is global warming, too. can you have it both ways? guest: no, you can't. one snowstorm doesn't make global warming or deny it. there are persistent patterns where one place is hit repeat</field>
+</doc>
+</add>

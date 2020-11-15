@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190311_230000_The_Story_With_Martha_MacCallum#start/3100/end/3135</field>
+<field name="datetime">3/11/2019 23:51:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Story With Martha MacCallum</field>
+<field name="showid">FOXNEWSW_20190311_230000_The_Story_With_Martha_MacCallum</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190311_230000_The_Story_With_Martha_MacCallum/FOXNEWSW_20190311_230000_The_Story_With_Martha_MacCallum.thumbs/FOXNEWSW_20190311_230000_The_Story_With_Martha_MacCallum_003089.jpg</field>
+<field name="snippet">much as the trillions of dollars that the green new deal will cost, that's for certain. but there will be some cost associated with it and we aren't interested in any kind of carbon tax but make that clear. at the same time, we can actually benefit from this. it could actually end up helping</field>
+</doc>
+</add>

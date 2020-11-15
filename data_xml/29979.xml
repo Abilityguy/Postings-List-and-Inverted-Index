@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191101_210000_MTP_Daily#start/3311/end/3346</field>
+<field name="datetime">11/1/2019 21:55:26</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20191101_210000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191101_210000_MTP_Daily/MSNBCW_20191101_210000_MTP_Daily.thumbs/MSNBCW_20191101_210000_MTP_Daily_003298.jpg</field>
+<field name="snippet">vulnerability to sea level rise and flooding. all right, translation, new data is telling us that the dangers of climate change are simply way worse and the impact will impact many more people, and it's all happening much sooner than any of us thought.</field>
+</doc>
+</add>

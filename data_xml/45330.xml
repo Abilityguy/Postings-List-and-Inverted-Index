@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201909.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190919_150000_MSNBC_Live_With_Craig_Melvin#start/3240/end/3275</field>
+<field name="datetime">9/19/2019 15:54:15</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Craig Melvin</field>
+<field name="showid">MSNBCW_20190919_150000_MSNBC_Live_With_Craig_Melvin</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190919_150000_MSNBC_Live_With_Craig_Melvin/MSNBCW_20190919_150000_MSNBC_Live_With_Craig_Melvin.thumbs/MSNBCW_20190919_150000_MSNBC_Live_With_Craig_Melvin_003238.jpg</field>
+<field name="snippet">reporter: craig, you laid it out right there. we've heard from senator michael bennet, we're here to talk about climate change which is the top issue i hear about from voters</field>
+</doc>
+</add>

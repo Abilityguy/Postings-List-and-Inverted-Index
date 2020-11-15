@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201408.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140828_100000_FOX_and_Friends#start/97/end/132</field>
+<field name="datetime">8/28/2014 10:01:52</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20140828_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140828_100000_FOX_and_Friends/FOXNEWSW_20140828_100000_FOX_and_Friends.thumbs/FOXNEWSW_20140828_100000_FOX_and_Friends_000075.jpg</field>
+<field name="snippet">hey, steve. hey, brian. good to see you guys. a lot happening. in the middle east, here and president also fascinating, he thought this was a great time to bring up global warming.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201610.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161027_180000_The_Real_Story#start/2140/end/2175</field>
+<field name="datetime">10/27/2016 18:35:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Real Story</field>
+<field name="showid">FOXNEWSW_20161027_180000_The_Real_Story</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161027_180000_The_Real_Story/FOXNEWSW_20161027_180000_The_Real_Story.thumbs/FOXNEWSW_20161027_180000_The_Real_Story_002128.jpg</field>
+<field name="snippet">and you know, climate change is at stake. now i should not have to say this in 2016, but i will. if you believe in science,</field>
+</doc>
+</add>

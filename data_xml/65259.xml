@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190301_050000_Tucker_Carlson_Tonight#start/1917/end/1952</field>
+<field name="datetime">3/1/2019 5:32:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190301_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190301_050000_Tucker_Carlson_Tonight/FOXNEWSW_20190301_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190301_050000_Tucker_Carlson_Tonight_001890.jpg</field>
+<field name="snippet">things like climate change or air pollution. we had a number of friends who said what about nuclear? we were like well, nuclear is scary and have concerns. that most people have about nuclear. i read about all of the</field>
+</doc>
+</add>

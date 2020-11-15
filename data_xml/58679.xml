@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181127_220000_BBC_News_at_Ten#start/1372/end/1407</field>
+<field name="datetime">11/27/2018 22:23:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20181127_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181127_220000_BBC_News_at_Ten/BBCNEWS_20181127_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20181127_220000_BBC_News_at_Ten_001347.jpg</field>
+<field name="snippet">but on its own that won't be enough to head off the worst of global warming, so it comes down to the key and highly controversial question of what we all choose to eat. here at manchester university, researchers study the climate cost</field>
+</doc>
+</add>

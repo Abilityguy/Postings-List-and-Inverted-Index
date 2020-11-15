@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181204_020000_BBC_News#start/1016/end/1051</field>
+<field name="datetime">12/4/2018 2:17:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181204_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181204_020000_BBC_News/BBCNEWS_20181204_020000_BBC_News.thumbs/BBCNEWS_20181204_020000_BBC_News_001017.jpg</field>
+<field name="snippet">the latest headlines for you: delegates at a major climate change conference in poland have been warned not to be the generation to betray humanity. president trump has paid respect to george h w bush, whose body is lying in state in the us capitol rotunda. in one of his first moves</field>
+</doc>
+</add>

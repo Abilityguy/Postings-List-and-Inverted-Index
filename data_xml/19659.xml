@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201903.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190310_220000_Meet_the_Press#start/300/end/335</field>
+<field name="datetime">3/10/2019 22:05:15</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20190310_220000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190310_220000_Meet_the_Press/MSNBCW_20190310_220000_Meet_the_Press.thumbs/MSNBCW_20190310_220000_Meet_the_Press_000297.jpg</field>
+<field name="snippet">reporter: championing the green new deal. does the green new deal go too far? no. you cannot go too far on the issue of climate change. reporter: and calling for medicare for all. do you think eliminating private insurance would be a socialist idea?</field>
+</doc>
+</add>

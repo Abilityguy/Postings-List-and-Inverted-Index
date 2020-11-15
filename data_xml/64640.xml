@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201612.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161205_170000_MSNBC_Live_With_Andrea_Mitchell#start/595/end/630</field>
+<field name="datetime">12/5/2016 17:10:10</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Andrea Mitchell</field>
+<field name="showid">MSNBCW_20161205_170000_MSNBC_Live_With_Andrea_Mitchell</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161205_170000_MSNBC_Live_With_Andrea_Mitchell/MSNBCW_20161205_170000_MSNBC_Live_With_Andrea_Mitchell.thumbs/MSNBCW_20161205_170000_MSNBC_Live_With_Andrea_Mitchell_000567.jpg</field>
+<field name="snippet">profile figure walking through the halls of trump tower, the former vice president al gore. we know he won't meet with donald trump. he will meet with ivanka. the subject is climate change. donald trump throughout the past has called it a hoax perpetrated</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190405_010000_BBC_News#start/1247/end/1282</field>
+<field name="datetime">4/5/2019 1:21:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190405_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190405_010000_BBC_News/BBCNEWS_20190405_010000_BBC_News.thumbs/BBCNEWS_20190405_010000_BBC_News_001227.jpg</field>
+<field name="snippet">the journal nature blames the problem on rising sea temperatures, a result of sustained global warming. but scientist say the reef may still be able to recover over the next 5-10 years if there are no</field>
+</doc>
+</add>

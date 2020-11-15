@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170803_140000_BBC_News#start/3367/end/3402</field>
+<field name="datetime">8/3/2017 14:56:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170803_140000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170803_140000_BBC_News/BBCNEWS_20170803_140000_BBC_News.thumbs/BBCNEWS_20170803_140000_BBC_News_003357.jpg</field>
+<field name="snippet">at weston-super-mare today, a little bit of sunshine might have been welcome. europe's heatwave is not expected to reach the uk this week at least. but climate change means we could all be in for some unwelcome weather in the years to come.</field>
+</doc>
+</add>

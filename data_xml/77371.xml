@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191130_000000_BBC_News#start/1337/end/1372</field>
+<field name="datetime">11/30/2019 0:22:32</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191130_000000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191130_000000_BBC_News/BBCNEWS_20191130_000000_BBC_News.thumbs/BBCNEWS_20191130_000000_BBC_News_001319.jpg</field>
+<field name="snippet">and anti-consumerism came together in a black friday protest. world leaders will gather in spain's capital next week for un climate</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190421_003000_The_Travel_Show#start/49/end/84</field>
+<field name="datetime">4/21/2019 0:31:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Travel Show</field>
+<field name="showid">BBCNEWS_20190421_003000_The_Travel_Show</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190421_003000_The_Travel_Show/BBCNEWS_20190421_003000_The_Travel_Show.thumbs/BBCNEWS_20190421_003000_The_Travel_Show_000027.jpg</field>
+<field name="snippet">the metropolitan police commissioner has called on climate change protestors in central london to go home. hundreds of protesters have been illegally occupying marble arch, parliament square and waterloo bridge since monday. over 1000 officers have been on duty and over 750 people have been arrested.</field>
+</doc>
+</add>

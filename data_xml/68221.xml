@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190201_000000_Newsday#start/780/end/815</field>
+<field name="datetime">2/1/2019 0:13:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190201_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190201_000000_Newsday/BBCNEWS_20190201_000000_Newsday.thumbs/BBCNEWS_20190201_000000_Newsday_000778.jpg</field>
+<field name="snippet">beake, bbc news, yangon. you're watching newsday on the bbc. still to come on the programme: while the us suffers in a polar vortex, australians are suffering the opposite - drought, heatwaves, and bush fires. is the world's weather getting more extreme and is climate change to blame? also on the programme:</field>
+</doc>
+</add>

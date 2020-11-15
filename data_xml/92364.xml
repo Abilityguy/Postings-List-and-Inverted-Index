@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200911.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091127_140000_MSNBC_News_Live#start/1582/end/1617</field>
+<field name="datetime">11/27/2009 14:26:37</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091127_140000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091127_140000_MSNBC_News_Live/MSNBC_20091127_140000_MSNBC_News_Live.thumbs/MSNBC_20091127_140000_MSNBC_News_Live_001560.jpg</field>
+<field name="snippet">and then they will outline what he will say. let's switch gears and talk about copenhagen set for two weeks from now to talk about climate change. what is the president's goal</field>
+</doc>
+</add>

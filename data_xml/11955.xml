@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190818_210000_BBC_News#start/1509/end/1544</field>
+<field name="datetime">8/18/2019 21:25:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190818_210000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190818_210000_BBC_News/BBCNEWS_20190818_210000_BBC_News.thumbs/BBCNEWS_20190818_210000_BBC_News_001497.jpg</field>
+<field name="snippet">what we wanted to do was to memorialise the loss of iceland's first well-known named glacier to be lost to climate change. and, as you noted, what sigurdsson declared was that ijokull should no longer be a glacier as of 2014 and so, this is an important story,</field>
+</doc>
+</add>

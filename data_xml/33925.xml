@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091209_140000_Americas_Newsroom#start/4132/end/4167</field>
+<field name="datetime">12/9/2009 15:09:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20091209_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091209_140000_Americas_Newsroom/FOXNEWS_20091209_140000_Americas_Newsroom.thumbs/FOXNEWS_20091209_140000_Americas_Newsroom_004129.jpg</field>
+<field name="snippet">bill: we will take that. martha: going across the ocean, the head of the epa is there, telling the climate change summit that she will use common sense when it comes to regulating carbon emissions in the u.s.</field>
+</doc>
+</add>

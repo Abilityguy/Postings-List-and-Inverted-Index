@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190518_000000_BBC_News#start/360/end/395</field>
+<field name="datetime">5/18/2019 0:06:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190518_000000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190518_000000_BBC_News/BBCNEWS_20190518_000000_BBC_News.thumbs/BBCNEWS_20190518_000000_BBC_News_000359.jpg</field>
+<field name="snippet">ever documented in australia. the two major parties have promised action of varying degrees on the environment. do you think australia has been too slow in addressing the issue of climate change? i think so. i think we should have been making</field>
+</doc>
+</add>

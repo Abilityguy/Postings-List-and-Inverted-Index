@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170713_221500_Newsnight#start/181/end/216</field>
+<field name="datetime">7/13/2017 22:18:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsnight</field>
+<field name="showid">BBCNEWS_20170713_221500_Newsnight</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170713_221500_Newsnight/BBCNEWS_20170713_221500_Newsnight.thumbs/BBCNEWS_20170713_221500_Newsnight_000177.jpg</field>
+<field name="snippet">building codes that have changed most in the last a0 years. after the oil shock in the 1970s and more recently because of concerns about climate change and fuel poverty. quite rightly, the rules have aimed for ever warmer homes. what do those changes over the last few decades mean in practice?</field>
+</doc>
+</add>

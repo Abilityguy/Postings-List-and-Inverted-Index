@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201403.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140312_050000_Hannity#start/531/end/566</field>
+<field name="datetime">3/12/2014 5:09:06</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20140312_050000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140312_050000_Hannity/FOXNEWSW_20140312_050000_Hannity.thumbs/FOXNEWSW_20140312_050000_Hannity_000525.jpg</field>
+<field name="snippet">more breaking news on the malaysian airline mystery, and the conspiracy theorys are flooding the internet, including reports that some of the passenger cell phones may be active. bob beckel goes one on one with the founder of greenpeace. that's a global warming debate</field>
+</doc>
+</add>

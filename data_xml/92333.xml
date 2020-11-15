@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200911.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091126_150000_MSNBC_News_Live#start/924/end/959</field>
+<field name="datetime">11/26/2009 15:15:39</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091126_150000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091126_150000_MSNBC_News_Live/MSNBC_20091126_150000_MSNBC_News_Live.thumbs/MSNBC_20091126_150000_MSNBC_News_Live_000893.jpg</field>
+<field name="snippet">in greenhouse gas emissions in the next decade, which essentially would put the united states back where we were in terms of how much co2 we were putting in the air back into the 1980s. what that does is exposes him to criticism on both sides.</field>
+</doc>
+</add>

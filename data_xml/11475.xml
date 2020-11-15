@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190827_220000_BBC_News#start/1293/end/1328</field>
+<field name="datetime">8/27/2019 22:21:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190827_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190827_220000_BBC_News/BBCNEWS_20190827_220000_BBC_News.thumbs/BBCNEWS_20190827_220000_BBC_News_001288.jpg</field>
+<field name="snippet">about fighting climate change. let's speak now to dr andreza de souza santos, from oxford university's latin america centre, who is currently in manaus, in the amazon. thank you forjoining us. how</field>
+</doc>
+</add>

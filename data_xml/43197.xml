@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090909_030000_The_OReilly_Factor#start/2123/end/2158</field>
+<field name="datetime">9/9/2009 3:35:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20090909_030000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090909_030000_The_OReilly_Factor/FOXNEWS_20090909_030000_The_OReilly_Factor.thumbs/FOXNEWS_20090909_030000_The_OReilly_Factor_002096.jpg</field>
+<field name="snippet">msnbc news. it's the same message. both from the news and the media side. go green waxman marquis is good. kiwi have got to save the planet from global warming. it all works well.</field>
+</doc>
+</add>

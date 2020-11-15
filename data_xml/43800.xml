@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151231_120000_MSNBC_Live#start/6538/end/6573</field>
+<field name="datetime">12/31/2015 13:49:13</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20151231_120000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151231_120000_MSNBC_Live/MSNBCW_20151231_120000_MSNBC_Live.thumbs/MSNBCW_20151231_120000_MSNBC_Live_006525.jpg</field>
+<field name="snippet">by 2030, tackle inquality and climate change. tonight these goals provide a road map for the next 15 years. we want people as they think about new years and what the resolution will be to pick one</field>
+</doc>
+</add>

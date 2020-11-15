@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_110000_FOX_and_Friends#start/4542/end/4577</field>
+<field name="datetime">12/18/2009 12:15:57</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091218_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_110000_FOX_and_Friends/FOXNEWS_20091218_110000_FOX_and_Friends.thumbs/FOXNEWS_20091218_110000_FOX_and_Friends_004488.jpg</field>
+<field name="snippet">you just heard the president's speech live at the climate conference in copenhagen saying it is critical to the world's security and economy to fix the environment. but, take a look at a new fox news poll it finds only 17% of americans think global warming is a crisis.</field>
+</doc>
+</add>

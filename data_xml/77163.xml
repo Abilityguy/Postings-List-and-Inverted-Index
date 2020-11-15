@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191105_210000_Outside_Source#start/87/end/122</field>
+<field name="datetime">11/5/2019 21:01:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20191105_210000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191105_210000_Outside_Source/BBCNEWS_20191105_210000_Outside_Source.thumbs/BBCNEWS_20191105_210000_Outside_Source_000059.jpg</field>
+<field name="snippet">a group of 11000 scientists has endorsed a stark message on our climate. it's based on a new study that looks at a0 years of data and which concludes, 'the climate crisis has arrived</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180915_203000_Our_World#start/28/end/63</field>
+<field name="datetime">9/15/2018 20:30:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Our World</field>
+<field name="showid">BBCNEWS_20180915_203000_Our_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180915_203000_Our_World/BBCNEWS_20180915_203000_Our_World.thumbs/BBCNEWS_20180915_203000_Our_World_000058.jpg</field>
+<field name="snippet">the pontiff urged mafia gangsters to stop thinking about themselves and their money. nasa, has launched a billion-dollar satellite into space, on a mission to provide more precise information on how the earth's ice sheets are being eroded by global warming. at 10pm, kate silverton</field>
+</doc>
+</add>

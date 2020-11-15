@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190212_030000_BBC_News#start/714/end/749</field>
+<field name="datetime">2/12/2019 3:12:09</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190212_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190212_030000_BBC_News/BBCNEWS_20190212_030000_BBC_News.thumbs/BBCNEWS_20190212_030000_BBC_News_000689.jpg</field>
+<field name="snippet">human activity could drive the earth's entire insect population to extinction within a century, according to a major new scientific study. insects are vital pollinators, so any decline threatens food production and the latest warnings suggest 40% of species could be gone within a few decades. pesticides, agriculture and climate change are being blamed. more details from our environment</field>
+</doc>
+</add>

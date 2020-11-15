@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190823_080000_Fox_and_Friends_First#start/34/end/69</field>
+<field name="datetime">8/23/2019 8:00:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190823_080000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190823_080000_Fox_and_Friends_First/FOXNEWSW_20190823_080000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190823_080000_Fox_and_Friends_First_000058.jpg</field>
+<field name="snippet">we need bold and aggressive action. to combat climate change. todd: bernie sanders says he has the solution to climate change.</field>
+</doc>
+</add>

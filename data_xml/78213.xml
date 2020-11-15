@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191101_000000_Newsday#start/1371/end/1406</field>
+<field name="datetime">11/1/2019 0:23:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191101_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191101_000000_Newsday/BBCNEWS_20191101_000000_Newsday.thumbs/BBCNEWS_20191101_000000_Newsday_001347.jpg</field>
+<field name="snippet">something that big business and celebrities can be a part. thank you for coming to talk to us about your film and some of your adventures and your concerns around climate change and other issues. lovely to have you on the show. it started last month in tokyo</field>
+</doc>
+</add>

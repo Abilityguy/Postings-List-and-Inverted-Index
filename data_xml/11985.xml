@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190830_160000_BBC_News_at_Five#start/348/end/383</field>
+<field name="datetime">8/30/2019 16:06:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190830_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190830_160000_BBC_News_at_Five/BBCNEWS_20190830_160000_BBC_News_at_Five.thumbs/BBCNEWS_20190830_160000_BBC_News_at_Five_001738.jpg</field>
+<field name="snippet">by the australian government agency that manages it. its latest 5-yearly report warns that rising sea temperatures, caused by climate change, pose the most serious threat to the 1a00 miles of reef. it says action must be taken now, and on a global scale, if it is to be saved.</field>
+</doc>
+</add>

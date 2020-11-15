@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201409.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140923_100000_FOX_and_Friends#start/9721/end/9756</field>
+<field name="datetime">9/23/2014 12:42:16</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20140923_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140923_100000_FOX_and_Friends/FOXNEWSW_20140923_100000_FOX_and_Friends.thumbs/FOXNEWSW_20140923_100000_FOX_and_Friends_009705.jpg</field>
+<field name="snippet">about climate change, of course. we are live at the united nations to break that down for you. and an arab bank just found liable for 24 terrorist attacks that left the united states citizens dead. the verdict is historic and now</field>
+</doc>
+</add>

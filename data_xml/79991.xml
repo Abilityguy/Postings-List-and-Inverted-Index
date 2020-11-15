@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191128_050000_Tucker_Carlson_Tonight#start/358/end/393</field>
+<field name="datetime">11/28/2019 5:06:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20191128_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191128_050000_Tucker_Carlson_Tonight/FOXNEWSW_20191128_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20191128_050000_Tucker_Carlson_Tonight_000358.jpg</field>
+<field name="snippet">that climate change is ann existential threat, you have to learn how to pronounce t existential. not all of them have learned. elizabeth warren, meanwhile, promising to spend trillions of dollars every year providing free health care, the best</field>
+</doc>
+</add>

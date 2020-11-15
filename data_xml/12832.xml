@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170707_130000_BBC_News#start/746/end/781</field>
+<field name="datetime">7/7/2017 13:12:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170707_130000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170707_130000_BBC_News/BBCNEWS_20170707_130000_BBC_News.thumbs/BBCNEWS_20170707_130000_BBC_News_000718.jpg</field>
+<field name="snippet">to a climate change centre at some point today. we've been told that the trip has been cancelled. they will have a lecture inside the hotel instead. perhaps it gives you an idea of how insecure things feel in the city. you can probably hear the noise of the police helicopter.</field>
+</doc>
+</add>

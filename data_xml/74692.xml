@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200102_083000_Worklife#start/1177/end/1212</field>
+<field name="datetime">1/2/2020 8:49:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Worklife</field>
+<field name="showid">BBCNEWS_20200102_083000_Worklife</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200102_083000_Worklife/BBCNEWS_20200102_083000_Worklife.thumbs/BBCNEWS_20200102_083000_Worklife_001168.jpg</field>
+<field name="snippet">investing app that allows people to put their money into selected stocks and shares with a focus on climate change, equality and disruptive technology. tom mcgillycuddy is the co-founder of</field>
+</doc>
+</add>

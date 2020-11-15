@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190207_030000_BBC_News#start/0/end/34</field>
+<field name="datetime">2/7/2019 3:00:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190207_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190207_030000_BBC_News/BBCNEWS_20190207_030000_BBC_News.thumbs/BBCNEWS_20190207_030000_BBC_News_000028.jpg</field>
+<field name="snippet">a very warm welcome to bbc news - broadcasting to our viewers in north america and around the globe. my name's mike embley. our top stories: the most alarming warning yet on climate change. scientists say the world is on the verge of a tipping point, with hotter temperatures triggering unprecedented extremes of weather.</field>
+</doc>
+</add>

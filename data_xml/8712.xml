@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190905_040000_Tucker_Carlson_Tonight#start/1936/end/1971</field>
+<field name="datetime">9/5/2019 4:32:31</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190905_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190905_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190905_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190905_040000_Tucker_Carlson_Tonight_001919.jpg</field>
+<field name="snippet">beachfront compound in martha's vineyard. would you do that if you thought the seas wereey rising? by the way, would you fly private all the time as all these people do if you really believed climate change was an existential threat? no you wouldn't, they don't believe it.</field>
+</doc>
+</add>

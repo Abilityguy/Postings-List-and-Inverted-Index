@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091126_230000_Special_Report_With_Bret_Baier#start/2571/end/2606</field>
+<field name="datetime">11/26/2009 23:43:06</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091126_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091126_230000_Special_Report_With_Bret_Baier/FOXNEWS_20091126_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091126_230000_Special_Report_With_Bret_Baier_002544.jpg</field>
+<field name="snippet">on climate change, and it turns out, now one thing people in the house hate to do is vote for something that's not going to go anywhere in the senate, because why bother taking the political hit for nothing, so i think this isn't going to go forward.</field>
+</doc>
+</add>

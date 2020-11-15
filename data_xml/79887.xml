@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191127_050000_Tucker_Carlson_Tonight#start/555/end/590</field>
+<field name="datetime">11/27/2019 5:09:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20191127_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191127_050000_Tucker_Carlson_Tonight/FOXNEWSW_20191127_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20191127_050000_Tucker_Carlson_Tonight_000539.jpg</field>
+<field name="snippet">the first votes in iowa. and there are still new democrats getting into the race. tucker: yes. they don't have -- they can't pull a coalition together. from older people to younger people, to african-americans and hispanics, white liberals, academics, climate</field>
+</doc>
+</add>

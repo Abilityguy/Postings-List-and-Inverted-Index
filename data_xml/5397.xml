@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171201_040000_BBC_News#start/1234/end/1269</field>
+<field name="datetime">12/1/2017 4:20:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171201_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171201_040000_BBC_News/BBCNEWS_20171201_040000_BBC_News.thumbs/BBCNEWS_20171201_040000_BBC_News_001227.jpg</field>
+<field name="snippet">the grey glacier in southern chile, and it is a pretty significant development. it hasn't happened since the early 1990s, and scientists say it is all because of climate change. laura westbrook explains.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140214_230000_Special_Report_With_Bret_Baier#start/2366/end/2401</field>
+<field name="datetime">2/14/2014 23:39:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20140214_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140214_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20140214_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20140214_230000_Special_Report_With_Bret_Baier_002355.jpg</field>
+<field name="snippet">warming, and to put that in very simple terms, every high school kid today has not experienced global warming. every elementary school kid today has only experienced a slight global coolcooling.</field>
+</doc>
+</add>

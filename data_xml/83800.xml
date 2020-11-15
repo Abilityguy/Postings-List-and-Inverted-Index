@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190424_050000_Breakfast#start/7084/end/7119</field>
+<field name="datetime">4/24/2019 6:58:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190424_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190424_050000_Breakfast/BBCNEWS_20190424_050000_Breakfast.thumbs/BBCNEWS_20190424_050000_Breakfast_007077.jpg</field>
+<field name="snippet">putney bridge is slow into town, as hammersmith bridge remains closed. in central london, the climate change protest has been confined to marble arch, with bayswater road</field>
+</doc>
+</add>

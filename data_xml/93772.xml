@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190713_043000_The_Travel_Show#start/252/end/287</field>
+<field name="datetime">7/13/2019 4:34:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Travel Show</field>
+<field name="showid">BBCNEWS_20190713_043000_The_Travel_Show</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190713_043000_The_Travel_Show/BBCNEWS_20190713_043000_The_Travel_Show.thumbs/BBCNEWS_20190713_043000_The_Travel_Show_000238.jpg</field>
+<field name="snippet">this week on the show. saving the great barrier reef. this is just part of the solution. we have to restore coral populations, but we also have to manage climate change. sightseeing by sub. just started the descent under the water to the great barrier reef.</field>
+</doc>
+</add>

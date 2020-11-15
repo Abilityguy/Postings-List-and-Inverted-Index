@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201001.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100123_130000_MSNBC_News_Live#start/1244/end/1279</field>
+<field name="datetime">1/23/2010 13:20:59</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100123_130000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100123_130000_MSNBC_News_Live/MSNBC_20100123_130000_MSNBC_News_Live.thumbs/MSNBC_20100123_130000_MSNBC_News_Live_001230.jpg</field>
+<field name="snippet">thing nationally. so one group of people say, focus on the economy. get that, don't do health care. don't do climate change. focus on the economy. the other group is saying, the government's trying to do too much and they're upset about</field>
+</doc>
+</add>

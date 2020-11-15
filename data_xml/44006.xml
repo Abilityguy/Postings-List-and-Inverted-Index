@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180106_010000_Tucker_Carlson_Tonight#start/1479/end/1514</field>
+<field name="datetime">1/6/2018 1:24:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20180106_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180106_010000_Tucker_Carlson_Tonight/FOXNEWSW_20180106_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20180106_010000_Tucker_Carlson_Tonight_001468.jpg</field>
+<field name="snippet">then three years later we had the record snow last winter. another effect of global warming. in the same period they wrote that the overabundance of ice is a sign of global warming</field>
+</doc>
+</add>

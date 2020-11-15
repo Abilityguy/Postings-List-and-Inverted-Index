@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201903.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190302_170000_Weekends_With_Alex_Witt#start/3337/end/3372</field>
+<field name="datetime">3/2/2019 17:55:52</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20190302_170000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190302_170000_Weekends_With_Alex_Witt/MSNBCW_20190302_170000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20190302_170000_Weekends_With_Alex_Witt_003331.jpg</field>
+<field name="snippet">today we say to donald trump and the fossil fuel industry, that climate change is not a hoax. but it is an existential threat</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201006.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100616_100000_FOX_and_Friends#start/4155/end/4190</field>
+<field name="datetime">6/16/2010 11:09:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100616_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100616_100000_FOX_and_Friends/FOXNEWS_20100616_100000_FOX_and_Friends.thumbs/FOXNEWS_20100616_100000_FOX_and_Friends_004132.jpg</field>
+<field name="snippet">if you look at his language, he used a lot of the war language. like war on fossil fuels. he didn't use the language that he used before, which is cap and trade. climate change. global warming. none of that language is being used anymore so the debate has shifted significantly.</field>
+</doc>
+</add>

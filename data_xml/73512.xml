@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201108.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20110803_100000_FOX_and_Friends#start/7786/end/7821</field>
+<field name="datetime">8/3/2011 12:10:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20110803_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20110803_100000_FOX_and_Friends/FOXNEWSW_20110803_100000_FOX_and_Friends.thumbs/FOXNEWSW_20110803_100000_FOX_and_Friends_007772.jpg</field>
+<field name="snippet">now maybe that will be a good thing because sponge bob is talking a lot about global warming and he's only looking at it from one point of view. sponge bob, you're wasting precious carbon dioxide!</field>
+</doc>
+</add>

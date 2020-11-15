@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190303_053000_The_Week_in_Parliament#start/945/end/980</field>
+<field name="datetime">3/3/2019 5:46:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Week in Parliament</field>
+<field name="showid">BBCNEWS_20190303_053000_The_Week_in_Parliament</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190303_053000_The_Week_in_Parliament/BBCNEWS_20190303_053000_The_Week_in_Parliament.thumbs/BBCNEWS_20190303_053000_The_Week_in_Parliament_000928.jpg</field>
+<field name="snippet">we cannot be tackling climate change while ploughing billions of pounds into north sea oil and gas. we can't tackle the climate crisis while chucking billions into new roads, and we can't tackle the climate crisis whilst our economy is built on the assumption that precious minerals, fresh air, clean water can magically regenerate themselves in an instant.</field>
+</doc>
+</add>

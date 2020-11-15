@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201605.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160515_200000_Americas_Election_HQ#start/1067/end/1102</field>
+<field name="datetime">5/15/2016 20:18:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Election HQ</field>
+<field name="showid">FOXNEWSW_20160515_200000_Americas_Election_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160515_200000_Americas_Election_HQ/FOXNEWSW_20160515_200000_Americas_Election_HQ.thumbs/FOXNEWSW_20160515_200000_Americas_Election_HQ_001017.jpg</field>
+<field name="snippet">investigate the deadly bus crash in south texas. eight people were killed, 44 others were hurt when that charter bus rolled over on a rain-slicked highway. police outside seattle arresting more than 50 climate change activists. they've been camping out on railroad tracks near an oil refinery since friday,</field>
+</doc>
+</add>

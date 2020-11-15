@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091109_230000_Special_Report_With_Bret_Baier#start/2037/end/2072</field>
+<field name="datetime">11/9/2009 23:34:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091109_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091109_230000_Special_Report_With_Bret_Baier/FOXNEWS_20091109_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091109_230000_Special_Report_With_Bret_Baier_002034.jpg</field>
+<field name="snippet">between democrats and republicans over the energy bill the house narrowly passed in june. this is not an energy bill. this is a cap and trade bill. this is a huge tax increase. but wider differences between the developing world kept climate change negotiators from</field>
+</doc>
+</add>

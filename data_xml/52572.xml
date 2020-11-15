@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181210_040000_BBC_News#start/918/end/953</field>
+<field name="datetime">12/10/2018 4:15:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181210_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181210_040000_BBC_News/BBCNEWS_20181210_040000_BBC_News.thumbs/BBCNEWS_20181210_040000_BBC_News_000897.jpg</field>
+<field name="snippet">for the final week of the un climate change conference. ahead of their arrival, the united states, saudi arabia and kuwait said they were only prepared to note rather than welcome a landmark report, which recommends steep emissions cuts to keep temperature rises below one point five degrees celcius by the end of the century. thousands have gathered in delhi to</field>
+</doc>
+</add>

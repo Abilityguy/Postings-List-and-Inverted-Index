@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_060000_Breakfast#start/3807/end/3842</field>
+<field name="datetime">1/16/2020 7:03:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20200116_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_060000_Breakfast/BBCNEWS_20200116_060000_Breakfast.thumbs/BBCNEWS_20200116_060000_Breakfast_003779.jpg</field>
+<field name="snippet">here's our science editor, david shuckman. the fires in australia are ferocious, out-of-control and far worse than usual. they've made headlines around the world and scientists have warned that climate change has</field>
+</doc>
+</add>

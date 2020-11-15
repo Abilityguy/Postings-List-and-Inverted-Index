@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201112.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20111203_120000_Up_W_Chris_Hayes#start/1866/end/1901</field>
+<field name="datetime">12/3/2011 12:31:21</field>
+<field name="station">MSNBC</field>
+<field name="show">Up W Chris Hayes</field>
+<field name="showid">MSNBCW_20111203_120000_Up_W_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20111203_120000_Up_W_Chris_Hayes/MSNBCW_20111203_120000_Up_W_Chris_Hayes.thumbs/MSNBCW_20111203_120000_Up_W_Chris_Hayes_001857.jpg</field>
+<field name="snippet">campaign finance reform and that sort of thing. amy goodman of democracy now who i have been listening to for quite some time is in durban, south africa, covering the international global warming conference. she is going to join us live</field>
+</doc>
+</add>

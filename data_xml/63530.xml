@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190326_230000_BBC_News#start/1595/end/1630</field>
+<field name="datetime">3/26/2019 23:26:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190326_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190326_230000_BBC_News/BBCNEWS_20190326_230000_BBC_News.thumbs/BBCNEWS_20190326_230000_BBC_News_001588.jpg</field>
+<field name="snippet">these bees have a safe home here, but today's landmark report reveals their wild cousins, along with dozens of other key pollinating insects, such as hoverflies, are struggling to survive. they've vanished from a quarter of the places they used to live. the reason - a complex mix of climate change, habitat loss and intensive farming.</field>
+</doc>
+</add>

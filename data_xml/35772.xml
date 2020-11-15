@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201601.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160111_060000_The_Greg_Gutfeld_Show#start/405/end/440</field>
+<field name="datetime">1/11/2016 6:07:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Greg Gutfeld Show</field>
+<field name="showid">FOXNEWSW_20160111_060000_The_Greg_Gutfeld_Show</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160111_060000_The_Greg_Gutfeld_Show/FOXNEWSW_20160111_060000_The_Greg_Gutfeld_Show.thumbs/FOXNEWSW_20160111_060000_The_Greg_Gutfeld_Show_000405.jpg</field>
+<field name="snippet">are encouraged, encouraged to see the apocalyptic consequences of climate change. but in this case, it's like, you know what, it has nothing to do with this at all. it's gun crime. i mean, yeah, you can call it whatever you want. it doesn't make us any safer.</field>
+</doc>
+</add>

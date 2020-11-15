@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201401.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140107_210000_MSNBC_Live#start/2310/end/2345</field>
+<field name="datetime">1/7/2014 21:38:45</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20140107_210000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140107_210000_MSNBC_Live/MSNBCW_20140107_210000_MSNBC_Live.thumbs/MSNBCW_20140107_210000_MSNBC_Live_002296.jpg</field>
+<field name="snippet">so off base. only half of the world is in winter. the rest is in summer. that's why it is global warming. not american warming. you can't infer anything about global temperature trends.</field>
+</doc>
+</add>

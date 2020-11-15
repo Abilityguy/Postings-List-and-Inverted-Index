@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181009_000000_Newsday#start/1022/end/1057</field>
+<field name="datetime">10/9/2018 0:17:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20181009_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181009_000000_Newsday/BBCNEWS_20181009_000000_Newsday.thumbs/BBCNEWS_20181009_000000_Newsday_001018.jpg</field>
+<field name="snippet">at some front pages from around the world. the front page of the straits times looks at the stark un report into climate change. the newspaper quotes the 33-page report, which concludes</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170531_170000_Happening_Now#start/195/end/230</field>
+<field name="datetime">5/31/2017 17:03:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20170531_170000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170531_170000_Happening_Now/FOXNEWSW_20170531_170000_Happening_Now.thumbs/FOXNEWSW_20170531_170000_Happening_Now_000177.jpg</field>
+<field name="snippet">been asking president trump to reverse all of president obama's climate change policies, which i seemed to be aimed at primarily coal, which is seen as a large contributor to climate change. just for the record, china remains the largest contributor</field>
+</doc>
+</add>

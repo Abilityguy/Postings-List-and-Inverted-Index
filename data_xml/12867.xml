@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170708_103000_Dateline_London#start/0/end/32</field>
+<field name="datetime">7/8/2017 10:30:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Dateline London</field>
+<field name="showid">BBCNEWS_20170708_103000_Dateline_London</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170708_103000_Dateline_London/BBCNEWS_20170708_103000_Dateline_London.thumbs/BBCNEWS_20170708_103000_Dateline_London_000058.jpg</field>
+<field name="snippet">a warm welcome. the discussions in the germany city of hamburg this weekend involving the world's leaders, come at a delicate time for the world order. north korea; climate change; the immigration crisis; trump in europe, the list goes on. iain - president trump now tells us there's going to be a very fast</field>
+</doc>
+</add>

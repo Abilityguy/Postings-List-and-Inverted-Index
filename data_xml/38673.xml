@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201011.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101109_160000_Happening_Now#start/6491/end/6526</field>
+<field name="datetime">11/9/2010 17:48:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20101109_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101109_160000_Happening_Now/FOXNEWS_20101109_160000_Happening_Now.thumbs/FOXNEWS_20101109_160000_Happening_Now_006470.jpg</field>
+<field name="snippet">you deal with very complex subjects, whether it's dealing with climate change or revamping in many respects our health care system, those bills do get long because the alternative is short bills to turn things over to regulators</field>
+</doc>
+</add>

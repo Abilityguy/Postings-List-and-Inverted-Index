@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_180000_BBC_News_at_Six#start/809/end/844</field>
+<field name="datetime">12/3/2018 18:13:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20181203_180000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_180000_BBC_News_at_Six/BBCNEWS_20181203_180000_BBC_News_at_Six.thumbs/BBCNEWS_20181203_180000_BBC_News_at_Six_000807.jpg</field>
+<field name="snippet">sir david attenborough warns, in a speech to world leaders, climate change is the greatest threat to humanity in thousands of years. and still to come. of this evening's third round draw.</field>
+</doc>
+</add>

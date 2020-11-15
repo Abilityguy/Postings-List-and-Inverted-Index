@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201703.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170315_150000_Happening_Now#start/667/end/702</field>
+<field name="datetime">3/15/2017 15:11:22</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20170315_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170315_150000_Happening_Now/FOXNEWSW_20170315_150000_Happening_Now.thumbs/FOXNEWSW_20170315_150000_Happening_Now_000658.jpg</field>
+<field name="snippet">president obama as part of his effort to try to fight global warming. mr. trump is headed to michigan. he's going to be saying that the fuel standards that have been imposed by the white house are too stringent. he's going to relax them and,</field>
+</doc>
+</add>

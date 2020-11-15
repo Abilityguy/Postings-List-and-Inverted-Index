@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_120000_BBC_News_at_One#start/644/end/679</field>
+<field name="datetime">8/8/2019 12:10:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190808_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_120000_BBC_News_at_One/BBCNEWS_20190808_120000_BBC_News_at_One.thumbs/BBCNEWS_20190808_120000_BBC_News_at_One_000627.jpg</field>
+<field name="snippet">being discarded, because wasting food means the greenhouse gases created to produce fertilisers to grow the crops have been for nothing. a charity in geneva redistributes waste food. here they are taking stale bread and turning it into new cookies.</field>
+</doc>
+</add>

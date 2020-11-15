@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201806.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20180609_140000_AM_Joy#start/74/end/109</field>
+<field name="datetime">6/9/2018 14:01:29</field>
+<field name="station">MSNBC</field>
+<field name="show">AM Joy</field>
+<field name="showid">MSNBCW_20180609_140000_AM_Joy</field>
+<field name="preview">https://archive.org/download/MSNBCW_20180609_140000_AM_Joy/MSNBCW_20180609_140000_AM_Joy.thumbs/MSNBCW_20180609_140000_AM_Joy_000057.jpg</field>
+<field name="snippet">the u.s. becomes increasingly isolated from everything from climate change to trade. trump just recently imposed steep tariff on imports from the european union, canada and</field>
+</doc>
+</add>

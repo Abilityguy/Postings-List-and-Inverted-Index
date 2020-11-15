@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_050000_The_Briefing#start/513/end/548</field>
+<field name="datetime">1/17/2020 5:08:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20200117_050000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_050000_The_Briefing/BBCNEWS_20200117_050000_The_Briefing.thumbs/BBCNEWS_20200117_050000_The_Briefing_000508.jpg</field>
+<field name="snippet">the building and flown to safety. we've been focusing this week on climate change and the scale of the crisis - sir david attenborough's words, you remember from yesterday. glasgow is working on plans</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181124_110000_Fox_and_Friends_Saturday#start/2306/end/2341</field>
+<field name="datetime">11/24/2018 11:38:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20181124_110000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181124_110000_Fox_and_Friends_Saturday/FOXNEWSW_20181124_110000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20181124_110000_Fox_and_Friends_Saturday_002307.jpg</field>
+<field name="snippet">flag. rachel: alexandria ocasio-cortez always in the news and weighing in on the federal government's new report of climate change. the new york congresswoman elect tweeting in part, quote: people are going to die if we don't start addressing climate change asap. the report warns of</field>
+</doc>
+</add>

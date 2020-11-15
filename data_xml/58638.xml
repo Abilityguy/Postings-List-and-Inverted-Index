@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181102_053000_Business_Briefing#start/783/end/818</field>
+<field name="datetime">11/2/2018 5:43:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Business Briefing</field>
+<field name="showid">BBCNEWS_20181102_053000_Business_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181102_053000_Business_Briefing/BBCNEWS_20181102_053000_Business_Briefing.thumbs/BBCNEWS_20181102_053000_Business_Briefing_000778.jpg</field>
+<field name="snippet">worldwide trends in global warming driven primarily by fossil fuels. coming up at six o'clock on breakfastjon kay and naga munchetty will have all the day's news, business and sport. this is the briefing from bbc news.</field>
+</doc>
+</add>

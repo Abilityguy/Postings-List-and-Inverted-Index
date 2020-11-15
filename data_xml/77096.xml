@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190503_233000_Weather_World#start/1391/end/1426</field>
+<field name="datetime">5/3/2019 23:53:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20190503_233000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190503_233000_Weather_World/BBCNEWS_20190503_233000_Weather_World.thumbs/BBCNEWS_20190503_233000_Weather_World_001379.jpg</field>
+<field name="snippet">he knows this because for nearly half a century, he has kept a weather diary and it is a rich source of climate cataloguing for scientists. but could one result of climate change mitigate some of its effects? rising sea levels are forecast to flood more land near our coasts, but wetlands suck in and store the atmospheric carbon that is warming the planet,</field>
+</doc>
+</add>

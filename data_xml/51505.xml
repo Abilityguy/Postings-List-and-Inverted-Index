@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181215_153000_Click#start/15/end/50</field>
+<field name="datetime">12/15/2018 15:30:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Click</field>
+<field name="showid">BBCNEWS_20181215_153000_Click</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181215_153000_Click/BBCNEWS_20181215_153000_Click.thumbs/BBCNEWS_20181215_153000_Click_000057.jpg</field>
+<field name="snippet">blaze which broke out in an enclosure at chester zoo, prompting the evacuation of the attraction. the un climate conference in poland goes into an extra day to allow countries more time to finalise a deal on cutting greenhouse gas emissions.</field>
+</doc>
+</add>

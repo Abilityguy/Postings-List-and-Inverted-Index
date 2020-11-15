@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201508.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150828_070000_All_In_With_Chris_Hayes#start/1502/end/1537</field>
+<field name="datetime">8/28/2015 7:25:17</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20150828_070000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150828_070000_All_In_With_Chris_Hayes/MSNBCW_20150828_070000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20150828_070000_All_In_With_Chris_Hayes_001485.jpg</field>
+<field name="snippet">hillary clinton, bernie sanders, biden may be getting in. do you have a favorite? no, i don't have a favorite. i will say that they're all doing a great job in their own ways. i had a meeting with hillary clinton. she said during that meeting that she thought climate change was an existential threat. i'm very pleased by that.</field>
+</doc>
+</add>

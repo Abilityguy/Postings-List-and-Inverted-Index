@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190929_040000_BBC_News#start/1423/end/1458</field>
+<field name="datetime">9/29/2019 4:23:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190929_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190929_040000_BBC_News/BBCNEWS_20190929_040000_BBC_News.thumbs/BBCNEWS_20190929_040000_BBC_News_001409.jpg</field>
+<field name="snippet">there've been huge protests outside the swiss parliament with tens of thousands of people demanding the government take action on climate change. 0rganisers of the march in the capital bern say 100000 people took part. police would only say it was one of the biggest demonstrations</field>
+</doc>
+</add>

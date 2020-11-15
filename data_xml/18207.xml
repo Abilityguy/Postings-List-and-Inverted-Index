@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201305.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130503_200000_Your_World_With_Neil_Cavuto#start/1319/end/1354</field>
+<field name="datetime">5/3/2013 20:22:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20130503_200000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130503_200000_Your_World_With_Neil_Cavuto/FOXNEWSW_20130503_200000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20130503_200000_Your_World_With_Neil_Cavuto_001305.jpg</field>
+<field name="snippet">so much for al gore's global warming prediction when he says we should brace ourselves for one hot 2013. to the weather bell.com's jill, who says, i'll need to put the global warming talk on ice.</field>
+</doc>
+</add>

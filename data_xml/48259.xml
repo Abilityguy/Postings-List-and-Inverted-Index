@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201802.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180213_010000_Tucker_Carlson_Tonight#start/3216/end/3251</field>
+<field name="datetime">2/13/2018 1:53:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20180213_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180213_010000_Tucker_Carlson_Tonight/FOXNEWSW_20180213_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20180213_010000_Tucker_Carlson_Tonight_003208.jpg</field>
+<field name="snippet">all? are they always good and right? there is a woman running for governor in minnesota right now on economic stimulus to tackle climate change. we're moving forward. a woman wisconsin conservative energy forum.</field>
+</doc>
+</add>

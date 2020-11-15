@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201602.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160219_050000_The_Rachel_Maddow_Show#start/3549/end/3584</field>
+<field name="datetime">2/19/2016 5:59:24</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBCW_20160219_050000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160219_050000_The_Rachel_Maddow_Show/MSNBCW_20160219_050000_The_Rachel_Maddow_Show.thumbs/MSNBCW_20160219_050000_The_Rachel_Maddow_Show_003538.jpg</field>
+<field name="snippet">for example, i believe that climate change is one of the great challenges facing this planet. and wla have introduced legislation to do by the way, is to say that we will not extract fossil fuels in the future from any public lands.</field>
+</doc>
+</add>

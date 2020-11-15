@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191126_230000_BBC_News#start/1000/end/1035</field>
+<field name="datetime">11/26/2019 23:16:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191126_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191126_230000_BBC_News/BBCNEWS_20191126_230000_BBC_News.thumbs/BBCNEWS_20191126_230000_BBC_News_000988.jpg</field>
+<field name="snippet">the united nations says the world has to act much faster to avoid dangerous levels of global warming. hundreds more families have come forward with potential cases</field>
+</doc>
+</add>

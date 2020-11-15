@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190302_110000_Fox_and_Friends_Saturday#start/7653/end/7688</field>
+<field name="datetime">3/2/2019 13:07:48</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20190302_110000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190302_110000_Fox_and_Friends_Saturday/FOXNEWSW_20190302_110000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20190302_110000_Fox_and_Friends_Saturday_007647.jpg</field>
+<field name="snippet">they go after president trump's finances. pete: they're going to investigate everything. if they don't find any evidence of collusion which there's none, and after two years if you can't find it, it ain't there. you can not go too far on the issue of climate change.</field>
+</doc>
+</add>

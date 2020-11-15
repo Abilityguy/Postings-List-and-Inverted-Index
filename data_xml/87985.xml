@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191203_010000_Newsday#start/115/end/150</field>
+<field name="datetime">12/3/2019 1:02:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191203_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191203_010000_Newsday/BBCNEWS_20191203_010000_Newsday.thumbs/BBCNEWS_20191203_010000_Newsday_000477.jpg</field>
+<field name="snippet">on climate change over the past quarter of the century, with huge gatherings like this one. but the source of the problem remains unchecked. all the more reason, the head of the un tells me, to help those most in danger. because, whether people like to admit it or not,</field>
+</doc>
+</add>

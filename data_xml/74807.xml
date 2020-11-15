@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_110000_BBC_Newsroom_Live#start/5116/end/5151</field>
+<field name="datetime">1/17/2020 12:25:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20200117_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_110000_BBC_Newsroom_Live/BBCNEWS_20200117_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20200117_110000_BBC_Newsroom_Live_005097.jpg</field>
+<field name="snippet">to send a signal that at least it is trying. and this matters, because an international summit on climate change is due to take place here in november, and the world will be watching what this city does.</field>
+</doc>
+</add>

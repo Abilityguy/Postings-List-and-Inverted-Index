@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201211.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121114_190000_News_Nation#start/1039/end/1074</field>
+<field name="datetime">11/14/2012 19:17:34</field>
+<field name="station">MSNBC</field>
+<field name="show">News Nation</field>
+<field name="showid">MSNBCW_20121114_190000_News_Nation</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121114_190000_News_Nation/MSNBCW_20121114_190000_News_Nation.thumbs/MSNBCW_20121114_190000_News_Nation_001018.jpg</field>
+<field name="snippet">legislation that could include some kind of attacks on carbon? you know, as you know, mark, we can't attribute any particular weather event to climate change.</field>
+</doc>
+</add>

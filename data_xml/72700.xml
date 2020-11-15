@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201406.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140626_220000_PoliticsNation#start/1835/end/1870</field>
+<field name="datetime">6/26/2014 22:30:50</field>
+<field name="station">MSNBC</field>
+<field name="show">PoliticsNation</field>
+<field name="showid">MSNBCW_20140626_220000_PoliticsNation</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140626_220000_PoliticsNation/MSNBCW_20140626_220000_PoliticsNation.thumbs/MSNBCW_20140626_220000_PoliticsNation_001816.jpg</field>
+<field name="snippet">president obama delivered the punch line. folks tell you climate change is a hoax, a fad, a plot. it's a liberal plot. they duck the question. hey, i'm not a scientist. which really are translates</field>
+</doc>
+</add>

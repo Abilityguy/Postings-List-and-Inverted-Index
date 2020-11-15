@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190217_000000_BBC_News#start/627/end/662</field>
+<field name="datetime">2/17/2019 0:10:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190217_000000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190217_000000_BBC_News/BBCNEWS_20190217_000000_BBC_News.thumbs/BBCNEWS_20190217_000000_BBC_News_000628.jpg</field>
+<field name="snippet">former us secretary of state, john kerry, has slammed the climate change record of the current us government, personally criticising president donald trump and vice-president mike pence. kerry was speaking at the munich security conference which, as we've reported, was also attended by the vice-president.</field>
+</doc>
+</add>

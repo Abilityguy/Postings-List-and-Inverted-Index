@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201306.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130614_100000_FOX_and_Friends#start/1136/end/1171</field>
+<field name="datetime">6/14/2013 10:19:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20130614_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130614_100000_FOX_and_Friends/FOXNEWSW_20130614_100000_FOX_and_Friends.thumbs/FOXNEWSW_20130614_100000_FOX_and_Friends_001125.jpg</field>
+<field name="snippet">you know what the critics will say to you, that there are other outside influences that factor into the price of gas. i'll tell you what the critics are saying. you must not exploit fossil fuels. global warming. look, last year our</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140215_110000_FOX_and_Friends_Saturday#start/7378/end/7413</field>
+<field name="datetime">2/15/2014 13:03:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20140215_110000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140215_110000_FOX_and_Friends_Saturday/FOXNEWSW_20140215_110000_FOX_and_Friends_Saturday.thumbs/FOXNEWSW_20140215_110000_FOX_and_Friends_Saturday_007365.jpg</field>
+<field name="snippet">pass a 1 billion-dollar fund to combat climate change. he says the money would would be be used to technology, infrastructure as millions of americans are still</field>
+</doc>
+</add>

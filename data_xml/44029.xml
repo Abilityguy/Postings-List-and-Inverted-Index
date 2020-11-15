@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180106_010000_Tucker_Carlson_Tonight#start/1018/end/1053</field>
+<field name="datetime">1/6/2018 1:17:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20180106_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180106_010000_Tucker_Carlson_Tonight/FOXNEWSW_20180106_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20180106_010000_Tucker_Carlson_Tonight_000988.jpg</field>
+<field name="snippet">global warming is real. is it? when you have a cold. .stuff happens. shut down cold symptoms fast.</field>
+</doc>
+</add>

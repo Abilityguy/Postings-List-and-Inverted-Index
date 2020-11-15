@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091210_110000_Morning_Joe#start/9840/end/9875</field>
+<field name="datetime">12/10/2009 13:44:15</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20091210_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20091210_110000_Morning_Joe/MSNBC_20091210_110000_Morning_Joe.thumbs/MSNBC_20091210_110000_Morning_Joe_009840.jpg</field>
+<field name="snippet">democrats show there is solid evidence of global warming. sarah palin is trying to capitalize on that. i think it is helpful for sarah palin, to place herself against al gore, the nobel prize</field>
+</doc>
+</add>

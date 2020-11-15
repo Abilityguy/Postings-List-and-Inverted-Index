@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091205_100000_The_OReilly_Factor#start/2278/end/2313</field>
+<field name="datetime">12/5/2009 10:38:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20091205_100000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091205_100000_The_OReilly_Factor/FOXNEWS_20091205_100000_The_OReilly_Factor.thumbs/FOXNEWS_20091205_100000_The_OReilly_Factor_002271.jpg</field>
+<field name="snippet">alarmist -- sean: all the people in houston today, that had a snowstorm, you know what? i'm sure they're all convinced global warming is real. but you need to have i think the other side needs to be challenged as well. you need -- sean: i agree with that.</field>
+</doc>
+</add>

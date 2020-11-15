@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201811.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181122_040000_The_11th_Hour_With_Brian_Williams#start/2120/end/2155</field>
+<field name="datetime">11/22/2018 4:35:35</field>
+<field name="station">MSNBC</field>
+<field name="show">The 11th Hour With Brian Williams</field>
+<field name="showid">MSNBCW_20181122_040000_The_11th_Hour_With_Brian_Williams</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181122_040000_The_11th_Hour_With_Brian_Williams/MSNBCW_20181122_040000_The_11th_Hour_With_Brian_Williams.thumbs/MSNBCW_20181122_040000_The_11th_Hour_With_Brian_Williams_002098.jpg</field>
+<field name="snippet">whatever happened to global warming?' and this. 'you can't win with the fake news media. a big story today is that because i have pushed so hard and gotten, capitalized, gasoline prices so low, more people are driving and i have</field>
+</doc>
+</add>

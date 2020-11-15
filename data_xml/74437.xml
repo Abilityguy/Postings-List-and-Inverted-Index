@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200102_140000_Afternoon_Live#start/7787/end/7822</field>
+<field name="datetime">1/2/2020 16:10:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20200102_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200102_140000_Afternoon_Live/BBCNEWS_20200102_140000_Afternoon_Live.thumbs/BBCNEWS_20200102_140000_Afternoon_Live_007768.jpg</field>
+<field name="snippet">now you used the phrase 'in wetter times'. the problem is there haven't been wetter times recently, as you say. there are those who are saying this is manifestly the result of climate change. well, climate change is definitely raising the average temperature.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170526_073000_BBC_Business_Live#start/131/end/166</field>
+<field name="datetime">5/26/2017 7:32:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Business Live</field>
+<field name="showid">BBCNEWS_20170526_073000_BBC_Business_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170526_073000_BBC_Business_Live/BBCNEWS_20170526_073000_BBC_Business_Live.thumbs/BBCNEWS_20170526_073000_BBC_Business_Live_000117.jpg</field>
+<field name="snippet">after president trump came to power promising to put 'america first'. the other g7 members will be pushing him to soften this position. then there's the environment - the future of the 2015 paris climate change agreement.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201901.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190131_220000_MTP_Daily#start/1524/end/1559</field>
+<field name="datetime">1/31/2019 22:25:39</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20190131_220000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190131_220000_MTP_Daily/MSNBCW_20190131_220000_MTP_Daily.thumbs/MSNBCW_20190131_220000_MTP_Daily_001498.jpg</field>
+<field name="snippet">we have the first generation to feel the sting of climate change. it seems to be resonating, and thank you, chuck, you were the first sunday tv show to really</field>
+</doc>
+</add>

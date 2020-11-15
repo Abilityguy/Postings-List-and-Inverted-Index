@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091204_140000_Americas_Newsroom#start/3861/end/3896</field>
+<field name="datetime">12/4/2009 15:04:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20091204_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091204_140000_Americas_Newsroom/FOXNEWS_20091204_140000_Americas_Newsroom.thumbs/FOXNEWS_20091204_140000_Americas_Newsroom_003829.jpg</field>
+<field name="snippet">examine e-mails and other information to see if there was any manipulation. meanwhile, the united nations climate change panel is also planning to investigate. bill: penn state university also</field>
+</doc>
+</add>

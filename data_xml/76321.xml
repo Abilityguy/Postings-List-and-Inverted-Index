@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190513_010000_BBC_News#start/576/end/611</field>
+<field name="datetime">5/13/2019 1:09:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190513_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190513_010000_BBC_News/BBCNEWS_20190513_010000_BBC_News.thumbs/BBCNEWS_20190513_010000_BBC_News_000567.jpg</field>
+<field name="snippet">from the un secretary general, antonio guterres. speaking in new zealand, he described climate change as the defining issue of our time. sunita jaswal has more.</field>
+</doc>
+</add>

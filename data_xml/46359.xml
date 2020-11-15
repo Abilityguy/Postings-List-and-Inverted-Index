@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201510.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151025_180000_Meet_the_Press#start/1088/end/1123</field>
+<field name="datetime">10/25/2015 18:18:23</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20151025_180000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151025_180000_Meet_the_Press/MSNBCW_20151025_180000_Meet_the_Press.thumbs/MSNBCW_20151025_180000_Meet_the_Press_001065.jpg</field>
+<field name="snippet">street journal' poll we asked americans which political party is in the maybe stream on these six issues. gay marriage, abortion, climate change, fiscal issues, immigration and guns. not surprisingly, democratic primary voters believe they're in the mainstream on all six of those issues from gay marriage</field>
+</doc>
+</add>

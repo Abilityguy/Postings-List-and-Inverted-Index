@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190629_173000_Sportsday#start/3/end/38</field>
+<field name="datetime">6/29/2019 17:30:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Sportsday</field>
+<field name="showid">BBCNEWS_20190629_173000_Sportsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190629_173000_Sportsday/BBCNEWS_20190629_173000_Sportsday.thumbs/BBCNEWS_20190629_173000_Sportsday_000029.jpg</field>
+<field name="snippet">theresa may urges world leaders to follow the uk's target and eliminate greenhouse gas emissions by 2050, at the 620 summit. the conservative party leadership candidates, boris johnson and jeremy hunt, go head to head at hustings</field>
+</doc>
+</add>

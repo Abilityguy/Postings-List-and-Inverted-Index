@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201104.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110421_080000_Special_Report_With_Bret_Baier#start/1900/end/1935</field>
+<field name="datetime">4/21/2011 8:31:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20110421_080000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110421_080000_Special_Report_With_Bret_Baier/FOXNEWS_20110421_080000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20110421_080000_Special_Report_With_Bret_Baier_001675.jpg</field>
+<field name="snippet">the obama administration has some surprising news about greenhouse gas emissions. the president comes up with a medical diagnose foe analysis that may not be what the doctor ordered. grapevine is next. bret: now some fresh</field>
+</doc>
+</add>

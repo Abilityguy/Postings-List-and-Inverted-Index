@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091203_180000_The_Live_Desk#start/641/end/676</field>
+<field name="datetime">12/3/2009 18:10:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Live Desk</field>
+<field name="showid">FOXNEWS_20091203_180000_The_Live_Desk</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091203_180000_The_Live_Desk/FOXNEWS_20091203_180000_The_Live_Desk.thumbs/FOXNEWS_20091203_180000_The_Live_Desk_000630.jpg</field>
+<field name="snippet">presented by these scientists constitutes a small part of the immense body of data and analysis on which our understanding of the issue of climate change rests. he did not convince</field>
+</doc>
+</add>

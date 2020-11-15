@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140212_220000_The_Five#start/518/end/553</field>
+<field name="datetime">2/12/2014 22:08:53</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20140212_220000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140212_220000_The_Five/FOXNEWSW_20140212_220000_The_Five.thumbs/FOXNEWSW_20140212_220000_The_Five_000495.jpg</field>
+<field name="snippet">pipeline people show up at awl gore's door? why not? what if a bunch of people from new york went to complain about the weather on al gore's doorstep? where is that going? to complain about global warming or the lack thereof?</field>
+</doc>
+</add>

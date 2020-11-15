@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090709_170000_The_Live_Desk#start/336/end/371</field>
+<field name="datetime">7/9/2009 17:05:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Live Desk</field>
+<field name="showid">FOXNEWS_20090709_170000_The_Live_Desk</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090709_170000_The_Live_Desk/FOXNEWS_20090709_170000_The_Live_Desk.thumbs/FOXNEWS_20090709_170000_The_Live_Desk_000327.jpg</field>
+<field name="snippet">few moments ago, he said, 'look, what happened in congress signals to many nations that the united states is for the first time going to confront climate change with higher taxes and alternative energy.'</field>
+</doc>
+</add>

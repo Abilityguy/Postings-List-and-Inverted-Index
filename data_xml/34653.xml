@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201509.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150930_070000_All_In_With_Chris_Hayes#start/93/end/128</field>
+<field name="datetime">9/30/2015 7:01:48</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20150930_070000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150930_070000_All_In_With_Chris_Hayes/MSNBCW_20150930_070000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20150930_070000_All_In_With_Chris_Hayes_000075.jpg</field>
+<field name="snippet">conference could not be more appropriate. yesterday, the streets of miami beach were hit with coastal flooding exacerbated by climate change. a report this summer found that florida faces more risk from the effects of climate change than any other state in the union. joining me now is former vice president and climate activist</field>
+</doc>
+</add>

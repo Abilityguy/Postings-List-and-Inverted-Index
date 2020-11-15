@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190518_040000_BBC_News#start/433/end/468</field>
+<field name="datetime">5/18/2019 4:07:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190518_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190518_040000_BBC_News/BBCNEWS_20190518_040000_BBC_News.thumbs/BBCNEWS_20190518_040000_BBC_News_000418.jpg</field>
+<field name="snippet">most googled issue in australia right now. 81% of people who are finding out information about where parties stand, saying that climate change is their top issue. an australian now put climate change as a bigger issue than terrorism which is the first time in this</field>
+</doc>
+</add>

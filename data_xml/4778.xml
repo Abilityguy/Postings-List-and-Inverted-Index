@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170607_130000_BBC_News#start/658/end/693</field>
+<field name="datetime">6/7/2017 13:11:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170607_130000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170607_130000_BBC_News/BBCNEWS_20170607_130000_BBC_News.thumbs/BBCNEWS_20170607_130000_BBC_News_000657.jpg</field>
+<field name="snippet">be afraid to pick up the phone to donald trump and say, listen, mate, you're wrong, you're wrong on trying to destroy the paris climate change agreement and you're wrong for this very simple reason. we all live on</field>
+</doc>
+</add>

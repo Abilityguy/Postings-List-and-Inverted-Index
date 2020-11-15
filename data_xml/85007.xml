@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201211.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121102_100000_Morning_Joe#start/4306/end/4341</field>
+<field name="datetime">11/2/2012 11:12:01</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20121102_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121102_100000_Morning_Joe/MSNBCW_20121102_100000_Morning_Joe.thumbs/MSNBCW_20121102_100000_Morning_Joe_004288.jpg</field>
+<field name="snippet">new york. it is. gene robinson with us down in washington. you're writing, gene, will hurricane sandy be our wake-up call? you walk to talk through that a little bit? yeah. i'm writing about climate change. and scientists have been telling</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201405.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140528_100000_FOX_and_Friends#start/4599/end/4634</field>
+<field name="datetime">5/28/2014 11:16:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20140528_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140528_100000_FOX_and_Friends/FOXNEWSW_20140528_100000_FOX_and_Friends.thumbs/FOXNEWSW_20140528_100000_FOX_and_Friends_004575.jpg</field>
+<field name="snippet">first they came for your light bulbs. now the epa using taxpayer money to target kitchen stoves. soon they're coming. but not just here. in third world countries. why? because climate change. stuart varney is here with details. it's ovens in other nations that</field>
+</doc>
+</add>

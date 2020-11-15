@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190919_000000_Newsday#start/798/end/833</field>
+<field name="datetime">9/19/2019 0:13:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190919_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190919_000000_Newsday/BBCNEWS_20190919_000000_Newsday.thumbs/BBCNEWS_20190919_000000_Newsday_000777.jpg</field>
+<field name="snippet">still to come on the programme: luxembourg's prime minister denies he was trying to humiliate borisjohnson this week after holding a news conference without him. also on the programme: melting mountains. a bird's-eye view of global warming's impact on the world's glaciers.</field>
+</doc>
+</add>

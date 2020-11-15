@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180915_080000_BBC_News#start/573/end/608</field>
+<field name="datetime">9/15/2018 8:09:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180915_080000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180915_080000_BBC_News/BBCNEWS_20180915_080000_BBC_News.thumbs/BBCNEWS_20180915_080000_BBC_News_000567.jpg</field>
+<field name="snippet">is about to put a laser in orbit to measure the condition of earth's ice cover. the satellite mission, called icesat-2, should provide more precise information on the effects of climate change. antarctica, greenland and the ice</field>
+</doc>
+</add>

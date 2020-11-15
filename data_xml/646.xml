@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171116_090000_Victoria_Derbyshire#start/315/end/350</field>
+<field name="datetime">11/16/2017 9:05:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20171116_090000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171116_090000_Victoria_Derbyshire/BBCNEWS_20171116_090000_Victoria_Derbyshire.thumbs/BBCNEWS_20171116_090000_Victoria_Derbyshire_000297.jpg</field>
+<field name="snippet">the impacts of climate change are already inevitable, even if the world immediately and radically cuts its carbon dioxide emissions, a new study claims.</field>
+</doc>
+</add>

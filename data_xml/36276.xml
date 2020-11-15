@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201912.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191226_220000_MTP_Daily#start/1220/end/1255</field>
+<field name="datetime">12/26/2019 22:20:35</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20191226_220000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191226_220000_MTP_Daily/MSNBCW_20191226_220000_MTP_Daily.thumbs/MSNBCW_20191226_220000_MTP_Daily_001198.jpg</field>
+<field name="snippet">how are you? i'm well. so when you got into this race, a couple things people talked about a lot. two strengths. one was your commitment to climate change. the other was the money you have. obviously, now, you've got</field>
+</doc>
+</add>

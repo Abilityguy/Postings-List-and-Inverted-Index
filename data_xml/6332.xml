@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_210000_BBC_News_at_Ten#start/119/end/154</field>
+<field name="datetime">9/20/2019 21:02:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20190920_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_210000_BBC_News_at_Ten/BBCNEWS_20190920_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20190920_210000_BBC_News_at_Ten_000118.jpg</field>
+<field name="snippet">good evening. millions of people, including children and young teenagers, have taken part in demonstrations around the world, demanding tougher action on climate change. huge crowds gathered in cities in more than 150 countries, calling for governments and businesses</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190303_110000_Fox_and_Friends_Sunday#start/5468/end/5503</field>
+<field name="datetime">3/3/2019 12:31:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20190303_110000_Fox_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190303_110000_Fox_and_Friends_Sunday/FOXNEWSW_20190303_110000_Fox_and_Friends_Sunday.thumbs/FOXNEWSW_20190303_110000_Fox_and_Friends_Sunday_005459.jpg</field>
+<field name="snippet">now. appreciate it. thanks, hayden. democrats care so much about climate change they called a congressional hearing. so why didn't any of them actually show up when it</field>
+</doc>
+</add>

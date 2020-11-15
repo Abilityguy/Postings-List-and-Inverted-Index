@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201008.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100810_020000_Countdown_With_Keith_Olbermann#start/68/end/103</field>
+<field name="datetime">8/10/2010 2:01:23</field>
+<field name="station">MSNBC</field>
+<field name="show">Countdown With Keith Olbermann</field>
+<field name="showid">MSNBC_20100810_020000_Countdown_With_Keith_Olbermann</field>
+<field name="preview">https://archive.org/download/MSNBC_20100810_020000_Countdown_With_Keith_Olbermann/MSNBC_20100810_020000_Countdown_With_Keith_Olbermann.thumbs/MSNBC_20100810_020000_Countdown_With_Keith_Olbermann_000057.jpg</field>
+<field name="snippet">if last year's bad weather convinced conservatives there was no climate change, what does this convince them? as another heat wave suffocates the east, in greenland, it is release rotation splash. sarah palin's latest heat flash.</field>
+</doc>
+</add>

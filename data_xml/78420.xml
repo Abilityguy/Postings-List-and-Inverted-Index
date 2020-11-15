@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191105_200000_BBC_News#start/1998/end/2033</field>
+<field name="datetime">11/5/2019 20:33:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191105_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191105_200000_BBC_News/BBCNEWS_20191105_200000_BBC_News.thumbs/BBCNEWS_20191105_200000_BBC_News_001979.jpg</field>
+<field name="snippet">thousands of scientists across the globe have backed research that declares a climate emergency. they say that without deep and lasting changes, the world is facing 'untold human suffering' and that governments are failing to address the crisis. so how important will the issue of climate change be in this election and what can the next government hope to do about it?</field>
+</doc>
+</add>

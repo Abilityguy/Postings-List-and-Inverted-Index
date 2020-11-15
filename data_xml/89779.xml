@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201401.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140111_150000_Melissa_Harris-Perry#start/3907/end/3942</field>
+<field name="datetime">1/11/2014 16:05:22</field>
+<field name="station">MSNBC</field>
+<field name="show">Melissa Harris-Perry</field>
+<field name="showid">MSNBCW_20140111_150000_Melissa_Harris-Perry</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140111_150000_Melissa_Harris-Perry/MSNBCW_20140111_150000_Melissa_Harris-Perry.thumbs/MSNBCW_20140111_150000_Melissa_Harris-Perry_003886.jpg</field>
+<field name="snippet">can you explain in the simplest terms possible how it is possible for cold weather to be the result of global warming? well it's a shift in weather patterns, so many of us are</field>
+</doc>
+</add>

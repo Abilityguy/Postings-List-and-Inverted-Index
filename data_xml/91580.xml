@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191214_070000_The_Ingraham_Angle#start/1812/end/1847</field>
+<field name="datetime">12/14/2019 7:30:27</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Ingraham Angle</field>
+<field name="showid">FOXNEWSW_20191214_070000_The_Ingraham_Angle</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191214_070000_The_Ingraham_Angle/FOXNEWSW_20191214_070000_The_Ingraham_Angle.thumbs/FOXNEWSW_20191214_070000_The_Ingraham_Angle_001798.jpg</field>
+<field name="snippet">swing states with swing voters. democrats win on issues. we do better when we talk about health care, climate change, job creation and stay away from these type of issues where people don't quite know what's going on or why it's being done.</field>
+</doc>
+</add>

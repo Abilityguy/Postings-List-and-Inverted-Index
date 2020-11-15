@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190422_080000_Fox_and_Friends_First#start/572/end/607</field>
+<field name="datetime">4/22/2019 8:09:47</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190422_080000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190422_080000_Fox_and_Friends_First/FOXNEWSW_20190422_080000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190422_080000_Fox_and_Friends_First_000569.jpg</field>
+<field name="snippet">don bremmer says it's a test of faith. christians and law enforcement will prevail. he is up next. there's no doubt cow farts is making climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190821_200000_Outside_Source#start/2156/end/2191</field>
+<field name="datetime">8/21/2019 20:36:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20190821_200000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190821_200000_Outside_Source/BBCNEWS_20190821_200000_Outside_Source.thumbs/BBCNEWS_20190821_200000_Outside_Source_002128.jpg</field>
+<field name="snippet">some of the rebels are now undertaking environmental work. these pictures show them planting seeds and watering them - they say they're now protecting the amazon, which plays a crucial role in preventing global warming - and is also home to many rare</field>
+</doc>
+</add>

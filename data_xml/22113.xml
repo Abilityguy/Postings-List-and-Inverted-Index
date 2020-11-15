@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201309.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130904_130000_The_Daily_Rundown#start/1191/end/1226</field>
+<field name="datetime">9/4/2013 13:20:06</field>
+<field name="station">MSNBC</field>
+<field name="show">The Daily Rundown</field>
+<field name="showid">MSNBCW_20130904_130000_The_Daily_Rundown</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130904_130000_The_Daily_Rundown/MSNBCW_20130904_130000_The_Daily_Rundown.thumbs/MSNBCW_20130904_130000_The_Daily_Rundown_001186.jpg</field>
+<field name="snippet">talk that you had today with prime minister reinfeldt move the world a step closer to resolving the climate crisis? i would refer you to the speech that i gave when i received the nobel prize.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140220_220000_The_Five#start/1267/end/1302</field>
+<field name="datetime">2/20/2014 22:21:22</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20140220_220000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140220_220000_The_Five/FOXNEWSW_20140220_220000_The_Five.thumbs/FOXNEWSW_20140220_220000_The_Five_001245.jpg</field>
+<field name="snippet">the show. what kind of worries me is when they come to issues like environmentalism and climate change and find that the opinions are different. what are they going to do about that? the way i understand it, right now it's voluntary, so at best it's meddling, and at worst</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181201_003000_Searching_for_Starlite#start/0/end/33</field>
+<field name="datetime">12/1/2018 0:30:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Searching for Starlite</field>
+<field name="showid">BBCNEWS_20181201_003000_Searching_for_Starlite</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181201_003000_Searching_for_Starlite/BBCNEWS_20181201_003000_Searching_for_Starlite.thumbs/BBCNEWS_20181201_003000_Searching_for_Starlite_000057.jpg</field>
+<field name="snippet">hello, this is bbc news. the headlines: china, india, russia, brazil and south africa have warned against protectionism at the 620 summit in buenos aires. on the first of its two days, the summit has also been marked by disagreements over climate change, and there have been fears the leaders may not be able to agree on a final communique. a magnitude 7.0 earthquake has struck the alaskan</field>
+</doc>
+</add>

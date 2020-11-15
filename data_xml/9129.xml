@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190824_220000_FOX_Report_With_Jon_Scott#start/3162/end/3197</field>
+<field name="datetime">8/24/2019 22:52:57</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report With Jon Scott</field>
+<field name="showid">FOXNEWSW_20190824_220000_FOX_Report_With_Jon_Scott</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190824_220000_FOX_Report_With_Jon_Scott/FOXNEWSW_20190824_220000_FOX_Report_With_Jon_Scott.thumbs/FOXNEWSW_20190824_220000_FOX_Report_With_Jon_Scott_003148.jpg</field>
+<field name="snippet">new hampshire. reporter: the skiing industry feels the direct effect of weather changes. we have a lot of cold winters and cold weather. we can see the impacts of climate change on our operations, when we are not</field>
+</doc>
+</add>

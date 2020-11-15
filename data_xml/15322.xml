@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201702.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170211_053000_The_Travel_Show#start/452/end/487</field>
+<field name="datetime">2/11/2017 5:37:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Travel Show</field>
+<field name="showid">BBCNEWS_20170211_053000_The_Travel_Show</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170211_053000_The_Travel_Show/BBCNEWS_20170211_053000_The_Travel_Show.thumbs/BBCNEWS_20170211_053000_The_Travel_Show_000448.jpg</field>
+<field name="snippet">the green snowflake. a lot of people will say that, no, there is no such thing as green ski. but everybody in the mountain is trying to adapt to global warming. we already lost 40% of snow</field>
+</doc>
+</add>

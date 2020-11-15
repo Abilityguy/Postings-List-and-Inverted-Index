@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170803_130000_BBC_News#start/3088/end/3123</field>
+<field name="datetime">8/3/2017 13:51:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170803_130000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170803_130000_BBC_News/BBCNEWS_20170803_130000_BBC_News.thumbs/BBCNEWS_20170803_130000_BBC_News_003088.jpg</field>
+<field name="snippet">those living nearby. climate change means problems like this are likely to get worse. southern european climate is variable year-on-year but the evidence would suggest that what we are seeing here is out of the ordinary, and perhaps evidence that these</field>
+</doc>
+</add>

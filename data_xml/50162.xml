@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181219_010000_Tucker_Carlson_Tonight#start/1021/end/1056</field>
+<field name="datetime">12/19/2018 1:17:16</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20181219_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181219_010000_Tucker_Carlson_Tonight/FOXNEWSW_20181219_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20181219_010000_Tucker_Carlson_Tonight_001018.jpg</field>
+<field name="snippet">we have a whole bunch of people on questions of global warming as we have seen in europe and immigration, and they can dictate to people and that's never subject to the ramifications of their own</field>
+</doc>
+</add>

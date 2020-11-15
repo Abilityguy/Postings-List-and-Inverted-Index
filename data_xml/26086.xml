@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201201.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120108_230000_FOX_News_Sunday_With_Chris_Wallace#start/2391/end/2426</field>
+<field name="datetime">1/8/2012 23:40:06</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Sunday With Chris Wallace</field>
+<field name="showid">FOXNEWSW_20120108_230000_FOX_News_Sunday_With_Chris_Wallace</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120108_230000_FOX_News_Sunday_With_Chris_Wallace/FOXNEWSW_20120108_230000_FOX_News_Sunday_With_Chris_Wallace.thumbs/FOXNEWSW_20120108_230000_FOX_News_Sunday_With_Chris_Wallace_002367.jpg</field>
+<field name="snippet">as you know, under the law, i can't direct their ads. the ad i saw said that you had been forced out of speakership, that was correct. it said that you sat down with nancy pelosi and argued for a climate change bill, that was</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170526_100000_FOX__Friends#start/10840/end/10875</field>
+<field name="datetime">5/26/2017 13:00:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20170526_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170526_100000_FOX__Friends/FOXNEWSW_20170526_100000_FOX__Friends.thumbs/FOXNEWSW_20170526_100000_FOX__Friends_010828.jpg</field>
+<field name="snippet">over climate change. president trump tweeted this.</field>
+</doc>
+</add>

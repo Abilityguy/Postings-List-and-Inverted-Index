@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201508.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150831_210000_MSNBC_Live#start/3353/end/3388</field>
+<field name="datetime">8/31/2015 21:56:08</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20150831_210000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150831_210000_MSNBC_Live/MSNBCW_20150831_210000_MSNBC_Live.thumbs/MSNBCW_20150831_210000_MSNBC_Live_003345.jpg</field>
+<field name="snippet">to highlight climate change. as you see the president just arrived in anchorage moments ago. he's expected to make an official announcement of the renaming later tonight. for more on this, let me bring in mr. ross and perry bacon, nbc</field>
+</doc>
+</add>

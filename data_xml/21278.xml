@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180930_203000_Our_World#start/1364/end/1399</field>
+<field name="datetime">9/30/2018 20:52:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Our World</field>
+<field name="showid">BBCNEWS_20180930_203000_Our_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180930_203000_Our_World/BBCNEWS_20180930_203000_Our_World.thumbs/BBCNEWS_20180930_203000_Our_World_001347.jpg</field>
+<field name="snippet">products that we did at x. the idea was to make renewable fuel by extracting it from seawater. this project was trying to solve a much bigger problem than the world's deliveries - climate change. it had to be shafted</field>
+</doc>
+</add>

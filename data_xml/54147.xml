@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201306.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130624_100000_Morning_Joe#start/4111/end/4146</field>
+<field name="datetime">6/24/2013 11:08:46</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20130624_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130624_100000_Morning_Joe/MSNBCW_20130624_100000_Morning_Joe.thumbs/MSNBCW_20130624_100000_Morning_Joe_004096.jpg</field>
+<field name="snippet">gun control, immigration, and climate change. now of course i've talked -- i don't know if you know -- once or twice about gun control, about background checks and i don't think that is -- if we were talking about that, that is a great disconnect.</field>
+</doc>
+</add>

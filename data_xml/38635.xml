@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201011.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101115_160000_Happening_Now#start/4398/end/4433</field>
+<field name="datetime">11/15/2010 17:13:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20101115_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101115_160000_Happening_Now/FOXNEWS_20101115_160000_Happening_Now.thumbs/FOXNEWS_20101115_160000_Happening_Now_004380.jpg</field>
+<field name="snippet">report from the federal courthouse next. also, we've seen the scary ads from those who want to fight global warming, but do they go too far? a brand new documentary that might make you want to see the issue in a whole different way.</field>
+</doc>
+</add>

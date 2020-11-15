@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191203_130000_BBC_News_at_One#start/56/end/91</field>
+<field name="datetime">12/3/2019 13:01:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20191203_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191203_130000_BBC_News_at_One/BBCNEWS_20191203_130000_BBC_News_at_One.thumbs/BBCNEWS_20191203_130000_BBC_News_at_One_000058.jpg</field>
+<field name="snippet">the 12-year-boy killed yesterday when a car ploughed into a group of children near a school in essex is named as harley watson. making her point - the teenage activist greta thunberg sails into europe for the un's climate change conference the 12-year-boy killed yesterday</field>
+</doc>
+</add>

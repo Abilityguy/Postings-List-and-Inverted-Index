@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180608_190000_BBC_News#start/406/end/441</field>
+<field name="datetime">6/8/2018 19:07:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180608_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180608_190000_BBC_News/BBCNEWS_20180608_190000_BBC_News.thumbs/BBCNEWS_20180608_190000_BBC_News_000387.jpg</field>
+<field name="snippet">donald trump is the last one into quebec, and he'll be the first one out, missing all tomorrow's discussion on climate change and the environment. it's as bad-tempered a start to a g7 as there's ever been. before leaving washington this morning, he was in no</field>
+</doc>
+</add>

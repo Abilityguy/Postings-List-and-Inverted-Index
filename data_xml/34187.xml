@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091207_200000_Studio_B_With_Shepard_Smith#start/451/end/486</field>
+<field name="datetime">12/7/2009 20:07:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Studio B With Shepard Smith</field>
+<field name="showid">FOXNEWS_20091207_200000_Studio_B_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091207_200000_Studio_B_With_Shepard_Smith/FOXNEWS_20091207_200000_Studio_B_With_Shepard_Smith.thumbs/FOXNEWS_20091207_200000_Studio_B_With_Shepard_Smith_000450.jpg</field>
+<field name="snippet">works. good of you to rush out of there. we thank you. this is being called the most important climate change conference in the history of this world. the call to action to nearly 200 nations taking part at the copenhagen summit. it is a two-week conference held</field>
+</doc>
+</add>

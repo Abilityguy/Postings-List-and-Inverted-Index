@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201012.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101230_020000_The_Rachel_Maddow_Show#start/194/end/229</field>
+<field name="datetime">12/30/2010 2:03:29</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBC_20101230_020000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20101230_020000_The_Rachel_Maddow_Show/MSNBC_20101230_020000_The_Rachel_Maddow_Show.thumbs/MSNBC_20101230_020000_The_Rachel_Maddow_Show_000177.jpg</field>
+<field name="snippet">since, you know, global warming means it's supposed to be warm all the time now, except that the phenomenon described by scientists, remember scientists, the thing they describe as climate change means extreme weather events like huge</field>
+</doc>
+</add>

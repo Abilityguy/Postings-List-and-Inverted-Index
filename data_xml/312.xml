@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201301.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130107_110000_FOX_and_Friends#start/8063/end/8098</field>
+<field name="datetime">1/7/2013 13:14:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20130107_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130107_110000_FOX_and_Friends/FOXNEWSW_20130107_110000_FOX_and_Friends.thumbs/FOXNEWSW_20130107_110000_FOX_and_Friends_008055.jpg</field>
+<field name="snippet">carbon tax. let's look at the value added tax. steve: they're back on that? yeah. the value added tax. like a consumption tax, a regresssive tax, a tax that affects the poorest americans the most on every purchase. this is only the beginning.</field>
+</doc>
+</add>

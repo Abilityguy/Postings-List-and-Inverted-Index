@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190307_110000_FOX__Friends#start/5385/end/5420</field>
+<field name="datetime">3/7/2019 12:30:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20190307_110000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190307_110000_FOX__Friends/FOXNEWSW_20190307_110000_FOX__Friends.thumbs/FOXNEWSW_20190307_110000_FOX__Friends_005368.jpg</field>
+<field name="snippet">rubin is a very astute columnist. we had a great conversation. we talked about issues. she asked me what i think of the fiscal trajectory of the country. i told her. we talked about what we should do about climate change which i think we should innovate our way out</field>
+</doc>
+</add>

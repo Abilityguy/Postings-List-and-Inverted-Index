@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201411.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141112_110000_FOX_and_Friends#start/9895/end/9930</field>
+<field name="datetime">11/12/2014 13:45:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20141112_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141112_110000_FOX_and_Friends/FOXNEWSW_20141112_110000_FOX_and_Friends.thumbs/FOXNEWSW_20141112_110000_FOX_and_Friends_009885.jpg</field>
+<field name="snippet">network, maria bartiromo. good morning to you. good morning. so the president is in china, talking about climate change and all that stuff. he's going to the right place. they're the big polluters! absolutely. they are the producers of products for the world and all of that churning of greenhouse</field>
+</doc>
+</add>

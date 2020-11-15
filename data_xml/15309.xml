@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201702.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170212_203000_The_Travel_Show#start/467/end/502</field>
+<field name="datetime">2/12/2017 20:38:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Travel Show</field>
+<field name="showid">BBCNEWS_20170212_203000_The_Travel_Show</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170212_203000_The_Travel_Show/BBCNEWS_20170212_203000_The_Travel_Show.thumbs/BBCNEWS_20170212_203000_The_Travel_Show_000448.jpg</field>
+<field name="snippet">but everybody in the mountain is trying to adapt to global warming. we already lost 40% of snow cover at 1300 metres, compared to the '60s.</field>
+</doc>
+</add>

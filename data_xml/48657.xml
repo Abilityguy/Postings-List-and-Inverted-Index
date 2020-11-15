@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201908.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190826_190000_MSNBC_Live_With_Ali_Velshi#start/28/end/63</field>
+<field name="datetime">8/26/2019 19:00:43</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190826_190000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190826_190000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190826_190000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190826_190000_MSNBC_Live_With_Ali_Velshi_000029.jpg</field>
+<field name="snippet">of his own decision making while wrapping up his trip in france for the g7 summit. among the serious global concerns discussed, the economy, iran, climate change. but trump was particularly passionate in selling the idea</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190317_100000_BBC_News#start/1439/end/1474</field>
+<field name="datetime">3/17/2019 10:24:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190317_100000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190317_100000_BBC_News/BBCNEWS_20190317_100000_BBC_News.thumbs/BBCNEWS_20190317_100000_BBC_News_001438.jpg</field>
+<field name="snippet">warming air and sea temperatures are causing arctic glaciers to melt, and now the increasing rainfall is creating problems for animals, like reindeer. radio 4 today programme presenter martha kearney, has travelled to the continent to see the effects of climate change, with british researchers.</field>
+</doc>
+</add>

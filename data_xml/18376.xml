@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201311.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20131104_000000_FOX_Report#start/1460/end/1495</field>
+<field name="datetime">11/4/2013 0:24:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report</field>
+<field name="showid">FOXNEWSW_20131104_000000_FOX_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20131104_000000_FOX_Report/FOXNEWSW_20131104_000000_FOX_Report.thumbs/FOXNEWSW_20131104_000000_FOX_Report_001455.jpg</field>
+<field name="snippet">if it can't do that, i don't think that all of this talk about global warming is going to matter very much, because we really can't afford to pay two or three times as much as electricity as we are paying now. public perception is another</field>
+</doc>
+</add>

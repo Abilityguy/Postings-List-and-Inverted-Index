@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170713_233000_BBC_News_NI_Special#start/1736/end/1771</field>
+<field name="datetime">7/13/2017 23:59:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News NI Special</field>
+<field name="showid">BBCNEWS_20170713_233000_BBC_News_NI_Special</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170713_233000_BBC_News_NI_Special/BBCNEWS_20170713_233000_BBC_News_NI_Special.thumbs/BBCNEWS_20170713_233000_BBC_News_NI_Special_001738.jpg</field>
+<field name="snippet">i'm kasia madera in london. also in the programme, a trip to paris and a hint from donald trump that he could change his position on the paris climate change agreement. and</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170109_110000_FOX__Friends#start/9011/end/9046</field>
+<field name="datetime">1/9/2017 13:30:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20170109_110000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170109_110000_FOX__Friends/FOXNEWSW_20170109_110000_FOX__Friends.thumbs/FOXNEWSW_20170109_110000_FOX__Friends_008997.jpg</field>
+<field name="snippet">i, you know, i heard our president say that climate change is the most important issue facing not only this generation but all future generations, it was inspiring. brian: stroke your goatee. it sounds more thoughtful. don't cry.</field>
+</doc>
+</add>

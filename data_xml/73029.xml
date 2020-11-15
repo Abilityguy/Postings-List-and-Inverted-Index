@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190107_130000_BBC_News_at_One#start/1771/end/1806</field>
+<field name="datetime">1/7/2019 13:29:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190107_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190107_130000_BBC_News_at_One/BBCNEWS_20190107_130000_BBC_News_at_One.thumbs/BBCNEWS_20190107_130000_BBC_News_at_One_001767.jpg</field>
+<field name="snippet">so as christmas trees rot, they comparatively give off huge amounts of greenhouse gases such as methane. but at the university of sheffield, they have been experimenting with them. this process converts the solid pine needles into a liquid product.</field>
+</doc>
+</add>

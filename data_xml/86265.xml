@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191218_130000_BBC_News_at_One#start/1526/end/1561</field>
+<field name="datetime">12/18/2019 13:25:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20191218_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191218_130000_BBC_News_at_One/BBCNEWS_20191218_130000_BBC_News_at_One.thumbs/BBCNEWS_20191218_130000_BBC_News_at_One_001528.jpg</field>
+<field name="snippet">have welcomed the plan, but say it's too little, too late. our environment analyst roger harrabin has more details. out of sight, out of mind. shipping has evaded the cuts on greenhouse gas emissions</field>
+</doc>
+</add>

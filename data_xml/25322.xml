@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201611.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161113_110000_Fox_and_Friends_Sunday#start/1434/end/1469</field>
+<field name="datetime">11/13/2016 11:24:09</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20161113_110000_Fox_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161113_110000_Fox_and_Friends_Sunday/FOXNEWSW_20161113_110000_Fox_and_Friends_Sunday.thumbs/FOXNEWSW_20161113_110000_Fox_and_Friends_Sunday_001407.jpg</field>
+<field name="snippet">john kerry will continue his efforts on global warming until the day president obama leaves office in january, this after he wrap up two days in antarctica to bring attention to sea level. back over to you.</field>
+</doc>
+</add>

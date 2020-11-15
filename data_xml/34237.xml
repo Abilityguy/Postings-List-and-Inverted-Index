@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_110000_FOX_and_Friends#start/204/end/239</field>
+<field name="datetime">12/18/2009 11:03:39</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091218_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_110000_FOX_and_Friends/FOXNEWS_20091218_110000_FOX_and_Friends.thumbs/FOXNEWS_20091218_110000_FOX_and_Friends_000173.jpg</field>
+<field name="snippet">as a matter of fact, the united states here will not even commit to a figure within that $100 billion of what it will put on the table. that $100 billion is supposed to come from all nations interested in furtherrering global climate change and helping developing nations pay for the cost of</field>
+</doc>
+</add>

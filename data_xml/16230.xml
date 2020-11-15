@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201408.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140805_210000_The_Ed_Show#start/414/end/449</field>
+<field name="datetime">8/5/2014 21:07:09</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20140805_210000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140805_210000_The_Ed_Show/MSNBCW_20140805_210000_The_Ed_Show.thumbs/MSNBCW_20140805_210000_The_Ed_Show_000405.jpg</field>
+<field name="snippet">saturday governor brown declared it a state of emergency. no one can deny severe weather has gotten worse because of climate change. action must be taken or we will be left behind as a country. other countries are on this, we are not.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091201_090000_Special_Report_With_Bret_Baier#start/617/end/652</field>
+<field name="datetime">12/1/2009 9:10:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091201_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091201_090000_Special_Report_With_Bret_Baier/FOXNEWS_20091201_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091201_090000_Special_Report_With_Bret_Baier_000596.jpg</field>
+<field name="snippet">computerized projections of future temperatures based on vast amounts of previously observed climate data, but there's a huge problem. there has been no apparent increase in global temperatures over the past 11 years and the computerized climate models failed to prodict this and the global</field>
+</doc>
+</add>

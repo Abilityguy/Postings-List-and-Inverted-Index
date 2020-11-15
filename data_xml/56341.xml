@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201608.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160806_100000_Fox_and_Friends_Saturday#start/9454/end/9489</field>
+<field name="datetime">8/6/2016 12:37:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20160806_100000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160806_100000_Fox_and_Friends_Saturday/FOXNEWSW_20160806_100000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20160806_100000_Fox_and_Friends_Saturday_009447.jpg</field>
+<field name="snippet">the video which made the ceremony seem more like something al gore did than a celebration. a little we're coming from one of the dirtiest places in the world. it's a lot easier to lecture the developed world about global warming than to actually clean</field>
+</doc>
+</add>

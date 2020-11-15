@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170531_170000_Happening_Now#start/3644/end/3679</field>
+<field name="datetime">5/31/2017 18:00:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20170531_170000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170531_170000_Happening_Now/FOXNEWSW_20170531_170000_Happening_Now.thumbs/FOXNEWSW_20170531_170000_Happening_Now_003627.jpg</field>
+<field name="snippet">behind me, that's what's going on. now to the task at hand. the president on climate change. we were expecting that the president mayak</field>
+</doc>
+</add>

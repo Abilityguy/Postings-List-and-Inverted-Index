@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180821_123000_BBC_News#start/1458/end/1493</field>
+<field name="datetime">8/21/2018 12:54:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180821_123000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180821_123000_BBC_News/BBCNEWS_20180821_123000_BBC_News.thumbs/BBCNEWS_20180821_123000_BBC_News_001437.jpg</field>
+<field name="snippet">long-term average. it is not quite a record year, but it is well down on the long-term average. scientists would add these are the fingerprints of global warming impacting the arctic, even though this particular incident is being caused more by wind rather than heat.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191224_103000_Weather_World#start/93/end/128</field>
+<field name="datetime">12/24/2019 10:31:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20191224_103000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191224_103000_Weather_World/BBCNEWS_20191224_103000_Weather_World.thumbs/BBCNEWS_20191224_103000_Weather_World_000089.jpg</field>
+<field name="snippet">the science is overwhelmingly clear that the cause of this climate change is our activities as humans putting more and more carbon dioxide and other greenhouse gases into the atmosphere. and i'm at cambridge university, where a new look at pioneering data collected in the 19705 is revealing the real impact climate</field>
+</doc>
+</add>

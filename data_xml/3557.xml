@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201506.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150621_210000_MediaBuzz#start/1817/end/1852</field>
+<field name="datetime">6/21/2015 21:30:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">MediaBuzz</field>
+<field name="showid">FOXNEWSW_20150621_210000_MediaBuzz</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150621_210000_MediaBuzz/FOXNEWSW_20150621_210000_MediaBuzz.thumbs/FOXNEWSW_20150621_210000_MediaBuzz_001815.jpg</field>
+<field name="snippet">increase in severe weather around the world. we asked al gore and nye and tyson, what makes you qualified to talk about climate change? al gore and tyson did not respond but bill nye said as an</field>
+</doc>
+</add>

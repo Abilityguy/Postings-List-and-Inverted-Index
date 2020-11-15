@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201401.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140103_220000_The_Five#start/1012/end/1047</field>
+<field name="datetime">1/3/2014 22:17:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20140103_220000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140103_220000_The_Five/FOXNEWSW_20140103_220000_The_Five.thumbs/FOXNEWSW_20140103_220000_The_Five_001005.jpg</field>
+<field name="snippet">and passengers keep the world up to date. so why no mention of the mission? because it doesn't fit their story. but no worries, the stuck ship still proved global warming. the experts say they were</field>
+</doc>
+</add>

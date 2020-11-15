@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201001.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100108_140000_Morning_Meeting#start/832/end/867</field>
+<field name="datetime">1/8/2010 14:14:07</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Meeting</field>
+<field name="showid">MSNBC_20100108_140000_Morning_Meeting</field>
+<field name="preview">https://archive.org/download/MSNBC_20100108_140000_Morning_Meeting/MSNBC_20100108_140000_Morning_Meeting.thumbs/MSNBC_20100108_140000_Morning_Meeting_000806.jpg</field>
+<field name="snippet">that goes into the whole global warming thing too. i don't know how many people have come up to me and said, where's al gore? it's really about climate change, about more extreme</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191202_170000_BBC_News_at_Five#start/1915/end/1950</field>
+<field name="datetime">12/2/2019 17:32:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20191202_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191202_170000_BBC_News_at_Five/BBCNEWS_20191202_170000_BBC_News_at_Five.thumbs/BBCNEWS_20191202_170000_BBC_News_at_Five_001917.jpg</field>
+<field name="snippet">a man who killed three elderly men because he wrongly believed they were paedophiles has been cleared of murder. as two weeks of talks on climate change begin in madrid, the un secretary-general says the world must end its 'war against nature.'</field>
+</doc>
+</add>

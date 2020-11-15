@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201206.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120620_070000_Red_Eye#start/170/end/205</field>
+<field name="datetime">6/20/2012 7:03:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWSW_20120620_070000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120620_070000_Red_Eye/FOXNEWSW_20120620_070000_Red_Eye.thumbs/FOXNEWSW_20120620_070000_Red_Eye_000150.jpg</field>
+<field name="snippet">thanks to global warming, you know what that is, insect population is soaring and they are killing forests in montana. the bigger picture, some scientists say the earth could be nearing a point where mass extinction would undermine</field>
+</doc>
+</add>

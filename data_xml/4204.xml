@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201102.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110203_210000_Your_World_With_Neil_Cavuto#start/3243/end/3278</field>
+<field name="datetime">2/3/2011 21:54:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWS_20110203_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110203_210000_Your_World_With_Neil_Cavuto/FOXNEWS_20110203_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWS_20110203_210000_Your_World_With_Neil_Cavuto_003233.jpg</field>
+<field name="snippet">we did ask the epa for a statement but we did not hear back from them. what is going on here? reporter: well, what you have are new greenhouse gas regulations and pollution regulations on power plants that want into effect last month and</field>
+</doc>
+</add>

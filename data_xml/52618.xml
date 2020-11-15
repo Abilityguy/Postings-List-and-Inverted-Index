@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181212_060000_Breakfast#start/600/end/635</field>
+<field name="datetime">12/12/2018 6:10:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181212_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181212_060000_Breakfast/BBCNEWS_20181212_060000_Breakfast.thumbs/BBCNEWS_20181212_060000_Breakfast_000597.jpg</field>
+<field name="snippet">she thinks of december could be a long and uncertain month. david rhodes, bbc news, north yorkshire. scientists say the number of wild reindeer in the arctic has more than halved over the last 20 years, because of climate change. also known as caribou, their population has dropped from almost 5 million to around 2.1 million. the change is said to be largely due to the organism they feed</field>
+</doc>
+</add>

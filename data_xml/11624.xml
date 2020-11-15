@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190825_220000_BBC_News#start/1730/end/1765</field>
+<field name="datetime">8/25/2019 22:29:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190825_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190825_220000_BBC_News/BBCNEWS_20190825_220000_BBC_News.thumbs/BBCNEWS_20190825_220000_BBC_News_001709.jpg</field>
+<field name="snippet">we are enjoying being in the sun in late august, but at the same time, saying that yes, they are concerned that all this may be linked to climate change. now it's time for a look</field>
+</doc>
+</add>

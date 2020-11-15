@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190605_060000_The_Ingraham_Angle#start/2760/end/2795</field>
+<field name="datetime">6/5/2019 6:46:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Ingraham Angle</field>
+<field name="showid">FOXNEWSW_20190605_060000_The_Ingraham_Angle</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190605_060000_The_Ingraham_Angle/FOXNEWSW_20190605_060000_The_Ingraham_Angle.thumbs/FOXNEWSW_20190605_060000_The_Ingraham_Angle_002757.jpg</field>
+<field name="snippet">we heard 12 years originally. people tried to backtrack on it. we seem to be back to 12 years. is there a timeline, bjorn? no. laura, look. global warming is a real problem, but it's being sold as this existential crisis and people say we only have 12 years or whatever the number is.</field>
+</doc>
+</add>

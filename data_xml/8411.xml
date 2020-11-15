@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190906_030000_Fox_News__Night_With_Shannon_Bream#start/73/end/108</field>
+<field name="datetime">9/6/2019 3:01:28</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News  Night With Shannon Bream</field>
+<field name="showid">FOXNEWSW_20190906_030000_Fox_News__Night_With_Shannon_Bream</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190906_030000_Fox_News__Night_With_Shannon_Bream/FOXNEWSW_20190906_030000_Fox_News__Night_With_Shannon_Bream.thumbs/FOXNEWSW_20190906_030000_Fox_News__Night_With_Shannon_Bream_000059.jpg</field>
+<field name="snippet">coverage, peter doocy standing by with the 2020 democrats climate change proposals. the first time i get an on hurricane dorian. doug mckelway live in wilmington, north carolina, is that weather rolls in. hey, doug. hi shannon.</field>
+</doc>
+</add>

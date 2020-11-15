@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_160000_BBC_News_at_Five#start/255/end/290</field>
+<field name="datetime">10/8/2018 16:04:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20181008_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_160000_BBC_News_at_Five/BBCNEWS_20181008_160000_BBC_News_at_Five.thumbs/BBCNEWS_20181008_160000_BBC_News_at_Five_000238.jpg</field>
+<field name="snippet">victoria gill, bbc news. well today's report has been described as a global wake up call for the planet - so what do governments and individuals around the world need to do to limit global warming? 0ur science correspondent pallab ghosh reports. the ipcc has warned of two possible futures for our planet.</field>
+</doc>
+</add>

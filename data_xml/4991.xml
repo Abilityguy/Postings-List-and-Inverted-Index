@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170602_020000_BBC_News#start/290/end/325</field>
+<field name="datetime">6/2/2017 2:05:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170602_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170602_020000_BBC_News/BBCNEWS_20170602_020000_BBC_News.thumbs/BBCNEWS_20170602_020000_BBC_News_000267.jpg</field>
+<field name="snippet">i can't believe it. i live in the middle of climate change every day. we are so affected here. how dare the leader of this great country say it doesn't exist? travel to the midwest coal and rust belt and you get a different</field>
+</doc>
+</add>

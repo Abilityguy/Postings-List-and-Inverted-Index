@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091203_160000_Happening_Now#start/3243/end/3278</field>
+<field name="datetime">12/3/2009 16:54:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091203_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091203_160000_Happening_Now/FOXNEWS_20091203_160000_Happening_Now.thumbs/FOXNEWS_20091203_160000_Happening_Now_003230.jpg</field>
+<field name="snippet">controversy over climate data. there will be an investigation to see a scientist fledged data on global warming. -- to see if a scientist faked</field>
+</doc>
+</add>

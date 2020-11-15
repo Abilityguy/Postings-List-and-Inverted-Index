@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091208_010000_The_OReilly_Factor#start/1316/end/1351</field>
+<field name="datetime">12/8/2009 1:22:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20091208_010000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091208_010000_The_OReilly_Factor/FOXNEWS_20091208_010000_The_OReilly_Factor.thumbs/FOXNEWS_20091208_010000_The_OReilly_Factor_001290.jpg</field>
+<field name="snippet">brit hume. first of all, do you believe in global warming? do you think the earth is getting warmer because of fossil fuel emissions. i believe the earth has warmed up a period of time although it hasn't warmed up for the past 10 or 11 years. i think the earth has been warming and cooling since the</field>
+</doc>
+</add>

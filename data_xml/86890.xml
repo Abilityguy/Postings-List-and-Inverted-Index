@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191223_140000_BBC_News#start/1451/end/1486</field>
+<field name="datetime">12/23/2019 14:24:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191223_140000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191223_140000_BBC_News/BBCNEWS_20191223_140000_BBC_News.thumbs/BBCNEWS_20191223_140000_BBC_News_001437.jpg</field>
+<field name="snippet">he is a climate criminal. mr morrison concedes there is a link between global warming and the bushfires, but he says there is no need to panic and impose new carbon emissions targets, which he calls reckless and job destroying.</field>
+</doc>
+</add>

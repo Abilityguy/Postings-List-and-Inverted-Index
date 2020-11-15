@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100416_000000_The_OReilly_Factor#start/3476/end/3511</field>
+<field name="datetime">4/16/2010 0:58:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20100416_000000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100416_000000_The_OReilly_Factor/FOXNEWS_20100416_000000_The_OReilly_Factor.thumbs/FOXNEWS_20100416_000000_The_OReilly_Factor_003473.jpg</field>
+<field name="snippet">george: bill, miller said he does not believe in global warming and you didn't say a word. do you agree with him? this is boring george! i've made my position on warming clear so many times i'm tiredded of hearing it.</field>
+</doc>
+</add>

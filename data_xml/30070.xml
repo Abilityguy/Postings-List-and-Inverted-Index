@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191106_100000_First_Look#start/3497/end/3532</field>
+<field name="datetime">11/6/2019 10:58:32</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20191106_100000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191106_100000_First_Look/MSNBCW_20191106_100000_First_Look.thumbs/MSNBCW_20191106_100000_First_Look_003478.jpg</field>
+<field name="snippet">what have you guys learned? that's right, climate change has been a huge topic in the 2020 presidential primary. this new reporting at 'axios' shows that client scientists are out with a new paper that discusses the ways in which the expected sea level rise we're supposed to see between now and</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190612_050000_Breakfast#start/80/end/115</field>
+<field name="datetime">6/12/2019 5:01:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190612_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190612_050000_Breakfast/BBCNEWS_20190612_050000_Breakfast.thumbs/BBCNEWS_20190612_050000_Breakfast_000057.jpg</field>
+<field name="snippet">already seen 2 months worth of rainfall and there is more to come. the details, here on breakfast. it's wednesday the 12th ofjune. our top story: greenhouse gas emissions in the uk will be cut to almost zero by 2050, under a new government plan</field>
+</doc>
+</add>

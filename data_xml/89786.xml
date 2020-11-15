@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201401.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140103_110000_Morning_Joe#start/745/end/780</field>
+<field name="datetime">1/3/2014 11:12:40</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20140103_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140103_110000_Morning_Joe/MSNBCW_20140103_110000_Morning_Joe.thumbs/MSNBCW_20140103_110000_Morning_Joe_000736.jpg</field>
+<field name="snippet">forecasting a historic cold outbreak across the middle of the country. i don't like how that sounds. minneapolis is expecting wind chills minus 45, minus 60. where is global warming when you need it? come on.</field>
+</doc>
+</add>

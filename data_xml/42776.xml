@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180104_190000_Beyond_100_Days#start/846/end/881</field>
+<field name="datetime">1/4/2018 19:14:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20180104_190000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180104_190000_Beyond_100_Days/BBCNEWS_20180104_190000_Beyond_100_Days.thumbs/BBCNEWS_20180104_190000_Beyond_100_Days_000838.jpg</field>
+<field name="snippet">about global warming and the impact of global warming on extreme weather conditions, should we be looking at global warming when we look at this extreme weather pattern at the moment in the east coast of the us? the link between climate change,</field>
+</doc>
+</add>

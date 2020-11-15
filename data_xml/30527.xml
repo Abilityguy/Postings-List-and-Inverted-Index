@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.202001.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20200120_100000_First_Look#start/3209/end/3244</field>
+<field name="datetime">1/20/2020 10:53:44</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20200120_100000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20200120_100000_First_Look/MSNBCW_20200120_100000_First_Look.thumbs/MSNBCW_20200120_100000_First_Look_003207.jpg</field>
+<field name="snippet">about climate change. the place people fly in on private jets, ferried around in suvs, trying to change that, encouraging people to use the train and snow grips to get around town. incredible to hear stories coming out of davos coming out</field>
+</doc>
+</add>

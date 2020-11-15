@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201401.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140106_220000_The_Ed_Show#start/1580/end/1615</field>
+<field name="datetime">1/6/2014 22:26:35</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20140106_220000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140106_220000_The_Ed_Show/MSNBCW_20140106_220000_The_Ed_Show.thumbs/MSNBCW_20140106_220000_The_Ed_Show_001576.jpg</field>
+<field name="snippet">it's going to be down in the 20s all the way down to the gulf coast. atlanta, not used to it at all. what's your analysis of this cold snap? is it climate change? the aftermath of what we've seen</field>
+</doc>
+</add>

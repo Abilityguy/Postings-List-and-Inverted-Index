@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170515_044500_BBC_News#start/15/end/50</field>
+<field name="datetime">5/15/2017 4:45:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170515_044500_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170515_044500_BBC_News/BBCNEWS_20170515_044500_BBC_News.thumbs/BBCNEWS_20170515_044500_BBC_News_000057.jpg</field>
+<field name="snippet">including migration, terrorism, and climate change. the south china morning post says president xi jinping of china has set out a plan for increased global trade spurred by billions of dollars of infrastructure investment. mr xi outlined the vision for a 21st century silk road to further boost economies in asia.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181221_010000_Tucker_Carlson_Tonight#start/1558/end/1593</field>
+<field name="datetime">12/21/2018 1:26:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20181221_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181221_010000_Tucker_Carlson_Tonight/FOXNEWSW_20181221_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20181221_010000_Tucker_Carlson_Tonight_001557.jpg</field>
+<field name="snippet">arizona senator jeff flake has teamed up with delaware democrat chris coons to impose a nationwide carbon tax. a california radio host, joins us tonight. you very much for coming on. i think it is pretty clear, from</field>
+</doc>
+</add>

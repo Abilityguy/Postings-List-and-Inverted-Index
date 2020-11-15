@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170503_080000_Special_Report_With_Bret_Baier#start/1602/end/1637</field>
+<field name="datetime">5/3/2017 8:26:57</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20170503_080000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170503_080000_Special_Report_With_Bret_Baier/FOXNEWSW_20170503_080000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20170503_080000_Special_Report_With_Bret_Baier_001587.jpg</field>
+<field name="snippet">the guardian called him a hippie puncher. readers complained and some threaten to cancel subscriptions. it is in this political climate the president who called global warming a hoax heads to paris.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170522_080000_Victoria_Derbyshire#start/6239/end/6274</field>
+<field name="datetime">5/22/2017 9:44:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20170522_080000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170522_080000_Victoria_Derbyshire/BBCNEWS_20170522_080000_Victoria_Derbyshire.thumbs/BBCNEWS_20170522_080000_Victoria_Derbyshire_006238.jpg</field>
+<field name="snippet">felt more uncertain with brexit, with accelerating climate change, with an nhs in crisis. we face challenges that we can't possibly pretend to fix in the next 100 days or the next 1000. threats to our</field>
+</doc>
+</add>

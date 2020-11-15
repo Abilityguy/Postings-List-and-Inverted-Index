@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100201_230000_Special_Report_With_Bret_Baier#start/1893/end/1928</field>
+<field name="datetime">2/1/2010 23:31:48</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100201_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100201_230000_Special_Report_With_Bret_Baier/FOXNEWS_20100201_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100201_230000_Special_Report_With_Bret_Baier_001884.jpg</field>
+<field name="snippet">20-35. now the london telegraph reports the two sources of that u.n. report were a student dissertation and an article in a mount mountain nearing magazine. author of two books on climate change wrote the article for</field>
+</doc>
+</add>

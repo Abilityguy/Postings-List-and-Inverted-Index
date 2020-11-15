@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200104_140000_BBC_News#start/1727/end/1762</field>
+<field name="datetime">1/4/2020 14:29:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200104_140000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200104_140000_BBC_News/BBCNEWS_20200104_140000_BBC_News.thumbs/BBCNEWS_20200104_140000_BBC_News_001708.jpg</field>
+<field name="snippet">the fire engine which he loved. the climate change campaigner, greta thunberg, changed her name to 'sharon' on twitter in honour</field>
+</doc>
+</add>

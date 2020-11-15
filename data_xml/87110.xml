@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191211_130000_BBC_News_at_One#start/1604/end/1639</field>
+<field name="datetime">12/11/2019 13:26:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20191211_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191211_130000_BBC_News_at_One/BBCNEWS_20191211_130000_BBC_News_at_One.thumbs/BBCNEWS_20191211_130000_BBC_News_at_One_001588.jpg</field>
+<field name="snippet">the climate crisis will only be solved by citizens on the streets. matt mcgrath, bbc news, madrid. the post office has agreed to pay more than £57 million to settle a dispute with former subpostmasters. it brings to an end a series</field>
+</doc>
+</add>

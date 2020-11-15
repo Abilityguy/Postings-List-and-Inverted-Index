@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201805.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180526_090000_Tucker_Carlson_Tonight#start/36/end/71</field>
+<field name="datetime">5/26/2018 9:00:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20180526_090000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180526_090000_Tucker_Carlson_Tonight/FOXNEWSW_20180526_090000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20180526_090000_Tucker_Carlson_Tonight_000057.jpg</field>
+<field name="snippet">they have abandoned their the old causes to attack issues like global warming. leaders are now demanding we bomb al-assad and we will hit all of those stories tonight.</field>
+</doc>
+</add>

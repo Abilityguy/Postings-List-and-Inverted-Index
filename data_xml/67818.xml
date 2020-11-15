@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190225_090000_BBC_News_at_9#start/1588/end/1623</field>
+<field name="datetime">2/25/2019 9:26:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20190225_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190225_090000_BBC_News_at_9/BBCNEWS_20190225_090000_BBC_News_at_9.thumbs/BBCNEWS_20190225_090000_BBC_News_at_9_001588.jpg</field>
+<field name="snippet">the ice can tell us the relation between the earth's surfce temperature and the natural concentration of greenhouse gases. to understand potential future scenario in the change of the climate, we need to understand the natural variations. their mission involves scanning the surface of antarctica for a suitable location to get</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201304.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130404_150000_MSNBC_Live#start/3184/end/3219</field>
+<field name="datetime">4/4/2013 15:53:19</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20130404_150000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130404_150000_MSNBC_Live/MSNBCW_20130404_150000_MSNBC_Live.thumbs/MSNBCW_20130404_150000_MSNBC_Live_003166.jpg</field>
+<field name="snippet">the arab spring and climate change. and the hollywood reporters says a new documentary about the letters sent to jackie kennedy after her husband's assassination will feature the voices of about 20 a-list celebrities, some voices will be</field>
+</doc>
+</add>

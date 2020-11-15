@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201202.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120210_180000_America_Live#start/5820/end/5855</field>
+<field name="datetime">2/10/2012 19:37:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWSW_20120210_180000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120210_180000_America_Live/FOXNEWSW_20120210_180000_America_Live.thumbs/FOXNEWSW_20120210_180000_America_Live_005816.jpg</field>
+<field name="snippet">global warming. this rollercoaster is headed for a crash. and we are in the front car. alisyn: but don't trust that. you are always looking into whether we can trust the government. on balance, can we?</field>
+</doc>
+</add>

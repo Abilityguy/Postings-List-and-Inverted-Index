@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201412.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141230_160000_Happening_Now#start/3335/end/3370</field>
+<field name="datetime">12/30/2014 16:55:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20141230_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141230_160000_Happening_Now/FOXNEWSW_20141230_160000_Happening_Now.thumbs/FOXNEWSW_20141230_160000_Happening_Now_003315.jpg</field>
+<field name="snippet">in 2015 pope francis will publish a rare encyclical to address climate change. here in the u.s. the criticism is especially pointed. u.s. cardinal raymond burke openly criticized pope in october, the church under his leadership is like a ship</field>
+</doc>
+</add>

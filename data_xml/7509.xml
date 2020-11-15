@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170605_060000_Fox_News_Sunday_With_Chris_Wallace#start/2308/end/2343</field>
+<field name="datetime">6/5/2017 6:38:43</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News Sunday With Chris Wallace</field>
+<field name="showid">FOXNEWSW_20170605_060000_Fox_News_Sunday_With_Chris_Wallace</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170605_060000_Fox_News_Sunday_With_Chris_Wallace/FOXNEWSW_20170605_060000_Fox_News_Sunday_With_Chris_Wallace.thumbs/FOXNEWSW_20170605_060000_Fox_News_Sunday_With_Chris_Wallace_002307.jpg</field>
+<field name="snippet">believe in greenhouse gas and climate change, there is some question about how effective the paris accord is in dealing with it. here's what epa administrator scott pruitt said on friday about the effectiveness of the u.s. target which is to reduce our greenhouse gas emissions by a quarter under 2005 levels.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170712_190000_BBC_News#start/1555/end/1590</field>
+<field name="datetime">7/12/2017 19:26:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170712_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170712_190000_BBC_News/BBCNEWS_20170712_190000_BBC_News.thumbs/BBCNEWS_20170712_190000_BBC_News_001528.jpg</field>
+<field name="snippet">the giant block is estimated to cover more than 2000 square miles. experts are not blaming global warming, though - they say it's normal behaviour for ice sheets. joining me now is martin siegert, professor in geological sciences at imperial college london and co-director of</field>
+</doc>
+</add>

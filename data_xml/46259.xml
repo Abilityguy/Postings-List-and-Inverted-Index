@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201510.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151017_000000_All_In_With_Chris_Hayes#start/2411/end/2446</field>
+<field name="datetime">10/17/2015 0:40:26</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20151017_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151017_000000_All_In_With_Chris_Hayes/MSNBCW_20151017_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20151017_000000_All_In_With_Chris_Hayes_002385.jpg</field>
+<field name="snippet">some point there would be limits on greenhouse gas emissions from fossil fuels and they thought at that time, in the late '70s and '80s, that the best way to address those possible limits or constraints would be to do really good science so they could have a seat at the table</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170527_090000_BBC_News#start/1554/end/1589</field>
+<field name="datetime">5/27/2017 9:26:09</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170527_090000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170527_090000_BBC_News/BBCNEWS_20170527_090000_BBC_News.thumbs/BBCNEWS_20170527_090000_BBC_News_001528.jpg</field>
+<field name="snippet">industrial nations, the g7, have failed to reach agreement on climate change at a summit in italy. members had hoped donald trump would join the rest of the world in combating climate change, but differences remain between the us president</field>
+</doc>
+</add>

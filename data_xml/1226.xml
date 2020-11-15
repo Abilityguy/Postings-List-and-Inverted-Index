@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170527_060000_Breakfast#start/1836/end/1871</field>
+<field name="datetime">5/27/2017 6:30:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20170527_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170527_060000_Breakfast/BBCNEWS_20170527_060000_Breakfast.thumbs/BBCNEWS_20170527_060000_Breakfast_001828.jpg</field>
+<field name="snippet">at a summit in sicily. they have agreed that internet companies need to do more to tackle the spread of extremist content online. but the leaders were unable to reach an agreement on climate change with differences remaining between us president donald trump and the rest of the group.</field>
+</doc>
+</add>

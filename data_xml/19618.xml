@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201903.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190309_110000_MSNBC_Live#start/2385/end/2420</field>
+<field name="datetime">3/9/2019 11:40:00</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20190309_110000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190309_110000_MSNBC_Live/MSNBCW_20190309_110000_MSNBC_Live.thumbs/MSNBCW_20190309_110000_MSNBC_Live_002367.jpg</field>
+<field name="snippet">with a bold vision for our future. we are the first generation to feel the sting of climate change, and we are the last generation that can do something about it. we need to break the stranglehold of the oil and gas industries</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201709.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170902_030000_BBC_News#start/1061/end/1096</field>
+<field name="datetime">9/2/2017 3:17:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170902_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170902_030000_BBC_News/BBCNEWS_20170902_030000_BBC_News.thumbs/BBCNEWS_20170902_030000_BBC_News_001047.jpg</field>
+<field name="snippet">that total rainfall was increased by around 10-15% because of the warm temperatures in the gulf of mexico. you mention climate change.</field>
+</doc>
+</add>

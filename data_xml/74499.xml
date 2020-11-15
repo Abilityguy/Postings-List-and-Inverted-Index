@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200114_020000_BBC_News#start/277/end/312</field>
+<field name="datetime">1/14/2020 2:04:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200114_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200114_020000_BBC_News/BBCNEWS_20200114_020000_BBC_News.thumbs/BBCNEWS_20200114_020000_BBC_News_000269.jpg</field>
+<field name="snippet">there's a consensus among the vast majority of scientists that we need to keep temperatures from rising by more than 1.5 degrees to prevent the worst aspects of global warming. but that's looking increasingly unlikely, and in a world three degrees warmer, according to the hadley centre,</field>
+</doc>
+</add>

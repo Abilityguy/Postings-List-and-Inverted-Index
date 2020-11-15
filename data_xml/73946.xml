@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201002.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100210_230000_The_Ed_Show#start/984/end/1019</field>
+<field name="datetime">2/10/2010 23:16:39</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBC_20100210_230000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20100210_230000_The_Ed_Show/MSNBC_20100210_230000_The_Ed_Show.thumbs/MSNBC_20100210_230000_The_Ed_Show_000957.jpg</field>
+<field name="snippet">coming up, the drugster can't get enough of the blizzard. they think that shows that al gore is wrong on climate change. i'm back with psycho talk right after this on 'the ed show.'</field>
+</doc>
+</add>

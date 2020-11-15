@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100422_100000_FOX_and_Friends#start/5006/end/5041</field>
+<field name="datetime">4/22/2010 11:23:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100422_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100422_100000_FOX_and_Friends/FOXNEWS_20100422_100000_FOX_and_Friends.thumbs/FOXNEWS_20100422_100000_FOX_and_Friends_005001.jpg</field>
+<field name="snippet">at how the mainstream media covered and didn't cover climategate. that was the release of all those e-mails exposing that scientists held back data that discredits theories on global warming. joining us on earth, the president and founder of medical</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200911.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091130_190000_MSNBC_News_Live#start/2850/end/2885</field>
+<field name="datetime">11/30/2009 19:47:45</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091130_190000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091130_190000_MSNBC_News_Live/MSNBC_20091130_190000_MSNBC_News_Live.thumbs/MSNBC_20091130_190000_MSNBC_News_Live_002813.jpg</field>
+<field name="snippet">senator jim deminute and senator graham, there is a real divide because graham has been more moderate on climate change, just been some more issues that graham has sort of infuriated the more conservative members of his party about. how does this play out when it</field>
+</doc>
+</add>

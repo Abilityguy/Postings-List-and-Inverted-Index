@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191007_080000_BBC_News_at_Nine#start/2704/end/2739</field>
+<field name="datetime">10/7/2019 8:45:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20191007_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191007_080000_BBC_News_at_Nine/BBCNEWS_20191007_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20191007_080000_BBC_News_at_Nine_002699.jpg</field>
+<field name="snippet">breaking news which is that, as you probably know, that the climate change protesters extinction rebellion are planning a fortnight of global civil disobedience starting today. disruption is planned in 60 cities around the</field>
+</doc>
+</add>

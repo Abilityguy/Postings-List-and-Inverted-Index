@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200114_090000_BBC_News_at_9#start/3209/end/3244</field>
+<field name="datetime">1/14/2020 9:53:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20200114_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200114_090000_BBC_News_at_9/BBCNEWS_20200114_090000_BBC_News_at_9.thumbs/BBCNEWS_20200114_090000_BBC_News_at_9_003208.jpg</field>
+<field name="snippet">as australia burns, this new report draws a direct link between the fires and man-made climate change. experts at britain's met office say what we are seeing now will become the new normal. the earth's temperature has risen</field>
+</doc>
+</add>

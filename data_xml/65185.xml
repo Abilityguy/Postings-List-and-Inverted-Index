@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190301_190000_The_Daily_Briefing_With_Dana_Perino#start/178/end/213</field>
+<field name="datetime">3/1/2019 19:03:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Daily Briefing With Dana Perino</field>
+<field name="showid">FOXNEWSW_20190301_190000_The_Daily_Briefing_With_Dana_Perino</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190301_190000_The_Daily_Briefing_With_Dana_Perino/FOXNEWSW_20190301_190000_The_Daily_Briefing_With_Dana_Perino.thumbs/FOXNEWSW_20190301_190000_The_Daily_Briefing_With_Dana_Perino_000179.jpg</field>
+<field name="snippet">washington state's governor announcing his 2020 bid, wasting no time setting out his priorities. i'm running for president because i'm the only candidate who will make defeating climate change our nation's number one priority. we can do this.</field>
+</doc>
+</add>

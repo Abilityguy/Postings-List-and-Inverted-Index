@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201612.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161202_080000_All_In_With_Chris_Hayes#start/1050/end/1085</field>
+<field name="datetime">12/2/2016 8:17:45</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20161202_080000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161202_080000_All_In_With_Chris_Hayes/MSNBCW_20161202_080000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20161202_080000_All_In_With_Chris_Hayes_001048.jpg</field>
+<field name="snippet">the largest agreement ever was the paris agreement on climate last year. 194 countries agreed that we needed to control greenhouse gas emissions for the safety and welfare of people around the world.</field>
+</doc>
+</add>

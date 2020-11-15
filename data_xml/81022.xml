@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201601.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160118_100000_First_Look#start/316/end/351</field>
+<field name="datetime">1/18/2016 10:05:31</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20160118_100000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160118_100000_First_Look/MSNBCW_20160118_100000_First_Look.thumbs/MSNBCW_20160118_100000_First_Look_000316.jpg</field>
+<field name="snippet">reporter: they agree on going after isis, going slow with iran and dealing with climate change but their differences are what seem to be driving the polls now just two weeks before iowa weighs in. and that was tracie potts from washington, thank you.</field>
+</doc>
+</add>

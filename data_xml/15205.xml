@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201306.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130626_100000_FOX_and_Friends#start/8704/end/8739</field>
+<field name="datetime">6/26/2013 12:25:19</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20130626_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130626_100000_FOX_and_Friends/FOXNEWSW_20130626_100000_FOX_and_Friends.thumbs/FOXNEWSW_20130626_100000_FOX_and_Friends_008685.jpg</field>
+<field name="snippet">yes. tucker: he is making a major push to combat climate change he says. i'm directing the environmental protection agency to put an end to the limitless dumping of carbon pollution from our power plants and complete new pollution standards for both</field>
+</doc>
+</add>

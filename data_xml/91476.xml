@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191220_040000_Fox_News__Night_With_Shannon_Bream#start/328/end/363</field>
+<field name="datetime">12/20/2019 4:05:43</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News  Night With Shannon Bream</field>
+<field name="showid">FOXNEWSW_20191220_040000_Fox_News__Night_With_Shannon_Bream</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191220_040000_Fox_News__Night_With_Shannon_Bream/FOXNEWSW_20191220_040000_Fox_News__Night_With_Shannon_Bream.thumbs/FOXNEWSW_20191220_040000_Fox_News__Night_With_Shannon_Bream_000328.jpg</field>
+<field name="snippet">fall of 2017 to save government legislation moving the primary date up, the goal was to give the state more say in presidential elections to issues that matter to californians on every candidate's minds. one of those issues, climate</field>
+</doc>
+</add>

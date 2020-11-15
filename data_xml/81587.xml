@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091218_110000_Morning_Joe#start/6391/end/6426</field>
+<field name="datetime">12/18/2009 12:46:46</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20091218_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20091218_110000_Morning_Joe/MSNBC_20091218_110000_Morning_Joe.thumbs/MSNBC_20091218_110000_Morning_Joe_006368.jpg</field>
+<field name="snippet">if you're uninsured, you want him to work on health care, if you're an environmentalist, you want him to work on climate change. three american hikers facing espionage charges in iran. are they being used as political</field>
+</doc>
+</add>

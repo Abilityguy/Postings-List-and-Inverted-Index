@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191019_100000_Fox_and_Friends_Saturday#start/643/end/678</field>
+<field name="datetime">10/19/2019 10:10:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20191019_100000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191019_100000_Fox_and_Friends_Saturday/FOXNEWSW_20191019_100000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20191019_100000_Fox_and_Friends_Saturday_000628.jpg</field>
+<field name="snippet">let's vote for a deal that can heal this country. the u.k. will leave the eu at the end of the month if the deal is approved. otherwise, johnson must request another extension. and jane fonda in handcuffs again. the 81-year-old actress arrested at a climate change rally for</field>
+</doc>
+</add>

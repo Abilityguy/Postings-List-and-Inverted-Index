@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190207_030000_BBC_News#start/63/end/98</field>
+<field name="datetime">2/7/2019 3:01:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190207_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190207_030000_BBC_News/BBCNEWS_20190207_030000_BBC_News.thumbs/BBCNEWS_20190207_030000_BBC_News_000059.jpg</field>
+<field name="snippet">for the first time, global warming may be about to hit a tipping point - a level of temperature rise that could bring rapid and far-reaching changes for our planet, creating conditions we have never experienced before. nasa scientists have already confirmed the warmest years</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171231_050000_BBC_News#start/737/end/772</field>
+<field name="datetime">12/31/2017 5:12:32</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171231_050000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171231_050000_BBC_News/BBCNEWS_20171231_050000_BBC_News.thumbs/BBCNEWS_20171231_050000_BBC_News_000717.jpg</field>
+<field name="snippet">we are always being warned not to conflate climate change and individual weather events. should we be reading something into these cold temperatures? actually, we probably should. this still remains an interesting question about these kinds of cold waves and i'm a bit sceptical.</field>
+</doc>
+</add>

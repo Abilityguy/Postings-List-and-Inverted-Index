@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190110_054500_The_Briefing#start/56/end/91</field>
+<field name="datetime">1/10/2019 5:46:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20190110_054500_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190110_054500_The_Briefing/BBCNEWS_20190110_054500_The_Briefing.thumbs/BBCNEWS_20190110_054500_The_Briefing_000058.jpg</field>
+<field name="snippet">a pet food manufacturer claims a0 percent of its new product is made from soldier flies, hoping to cash in on the backlash against beef production and its contribution to greenhouse gas emissions.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_100000_BBC_Newsroom_Live#start/3822/end/3857</field>
+<field name="datetime">10/8/2018 11:03:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20181008_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_100000_BBC_Newsroom_Live/BBCNEWS_20181008_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20181008_100000_BBC_Newsroom_Live_003807.jpg</field>
+<field name="snippet">i would like to be clear that the genesis of this report came from the governments. three years ago in paris they made a commitment to try and work towards making global warming 1.5 degrees. they asked us</field>
+</doc>
+</add>

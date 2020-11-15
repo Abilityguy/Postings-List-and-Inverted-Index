@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200101_093000_Weather_World#start/1069/end/1104</field>
+<field name="datetime">1/1/2020 9:48:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20200101_093000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200101_093000_Weather_World/BBCNEWS_20200101_093000_Weather_World.thumbs/BBCNEWS_20200101_093000_Weather_World_001049.jpg</field>
+<field name="snippet">extinction! rebellion! during 2019, public protest and direct action about climate change reached new levels. chanting. spain in december, and thousands demonstrate as madrid</field>
+</doc>
+</add>

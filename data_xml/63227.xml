@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190307_000000_Newsday#start/1066/end/1101</field>
+<field name="datetime">3/7/2019 0:18:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190307_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190307_000000_Newsday/BBCNEWS_20190307_000000_Newsday.thumbs/BBCNEWS_20190307_000000_Newsday_001048.jpg</field>
+<field name="snippet">of climate change. but now, scientists are discovering how rising sea levels could actually help capture harmful carbon. thats because vegetation in coastal wetlands across the world absorb carbon from the atmosphere which is then submerged or buried underwater. here's victoria gill with a new twist on the climate change story. the buffer zones of our coasts, natural flood defences, rich, muddy feeding stations.</field>
+</doc>
+</add>

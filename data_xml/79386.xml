@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201402.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140218_160000_MSNBC_Live#start/2186/end/2221</field>
+<field name="datetime">2/18/2014 16:36:41</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20140218_160000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140218_160000_MSNBC_Live/MSNBCW_20140218_160000_MSNBC_Live.thumbs/MSNBCW_20140218_160000_MSNBC_Live_002175.jpg</field>
+<field name="snippet">climate change has actually gone down, even as our production has gone up. and one of the reasons why is because we dedicated ourselves to manufacturing new cars and new trucks that go farther on a gallon of gas.</field>
+</doc>
+</add>

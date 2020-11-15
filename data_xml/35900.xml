@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201709.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170921_180000_MSNBC_Live#start/2690/end/2725</field>
+<field name="datetime">9/21/2017 18:45:05</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170921_180000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170921_180000_MSNBC_Live/MSNBCW_20170921_180000_MSNBC_Live.thumbs/MSNBCW_20170921_180000_MSNBC_Live_002668.jpg</field>
+<field name="snippet">nobody wants to talk about, climate change, obviously. once in a while your own al roker will slip it in. as the ocean gets warmer, especially the gulf of mexico. now, the north atlantic, north of the equator, as it gets</field>
+</doc>
+</add>

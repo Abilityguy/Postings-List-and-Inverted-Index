@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201103.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110318_050000_The_Ed_Show#start/3011/end/3046</field>
+<field name="datetime">3/18/2011 5:50:26</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBC_20110318_050000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20110318_050000_The_Ed_Show/MSNBC_20110318_050000_The_Ed_Show.thumbs/MSNBC_20110318_050000_The_Ed_Show_002993.jpg</field>
+<field name="snippet">and, you know, reduce damaged property? it would seem to me that we could do a better job than what we're doing right now if we would invest in it. yeah. no, it's especially in the face of climate change this is going to become increasingly important.</field>
+</doc>
+</add>

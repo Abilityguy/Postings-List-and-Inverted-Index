@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201706.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170602_190000_MSNBC_Live#start/30/end/65</field>
+<field name="datetime">6/2/2017 19:00:45</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170602_190000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170602_190000_MSNBC_Live/MSNBCW_20170602_190000_MSNBC_Live.thumbs/MSNBCW_20170602_190000_MSNBC_Live_000057.jpg</field>
+<field name="snippet">good afternoon. right now the white house fighting critics on a two-front war. on the one hand, administration officials are dealing with the back lash from president trump's decision to exit the paris climate deal. they're categorically refusing to say whether or not the president is a climate change</field>
+</doc>
+</add>

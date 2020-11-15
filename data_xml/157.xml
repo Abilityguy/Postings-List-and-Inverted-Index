@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201301.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130110_050000_Hannity#start/2106/end/2141</field>
+<field name="datetime">1/10/2013 5:35:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20130110_050000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130110_050000_Hannity/FOXNEWSW_20130110_050000_Hannity.thumbs/FOXNEWSW_20130110_050000_Hannity_001965.jpg</field>
+<field name="snippet">[ doctor ] enbrel, the number one biologic medicine prescribed by rheumatologists. all right. a week since al gore sold his tv sayings to al-jazeera. the global warming guru is</field>
+</doc>
+</add>

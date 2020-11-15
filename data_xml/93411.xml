@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190724_013000_Tuesday_in_Parliament#start/48/end/83</field>
+<field name="datetime">7/24/2019 1:31:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Tuesday in Parliament</field>
+<field name="showid">BBCNEWS_20190724_013000_Tuesday_in_Parliament</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190724_013000_Tuesday_in_Parliament/BBCNEWS_20190724_013000_Tuesday_in_Parliament.thumbs/BBCNEWS_20190724_013000_Tuesday_in_Parliament_000028.jpg</field>
+<field name="snippet">temperatures bore 'the hallmark of climate change'. now on bbc news:</field>
+</doc>
+</add>

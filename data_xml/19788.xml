@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201410.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141028_210000_The_Five#start/2457/end/2492</field>
+<field name="datetime">10/28/2014 21:41:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20141028_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141028_210000_The_Five/FOXNEWSW_20141028_210000_The_Five.thumbs/FOXNEWSW_20141028_210000_The_Five_002445.jpg</field>
+<field name="snippet">politicians on the left have been sounding the alarm on global warming for years. the planet has a fever. the climate is changing faster than our efforts to address it. climate change can now be</field>
+</doc>
+</add>

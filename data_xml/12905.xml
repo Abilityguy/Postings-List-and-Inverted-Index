@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170714_020000_BBC_News#start/58/end/93</field>
+<field name="datetime">7/14/2017 2:01:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170714_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170714_020000_BBC_News/BBCNEWS_20170714_020000_BBC_News.thumbs/BBCNEWS_20170714_020000_BBC_News_000057.jpg</field>
+<field name="snippet">president trump has publicly hinted that american policy could shift yet again on the paris climate accord, despite last month's decision to withdraw, in a few years, from the global agreement to limit climate change. mr trump was talking in paris, where he's been the focus of a relentless charm and sightseeing offensive by the french president.</field>
+</doc>
+</add>

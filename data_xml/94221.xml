@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170822_175000_BBC_News#start/301/end/336</field>
+<field name="datetime">8/22/2017 17:55:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170822_175000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170822_175000_BBC_News/BBCNEWS_20170822_175000_BBC_News.thumbs/BBCNEWS_20170822_175000_BBC_News_000297.jpg</field>
+<field name="snippet">here and across africa, improving the state of agriculture is a big priority, especially when climate change is added to the challenge of a doubling population. alastair leithead, bbc news, kenya. now time for a look at the weather</field>
+</doc>
+</add>

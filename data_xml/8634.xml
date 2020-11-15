@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190906_000000_Tucker_Carlson_Tonight#start/544/end/579</field>
+<field name="datetime">9/6/2019 0:09:19</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190906_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190906_000000_Tucker_Carlson_Tonight/FOXNEWSW_20190906_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190906_000000_Tucker_Carlson_Tonight_000540.jpg</field>
+<field name="snippet">this is not about climate change, it's not about environmentalism, it's never been about that. it's about force control and manipulation. tucker: i don't get the sense in any of these people ever go outside. like one was lost and they went camping? do they know anything?</field>
+</doc>
+</add>

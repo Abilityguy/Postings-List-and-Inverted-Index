@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190516_230000_Newsday#start/48/end/83</field>
+<field name="datetime">5/16/2019 23:01:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190516_230000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190516_230000_Newsday/BBCNEWS_20190516_230000_Newsday.thumbs/BBCNEWS_20190516_230000_Newsday_000027.jpg</field>
+<field name="snippet">american wages, promotes american values, and attracts the best and brightest from all around the world. i'm samantha simmonds in london. also in the programme: australia goes to the polls this weekend, and we head to queensland, where climate change and the use of coal has become</field>
+</doc>
+</add>

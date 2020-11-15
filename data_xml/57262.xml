@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181124_190000_Americas_News_HQ#start/2123/end/2158</field>
+<field name="datetime">11/24/2018 19:35:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20181124_190000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181124_190000_Americas_News_HQ/FOXNEWSW_20181124_190000_Americas_News_HQ.thumbs/FOXNEWSW_20181124_190000_Americas_News_HQ_002098.jpg</field>
+<field name="snippet">if there is not substantial and sustained global mitigation and regional adaptation efforts, the report warns, climate change is expected to cause growing losses to american infrastructure and property and impede the rate of economic growth over the century.the report is over</field>
+</doc>
+</add>

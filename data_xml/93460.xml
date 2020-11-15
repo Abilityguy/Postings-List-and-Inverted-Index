@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190710_180000_Beyond_100_Days#start/2925/end/2960</field>
+<field name="datetime">7/10/2019 18:49:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20190710_180000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190710_180000_Beyond_100_Days/BBCNEWS_20190710_180000_Beyond_100_Days.thumbs/BBCNEWS_20190710_180000_Beyond_100_Days_002908.jpg</field>
+<field name="snippet">last month the uk government put into law a committment to eradicate its net contribution to climate change by 2050. a bold step, and the first major</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200910.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091009_100000_Morning_Joe#start/4507/end/4542</field>
+<field name="datetime">10/9/2009 11:15:22</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20091009_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20091009_100000_Morning_Joe/MSNBC_20091009_100000_Morning_Joe.thumbs/MSNBC_20091009_100000_Morning_Joe_004496.jpg</field>
+<field name="snippet">you're not george bush. and you know, this is sort of endorsing change. almost endorsing the election because ironically the things they point to in the citation, climate change, commitment to do away with nuclear weapons was</field>
+</doc>
+</add>

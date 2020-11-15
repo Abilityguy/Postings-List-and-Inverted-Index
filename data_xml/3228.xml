@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201512.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151201_000000_On_the_Record_With_Greta_Van_Susteren#start/3615/end/3650</field>
+<field name="datetime">12/1/2015 1:00:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">On the Record With Greta Van Susteren</field>
+<field name="showid">FOXNEWSW_20151201_000000_On_the_Record_With_Greta_Van_Susteren</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151201_000000_On_the_Record_With_Greta_Van_Susteren/FOXNEWSW_20151201_000000_On_the_Record_With_Greta_Van_Susteren.thumbs/FOXNEWSW_20151201_000000_On_the_Record_With_Greta_Van_Susteren_003615.jpg</field>
+<field name="snippet">the o'reilly factor is on. tonight: more global warming controversy as protesters in paris defy the authorities even as president obama seems to make a statement.</field>
+</doc>
+</add>

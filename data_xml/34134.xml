@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091217_230000_Special_Report_With_Bret_Baier#start/2295/end/2330</field>
+<field name="datetime">12/17/2009 23:38:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091217_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091217_230000_Special_Report_With_Bret_Baier/FOXNEWS_20091217_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091217_230000_Special_Report_With_Bret_Baier_002274.jpg</field>
+<field name="snippet">is heading to copenhagen for the u.n. climate change conference, but what exactly will the u.s. sign on to? at the end of this week? let's bring in our panel, fred barnes, executive editor of the weekly standard, mara liasson, national public radio, and</field>
+</doc>
+</add>

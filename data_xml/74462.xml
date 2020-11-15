@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_090000_BBC_News_at_9#start/1442/end/1477</field>
+<field name="datetime">1/16/2020 9:24:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20200116_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_090000_BBC_News_at_9/BBCNEWS_20200116_090000_BBC_News_at_9.thumbs/BBCNEWS_20200116_090000_BBC_News_at_9_001438.jpg</field>
+<field name="snippet">or so, scientists, the un climate panel, have laid out the options that need to happen. if you want to avoid, they say, the worst effects of global warming, a rise of above 1.5 degrees compared to the</field>
+</doc>
+</add>

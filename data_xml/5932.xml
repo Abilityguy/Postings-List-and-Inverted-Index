@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190923_073000_BBC_Business_Live#start/1470/end/1505</field>
+<field name="datetime">9/23/2019 7:54:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Business Live</field>
+<field name="showid">BBCNEWS_20190923_073000_BBC_Business_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190923_073000_BBC_Business_Live/BBCNEWS_20190923_073000_BBC_Business_Live.thumbs/BBCNEWS_20190923_073000_BBC_Business_Live_001469.jpg</field>
+<field name="snippet">un monday climate conference happening in new york today, many companies in the run-up to this making new pledges about their global warming targets. yes, we are hearing these stories of the time, it's unfolding whether its pledges,</field>
+</doc>
+</add>

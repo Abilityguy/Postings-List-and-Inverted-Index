@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190117_100000_Victoria_Derbyshire#start/1244/end/1279</field>
+<field name="datetime">1/17/2019 10:20:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20190117_100000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190117_100000_Victoria_Derbyshire/BBCNEWS_20190117_100000_Victoria_Derbyshire.thumbs/BBCNEWS_20190117_100000_Victoria_Derbyshire_001228.jpg</field>
+<field name="snippet">loss, water pollution, climate change and so on. thatjuggling was what our report was about, can we do it? and the good news is that yes, we can, actually. kate harrison, food writer, does it sound realistic</field>
+</doc>
+</add>

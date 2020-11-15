@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170714_010000_BBC_News#start/1701/end/1736</field>
+<field name="datetime">7/14/2017 1:28:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170714_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170714_010000_BBC_News/BBCNEWS_20170714_010000_BBC_News.thumbs/BBCNEWS_20170714_010000_BBC_News_001677.jpg</field>
+<field name="snippet">this is bbc news. the headlines: president trump has hinted that the united states' position on climate change could change. at a news conference in paris ahead of the bastille day celebrations, mr trump said something could happen with respect to the paris accord on climate change, from which the us withdrew six weeks ago. president trump and chancellor</field>
+</doc>
+</add>

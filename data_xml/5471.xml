@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171212_130000_BBC_News_at_One#start/1438/end/1473</field>
+<field name="datetime">12/12/2017 13:24:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20171212_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171212_130000_BBC_News_at_One/BBCNEWS_20171212_130000_BBC_News_at_One.thumbs/BBCNEWS_20171212_130000_BBC_News_at_One_001437.jpg</field>
+<field name="snippet">the shutdown is not expected to have a major impact on domestic supplies. the french president, emmanuel macron, says he believes president trump will bring the us back into the paris deal on combating climate change. earlier this year, donald trump</field>
+</doc>
+</add>

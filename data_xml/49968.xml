@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180608_190000_Shepard_Smith_Reporting#start/155/end/190</field>
+<field name="datetime">6/8/2018 19:02:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20180608_190000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180608_190000_Shepard_Smith_Reporting/FOXNEWSW_20180608_190000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20180608_190000_Shepard_Smith_Reporting_000147.jpg</field>
+<field name="snippet">now confronting the president's rhetoric. mr. trump put steep tariffs on steel and aluminum imports from canada, the european union and other american allies. president trump will be skipping the climate change portion of the conference ducking out early to avoid</field>
+</doc>
+</add>

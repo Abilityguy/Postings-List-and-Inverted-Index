@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201302.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130210_110000_FOX_and_Friends_Sunday#start/8126/end/8161</field>
+<field name="datetime">2/10/2013 13:15:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20130210_110000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130210_110000_FOX_and_Friends_Sunday/FOXNEWSW_20130210_110000_FOX_and_Friends_Sunday.thumbs/FOXNEWSW_20130210_110000_FOX_and_Friends_Sunday_008115.jpg</field>
+<field name="snippet">expect to hear from the speech on tuesday? what i expect to hear is what the white house says we're going to here and where the president in his inaugural address talks a lot about social equality and social issues, gay rights and climate</field>
+</doc>
+</add>

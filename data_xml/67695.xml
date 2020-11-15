@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140530_070000_All_In_With_Chris_Hayes#start/1654/end/1689</field>
+<field name="datetime">5/30/2014 7:27:49</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20140530_070000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140530_070000_All_In_With_Chris_Hayes/MSNBCW_20140530_070000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20140530_070000_All_In_With_Chris_Hayes_001455.jpg</field>
+<field name="snippet">neil degrasse tyson is one of the most famous scientists in america and the host of the critically acclaimed reboot of 'cosmos.' got a chance to sit down with him today to talk about science, politics, the planet, the universe, a whole host of other things, including the climate change denialism currently practiced by the republican party.</field>
+</doc>
+</add>

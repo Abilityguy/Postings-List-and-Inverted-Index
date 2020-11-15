@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201401.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140107_060000_Hannity#start/706/end/741</field>
+<field name="datetime">1/7/2014 6:12:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20140107_060000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140107_060000_Hannity/FOXNEWSW_20140107_060000_Hannity.thumbs/FOXNEWSW_20140107_060000_Hannity_000705.jpg</field>
+<field name="snippet">that we're facing in this country. thanks guys. you've got global warming</field>
+</doc>
+</add>

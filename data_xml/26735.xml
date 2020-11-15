@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100210_220000_Glenn_Beck#start/137/end/172</field>
+<field name="datetime">2/10/2010 22:02:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20100210_220000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100210_220000_Glenn_Beck/FOXNEWS_20100210_220000_Glenn_Beck.thumbs/FOXNEWS_20100210_220000_Glenn_Beck_000116.jpg</field>
+<field name="snippet">you could argue storms are not evidence of lack of global warming but are evidence of global warming. glenn: i can't figure out why this program is beating them by 18 times.</field>
+</doc>
+</add>

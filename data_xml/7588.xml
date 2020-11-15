@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170601_090000_Fox_and_Friends_First#start/1552/end/1587</field>
+<field name="datetime">6/1/2017 9:26:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20170601_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170601_090000_Fox_and_Friends_First/FOXNEWSW_20170601_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20170601_090000_Fox_and_Friends_First_001528.jpg</field>
+<field name="snippet">the world commit to reducing its carbon dioxide emissions and every 5 years they have to recommit and reduce greenhouse gas emissions even further. heather: i was reading a story</field>
+</doc>
+</add>

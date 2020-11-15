@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201309.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130916_100000_FOX_and_Friends#start/4421/end/4456</field>
+<field name="datetime">9/16/2013 11:13:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20130916_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130916_100000_FOX_and_Friends/FOXNEWSW_20130916_100000_FOX_and_Friends.thumbs/FOXNEWSW_20130916_100000_FOX_and_Friends_004395.jpg</field>
+<field name="snippet">that's up next. brian: it's edge aetna. and remember when al gore made his case for global warming? now the science is in and it will have al gore feeling hot under the collar while he's on his private jet  ho ho ho</field>
+</doc>
+</add>

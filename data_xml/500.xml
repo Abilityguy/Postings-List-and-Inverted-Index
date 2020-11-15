@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171104_070000_Breakfast#start/1828/end/1863</field>
+<field name="datetime">11/4/2017 7:30:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20171104_070000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171104_070000_Breakfast/BBCNEWS_20171104_070000_Breakfast.thumbs/BBCNEWS_20171104_070000_Breakfast_001827.jpg</field>
+<field name="snippet">on climate change. the study, compiled by us government scientists, said it was extremely likely, with 95% to 100% certainty, that global warming is man-made, mostly from carbon dioxide through the burning of coal,</field>
+</doc>
+</add>

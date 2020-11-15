@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091107_090000_Special_Report_With_Bret_Baier#start/1104/end/1139</field>
+<field name="datetime">11/7/2009 9:18:39</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091107_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091107_090000_Special_Report_With_Bret_Baier/FOXNEWS_20091107_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091107_090000_Special_Report_With_Bret_Baier_001105.jpg</field>
+<field name="snippet">before he leaves wednesday for a lengthy trip to asia. bret: thank you, major. democrats move ahead with climate change legislation without republican help, a little later, the fox all-stars weigh in on that, which was your lightning round choice on-line.</field>
+</doc>
+</add>

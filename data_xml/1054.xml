@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170508_000000_Newsday#start/77/end/112</field>
+<field name="datetime">5/8/2017 0:01:32</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20170508_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170508_000000_Newsday/BBCNEWS_20170508_000000_Newsday.thumbs/BBCNEWS_20170508_000000_Newsday_000057.jpg</field>
+<field name="snippet">and climate change. results are still being counted, but projected results show mr macron has won more than 65% of the vote after sweeping aside the challenge of his far-right rival, marine le pen.</field>
+</doc>
+</add>

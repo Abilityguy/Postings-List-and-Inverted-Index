@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170709_013000_Dateline_London#start/1740/end/1775</field>
+<field name="datetime">7/9/2017 1:59:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Dateline London</field>
+<field name="showid">BBCNEWS_20170709_013000_Dateline_London</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170709_013000_Dateline_London/BBCNEWS_20170709_013000_Dateline_London.thumbs/BBCNEWS_20170709_013000_Dateline_London_001737.jpg</field>
+<field name="snippet">our top stories: the g20 summit has ended with world leaders failing to bridge the divide over climate change. president trump called it a 'wonderful success'. after two days of violent protests, hamburg starts to recover</field>
+</doc>
+</add>

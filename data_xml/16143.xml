@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201304.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130414_160000_Americas_News_Headquarters#start/3424/end/3459</field>
+<field name="datetime">4/14/2013 16:57:19</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20130414_160000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130414_160000_Americas_News_Headquarters/FOXNEWSW_20130414_160000_Americas_News_Headquarters.thumbs/FOXNEWSW_20130414_160000_Americas_News_Headquarters_003405.jpg</field>
+<field name="snippet">can ignore the crippling droughts and storms. several mainstream publications committed what some consider climate change heracy reporting that temperatures have remained flat</field>
+</doc>
+</add>

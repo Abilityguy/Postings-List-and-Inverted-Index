@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180923_043000_Inside_Out#start/527/end/562</field>
+<field name="datetime">9/23/2018 4:39:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Inside Out</field>
+<field name="showid">BBCNEWS_20180923_043000_Inside_Out</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180923_043000_Inside_Out/BBCNEWS_20180923_043000_Inside_Out.thumbs/BBCNEWS_20180923_043000_Inside_Out_000507.jpg</field>
+<field name="snippet">polluting the atmosphere and driving climate change. clearly, this isn't a secure landfill. but if there are many people who are saying they can turn this resource from plastic in landfill into cleaner fuel, that surely has to be a good thing? so if they say this is cleaner fuels, what they mean is it's</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201012.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101214_090000_The_Ed_Show#start/1742/end/1777</field>
+<field name="datetime">12/14/2010 9:29:17</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBC_20101214_090000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20101214_090000_The_Ed_Show/MSNBC_20101214_090000_The_Ed_Show.thumbs/MSNBC_20101214_090000_The_Ed_Show_001735.jpg</field>
+<field name="snippet">they're all wound up about the minneapolis metrodome collapsing under 17 inches of snow. fox website jumped right into it. mocking global warming with its headline 'paging gore, metrodome collapses under snowstorm.'</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201207.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120703_160000_NOW_With_Alex_Wagner#start/1110/end/1145</field>
+<field name="datetime">7/3/2012 16:18:45</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20120703_160000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120703_160000_NOW_With_Alex_Wagner/MSNBCW_20120703_160000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20120703_160000_NOW_With_Alex_Wagner_001110.jpg</field>
+<field name="snippet">republicans like newt gingrich sat on couches with democrats like nancy pelosi and talked about the fact that this was a bipartisan issue where action needed to be taken. i want to play a piece of sound from romney in june of 2011 talking about climate change and global warming. let's take a listen.</field>
+</doc>
+</add>

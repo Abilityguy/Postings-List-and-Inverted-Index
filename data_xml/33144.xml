@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091209_140000_Americas_Newsroom#start/5421/end/5456</field>
+<field name="datetime">12/9/2009 15:30:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20091209_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091209_140000_Americas_Newsroom/FOXNEWS_20091209_140000_Americas_Newsroom.thumbs/FOXNEWS_20091209_140000_Americas_Newsroom_005388.jpg</field>
+<field name="snippet">plans for the fed to impose fees on companies that emit too much greenhouse gas. sitting in the senate right now, not much action at the moment, but a top white house official is sending a stern warning that</field>
+</doc>
+</add>

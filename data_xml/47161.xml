@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201101.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110103_150000_MSNBC_News_Live#start/2192/end/2227</field>
+<field name="datetime">1/3/2011 15:36:47</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20110103_150000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20110103_150000_MSNBC_News_Live/MSNBC_20110103_150000_MSNBC_News_Live.thumbs/MSNBC_20110103_150000_MSNBC_News_Live_002184.jpg</field>
+<field name="snippet">climate change, epa regulations and net neutrality also possibilities for upton. let's go to another gentleman from michigan, mike rogers, former fbi agent and army officer will chair the intelligence committee and challenge the president's</field>
+</doc>
+</add>

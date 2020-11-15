@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190601_060000_The_Ingraham_Angle#start/1350/end/1385</field>
+<field name="datetime">6/1/2019 6:22:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Ingraham Angle</field>
+<field name="showid">FOXNEWSW_20190601_060000_The_Ingraham_Angle</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190601_060000_The_Ingraham_Angle/FOXNEWSW_20190601_060000_The_Ingraham_Angle.thumbs/FOXNEWSW_20190601_060000_The_Ingraham_Angle_001348.jpg</field>
+<field name="snippet">the most important issue. immigration, 37%. i healthcare 36%. 25 environment. climate change eighteen.</field>
+</doc>
+</add>

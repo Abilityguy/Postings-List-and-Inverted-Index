@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201606.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160627_090000_Fox_and_Friends_First#start/2823/end/2858</field>
+<field name="datetime">6/27/2016 9:47:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20160627_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160627_090000_Fox_and_Friends_First/FOXNEWSW_20160627_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20160627_090000_Fox_and_Friends_First_002817.jpg</field>
+<field name="snippet">now to a fox business alert. despite the obama's push for climate change americans not buying it. cheryl casone from fox business is telling us why people are flocking to gas</field>
+</doc>
+</add>

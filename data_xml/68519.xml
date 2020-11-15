@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201309.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130924_130000_Americas_Newsroom#start/6646/end/6681</field>
+<field name="datetime">9/24/2013 14:51:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWSW_20130924_130000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130924_130000_Americas_Newsroom/FOXNEWSW_20130924_130000_Americas_Newsroom.thumbs/FOXNEWSW_20130924_130000_Americas_Newsroom_006645.jpg</field>
+<field name="snippet">combating climate change, starting businesses, expanding freedom and leaving behind the old ideological battles of the past. that's what's happening in asia, in africa, it's happening in europe and across the americas.</field>
+</doc>
+</add>

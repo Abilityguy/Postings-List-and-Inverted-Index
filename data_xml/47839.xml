@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201511.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151130_160000_MSNBC_Live_With_Tamron_Hall#start/1919/end/1954</field>
+<field name="datetime">11/30/2015 16:32:14</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Tamron Hall</field>
+<field name="showid">MSNBCW_20151130_160000_MSNBC_Live_With_Tamron_Hall</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151130_160000_MSNBC_Live_With_Tamron_Hall/MSNBCW_20151130_160000_MSNBC_Live_With_Tamron_Hall.thumbs/MSNBCW_20151130_160000_MSNBC_Live_With_Tamron_Hall_001906.jpg</field>
+<field name="snippet">conference on climate change. but, the terror attacks just over two weeks ago are still front and center after arriving in paris shortly after midnight, the president laid a single white rose outside the theater where 89 people were killed.</field>
+</doc>
+</add>

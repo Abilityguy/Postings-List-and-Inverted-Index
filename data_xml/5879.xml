@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190913_170000_BBC_News_at_Six#start/64/end/99</field>
+<field name="datetime">9/13/2019 17:01:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20190913_170000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190913_170000_BBC_News_at_Six/BBCNEWS_20190913_170000_BBC_News_at_Six.thumbs/BBCNEWS_20190913_170000_BBC_News_at_Six_000057.jpg</field>
+<field name="snippet">on the rise - we investigate why the most powerful greenhouse gas known to humanity is leaking more and more into the atmosphere from electricity generators. and speaking out - the singer lily allen says her record label has not taken action after she accused an industry figure of sexual assault.</field>
+</doc>
+</add>

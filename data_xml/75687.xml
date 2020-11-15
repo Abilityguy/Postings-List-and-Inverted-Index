@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201210.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121031_200000_Martin_Bashir#start/3474/end/3509</field>
+<field name="datetime">10/31/2012 20:58:09</field>
+<field name="station">MSNBC</field>
+<field name="show">Martin Bashir</field>
+<field name="showid">MSNBCW_20121031_200000_Martin_Bashir</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121031_200000_Martin_Bashir/MSNBCW_20121031_200000_Martin_Bashir.thumbs/MSNBCW_20121031_200000_Martin_Bashir_003449.jpg</field>
+<field name="snippet">this, on the issue of climate change. now, as you know, climate change is at our door. sometimes the gop seems to find it the funniest thing on earth, but how does a country fight climate change when it's still trying to convince majorities in</field>
+</doc>
+</add>

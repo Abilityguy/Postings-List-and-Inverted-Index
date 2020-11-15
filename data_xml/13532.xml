@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201703.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170310_030000_BBC_News#start/663/end/698</field>
+<field name="datetime">3/10/2017 3:11:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170310_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170310_030000_BBC_News/BBCNEWS_20170310_030000_BBC_News.thumbs/BBCNEWS_20170310_030000_BBC_News_000657.jpg</field>
+<field name="snippet">voice on the government's climate change policy. stay with us on bbc news. still to come: the first ever female boxing world champion goes back to her roots to see her pioneering career honoured.</field>
+</doc>
+</add>

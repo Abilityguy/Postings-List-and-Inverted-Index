@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190725_210000_BBC_News_at_Ten#start/611/end/646</field>
+<field name="datetime">7/25/2019 21:10:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20190725_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190725_210000_BBC_News_at_Ten/BBCNEWS_20190725_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20190725_210000_BBC_News_at_Ten_000598.jpg</field>
+<field name="snippet">highest in the uk today at kew gardens, a scorching 37.9 degrees, so people came prepared. scientists are now confident that heatwaves are more likely and more extreme because of climate change. the fact we have</field>
+</doc>
+</add>

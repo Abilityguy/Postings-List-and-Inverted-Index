@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_050000_Breakfast#start/1849/end/1884</field>
+<field name="datetime">10/8/2018 5:31:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181008_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_050000_Breakfast/BBCNEWS_20181008_050000_Breakfast.thumbs/BBCNEWS_20181008_050000_Breakfast_001827.jpg</field>
+<field name="snippet">we'll bring you all the latest news and sport in a moment, but also on breakfast this morning - as the world receives a warning on climate change, we'll be speaking to one of the scientists behind the new global study which was unveiled in south korea overnight. the snp leader nicola sturgeon says her party would vote in favour of another eu referendum - she'll be joining us at 7:40</field>
+</doc>
+</add>

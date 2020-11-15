@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201506.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150607_170000_Americas_News_Headquarters#start/1920/end/1955</field>
+<field name="datetime">6/7/2015 17:32:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20150607_170000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150607_170000_Americas_News_Headquarters/FOXNEWSW_20150607_170000_Americas_News_Headquarters.thumbs/FOXNEWSW_20150607_170000_Americas_News_Headquarters_001905.jpg</field>
+<field name="snippet">combatting threats from violent extremism to climate change. and on all these issue, we're grateful for the partnership and leadership of your chancellor angela merkel. here is the real question.</field>
+</doc>
+</add>

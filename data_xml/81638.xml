@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091216_210000_MSNBC_News_Live#start/2003/end/2038</field>
+<field name="datetime">12/16/2009 21:33:38</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091216_210000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091216_210000_MSNBC_News_Live/MSNBC_20091216_210000_MSNBC_News_Live.thumbs/MSNBC_20091216_210000_MSNBC_News_Live_001973.jpg</field>
+<field name="snippet">it was a wild scene this morning. 2500 protesters were there to demand there be some kind of action on climate change and at one point they tried to storm the bella center to bring their message directly to the</field>
+</doc>
+</add>

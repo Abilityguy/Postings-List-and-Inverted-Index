@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201303.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130310_120000_Up_W_Chris_Hayes#start/6759/end/6794</field>
+<field name="datetime">3/10/2013 13:52:54</field>
+<field name="station">MSNBC</field>
+<field name="show">Up W Chris Hayes</field>
+<field name="showid">MSNBCW_20130310_120000_Up_W_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130310_120000_Up_W_Chris_Hayes/MSNBCW_20130310_120000_Up_W_Chris_Hayes.thumbs/MSNBCW_20130310_120000_Up_W_Chris_Hayes_006735.jpg</field>
+<field name="snippet">people are noticing the climate changes here. a poll released by the university of michigan noticed 51% of republicans agree the planet is warming from 33% in 2010. a long-term study on climate</field>
+</doc>
+</add>

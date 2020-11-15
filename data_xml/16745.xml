@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201811.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181122_100000_MTP_Daily#start/2158/end/2193</field>
+<field name="datetime">11/22/2018 10:36:13</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20181122_100000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181122_100000_MTP_Daily/MSNBCW_20181122_100000_MTP_Daily.thumbs/MSNBCW_20181122_100000_MTP_Daily_002037.jpg</field>
+<field name="snippet">a wildfire fuelled by climate that's creating a world increasingly inhospitable to humans. it has been a little more than a month since a u.n. report warned that the world must take unprecedented steps to avert the worst effects of global warming,</field>
+</doc>
+</add>

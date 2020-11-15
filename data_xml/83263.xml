@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191016_023000_Climate_Change#start/147/end/182</field>
+<field name="datetime">10/16/2019 2:32:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Climate Change</field>
+<field name="showid">BBCNEWS_20191016_023000_Climate_Change</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191016_023000_Climate_Change/BBCNEWS_20191016_023000_Climate_Change.thumbs/BBCNEWS_20191016_023000_Climate_Change_000147.jpg</field>
+<field name="snippet">this has all happened without us having to do much. but that has got to change. reaching net zero is going to require a lot more effort from us all, according to this new report commissioned by the committee on climate change. that's the body that advises</field>
+</doc>
+</add>

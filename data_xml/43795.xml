@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151222_090000_The_Rachel_Maddow_Show#start/771/end/806</field>
+<field name="datetime">12/22/2015 9:13:06</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBCW_20151222_090000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151222_090000_The_Rachel_Maddow_Show/MSNBCW_20151222_090000_The_Rachel_Maddow_Show.thumbs/MSNBCW_20151222_090000_The_Rachel_Maddow_Show_000766.jpg</field>
+<field name="snippet">on the iranian nuclear deal the prospect of a nuclear iran. on climate change. on international terrorism. on the worst problems in the world. is there reason to be hopeful we're having a moment of international constructive action?</field>
+</doc>
+</add>

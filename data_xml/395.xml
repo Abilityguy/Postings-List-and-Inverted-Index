@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201301.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130124_000000_The_FOX_Report_With_Shepard_Smith#start/408/end/443</field>
+<field name="datetime">1/24/2013 0:07:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The FOX Report With Shepard Smith</field>
+<field name="showid">FOXNEWSW_20130124_000000_The_FOX_Report_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130124_000000_The_FOX_Report_With_Shepard_Smith/FOXNEWSW_20130124_000000_The_FOX_Report_With_Shepard_Smith.thumbs/FOXNEWSW_20130124_000000_The_FOX_Report_With_Shepard_Smith_000405.jpg</field>
+<field name="snippet">embassy security has been inadequate. republicans responded saying 'you should spend your money on security and not on other things such as climate change.' then there was this moment: there was a request made for more security and it was</field>
+</doc>
+</add>

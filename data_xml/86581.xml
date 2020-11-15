@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191202_130000_BBC_News_at_One#start/663/end/698</field>
+<field name="datetime">12/2/2019 13:11:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20191202_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191202_130000_BBC_News_at_One/BBCNEWS_20191202_130000_BBC_News_at_One.thumbs/BBCNEWS_20191202_130000_BBC_News_at_One_000658.jpg</field>
+<field name="snippet">ambitious carbon-cutting targets. last week, the world meteorological organisation said the level of greenhouse gases in the atmosphere had reached the highest level on record. our global science correspondent rebecca morelle reports.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201101.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110127_080000_Red_Eye#start/925/end/960</field>
+<field name="datetime">1/27/2011 8:15:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20110127_080000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110127_080000_Red_Eye/FOXNEWS_20110127_080000_Red_Eye.thumbs/FOXNEWS_20110127_080000_Red_Eye_000900.jpg</field>
+<field name="snippet">a little 10-year-old comes out and if you want to make the case for climate change, have some adults who know something about it -- putting the words in their mouth and pretending they know about it, it is a strategy so people like me won't debate</field>
+</doc>
+</add>

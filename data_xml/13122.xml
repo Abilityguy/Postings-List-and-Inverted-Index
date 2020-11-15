@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201101.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110121_080000_Red_Eye#start/662/end/697</field>
+<field name="datetime">1/21/2011 8:11:17</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20110121_080000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110121_080000_Red_Eye/FOXNEWS_20110121_080000_Red_Eye.thumbs/FOXNEWS_20110121_080000_Red_Eye_000660.jpg</field>
+<field name="snippet">the panda correspondents, we ask for talking points and they september us nothing. they sit there and eat there -- they are responsible for 35% of global warming.</field>
+</doc>
+</add>

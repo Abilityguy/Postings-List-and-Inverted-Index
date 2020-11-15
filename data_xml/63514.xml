@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190315_220000_BBC_News_at_Ten#start/1329/end/1364</field>
+<field name="datetime">3/15/2019 22:22:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20190315_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190315_220000_BBC_News_at_Ten/BBCNEWS_20190315_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20190315_220000_BBC_News_at_Ten_001318.jpg</field>
+<field name="snippet">crashed with an audi. police have urged the driver of the audi, who left the scene, to come forward. thousands of children in the uk have again left their classrooms to join a global day of protests against climate change. they took place in several major towns and cities.</field>
+</doc>
+</add>

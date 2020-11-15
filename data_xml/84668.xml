@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190425_003000_Asia_Business_Report#start/770/end/805</field>
+<field name="datetime">4/25/2019 0:43:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Asia Business Report</field>
+<field name="showid">BBCNEWS_20190425_003000_Asia_Business_Report</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190425_003000_Asia_Business_Report/BBCNEWS_20190425_003000_Asia_Business_Report.thumbs/BBCNEWS_20190425_003000_Asia_Business_Report_000749.jpg</field>
+<field name="snippet">there's climate change and wider environmental change, which is having an impact on the salmon at sea, in terms of what they feed on and things like that, but there are also a whole host of human induced pressures, which are putting the species under pressure. figures released today showjust over 37000 wild salmon were caught</field>
+</doc>
+</add>

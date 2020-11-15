@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201401.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140106_110000_FOX_and_Friends#start/4853/end/4888</field>
+<field name="datetime">1/6/2014 12:21:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20140106_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140106_110000_FOX_and_Friends/FOXNEWSW_20140106_110000_FOX_and_Friends.thumbs/FOXNEWSW_20140106_110000_FOX_and_Friends_004845.jpg</field>
+<field name="snippet">21 minutes after the top of the hour. next up, talk about an inconvenient truth, big trouble for former vice president al gore's book on global warming. and do you recognize this voice? in a world where one man has been heard on radio, tv and</field>
+</doc>
+</add>

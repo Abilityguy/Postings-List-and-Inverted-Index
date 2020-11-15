@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201302.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130204_180000_America_Live#start/2442/end/2477</field>
+<field name="datetime">2/4/2013 18:40:57</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWSW_20130204_180000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130204_180000_America_Live/FOXNEWSW_20130204_180000_America_Live.thumbs/FOXNEWSW_20130204_180000_America_Live_002415.jpg</field>
+<field name="snippet">what happens with the keystone pipeline. is he talking more broadly on the international stage with all of the things that we're facing at home and abroad. do you think that climate change should be the top priority for the secretary of state? i think climate change should be a top priority for all of us.</field>
+</doc>
+</add>

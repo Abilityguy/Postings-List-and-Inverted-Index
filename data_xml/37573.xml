@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091012_220000_Special_Report_With_Bret_Baier#start/1884/end/1919</field>
+<field name="datetime">10/12/2009 22:31:39</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091012_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091012_220000_Special_Report_With_Bret_Baier/FOXNEWS_20091012_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091012_220000_Special_Report_With_Bret_Baier_001884.jpg</field>
+<field name="snippet">sentiment does not reflect white house thinking. the debate over global warming is heating up again in some places. climate correspondent for bbc news has a story titled 'what happened to global warming?' in which he knows the 11</field>
+</doc>
+</add>

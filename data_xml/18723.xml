@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201107.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110713_070000_Red_Eye#start/1306/end/1341</field>
+<field name="datetime">7/13/2011 7:22:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20110713_070000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110713_070000_Red_Eye/FOXNEWS_20110713_070000_Red_Eye.thumbs/FOXNEWS_20110713_070000_Red_Eye_001225.jpg</field>
+<field name="snippet">environmental catastrophe. cats kill 100 million birds a year. they are responsible for 33avian extinctions worldwide. the website notes that birds protect the ecosystems from the stresses of climate change</field>
+</doc>
+</add>

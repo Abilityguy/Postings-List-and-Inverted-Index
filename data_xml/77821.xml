@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191105_230000_BBC_News#start/1263/end/1298</field>
+<field name="datetime">11/5/2019 23:21:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191105_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191105_230000_BBC_News/BBCNEWS_20191105_230000_BBC_News.thumbs/BBCNEWS_20191105_230000_BBC_News_001259.jpg</field>
+<field name="snippet">with a new series, david attenborough is, once again, attracting huge audiences with revelations about the natural world. climate change now has a profile like never before. so, do people care about it? protests by extinction rebellion</field>
+</doc>
+</add>

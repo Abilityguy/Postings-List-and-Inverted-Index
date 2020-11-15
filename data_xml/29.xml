@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201103.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110301_020000_Hannity#start/513/end/548</field>
+<field name="datetime">3/1/2011 2:08:48</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20110301_020000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110301_020000_Hannity/FOXNEWS_20110301_020000_Hannity.thumbs/FOXNEWS_20110301_020000_Hannity_000505.jpg</field>
+<field name="snippet">13500 employees to enforce the individual mandate or we're not voting an irs budget. if you want to repeal the carbon tax, defund the epa. you don't want to repeal the fcc assault on talk radio, fine, no fcc budget.</field>
+</doc>
+</add>

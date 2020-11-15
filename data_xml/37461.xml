@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201401.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140131_160000_Happening_Now#start/4335/end/4370</field>
+<field name="datetime">1/31/2014 17:12:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20140131_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140131_160000_Happening_Now/FOXNEWSW_20140131_160000_Happening_Now.thumbs/FOXNEWSW_20140131_160000_Happening_Now_004335.jpg</field>
+<field name="snippet">president obama plans to move forward with this plan to address climate change, but unfortunately, his administration comets to undermine in this plan by encouraging the extraction of coal, oil and gas from our public lands and waters, unlocking huge quantities of carbon pollution.</field>
+</doc>
+</add>

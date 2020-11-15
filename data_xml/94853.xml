@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201202.csv</field>
+<field name="url">https://archive.org/details/CNNW_20120206_090000_World_Business_Today#start/145/end/180</field>
+<field name="datetime">2/6/2012 9:02:40</field>
+<field name="station">CNN</field>
+<field name="show">World Business Today</field>
+<field name="showid">CNNW_20120206_090000_World_Business_Today</field>
+<field name="preview">https://archive.org/download/CNNW_20120206_090000_World_Business_Today/CNNW_20120206_090000_World_Business_Today.thumbs/CNNW_20120206_090000_World_Business_Today_000146.jpg</field>
+<field name="snippet">the stage is now set for a potential new trade war as china bans its airlines from complying with an eu carbon tax plan. and it's halftime in america, too.</field>
+</doc>
+</add>

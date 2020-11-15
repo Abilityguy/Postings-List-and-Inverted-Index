@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201912.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191223_030000_MSNBC_Special#start/1587/end/1622</field>
+<field name="datetime">12/23/2019 3:26:42</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Special</field>
+<field name="showid">MSNBCW_20191223_030000_MSNBC_Special</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191223_030000_MSNBC_Special/MSNBCW_20191223_030000_MSNBC_Special.thumbs/MSNBCW_20191223_030000_MSNBC_Special_001587.jpg</field>
+<field name="snippet">is facing many crises. climate change, inequality, injustice, conflict, and yet we have never had so much in our hands to make the world a more peaceful and prosperous place. we even have a road map.</field>
+</doc>
+</add>

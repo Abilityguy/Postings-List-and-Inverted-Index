@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170601_130000_BBC_News#start/41/end/76</field>
+<field name="datetime">6/1/2017 13:00:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170601_130000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170601_130000_BBC_News/BBCNEWS_20170601_130000_BBC_News.thumbs/BBCNEWS_20170601_130000_BBC_News_000058.jpg</field>
+<field name="snippet">to cut greenhouse gases. tickets for sunday's concert to raise money for the victims of the manchester attack sell out within 20 minutes of going on sale. from now on, no more mr nice guy!</field>
+</doc>
+</add>

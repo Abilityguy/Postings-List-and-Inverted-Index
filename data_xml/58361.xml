@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181126_200000_BBC_News#start/882/end/917</field>
+<field name="datetime">11/26/2018 20:14:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181126_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181126_200000_BBC_News/BBCNEWS_20181126_200000_BBC_News.thumbs/BBCNEWS_20181126_200000_BBC_News_000868.jpg</field>
+<field name="snippet">thank you jonathan. british summers are likely to get hotter and drier over the next 50 years because of the effects of climate change. that's according to the latest projections from the met office which says without action to cut greenhouse gases - summers could be more than five</field>
+</doc>
+</add>

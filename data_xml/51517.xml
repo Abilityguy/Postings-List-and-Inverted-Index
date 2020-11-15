@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_100000_Victoria_Derbyshire#start/5386/end/5421</field>
+<field name="datetime">12/3/2018 11:30:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20181203_100000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_100000_Victoria_Derbyshire/BBCNEWS_20181203_100000_Victoria_Derbyshire.thumbs/BBCNEWS_20181203_100000_Victoria_Derbyshire_005368.jpg</field>
+<field name="snippet">these are today's main stories. sir david attenborough calls on world leaders to combat climate change -  _</field>
+</doc>
+</add>

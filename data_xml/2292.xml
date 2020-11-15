@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170427_090000_Fox_and_Friends_First#start/2720/end/2755</field>
+<field name="datetime">4/27/2017 9:45:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20170427_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170427_090000_Fox_and_Friends_First/FOXNEWSW_20170427_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20170427_090000_Fox_and_Friends_First_002727.jpg</field>
+<field name="snippet">opposite views of issues like climate change are brought together. i describe my political views</field>
+</doc>
+</add>

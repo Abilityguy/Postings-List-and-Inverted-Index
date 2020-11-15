@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091220_170000_Americas_News_HQ#start/7183/end/7218</field>
+<field name="datetime">12/20/2009 18:59:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWS_20091220_170000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091220_170000_Americas_News_HQ/FOXNEWS_20091220_170000_Americas_News_HQ.thumbs/FOXNEWS_20091220_170000_Americas_News_HQ_007186.jpg</field>
+<field name="snippet">john mccain to talk about healthcare. and catch the fox news reporting special global warming or hot air, bret baier is hosting that at 9:00 p.m. eastern time. folks, let me take a moment to say to you i hope that you have a merry christmas and a happy</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201206.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120630_000000_The_Ed_Show#start/916/end/951</field>
+<field name="datetime">6/30/2012 0:15:31</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20120630_000000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120630_000000_The_Ed_Show/MSNBCW_20120630_000000_The_Ed_Show.thumbs/MSNBCW_20120630_000000_The_Ed_Show_000900.jpg</field>
+<field name="snippet">van jones will be here tonight to make them feel a lot better. and a very serious situation, colorado battles the biggest wildfire in the state's history, leading scientists to say it's a sign of global warming. we'll have that discussion. i'll be talking with one of the</field>
+</doc>
+</add>

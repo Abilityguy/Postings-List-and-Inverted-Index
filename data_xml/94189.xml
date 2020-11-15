@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170830_023000_Weather_World#start/1078/end/1113</field>
+<field name="datetime">8/30/2017 2:48:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20170830_023000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170830_023000_Weather_World/BBCNEWS_20170830_023000_Weather_World.thumbs/BBCNEWS_20170830_023000_Weather_World_001078.jpg</field>
+<field name="snippet">alaska. parts of this us state had its warmestjuly on record. in may, the artic council meeting here signed an agreement accepting the need to tackle climate change. but less than a month later, this.</field>
+</doc>
+</add>

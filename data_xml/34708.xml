@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201509.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150923_220000_MSNBC_Live#start/2022/end/2057</field>
+<field name="datetime">9/23/2015 22:33:57</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20150923_220000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150923_220000_MSNBC_Live/MSNBCW_20150923_220000_MSNBC_Live.thumbs/MSNBCW_20150923_220000_MSNBC_Live_001995.jpg</field>
+<field name="snippet">climate change is a problem we can no longer be left to our future generation. has been part of this group</field>
+</doc>
+</add>

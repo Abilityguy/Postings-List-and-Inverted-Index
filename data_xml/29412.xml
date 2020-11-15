@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201905.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190524_210000_MTP_Daily#start/2202/end/2237</field>
+<field name="datetime">5/24/2019 21:36:57</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20190524_210000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190524_210000_MTP_Daily/MSNBCW_20190524_210000_MTP_Daily.thumbs/MSNBCW_20190524_210000_MTP_Daily_002099.jpg</field>
+<field name="snippet">welcome back. this would seem to be the ideal political climate for a candidate to run on climate change. 2018 was the fourth hottest year on record. polls show climate change to be the second most important issue to iowa caucus goers.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091219_120000_FOX_and_Friends_Saturday#start/8049/end/8084</field>
+<field name="datetime">12/19/2009 14:14:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWS_20091219_120000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091219_120000_FOX_and_Friends_Saturday/FOXNEWS_20091219_120000_FOX_and_Friends_Saturday.thumbs/FOXNEWS_20091219_120000_FOX_and_Friends_Saturday_008040.jpg</field>
+<field name="snippet">morning. good morning, thanks for having me. dan, let me start with you, americans say they really want jobs, they want the economy fixed. how is any legislation on cap and trade or climate change going to help this? well, it's very simple.</field>
+</doc>
+</add>

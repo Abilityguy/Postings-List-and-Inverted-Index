@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191016_190000_BBC_News#start/3048/end/3083</field>
+<field name="datetime">10/16/2019 19:51:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191016_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191016_190000_BBC_News/BBCNEWS_20191016_190000_BBC_News.thumbs/BBCNEWS_20191016_190000_BBC_News_003029.jpg</field>
+<field name="snippet">attention to the challenges of the climate crisis and called for more action. our royal correspondent, jonny dymond, has the story. even for the royals, it's a rocky road of the hindu kush.</field>
+</doc>
+</add>

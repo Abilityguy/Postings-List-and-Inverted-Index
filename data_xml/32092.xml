@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201012.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101228_020000_Hannity#start/2043/end/2078</field>
+<field name="datetime">12/28/2010 2:34:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20101228_020000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101228_020000_Hannity/FOXNEWS_20101228_020000_Hannity.thumbs/FOXNEWS_20101228_020000_Hannity_002034.jpg</field>
+<field name="snippet">90 .something percent are convinced beyond a reasonable doubt not only are we in climate change already but humans are causing it. i don't know why that is so hard to believe or accept. tucker: because the story</field>
+</doc>
+</add>

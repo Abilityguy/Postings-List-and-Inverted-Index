@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200910.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091025_180000_Meet_the_Press#start/1731/end/1766</field>
+<field name="datetime">10/25/2009 18:29:06</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBC_20091025_180000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBC_20091025_180000_Meet_the_Press/MSNBC_20091025_180000_Meet_the_Press.thumbs/MSNBC_20091025_180000_Meet_the_Press_001680.jpg</field>
+<field name="snippet">the energy to get the economy humming again. the energy to tackle challenges like climate change. what if that energy, came from an energy company. every day, chevron invests $62 million in people. in ideas.</field>
+</doc>
+</add>

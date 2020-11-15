@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190312_100000_FOX__Friends#start/3641/end/3676</field>
+<field name="datetime">3/12/2019 11:00:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20190312_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190312_100000_FOX__Friends/FOXNEWSW_20190312_100000_FOX__Friends.thumbs/FOXNEWSW_20190312_100000_FOX__Friends_003629.jpg</field>
+<field name="snippet">we are talking about the climate, the existential threat of global warming. so i will now make it official. listenmeatless mondays will be in effect and we are proud of that.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190817_133000_HARDtalk#start/1210/end/1245</field>
+<field name="datetime">8/17/2019 13:50:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">HARDtalk</field>
+<field name="showid">BBCNEWS_20190817_133000_HARDtalk</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190817_133000_HARDtalk/BBCNEWS_20190817_133000_HARDtalk.thumbs/BBCNEWS_20190817_133000_HARDtalk_001198.jpg</field>
+<field name="snippet">of the emergency that some say we are now experiencing on climate change say the globe has experienced two or three degrees temperature rises in the past. it has adapted to them. it has not been easy, necessarily, but it has adapted to them. there is no reason to think</field>
+</doc>
+</add>

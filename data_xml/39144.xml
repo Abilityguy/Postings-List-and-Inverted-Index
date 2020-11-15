@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100428_080000_Special_Report_With_Bret_Baier#start/817/end/852</field>
+<field name="datetime">4/28/2010 8:13:52</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100428_080000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100428_080000_Special_Report_With_Bret_Baier/FOXNEWS_20100428_080000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100428_080000_Special_Report_With_Bret_Baier_000626.jpg</field>
+<field name="snippet">the grapevine. we look at the immigration blame game in washington. bret: senate majority leader harry reid says he plans to push through both immigration reform and climate change legislation this year, calling both issues crucial to the economy</field>
+</doc>
+</add>

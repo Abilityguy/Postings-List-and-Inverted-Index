@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190702_000000_Newsday#start/1074/end/1109</field>
+<field name="datetime">7/2/2019 0:18:09</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190702_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190702_000000_Newsday/BBCNEWS_20190702_000000_Newsday.thumbs/BBCNEWS_20190702_000000_Newsday_001048.jpg</field>
+<field name="snippet">our science editor david shukman travelled to the amazon and sent this report. the rich greens of the most vibrant habitat on earth. the billions of trees store so much carbon, they help to slow down global warming. they're also home to an amazing</field>
+</doc>
+</add>

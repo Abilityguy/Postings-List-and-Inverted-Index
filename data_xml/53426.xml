@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201110.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20111028_230000_Hardball_With_Chris_Matthews#start/153/end/188</field>
+<field name="datetime">10/28/2011 23:02:48</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball With Chris Matthews</field>
+<field name="showid">MSNBCW_20111028_230000_Hardball_With_Chris_Matthews</field>
+<field name="preview">https://archive.org/download/MSNBCW_20111028_230000_Hardball_With_Chris_Matthews/MSNBCW_20111028_230000_Hardball_With_Chris_Matthews.thumbs/MSNBCW_20111028_230000_Hardball_With_Chris_Matthews_000147.jpg</field>
+<field name="snippet">his position was on manmade global warming. let's listen to his response. i don't speak for the scientific community, of course, but i believe the world's getting warmer. i can't prove that, but i believe, based on what i read, that the world is getting warmer. and number two, i believe that</field>
+</doc>
+</add>

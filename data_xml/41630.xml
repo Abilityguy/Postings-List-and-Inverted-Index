@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090818_130000_Americas_Newsroom#start/735/end/770</field>
+<field name="datetime">8/18/2009 13:12:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20090818_130000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090818_130000_Americas_Newsroom/FOXNEWS_20090818_130000_Americas_Newsroom.thumbs/FOXNEWS_20090818_130000_Americas_Newsroom_000656.jpg</field>
+<field name="snippet">gecko: oh dear. vo: geico. fifteen minutes could save you 15% or more on car insurance. i'd say it's taken us for a ride. honestly, what thanks do we owe progress? we're up to our necks in landfill, and down to the wire in resources and climate change is out to get us.</field>
+</doc>
+</add>

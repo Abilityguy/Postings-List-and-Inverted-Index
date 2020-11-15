@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181015_120000_BBC_News_at_One#start/930/end/965</field>
+<field name="datetime">10/15/2018 12:15:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20181015_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181015_120000_BBC_News_at_One/BBCNEWS_20181015_120000_BBC_News_at_One.thumbs/BBCNEWS_20181015_120000_BBC_News_at_One_000927.jpg</field>
+<field name="snippet">we must stop burning coal, gas and oil, their report said last week. the climate minister has taken notice. i am going to be asking today, formally, our committee on climate change for advice on how we get to the net zero target by 2050, and a part of that advice will be to help me understand the costs that might be associated with it, obviously it is going to be a range,</field>
+</doc>
+</add>

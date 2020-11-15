@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180917_023000_Dateline_London#start/1051/end/1086</field>
+<field name="datetime">9/17/2018 2:47:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Dateline London</field>
+<field name="showid">BBCNEWS_20180917_023000_Dateline_London</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180917_023000_Dateline_London/BBCNEWS_20180917_023000_Dateline_London.thumbs/BBCNEWS_20180917_023000_Dateline_London_001047.jpg</field>
+<field name="snippet">with donald trump, on climate change, on iran nuclear deal, on trade, where would it be the kind of cooperation that was there ten years ago? and especially in europe, the cooperation again between countries is a kind of historic minimum when it comes to solidarity.</field>
+</doc>
+</add>

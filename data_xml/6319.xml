@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190917_210000_BBC_News_at_Ten#start/1588/end/1623</field>
+<field name="datetime">9/17/2019 21:26:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20190917_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190917_210000_BBC_News_at_Ten/BBCNEWS_20190917_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20190917_210000_BBC_News_at_Ten_001587.jpg</field>
+<field name="snippet">people have really woken up to the idea that climate change is really real and really urgent. 10000 turbines later, the energy system is transformed. in 1990, coal and oil were dominant. in 2018, renewables made up a third,</field>
+</doc>
+</add>

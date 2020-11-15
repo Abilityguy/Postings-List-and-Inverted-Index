@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190627_030000_BBC_News#start/1803/end/1838</field>
+<field name="datetime">6/27/2019 3:30:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190627_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190627_030000_BBC_News/BBCNEWS_20190627_030000_BBC_News.thumbs/BBCNEWS_20190627_030000_BBC_News_001797.jpg</field>
+<field name="snippet">the first televised debate of the 20-20 us presidential election has highlighted policy differences between ten of the twenty candidates for the democratic nomination. there were heated exchanges on the issues of healthcare, tax, immigration, climate change and iran. ten more candidates will hold</field>
+</doc>
+</add>

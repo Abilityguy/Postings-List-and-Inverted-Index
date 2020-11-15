@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190628_020000_BBC_News#start/1271/end/1306</field>
+<field name="datetime">6/28/2019 2:21:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190628_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190628_020000_BBC_News/BBCNEWS_20190628_020000_BBC_News.thumbs/BBCNEWS_20190628_020000_BBC_News_001258.jpg</field>
+<field name="snippet">world leaders are gathering in osaka for the g20 meeting. in about one hour they will pose for the official family photo. climate change is one of the many topics likely to</field>
+</doc>
+</add>

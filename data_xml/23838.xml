@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201411.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141106_160000_Happening_Now#start/134/end/169</field>
+<field name="datetime">11/6/2014 16:02:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20141106_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141106_160000_Happening_Now/FOXNEWSW_20141106_160000_Happening_Now.thumbs/FOXNEWSW_20141106_160000_Happening_Now_000135.jpg</field>
+<field name="snippet">reporter: mcconnell and boehner also say they will push legislation putting people to work on the portion of the keystone xl pipeline held up by a state department environmental study but white house spokesman josh earnest told cnn this morning it is still not clear if that would increase greenhouse</field>
+</doc>
+</add>

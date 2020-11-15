@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181202_210000_World_News_Today#start/102/end/137</field>
+<field name="datetime">12/2/2018 21:01:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20181202_210000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181202_210000_World_News_Today/BBCNEWS_20181202_210000_World_News_Today.thumbs/BBCNEWS_20181202_210000_World_News_Today_000087.jpg</field>
+<field name="snippet">at the centre of arguments over what to do about global warming. ok, so we're on our way down and i'm starting to feeel the air pressure in my ears now. our first sight of the mining process.</field>
+</doc>
+</add>

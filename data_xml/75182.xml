@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_090000_BBC_News_at_9#start/1319/end/1354</field>
+<field name="datetime">1/16/2020 9:22:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20200116_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_090000_BBC_News_at_9/BBCNEWS_20200116_090000_BBC_News_at_9.thumbs/BBCNEWS_20200116_090000_BBC_News_at_9_001317.jpg</field>
+<field name="snippet">he sounded exasperated, is that fair? that is right. we have heard him speak about this subject before and he has made documentaries about it and addressed the united nations on the need for urgency in tackling climate change. but this time i think you hear a different tone of</field>
+</doc>
+</add>

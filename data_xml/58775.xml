@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181102_210000_BBC_News#start/0/end/33</field>
+<field name="datetime">11/2/2018 21:00:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181102_210000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181102_210000_BBC_News/BBCNEWS_20181102_210000_BBC_News.thumbs/BBCNEWS_20181102_210000_BBC_News_000057.jpg</field>
+<field name="snippet">this is bbc news i'm lukwesa burak the headlines at nine. a stark warning from the met office. the uk has faced more extremes of hot weather and downpours over the last decade due to global warming. a paraplegic man sues luton airport after claims that he was forced to drag himself through the terminal building, after staff</field>
+</doc>
+</add>

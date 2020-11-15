@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090922_130000_Americas_Newsroom#start/1137/end/1172</field>
+<field name="datetime">9/22/2009 13:19:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20090922_130000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090922_130000_Americas_Newsroom/FOXNEWS_20090922_130000_Americas_Newsroom.thumbs/FOXNEWS_20090922_130000_Americas_Newsroom_001137.jpg</field>
+<field name="snippet">a few moments president obama will speak at the u.n. climate change summit. major garrett has a look at what to expect. he is in the new york city news room, i will try not to be offended that he did not stop by</field>
+</doc>
+</add>

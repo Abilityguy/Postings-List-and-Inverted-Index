@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_090000_Victoria_Derbyshire#start/255/end/290</field>
+<field name="datetime">8/8/2019 9:04:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20190808_090000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_090000_Victoria_Derbyshire/BBCNEWS_20190808_090000_Victoria_Derbyshire.thumbs/BBCNEWS_20190808_090000_Victoria_Derbyshire_000238.jpg</field>
+<field name="snippet">flooded around edinburgh airport. the deluge resulted in five trains being stuck for several hours in west lothian. people need to eat less red meat are more plant -based food to help combat global warming,</field>
+</doc>
+</add>

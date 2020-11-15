@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181204_110000_FOX__Friends#start/1462/end/1497</field>
+<field name="datetime">12/4/2018 11:24:37</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20181204_110000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181204_110000_FOX__Friends/FOXNEWSW_20181204_110000_FOX__Friends.thumbs/FOXNEWSW_20181204_110000_FOX__Friends_001437.jpg</field>
+<field name="snippet">2020 presidential candidate michael bloomberg is heading to iowa today. the former new york city mayor will host a panel on climate change there iowa is home to the first contest of the presidential primaries as you know it's an important state. bloomberg says he will decide whether or not is he going to run by february.</field>
+</doc>
+</add>

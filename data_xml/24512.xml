@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201607.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160728_000000_The_OReilly_Factor#start/3112/end/3147</field>
+<field name="datetime">7/28/2016 0:52:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20160728_000000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160728_000000_The_OReilly_Factor/FOXNEWSW_20160728_000000_The_OReilly_Factor.thumbs/FOXNEWSW_20160728_000000_The_OReilly_Factor_003087.jpg</field>
+<field name="snippet">you will learn to love me. hello newman. watters joins us. the guy who wants to know about what isis thinks about global</field>
+</doc>
+</add>

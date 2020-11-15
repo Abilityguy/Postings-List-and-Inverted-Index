@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201509.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150924_090000_Fox_and_Friends_First#start/108/end/143</field>
+<field name="datetime">9/24/2015 9:02:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20150924_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150924_090000_Fox_and_Friends_First/FOXNEWSW_20150924_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20150924_090000_Fox_and_Friends_First_000105.jpg</field>
+<field name="snippet">morning. that would be congressman paul gossart because he's upset about the pope's decision on global warming. others like speaker of the house john boehner are fearful not to treat the event add politics as</field>
+</doc>
+</add>

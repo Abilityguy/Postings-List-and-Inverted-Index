@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180119_040000_BBC_News#start/246/end/281</field>
+<field name="datetime">1/19/2018 4:04:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180119_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180119_040000_BBC_News/BBCNEWS_20180119_040000_BBC_News.thumbs/BBCNEWS_20180119_040000_BBC_News_000237.jpg</field>
+<field name="snippet">of humans on the global climate is greater than any natural causes. researchers at the uk's met office, nasa, and the us atmospheric administration are now certain emissions of greenhouse gases are to blame. here's our environment analyst roger harrabin. the recent wildfires in california,</field>
+</doc>
+</add>

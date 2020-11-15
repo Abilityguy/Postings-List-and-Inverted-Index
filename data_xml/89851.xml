@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201401.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140107_080000_All_In_With_Chris_Hayes#start/950/end/985</field>
+<field name="datetime">1/7/2014 8:16:05</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20140107_080000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140107_080000_All_In_With_Chris_Hayes/MSNBCW_20140107_080000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20140107_080000_All_In_With_Chris_Hayes_000945.jpg</field>
+<field name="snippet">develop below freezing across the country. hundreds of canceled flights, thousands of travelers found themselves stranded. meanwhiles, schools shut their doors. governors declared states of emergency. no one is happy about this, except for one group. right wing snow trollers. right now they're thrilled because all this winter cold means global warming isn't real. right? that's next.</field>
+</doc>
+</add>

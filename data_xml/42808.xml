@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180119_030000_BBC_News#start/297/end/332</field>
+<field name="datetime">1/19/2018 3:05:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180119_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180119_030000_BBC_News/BBCNEWS_20180119_030000_BBC_News.thumbs/BBCNEWS_20180119_030000_BBC_News_000297.jpg</field>
+<field name="snippet">but then it is back with record highs in 2015-16. but then a return in 2017. this is a clear sign greenhouse gases are the main driver of warming.</field>
+</doc>
+</add>

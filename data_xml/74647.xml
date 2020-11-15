@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200121_130000_BBC_News_at_One#start/162/end/197</field>
+<field name="datetime">1/21/2020 13:02:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20200121_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200121_130000_BBC_News_at_One/BBCNEWS_20200121_130000_BBC_News_at_One.thumbs/BBCNEWS_20200121_130000_BBC_News_at_One_000147.jpg</field>
+<field name="snippet">political leaders is fueling the flames of climate change. our diplomatic correspondent james robbins sent this report. getting away from it all. donald trump has flown over 4000 miles from</field>
+</doc>
+</add>

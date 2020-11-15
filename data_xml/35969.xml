@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201709.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170909_140000_AM_Joy#start/5643/end/5678</field>
+<field name="datetime">9/9/2017 15:34:18</field>
+<field name="station">MSNBC</field>
+<field name="show">AM Joy</field>
+<field name="showid">MSNBCW_20170909_140000_AM_Joy</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170909_140000_AM_Joy/MSNBCW_20170909_140000_AM_Joy.thumbs/MSNBCW_20170909_140000_AM_Joy_005637.jpg</field>
+<field name="snippet">hour, governor florida rick scott scheduled to give another update on hurricane irma now that the path has changed. we're going to bring that to you live. governor scott has said irma could be worse than hurricane andrew. so will the governor change his mind on climate change? we're going to ask that question next.</field>
+</doc>
+</add>

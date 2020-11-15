@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190416_050000_Breakfast#start/2055/end/2090</field>
+<field name="datetime">4/16/2019 5:34:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190416_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190416_050000_Breakfast/BBCNEWS_20190416_050000_Breakfast.thumbs/BBCNEWS_20190416_050000_Breakfast_002038.jpg</field>
+<field name="snippet">the uk's largest money manager has warned that climate change is threatening the world with an irreversible catastrophe, and says businesses around the world must address it urgently. legal and general investment management says it voted against the appointment of thousands of company directors last year - and has a blacklist of firms it won't invest in. other concerns included the level</field>
+</doc>
+</add>

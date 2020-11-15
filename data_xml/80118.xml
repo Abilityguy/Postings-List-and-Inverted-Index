@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190513_220000_Special_Report_With_Bret_Baier#start/2666/end/2701</field>
+<field name="datetime">5/13/2019 22:44:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20190513_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190513_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20190513_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20190513_220000_Special_Report_With_Bret_Baier_002638.jpg</field>
+<field name="snippet">this is a great example of how the republican -- the democratic party base can cause problems for the eventual nominee. bret: to that point today set out a statement saying that joe biden has called for climate change and existential</field>
+</doc>
+</add>

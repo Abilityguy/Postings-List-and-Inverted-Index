@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191221_020000_BBC_News#start/205/end/240</field>
+<field name="datetime">12/21/2019 2:03:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191221_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191221_020000_BBC_News/BBCNEWS_20191221_020000_BBC_News.thumbs/BBCNEWS_20191221_020000_BBC_News_000180.jpg</field>
+<field name="snippet">australians wondering about his attitude to climate change and the role that that they are playing in australia's bushfire crisis mr morrison has acknowledged that global warming is a factor in</field>
+</doc>
+</add>

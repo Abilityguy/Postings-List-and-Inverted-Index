@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190903_040000_The_Briefing#start/457/end/492</field>
+<field name="datetime">9/3/2019 4:07:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20190903_040000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190903_040000_The_Briefing/BBCNEWS_20190903_040000_The_Briefing.thumbs/BBCNEWS_20190903_040000_The_Briefing_000449.jpg</field>
+<field name="snippet">hurricane in the atlantic, a record in the modern era, with experts attributing the increased frequency of these weather events to climate change. and dorian now heads towards florida, with projections this storm could remain hurricane-strength for much of the week.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191211_140000_Afternoon_Live#start/1314/end/1349</field>
+<field name="datetime">12/11/2019 14:22:09</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20191211_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191211_140000_Afternoon_Live/BBCNEWS_20191211_140000_Afternoon_Live.thumbs/BBCNEWS_20191211_140000_Afternoon_Live_001318.jpg</field>
+<field name="snippet">delegates at the cop, meanwhile, are bogged down in the arcane details of the negotiations. it could be that, in greta's words, the climate crisis will only be solved by citizens on the streets. matt mcgrath, bbc news, madrid.</field>
+</doc>
+</add>

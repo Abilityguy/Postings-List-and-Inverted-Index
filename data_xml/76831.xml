@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190508_100000_BBC_Newsroom_Live#start/1547/end/1582</field>
+<field name="datetime">5/8/2019 10:26:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190508_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190508_100000_BBC_Newsroom_Live/BBCNEWS_20190508_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190508_100000_BBC_Newsroom_Live_001528.jpg</field>
+<field name="snippet">its european election campaign - urging people to say no to brexit and no to climate change. the party's fielding 64 candidates across england and wales. the party's co-leaders sian berry and jonathan bartley said the greens were the only sensible choice for voters.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_200000_Studio_B_With_Shepard_Smith#start/2724/end/2759</field>
+<field name="datetime">12/18/2009 20:45:39</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Studio B With Shepard Smith</field>
+<field name="showid">FOXNEWS_20091218_200000_Studio_B_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_200000_Studio_B_With_Shepard_Smith/FOXNEWS_20091218_200000_Studio_B_With_Shepard_Smith.thumbs/FOXNEWS_20091218_200000_Studio_B_With_Shepard_Smith_002700.jpg</field>
+<field name="snippet">gregg: president obama has a lot of issues on his plate right now, two wars, a shaky economy, the threat of climate change, out of control health-care costs, adjusted it th -- just       _</field>
+</doc>
+</add>

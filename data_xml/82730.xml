@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201509.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150922_100000_FOX__Friends#start/3846/end/3881</field>
+<field name="datetime">9/22/2015 11:04:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20150922_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150922_100000_FOX__Friends/FOXNEWSW_20150922_100000_FOX__Friends.thumbs/FOXNEWSW_20150922_100000_FOX__Friends_003825.jpg</field>
+<field name="snippet">meeting of congress. he's expected to talk about climate change, poverty, perhaps even europe's ongoing refugee crisis. but, you know, regardless of politics, in the words of speaker boehner, it's the pope. everyone here in d.c. is excited for it. back to you. all right, kristen, thank you</field>
+</doc>
+</add>

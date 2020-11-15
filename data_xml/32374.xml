@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201205.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120518_220000_Special_Report_With_Bret_Baier#start/1480/end/1515</field>
+<field name="datetime">5/18/2012 22:24:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20120518_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120518_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20120518_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20120518_220000_Special_Report_With_Bret_Baier_001470.jpg</field>
+<field name="snippet">oil strand extraction releases more greenhouse gases than traditional drilling. in resent op-ed, james hansen said if the oil sands are fully developed it's game over for the climate. canada's environment minister shot back at hanson.</field>
+</doc>
+</add>

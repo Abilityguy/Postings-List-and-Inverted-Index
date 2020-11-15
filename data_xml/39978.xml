@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091113_110000_FOX_and_Friends#start/1331/end/1366</field>
+<field name="datetime">11/13/2009 11:22:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091113_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091113_110000_FOX_and_Friends/FOXNEWS_20091113_110000_FOX_and_Friends.thumbs/FOXNEWS_20091113_110000_FOX_and_Friends_001312.jpg</field>
+<field name="snippet">north korea and climate change. steve: major, just a moment ago the white house office of the press secretary released something. apparently the u.s. and japan are going to issue a joint statement toward a world without nuclear weapons.</field>
+</doc>
+</add>

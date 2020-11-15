@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100211_020000_Hannity#start/1634/end/1669</field>
+<field name="datetime">2/11/2010 2:27:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20100211_020000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100211_020000_Hannity/FOXNEWS_20100211_020000_Hannity.thumbs/FOXNEWS_20100211_020000_Hannity_001615.jpg</field>
+<field name="snippet">evidence of global warming. sean: all right. 'time' magazine doing its part to advance al gore's agenda: there's some evidence that climate change could make such massive snow storms more common even as the world continues to warm.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201005.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100512_230000_The_FOX_Report_With_Shepard_Smith#start/1993/end/2028</field>
+<field name="datetime">5/12/2010 23:33:28</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The FOX Report With Shepard Smith</field>
+<field name="showid">FOXNEWS_20100512_230000_The_FOX_Report_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100512_230000_The_FOX_Report_With_Shepard_Smith/FOXNEWS_20100512_230000_The_FOX_Report_With_Shepard_Smith.thumbs/FOXNEWS_20100512_230000_The_FOX_Report_With_Shepard_Smith_001974.jpg</field>
+<field name="snippet">joe lieberman introduced a new bill that's aimed to cut greenhouse gases and move toward more energy efficient sources. clean energy. part of the bill gives extra leeway to coastal states. those states could prevent offshore drilling up to 75 miles out to sea.</field>
+</doc>
+</add>

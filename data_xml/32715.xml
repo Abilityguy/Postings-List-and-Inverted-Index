@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091217_110000_FOX_and_Friends#start/4165/end/4200</field>
+<field name="datetime">12/17/2009 12:09:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091217_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091217_110000_FOX_and_Friends/FOXNEWS_20091217_110000_FOX_and_Friends.thumbs/FOXNEWS_20091217_110000_FOX_and_Friends_004131.jpg</field>
+<field name="snippet">gretchen: officials there say there is little hope for a climate deal because negotiations between rich and poor countries are at a stalemate. world leaders have been trying to work out a framework for cutting greenhouse gas emissions and finding funding for developing nations to deal with climate change.</field>
+</doc>
+</add>

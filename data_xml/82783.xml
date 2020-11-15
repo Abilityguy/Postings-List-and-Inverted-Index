@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191010_000000_Newsday#start/703/end/738</field>
+<field name="datetime">10/10/2019 0:11:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191010_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191010_000000_Newsday/BBCNEWS_20191010_000000_Newsday.thumbs/BBCNEWS_20191010_000000_Newsday_000688.jpg</field>
+<field name="snippet">still to come on the programme: as turkey attacks kurdish-led forces in northern syria - we'll get reaction from washington. also on the programme: australia's farmers face unprecedented stress from climate change -  _</field>
+</doc>
+</add>

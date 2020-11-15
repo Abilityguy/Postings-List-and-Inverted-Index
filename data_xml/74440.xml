@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_110000_BBC_Newsroom_Live#start/1305/end/1340</field>
+<field name="datetime">1/17/2020 11:22:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20200117_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_110000_BBC_Newsroom_Live/BBCNEWS_20200117_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20200117_110000_BBC_Newsroom_Live_001287.jpg</field>
+<field name="snippet">intergovernmental panel on climate change, the united nations body that looks at all the climate science there is, it has said 2020 is a really crucial year to deal with climate change. that is because they say if we don't, globally reduce</field>
+</doc>
+</add>

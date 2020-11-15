@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191129_054500_The_Briefing#start/919/end/954</field>
+<field name="datetime">11/29/2019 6:00:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20191129_054500_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191129_054500_The_Briefing/BBCNEWS_20191129_054500_The_Briefing.thumbs/BBCNEWS_20191129_054500_The_Briefing_000899.jpg</field>
+<field name="snippet">0ur headlines today: frozen out. a row between the conservatives and channel 4 breaks out after a block of ice is used in place of borisjohnson during a tv debate on climate change.</field>
+</doc>
+</add>

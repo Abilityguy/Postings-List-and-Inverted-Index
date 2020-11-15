@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190423_120000_BBC_News_at_One#start/991/end/1026</field>
+<field name="datetime">4/23/2019 12:16:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190423_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190423_120000_BBC_News_at_One/BBCNEWS_20190423_120000_BBC_News_at_One.thumbs/BBCNEWS_20190423_120000_BBC_News_at_One_000988.jpg</field>
+<field name="snippet">of the school climate strikes, a global movement which has seen more than a million children across the world walk out of classrooms in protest at the lack of action for tackling climate change. she says she wants people to panic.</field>
+</doc>
+</add>

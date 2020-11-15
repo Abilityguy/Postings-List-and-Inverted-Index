@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181004_170000_BBC_News_at_Six#start/1163/end/1198</field>
+<field name="datetime">10/4/2018 17:19:38</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20181004_170000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181004_170000_BBC_News_at_Six/BBCNEWS_20181004_170000_BBC_News_at_Six.thumbs/BBCNEWS_20181004_170000_BBC_News_at_Six_001137.jpg</field>
+<field name="snippet">needs to be built up. back at the coast, work on new sea defences. scientists used to think there was a safe limit of global warming of two degrees but they now say we need a lower target to avoid serious damage to countries like this.</field>
+</doc>
+</add>

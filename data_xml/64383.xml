@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201612.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161214_010000_All_In_With_Chris_Hayes#start/1712/end/1747</field>
+<field name="datetime">12/14/2016 1:28:47</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20161214_010000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161214_010000_All_In_With_Chris_Hayes/MSNBCW_20161214_010000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20161214_010000_All_In_With_Chris_Hayes_001707.jpg</field>
+<field name="snippet">quote here, dependency. secretary of education, betsy devos championed the use of public school funds for private school vouchers. today trump made two new cabinet picks with their own controversies. department of the interior, montana republican ryan zinke who in 2014 said climate change</field>
+</doc>
+</add>

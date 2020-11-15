@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201703.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170309_200000_BBC_News#start/3548/end/3583</field>
+<field name="datetime">3/9/2017 20:59:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170309_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170309_200000_BBC_News/BBCNEWS_20170309_200000_BBC_News.thumbs/BBCNEWS_20170309_200000_BBC_News_003537.jpg</field>
+<field name="snippet">the new head of the us environmental protection agency claims carbon dioxide emissions are not a major factor in climate change. washington and new york states join hawaii in trying to block donald trump's revised travel ban.</field>
+</doc>
+</add>

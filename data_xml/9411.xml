@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170708_070000_The_Five#start/1068/end/1103</field>
+<field name="datetime">7/8/2017 7:18:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20170708_070000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170708_070000_The_Five/FOXNEWSW_20170708_070000_The_Five.thumbs/FOXNEWSW_20170708_070000_The_Five_001047.jpg</field>
+<field name="snippet">unwilling to address climate change, stumbling to address the larger issues of income inequality and migration, these issues have to be addressed at the local level.</field>
+</doc>
+</add>

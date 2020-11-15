@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201903.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190331_110000_Weekends_With_Alex_Witt#start/2742/end/2777</field>
+<field name="datetime">3/31/2019 11:45:57</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20190331_110000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190331_110000_Weekends_With_Alex_Witt/MSNBCW_20190331_110000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20190331_110000_Weekends_With_Alex_Witt_002729.jpg</field>
+<field name="snippet">we collectively, as a country, really don't understand climate change in the way that we should. i spent 16 years running clean energy companies. you cannot release co2 without burning fossil fuel and nobody gives away fossil fuel for free.</field>
+</doc>
+</add>

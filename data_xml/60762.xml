@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201804.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180410_000000_Newsday#start/55/end/90</field>
+<field name="datetime">4/10/2018 0:01:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20180410_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180410_000000_Newsday/BBCNEWS_20180410_000000_Newsday.thumbs/BBCNEWS_20180410_000000_Newsday_000058.jpg</field>
+<field name="snippet">and, as scientists discover increased snowfall in antarctica, what does it mean for global warming? good morning. it is 7:00am in singapore, midnight in london, and 7:00pm in new york, where the un security council has met in emergency session to discuss</field>
+</doc>
+</add>

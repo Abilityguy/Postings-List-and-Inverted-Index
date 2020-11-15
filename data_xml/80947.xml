@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201601.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160122_070000_Hardball_With_Chris_Matthews#start/3255/end/3290</field>
+<field name="datetime">1/22/2016 7:54:30</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball With Chris Matthews</field>
+<field name="showid">MSNBCW_20160122_070000_Hardball_With_Chris_Matthews</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160122_070000_Hardball_With_Chris_Matthews/MSNBCW_20160122_070000_Hardball_With_Chris_Matthews.thumbs/MSNBCW_20160122_070000_Hardball_With_Chris_Matthews_003237.jpg</field>
+<field name="snippet">president obama spoke about making climate change a priority. mr. president, i say this with as much respect as you deserve. screw global warming.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190914_100000_Fox_and_Friends_Saturday#start/4270/end/4305</field>
+<field name="datetime">9/14/2019 11:11:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20190914_100000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190914_100000_Fox_and_Friends_Saturday/FOXNEWSW_20190914_100000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20190914_100000_Fox_and_Friends_Saturday_004258.jpg</field>
+<field name="snippet">that? let us know. ed: happy people will run down to miami. pete: real estate in minnesota. climate change cuts both ways. cold place gets warmer maybe your state goes up. i'm just staying.</field>
+</doc>
+</add>

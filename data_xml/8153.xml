@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190923_090000_Fox_and_Friends_First#start/2645/end/2680</field>
+<field name="datetime">9/23/2019 9:44:20</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190923_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190923_090000_Fox_and_Friends_First/FOXNEWSW_20190923_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190923_090000_Fox_and_Friends_First_002639.jpg</field>
+<field name="snippet">for a funeral for a disappearing glacier, about 250 mourners hiked up the mountain in switzerland to honor chunk of ice that scientists say is dwindling and disappearing because of global warming. jillian: several people in black</field>
+</doc>
+</add>

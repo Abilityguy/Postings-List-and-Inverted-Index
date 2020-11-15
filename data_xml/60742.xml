@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201804.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180403_221500_Newsnight#start/2417/end/2452</field>
+<field name="datetime">4/3/2018 22:55:32</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsnight</field>
+<field name="showid">BBCNEWS_20180403_221500_Newsnight</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180403_221500_Newsnight/BBCNEWS_20180403_221500_Newsnight.thumbs/BBCNEWS_20180403_221500_Newsnight_002397.jpg</field>
+<field name="snippet">we find it today. so just go back to climate change, we are not on track to solving the problem of climate change, there's no doubt. i'm not an optimist in the sense that everything will all work out.</field>
+</doc>
+</add>

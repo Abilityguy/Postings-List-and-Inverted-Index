@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201306.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130612_100000_Morning_Joe#start/5356/end/5391</field>
+<field name="datetime">6/12/2013 11:29:31</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20130612_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130612_100000_Morning_Joe/MSNBCW_20130612_100000_Morning_Joe.thumbs/MSNBCW_20130612_100000_Morning_Joe_005356.jpg</field>
+<field name="snippet">projections are they're still going to rise. you can call it climate change or not climate change, but there are certain things that are facts. oceans are higher. oceans are warmer. storms are occurring where they didn't do before. whether that continues or not, we have to protect ourselves.</field>
+</doc>
+</add>

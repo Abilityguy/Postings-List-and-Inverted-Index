@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190510_090000_Victoria_Derbyshire#start/241/end/276</field>
+<field name="datetime">5/10/2019 9:04:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20190510_090000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190510_090000_Victoria_Derbyshire/BBCNEWS_20190510_090000_Victoria_Derbyshire.thumbs/BBCNEWS_20190510_090000_Victoria_Derbyshire_000237.jpg</field>
+<field name="snippet">the climate and reverse global warming are being considered by scientists at the university of cambridge as part of a new research centre. among the ideas it will consider is a scheme to re-freeze polar regions, by reflecting sunlight away from the earth, using water sprayed into the atmosphere by ships.</field>
+</doc>
+</add>

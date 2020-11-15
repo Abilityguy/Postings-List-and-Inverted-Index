@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181005_120000_BBC_News_at_One#start/1200/end/1235</field>
+<field name="datetime">10/5/2018 12:20:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20181005_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181005_120000_BBC_News_at_One/BBCNEWS_20181005_120000_BBC_News_at_One.thumbs/BBCNEWS_20181005_120000_BBC_News_at_One_001197.jpg</field>
+<field name="snippet">from the basin upstream are the only thing that is offsetting sea level rise across the entire delta, which is home to 18 million people. i mentioned this is a hotspot for climate change. what makes it so vulnerable? it's low-lying, it's a large delta plain and it's sinking. the sea level is coming up.</field>
+</doc>
+</add>

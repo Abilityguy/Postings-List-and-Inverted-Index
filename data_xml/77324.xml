@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191112_140000_Afternoon_Live#start/1766/end/1801</field>
+<field name="datetime">11/12/2019 14:29:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20191112_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191112_140000_Afternoon_Live/BBCNEWS_20191112_140000_Afternoon_Live.thumbs/BBCNEWS_20191112_140000_Afternoon_Live_001737.jpg</field>
+<field name="snippet">in the last 12 months. much of australia has seen temperatures above average. in the south-east they had seen temperatures about 1.5, 2 degrees above normal. we are talking about global warming, the global warming up by 1</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181124_060000_Breakfast#start/0/end/33</field>
+<field name="datetime">11/24/2018 6:00:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181124_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181124_060000_Breakfast/BBCNEWS_20181124_060000_Breakfast.thumbs/BBCNEWS_20181124_060000_Breakfast_000057.jpg</field>
+<field name="snippet">good morning. welcome to breakfast, with tina daheley and charlie stayt. our headlines today: theresa may heads to brussels for last-minute talks with the eu, as spain and the dup threaten to derail her brexit deal. a us government report gives a sharp warning about climate change, just days after donald trump questioned the effects of global warning. polly, put the kettle on.</field>
+</doc>
+</add>

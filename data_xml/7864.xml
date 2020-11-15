@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170602_130000_Americas_Newsroom#start/4097/end/4132</field>
+<field name="datetime">6/2/2017 14:08:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWSW_20170602_130000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170602_130000_Americas_Newsroom/FOXNEWSW_20170602_130000_Americas_Newsroom.thumbs/FOXNEWSW_20170602_130000_Americas_Newsroom_004077.jpg</field>
+<field name="snippet">we want to let people know about the perfect guests you have this weekend to talk about this. tune in to fax news sunday. chris will talk about the climate change deal. the paris climate accord with epa administrator scott pruitt.</field>
+</doc>
+</add>

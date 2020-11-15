@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191119_220000_BBC_News_at_Ten#start/1319/end/1354</field>
+<field name="datetime">11/19/2019 22:22:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20191119_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191119_220000_BBC_News_at_Ten/BBCNEWS_20191119_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20191119_220000_BBC_News_at_Ten_001319.jpg</field>
+<field name="snippet">they say on climate change, the country can't afford not to act. this is the last election where we can take the first step down the right path, and that is what we must do. vote green. if not now, when?</field>
+</doc>
+</add>

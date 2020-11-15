@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201404.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140405_160000_Weekends_With_Alex_Witt#start/5165/end/5200</field>
+<field name="datetime">4/5/2014 17:26:20</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20140405_160000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140405_160000_Weekends_With_Alex_Witt/MSNBCW_20140405_160000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20140405_160000_Weekends_With_Alex_Witt_005145.jpg</field>
+<field name="snippet">more now on a ground breaking report released this week about how climate change is sweeping all the continents and oceans of this planet. the united nations report says unless the world makes significant changes soon, we will see more extreme weather that puts the basic systems that support human civilization at</field>
+</doc>
+</add>

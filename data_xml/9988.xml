@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201505.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150513_090000_FOX_and_Friends_First#start/2747/end/2782</field>
+<field name="datetime">5/13/2015 9:46:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends First</field>
+<field name="showid">FOXNEWSW_20150513_090000_FOX_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150513_090000_FOX_and_Friends_First/FOXNEWSW_20150513_090000_FOX_and_Friends_First.thumbs/FOXNEWSW_20150513_090000_FOX_and_Friends_First_002745.jpg</field>
+<field name="snippet">a war on terror. i was in the department of homeland security. it affected millions of dollars dedicated to climate change rather than combatting what i consider to be one of the biggest threats to the home land and that's the violent</field>
+</doc>
+</add>

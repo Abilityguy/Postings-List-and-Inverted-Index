@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191128_130000_MSNBC_Live#start/2580/end/2615</field>
+<field name="datetime">11/28/2019 13:43:15</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20191128_130000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191128_130000_MSNBC_Live/MSNBCW_20191128_130000_MSNBC_Live.thumbs/MSNBCW_20191128_130000_MSNBC_Live_002580.jpg</field>
+<field name="snippet">gas & electric. this is not from my perspective a climate-change story as much as a story about greed and mismanagement over the course of decades. reporter: while recent investigations have found the company's equipment likely responsible for starting nearly 2000 fires in the last five</field>
+</doc>
+</add>

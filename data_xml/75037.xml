@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200111_034500_Newswatch#start/211/end/246</field>
+<field name="datetime">1/11/2020 3:48:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newswatch</field>
+<field name="showid">BBCNEWS_20200111_034500_Newswatch</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200111_034500_Newswatch/BBCNEWS_20200111_034500_Newswatch.thumbs/BBCNEWS_20200111_034500_Newswatch_000208.jpg</field>
+<field name="snippet">but in the story itself, it's about climate change and how the conditions that are leading to this are seriously affected by carbon in the atmosphere. and here we have reporters being jetted halfway around the world and back again. so it doesn't make sense.</field>
+</doc>
+</add>

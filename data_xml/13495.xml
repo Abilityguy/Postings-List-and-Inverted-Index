@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201703.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170328_221500_Newsnight#start/2697/end/2732</field>
+<field name="datetime">3/28/2017 23:00:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsnight</field>
+<field name="showid">BBCNEWS_20170328_221500_Newsnight</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170328_221500_Newsnight/BBCNEWS_20170328_221500_Newsnight.thumbs/BBCNEWS_20170328_221500_Newsnight_002698.jpg</field>
+<field name="snippet">war on coal is over after donald trump rolls back barack obama's climate change regulations. we will power american industry.</field>
+</doc>
+</add>

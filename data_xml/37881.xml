@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091025_100000_The_OReilly_Factor#start/739/end/774</field>
+<field name="datetime">10/25/2009 10:12:34</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20091025_100000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091025_100000_The_OReilly_Factor/FOXNEWS_20091025_100000_The_OReilly_Factor.thumbs/FOXNEWS_20091025_100000_The_OReilly_Factor_000720.jpg</field>
+<field name="snippet">or five companies resigned from parts of the chamber, exelon the big utility, others on cap and trade, apple computer, al gore is on the board, resigned over the peak on climate change. first of all, make it clear, it's not unusual for a business</field>
+</doc>
+</add>

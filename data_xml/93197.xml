@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190731_100000_BBC_Newsroom_Live#start/2883/end/2918</field>
+<field name="datetime">7/31/2019 10:48:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190731_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190731_100000_BBC_Newsroom_Live/BBCNEWS_20190731_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190731_100000_BBC_Newsroom_Live_002879.jpg</field>
+<field name="snippet">britain's ten hottest years on record have all taken place since 2002 - scientists say it's a clear sign of climate change.</field>
+</doc>
+</add>

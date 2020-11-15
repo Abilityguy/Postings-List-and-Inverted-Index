@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201909.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190925_190000_MSNBC_Live_With_Ali_Velshi#start/2964/end/2999</field>
+<field name="datetime">9/25/2019 19:49:39</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190925_190000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190925_190000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190925_190000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190925_190000_MSNBC_Live_With_Ali_Velshi_002938.jpg</field>
+<field name="snippet">right now world leaders are gathered for the united nations general assembly here in new york. it is also climate week, folks. this time the attention on climate change is much more acute. and, you know, some say so is the evidence. earlier this week, towns in iowa</field>
+</doc>
+</add>

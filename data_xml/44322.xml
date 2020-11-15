@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201704.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170429_180000_MSNBC_Live#start/82/end/117</field>
+<field name="datetime">4/29/2017 18:01:37</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170429_180000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170429_180000_MSNBC_Live/MSNBCW_20170429_180000_MSNBC_Live.thumbs/MSNBCW_20170429_180000_MSNBC_Live_000057.jpg</field>
+<field name="snippet">tens of thousands will be taking part in the main march in washington, d.c., and right now they are heading down pennsylvania avenue and plan to surround the white house as soon as the grand finale. the march has come a day after the epa took down the climate change as part of its website.</field>
+</doc>
+</add>

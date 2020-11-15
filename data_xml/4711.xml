@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170602_100000_BBC_Newsroom_Live#start/4291/end/4326</field>
+<field name="datetime">6/2/2017 11:11:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20170602_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170602_100000_BBC_Newsroom_Live/BBCNEWS_20170602_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20170602_100000_BBC_Newsroom_Live_004288.jpg</field>
+<field name="snippet">angela merkel, described america's decision as 'regrettable'. mrs merkel urged the rest of the international community to stick to the path of combating climate change. our correspondentjenny hill is in berlin.</field>
+</doc>
+</add>

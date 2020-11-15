@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201009.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100923_140000_MSNBC_News_Live#start/596/end/631</field>
+<field name="datetime">9/23/2010 14:10:11</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100923_140000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100923_140000_MSNBC_News_Live/MSNBC_20100923_140000_MSNBC_News_Live.thumbs/MSNBC_20100923_140000_MSNBC_News_Live_000570.jpg</field>
+<field name="snippet">climate change. after making historic investments in clean energy and efficiency at home, we help forge an accord in copenhagen that for the first time commits all major economies to reduce their emissions.</field>
+</doc>
+</add>

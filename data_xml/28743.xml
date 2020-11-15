@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201610.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161019_100000_FOX__Friends#start/524/end/559</field>
+<field name="datetime">10/19/2016 10:08:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20161019_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161019_100000_FOX__Friends/FOXNEWSW_20161019_100000_FOX__Friends.thumbs/FOXNEWSW_20161019_100000_FOX__Friends_000507.jpg</field>
+<field name="snippet">to the economy. when you look at the important issues facing our country, the economy is number one. about 24. a quarter of the people say that's most important. followed by terrorism, health care, global warming and stuff like that, 7%.</field>
+</doc>
+</add>

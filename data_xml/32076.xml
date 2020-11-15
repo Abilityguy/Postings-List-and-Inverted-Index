@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201012.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101228_110000_FOX_and_Friends#start/1071/end/1106</field>
+<field name="datetime">12/28/2010 11:18:06</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20101228_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101228_110000_FOX_and_Friends/FOXNEWS_20101228_110000_FOX_and_Friends.thumbs/FOXNEWS_20101228_110000_FOX_and_Friends_001050.jpg</field>
+<field name="snippet">well, i think it's a great question. i think most of us see changes with our own eyes that we know are proof that the issues are real and they're not normal. unfortunately, global warming is a little bit of a confusing term to most people because it makes</field>
+</doc>
+</add>

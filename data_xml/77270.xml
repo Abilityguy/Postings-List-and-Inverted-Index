@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191130_040000_BBC_News#start/1125/end/1160</field>
+<field name="datetime">11/30/2019 4:19:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191130_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191130_040000_BBC_News/BBCNEWS_20191130_040000_BBC_News.thumbs/BBCNEWS_20191130_040000_BBC_News_001109.jpg</field>
+<field name="snippet">the victims who were killed were a man and a woman. three others injured in the attack remain in hospital. it's gone from remote wilderness to tourist hotspot in just a few decades. antarctica is now the destination of choice for thousands of thrill-seekers. but with tourism and climate change</field>
+</doc>
+</add>

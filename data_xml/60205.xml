@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_170000_BBC_News_at_Six#start/205/end/240</field>
+<field name="datetime">10/8/2018 17:03:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20181008_170000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_170000_BBC_News_at_Six/BBCNEWS_20181008_170000_BBC_News_at_Six.thumbs/BBCNEWS_20181008_170000_BBC_News_at_Six_000207.jpg</field>
+<field name="snippet">because, when they're burned, they give off carbon dioxide. vast new forests must also be planted to soak up the gas to have any chance of keeping global warming to a safe level. the report has sent a very clear message that if we don't act now</field>
+</doc>
+</add>

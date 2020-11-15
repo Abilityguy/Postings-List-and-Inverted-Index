@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181102_140000_Afternoon_Live#start/9854/end/9889</field>
+<field name="datetime">11/2/2018 16:44:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20181102_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181102_140000_Afternoon_Live/BBCNEWS_20181102_140000_Afternoon_Live.thumbs/BBCNEWS_20181102_140000_Afternoon_Live_009837.jpg</field>
+<field name="snippet">first a look at the headlines on afternoon live. a stark warning from the met office - the uk has faced more weather extremes over the last decade due to global warming. brexit secretary dominic raab holds talks with the dup in belfast. unionists say they hope a deal is close, but sinn fein accuse mr raab of behaving like a thief in the night.</field>
+</doc>
+</add>

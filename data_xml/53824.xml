@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201807.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180703_180000_Beyond_100_Days#start/1542/end/1577</field>
+<field name="datetime">7/3/2018 18:25:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20180703_180000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180703_180000_Beyond_100_Days/BBCNEWS_20180703_180000_Beyond_100_Days.thumbs/BBCNEWS_20180703_180000_Beyond_100_Days_001528.jpg</field>
+<field name="snippet">that the us is dragging its feet on climate change. but lots is being done across the country to tackle the issue, as cities start taking action on their own. that's still to come. another day with plenty warm</field>
+</doc>
+</add>

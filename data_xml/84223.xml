@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190422_193000_Weather_World#start/852/end/887</field>
+<field name="datetime">4/22/2019 19:44:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20190422_193000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190422_193000_Weather_World/BBCNEWS_20190422_193000_Weather_World.thumbs/BBCNEWS_20190422_193000_Weather_World_000838.jpg</field>
+<field name="snippet">show us the weather where you are by becoming a bbc weather watcher. sign up online at bbc. co. uk/weatherwatchers. still to come on weather world. carbon capture - how rising sea levels caused by climate change could bring us unexpected benefits.</field>
+</doc>
+</add>

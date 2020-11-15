@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140215_110000_FOX_and_Friends_Saturday#start/11249/end/11284</field>
+<field name="datetime">2/15/2014 14:07:44</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20140215_110000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140215_110000_FOX_and_Friends_Saturday/FOXNEWSW_20140215_110000_FOX_and_Friends_Saturday.thumbs/FOXNEWSW_20140215_110000_FOX_and_Friends_Saturday_011235.jpg</field>
+<field name="snippet">what to do to stop global warming, presuming the globe is warming in some linear manner. that's up for debate. we do know it's going to make your power bill higher every</field>
+</doc>
+</add>

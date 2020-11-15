@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201410.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141013_200000_Your_World_With_Neil_Cavuto#start/1209/end/1244</field>
+<field name="datetime">10/13/2014 20:20:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20141013_200000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141013_200000_Your_World_With_Neil_Cavuto/FOXNEWSW_20141013_200000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20141013_200000_Your_World_With_Neil_Cavuto_001185.jpg</field>
+<field name="snippet">he -- you look at the u.s. navy. the commander -- the naval commander, who is in charge of the u.s. navy, last year, came out and said, this is the most important issue we're facing right now. climate change. relative to our naval bases and</field>
+</doc>
+</add>

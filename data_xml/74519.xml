@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_020000_BBC_News#start/1827/end/1862</field>
+<field name="datetime">1/17/2020 2:30:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200117_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_020000_BBC_News/BBCNEWS_20200117_020000_BBC_News.thumbs/BBCNEWS_20200117_020000_BBC_News_001798.jpg</field>
+<field name="snippet">the australian fires are nothing to do with global warming. the impeachment of donaldj trump has formally begun in the us senate, with democrats setting out nine pages of allegations against him. the president is accused of violating the constitution by pressing ukraine to investigate a political rival.</field>
+</doc>
+</add>

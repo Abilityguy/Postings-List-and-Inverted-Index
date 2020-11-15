@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201909.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190919_220000_The_Beat_With_Ari_Melber#start/3020/end/3055</field>
+<field name="datetime">9/19/2019 22:50:35</field>
+<field name="station">MSNBC</field>
+<field name="show">The Beat With Ari Melber</field>
+<field name="showid">MSNBCW_20190919_220000_The_Beat_With_Ari_Melber</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190919_220000_The_Beat_With_Ari_Melber/MSNBCW_20190919_220000_The_Beat_With_Ari_Melber.thumbs/MSNBCW_20190919_220000_The_Beat_With_Ari_Melber_002997.jpg</field>
+<field name="snippet">candidates on stage for msnbc's two day forum on the climate crisis starting at 8:00. they'll be taking questions from msnbc ali velshi and chris hayes. good evening, ari. let's take a look at some of the answers.</field>
+</doc>
+</add>

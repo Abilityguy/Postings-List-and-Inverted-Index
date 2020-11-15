@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201305.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130529_000000_All_In_With_Chris_Hayes#start/245/end/280</field>
+<field name="datetime">5/29/2013 0:04:20</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20130529_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130529_000000_All_In_With_Chris_Hayes/MSNBCW_20130529_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20130529_000000_All_In_With_Chris_Hayes_000225.jpg</field>
+<field name="snippet">last pivot on, which is sandy. here's chris christie answering nbc's matt lauer's question about the role of climate change in sandy. i haven't shown any definitive proof yet that's what caused it. and listen, this is distraction. i've got a place to rebuild here</field>
+</doc>
+</add>

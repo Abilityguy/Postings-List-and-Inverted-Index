@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_060000_Breakfast#start/593/end/628</field>
+<field name="datetime">1/17/2020 6:10:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20200117_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_060000_Breakfast/BBCNEWS_20200117_060000_Breakfast.thumbs/BBCNEWS_20200117_060000_Breakfast_000597.jpg</field>
+<field name="snippet">has been an interesting morning today. we have a number of people in glasgow where there is a really big conference on climate change. matt, you are there at the sentence --  _</field>
+</doc>
+</add>

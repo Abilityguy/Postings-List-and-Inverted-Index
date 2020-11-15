@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_230000_BBC_News#start/988/end/1023</field>
+<field name="datetime">1/16/2020 23:16:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200116_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_230000_BBC_News/BBCNEWS_20200116_230000_BBC_News.thumbs/BBCNEWS_20200116_230000_BBC_News_000988.jpg</field>
+<field name="snippet">the headlines on bbc news: we are out of time and while leaders need to make life or death decisions on climate change now. a warning from sir david attenborough. donald trump's impeachment trial gets under way in the senate. the president</field>
+</doc>
+</add>

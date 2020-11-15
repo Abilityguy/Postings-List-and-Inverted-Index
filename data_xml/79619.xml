@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200907.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20090727_130000_Morning_Meeting#start/601/end/636</field>
+<field name="datetime">7/27/2009 13:10:16</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Meeting</field>
+<field name="showid">MSNBC_20090727_130000_Morning_Meeting</field>
+<field name="preview">https://archive.org/download/MSNBC_20090727_130000_Morning_Meeting/MSNBC_20090727_130000_Morning_Meeting.thumbs/MSNBC_20090727_130000_Morning_Meeting_000596.jpg</field>
+<field name="snippet">reporter: i have gotten some preview of what secretary geithner will say in his opening statement. he is going to talk about how the u.s. and china together are the ones that have to deal with climate change and the global economy.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201612.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161209_090000_Special_Report_With_Bret_Baier#start/511/end/546</field>
+<field name="datetime">12/9/2016 9:08:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20161209_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161209_090000_Special_Report_With_Bret_Baier/FOXNEWSW_20161209_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20161209_090000_Special_Report_With_Bret_Baier_000508.jpg</field>
+<field name="snippet">night saying green party candidate jill stein is not eligible to ask for a recount. environmentalists would like a recount if they could get one on donald trump's decision to name a noted climate change skeptic to run the environmental protection agency.</field>
+</doc>
+</add>

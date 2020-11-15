@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190429_130000_Afternoon_Live#start/9655/end/9690</field>
+<field name="datetime">4/29/2019 15:41:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190429_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190429_130000_Afternoon_Live/BBCNEWS_20190429_130000_Afternoon_Live.thumbs/BBCNEWS_20190429_130000_Afternoon_Live_009658.jpg</field>
+<field name="snippet">let's go over to ann davies. we are talking about climate change and ways to reducing emissions. a solar powered oven, how on earth does that work? well, i'm going to be very scientific now. it is essentially</field>
+</doc>
+</add>

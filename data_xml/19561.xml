@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201903.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190313_100000_Morning_Joe#start/3207/end/3242</field>
+<field name="datetime">3/13/2019 10:53:42</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20190313_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190313_100000_Morning_Joe/MSNBCW_20190313_100000_Morning_Joe.thumbs/MSNBCW_20190313_100000_Morning_Joe_003148.jpg</field>
+<field name="snippet">built for the strangest of all creatures. jay inslee -- a governor into a clean-energy leader with a bold vision for our future. we are the first generation to feel the sting of climate change, and we are the last generation</field>
+</doc>
+</add>

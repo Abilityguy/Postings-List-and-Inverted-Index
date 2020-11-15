@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190608_100000_Fox_and_Friends_Saturday#start/11269/end/11304</field>
+<field name="datetime">6/8/2019 13:08:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20190608_100000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190608_100000_Fox_and_Friends_Saturday/FOXNEWSW_20190608_100000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20190608_100000_Fox_and_Friends_Saturday_011248.jpg</field>
+<field name="snippet">now he's jumping all in on climate change, $500 million to try and wipe out the coal industry. that's his stated goal. we're in a race, he says, against time with climate change, and yet there's virtually no hope of action on</field>
+</doc>
+</add>

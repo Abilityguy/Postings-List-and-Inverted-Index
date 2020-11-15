@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191129_190000_MSNBC_Live#start/2972/end/3007</field>
+<field name="datetime">11/29/2019 19:49:47</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20191129_190000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191129_190000_MSNBC_Live/MSNBCW_20191129_190000_MSNBC_Live.thumbs/MSNBCW_20191129_190000_MSNBC_Live_002970.jpg</field>
+<field name="snippet">wildfire threat. reporter: after the deadly fires in 2018 the company filed for bankruptcy citing debt in excess of $50 billion. making challenge of improving fire safety in a state battling climate change that much more</field>
+</doc>
+</add>

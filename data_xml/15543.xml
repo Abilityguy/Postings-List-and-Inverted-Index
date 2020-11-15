@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201110.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111029_080000_Special_Report_With_Bret_Baier#start/1581/end/1616</field>
+<field name="datetime">10/29/2011 8:26:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20111029_080000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111029_080000_Special_Report_With_Bret_Baier/FOXNEWSW_20111029_080000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20111029_080000_Special_Report_With_Bret_Baier_001556.jpg</field>
+<field name="snippet">delta-2 rocket carrying the satellite took off this morning in california. the satellite will relay data that should allow scientists to improve forecast of hurricanes and other extreme weather. and monitor climate change. many democrats are running away from president obama's healthcare law.</field>
+</doc>
+</add>

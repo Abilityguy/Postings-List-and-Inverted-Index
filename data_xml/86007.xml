@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201207.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120705_100000_Hardball_With_Chris_Matthews#start/2284/end/2319</field>
+<field name="datetime">7/5/2012 10:38:19</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball With Chris Matthews</field>
+<field name="showid">MSNBCW_20120705_100000_Hardball_With_Chris_Matthews</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120705_100000_Hardball_With_Chris_Matthews/MSNBCW_20120705_100000_Hardball_With_Chris_Matthews.thumbs/MSNBCW_20120705_100000_Hardball_With_Chris_Matthews_002280.jpg</field>
+<field name="snippet">conducted by 'the washington post' and stanford university and showed a figure which might be surprising to some, the number of americans who say global warming or climate change is the top environmental problem worldwide, decreasing compared to five years ago.</field>
+</doc>
+</add>

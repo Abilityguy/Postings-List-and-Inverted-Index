@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201203.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120327_100000_FOX_and_Friends#start/1511/end/1546</field>
+<field name="datetime">3/27/2012 10:25:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20120327_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120327_100000_FOX_and_Friends/FOXNEWSW_20120327_100000_FOX_and_Friends.thumbs/FOXNEWSW_20120327_100000_FOX_and_Friends_001495.jpg</field>
+<field name="snippet">joining me now is the author of the new book 'don't sell your coat, surprising truths about climate change' harold ambler. good morning to you. good morning, thank you for having me. you're welcome. dispel that claim that it's the big oil companies that are funding skeptics like yourself.</field>
+</doc>
+</add>

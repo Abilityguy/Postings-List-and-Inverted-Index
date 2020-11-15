@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201510.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151001_030000_All_In_With_Chris_Hayes#start/905/end/940</field>
+<field name="datetime">10/1/2015 3:15:20</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20151001_030000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151001_030000_All_In_With_Chris_Hayes/MSNBCW_20151001_030000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20151001_030000_All_In_With_Chris_Hayes_000885.jpg</field>
+<field name="snippet">climate change. those stories and more ahead. so you're a small business expert from at&t? yeah, give me a problem and i've got the solution. well, we have 30 years of customer records. our cloud can keep them safe and accessible anywhere.</field>
+</doc>
+</add>

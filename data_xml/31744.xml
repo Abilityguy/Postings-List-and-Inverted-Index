@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201210.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121009_130000_Americas_Newsroom#start/120/end/155</field>
+<field name="datetime">10/9/2012 13:02:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWSW_20121009_130000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121009_130000_Americas_Newsroom/FOXNEWSW_20121009_130000_Americas_Newsroom.thumbs/FOXNEWSW_20121009_130000_Americas_Newsroom_000117.jpg</field>
+<field name="snippet">here. we're in madison county. governor romney won this in the caucuses by the way. he will argue the president's policies things like estate taxes, climate change, environmental regulations, energy policy are hurting farmers.</field>
+</doc>
+</add>

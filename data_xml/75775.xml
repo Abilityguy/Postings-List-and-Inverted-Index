@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201210.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121023_160000_NOW_With_Alex_Wagner#start/1317/end/1352</field>
+<field name="datetime">10/23/2012 16:22:12</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20121023_160000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121023_160000_NOW_With_Alex_Wagner/MSNBCW_20121023_160000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20121023_160000_NOW_With_Alex_Wagner_001317.jpg</field>
+<field name="snippet">i mean, foreign policy is in many ways tied to domestic policy. that said i am deeply disappointed these debates are over, there has not been any substantive discussion about energy, climate change, immigration, drug trade which is a foreign policy problem.</field>
+</doc>
+</add>

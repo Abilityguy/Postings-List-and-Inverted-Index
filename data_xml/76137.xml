@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190516_050000_Breakfast#start/5255/end/5290</field>
+<field name="datetime">5/16/2019 6:27:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190516_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190516_050000_Breakfast/BBCNEWS_20190516_050000_Breakfast.thumbs/BBCNEWS_20190516_050000_Breakfast_005247.jpg</field>
+<field name="snippet">we will need experts in the installation of solar panels, a policy being announced today, as well as engineers involved in those panels' manufacturing. it's about harnessing the economic possibilities as well as the climate</field>
+</doc>
+</add>

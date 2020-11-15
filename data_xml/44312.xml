@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201704.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170422_130000_MSNBC_Live#start/1938/end/1973</field>
+<field name="datetime">4/22/2017 13:32:33</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170422_130000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170422_130000_MSNBC_Live/MSNBCW_20170422_130000_MSNBC_Live.thumbs/MSNBCW_20170422_130000_MSNBC_Live_001918.jpg</field>
+<field name="snippet">up. reporter: we've seen more activists and attendees filling in over here. to give you a sense of the things i've heard them talking to me about, there's been a lot of chatter about the administration actions on climate change, things like the clean power plan being reviewed, other things like the potential</field>
+</doc>
+</add>

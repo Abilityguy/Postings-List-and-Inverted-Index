@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190429_040000_The_Briefing#start/1224/end/1259</field>
+<field name="datetime">4/29/2019 4:20:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20190429_040000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190429_040000_The_Briefing/BBCNEWS_20190429_040000_The_Briefing.thumbs/BBCNEWS_20190429_040000_The_Briefing_001197.jpg</field>
+<field name="snippet">combating climate change and improving the soil is to turn all of this farmland into woodland. but that wouldn't feed the people, would it? perhaps a form of farming like this can be gentler on the environment, while keeping milk on the table. but capturing carbon in</field>
+</doc>
+</add>

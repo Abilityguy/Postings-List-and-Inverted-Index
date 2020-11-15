@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201509.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150930_100000_Morning_Joe#start/7865/end/7900</field>
+<field name="datetime">9/30/2015 12:11:20</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20150930_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150930_100000_Morning_Joe/MSNBCW_20150930_100000_Morning_Joe.thumbs/MSNBCW_20150930_100000_Morning_Joe_005106.jpg</field>
+<field name="snippet">we have a fundamental disagreement about whether we need to raise gas taxes to deal with the global warming problem. i don't agree with that. the fact is you're right. it's going to be an ongoing issue. i think we have an opportunity right now not to have to raise gas taxes, to let the american</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201301.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130130_040000_The_Ed_Show#start/1843/end/1878</field>
+<field name="datetime">1/30/2013 4:30:58</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20130130_040000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130130_040000_The_Ed_Show/MSNBCW_20130130_040000_The_Ed_Show.thumbs/MSNBCW_20130130_040000_The_Ed_Show_001815.jpg</field>
+<field name="snippet">we should point out that senator inhofe is terrible at flying airplanes but great at denying the science of global warming there is no reason they should have voted against john kerry's confirmation. he is without a doubt the most qualified person to be our next secretary of state. john kerry has served on the senate foreign relations committee for, let's see, 28</field>
+</doc>
+</add>

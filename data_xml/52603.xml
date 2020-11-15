@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181206_190000_Beyond_100_Days#start/1975/end/2010</field>
+<field name="datetime">12/6/2018 19:33:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20181206_190000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181206_190000_Beyond_100_Days/BBCNEWS_20181206_190000_Beyond_100_Days.thumbs/BBCNEWS_20181206_190000_Beyond_100_Days_001947.jpg</field>
+<field name="snippet">to announce it will roll back an 0bama-era rule that requires new coal plants to capture their carbon emissions. this, despite the fact that in the past few weeks, a string of major studies show we are fast running out of time to tackle climate change. global scientists are meeting again this week in poland for another climate summit to urge world leaders to do more.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201001.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100129_140000_The_Daily_Rundown#start/1489/end/1524</field>
+<field name="datetime">1/29/2010 14:25:04</field>
+<field name="station">MSNBC</field>
+<field name="show">The Daily Rundown</field>
+<field name="showid">MSNBC_20100129_140000_The_Daily_Rundown</field>
+<field name="preview">https://archive.org/download/MSNBC_20100129_140000_The_Daily_Rundown/MSNBC_20100129_140000_The_Daily_Rundown.thumbs/MSNBC_20100129_140000_The_Daily_Rundown_001433.jpg</field>
+<field name="snippet">children, i shot him. al jazeera, the arabic language network has released a new audiotape, purportedly of osama bin laden. the voice on that tape blames the united states for climate change and the global economic downturn. in haiti, two weeks after</field>
+</doc>
+</add>

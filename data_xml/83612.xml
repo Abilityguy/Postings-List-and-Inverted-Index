@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190418_180000_Beyond_100_Days#start/3163/end/3198</field>
+<field name="datetime">4/18/2019 18:52:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20190418_180000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190418_180000_Beyond_100_Days/BBCNEWS_20190418_180000_Beyond_100_Days.thumbs/BBCNEWS_20190418_180000_Beyond_100_Days_003149.jpg</field>
+<field name="snippet">attention, but will it bring action? the campaigners here want greenhouse gas emissions to be reduced to zero by 2025. scientists say it's a target that's virtually impossible to achieve. the united nations agrees</field>
+</doc>
+</add>

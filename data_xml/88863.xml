@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190604_123000_BBC_News#start/842/end/877</field>
+<field name="datetime">6/4/2019 12:44:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190604_123000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190604_123000_BBC_News/BBCNEWS_20190604_123000_BBC_News.thumbs/BBCNEWS_20190604_123000_BBC_News_000838.jpg</field>
+<field name="snippet">street told us that theresa may was raising the issue of climate change in these talks. they are expected to also have been talking about why wayne with the white house</field>
+</doc>
+</add>

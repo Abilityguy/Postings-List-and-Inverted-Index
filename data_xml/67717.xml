@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190206_220000_BBC_News_at_Ten#start/1593/end/1628</field>
+<field name="datetime">2/6/2019 22:26:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20190206_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190206_220000_BBC_News_at_Ten/BBCNEWS_20190206_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20190206_220000_BBC_News_at_Ten_001588.jpg</field>
+<field name="snippet">is the greenhouse-gas emissions we're producing. we're still too reliant on fossil fuels like coal, and globally levels of carbon dioxide are at a record high. we've got to reduce our emissions of greenhouse gases, we've got to reduce concentrations, because if we don't, we are looking at really big</field>
+</doc>
+</add>

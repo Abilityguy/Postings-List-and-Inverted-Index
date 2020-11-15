@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170429_160000_Americas_News_HQ#start/3625/end/3660</field>
+<field name="datetime">4/29/2017 17:00:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20170429_160000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170429_160000_Americas_News_HQ/FOXNEWSW_20170429_160000_Americas_News_HQ.thumbs/FOXNEWSW_20170429_160000_Americas_News_HQ_003597.jpg</field>
+<field name="snippet">it's hard to imagine it's been 100 days. congress has delayed a shutdown by extending funding for the government until next friday. also in the news today. climate change experts our</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201305.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130527_100000_FOX_and_Friends#start/2407/end/2442</field>
+<field name="datetime">5/27/2013 10:40:22</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20130527_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130527_100000_FOX_and_Friends/FOXNEWSW_20130527_100000_FOX_and_Friends.thumbs/FOXNEWSW_20130527_100000_FOX_and_Friends_002385.jpg</field>
+<field name="snippet">74 for the high today in new york city. anna: snow and the initial kickoff of summer doesn't seem to go together. jesse: what about global warming? al gore said there's</field>
+</doc>
+</add>

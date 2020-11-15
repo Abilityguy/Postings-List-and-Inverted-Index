@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201804.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20180405_000000_All_In_With_Chris_Hayes#start/1821/end/1856</field>
+<field name="datetime">4/5/2018 0:30:36</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20180405_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20180405_000000_All_In_With_Chris_Hayes/MSNBCW_20180405_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20180405_000000_All_In_With_Chris_Hayes_001798.jpg</field>
+<field name="snippet">when the new administration came in, we knew we would be under the gun a little bit, issues of science. that's my background. it was a very intimidating environment for us. a lot of people were looking over their shoulders wondering how would they address climate</field>
+</doc>
+</add>

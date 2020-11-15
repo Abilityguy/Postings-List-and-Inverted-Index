@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190425_160000_BBC_News_at_Five#start/2481/end/2516</field>
+<field name="datetime">4/25/2019 16:41:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190425_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190425_160000_BBC_News_at_Five/BBCNEWS_20190425_160000_BBC_News_at_Five.thumbs/BBCNEWS_20190425_160000_BBC_News_at_Five_002458.jpg</field>
+<field name="snippet">advise them on the facts of climate change, the facts are there and a report for all to see, and they tell a story that global temperatures are rising by between 0.1 and 0.2 celsius per decade and by the end of</field>
+</doc>
+</add>

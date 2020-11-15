@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180807_160000_BBC_News_at_Five#start/1958/end/1993</field>
+<field name="datetime">8/7/2018 16:32:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20180807_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180807_160000_BBC_News_at_Five/BBCNEWS_20180807_160000_BBC_News_at_Five.thumbs/BBCNEWS_20180807_160000_BBC_News_at_Five_001947.jpg</field>
+<field name="snippet">and the forests of the world have long played an important role in helping humanity avoid the worst of global warming. they have soaked up huge amounts of c02 over the past two centuries, limiting the rise in temperatures to around 1 degree celsius. but scientists are now worried these</field>
+</doc>
+</add>

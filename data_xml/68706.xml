@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201001.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100121_190000_MSNBC_News_Live#start/843/end/878</field>
+<field name="datetime">1/21/2010 19:14:18</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100121_190000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100121_190000_MSNBC_News_Live/MSNBC_20100121_190000_MSNBC_News_Live.thumbs/MSNBC_20100121_190000_MSNBC_News_Live_000840.jpg</field>
+<field name="snippet">the scientists are apologizing for glaring mistakes and worlded most authoritative reports on global warming. mistakes in the 2007 report by united nations intergovernmental panel on climate change. they say mistakes were more to</field>
+</doc>
+</add>

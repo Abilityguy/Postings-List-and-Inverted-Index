@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201509.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150923_160000_Outnumbered#start/605/end/640</field>
+<field name="datetime">9/23/2015 16:10:20</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Outnumbered</field>
+<field name="showid">FOXNEWSW_20150923_160000_Outnumbered</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150923_160000_Outnumbered/FOXNEWSW_20150923_160000_Outnumbered.thumbs/FOXNEWSW_20150923_160000_Outnumbered_000585.jpg</field>
+<field name="snippet">welcomes immigrants, and climate change. i think that is what makes this pope unique is he has the moral authority to have both sides listen to what he says carefully.</field>
+</doc>
+</add>

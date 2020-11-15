@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201509.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150922_100000_Morning_Joe#start/4215/end/4250</field>
+<field name="datetime">9/22/2015 11:10:30</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20150922_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150922_100000_Morning_Joe/MSNBCW_20150922_100000_Morning_Joe.thumbs/MSNBCW_20150922_100000_Morning_Joe_004216.jpg</field>
+<field name="snippet">asked about the issue of global warming. do you believe the temperature of the earth is increasing and if do you believe that what would you do? first i'm not a believer in global warming, i'm not believer in manmade warming. it's warming and could be</field>
+</doc>
+</add>

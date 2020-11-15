@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191209_133000_BBC_News#start/1345/end/1380</field>
+<field name="datetime">12/9/2019 13:52:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191209_133000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191209_133000_BBC_News/BBCNEWS_20191209_133000_BBC_News.thumbs/BBCNEWS_20191209_133000_BBC_News_001318.jpg</field>
+<field name="snippet">mining firms producing minerals critical for the new era, such as cobalt for batteries, may see a 54% upturn, whilst others could see their values halve. representatives of fossil fuel companies told bbc news they were already adapting their business plans to take climate change into account.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201501.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150121_050000_MSNBC_Special_Coverage#start/180/end/215</field>
+<field name="datetime">1/21/2015 5:03:15</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Special Coverage</field>
+<field name="showid">MSNBCW_20150121_050000_MSNBC_Special_Coverage</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150121_050000_MSNBC_Special_Coverage/MSNBCW_20150121_050000_MSNBC_Special_Coverage.thumbs/MSNBCW_20150121_050000_MSNBC_Special_Coverage_000165.jpg</field>
+<field name="snippet">he spent a fair amount of time calling for a renewed effort to combat climate change. the soars speech in 2004 that moved many of us who watched him.</field>
+</doc>
+</add>

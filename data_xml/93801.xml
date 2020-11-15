@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190724_170000_BBC_News_at_Six#start/1467/end/1502</field>
+<field name="datetime">7/24/2019 17:24:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20190724_170000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190724_170000_BBC_News_at_Six/BBCNEWS_20190724_170000_BBC_News_at_Six.thumbs/BBCNEWS_20190724_170000_BBC_News_at_Six_001469.jpg</field>
+<field name="snippet">research just published shows the current rate of global heating is higher than has ever been recorded before, and climate change is set to make heatwaves more frequent. dealing with them is something we are going to have to get used to. rebecca morelle, bbc news.</field>
+</doc>
+</add>

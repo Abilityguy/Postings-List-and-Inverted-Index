@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201108.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20110825_200000_Your_World_With_Neil_Cavuto#start/1786/end/1821</field>
+<field name="datetime">8/25/2011 20:30:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20110825_200000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20110825_200000_Your_World_With_Neil_Cavuto/FOXNEWSW_20110825_200000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20110825_200000_Your_World_With_Neil_Cavuto_001766.jpg</field>
+<field name="snippet">will say what the truth is, how i see the truth and run on my record. neil: so if you have doubts about global warming do you not live in the real world? guest: i believe in science.</field>
+</doc>
+</add>

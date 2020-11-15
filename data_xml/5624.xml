@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190923_010000_BBC_News#start/25/end/60</field>
+<field name="datetime">9/23/2019 1:00:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190923_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190923_010000_BBC_News/BBCNEWS_20190923_010000_BBC_News.thumbs/BBCNEWS_20190923_010000_BBC_News_001709.jpg</field>
+<field name="snippet">has launched its biggest-ever repatriation operation. passengers in the uk expecting to travel with thomas cook have been told not to go to the airport. a new un report says the last five years are set to be the hottest on record, and the impacts of global warming,</field>
+</doc>
+</add>

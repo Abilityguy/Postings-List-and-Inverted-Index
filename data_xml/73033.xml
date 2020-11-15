@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190130_190000_Beyond_100_Days#start/1854/end/1889</field>
+<field name="datetime">1/30/2019 19:31:09</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20190130_190000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190130_190000_Beyond_100_Days/BBCNEWS_20190130_190000_Beyond_100_Days.thumbs/BBCNEWS_20190130_190000_Beyond_100_Days_001827.jpg</field>
+<field name="snippet">weather service has been putting out messaging warning people to stay in. so let's get to the tricky issue of what is causing what has been called a once in a generation cold snap in the midwest of the united states. the president suggested on twitter that we needed some more global</field>
+</doc>
+</add>

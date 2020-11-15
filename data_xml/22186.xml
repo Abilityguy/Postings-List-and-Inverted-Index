@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201203.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120316_060000_The_Five#start/3102/end/3137</field>
+<field name="datetime">3/16/2012 6:51:57</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20120316_060000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120316_060000_The_Five/FOXNEWSW_20120316_060000_The_Five.thumbs/FOXNEWSW_20120316_060000_The_Five_003090.jpg</field>
+<field name="snippet">you went to global warming, and then it got cold, and you went, now it's climate change. from the beckel almanac.</field>
+</doc>
+</add>

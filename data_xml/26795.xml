@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100202_080000_Red_Eye#start/421/end/456</field>
+<field name="datetime">2/2/2010 8:07:16</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20100202_080000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100202_080000_Red_Eye/FOXNEWS_20100202_080000_Red_Eye.thumbs/FOXNEWS_20100202_080000_Red_Eye_000420.jpg</field>
+<field name="snippet">table is going to fall over. i better be careful. so every day another embarassing revelation exposes climate change experts as confused bumble heads. the latest is the climate change panel basing conclusions on banishing mountain top ice on anecdotes</field>
+</doc>
+</add>

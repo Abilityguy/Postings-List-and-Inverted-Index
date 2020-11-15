@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200911.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091120_140000_Morning_Meeting#start/6625/end/6660</field>
+<field name="datetime">11/20/2009 15:50:40</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Meeting</field>
+<field name="showid">MSNBC_20091120_140000_Morning_Meeting</field>
+<field name="preview">https://archive.org/download/MSNBC_20091120_140000_Morning_Meeting/MSNBC_20091120_140000_Morning_Meeting.thumbs/MSNBC_20091120_140000_Morning_Meeting_006600.jpg</field>
+<field name="snippet">example, destroyed every hour. species exploitation and climate change. it's all human beings? it's the humans? extinction is not new for this planet. we lost the dinosaurs and it wasn't because of people but because of an asteroid. we lost mammoth and other</field>
+</doc>
+</add>

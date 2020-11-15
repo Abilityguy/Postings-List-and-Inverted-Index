@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180912_210000_BBC_News_at_Ten#start/1177/end/1212</field>
+<field name="datetime">9/12/2018 21:19:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20180912_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180912_210000_BBC_News_at_Ten/BBCNEWS_20180912_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20180912_210000_BBC_News_at_Ten_001168.jpg</field>
+<field name="snippet">for undertaking environmental projects, such as introducing measures to combat climate change. the bill also outlines a greater focus on research and development, which it hopes will make farms more profitable. but critics say the plans will leave farmers out of pocket,</field>
+</doc>
+</add>

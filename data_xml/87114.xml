@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191203_220000_BBC_News_at_Ten#start/592/end/627</field>
+<field name="datetime">12/3/2019 22:10:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20191203_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191203_220000_BBC_News_at_Ten/BBCNEWS_20191203_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20191203_220000_BBC_News_at_Ten_000569.jpg</field>
+<field name="snippet">i've dealt with it. the broadcasting regulator ofcom has decided not to investigate a conservative party complaint against last week's channel a debate on the climate crisis. the party had complained about the broadcaster's intention to 'empty chair' the conservatives</field>
+</doc>
+</add>

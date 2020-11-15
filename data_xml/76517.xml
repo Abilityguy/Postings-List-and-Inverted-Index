@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190512_170000_BBC_News#start/1028/end/1063</field>
+<field name="datetime">5/12/2019 17:17:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190512_170000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190512_170000_BBC_News/BBCNEWS_20190512_170000_BBC_News.thumbs/BBCNEWS_20190512_170000_BBC_News_001018.jpg</field>
+<field name="snippet">pacific region, low-lying countries that could disappear completely because of the rise in sea levels. they are really in the front line of the dramatic impact of climate change. we absolutely must be able to stop</field>
+</doc>
+</add>

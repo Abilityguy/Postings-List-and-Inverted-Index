@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200121_053000_Business_Briefing#start/121/end/156</field>
+<field name="datetime">1/21/2020 5:32:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Business Briefing</field>
+<field name="showid">BBCNEWS_20200121_053000_Business_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200121_053000_Business_Briefing/BBCNEWS_20200121_053000_Business_Briefing.thumbs/BBCNEWS_20200121_053000_Business_Briefing_000118.jpg</field>
+<field name="snippet">however it's not all bad news, the global commission on adaptation has calculated that a $1.8 trillion investment over the next decade - in measures to adapt to climate change, could produce benefits worth more than $7 trillion. well to get more on this, the bbc's sally bundock is in davos for us this week</field>
+</doc>
+</add>

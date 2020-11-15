@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_100000_Victoria_Derbyshire#start/140/end/175</field>
+<field name="datetime">12/3/2018 10:02:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20181203_100000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_100000_Victoria_Derbyshire/BBCNEWS_20181203_100000_Victoria_Derbyshire.thumbs/BBCNEWS_20181203_100000_Victoria_Derbyshire_000118.jpg</field>
+<field name="snippet">for the difficulties facing retailers. a global conference on tackling climate change, the most critical meeting since the 2015 paris agreement, has opened in poland amid warnings that global warming poses a greater threat to humanity than ever before.</field>
+</doc>
+</add>

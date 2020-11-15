@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201509.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150924_090000_Fox_and_Friends_First#start/2035/end/2070</field>
+<field name="datetime">9/24/2015 9:34:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20150924_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150924_090000_Fox_and_Friends_First/FOXNEWSW_20150924_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20150924_090000_Fox_and_Friends_First_002025.jpg</field>
+<field name="snippet">from dc. the pope struck a cord with many on both sides during his remarks the issue of climate change are moral issues not</field>
+</doc>
+</add>

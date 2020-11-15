@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180117_220000_The_Five#start/3550/end/3585</field>
+<field name="datetime">1/17/2018 22:59:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20180117_220000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180117_220000_The_Five/FOXNEWSW_20180117_220000_The_Five.thumbs/FOXNEWSW_20180117_220000_The_Five_003537.jpg</field>
+<field name="snippet">let's hope it's not a smash hit. katie: global warming, i tell you. the 2010 winter olympics are coming up soon in south korea and four members of the american men's bobsled team are actually american military members.</field>
+</doc>
+</add>

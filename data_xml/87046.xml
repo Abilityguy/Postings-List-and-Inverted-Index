@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191224_013000_Our_World#start/820/end/855</field>
+<field name="datetime">12/24/2019 1:43:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Our World</field>
+<field name="showid">BBCNEWS_20191224_013000_Our_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191224_013000_Our_World/BBCNEWS_20191224_013000_Our_World.thumbs/BBCNEWS_20191224_013000_Our_World_000657.jpg</field>
+<field name="snippet">climate change is damaging traditional sami livelihoods. but that's not the only threat. as temperatures rise and the sea ice melts, there's now the opportunity</field>
+</doc>
+</add>

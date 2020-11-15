@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181124_050000_BBC_News#start/242/end/277</field>
+<field name="datetime">11/24/2018 5:04:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181124_050000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181124_050000_BBC_News/BBCNEWS_20181124_050000_BBC_News.thumbs/BBCNEWS_20181124_050000_BBC_News_000237.jpg</field>
+<field name="snippet">is what climate change looks like. in recent years, california has seen bigger, deadlier and more destructive wildfires than ever before. during a cold snap in washington this week, president trump tweeted, 'whatever happened to global warming?' now, his own government experts have answered the question.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201401.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140107_190000_News_Nation#start/3362/end/3397</field>
+<field name="datetime">1/7/2014 19:56:17</field>
+<field name="station">MSNBC</field>
+<field name="show">News Nation</field>
+<field name="showid">MSNBCW_20140107_190000_News_Nation</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140107_190000_News_Nation/MSNBCW_20140107_190000_News_Nation.thumbs/MSNBCW_20140107_190000_News_Nation_003346.jpg</field>
+<field name="snippet">it's cold outside. thank you. what does your gut tell you about the subject? does a person's views on climate change are based on facts or politics? what does your gut tell you.</field>
+</doc>
+</add>

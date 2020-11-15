@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190420_200000_Americas_News_HQ#start/3235/end/3270</field>
+<field name="datetime">4/20/2019 20:54:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20190420_200000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190420_200000_Americas_News_HQ/FOXNEWSW_20190420_200000_Americas_News_HQ.thumbs/FOXNEWSW_20190420_200000_Americas_News_HQ_003207.jpg</field>
+<field name="snippet">climate protests. it started last month and at parts shut down parts of the great britain capital. they are urging the british government to make fighting climate change its top priority.</field>
+</doc>
+</add>

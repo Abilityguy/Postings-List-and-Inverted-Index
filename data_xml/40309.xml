@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201907.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190720_100000_MSNBC_Live#start/2933/end/2968</field>
+<field name="datetime">7/20/2019 10:49:08</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20190720_100000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190720_100000_MSNBC_Live/MSNBCW_20190720_100000_MSNBC_Live.thumbs/MSNBCW_20190720_100000_MSNBC_Live_002908.jpg</field>
+<field name="snippet">to combat climate change, fix our democracy, and hold president trump accountable. last year, we ran the largest youth voter mobilization in history - helping double turnout and win back the house. i'm tom steyer and i approve this message.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180815_200000_Your_World_With_Neil_Cavuto#start/3015/end/3050</field>
+<field name="datetime">8/15/2018 20:50:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20180815_200000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180815_200000_Your_World_With_Neil_Cavuto/FOXNEWSW_20180815_200000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20180815_200000_Your_World_With_Neil_Cavuto_002907.jpg</field>
+<field name="snippet">ryan zinke was saying that climate change is behind the wild fires in california. we'll talk to him tomorrow. ahead of that, let's go to trace gallagher for the latest.</field>
+</doc>
+</add>

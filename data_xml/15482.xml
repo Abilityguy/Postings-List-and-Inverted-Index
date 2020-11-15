@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201110.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111029_200000_Americas_News_Headquarters#start/4321/end/4356</field>
+<field name="datetime">10/29/2011 21:12:16</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20111029_200000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111029_200000_Americas_News_Headquarters/FOXNEWSW_20111029_200000_Americas_News_Headquarters.thumbs/FOXNEWSW_20111029_200000_Americas_News_Headquarters_004316.jpg</field>
+<field name="snippet">past that people cause global warming. romney campaign says romney has been consistent on this. he believes the people do play a role. he is not sure as to what extent that role exists. gregg: a major tea party</field>
+</doc>
+</add>

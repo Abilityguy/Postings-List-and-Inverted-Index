@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190509_090000_Victoria_Derbyshire#start/204/end/239</field>
+<field name="datetime">5/9/2019 9:03:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20190509_090000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190509_090000_Victoria_Derbyshire/BBCNEWS_20190509_090000_Victoria_Derbyshire.thumbs/BBCNEWS_20190509_090000_Victoria_Derbyshire_000178.jpg</field>
+<field name="snippet">more than £1 billion a year will need to be spent to protect homes and infrastructure from the effect of climate change, according to the environment agency. it says more than five million people in england could be affected, with some communities having to move elsewhere.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191102_160000_BBC_News#start/644/end/679</field>
+<field name="datetime">11/2/2019 16:10:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191102_160000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191102_160000_BBC_News/BBCNEWS_20191102_160000_BBC_News.thumbs/BBCNEWS_20191102_160000_BBC_News_000628.jpg</field>
+<field name="snippet">committee on climate change has made that really clear. the government has already set out policies to make sure that new homes will have combined heat and power rather than gas boilers the long term there is no real case for fracking. the long</field>
+</doc>
+</add>

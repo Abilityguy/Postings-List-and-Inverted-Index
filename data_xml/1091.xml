@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170527_040000_BBC_News#start/900/end/935</field>
+<field name="datetime">5/27/2017 4:15:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170527_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170527_040000_BBC_News/BBCNEWS_20170527_040000_BBC_News.thumbs/BBCNEWS_20170527_040000_BBC_News_000897.jpg</field>
+<field name="snippet">but the leaders were unable to reach an agreement on climate change, with differences remaining between president trump and the rest of the group. the bbc's james landale is at the summit. at this summit, in an ancient town</field>
+</doc>
+</add>

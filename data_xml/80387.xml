@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190515_080000_Fox_and_Friends_First#start/506/end/541</field>
+<field name="datetime">5/15/2019 8:08:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190515_080000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190515_080000_Fox_and_Friends_First/FOXNEWSW_20190515_080000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190515_080000_Fox_and_Friends_First_000479.jpg</field>
+<field name="snippet">politicians who refused to act then are going to try to come back today and say we need a middle-of-the-road approach to save our lives. reporter: progressives are upset a climate change advisor told reuters what we learned from the obama administration is less we find middle ground on these issues we risk not having any policies but biden believes the obama white house did plenty. i never have been middle-of-the-road on the</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201512.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151214_230000_Special_Report_With_Bret_Baier#start/1111/end/1146</field>
+<field name="datetime">12/14/2015 23:18:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20151214_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151214_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20151214_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20151214_230000_Special_Report_With_Bret_Baier_001095.jpg</field>
+<field name="snippet">day. bret? cruz came out and talked about the big climate change deal in paris. your thoughts on all that? i saw that, and i've been reading about all this, and i thought, did i miss something?</field>
+</doc>
+</add>

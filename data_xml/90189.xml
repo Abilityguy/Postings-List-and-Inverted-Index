@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200910.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091020_150000_MSNBC_News_Live#start/1104/end/1139</field>
+<field name="datetime">10/20/2009 15:18:39</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091020_150000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091020_150000_MSNBC_News_Live/MSNBC_20091020_150000_MSNBC_News_Live.thumbs/MSNBC_20091020_150000_MSNBC_News_Live_001080.jpg</field>
+<field name="snippet">the white house is pushing certainly health care reform and climate change, a new poll shows what americans really care about right now is the economy. take a look at this. if the 2010 congressional elections were held today, 45% say the economy would be the most important issue in deciding</field>
+</doc>
+</add>

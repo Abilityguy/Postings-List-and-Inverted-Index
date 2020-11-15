@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100429_150000_Happening_Now#start/3759/end/3794</field>
+<field name="datetime">4/29/2010 16:02:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20100429_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100429_150000_Happening_Now/FOXNEWS_20100429_150000_Happening_Now.thumbs/FOXNEWS_20100429_150000_Happening_Now_000236.jpg</field>
+<field name="snippet">take up the issue right away. top senate democratic leader harry reid says he wants to tackle climate change legislation first and then get to immigration. jon? jon: both sides are still starting to put forward some ideas on this immigration</field>
+</doc>
+</add>

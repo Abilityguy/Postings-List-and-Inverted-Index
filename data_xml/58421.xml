@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181124_180000_BBC_News#start/51/end/86</field>
+<field name="datetime">11/24/2018 18:01:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181124_180000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181124_180000_BBC_News/BBCNEWS_20181124_180000_BBC_News.thumbs/BBCNEWS_20181124_180000_BBC_News_000057.jpg</field>
+<field name="snippet">meeting with jean-claude juncker and is now with donald tusk in a meeting. i'm lukwesa burak in london, the other news this evening: french police use water cannon and tear gas against demonstrators in paris who are demanding a cut in fuel prices. a us government report warns that unchecked climate change will cost</field>
+</doc>
+</add>

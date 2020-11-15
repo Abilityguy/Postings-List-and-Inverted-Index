@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201111.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111108_080000_Red_Eye#start/2843/end/2878</field>
+<field name="datetime">11/8/2011 8:47:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWSW_20111108_080000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111108_080000_Red_Eye/FOXNEWSW_20111108_080000_Red_Eye.thumbs/FOXNEWSW_20111108_080000_Red_Eye_002816.jpg</field>
+<field name="snippet">i learned something. i didn't know it had to be kept at 40 below so i blame global warming. you do dippin dots, but that is not ice cream.</field>
+</doc>
+</add>

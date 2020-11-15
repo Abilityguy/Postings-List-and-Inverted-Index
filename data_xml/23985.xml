@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201411.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141108_110000_FOX_and_Friends_Saturday#start/2817/end/2852</field>
+<field name="datetime">11/8/2014 11:47:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20141108_110000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141108_110000_FOX_and_Friends_Saturday/FOXNEWSW_20141108_110000_FOX_and_Friends_Saturday.thumbs/FOXNEWSW_20141108_110000_FOX_and_Friends_Saturday_002805.jpg</field>
+<field name="snippet">and whether it's immigration or climate change or making sure our kids are going to the best possible schools to making sure that our communities are creating jobs, whether it's stopping the spread of terror and disease, to opening up doors</field>
+</doc>
+</add>

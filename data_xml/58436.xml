@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181124_050000_BBC_News#start/319/end/354</field>
+<field name="datetime">11/24/2018 5:05:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181124_050000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181124_050000_BBC_News/BBCNEWS_20181124_050000_BBC_News.thumbs/BBCNEWS_20181124_050000_BBC_News_000297.jpg</field>
+<field name="snippet">even greater impact. the scientists say substantial and sustained reductions in global greenhouse gas emissions are essential, and they do report some progress. but president trump has taken a sharply different approach to his predecessor, barack obama, championing coal, oil and gas and rolling back environmental regulations. without major, urgent action, says the report, the impacts of climate change will soon cascade</field>
+</doc>
+</add>

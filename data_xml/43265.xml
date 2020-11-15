@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090924_150000_Happening_Now#start/532/end/567</field>
+<field name="datetime">9/24/2009 15:09:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20090924_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090924_150000_Happening_Now/FOXNEWS_20090924_150000_Happening_Now.thumbs/FOXNEWS_20090924_150000_Happening_Now_000506.jpg</field>
+<field name="snippet">congress for debate and for voting. those interests include economic and job creation bills, education and transportation funding, financial regulations, for climate change legislation, and a host of others.</field>
+</doc>
+</add>

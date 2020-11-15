@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190820_120000_BBC_News_at_One#start/67/end/102</field>
+<field name="datetime">8/20/2019 12:01:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190820_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190820_120000_BBC_News_at_One/BBCNEWS_20190820_120000_BBC_News_at_One.thumbs/BBCNEWS_20190820_120000_BBC_News_at_One_000058.jpg</field>
+<field name="snippet">and is this dramatic new evidence of climate change? two kayakers get the shock of their lives. we survived, but that was insane. and coming up on bbc</field>
+</doc>
+</add>

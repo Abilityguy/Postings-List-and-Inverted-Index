@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191201_234500_The_Film_Review#start/969/end/1004</field>
+<field name="datetime">12/2/2019 0:01:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Film Review</field>
+<field name="showid">BBCNEWS_20191201_234500_The_Film_Review</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191201_234500_The_Film_Review/BBCNEWS_20191201_234500_The_Film_Review.thumbs/BBCNEWS_20191201_234500_The_Film_Review_000868.jpg</field>
+<field name="snippet">some rain by the end of the week. welcome to newsday on the bbc. i'm mariko oi in singapore. the headlines: as world leaders gather for the climate change summit, the un boss says governments must end their subsidies forfossilfuels.</field>
+</doc>
+</add>

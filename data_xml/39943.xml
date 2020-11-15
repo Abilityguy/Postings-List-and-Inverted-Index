@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091117_110000_FOX_and_Friends#start/573/end/608</field>
+<field name="datetime">11/17/2009 11:09:48</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091117_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091117_110000_FOX_and_Friends/FOXNEWS_20091117_110000_FOX_and_Friends.thumbs/FOXNEWS_20091117_110000_FOX_and_Friends_000532.jpg</field>
+<field name="snippet">including nuclear proliferation. they want to keep working together on climate change. they announced a new clean energy technology initiative. they want to keep the global economic recovery going. and keep improving global trade.</field>
+</doc>
+</add>

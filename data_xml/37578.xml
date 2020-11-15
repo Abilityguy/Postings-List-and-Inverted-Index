@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091012_100000_FOX_and_Friends#start/5247/end/5282</field>
+<field name="datetime">10/12/2009 11:27:42</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091012_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091012_100000_FOX_and_Friends/FOXNEWS_20091012_100000_FOX_and_Friends.thumbs/FOXNEWS_20091012_100000_FOX_and_Friends_005208.jpg</field>
+<field name="snippet">green jobs. evergreen job destroys two jobs. hundred thousand in government subsidies to create a green job. juliet: whether or not you believe in global warming or don't believe in global warming, of the thing that gets me as a</field>
+</doc>
+</add>

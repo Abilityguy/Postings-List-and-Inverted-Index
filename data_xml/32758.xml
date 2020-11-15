@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_160000_Happening_Now#start/5789/end/5824</field>
+<field name="datetime">12/18/2009 17:36:44</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091218_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_160000_Happening_Now/FOXNEWS_20091218_160000_Happening_Now.thumbs/FOXNEWS_20091218_160000_Happening_Now_005790.jpg</field>
+<field name="snippet">economic slowdown underway in this country. the proposal is out there for the united states to spend -- to take $100 billion of our tax dollars and give it to other nations so that they can, what, clean up their act when it comes to greenhouse gas?</field>
+</doc>
+</add>

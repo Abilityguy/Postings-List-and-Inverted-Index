@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201212.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121224_200000_Stossel#start/3282/end/3317</field>
+<field name="datetime">12/24/2012 20:54:57</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Stossel</field>
+<field name="showid">FOXNEWSW_20121224_200000_Stossel</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121224_200000_Stossel/FOXNEWSW_20121224_200000_Stossel.thumbs/FOXNEWSW_20121224_200000_Stossel_003075.jpg</field>
+<field name="snippet">world. the media does lots of complaining. unemployment is high. so is the debt. iran is working on bombs. global warming could kill us. libertarians are skeptical about that but the debt is rising.</field>
+</doc>
+</add>

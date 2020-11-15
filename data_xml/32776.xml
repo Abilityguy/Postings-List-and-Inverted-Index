@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091220_050000_Red_Eye#start/2505/end/2540</field>
+<field name="datetime">12/20/2009 5:42:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20091220_050000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091220_050000_Red_Eye/FOXNEWS_20091220_050000_Red_Eye.thumbs/FOXNEWS_20091220_050000_Red_Eye_002484.jpg</field>
+<field name="snippet">greg: i think i remember it being your idea. your memory is defective. greg: i want to talk to you. you sent me a care package a couple of weeks guy that featured two excellent books on global warming.</field>
+</doc>
+</add>

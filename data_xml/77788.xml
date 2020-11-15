@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191115_020000_BBC_News#start/494/end/529</field>
+<field name="datetime">11/15/2019 2:08:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191115_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191115_020000_BBC_News/BBCNEWS_20191115_020000_BBC_News.thumbs/BBCNEWS_20191115_020000_BBC_News_000480.jpg</field>
+<field name="snippet">vulnerable to the effects of climate change, a planned flood defence scheme delayed for years by corruption, scandal and overspend. little comfort for those watching as the tides rise, fall, and rise again. jenny hill, bbc news, venice.</field>
+</doc>
+</add>

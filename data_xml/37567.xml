@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091023_100000_FOX_and_Friends#start/5491/end/5526</field>
+<field name="datetime">10/23/2009 11:31:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091023_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091023_100000_FOX_and_Friends/FOXNEWS_20091023_100000_FOX_and_Friends.thumbs/FOXNEWS_20091023_100000_FOX_and_Friends_005447.jpg</field>
+<field name="snippet">talking about global warming? brian: it's required viewing in some schools. steve: back in 2006 pew research warned people about global warming 77% of you believed in global warming. three years later it's down 20%. now only 57% of you think there</field>
+</doc>
+</add>

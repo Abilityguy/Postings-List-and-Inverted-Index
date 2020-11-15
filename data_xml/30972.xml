@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140203_000000_FOX_Report#start/991/end/1026</field>
+<field name="datetime">2/3/2014 0:16:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report</field>
+<field name="showid">FOXNEWSW_20140203_000000_FOX_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140203_000000_FOX_Report/FOXNEWSW_20140203_000000_FOX_Report.thumbs/FOXNEWSW_20140203_000000_FOX_Report_000975.jpg</field>
+<field name="snippet">give the xl an okay, but the white house chief of staff said it's not at all clear the president will act. his view is if this is to go forward, it should not significantly exacerbate the climate change in the country.</field>
+</doc>
+</add>

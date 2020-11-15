@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200103_100000_BBC_Newsroom_Live#start/3395/end/3430</field>
+<field name="datetime">1/3/2020 10:56:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20200103_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200103_100000_BBC_Newsroom_Live/BBCNEWS_20200103_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20200103_100000_BBC_Newsroom_Live_003387.jpg</field>
+<field name="snippet">and we will still experience high temperature extremes, but climate change is pushing the balance. so we are seeing fewer low temperature extremes. what is going to be done with this</field>
+</doc>
+</add>

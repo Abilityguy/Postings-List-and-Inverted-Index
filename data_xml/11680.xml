@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190801_080000_BBC_News_at_Nine#start/1969/end/2004</field>
+<field name="datetime">8/1/2019 8:33:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190801_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190801_080000_BBC_News_at_Nine/BBCNEWS_20190801_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190801_080000_BBC_News_at_Nine_001947.jpg</field>
+<field name="snippet">to tackle it obviously first by making sure we are resilient to the effects of climate change and we can come back more quickly, communities can come back more quickly than they are hit by flooding. we need to invest in more</field>
+</doc>
+</add>

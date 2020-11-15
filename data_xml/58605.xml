@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181101_110000_BBC_Newsroom_Live#start/5104/end/5139</field>
+<field name="datetime">11/1/2018 12:25:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20181101_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181101_110000_BBC_Newsroom_Live/BBCNEWS_20181101_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20181101_110000_BBC_Newsroom_Live_005097.jpg</field>
+<field name="snippet">absorbed 60% more heat than previously thought, which means it could be harder to keep global warming within safe levels this century. our environment correspondent, matt mcgrath, explained. well, rachel, scientists</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151201_230000_MSNBC_Live#start/2181/end/2216</field>
+<field name="datetime">12/1/2015 23:36:36</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20151201_230000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151201_230000_MSNBC_Live/MSNBCW_20151201_230000_MSNBC_Live.thumbs/MSNBCW_20151201_230000_MSNBC_Live_002176.jpg</field>
+<field name="snippet">we should point out, you and the governor have a bit of a history of butting heads, back to superstorm sandy. you recently joined this advisory board for the epa. since joining that board, how has your impression of climate change and what you've learned,</field>
+</doc>
+</add>

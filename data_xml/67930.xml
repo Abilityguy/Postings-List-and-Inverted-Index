@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190208_060000_Breakfast#start/2169/end/2204</field>
+<field name="datetime">2/8/2019 6:36:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190208_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190208_060000_Breakfast/BBCNEWS_20190208_060000_Breakfast.thumbs/BBCNEWS_20190208_060000_Breakfast_002159.jpg</field>
+<field name="snippet">tackle climate change. those are the main stories. right now we have mike. we are starting with equine flu and how horseracing</field>
+</doc>
+</add>

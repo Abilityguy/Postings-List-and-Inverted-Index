@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191012_050000_Breakfast#start/1987/end/2022</field>
+<field name="datetime">10/12/2019 5:33:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191012_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191012_050000_Breakfast/BBCNEWS_20191012_050000_Breakfast.thumbs/BBCNEWS_20191012_050000_Breakfast_001978.jpg</field>
+<field name="snippet">which is held weekly by activists addressing the impact of climate change. those are the main stories. john is here with sport. england have been doing a good job up until</field>
+</doc>
+</add>

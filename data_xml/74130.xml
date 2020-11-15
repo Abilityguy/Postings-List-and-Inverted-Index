@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_050000_The_Briefing#start/44/end/79</field>
+<field name="datetime">1/17/2020 5:00:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20200117_050000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_050000_The_Briefing/BBCNEWS_20200117_050000_The_Briefing.thumbs/BBCNEWS_20200117_050000_The_Briefing_000027.jpg</field>
+<field name="snippet">as migrants are forced to survive the serbian winter. we have a special report. coming up in the business briefing: big data and the climate crisis. how our tech addiction is fuelling global warming,</field>
+</doc>
+</add>

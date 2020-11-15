@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201110.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20111028_230000_Hardball_With_Chris_Matthews#start/221/end/256</field>
+<field name="datetime">10/28/2011 23:03:56</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball With Chris Matthews</field>
+<field name="showid">MSNBCW_20111028_230000_Hardball_With_Chris_Matthews</field>
+<field name="preview">https://archive.org/download/MSNBCW_20111028_230000_Hardball_With_Chris_Matthews/MSNBCW_20111028_230000_Hardball_With_Chris_Matthews.thumbs/MSNBCW_20111028_230000_Hardball_With_Chris_Matthews_000207.jpg</field>
+<field name="snippet">there he is with his shirt on, saying there's climate change, manmade contributing to it, which is a reasonable scientific fact. and then he's just flipping completely, as if he had never given it any thought.</field>
+</doc>
+</add>

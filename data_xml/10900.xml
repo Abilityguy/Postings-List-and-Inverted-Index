@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190802_050000_Breakfast#start/609/end/644</field>
+<field name="datetime">8/2/2019 5:10:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190802_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190802_050000_Breakfast/BBCNEWS_20190802_050000_Breakfast.thumbs/BBCNEWS_20190802_050000_Breakfast_000598.jpg</field>
+<field name="snippet">individual heatwaves can't be pinned to human-created global warming, but the increase in extremes of weather we are beginning to see is in line with the predictions made by climate change experts, and they say that they are likely to get worse and more frequent. pallab ghosh, bbc news. for the first time, women in saudi arabia will be allowed</field>
+</doc>
+</add>

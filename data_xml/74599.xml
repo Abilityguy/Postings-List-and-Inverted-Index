@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200103_060000_Breakfast#start/323/end/358</field>
+<field name="datetime">1/3/2020 6:05:38</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20200103_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200103_060000_Breakfast/BBCNEWS_20200103_060000_Breakfast.thumbs/BBCNEWS_20200103_060000_Breakfast_000298.jpg</field>
+<field name="snippet">temperatures could be linked to climate change. a top iranian general has been killed in an american airstrike, directly ordered by president trump. general qasem soleimani was the head</field>
+</doc>
+</add>

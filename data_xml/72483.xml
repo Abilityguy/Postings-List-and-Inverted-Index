@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201610.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161009_200000_MSNBC_Live#start/2294/end/2329</field>
+<field name="datetime">10/9/2016 20:38:29</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20161009_200000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161009_200000_MSNBC_Live/MSNBCW_20161009_200000_MSNBC_Live.thumbs/MSNBCW_20161009_200000_MSNBC_Live_002277.jpg</field>
+<field name="snippet">citizens have real questions about real issues and if you flip into attacks on bill clinton when somebody wants to know about jobs and climate change, the economy, it doesn't work very well. we thought that was going to work maybe against clinton because she always wants the</field>
+</doc>
+</add>

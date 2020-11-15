@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091108_080000_FOX_Report#start/1383/end/1418</field>
+<field name="datetime">11/8/2009 8:23:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report</field>
+<field name="showid">FOXNEWS_20091108_080000_FOX_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091108_080000_FOX_Report/FOXNEWS_20091108_080000_FOX_Report.thumbs/FOXNEWS_20091108_080000_FOX_Report_001380.jpg</field>
+<field name="snippet">jobs. not all the stuff in washington about healthcare and climate change. they're a growing feel that democrats are more interested in growing government than growing job. you saw the unemployment</field>
+</doc>
+</add>

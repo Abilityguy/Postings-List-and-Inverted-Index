@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20200106_110000_FOX_and_Friends#start/7844/end/7879</field>
+<field name="datetime">1/6/2020 13:10:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20200106_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20200106_110000_FOX_and_Friends/FOXNEWSW_20200106_110000_FOX_and_Friends.thumbs/FOXNEWSW_20200106_110000_FOX_and_Friends_007828.jpg</field>
+<field name="snippet">get beg and leader for everyone we know to vote in 2020. we must all come together as one for the sake of something greater. make no mistake, the tragedy unfolding in australia is climate change-based. we need to act based on science.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091206_150000_Americas_News_HQ#start/5651/end/5686</field>
+<field name="datetime">12/6/2009 16:34:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWS_20091206_150000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091206_150000_Americas_News_HQ/FOXNEWS_20091206_150000_Americas_News_HQ.thumbs/FOXNEWS_20091206_150000_Americas_News_HQ_005627.jpg</field>
+<field name="snippet">moves forward and we'll follow developments here at fox on monday. thank you very much. the leaders from around the world gather in copen hague on the reach a new global deal on climate</field>
+</doc>
+</add>

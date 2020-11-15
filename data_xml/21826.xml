@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180807_000000_Newsday#start/28/end/63</field>
+<field name="datetime">8/7/2018 0:00:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20180807_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180807_000000_Newsday/BBCNEWS_20180807_000000_Newsday.thumbs/BBCNEWS_20180807_000000_Newsday_000027.jpg</field>
+<field name="snippet">from extremely dangerous levels of climate change. and australia's drought caught on camera. we hearfrom the photographer who captured the dramatic impact of the severe weather. good morning.</field>
+</doc>
+</add>

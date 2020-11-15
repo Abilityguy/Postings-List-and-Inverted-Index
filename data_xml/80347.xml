@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190512_220000_FOX_Report_With_Jon_Scott#start/1264/end/1299</field>
+<field name="datetime">5/12/2019 22:21:19</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report With Jon Scott</field>
+<field name="showid">FOXNEWSW_20190512_220000_FOX_Report_With_Jon_Scott</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190512_220000_FOX_Report_With_Jon_Scott/FOXNEWSW_20190512_220000_FOX_Report_With_Jon_Scott.thumbs/FOXNEWSW_20190512_220000_FOX_Report_With_Jon_Scott_001258.jpg</field>
+<field name="snippet">reporter: california senator camilla harris saying she believes trump's trade policy as a whole doesn't protect american workers and industries. the senator also said she would not have voted for nafta and added that climate change needs to be addressed in trade deals. at a town hall in new hampshire</field>
+</doc>
+</add>

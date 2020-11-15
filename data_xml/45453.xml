@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201909.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190919_150000_MSNBC_Live_With_Craig_Melvin#start/3451/end/3486</field>
+<field name="datetime">9/19/2019 15:57:46</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Craig Melvin</field>
+<field name="showid">MSNBCW_20190919_150000_MSNBC_Live_With_Craig_Melvin</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190919_150000_MSNBC_Live_With_Craig_Melvin/MSNBCW_20190919_150000_MSNBC_Live_With_Craig_Melvin.thumbs/MSNBCW_20190919_150000_MSNBC_Live_With_Craig_Melvin_003448.jpg</field>
+<field name="snippet">the kaiser foundation put out a poll this week, teenagers weighed in on what they thought about climate change. the poll found a majority felt afraid and angry but also motivated. why are we seeing such a</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201701.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170112_110000_Morning_Joe#start/6200/end/6235</field>
+<field name="datetime">1/12/2017 12:43:35</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20170112_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170112_110000_Morning_Joe/MSNBCW_20170112_110000_Morning_Joe.thumbs/MSNBCW_20170112_110000_Morning_Joe_006177.jpg</field>
+<field name="snippet">there can be no compromise there and there can be no compromise, in my view, on protecting american democracy, working against voter suppression that many republican governors are trying to bring about, and, in my view, there can't be any compromise on climate change,</field>
+</doc>
+</add>

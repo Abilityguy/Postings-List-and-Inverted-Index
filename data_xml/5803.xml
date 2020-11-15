@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190922_224500_The_Film_Review#start/23/end/58</field>
+<field name="datetime">9/22/2019 22:45:38</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Film Review</field>
+<field name="showid">BBCNEWS_20190922_224500_The_Film_Review</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190922_224500_The_Film_Review/BBCNEWS_20190922_224500_The_Film_Review.thumbs/BBCNEWS_20190922_224500_The_Film_Review_000869.jpg</field>
+<field name="snippet">getting electricity from these things is now cheaper per unit than generating it from coal. but at the un, scientists say greenhouse gas levels in the atmosphere have reached new records. i'm kasia madera in london.</field>
+</doc>
+</add>

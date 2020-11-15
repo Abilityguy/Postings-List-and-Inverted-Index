@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151211_220000_MTP_Daily#start/1103/end/1138</field>
+<field name="datetime">12/11/2015 22:18:38</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20151211_220000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151211_220000_MTP_Daily/MSNBCW_20151211_220000_MTP_Daily.thumbs/MSNBCW_20151211_220000_MTP_Daily_001095.jpg</field>
+<field name="snippet">global consensus on long-term climate change strategy. basically it isn't a treaty. a major sticking point is how different countries would share funding. a trillion dollar transition to clean energy around the world.</field>
+</doc>
+</add>

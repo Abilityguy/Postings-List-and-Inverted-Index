@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201611.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161120_070000_Fox_Report_Saturday#start/1451/end/1486</field>
+<field name="datetime">11/20/2016 7:24:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox Report Saturday</field>
+<field name="showid">FOXNEWSW_20161120_070000_Fox_Report_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161120_070000_Fox_Report_Saturday/FOXNEWSW_20161120_070000_Fox_Report_Saturday.thumbs/FOXNEWSW_20161120_070000_Fox_Report_Saturday_001437.jpg</field>
+<field name="snippet">because it would undercut climate change. it is almost done and serves existing domestic production and moves it cleaner.</field>
+</doc>
+</add>

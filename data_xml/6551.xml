@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190926_160000_BBC_News_at_Five#start/3325/end/3360</field>
+<field name="datetime">9/26/2019 16:55:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190926_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190926_160000_BBC_News_at_Five/BBCNEWS_20190926_160000_BBC_News_at_Five.thumbs/BBCNEWS_20190926_160000_BBC_News_at_Five_003297.jpg</field>
+<field name="snippet">those remarks by harry on climate change were as unambiguous as any you're likely to hear on the subject from any member of the royal family, his father included. harry took to the water on the river chobe, close to the border with zambia</field>
+</doc>
+</add>

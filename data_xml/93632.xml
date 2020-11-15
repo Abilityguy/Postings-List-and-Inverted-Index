@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190720_070000_Breakfast#start/514/end/549</field>
+<field name="datetime">7/20/2019 7:08:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190720_070000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190720_070000_Breakfast/BBCNEWS_20190720_070000_Breakfast.thumbs/BBCNEWS_20190720_070000_Breakfast_000507.jpg</field>
+<field name="snippet">frequent heat waves. this, experts say, is down to climate change. this latest heatwave is likely to last the whole weekend, but there will be some quick relief as temperatures are set to fall rapidly early next week.</field>
+</doc>
+</add>

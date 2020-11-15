@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100204_160000_Happening_Now#start/2043/end/2078</field>
+<field name="datetime">2/4/2010 16:34:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20100204_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100204_160000_Happening_Now/FOXNEWS_20100204_160000_Happening_Now.thumbs/FOXNEWS_20100204_160000_Happening_Now_002040.jpg</field>
+<field name="snippet">sciences mission, a focus of things like climate change, again, details very thin right now. it's not a new mission for nasa, but one that has a lot of support in the obama administration. still, with all of this transition, all of this change, some long-time</field>
+</doc>
+</add>

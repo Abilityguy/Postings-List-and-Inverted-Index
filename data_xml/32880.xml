@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091217_220000_Glenn_Beck#start/970/end/1005</field>
+<field name="datetime">12/17/2009 22:16:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20091217_220000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091217_220000_Glenn_Beck/FOXNEWS_20091217_220000_Glenn_Beck.thumbs/FOXNEWS_20091217_220000_Glenn_Beck_000952.jpg</field>
+<field name="snippet">the white house now is considering working out a deal in copenhagen. it's not in this framework. newt gingrich pointed out yesterday, president obama, he is going to try to bind the american people to a job killing international agreement on climate change without advice</field>
+</doc>
+</add>

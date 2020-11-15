@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190402_000000_Tucker_Carlson_Tonight#start/115/end/150</field>
+<field name="datetime">4/2/2019 0:02:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190402_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190402_000000_Tucker_Carlson_Tonight/FOXNEWSW_20190402_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190402_000000_Tucker_Carlson_Tonight_000089.jpg</field>
+<field name="snippet">dr. ocasio-cortez says, the entire human race has only 12 years to live. what we have to do to avoid the most catastrophic effects of the climate change is to cut emissions in half in 12 years. 12 years.</field>
+</doc>
+</add>

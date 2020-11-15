@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201601.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160111_230000_Special_Report_With_Bret_Baier#start/2004/end/2039</field>
+<field name="datetime">1/11/2016 23:33:39</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20160111_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160111_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20160111_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20160111_230000_Special_Report_With_Bret_Baier_001995.jpg</field>
+<field name="snippet">new jobs second best for job creation since 1999. also on the president's checklist, renewed relation with cuba and iran nuclear deal and initiatives on climate change. the bigger things will make</field>
+</doc>
+</add>

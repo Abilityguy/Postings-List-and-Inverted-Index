@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190523_080000_BBC_News_at_Nine#start/590/end/625</field>
+<field name="datetime">5/23/2019 8:10:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190523_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190523_080000_BBC_News_at_Nine/BBCNEWS_20190523_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190523_080000_BBC_News_at_Nine_000567.jpg</field>
+<field name="snippet">the hundred wealthiest families and charitable institutions in britain have been sent a letter by a group of leading scientists, asking for help in tackling climate change. the letter highlights the danger of deforestation, carbon emissions and species extinction, and asks for a significant investment to prevent what it calls an 'ecological catastrophe'.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200103_060000_Breakfast#start/4004/end/4039</field>
+<field name="datetime">1/3/2020 7:06:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20200103_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200103_060000_Breakfast/BBCNEWS_20200103_060000_Breakfast.thumbs/BBCNEWS_20200103_060000_Breakfast_003988.jpg</field>
+<field name="snippet">in the last year alone, temperatures hit new highs for the months of february, july, and provisionally december, since the organisation began keeping records in 1910. the met office say rising temperatures could be linked to climate change.</field>
+</doc>
+</add>

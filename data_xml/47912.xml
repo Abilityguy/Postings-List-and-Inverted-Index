@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201511.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151106_220000_MTP_Daily#start/1540/end/1575</field>
+<field name="datetime">11/6/2015 22:25:55</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20151106_220000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151106_220000_MTP_Daily/MSNBCW_20151106_220000_MTP_Daily.thumbs/MSNBCW_20151106_220000_MTP_Daily_001516.jpg</field>
+<field name="snippet">when you first hit the national stage and i remember having a conversation with you, you thought the president could do a lot more on climate change at the time. it's three years later, i think, since you and others were really pushing him to be more</field>
+</doc>
+</add>

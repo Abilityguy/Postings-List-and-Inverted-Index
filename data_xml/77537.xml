@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191125_060000_Breakfast#start/3181/end/3216</field>
+<field name="datetime">11/25/2019 6:53:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191125_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191125_060000_Breakfast/BBCNEWS_20191125_060000_Breakfast.thumbs/BBCNEWS_20191125_060000_Breakfast_003177.jpg</field>
+<field name="snippet">extreme weather events being caused by global warming, and does all of this have anything to do with how people are going to vote in the general election? this is one of the houses that was affected by the flooding here in fish lake and the</field>
+</doc>
+</add>

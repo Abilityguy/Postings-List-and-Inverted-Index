@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201301.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130129_090000_The_OReilly_Factor#start/2121/end/2156</field>
+<field name="datetime">1/29/2013 9:35:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20130129_090000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130129_090000_The_OReilly_Factor/FOXNEWSW_20130129_090000_The_OReilly_Factor.thumbs/FOXNEWSW_20130129_090000_The_OReilly_Factor_002115.jpg</field>
+<field name="snippet">a little bit. but, you know, what i believe in is clean air and clean water and a future for our kids. i don't believe that my ford f-250 is causing global warming. i might get a lot of flack for that but, you know, we can't</field>
+</doc>
+</add>

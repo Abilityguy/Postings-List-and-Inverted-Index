@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_190000_Beyond_100_Days#start/89/end/124</field>
+<field name="datetime">1/16/2020 19:01:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20200116_190000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_190000_Beyond_100_Days/BBCNEWS_20200116_190000_Beyond_100_Days.thumbs/BBCNEWS_20200116_190000_Beyond_100_Days_000089.jpg</field>
+<field name="snippet">on global warming. the moment of crisis has come. we can no longer prevaricate. as i speak, southeast australia is on fire.</field>
+</doc>
+</add>

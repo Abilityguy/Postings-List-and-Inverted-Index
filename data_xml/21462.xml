@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100107_050000_Hannity#start/1500/end/1535</field>
+<field name="datetime">1/7/2010 5:25:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20100107_050000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100107_050000_Hannity/FOXNEWS_20100107_050000_Hannity.thumbs/FOXNEWS_20100107_050000_Hannity_001285.jpg</field>
+<field name="snippet">and a report has recently surfaced it confirms al gore's theories on global warming. could it be true al gore was right? not so fast. thos. sean: the obamas are</field>
+</doc>
+</add>

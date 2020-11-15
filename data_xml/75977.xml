@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190511_143000_Click#start/1802/end/1837</field>
+<field name="datetime">5/11/2019 15:00:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Click</field>
+<field name="showid">BBCNEWS_20190511_143000_Click</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190511_143000_Click/BBCNEWS_20190511_143000_Click.thumbs/BBCNEWS_20190511_143000_Click_001679.jpg</field>
+<field name="snippet">degrees on tuesday and wednesday. becoming pretty warm for some. this is bbc news. i'm martine croxall. the headlines at 4: flying in the uk may have to be restricted because of climate change,</field>
+</doc>
+</add>

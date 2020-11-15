@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201510.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151020_160000_Andrea_Mitchell_Reports#start/908/end/943</field>
+<field name="datetime">10/20/2015 16:15:23</field>
+<field name="station">MSNBC</field>
+<field name="show">Andrea Mitchell Reports</field>
+<field name="showid">MSNBCW_20151020_160000_Andrea_Mitchell_Reports</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151020_160000_Andrea_Mitchell_Reports/MSNBCW_20151020_160000_Andrea_Mitchell_Reports.thumbs/MSNBCW_20151020_160000_Andrea_Mitchell_Reports_000885.jpg</field>
+<field name="snippet">joe, this is something he should consider. well, thank you very much, barbara boxer. we have to leave it there for now. great to see you. same here. coming up, what john kerry had to say today on climate</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201710.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171024_073000_BBC_Business_Live#start/967/end/1002</field>
+<field name="datetime">10/24/2017 7:46:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Business Live</field>
+<field name="showid">BBCNEWS_20171024_073000_BBC_Business_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171024_073000_BBC_Business_Live/BBCNEWS_20171024_073000_BBC_Business_Live.thumbs/BBCNEWS_20171024_073000_BBC_Business_Live_000958.jpg</field>
+<field name="snippet">our top story - there's tough talk on trade ahead of president trump's trip to beijing next week. last year, world leaders signed a landmark agreement to keep global warming below two degrees celsius.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201302.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130213_010000_State_of_the_Union_2013#start/5828/end/5863</field>
+<field name="datetime">2/13/2013 2:37:23</field>
+<field name="station">MSNBC</field>
+<field name="show">State of the Union 2013</field>
+<field name="showid">MSNBCW_20130213_010000_State_of_the_Union_2013</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130213_010000_State_of_the_Union_2013/MSNBCW_20130213_010000_State_of_the_Union_2013.thumbs/MSNBCW_20130213_010000_State_of_the_Union_2013_005805.jpg</field>
+<field name="snippet">now, the good news is we can make meaningful progress on this issue while driving strong economic growth. i urge this congress to get together, pursue a bipartisan market-based solution to climate change, like the one john mccain and joe lieberman worked on together a few years ago.</field>
+</doc>
+</add>

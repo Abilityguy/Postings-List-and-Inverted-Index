@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170118_230000_BBC_News#start/584/end/619</field>
+<field name="datetime">1/18/2017 23:09:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170118_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170118_230000_BBC_News/BBCNEWS_20170118_230000_BBC_News.thumbs/BBCNEWS_20170118_230000_BBC_News_000567.jpg</field>
+<field name="snippet">set by the paris climate agreement, a global deal that came into force last year. but with carbon dioxide at record levels, scientists say this is a temperature threshold we are on course to surpass. to tackle global warming,</field>
+</doc>
+</add>

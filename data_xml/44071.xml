@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180106_010000_Tucker_Carlson_Tonight#start/1309/end/1344</field>
+<field name="datetime">1/6/2018 1:22:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20180106_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180106_010000_Tucker_Carlson_Tonight/FOXNEWSW_20180106_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20180106_010000_Tucker_Carlson_Tonight_001288.jpg</field>
+<field name="snippet">i believe in science. okay. i think evidence should lead to conclusion, not the other way around. why wouldn't i be a little bit confused if people say that hot temperatures are sign of global warming. now they say cold temperatures</field>
+</doc>
+</add>

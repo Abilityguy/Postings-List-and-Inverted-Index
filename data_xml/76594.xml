@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190503_233000_Weather_World#start/1215/end/1250</field>
+<field name="datetime">5/3/2019 23:50:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20190503_233000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190503_233000_Weather_World/BBCNEWS_20190503_233000_Weather_World.thumbs/BBCNEWS_20190503_233000_Weather_World_001198.jpg</field>
+<field name="snippet">which are very vulnerable to climate change, they can't go any higher, there's nowhere to go. and when the seeds arrive, it starts here? yes, this crate has come from namibia, one of our partners in africa.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181218_220000_BBC_News_at_Ten#start/1581/end/1616</field>
+<field name="datetime">12/18/2018 22:26:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20181218_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181218_220000_BBC_News_at_Ten/BBCNEWS_20181218_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20181218_220000_BBC_News_at_Ten_001558.jpg</field>
+<field name="snippet">the right thing as much as you can would be really helpful. the government wants every council in england to collect waste in exactly the same way, to eliminate our confusion. there are also plans for every householder to be given food caddies to minimise the release of greenhouse gases.</field>
+</doc>
+</add>

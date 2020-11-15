@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190502_210000_BBC_News_at_Ten#start/583/end/618</field>
+<field name="datetime">5/2/2019 21:09:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20190502_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190502_210000_BBC_News_at_Ten/BBCNEWS_20190502_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20190502_210000_BBC_News_at_Ten_000569.jpg</field>
+<field name="snippet">it's a staggering 88 metres long. new designs like this mean it is plausible that by 2050 britain will not add any more to global warming, but the key question is what the government will do and whether it will agree to push for a zero-carbon future.</field>
+</doc>
+</add>

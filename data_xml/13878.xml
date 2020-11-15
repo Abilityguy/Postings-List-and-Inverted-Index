@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201501.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150123_180000_Happening_Now#start/1968/end/2003</field>
+<field name="datetime">1/23/2015 18:33:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20150123_180000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150123_180000_Happening_Now/FOXNEWSW_20150123_180000_Happening_Now.thumbs/FOXNEWSW_20150123_180000_Happening_Now_001965.jpg</field>
+<field name="snippet">climate change is real and not a hoax. the senate majority leader is keeping a promise. we opened it up for amendments from both sides. our colleagues both republicans and democrats are able to vote</field>
+</doc>
+</add>

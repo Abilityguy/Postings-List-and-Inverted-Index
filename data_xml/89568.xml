@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190628_000000_Newsday#start/1321/end/1356</field>
+<field name="datetime">6/28/2019 0:22:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190628_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190628_000000_Newsday/BBCNEWS_20190628_000000_Newsday.thumbs/BBCNEWS_20190628_000000_Newsday_001318.jpg</field>
+<field name="snippet">are constantly spreading, partly due to human activity. the cutting down of forests, pushing too much livestock over fragile land, climate change and overuse of water are making the problem worse, with sandstorms engulfing beijing and even travelling across the water to south korea. now, people living acros northern china are trying to hold back the desert - and it seems to be working.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091024_080000_Special_Report_With_Bret_Baier#start/1162/end/1197</field>
+<field name="datetime">10/24/2009 8:19:37</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091024_080000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091024_080000_Special_Report_With_Bret_Baier/FOXNEWS_20091024_080000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091024_080000_Special_Report_With_Bret_Baier_001134.jpg</field>
+<field name="snippet">the overwhelming scientific evidence when it comes to climate change. claims whose only purpose is to defeat or delay the change that we know is necessary. but climate change legislation has stalled in the senate, and there are no signs of it passing this year.</field>
+</doc>
+</add>

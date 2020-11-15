@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201211.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121105_110000_FOX_and_Friends#start/4208/end/4243</field>
+<field name="datetime">11/5/2012 12:10:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20121105_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121105_110000_FOX_and_Friends/FOXNEWSW_20121105_110000_FOX_and_Friends.thumbs/FOXNEWSW_20121105_110000_FOX_and_Friends_004198.jpg</field>
+<field name="snippet">light because you hear so much about global warming. tonight is very, very cold. today is very, very cold. and we're really going through an unbelievable cold spell right now, which is going to be horrible for those people. they have to get taken care of</field>
+</doc>
+</add>

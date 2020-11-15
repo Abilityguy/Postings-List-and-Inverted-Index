@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100107_210000_Your_World_With_Neil_Cavuto#start/999/end/1034</field>
+<field name="datetime">1/7/2010 21:16:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWS_20100107_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100107_210000_Your_World_With_Neil_Cavuto/FOXNEWS_20100107_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWS_20100107_210000_Your_World_With_Neil_Cavuto_000985.jpg</field>
+<field name="snippet">update. fairbanks, alaska, this massive ice sculpture of the former vice president, trying to get the former vice president to come to alaska to debate global warming.</field>
+</doc>
+</add>

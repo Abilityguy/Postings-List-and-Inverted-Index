@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190519_030000_BBC_News#start/355/end/390</field>
+<field name="datetime">5/19/2019 3:06:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190519_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190519_030000_BBC_News/BBCNEWS_20190519_030000_BBC_News.thumbs/BBCNEWS_20190519_030000_BBC_News_000328.jpg</field>
+<field name="snippet">climate change was meant to be the defining issue in the selection, especially as we have seen those extreme weather patterns in australia. and yet, arguably the party with the least focus on climate change policy has one. it's ha rd to climate change policy has one. it's</field>
+</doc>
+</add>

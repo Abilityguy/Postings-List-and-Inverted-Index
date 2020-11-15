@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100131_170000_Americas_News_HQ#start/560/end/595</field>
+<field name="datetime">1/31/2010 17:09:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWS_20100131_170000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100131_170000_Americas_News_HQ/FOXNEWS_20100131_170000_Americas_News_HQ.thumbs/FOXNEWS_20100131_170000_Americas_News_HQ_000533.jpg</field>
+<field name="snippet">about, those are the things the president opposed. i want to change gears. the sec indicated it's going to require companies in public filings to talk about the impact of climate change on their</field>
+</doc>
+</add>

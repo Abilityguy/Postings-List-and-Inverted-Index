@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100228_120000_FOX_and_Friends_Sunday#start/2007/end/2042</field>
+<field name="datetime">2/28/2010 12:33:42</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWS_20100228_120000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100228_120000_FOX_and_Friends_Sunday/FOXNEWS_20100228_120000_FOX_and_Friends_Sunday.thumbs/FOXNEWS_20100228_120000_FOX_and_Friends_Sunday_001980.jpg</field>
+<field name="snippet">it's seven hours. something that will change your life. a noble science team studying global warming, the intergovernmental review of</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190422_230000_Newsday#start/55/end/90</field>
+<field name="datetime">4/22/2019 23:01:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190422_230000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190422_230000_Newsday/BBCNEWS_20190422_230000_Newsday.thumbs/BBCNEWS_20190422_230000_Newsday_000028.jpg</field>
+<field name="snippet">hello. i'm ben bland in london. also in the programme: the us threatens sanctions on any country importing oilfrom iran after the first of may. tehran calls the move illegal. under the shadow of the skeleton of a blue whale, climate change activists take their protest inside london's natural history museum.</field>
+</doc>
+</add>

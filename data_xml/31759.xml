@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201210.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121031_100000_FOX_and_Friends#start/9283/end/9318</field>
+<field name="datetime">10/31/2012 12:34:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20121031_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121031_100000_FOX_and_Friends/FOXNEWSW_20121031_100000_FOX_and_Friends.thumbs/FOXNEWSW_20121031_100000_FOX_and_Friends_009267.jpg</field>
+<field name="snippet">come. mr. gore went on to say, pollution is helping create storms that are getting even more energetic and powerful. meanwhile, democratic new york governor andrew cuomo whose state was slammed by sandy also blames climate change for the big sandy storm.</field>
+</doc>
+</add>

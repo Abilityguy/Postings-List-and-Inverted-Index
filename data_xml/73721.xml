@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201002.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100208_150000_MSNBC_News_Live#start/3413/end/3448</field>
+<field name="datetime">2/8/2010 15:57:08</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100208_150000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100208_150000_MSNBC_News_Live/MSNBC_20100208_150000_MSNBC_News_Live.thumbs/MSNBC_20100208_150000_MSNBC_News_Live_003386.jpg</field>
+<field name="snippet">on the networks and stations of nbc. that does it for me. i'm david shuster. i will see you back here at 3:00 p.m. eastern time. is all the snow here in d.c. and other warmer climates a sign that global warming is just a myth? that's what global warming denyiers claim.</field>
+</doc>
+</add>

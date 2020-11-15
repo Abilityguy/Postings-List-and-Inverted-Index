@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201906.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190611_150000_MSNBC_Live_With_Craig_Melvin#start/171/end/206</field>
+<field name="datetime">6/11/2019 15:03:06</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Craig Melvin</field>
+<field name="showid">MSNBCW_20190611_150000_MSNBC_Live_With_Craig_Melvin</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190611_150000_MSNBC_Live_With_Craig_Melvin/MSNBCW_20190611_150000_MSNBC_Live_With_Craig_Melvin.thumbs/MSNBCW_20190611_150000_MSNBC_Live_With_Craig_Melvin_000149.jpg</field>
+<field name="snippet">an afghan war vet. the fact he's one of the only candidates in the race to have served in wartime. he'll talk about climate change, which he says is a national security issue. also, about winding down those</field>
+</doc>
+</add>

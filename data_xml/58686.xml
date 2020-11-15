@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181122_230000_BBC_News#start/1474/end/1509</field>
+<field name="datetime">11/22/2018 23:24:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181122_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181122_230000_BBC_News/BBCNEWS_20181122_230000_BBC_News.thumbs/BBCNEWS_20181122_230000_BBC_News_001467.jpg</field>
+<field name="snippet">now it's pushing them from africa to asia, which could undermine the fight against global warming. you cannot be a world leader in curbing air pollution and, at the same time, the world's biggest financier of overseas coal power plants.</field>
+</doc>
+</add>

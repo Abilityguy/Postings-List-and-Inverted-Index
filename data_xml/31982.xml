@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201012.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101229_000000_FOX_Report#start/1345/end/1380</field>
+<field name="datetime">12/29/2010 0:22:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report</field>
+<field name="showid">FOXNEWS_20101229_000000_FOX_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101229_000000_FOX_Report/FOXNEWS_20101229_000000_FOX_Report.thumbs/FOXNEWS_20101229_000000_FOX_Report_001320.jpg</field>
+<field name="snippet">one is west virginia senator jay rockefeller who worries about the economic impact of the new regulations. starting january 2nd, the environmental protection agency will start cracking down on greenhouse gas emissions. that means industrial facilities like power plants and refineries</field>
+</doc>
+</add>

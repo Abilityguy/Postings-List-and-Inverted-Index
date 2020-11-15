@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171106_050000_The_Briefing#start/1130/end/1165</field>
+<field name="datetime">11/6/2017 5:19:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20171106_050000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171106_050000_The_Briefing/BBCNEWS_20171106_050000_The_Briefing.thumbs/BBCNEWS_20171106_050000_The_Briefing_001108.jpg</field>
+<field name="snippet">germany. we have a correspondent now in fiji, where the locals deal with the effects of climate change every day. 68 villages here in fiji have been identified as at risk from the effects of climate change --  _</field>
+</doc>
+</add>

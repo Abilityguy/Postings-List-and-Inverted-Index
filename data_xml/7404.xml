@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20171230_110000_Fox_and_Friends_Saturday#start/1904/end/1939</field>
+<field name="datetime">12/30/2017 11:31:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20171230_110000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20171230_110000_Fox_and_Friends_Saturday/FOXNEWSW_20171230_110000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20171230_110000_Fox_and_Friends_Saturday_001887.jpg</field>
+<field name="snippet">below. pete: thanks global warming. peter: even lake erie feeling the effects. rock solid with ice. pete: our own rick reichmuth is on top of all of it. rick: 13% of the lake is</field>
+</doc>
+</add>

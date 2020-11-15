@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100423_070000_Red_Eye#start/432/end/467</field>
+<field name="datetime">4/23/2010 7:07:27</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20100423_070000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100423_070000_Red_Eye/FOXNEWS_20100423_070000_Red_Eye.thumbs/FOXNEWS_20100423_070000_Red_Eye_000416.jpg</field>
+<field name="snippet">whatever your views on europe and the european union which we simply can't do on our own, we can't deal with international crime which touches and affects every single community in this country on our own. we can't deal with climate change on our own. the weather doesn't stop at</field>
+</doc>
+</add>

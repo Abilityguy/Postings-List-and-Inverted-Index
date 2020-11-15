@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190311_230000_The_Story_With_Martha_MacCallum#start/2891/end/2926</field>
+<field name="datetime">3/11/2019 23:48:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Story With Martha MacCallum</field>
+<field name="showid">FOXNEWSW_20190311_230000_The_Story_With_Martha_MacCallum</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190311_230000_The_Story_With_Martha_MacCallum/FOXNEWSW_20190311_230000_The_Story_With_Martha_MacCallum.thumbs/FOXNEWSW_20190311_230000_The_Story_With_Martha_MacCallum_002878.jpg</field>
+<field name="snippet">i believe my colleague just ask you the question whether you believe that climate change is real or not. i think if you asked that same question to everyone, they would say the same thing. yes, it's real. it's something we have to address. sandra: a growing number of</field>
+</doc>
+</add>

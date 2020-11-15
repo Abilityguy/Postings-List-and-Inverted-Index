@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190923_100000_FOX__Friends#start/1548/end/1583</field>
+<field name="datetime">9/23/2019 10:26:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20190923_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190923_100000_FOX__Friends/FOXNEWSW_20190923_100000_FOX__Friends.thumbs/FOXNEWSW_20190923_100000_FOX__Friends_001528.jpg</field>
+<field name="snippet">countries are out of a job. that's a quick look at your headlines. ainsley? ainsley: thank you so much, jillian. today our president is set to speak at the uss climate change event he won't be at that event</field>
+</doc>
+</add>

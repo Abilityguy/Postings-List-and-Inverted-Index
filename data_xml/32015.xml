@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201012.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101228_050000_Hannity#start/2056/end/2091</field>
+<field name="datetime">12/28/2010 5:34:31</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20101228_050000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101228_050000_Hannity/FOXNEWS_20101228_050000_Hannity.thumbs/FOXNEWS_20101228_050000_Hannity_002034.jpg</field>
+<field name="snippet">tucker: because the story keeps changing. story hasn't changed. tucker: 10 years ago the idea was climate is getting warmer that's how you know we have global warming, if you deny that you are a holocaust</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091201_090000_Special_Report_With_Bret_Baier#start/27/end/62</field>
+<field name="datetime">12/1/2009 9:00:42</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091201_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091201_090000_Special_Report_With_Bret_Baier/FOXNEWS_20091201_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091201_090000_Special_Report_With_Bret_Baier_000026.jpg</field>
+<field name="snippet">tuesday's announcement by the president about his plans for afghanistan, the president's plans to attend a climate change summit as climate scientists wrestle with a growing scandal and look at day one of the senate healthcare reform bill as a new assessment of that bill is</field>
+</doc>
+</add>

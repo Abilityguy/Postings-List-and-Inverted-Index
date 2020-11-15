@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191206_030000_BBC_News#start/1512/end/1547</field>
+<field name="datetime">12/6/2019 3:25:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191206_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191206_030000_BBC_News/BBCNEWS_20191206_030000_BBC_News.thumbs/BBCNEWS_20191206_030000_BBC_News_001499.jpg</field>
+<field name="snippet">more than 50 polar bears have descended on a village in the far north of russia. all public activities in the village have been cancelled, and schools are being guarded to protect residents. conservationists say climate change could be to blame, weak coastal ice forcing the bears to search for food on land rather than at sea.</field>
+</doc>
+</add>

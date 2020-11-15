@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091127_090000_Special_Report_With_Bret_Baier#start/2452/end/2487</field>
+<field name="datetime">11/27/2009 9:41:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091127_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091127_090000_Special_Report_With_Bret_Baier/FOXNEWS_20091127_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091127_090000_Special_Report_With_Bret_Baier_002243.jpg</field>
+<field name="snippet">bret: the prospects for claim mat change legislation are dim as you look at capitol hill. the obama administration wants an economy wide approach to cut u.s. greenhouse gas emissions but will not have a proposal ready for the climate change summit next month. here is a quote from a white house official about the</field>
+</doc>
+</add>

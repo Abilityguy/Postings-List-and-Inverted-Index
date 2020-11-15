@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181026_080000_Victoria_Derbyshire#start/2234/end/2269</field>
+<field name="datetime">10/26/2018 8:37:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20181026_080000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181026_080000_Victoria_Derbyshire/BBCNEWS_20181026_080000_Victoria_Derbyshire.thumbs/BBCNEWS_20181026_080000_Victoria_Derbyshire_002218.jpg</field>
+<field name="snippet">the committee on climate change, which advises the government, says we need to be more realistic about how many coastal towns and villages will one day become uninhabitable. professorjim hall is from the committee on climate change</field>
+</doc>
+</add>

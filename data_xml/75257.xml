@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_200000_BBC_News#start/3638/end/3673</field>
+<field name="datetime">1/16/2020 21:00:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200116_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_200000_BBC_News/BBCNEWS_20200116_200000_BBC_News.thumbs/BBCNEWS_20200116_200000_BBC_News_003628.jpg</field>
+<field name="snippet">a global study has found that sepsis - also known as blood poisoning - is the cause of nearly a fifth of all deaths worldwide - that's more than double the number previously thought. as the bbc begins a special series on climate change, sir david attenborough warns that the world has reached a pivotal moment.</field>
+</doc>
+</add>

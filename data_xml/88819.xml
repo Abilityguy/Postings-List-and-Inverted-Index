@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190602_010000_BBC_News#start/1499/end/1534</field>
+<field name="datetime">6/2/2019 1:25:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190602_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190602_010000_BBC_News/BBCNEWS_20190602_010000_BBC_News.thumbs/BBCNEWS_20190602_010000_BBC_News_001498.jpg</field>
+<field name="snippet">climate change. now the weather with ben rich. the first half of the weekend and the first day ofjune of course, brought a burst of heat</field>
+</doc>
+</add>

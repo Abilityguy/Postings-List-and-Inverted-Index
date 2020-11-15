@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191222_160000_BBC_News#start/3113/end/3148</field>
+<field name="datetime">12/22/2019 16:52:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191222_160000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191222_160000_BBC_News/BBCNEWS_20191222_160000_BBC_News.thumbs/BBCNEWS_20191222_160000_BBC_News_003027.jpg</field>
+<field name="snippet">the afternoon, still quite mild in the south. australia's prime minister admits global warming has affected the bushfires raging for weeks. firefighters in the state of new south wales are still battling to bring more than 100</field>
+</doc>
+</add>

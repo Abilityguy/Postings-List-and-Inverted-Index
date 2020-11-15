@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201709.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170905_130000_BBC_News#start/1376/end/1411</field>
+<field name="datetime">9/5/2017 13:23:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170905_130000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170905_130000_BBC_News/BBCNEWS_20170905_130000_BBC_News.thumbs/BBCNEWS_20170905_130000_BBC_News_001378.jpg</field>
+<field name="snippet">we have no social housing at a faster rate than any other part of the united kingdom and placed scotland at the forefront of the global fight against climate change. today, the unemployment rate is close to a record low, youth</field>
+</doc>
+</add>

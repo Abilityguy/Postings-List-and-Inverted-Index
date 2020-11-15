@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201506.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150621_170000_Americas_News_Headquarters#start/2747/end/2782</field>
+<field name="datetime">6/21/2015 17:46:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20150621_170000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150621_170000_Americas_News_Headquarters/FOXNEWSW_20150621_170000_Americas_News_Headquarters.thumbs/FOXNEWSW_20150621_170000_Americas_News_Headquarters_002745.jpg</field>
+<field name="snippet">subject of climate change. we're going to talk to father robert scirica about the pope's remarks and why not all catholics are happy. plus crews fighting brush fire get unexpected help. we're going to tell you who is on the fire line coming up next.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200112_120000_BBC_News#start/1554/end/1589</field>
+<field name="datetime">1/12/2020 12:26:09</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200112_120000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200112_120000_BBC_News/BBCNEWS_20200112_120000_BBC_News.thumbs/BBCNEWS_20200112_120000_BBC_News_001527.jpg</field>
+<field name="snippet">the health secretary says accident and emergency departments should be only for the most seriously ill patients. we always hear about the impact of carbon dioxide on the environment but methane is actually a more potent heat-trapping greenhouse gas and there are huge quantities of it</field>
+</doc>
+</add>

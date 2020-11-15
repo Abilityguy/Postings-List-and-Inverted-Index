@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201701.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170111_200000_MSNBC_Live_With_Kate_Snow#start/1704/end/1739</field>
+<field name="datetime">1/11/2017 20:28:39</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Kate Snow</field>
+<field name="showid">MSNBCW_20170111_200000_MSNBC_Live_With_Kate_Snow</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170111_200000_MSNBC_Live_With_Kate_Snow/MSNBCW_20170111_200000_MSNBC_Live_With_Kate_Snow.thumbs/MSNBCW_20170111_200000_MSNBC_Live_With_Kate_Snow_001677.jpg</field>
+<field name="snippet">time, are there any elements of that that put america at a disadvantage? joining me now is the senator you heard in that exchange, massachusetts senator ed markey. nice to see you again. thank you. that exchange you had about climate change, did that satisfy</field>
+</doc>
+</add>

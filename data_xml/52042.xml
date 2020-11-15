@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181209_030000_BBC_News#start/0/end/34</field>
+<field name="datetime">12/9/2018 3:00:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181209_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181209_030000_BBC_News/BBCNEWS_20181209_030000_BBC_News.thumbs/BBCNEWS_20181209_030000_BBC_News_000057.jpg</field>
+<field name="snippet">welcome to bbc news - broadcasting to viewers in north america and around the globe. i'm reged ahmad. our top stories - chief of staffjohn kelly is the latest member of donald trump's administration to leave the white house. shock at the un climate talks after the us, russia and others object to a major scientific report on global warming. a fragile order is restored</field>
+</doc>
+</add>

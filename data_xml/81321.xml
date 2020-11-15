@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091205_130000_MSNBC_News_Live#start/1223/end/1258</field>
+<field name="datetime">12/5/2009 13:20:38</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091205_130000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091205_130000_MSNBC_News_Live/MSNBC_20091205_130000_MSNBC_News_Live.thumbs/MSNBC_20091205_130000_MSNBC_News_Live_001200.jpg</field>
+<field name="snippet">global warming, afghanistan and the health care debate. allan, a good morning to you, thank you for joining us. my pleasure. this thing is packed, health care, afghanistan, jobs, all serious stuff, the economy in</field>
+</doc>
+</add>

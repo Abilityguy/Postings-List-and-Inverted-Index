@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180907_123000_BBC_News#start/880/end/915</field>
+<field name="datetime">9/7/2018 12:44:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180907_123000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180907_123000_BBC_News/BBCNEWS_20180907_123000_BBC_News.thumbs/BBCNEWS_20180907_123000_BBC_News_000868.jpg</field>
+<field name="snippet">heat-related enquiries more than doubled, from 730000 in the summer last year to more than 1.5 million over the past three months. the number of deaths related to the summer has not yet been published, but this climate change expert says high mortality could become the new norm. we had 900 deaths from heat-related</field>
+</doc>
+</add>

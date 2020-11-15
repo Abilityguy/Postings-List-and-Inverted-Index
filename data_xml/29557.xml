@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201905.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190525_160000_Weekends_With_Alex_Witt#start/1480/end/1515</field>
+<field name="datetime">5/25/2019 16:24:55</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20190525_160000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190525_160000_Weekends_With_Alex_Witt/MSNBCW_20190525_160000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20190525_160000_Weekends_With_Alex_Witt_001468.jpg</field>
+<field name="snippet">climate change, make our communities more resilient from rising floodwaters and oceans, to bring rural broadband to america. to make everybody -- to make sure every single person in america has safe drinking water. these are some of the things we</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100215_070000_Hannity#start/2944/end/2979</field>
+<field name="datetime">2/15/2010 7:49:19</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20100215_070000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100215_070000_Hannity/FOXNEWS_20100215_070000_Hannity.thumbs/FOXNEWS_20100215_070000_Hannity_002933.jpg</field>
+<field name="snippet">another example where the administration is not listening to the american people and putting in dangerous policies. it is not matter of improving the economy versus dealing with climate change or weather change, however, you want to describe it. in fact, i think that in the</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190612_180000_Beyond_100_Days#start/1858/end/1893</field>
+<field name="datetime">6/12/2019 18:31:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20190612_180000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190612_180000_Beyond_100_Days/BBCNEWS_20190612_180000_Beyond_100_Days.thumbs/BBCNEWS_20190612_180000_Beyond_100_Days_001859.jpg</field>
+<field name="snippet">next half-hour, britain could become the first major nation to cut greenhouse gases to almost zero by 2050 under a new government plan but will it make a real difference? first steps are never easy especially for this newborn</field>
+</doc>
+</add>

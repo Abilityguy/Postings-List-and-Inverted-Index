@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191125_180000_BBC_News_at_Six#start/26/end/61</field>
+<field name="datetime">11/25/2019 18:00:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20191125_180000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191125_180000_BBC_News_at_Six/BBCNEWS_20191125_180000_BBC_News_at_Six.thumbs/BBCNEWS_20191125_180000_BBC_News_at_Six_000028.jpg</field>
+<field name="snippet">mr robinson is stll facing 39 charges of manslaughter. we'll bring you the latest from the old bailey. also tonight: levels of greenhouse gases in the atmosphere reach another record high. and there is no sign of a slowdown.</field>
+</doc>
+</add>

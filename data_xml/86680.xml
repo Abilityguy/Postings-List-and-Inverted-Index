@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191203_090000_Your_Questions_Answered#start/269/end/304</field>
+<field name="datetime">12/3/2019 9:04:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Your Questions Answered</field>
+<field name="showid">BBCNEWS_20191203_090000_Your_Questions_Answered</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191203_090000_Your_Questions_Answered/BBCNEWS_20191203_090000_Your_Questions_Answered.thumbs/BBCNEWS_20191203_090000_Your_Questions_Answered_000267.jpg</field>
+<field name="snippet">released by the world meteorological organisation suggest that 2019 will be the second or third warmest year. the record heat seen over the last ten years is driven by greenhouse gas emissions, the wmo says. the figures were released at the un</field>
+</doc>
+</add>

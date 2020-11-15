@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201211.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121111_200000_MSNBC_Live#start/4638/end/4673</field>
+<field name="datetime">11/11/2012 21:17:33</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20121111_200000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121111_200000_MSNBC_Live/MSNBCW_20121111_200000_MSNBC_Live.thumbs/MSNBCW_20121111_200000_MSNBC_Live_004618.jpg</field>
+<field name="snippet">[ cheers and applause ] that was president obama on election night mentioning climate change and energy policy as part of his second term vision. the timing was key since one week from today environmentalists will be protesting the keystone pipeline outside the white house just as they did last year.</field>
+</doc>
+</add>

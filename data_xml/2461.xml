@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200909.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20090925_100000_Morning_Joe#start/6196/end/6231</field>
+<field name="datetime">9/25/2009 11:43:31</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20090925_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20090925_100000_Morning_Joe/MSNBC_20090925_100000_Morning_Joe.thumbs/MSNBC_20090925_100000_Morning_Joe_006175.jpg</field>
+<field name="snippet">we've got the big negotiations coming up in copenhagen on a world treaty. do people in california expect president obama to be green and -- absolutely. i was privileged to sign the first greenhouse gas bill in america, and actually the president was good enough to use</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191105_040000_BBC_News#start/500/end/535</field>
+<field name="datetime">11/5/2019 4:08:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191105_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191105_040000_BBC_News/BBCNEWS_20191105_040000_BBC_News.thumbs/BBCNEWS_20191105_040000_BBC_News_000478.jpg</field>
+<field name="snippet">from the paris climate change agreement. it is the first formal step in a process that will take a year to effect. the paris agreement commits nearly 200 nations to reducing greenhouse emissions. it was signed by barack 0bama four years ago. china's president has said he has</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201311.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20131130_160000_Forbes_on_FOX#start/968/end/1003</field>
+<field name="datetime">11/30/2013 16:16:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Forbes on FOX</field>
+<field name="showid">FOXNEWSW_20131130_160000_Forbes_on_FOX</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20131130_160000_Forbes_on_FOX/FOXNEWSW_20131130_160000_Forbes_on_FOX.thumbs/FOXNEWSW_20131130_160000_Forbes_on_FOX_000945.jpg</field>
+<field name="snippet">he won with economics and science. not hysteria. bruce, we are also hearing talk that the president will focus, now that obamacare is not working out well, he will focus on climate change issue and push again for some kind of carbon tax.</field>
+</doc>
+</add>

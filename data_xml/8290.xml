@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190906_040000_Tucker_Carlson_Tonight#start/795/end/830</field>
+<field name="datetime">9/6/2019 4:13:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190906_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190906_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190906_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190906_040000_Tucker_Carlson_Tonight_000780.jpg</field>
+<field name="snippet">they can faithfully parrot the party line. even the graphics had a climate crisis, the word crisis in red, and it was all very frightening. it's an existential threat, and we have only 11 years because some nameless, faceless group in the united nations who aren't</field>
+</doc>
+</add>

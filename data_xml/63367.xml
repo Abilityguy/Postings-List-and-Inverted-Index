@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190317_150000_BBC_News#start/60/end/95</field>
+<field name="datetime">3/17/2019 15:01:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190317_150000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190317_150000_BBC_News/BBCNEWS_20190317_150000_BBC_News.thumbs/BBCNEWS_20190317_150000_BBC_News_000058.jpg</field>
+<field name="snippet">investigating the effects of climate change. wejoin scientists in the arctic, where increasing rainfall is creating new problems for wildlife. and the click team visit japan to see how the country is using technology to help prepare</field>
+</doc>
+</add>

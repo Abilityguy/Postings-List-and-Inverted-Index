@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201012.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101230_210000_Your_World_With_Neil_Cavuto#start/829/end/864</field>
+<field name="datetime">12/30/2010 21:14:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWS_20101230_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101230_210000_Your_World_With_Neil_Cavuto/FOXNEWS_20101230_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWS_20101230_210000_Your_World_With_Neil_Cavuto_000805.jpg</field>
+<field name="snippet">as blizzards slam slamming arizona? yes, try telling those people they are victims of global warming. the chief scientist just in.</field>
+</doc>
+</add>

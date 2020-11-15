@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191125_190000_Beyond_100_Days#start/1363/end/1398</field>
+<field name="datetime">11/25/2019 19:22:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20191125_190000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191125_190000_Beyond_100_Days/BBCNEWS_20191125_190000_Beyond_100_Days.thumbs/BBCNEWS_20191125_190000_Beyond_100_Days_001348.jpg</field>
+<field name="snippet">footprints in the world. it's not been easy. emissions from this cement industry contribute to global warming 3-a times more than aviation does. becoming carbon negative requires a huge investment in cutting-edge technology to remove</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200103_200000_BBC_News#start/2595/end/2630</field>
+<field name="datetime">1/3/2020 20:43:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200103_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200103_200000_BBC_News/BBCNEWS_20200103_200000_BBC_News.thumbs/BBCNEWS_20200103_200000_BBC_News_002578.jpg</field>
+<field name="snippet">temperature, recorded on 28 december. by contrast, there was just one low temperature record, the beast from the east in march last year. 0ur climate changes naturally and we see fluctuations from year to year and month to month sometimes, but because of man-made climate change, you have that extra level of warming, so when you see heatwave events</field>
+</doc>
+</add>

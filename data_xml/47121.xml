@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201101.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110106_200000_MSNBC_News_Live#start/2380/end/2415</field>
+<field name="datetime">1/6/2011 20:39:55</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20110106_200000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20110106_200000_MSNBC_News_Live/MSNBC_20110106_200000_MSNBC_News_Live.thumbs/MSNBC_20110106_200000_MSNBC_News_Live_002364.jpg</field>
+<field name="snippet">energy revolution and overcome global warming. your group claims that global warming is natural and not influenced by human hands. do you have pause for concern or alarm by the bizarre freakish weather patterns we've been seeing, like flooding in</field>
+</doc>
+</add>

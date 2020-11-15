@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140508_090000_First_Look#start/32/end/67</field>
+<field name="datetime">5/8/2014 9:00:47</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20140508_090000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140508_090000_First_Look/MSNBCW_20140508_090000_First_Look.thumbs/MSNBCW_20140508_090000_First_Look_000045.jpg</field>
+<field name="snippet">some american veterans aren't getting the care they were promised. some are actually dieing because of it. food prices worse than heat waves. the climate change's undeniable impact on the food supply. how this little boy's life</field>
+</doc>
+</add>

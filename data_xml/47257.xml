@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201802.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180214_050000_The_Briefing#start/1154/end/1189</field>
+<field name="datetime">2/14/2018 5:19:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20180214_050000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180214_050000_The_Briefing/BBCNEWS_20180214_050000_The_Briefing.thumbs/BBCNEWS_20180214_050000_The_Briefing_001137.jpg</field>
+<field name="snippet">gita reached 233km/h. here's our briefing on some of the key events happening later. we begin in the philippines where greenpeace ship rainbow warrior is on a visit to promote climate change awareness while in brussels,</field>
+</doc>
+</add>

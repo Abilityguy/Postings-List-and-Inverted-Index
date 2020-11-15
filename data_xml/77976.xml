@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191108_110000_BBC_Newsroom_Live#start/6473/end/6508</field>
+<field name="datetime">11/8/2019 12:48:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20191108_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191108_110000_BBC_Newsroom_Live/BBCNEWS_20191108_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20191108_110000_BBC_Newsroom_Live_006447.jpg</field>
+<field name="snippet">by studying dna from wild species, they hope to find answers to global problems, like how to breed crops to withstand disease and climate change. nature also holds clues to new medicines for humans. so, this is, this is basically malaria, is it?</field>
+</doc>
+</add>

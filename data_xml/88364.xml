@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190612_000000_Newsday#start/771/end/806</field>
+<field name="datetime">6/12/2019 0:13:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190612_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190612_000000_Newsday/BBCNEWS_20190612_000000_Newsday.thumbs/BBCNEWS_20190612_000000_Newsday_000748.jpg</field>
+<field name="snippet">it is notjust things like terrorism, it's notjust violent crime. climate change, that's had a big impact as well. with climate change,</field>
+</doc>
+</add>

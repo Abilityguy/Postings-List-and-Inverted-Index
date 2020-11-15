@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090903_030000_The_OReilly_Factor#start/2952/end/2987</field>
+<field name="datetime">9/3/2009 3:49:27</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20090903_030000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090903_030000_The_OReilly_Factor/FOXNEWS_20090903_030000_The_OReilly_Factor.thumbs/FOXNEWS_20090903_030000_The_OReilly_Factor_002936.jpg</field>
+<field name="snippet">what is your take on what the congresswoman claimed about these wild fires? well, as we discussed in our book, it is impossible to retrieve any one event or even a series of events to climate</field>
+</doc>
+</add>

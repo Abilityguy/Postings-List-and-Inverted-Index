@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091210_090000_Special_Report_With_Bret_Baier#start/854/end/889</field>
+<field name="datetime">12/10/2009 9:14:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091210_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091210_090000_Special_Report_With_Bret_Baier/FOXNEWS_20091210_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091210_090000_Special_Report_With_Bret_Baier_000836.jpg</field>
+<field name="snippet">correspondent james rosen explains. a senior advisor to president obama briefing reporters tuesday issued a warning to congress, where the house has approved a cap and trade bill to curb greenhouse gases but the senate has not. if you don't pass this legislation, the advisor said,</field>
+</doc>
+</add>

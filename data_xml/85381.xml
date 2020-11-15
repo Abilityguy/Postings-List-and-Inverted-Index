@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201203.csv</field>
+<field name="url">https://archive.org/details/CNNW_20120312_080000_World_Business_Today#start/1546/end/1581</field>
+<field name="datetime">3/12/2012 8:26:01</field>
+<field name="station">CNN</field>
+<field name="show">World Business Today</field>
+<field name="showid">CNNW_20120312_080000_World_Business_Today</field>
+<field name="preview">https://archive.org/download/CNNW_20120312_080000_World_Business_Today/CNNW_20120312_080000_World_Business_Today.thumbs/CNNW_20120312_080000_World_Business_Today_000021.jpg</field>
+<field name="snippet">airbus and eight of europe's top airlines say the european union's plan to carbon tax could have dire economic consequences. they warn the tax on carbon pollution could put thousands of jobs in jeopardy and cost them billions of dollars in lost</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190512_200000_Americas_News_HQ#start/975/end/1010</field>
+<field name="datetime">5/12/2019 20:16:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20190512_200000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190512_200000_Americas_News_HQ/FOXNEWSW_20190512_200000_Americas_News_HQ.thumbs/FOXNEWSW_20190512_200000_Americas_News_HQ_000957.jpg</field>
+<field name="snippet">trumped trade policy as a whole does not protect american workers and industries but senator also said she would not have voted for nasa and added climate change and it needs to be addressed in the trade deal.</field>
+</doc>
+</add>

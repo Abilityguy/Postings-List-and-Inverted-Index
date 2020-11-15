@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170802_030000_BBC_News#start/1189/end/1224</field>
+<field name="datetime">8/2/2017 3:20:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170802_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170802_030000_BBC_News/BBCNEWS_20170802_030000_BBC_News.thumbs/BBCNEWS_20170802_030000_BBC_News_001168.jpg</field>
+<field name="snippet">he moved to aerial photography, joining the allies in world war i to map enemy positions. and his work is still useful. some of the glaciers he photographed in alaska 100 years ago have since receded, visual evidence of the impact of global warming. british vogue has a new editor, the first man at the helm</field>
+</doc>
+</add>

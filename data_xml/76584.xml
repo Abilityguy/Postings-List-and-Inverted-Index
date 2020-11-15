@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190505_153000_Weather_World#start/1000/end/1035</field>
+<field name="datetime">5/5/2019 15:46:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20190505_153000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190505_153000_Weather_World/BBCNEWS_20190505_153000_Weather_World.thumbs/BBCNEWS_20190505_153000_Weather_World_000988.jpg</field>
+<field name="snippet">and reaching what was formerly a stopover site which has been impacted by climate change, they cannot refuel and move on, so it might impact not just when they arrive but in what condition they arrive and therefore their</field>
+</doc>
+</add>

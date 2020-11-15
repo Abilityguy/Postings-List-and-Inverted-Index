@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201511.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151106_170000_Andrea_Mitchell_Reports#start/345/end/380</field>
+<field name="datetime">11/6/2015 17:06:00</field>
+<field name="station">MSNBC</field>
+<field name="show">Andrea Mitchell Reports</field>
+<field name="showid">MSNBCW_20151106_170000_Andrea_Mitchell_Reports</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151106_170000_Andrea_Mitchell_Reports/MSNBCW_20151106_170000_Andrea_Mitchell_Reports.thumbs/MSNBCW_20151106_170000_Andrea_Mitchell_Reports_000345.jpg</field>
+<field name="snippet">world leaders in paris where we have got to come together around an ambitious framework to protect the one planet that we've got while we still can. if we want to prevent the worst effects of climate change before it's too late, the time to act is now.</field>
+</doc>
+</add>

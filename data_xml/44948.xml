@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201712.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20171205_110000_Morning_Joe#start/10473/end/10508</field>
+<field name="datetime">12/5/2017 13:54:48</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20171205_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20171205_110000_Morning_Joe/MSNBCW_20171205_110000_Morning_Joe.thumbs/MSNBCW_20171205_110000_Morning_Joe_010467.jpg</field>
+<field name="snippet">the paris accords did not solve climate change but it provided us with a framework in which for the first time almost every nation in the world agreed that this was a problem and that they would put in place concrete</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091210_220000_Glenn_Beck#start/3017/end/3052</field>
+<field name="datetime">12/10/2009 22:50:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20091210_220000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091210_220000_Glenn_Beck/FOXNEWS_20091210_220000_Glenn_Beck.thumbs/FOXNEWS_20091210_220000_Glenn_Beck_003000.jpg</field>
+<field name="snippet">greenhouse gases are shrifting. sorry, this is television. glenn: i want to shake your hand for shipping that green vehicle that is not green at all all the way to new york just for two minutes on television. it's my first show on fox</field>
+</doc>
+</add>

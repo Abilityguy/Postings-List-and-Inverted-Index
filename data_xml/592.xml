@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171116_054500_The_Briefing#start/778/end/813</field>
+<field name="datetime">11/16/2017 5:58:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20171116_054500_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171116_054500_The_Briefing/BBCNEWS_20171116_054500_The_Briefing.thumbs/BBCNEWS_20171116_054500_The_Briefing_000777.jpg</field>
+<field name="snippet">it's thursday 16 november. also this morning: scientists will warn world leaders that the effects of climate change are inevitable, even if major cuts are made to carbon dioxide emissions.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100428_150000_Happening_Now#start/174/end/209</field>
+<field name="datetime">4/28/2010 15:03:09</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20100428_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100428_150000_Happening_Now/FOXNEWS_20100428_150000_Happening_Now.thumbs/FOXNEWS_20100428_150000_Happening_Now_000146.jpg</field>
+<field name="snippet">chief sponsor of immigration reform here in the house, luis gutierrez, says he hopes so but over in the senate, majority leader harry reid who initially said yes, immigration is up next yesterday said no, climate change is ready to</field>
+</doc>
+</add>

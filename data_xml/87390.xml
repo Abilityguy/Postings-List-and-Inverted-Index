@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191230_230000_BBC_News#start/39/end/74</field>
+<field name="datetime">12/30/2019 23:00:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191230_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191230_230000_BBC_News/BBCNEWS_20191230_230000_BBC_News.thumbs/BBCNEWS_20191230_230000_BBC_News_000028.jpg</field>
+<field name="snippet">also, we speak to greta thunberg, the teenager who spearheaded a global movement against climate change, who's calling for more action and less talk. iam are i am are being listened to and we,</field>
+</doc>
+</add>

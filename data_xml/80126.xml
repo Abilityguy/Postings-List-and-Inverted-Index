@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190519_220000_FOX_Report_With_Jon_Scott#start/1949/end/1984</field>
+<field name="datetime">5/19/2019 22:32:44</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report With Jon Scott</field>
+<field name="showid">FOXNEWSW_20190519_220000_FOX_Report_With_Jon_Scott</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190519_220000_FOX_Report_With_Jon_Scott/FOXNEWSW_20190519_220000_FOX_Report_With_Jon_Scott.thumbs/FOXNEWSW_20190519_220000_FOX_Report_With_Jon_Scott_001949.jpg</field>
+<field name="snippet">time. listen. i think it's time for the generation that fought in iraq is and afghanistan to take over for the generation that sent us there. to show how we're going to take america forward into the new world, into a new economy, into the challenges of climate change</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190802_120000_BBC_News_at_One#start/930/end/965</field>
+<field name="datetime">8/2/2019 12:15:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190802_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190802_120000_BBC_News_at_One/BBCNEWS_20190802_120000_BBC_News_at_One.thumbs/BBCNEWS_20190802_120000_BBC_News_at_One_000928.jpg</field>
+<field name="snippet">in rising global temperatures. computer models of the impact of climate change predict that more summer temperature records are likely to be broken all across the world more often. and a separate assessment by the world weather</field>
+</doc>
+</add>

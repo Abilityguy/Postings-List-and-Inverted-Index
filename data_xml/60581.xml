@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_120000_BBC_News_at_One#start/341/end/376</field>
+<field name="datetime">10/8/2018 12:05:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20181008_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_120000_BBC_News_at_One/BBCNEWS_20181008_120000_BBC_News_at_One.thumbs/BBCNEWS_20181008_120000_BBC_News_at_One_000328.jpg</field>
+<field name="snippet">scientists are saying to everybody we have to accelerate our action to tackle climate change, because if we don't, by the middle of this century, we could be facing a situation we will not be able to cope with. at a time when china and india are growing their economies,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201611.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161113_100000_In_Other_News#start/3320/end/3355</field>
+<field name="datetime">11/13/2016 10:55:35</field>
+<field name="station">MSNBC</field>
+<field name="show">In Other News</field>
+<field name="showid">MSNBCW_20161113_100000_In_Other_News</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161113_100000_In_Other_News/MSNBCW_20161113_100000_In_Other_News.thumbs/MSNBCW_20161113_100000_In_Other_News_003297.jpg</field>
+<field name="snippet">the fact that americans couldn't pass a small climate change bill, even a small climate change bill is going to</field>
+</doc>
+</add>

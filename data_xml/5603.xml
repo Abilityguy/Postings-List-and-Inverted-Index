@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190909_003000_Asia_Business_Report#start/494/end/529</field>
+<field name="datetime">9/9/2019 0:38:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Asia Business Report</field>
+<field name="showid">BBCNEWS_20190909_003000_Asia_Business_Report</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190909_003000_Asia_Business_Report/BBCNEWS_20190909_003000_Asia_Business_Report.thumbs/BBCNEWS_20190909_003000_Asia_Business_Report_000478.jpg</field>
+<field name="snippet">biofuel. brazil has the world's largest fleet of flex fuel cars, meaning they can run on both petrol and ethanol. for years, the industry here thought biofuels were the best way to reduce greenhouse gas</field>
+</doc>
+</add>

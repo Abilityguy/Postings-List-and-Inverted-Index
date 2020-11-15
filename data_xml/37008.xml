@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201401.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140108_030000_Hannity#start/400/end/435</field>
+<field name="datetime">1/8/2014 3:06:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20140108_030000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140108_030000_Hannity/FOXNEWSW_20140108_030000_Hannity.thumbs/FOXNEWSW_20140108_030000_Hannity_000375.jpg</field>
+<field name="snippet">seen this -- you go back to 'time' magazine, they were proclaiming the next ice age is coming, now it's become global warming, now they seem to be backing off and talking about climate change in general, if it snows, global warming.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170809_080000_Special_Report_With_Bret_Baier#start/1191/end/1226</field>
+<field name="datetime">8/9/2017 8:20:06</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20170809_080000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170809_080000_Special_Report_With_Bret_Baier/FOXNEWSW_20170809_080000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20170809_080000_Special_Report_With_Bret_Baier_001168.jpg</field>
+<field name="snippet">we do business where you do business.   bret: now to the politics of climate change. the 'new york times' is</field>
+</doc>
+</add>

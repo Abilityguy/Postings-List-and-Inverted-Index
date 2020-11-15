@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140225_210000_Your_World_With_Neil_Cavuto#start/1743/end/1778</field>
+<field name="datetime">2/25/2014 21:29:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20140225_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140225_210000_Your_World_With_Neil_Cavuto/FOXNEWSW_20140225_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20140225_210000_Your_World_With_Neil_Cavuto_001725.jpg</field>
+<field name="snippet">people were taking the demand growth in natural gas and oil for granted, they must have believed in global warming and didn't count on a cold winter. if you look across the heating oil supplies, they're at the lowest levels since 1990.</field>
+</doc>
+</add>

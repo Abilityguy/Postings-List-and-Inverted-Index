@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190612_100000_BBC_Newsroom_Live#start/3629/end/3664</field>
+<field name="datetime">6/12/2019 11:00:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190612_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190612_100000_BBC_Newsroom_Live/BBCNEWS_20190612_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190612_100000_BBC_Newsroom_Live_003627.jpg</field>
+<field name="snippet">delay means defeat, delay means jeremy corbyn, kick the can again and we kicked the bucket. a new plan to tackle climate change, the uk plans to cut emissions to net zero</field>
+</doc>
+</add>

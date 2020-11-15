@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_203000_Inside_Out_East#start/1199/end/1234</field>
+<field name="datetime">9/20/2019 20:50:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Inside Out East</field>
+<field name="showid">BBCNEWS_20190920_203000_Inside_Out_East</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_203000_Inside_Out_East/BBCNEWS_20190920_203000_Inside_Out_East.thumbs/BBCNEWS_20190920_203000_Inside_Out_East_001197.jpg</field>
+<field name="snippet">smallest bar could set this off again. let's get more on the climate protests. as protestors take to the streets, in germany the government has announced action to stop climate change. it's agreed sweeping measures to reduce co2 emissions after talks that lasted through the night. trains and electric vehicles</field>
+</doc>
+</add>

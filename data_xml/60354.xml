@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181019_080000_Victoria_Derbyshire#start/4379/end/4414</field>
+<field name="datetime">10/19/2018 9:13:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20181019_080000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181019_080000_Victoria_Derbyshire/BBCNEWS_20181019_080000_Victoria_Derbyshire.thumbs/BBCNEWS_20181019_080000_Victoria_Derbyshire_004377.jpg</field>
+<field name="snippet">music to your ears? absolutely. transport emissions, actually, is the largest emitter in the uk. we have a target within the uk to reduce our emissions by 57% as part of the climate change act, by 2032.</field>
+</doc>
+</add>

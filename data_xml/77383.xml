@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191112_050000_The_Briefing#start/1828/end/1863</field>
+<field name="datetime">11/12/2019 5:30:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20191112_050000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191112_050000_The_Briefing/BBCNEWS_20191112_050000_The_Briefing.thumbs/BBCNEWS_20191112_050000_The_Briefing_001768.jpg</field>
+<field name="snippet">i'm sally bundock. an unexpected polluter. shipping is responsible for 3% of global greenhouse gas emissions. what can be done? china's pork crisis. how supplies of the country's favourite meat are shrinking as pig</field>
+</doc>
+</add>

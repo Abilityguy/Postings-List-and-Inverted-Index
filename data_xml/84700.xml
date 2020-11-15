@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190408_030000_BBC_News#start/223/end/258</field>
+<field name="datetime">4/8/2019 3:03:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190408_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190408_030000_BBC_News/BBCNEWS_20190408_030000_BBC_News.thumbs/BBCNEWS_20190408_030000_BBC_News_000209.jpg</field>
+<field name="snippet">oi' doing, whether it is madrid or paris or oslo, where i have worked, or even cities like new york looking at congestion charges. there are all sorts of cities all over the world looking to address urban pollution because of the dramatic health impacts. but at the same time, addressing climate change, because many of the same solutions that</field>
+</doc>
+</add>

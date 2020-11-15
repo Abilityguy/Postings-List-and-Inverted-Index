@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100112_090000_Special_Report_With_Bret_Baier#start/623/end/658</field>
+<field name="datetime">1/12/2010 9:10:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100112_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100112_090000_Special_Report_With_Bret_Baier/FOXNEWS_20100112_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100112_090000_Special_Report_With_Bret_Baier_000625.jpg</field>
+<field name="snippet">people aren't seeing global warming as something that has to be addressed today. most americans would be comfortable saying get the economy fixed first and then look at the environment. this surge in american skepticism came as the world leaders failed last month at a u.n. climate change</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201510.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151012_100000_FOX__Friends#start/7239/end/7274</field>
+<field name="datetime">10/12/2015 12:00:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20151012_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151012_100000_FOX__Friends/FOXNEWSW_20151012_100000_FOX__Friends.thumbs/FOXNEWSW_20151012_100000_FOX__Friends_007215.jpg</field>
+<field name="snippet">why we're not making advances in the fight against isis. my definition of leadership would be leading on climate change. he's more concerned about ice caps than isis. is that really the way to earn respect around the world? brett baier here to react in 30</field>
+</doc>
+</add>

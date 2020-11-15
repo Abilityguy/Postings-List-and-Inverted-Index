@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170118_190000_BBC_News#start/1308/end/1343</field>
+<field name="datetime">1/18/2017 19:22:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170118_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170118_190000_BBC_News/BBCNEWS_20170118_190000_BBC_News.thumbs/BBCNEWS_20170118_190000_BBC_News_001288.jpg</field>
+<field name="snippet">is a temperature threshold we are on course to surpass. to tackle global warming, the world is being urged to move away from fossil fuels, like coal. but in the us, donald trump has said</field>
+</doc>
+</add>

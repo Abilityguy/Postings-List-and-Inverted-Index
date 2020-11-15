@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201908.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190826_100000_Morning_Joe#start/6783/end/6818</field>
+<field name="datetime">8/26/2019 11:53:18</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20190826_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190826_100000_Morning_Joe/MSNBCW_20190826_100000_Morning_Joe.thumbs/MSNBCW_20190826_100000_Morning_Joe_006779.jpg</field>
+<field name="snippet">hey, bryan, it's jonathan lemire. i wanted to ask you about greenland. president trump has been trying to purchase it but beyond that we know that it's a marker, a real indicator about the effects of climate change with glacier</field>
+</doc>
+</add>

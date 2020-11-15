@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201712.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20171210_120000_MSNBC_Live#start/1581/end/1616</field>
+<field name="datetime">12/10/2017 12:26:36</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20171210_120000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20171210_120000_MSNBC_Live/MSNBCW_20171210_120000_MSNBC_Live.thumbs/MSNBCW_20171210_120000_MSNBC_Live_001557.jpg</field>
+<field name="snippet">climate change, wildfires have become a new normal. and the first big blast of winter weather is over most parts of the northeast from the mid-atlantic up</field>
+</doc>
+</add>

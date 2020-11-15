@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201404.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140424_200000_Your_World_With_Neil_Cavuto#start/2279/end/2314</field>
+<field name="datetime">4/24/2014 20:38:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20140424_200000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140424_200000_Your_World_With_Neil_Cavuto/FOXNEWSW_20140424_200000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20140424_200000_Your_World_With_Neil_Cavuto_002265.jpg</field>
+<field name="snippet">dean cain, welcome to the show. happy to be here. you're the guy when the senate pulled the all-nighter about climate change, you tweeted out, why don't you pull an all-nighter about the</field>
+</doc>
+</add>

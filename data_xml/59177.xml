@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181102_180000_BBC_News_at_Six#start/162/end/197</field>
+<field name="datetime">11/2/2018 18:02:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20181102_180000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181102_180000_BBC_News_at_Six/BBCNEWS_20181102_180000_BBC_News_at_Six.thumbs/BBCNEWS_20181102_180000_BBC_News_at_Six_000147.jpg</field>
+<field name="snippet">but what the numbers show in this new report is that we are already starting to experience the effects of climate change and these extreme events will continue to increase into the future. so, for someone like me in his early 30s, it is my generation that are going to be experiencing the brunt of those effects.</field>
+</doc>
+</add>

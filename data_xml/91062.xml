@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201603.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160310_080000_All_In_With_Chris_Hayes#start/27/end/62</field>
+<field name="datetime">3/10/2016 8:00:42</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20160310_080000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160310_080000_All_In_With_Chris_Hayes/MSNBCW_20160310_080000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20160310_080000_All_In_With_Chris_Hayes_002398.jpg</field>
+<field name="snippet">you have all these candidates. makes my job a lot easier. (announcer) over 400000 businesses have already used ziprecruiter. and now you can use ziprecruiter for free. go to ziprecruiter.com/offer99 i hope that secretary clinton would join me if we're serious about climate change, about imposing a tax on carbon</field>
+</doc>
+</add>

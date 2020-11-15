@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191129_190000_MSNBC_Live#start/3111/end/3146</field>
+<field name="datetime">11/29/2019 19:52:06</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20191129_190000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191129_190000_MSNBC_Live/MSNBCW_20191129_190000_MSNBC_Live.thumbs/MSNBCW_20191129_190000_MSNBC_Live_003088.jpg</field>
+<field name="snippet">unprecedented wildfires. it's all of these things coming together in, if you will, a perfect storm. climate change, you know, when you look at the different factors that are involved. scientists have determined that climate change is responsible for at least half of the increase in the area that these</field>
+</doc>
+</add>

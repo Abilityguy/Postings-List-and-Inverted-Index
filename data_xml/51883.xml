@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_010000_Newsday#start/154/end/189</field>
+<field name="datetime">12/3/2018 1:02:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20181203_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_010000_Newsday/BBCNEWS_20181203_010000_Newsday.thumbs/BBCNEWS_20181203_010000_Newsday_000147.jpg</field>
+<field name="snippet">one of many here in southern poland at the centre of arguments over what to do about global warming. ok, so we're on our way down. i'm starting to feel the air pressure on my ears now. we arrive in an underworld, nearly one kilometre down.</field>
+</doc>
+</add>

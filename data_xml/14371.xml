@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201812.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181231_090000_Kasie_DC#start/2499/end/2534</field>
+<field name="datetime">12/31/2018 9:41:54</field>
+<field name="station">MSNBC</field>
+<field name="show">Kasie DC</field>
+<field name="showid">MSNBCW_20181231_090000_Kasie_DC</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181231_090000_Kasie_DC/MSNBCW_20181231_090000_Kasie_DC.thumbs/MSNBCW_20181231_090000_Kasie_DC_002487.jpg</field>
+<field name="snippet">scientists have been telling us clearly for a long time that greenhouse gas emissions are warming the planet. they're caused by fossil fuels. there's not really any scientific debate about that. but it also tells us that we're seeing the impacts of that right now in the united states.</field>
+</doc>
+</add>

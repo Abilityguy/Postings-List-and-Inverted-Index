@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091202_160000_Happening_Now#start/4541/end/4576</field>
+<field name="datetime">12/2/2009 17:15:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091202_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091202_160000_Happening_Now/FOXNEWS_20091202_160000_Happening_Now.thumbs/FOXNEWS_20091202_160000_Happening_Now_004530.jpg</field>
+<field name="snippet">jones, whose research unit serves as the data collection point for the u.n. nations intergovernmental panel on climate change, says undercutting the kyoto accord</field>
+</doc>
+</add>

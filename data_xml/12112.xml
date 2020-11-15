@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190819_080000_BBC_News_at_Nine#start/1241/end/1276</field>
+<field name="datetime">8/19/2019 8:20:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190819_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190819_080000_BBC_News_at_Nine/BBCNEWS_20190819_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190819_080000_BBC_News_at_Nine_001228.jpg</field>
+<field name="snippet">tell us more about what they have been saying. the national farmers' union says climate change, like you say, is one of the biggest issues affecting farming and of course whatever happens in the skies above our fields has an ourfields has an impact our fields has an impact on the ground. the bbc's claire marshall</field>
+</doc>
+</add>

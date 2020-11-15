@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191107_010000_Newsday#start/628/end/663</field>
+<field name="datetime">11/7/2019 1:10:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191107_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191107_010000_Newsday/BBCNEWS_20191107_010000_Newsday.thumbs/BBCNEWS_20191107_010000_Newsday_000598.jpg</field>
+<field name="snippet">and it escaped. we have been doing a lot of stories this week on climate change, and this is yet another warning. rising seas could affect three times more people by 2050 than previously thought, according to a new study, threatening to all but erase some</field>
+</doc>
+</add>

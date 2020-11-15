@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170707_150000_BBC_News#start/86/end/121</field>
+<field name="datetime">7/7/2017 15:01:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170707_150000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170707_150000_BBC_News/BBCNEWS_20170707_150000_BBC_News.thumbs/BBCNEWS_20170707_150000_BBC_News_000088.jpg</field>
+<field name="snippet">it follows months of speculation about their relationship and allegations of russian intervention in the us presidential election. the two men are due to hold an official meeting at the summit in hamburg later. with issues like climate change on the agenda, protestors have</field>
+</doc>
+</add>

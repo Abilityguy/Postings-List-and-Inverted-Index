@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180125_010000_Tucker_Carlson_Tonight#start/2169/end/2204</field>
+<field name="datetime">1/25/2018 1:36:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20180125_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180125_010000_Tucker_Carlson_Tonight/FOXNEWSW_20180125_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20180125_010000_Tucker_Carlson_Tonight_002157.jpg</field>
+<field name="snippet">thank you. thank you. tucker: more than 1000 private jets are assembling in davos switzerland. what is on the agenda? global warming, of course. your electricity goes up to offset their private jets. quite a deal. more on that next.</field>
+</doc>
+</add>

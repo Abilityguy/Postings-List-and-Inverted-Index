@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20171217_040000_Watters_World#start/2084/end/2119</field>
+<field name="datetime">12/17/2017 4:34:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Watters World</field>
+<field name="showid">FOXNEWSW_20171217_040000_Watters_World</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20171217_040000_Watters_World/FOXNEWSW_20171217_040000_Watters_World.thumbs/FOXNEWSW_20171217_040000_Watters_World_002068.jpg</field>
+<field name="snippet">achieve a more sustainable future particularly what happened with climate change we need to figure out how the 7.6 billion of us on this planet can be good neighbors and we are bad at being good neighbors.</field>
+</doc>
+</add>

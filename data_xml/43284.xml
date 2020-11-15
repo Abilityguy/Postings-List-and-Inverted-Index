@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090922_220000_Special_Report_With_Bret_Baier#start/44/end/79</field>
+<field name="datetime">9/22/2009 22:00:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20090922_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090922_220000_Special_Report_With_Bret_Baier/FOXNEWS_20090922_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20090922_220000_Special_Report_With_Bret_Baier_000026.jpg</field>
+<field name="snippet">the world does not combat climate change, and senators up and down the political spectrum try to put their stamp on healthcare reform legislation. all that plus the fox all-stars live at the united</field>
+</doc>
+</add>

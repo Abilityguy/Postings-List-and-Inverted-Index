@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201402.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140225_080000_All_In_With_Chris_Hayes#start/501/end/536</field>
+<field name="datetime">2/25/2014 8:08:36</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20140225_080000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140225_080000_All_In_With_Chris_Hayes/MSNBCW_20140225_080000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20140225_080000_All_In_With_Chris_Hayes_000496.jpg</field>
+<field name="snippet">melting planet? the co2 emissions have perhaps gone down. a lot of that was due to the recession. right. methane emissions are exploding. we're looking at the total greenhouse gas impact, right, not just the co2. the natural gas industrial we say, we burn cleaner than coal.</field>
+</doc>
+</add>

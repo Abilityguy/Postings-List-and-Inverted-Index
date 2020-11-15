@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190615_203000_Our_World#start/119/end/154</field>
+<field name="datetime">6/15/2019 20:32:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Our World</field>
+<field name="showid">BBCNEWS_20190615_203000_Our_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190615_203000_Our_World/BBCNEWS_20190615_203000_Our_World.thumbs/BBCNEWS_20190615_203000_Our_World_000119.jpg</field>
+<field name="snippet">climate change is affecting the arctic more than any other part of the earth. you can't rely on that you know how nature acts or how animals act because everything seems to be changing.</field>
+</doc>
+</add>

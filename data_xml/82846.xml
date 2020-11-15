@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191016_230000_Newsday#start/1480/end/1515</field>
+<field name="datetime">10/16/2019 23:24:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191016_230000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191016_230000_Newsday/BBCNEWS_20191016_230000_Newsday.thumbs/BBCNEWS_20191016_230000_Newsday_001468.jpg</field>
+<field name="snippet">when the glaciers melt, they sent water tumbling down, when the glaciers melt, they send water tumbling down, flooding the region and then, once they are gone, there is nothing left for the rivers, the rivers that irrigate this hot, hard land. it is why the prince calls global</field>
+</doc>
+</add>

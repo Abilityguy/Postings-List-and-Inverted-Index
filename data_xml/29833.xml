@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191128_100000_MTP_Daily#start/2962/end/2997</field>
+<field name="datetime">11/28/2019 10:49:37</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20191128_100000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191128_100000_MTP_Daily/MSNBCW_20191128_100000_MTP_Daily.thumbs/MSNBCW_20191128_100000_MTP_Daily_002938.jpg</field>
+<field name="snippet">report shows a vast difference between estimates of future carbon emissions and where they need to be in order to minimize climate devastation. quote, the summary findings are bleak. countries collectively failed to stop the growth in global greenhouse gas emissions. meaning that deeper and faster cuts are now required.</field>
+</doc>
+</add>

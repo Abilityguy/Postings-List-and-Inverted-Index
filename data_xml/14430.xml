@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201812.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181230_230000_Meet_the_Press#start/1306/end/1341</field>
+<field name="datetime">12/30/2018 23:22:01</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20181230_230000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181230_230000_Meet_the_Press/MSNBCW_20181230_230000_Meet_the_Press.thumbs/MSNBCW_20181230_230000_Meet_the_Press_001288.jpg</field>
+<field name="snippet">to show us what's happening, not just say what's happening. that's important. i always liken climate change to cancer, huge issues, hard to get your head wrapped around. take a trip to glacier national</field>
+</doc>
+</add>

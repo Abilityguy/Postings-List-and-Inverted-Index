@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171219_140000_Afternoon_Live#start/6123/end/6158</field>
+<field name="datetime">12/19/2017 15:42:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20171219_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171219_140000_Afternoon_Live/BBCNEWS_20171219_140000_Afternoon_Live.thumbs/BBCNEWS_20171219_140000_Afternoon_Live_006118.jpg</field>
+<field name="snippet">against climate change, but did you know it's also important to plant them in the right places</field>
+</doc>
+</add>

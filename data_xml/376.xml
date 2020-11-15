@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201301.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130111_100000_FOX_and_Friends_First#start/772/end/807</field>
+<field name="datetime">1/11/2013 10:13:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends First</field>
+<field name="showid">FOXNEWSW_20130111_100000_FOX_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130111_100000_FOX_and_Friends_First/FOXNEWSW_20130111_100000_FOX_and_Friends_First.thumbs/FOXNEWSW_20130111_100000_FOX_and_Friends_First_000765.jpg</field>
+<field name="snippet">the national endo iment for the arts gave a 100000 dollar grant tax payer dollars to create a video game about climate change and gender issues. it is called per adventure. it features a black female super</field>
+</doc>
+</add>

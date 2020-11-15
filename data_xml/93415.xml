@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190723_170000_BBC_News_at_Six#start/1436/end/1471</field>
+<field name="datetime">7/23/2019 17:24:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20190723_170000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190723_170000_BBC_News_at_Six/BBCNEWS_20190723_170000_BBC_News_at_Six.thumbs/BBCNEWS_20190723_170000_BBC_News_at_Six_001438.jpg</field>
+<field name="snippet">no one heatwave can be put down to global warming but scientists say we should expect more climate events like this. at longleat it's notjust the weather that comes from africa, but for him at least, this is all about global cooling. duncan kennedy, bbc news.</field>
+</doc>
+</add>

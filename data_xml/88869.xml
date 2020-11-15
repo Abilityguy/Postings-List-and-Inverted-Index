@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190627_230000_Newsday#start/1380/end/1415</field>
+<field name="datetime">6/27/2019 23:23:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190627_230000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190627_230000_Newsday/BBCNEWS_20190627_230000_Newsday.thumbs/BBCNEWS_20190627_230000_Newsday_001378.jpg</field>
+<field name="snippet">overgrazing and climate change have all made the situation worse. throughout china's arid north, there is evidence of human beings struggling against the moving sands and losing. this sand dune is</field>
+</doc>
+</add>

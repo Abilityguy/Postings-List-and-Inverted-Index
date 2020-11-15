@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180806_210000_BBC_News_at_Ten#start/1268/end/1303</field>
+<field name="datetime">8/6/2018 21:21:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20180806_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180806_210000_BBC_News_at_Ten/BBCNEWS_20180806_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20180806_210000_BBC_News_at_Ten_001257.jpg</field>
+<field name="snippet">temperature of 42.3 celsius, the highest ever recorded. even in the arctic, bardufoss in norway reached a record high of 33.5 degrees celsius. and oman had a 24-hour period in which it never got below 42.6. and scientists say that climate</field>
+</doc>
+</add>

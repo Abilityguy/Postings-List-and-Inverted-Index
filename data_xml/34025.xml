@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091204_050000_Hannity#start/1907/end/1942</field>
+<field name="datetime">12/4/2009 5:32:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20091204_050000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091204_050000_Hannity/FOXNEWS_20091204_050000_Hannity.thumbs/FOXNEWS_20091204_050000_Hannity_001860.jpg</field>
+<field name="snippet">boss: ha, yeah, good luck with that catching on! anncr: geico. fifteen minutes could save you fifteen percent or more on car insurance. sean: the climate change emails uncovered at the university shed serious doubts on the science of global warm.</field>
+</doc>
+</add>

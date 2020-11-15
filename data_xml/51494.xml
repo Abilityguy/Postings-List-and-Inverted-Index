@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181206_133000_BBC_News#start/1440/end/1475</field>
+<field name="datetime">12/6/2018 13:54:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181206_133000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181206_133000_BBC_News/BBCNEWS_20181206_133000_BBC_News.thumbs/BBCNEWS_20181206_133000_BBC_News_001438.jpg</field>
+<field name="snippet">round of coral bleaching. the greenhouse gas emissions then contribute to climate change,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181127_220000_BBC_News_at_Ten#start/1486/end/1521</field>
+<field name="datetime">11/27/2018 22:25:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20181127_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181127_220000_BBC_News_at_Ten/BBCNEWS_20181127_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20181127_220000_BBC_News_at_Ten_001467.jpg</field>
+<field name="snippet">there are some simple rules of thumb, so, is it either in season? or is it robust enough to have been able to travel from elsewhere in the world on a boat? mike and other experts say they don't want to preach about low-carbon food, but they say, if we want to tackle climate change, we need</field>
+</doc>
+</add>

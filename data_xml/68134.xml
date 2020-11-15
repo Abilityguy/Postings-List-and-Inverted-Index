@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190211_050000_The_Briefing#start/746/end/781</field>
+<field name="datetime">2/11/2019 5:12:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20190211_050000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190211_050000_The_Briefing/BBCNEWS_20190211_050000_The_Briefing.thumbs/BBCNEWS_20190211_050000_The_Briefing_000747.jpg</field>
+<field name="snippet">climate change has caused arctic sea ice to melt, which has driven polar bears to spend more time on land in an effort to find food. but this change in behaviour, from hunters to scavengers, has seen them increasingly come into contact and conflict with humans.</field>
+</doc>
+</add>

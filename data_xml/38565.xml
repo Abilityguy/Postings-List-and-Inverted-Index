@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201011.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101102_080000_Special_Report_With_Bret_Baier#start/1455/end/1490</field>
+<field name="datetime">11/2/2010 8:24:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20101102_080000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101102_080000_Special_Report_With_Bret_Baier/FOXNEWS_20101102_080000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20101102_080000_Special_Report_With_Bret_Baier_001434.jpg</field>
+<field name="snippet">contentious and expensive ballot initiatives, voters in california will decide whether to roll back limits on greenhouse gas emissions, pitting oil companies against environmentalists. missouri will decide whether to abolish puppy mills. while kansas can make bearing</field>
+</doc>
+</add>

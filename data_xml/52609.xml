@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181204_010000_Newsday#start/953/end/988</field>
+<field name="datetime">12/4/2018 1:16:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20181204_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181204_010000_Newsday/BBCNEWS_20181204_010000_Newsday.thumbs/BBCNEWS_20181204_010000_Newsday_000928.jpg</field>
+<field name="snippet">this is newsday on the bbc. i'm rico hizon in singapore. i'm ben bland in london. our top stories: a major climate change conference has opened in poland with a stark warning to delegates not to be the generation to betray humanity. the body of president george h w bush, has arrived in washington, dc, where his body will lie in state in the us capitol rotunda.</field>
+</doc>
+</add>

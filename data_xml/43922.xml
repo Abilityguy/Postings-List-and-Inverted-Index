@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151201_180000_MSNBC_Live_With_Thomas_Roberts#start/6020/end/6055</field>
+<field name="datetime">12/1/2015 19:40:35</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Thomas Roberts</field>
+<field name="showid">MSNBCW_20151201_180000_MSNBC_Live_With_Thomas_Roberts</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151201_180000_MSNBC_Live_With_Thomas_Roberts/MSNBCW_20151201_180000_MSNBC_Live_With_Thomas_Roberts.thumbs/MSNBCW_20151201_180000_MSNBC_Live_With_Thomas_Roberts_006016.jpg</field>
+<field name="snippet">but you were talking about the fact that more and more people believe that climate issues are human contributors. as of last week, the end of last week, 53% of people in the u.s. now believe that humans are causing climate change. that's huge. that's a tipping point.</field>
+</doc>
+</add>

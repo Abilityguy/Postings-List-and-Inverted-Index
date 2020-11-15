@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_190000_BBC_News#start/649/end/684</field>
+<field name="datetime">1/17/2020 19:11:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200117_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_190000_BBC_News/BBCNEWS_20200117_190000_BBC_News.thumbs/BBCNEWS_20200117_190000_BBC_News_000629.jpg</field>
+<field name="snippet">could possibly be carbon neutral in as little as ten years. but the council says it wants to send a signal that at least it's trying. and this comes at an important time. because an international summit on climate change is due to take place here in november so the world</field>
+</doc>
+</add>

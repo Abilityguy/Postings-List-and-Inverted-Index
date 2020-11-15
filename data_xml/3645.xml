@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170410_120000_BBC_News_at_One#start/1241/end/1276</field>
+<field name="datetime">4/10/2017 12:20:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20170410_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170410_120000_BBC_News_at_One/BBCNEWS_20170410_120000_BBC_News_at_One.thumbs/BBCNEWS_20170410_120000_BBC_News_at_One_001228.jpg</field>
+<field name="snippet">from outer space. the research team is warning that, to save one of nature's wonders, australia must take decisive action on climate change. the government in canberra has acknowledged that global warming was the biggest,</field>
+</doc>
+</add>

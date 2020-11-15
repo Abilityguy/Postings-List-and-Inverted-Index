@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201904.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190423_090000_First_Look#start/1974/end/2009</field>
+<field name="datetime">4/23/2019 9:33:09</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20190423_090000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190423_090000_First_Look/MSNBCW_20190423_090000_First_Look.thumbs/MSNBCW_20190423_090000_First_Look_001949.jpg</field>
+<field name="snippet">mueller, mueller. we're not talking about health care. we're not talking about raising the minimum wage to a living wage. we're not talking about combatting climate change. we're not talking about sexism and racism and all of the issues</field>
+</doc>
+</add>

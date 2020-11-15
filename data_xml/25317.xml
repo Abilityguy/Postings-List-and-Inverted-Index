@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201611.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161119_090000_The_Kelly_File#start/1169/end/1204</field>
+<field name="datetime">11/19/2016 9:19:44</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Kelly File</field>
+<field name="showid">FOXNEWSW_20161119_090000_The_Kelly_File</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161119_090000_The_Kelly_File/FOXNEWSW_20161119_090000_The_Kelly_File.thumbs/FOXNEWSW_20161119_090000_The_Kelly_File_001167.jpg</field>
+<field name="snippet">alaska, president obama blocks oil and gas drilling north of alaska. they say industry activities in the icy waters can harm wildlife and contribute to global warming. energy industry representatives are calling the decision</field>
+</doc>
+</add>

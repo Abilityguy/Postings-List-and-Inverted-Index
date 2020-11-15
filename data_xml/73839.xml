@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201002.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100211_110000_Morning_Joe#start/4035/end/4070</field>
+<field name="datetime">2/11/2010 12:07:30</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20100211_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20100211_110000_Morning_Joe/MSNBC_20100211_110000_Morning_Joe.thumbs/MSNBC_20100211_110000_Morning_Joe_004016.jpg</field>
+<field name="snippet">and '05, everybody on the left said this proves florida will be under water in 50 years, global warming. and now a couple of snowstorms and people on the right say this</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190124_130000_BBC_News_at_One#start/1046/end/1081</field>
+<field name="datetime">1/24/2019 13:17:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190124_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190124_130000_BBC_News_at_One/BBCNEWS_20190124_130000_BBC_News_at_One.thumbs/BBCNEWS_20190124_130000_BBC_News_at_One_001048.jpg</field>
+<field name="snippet">it helps create a cold, fresh surface layer that acts as a cap on warm, salty water beneath. but with climate change there is less sea ice getting to norway's barents sea. the north barents sea</field>
+</doc>
+</add>

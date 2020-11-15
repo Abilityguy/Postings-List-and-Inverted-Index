@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201509.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150925_190000_Shepard_Smith_Reporting#start/501/end/536</field>
+<field name="datetime">9/25/2015 19:08:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20150925_190000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150925_190000_Shepard_Smith_Reporting/FOXNEWSW_20150925_190000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20150925_190000_Shepard_Smith_Reporting_000495.jpg</field>
+<field name="snippet">united nations and spoke to more than 100 world leaders and their representatives. continuing his push to take action on climate change, reminding people that after all, people are part of the environment.</field>
+</doc>
+</add>

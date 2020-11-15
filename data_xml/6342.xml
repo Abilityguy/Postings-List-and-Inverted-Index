@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_170000_BBC_News_at_Six#start/7/end/42</field>
+<field name="datetime">9/20/2019 17:00:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20190920_170000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_170000_BBC_News_at_Six/BBCNEWS_20190920_170000_BBC_News_at_Six.thumbs/BBCNEWS_20190920_170000_BBC_News_at_Six_000028.jpg</field>
+<field name="snippet">millions around the world call for tougher action to combat climate change, demanding 'an end to the age of fossil fuels'. in cities across the uk, there were marches, many led by schoolchildren, voicing their concerns about the planet.</field>
+</doc>
+</add>

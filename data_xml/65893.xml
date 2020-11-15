@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190212_110000_FOX__Friends#start/4907/end/4942</field>
+<field name="datetime">2/12/2019 12:22:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20190212_110000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190212_110000_FOX__Friends/FOXNEWSW_20190212_110000_FOX__Friends.thumbs/FOXNEWSW_20190212_110000_FOX__Friends_004858.jpg</field>
+<field name="snippet">begin with? our next guest has the science. the people are on our side when it comes to climate change. why? because, like you and i they believe in science. congestion and pressure?. you won't find relief here.</field>
+</doc>
+</add>

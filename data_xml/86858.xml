@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191230_193000_Unmasked#start/71/end/106</field>
+<field name="datetime">12/30/2019 19:31:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Unmasked</field>
+<field name="showid">BBCNEWS_20191230_193000_Unmasked</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191230_193000_Unmasked/BBCNEWS_20191230_193000_Unmasked.thumbs/BBCNEWS_20191230_193000_Unmasked_001678.jpg</field>
+<field name="snippet">a global movement against climate change, who's calling for more action and less talk. we, climate activists, are being listened to but that doesn't mean</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190121_010000_Newsday#start/1058/end/1093</field>
+<field name="datetime">1/21/2019 1:17:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190121_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190121_010000_Newsday/BBCNEWS_20190121_010000_Newsday.thumbs/BBCNEWS_20190121_010000_Newsday_001048.jpg</field>
+<field name="snippet">the paper says paris has been pushing the deal. but nissan is believed to want to reduce the influence of their french partner. and singapore might be known for sun rather then snow but they're apparently taking a closer look at the arctic. that's according to the straits times. shipping lanes and climate change are two issues both places share, despite the distance.</field>
+</doc>
+</add>

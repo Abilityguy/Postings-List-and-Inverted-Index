@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190502_090000_Victoria_Derbyshire#start/378/end/413</field>
+<field name="datetime">5/2/2019 9:06:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20190502_090000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190502_090000_Victoria_Derbyshire/BBCNEWS_20190502_090000_Victoria_Derbyshire.thumbs/BBCNEWS_20190502_090000_Victoria_Derbyshire_000358.jpg</field>
+<field name="snippet">if we want to tackle climate change and get greenhouse gases down to virtually zero by 2050. if we do it, we can help save the planet and have cleaner air. that's according to an independent report today. here are the details.</field>
+</doc>
+</add>

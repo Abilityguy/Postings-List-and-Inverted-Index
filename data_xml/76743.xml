@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190522_210000_BBC_News_at_Ten#start/1732/end/1767</field>
+<field name="datetime">5/22/2019 21:29:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20190522_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190522_210000_BBC_News_at_Ten/BBCNEWS_20190522_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20190522_210000_BBC_News_at_Ten_001708.jpg</field>
+<field name="snippet">from the big parties - maybe helped by voters worried about climate change? the liberal democrats are hoping to gain ground with the support of pro-european voters, and so are the new change uk party - and all of those parties want a fresh referendum.</field>
+</doc>
+</add>

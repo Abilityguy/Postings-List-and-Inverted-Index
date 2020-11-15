@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201805.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180507_130000_BBC_News#start/1425/end/1460</field>
+<field name="datetime">5/7/2018 13:24:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180507_130000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180507_130000_BBC_News/BBCNEWS_20180507_130000_BBC_News.thumbs/BBCNEWS_20180507_130000_BBC_News_001408.jpg</field>
+<field name="snippet">blamed on habitat loss, dog attacks and climate change. well to discuss this further i'm joined in the studio by deborah tabart, who's the ceo of the australian koala foundation. thank you for coming in. how much of</field>
+</doc>
+</add>

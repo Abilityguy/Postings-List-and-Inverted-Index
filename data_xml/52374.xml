@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181209_230000_BBC_News#start/1281/end/1316</field>
+<field name="datetime">12/9/2018 23:21:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181209_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181209_230000_BBC_News/BBCNEWS_20181209_230000_BBC_News.thumbs/BBCNEWS_20181209_230000_BBC_News_001258.jpg</field>
+<field name="snippet">to protect the world from the devastating impacts of climate change. we need to do something now, we need action right now, not tomorrow, not in 11 years, but now. there are people here who have already been affected by rising sea levels, such as in the philippines and in japan.</field>
+</doc>
+</add>

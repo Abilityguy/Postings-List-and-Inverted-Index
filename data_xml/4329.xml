@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201302.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130207_080000_Red_Eye#start/1373/end/1408</field>
+<field name="datetime">2/7/2013 8:23:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWSW_20130207_080000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130207_080000_Red_Eye/FOXNEWSW_20130207_080000_Red_Eye.thumbs/FOXNEWSW_20130207_080000_Red_Eye_001335.jpg</field>
+<field name="snippet">think tank may help slow global warming, whatever that is, and recommends a worldwide switch to a more european work schedule. according to the center for economic policy and research or sepr, it could prevent half</field>
+</doc>
+</add>

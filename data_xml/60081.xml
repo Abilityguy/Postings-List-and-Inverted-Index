@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181011_030000_BBC_News#start/432/end/467</field>
+<field name="datetime">10/11/2018 3:07:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181011_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181011_030000_BBC_News/BBCNEWS_20181011_030000_BBC_News.thumbs/BBCNEWS_20181011_030000_BBC_News_000417.jpg</field>
+<field name="snippet">that it is still possible to limit warming of the planet to below two celsius, where we think the worst impacts of climate change, irreversible impacts of climate change, we will commit to if we warm the planet more than two celsius.</field>
+</doc>
+</add>

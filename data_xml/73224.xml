@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190122_210000_Outside_Source#start/2291/end/2326</field>
+<field name="datetime">1/22/2019 21:38:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20190122_210000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190122_210000_Outside_Source/BBCNEWS_20190122_210000_Outside_Source.thumbs/BBCNEWS_20190122_210000_Outside_Source_002279.jpg</field>
+<field name="snippet">there have risen nearly twice the rate of the global average. our chief international correspondent, lyse doucet, reports from the town of menaka in mali, rarely visited byjournalists, to see how climate change is impacting on daily life. the sahel, locked in a long war</field>
+</doc>
+</add>

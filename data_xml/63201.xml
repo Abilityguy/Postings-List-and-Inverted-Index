@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190317_080000_Breakfast#start/1815/end/1850</field>
+<field name="datetime">3/17/2019 8:30:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190317_080000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190317_080000_Breakfast/BBCNEWS_20190317_080000_Breakfast.thumbs/BBCNEWS_20190317_080000_Breakfast_001799.jpg</field>
+<field name="snippet">of rain injust 24 hours. and investigating the effects of climate change. we visit the arctic where the melting of sea ice means</field>
+</doc>
+</add>

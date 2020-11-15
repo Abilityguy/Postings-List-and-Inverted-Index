@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100211_180000_America_Live#start/2563/end/2598</field>
+<field name="datetime">2/11/2010 18:42:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWS_20100211_180000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100211_180000_America_Live/FOXNEWS_20100211_180000_America_Live.thumbs/FOXNEWS_20100211_180000_America_Live_002544.jpg</field>
+<field name="snippet">weather and lack of snow showed what was going to happen with global warming, and now they're saying well, of course, all this snow is exactly what we predicted. no it isn't. in fact if you look at ipcc reports, the u.n. panel that supposedly is authortative, they predict we'll start</field>
+</doc>
+</add>

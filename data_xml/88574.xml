@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190617_080000_BBC_News_at_Nine#start/3644/end/3679</field>
+<field name="datetime">6/17/2019 9:00:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190617_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190617_080000_BBC_News_at_Nine/BBCNEWS_20190617_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190617_080000_BBC_News_at_Nine_003627.jpg</field>
+<field name="snippet">the government says it wants to reduce greenhouse gas emissions to almost zero in the next 30 years. so is this a model for the way we could all live? health secretary matt hancock - who wanted to be prime minister himself - is now backing borisjohnson's bid for the top job.</field>
+</doc>
+</add>

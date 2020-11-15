@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191106_030000_BBC_News#start/215/end/250</field>
+<field name="datetime">11/6/2019 3:03:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191106_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191106_030000_BBC_News/BBCNEWS_20191106_030000_BBC_News.thumbs/BBCNEWS_20191106_030000_BBC_News_000208.jpg</field>
+<field name="snippet">because climate change seems to be accelerating faster than scientists predicted, and it's more severe than predicted, and threatening natural ecosystems, and potentially causing great harm to humanity.</field>
+</doc>
+</add>

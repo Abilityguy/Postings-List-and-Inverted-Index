@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201207.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120708_120000_Up_W_Chris_Hayes#start/250/end/285</field>
+<field name="datetime">7/8/2012 12:04:25</field>
+<field name="station">MSNBC</field>
+<field name="show">Up W Chris Hayes</field>
+<field name="showid">MSNBCW_20120708_120000_Up_W_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120708_120000_Up_W_Chris_Hayes/MSNBCW_20120708_120000_Up_W_Chris_Hayes.thumbs/MSNBCW_20120708_120000_Up_W_Chris_Hayes_000240.jpg</field>
+<field name="snippet">uses a good anology to describe the relationship between climate change and the increase in extreme weather. imagine a baseball player who has been taking steroids. this baseball player steps to the plate and hits a home run and, yes, the question, was that home run due to the steroids?</field>
+</doc>
+</add>

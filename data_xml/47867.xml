@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201511.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151130_230000_MSNBC_Live#start/1045/end/1080</field>
+<field name="datetime">11/30/2015 23:17:40</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20151130_230000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151130_230000_MSNBC_Live/MSNBCW_20151130_230000_MSNBC_Live.thumbs/MSNBCW_20151130_230000_MSNBC_Live_001035.jpg</field>
+<field name="snippet">. right now, nearly 150 world leaders are in paris with a goal of cutting carbon pollution to slow climate change. today president obama had three minutes to speak with heads of state about his vision for change. instead, the president spoke for</field>
+</doc>
+</add>

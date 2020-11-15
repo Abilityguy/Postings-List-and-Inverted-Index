@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201301.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130119_170000_Weekends_With_Alex_Witt#start/5913/end/5948</field>
+<field name="datetime">1/19/2013 18:38:48</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20130119_170000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130119_170000_Weekends_With_Alex_Witt/MSNBCW_20130119_170000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20130119_170000_Weekends_With_Alex_Witt_005896.jpg</field>
+<field name="snippet">around the country gathered in the nation's capital where the big issues have been gun control and climate change. joining me now, minneapolis mayor, also vice chair of the dnc. nice to see you. thanks for joining us. good to be back, alex.</field>
+</doc>
+</add>

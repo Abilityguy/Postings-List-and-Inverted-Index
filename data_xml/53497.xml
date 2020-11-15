@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201302.csv</field>
+<field name="url">https://archive.org/details/CNNW_20130210_080000_Piers_Morgan_Tonight#start/1829/end/1864</field>
+<field name="datetime">2/10/2013 8:30:44</field>
+<field name="station">CNN</field>
+<field name="show">Piers Morgan Tonight</field>
+<field name="showid">CNNW_20130210_080000_Piers_Morgan_Tonight</field>
+<field name="preview">https://archive.org/download/CNNW_20130210_080000_Piers_Morgan_Tonight/CNNW_20130210_080000_Piers_Morgan_Tonight.thumbs/CNNW_20130210_080000_Piers_Morgan_Tonight_001815.jpg</field>
+<field name="snippet">it's a race against time. we're determined to fulfill the mission, working as fast as we can, we're putting the right people into place. i'm trained as an astronaut. i'm not satisfied until we're back home and the mission is a success. a crucial mission as climate</field>
+</doc>
+</add>

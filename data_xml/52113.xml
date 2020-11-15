@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181204_033000_The_Travel_Show#start/1719/end/1754</field>
+<field name="datetime">12/4/2018 3:58:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Travel Show</field>
+<field name="showid">BBCNEWS_20181204_033000_The_Travel_Show</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181204_033000_The_Travel_Show/BBCNEWS_20181204_033000_The_Travel_Show.thumbs/BBCNEWS_20181204_033000_The_Travel_Show_001707.jpg</field>
+<field name="snippet">our top stories: a crucial summit on climate change, a warning and a call to action from the naturalist and bbc presenter david attenborough. if we don't take action, the collapse of our civilisations and the extinction of much</field>
+</doc>
+</add>

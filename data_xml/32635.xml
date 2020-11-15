@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201211.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121119_210000_Your_World_With_Neil_Cavuto#start/2530/end/2565</field>
+<field name="datetime">11/19/2012 21:42:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20121119_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121119_210000_Your_World_With_Neil_Cavuto/FOXNEWSW_20121119_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20121119_210000_Your_World_With_Neil_Cavuto_002517.jpg</field>
+<field name="snippet">discussed by the congressional budget office is a payroll tax rebate for those in the lower income brackets so we shield the middle class and the poor from the effects of the tax while still getting the benefits of reduced carbon tax, rather, reduced carbon emission.</field>
+</doc>
+</add>

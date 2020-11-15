@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_220000_BBC_News#start/243/end/278</field>
+<field name="datetime">8/8/2019 22:04:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190808_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_220000_BBC_News/BBCNEWS_20190808_220000_BBC_News.thumbs/BBCNEWS_20190808_220000_BBC_News_000239.jpg</field>
+<field name="snippet">that we're likely to see. the report suggests that we have to come up with clever new ways of producing food and of using land if we're to have any chance of avoiding the most dangerous impacts of climate change. and it's very clear that switching to renewables on their own won't be enough.</field>
+</doc>
+</add>

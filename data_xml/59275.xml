@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201106.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110626_110000_Hardball_Weekend#start/1175/end/1210</field>
+<field name="datetime">6/26/2011 11:19:50</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball Weekend</field>
+<field name="showid">MSNBC_20110626_110000_Hardball_Weekend</field>
+<field name="preview">https://archive.org/download/MSNBC_20110626_110000_Hardball_Weekend/MSNBC_20110626_110000_Hardball_Weekend.thumbs/MSNBC_20110626_110000_Hardball_Weekend_001170.jpg</field>
+<field name="snippet">someone had a conversation, and they got talking about global warming, and the american asked the chinese diplomat, are you having this argument in china about global warming? he just sort of laugh and shook his head. he said, you know, our leadership comes from science and engineering mostly, so no,</field>
+</doc>
+</add>

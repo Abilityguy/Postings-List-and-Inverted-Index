@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171212_185000_BBC_News#start/180/end/215</field>
+<field name="datetime">12/12/2017 18:53:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171212_185000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171212_185000_BBC_News/BBCNEWS_20171212_185000_BBC_News.thumbs/BBCNEWS_20171212_185000_BBC_News_000177.jpg</field>
+<field name="snippet">announced a further £140 million that the uk will be spending in helping those countries that are most impacted by climate change. but of course we need constantly to look at what more we can be doing in this area. andl</field>
+</doc>
+</add>

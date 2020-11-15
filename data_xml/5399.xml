@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171216_060000_Breakfast#start/3252/end/3287</field>
+<field name="datetime">12/16/2017 6:54:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20171216_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171216_060000_Breakfast/BBCNEWS_20171216_060000_Breakfast.thumbs/BBCNEWS_20171216_060000_Breakfast_003238.jpg</field>
+<field name="snippet">this work is an expression of marina's fear that humans will not survive the consequences of climate change, if we don't change our behaviour. i'm being covered in spray. and now there's a note.</field>
+</doc>
+</add>

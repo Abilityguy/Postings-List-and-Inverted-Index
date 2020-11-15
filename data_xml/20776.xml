@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201202.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120220_110000_FOX_and_Friends#start/685/end/720</field>
+<field name="datetime">2/20/2012 11:11:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20120220_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120220_110000_FOX_and_Friends/FOXNEWSW_20120220_110000_FOX_and_Friends.thumbs/FOXNEWSW_20120220_110000_FOX_and_Friends_000656.jpg</field>
+<field name="snippet">example, the politization of the whole global warming debate. i'm sure in his heart of hearts, he would like a do over on that. if he would have done it again, he would not have used theology. that opens up a whole can of</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181102_140000_Afternoon_Live#start/6353/end/6388</field>
+<field name="datetime">11/2/2018 15:46:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20181102_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181102_140000_Afternoon_Live/BBCNEWS_20181102_140000_Afternoon_Live.thumbs/BBCNEWS_20181102_140000_Afternoon_Live_006327.jpg</field>
+<field name="snippet">a stark warning from the met office - the uk has faced more weather extremes over the last decade due to global warming. detectives begin a criminal inquiry into claims that members of the labour party have committed anti-semitic hate crimes. rescuers search for the 15 victims of a bus crash - the vehicle plunged into a river after a row between the driver and a passenger.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201906.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190622_180000_MSNBC_Live_with_Kendis_Gibson#start/5943/end/5978</field>
+<field name="datetime">6/22/2019 19:39:18</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live with Kendis Gibson</field>
+<field name="showid">MSNBCW_20190622_180000_MSNBC_Live_with_Kendis_Gibson</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190622_180000_MSNBC_Live_with_Kendis_Gibson/MSNBCW_20190622_180000_MSNBC_Live_with_Kendis_Gibson.thumbs/MSNBCW_20190622_180000_MSNBC_Live_with_Kendis_Gibson_005939.jpg</field>
+<field name="snippet">elizabeth warren outlining her policy plans. other candidates trying to break out. you had jay inslee here outlining his approach to the climate crisis, eric swalwell talking about taking gun control and making it a major if not the</field>
+</doc>
+</add>

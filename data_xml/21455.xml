@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100130_090000_Special_Report_With_Bret_Baier#start/1542/end/1577</field>
+<field name="datetime">1/30/2010 9:25:57</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100130_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100130_090000_Special_Report_With_Bret_Baier/FOXNEWS_20100130_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100130_090000_Special_Report_With_Bret_Baier_001524.jpg</field>
+<field name="snippet">program.' kris gutierrez, thanks. president obama says the federal government will cut greenhouse gas by 28% in the next decade. that trumps his pledge for the nation to cut emissions by 17% over that time. the president says the got spend more than $24.5 billion</field>
+</doc>
+</add>

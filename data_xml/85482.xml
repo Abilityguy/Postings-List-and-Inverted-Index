@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201011.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101116_110000_Morning_Joe#start/9634/end/9669</field>
+<field name="datetime">11/16/2010 13:40:49</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20101116_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20101116_110000_Morning_Joe/MSNBC_20101116_110000_Morning_Joe.thumbs/MSNBC_20101116_110000_Morning_Joe_009630.jpg</field>
+<field name="snippet">global thinkers of 2010 and the author of 'smart solutions to climate change: comparing costs to benefits'. he joins us for the power and progress series. welcome to the show. thank you.</field>
+</doc>
+</add>

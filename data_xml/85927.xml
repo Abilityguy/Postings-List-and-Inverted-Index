@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201709.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170917_230000_Newsday#start/933/end/968</field>
+<field name="datetime">9/17/2017 23:15:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20170917_230000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170917_230000_Newsday/BBCNEWS_20170917_230000_Newsday.thumbs/BBCNEWS_20170917_230000_Newsday_000928.jpg</field>
+<field name="snippet">i'm sharanjit leyl in singapore. i'm babita sharma in london. our top stories: the un has warned of a horrible tragedy for rohingya muslims, and says myanmar has one last chance to halt the offensive against them. the united states has signalled a possible change in policy on climate change. secretary of state rex tillerson</field>
+</doc>
+</add>

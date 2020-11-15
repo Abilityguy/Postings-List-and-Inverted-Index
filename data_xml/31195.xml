@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090713_230000_The_FOX_Report_With_Shepard_Smith#start/2567/end/2602</field>
+<field name="datetime">7/13/2009 23:43:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The FOX Report With Shepard Smith</field>
+<field name="showid">FOXNEWS_20090713_230000_The_FOX_Report_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090713_230000_The_FOX_Report_With_Shepard_Smith/FOXNEWS_20090713_230000_The_FOX_Report_With_Shepard_Smith.thumbs/FOXNEWS_20090713_230000_The_FOX_Report_With_Shepard_Smith_002366.jpg</field>
+<field name="snippet">and why do some of the critics now say that all of these czars could mean trouble for the white house? we'll report, you decide. that's next. shepard: since he took office. their administration officials basically charged with working on issues such as climate</field>
+</doc>
+</add>

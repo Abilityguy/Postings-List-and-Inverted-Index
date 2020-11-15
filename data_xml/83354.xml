@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191011_020000_BBC_News#start/787/end/822</field>
+<field name="datetime">10/11/2019 2:13:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191011_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191011_020000_BBC_News/BBCNEWS_20191011_020000_BBC_News.thumbs/BBCNEWS_20191011_020000_BBC_News_000779.jpg</field>
+<field name="snippet">through the skyscrapers, is good for the glass, storm surge, all that stuff in the downtown area with 9 million people, a recipe for bad news. just briefly, what factors are at play here, there is a climate change issue, the intensity of storms increasing much faster than it used to? exactly. more storms</field>
+</doc>
+</add>

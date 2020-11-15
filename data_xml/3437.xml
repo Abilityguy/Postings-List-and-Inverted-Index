@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201506.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150608_100000_FOX_and_Friends#start/5714/end/5749</field>
+<field name="datetime">6/8/2015 11:35:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20150608_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150608_100000_FOX_and_Friends/FOXNEWSW_20150608_100000_FOX_and_Friends.thumbs/FOXNEWSW_20150608_100000_FOX_and_Friends_005715.jpg</field>
+<field name="snippet">make for an awkward moment or two. joining us live from austria near the g7 summit. what's the inside scoop on all this? climate change? reporter: climate change yes. they'll talk about that at some point. this is a relatively big day.</field>
+</doc>
+</add>

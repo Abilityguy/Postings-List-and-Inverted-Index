@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170526_073000_BBC_Business_Live#start/0/end/31</field>
+<field name="datetime">5/26/2017 7:30:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Business Live</field>
+<field name="showid">BBCNEWS_20170526_073000_BBC_Business_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170526_073000_BBC_Business_Live/BBCNEWS_20170526_073000_BBC_Business_Live.thumbs/BBCNEWS_20170526_073000_BBC_Business_Live_000057.jpg</field>
+<field name="snippet">this is business live from bbc news with jamie robertson and ben bland. dealing with the trump card. can the other g7 leaders keep the us president on side over trade and climate change? live from london, that's our top story on friday 26th may. the us president has withdrawn</field>
+</doc>
+</add>

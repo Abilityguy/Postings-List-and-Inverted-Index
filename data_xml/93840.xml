@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190704_190000_BBC_News#start/3236/end/3271</field>
+<field name="datetime">7/4/2019 19:54:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190704_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190704_190000_BBC_News/BBCNEWS_20190704_190000_BBC_News.thumbs/BBCNEWS_20190704_190000_BBC_News_003238.jpg</field>
+<field name="snippet">the ground. sarah corker, bbc news, in carlisle. he's been described as the most important scientific thinker in the world, and his work has led to what we understand about climate change today. now james lovelock is about to celebrate his 100th birthday. mishal husain went to meet him.</field>
+</doc>
+</add>

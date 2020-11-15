@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201411.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20141112_190000_The_Reid_Report#start/2364/end/2399</field>
+<field name="datetime">11/12/2014 19:39:39</field>
+<field name="station">MSNBC</field>
+<field name="show">The Reid Report</field>
+<field name="showid">MSNBCW_20141112_190000_The_Reid_Report</field>
+<field name="preview">https://archive.org/download/MSNBCW_20141112_190000_The_Reid_Report/MSNBCW_20141112_190000_The_Reid_Report.thumbs/MSNBCW_20141112_190000_The_Reid_Report_002356.jpg</field>
+<field name="snippet">we're reducing carbon pollution in the united states. it puts us on a path to achieving the deep emissions reductions by advanced economies that the scientific community says is necessary to prevent the most catastrophic effects of climate change.</field>
+</doc>
+</add>

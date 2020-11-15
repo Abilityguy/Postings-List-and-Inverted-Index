@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180608_230000_BBC_News#start/856/end/891</field>
+<field name="datetime">6/8/2018 23:14:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180608_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180608_230000_BBC_News/BBCNEWS_20180608_230000_BBC_News.thumbs/BBCNEWS_20180608_230000_BBC_News_000837.jpg</field>
+<field name="snippet">this is bbc news. our top story: g7 leaders are in canada for a summit. there are disagreements between them on tariffs and climate change. and before leaving for the meeting, president trump called for russia to be re-admitted to the group. today fans and friends</field>
+</doc>
+</add>

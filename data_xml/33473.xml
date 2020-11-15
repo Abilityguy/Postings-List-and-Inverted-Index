@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091205_190000_The_Journal_Editorial_Report#start/1213/end/1248</field>
+<field name="datetime">12/5/2009 19:20:28</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Journal Editorial Report</field>
+<field name="showid">FOXNEWS_20091205_190000_The_Journal_Editorial_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091205_190000_The_Journal_Editorial_Report/FOXNEWS_20091205_190000_The_Journal_Editorial_Report.thumbs/FOXNEWS_20091205_190000_The_Journal_Editorial_Report_001200.jpg</field>
+<field name="snippet">phil jones director of the university's climate research unit announced earlier this week that he is stepping down while the university investigates the incident. dan, so, do you think this is a big deal not only for global warming, but also for the</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201411.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20141112_210000_NOW_With_Alex_Wagner#start/87/end/122</field>
+<field name="datetime">11/12/2014 21:01:42</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20141112_210000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20141112_210000_NOW_With_Alex_Wagner/MSNBCW_20141112_210000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20141112_210000_NOW_With_Alex_Wagner_000075.jpg</field>
+<field name="snippet">part of the solution not part of the problem. historic, landmark, ground breaking, those words describing the agreement reached between u.s. and china on climate change. it is a really big deal. today's announcement represents</field>
+</doc>
+</add>

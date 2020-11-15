@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201302.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130206_160000_Happening_Now#start/6570/end/6605</field>
+<field name="datetime">2/6/2013 17:49:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20130206_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130206_160000_Happening_Now/FOXNEWSW_20130206_160000_Happening_Now.thumbs/FOXNEWSW_20130206_160000_Happening_Now_006555.jpg</field>
+<field name="snippet">finding in antarctica? yes. well amongst, we've got several different stations with the british survey and we will be looking at all aspects of climate change.</field>
+</doc>
+</add>

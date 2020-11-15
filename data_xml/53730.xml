@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201807.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180726_193000_Feeling_the_Heat#start/896/end/931</field>
+<field name="datetime">7/26/2018 19:45:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Feeling the Heat</field>
+<field name="showid">BBCNEWS_20180726_193000_Feeling_the_Heat</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180726_193000_Feeling_the_Heat/BBCNEWS_20180726_193000_Feeling_the_Heat.thumbs/BBCNEWS_20180726_193000_Feeling_the_Heat_000897.jpg</field>
+<field name="snippet">it's possible that we can't say whether a particular weather event can be ascribed to climate change. now it is becoming much clearer that we can with quite a lot of confidence, so that's a big wake and extreme weather event is linked to climate change or at least would be very likely to have happened without</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190511_160000_BBC_News#start/2048/end/2083</field>
+<field name="datetime">5/11/2019 16:34:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190511_160000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190511_160000_BBC_News/BBCNEWS_20190511_160000_BBC_News.thumbs/BBCNEWS_20190511_160000_BBC_News_002038.jpg</field>
+<field name="snippet">of people facing famine. concerns over climate change might restrict the growth of flying in the uk, according to a senior civil servant. jeremy corbyn announces that labour would pay 16 and 17-year-olds the same minimum wage as everyone else if they win the next election.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151208_010000_All_In_With_Chris_Hayes#start/45/end/80</field>
+<field name="datetime">12/8/2015 1:01:00</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20151208_010000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151208_010000_All_In_With_Chris_Hayes/MSNBCW_20151208_010000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20151208_010000_All_In_With_Chris_Hayes_000045.jpg</field>
+<field name="snippet">investigate the chicago police. this is bigger than one incident. as the paris summit continues. bernie sanders on why climate change is the biggest threat facing us all. let me be clear about this. i see this as the major planetary environmental crisis</field>
+</doc>
+</add>

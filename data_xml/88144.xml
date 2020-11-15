@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191207_150000_BBC_News#start/666/end/701</field>
+<field name="datetime">12/7/2019 15:11:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191207_150000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191207_150000_BBC_News/BBCNEWS_20191207_150000_BBC_News.thumbs/BBCNEWS_20191207_150000_BBC_News_000657.jpg</field>
+<field name="snippet">joining us. and with mark drakeford. there's fresh warning that climate change and nutrient pollution are dimnishing oxygen levels in our oceans. that's the conclusion of the biggest study of its kind, undertaken by the group the international union for the conservation of nature. while nutrient run-off has</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201007.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100706_100000_FOX_and_Friends#start/2424/end/2459</field>
+<field name="datetime">7/6/2010 10:40:39</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100706_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100706_100000_FOX_and_Friends/FOXNEWS_20100706_100000_FOX_and_Friends.thumbs/FOXNEWS_20100706_100000_FOX_and_Friends_002424.jpg</field>
+<field name="snippet">global warming. please keep sending these in to friends -- is it friends at foxnews.com? there it is on the screen for me. and from hotness to iceland. a mystery involving the late</field>
+</doc>
+</add>

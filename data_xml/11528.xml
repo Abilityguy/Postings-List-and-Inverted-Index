@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190822_160000_BBC_News_at_Five#start/94/end/129</field>
+<field name="datetime">8/22/2019 16:01:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190822_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190822_160000_BBC_News_at_Five/BBCNEWS_20190822_160000_BBC_News_at_Five.thumbs/BBCNEWS_20190822_160000_BBC_News_at_Five_000058.jpg</field>
+<field name="snippet">mps warn the uk will not meet its climate change targets unless people ditch their cars. good afternoon. our main story at five is borisjohnson has been in paris for talks with emmanuel macron,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181001_120000_BBC_News_at_One#start/1433/end/1468</field>
+<field name="datetime">10/1/2018 12:24:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20181001_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181001_120000_BBC_News_at_One/BBCNEWS_20181001_120000_BBC_News_at_One.thumbs/BBCNEWS_20181001_120000_BBC_News_at_One_001407.jpg</field>
+<field name="snippet">that the fingerprint of climate change can be seen in the severity and frequency of extreme weather events. while the paris climate agreement committed governments to keeping this rise in global temperatures this century to well under two degrees, many researchers believe this limit is in fact too high</field>
+</doc>
+</add>

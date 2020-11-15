@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201401.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140117_080000_Red_Eye#start/16/end/51</field>
+<field name="datetime">1/17/2014 8:00:31</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWSW_20140117_080000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140117_080000_Red_Eye/FOXNEWSW_20140117_080000_Red_Eye.thumbs/FOXNEWSW_20140117_080000_Red_Eye_000045.jpg</field>
+<field name="snippet">to night on 'red eye.' coming up on 'red eye, extreme pogo sticking and evidence suggesting this pudding sport could be responsible for global warming. and why doesn't the president have people working</field>
+</doc>
+</add>

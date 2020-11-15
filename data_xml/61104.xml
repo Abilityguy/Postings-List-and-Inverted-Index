@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201305.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130521_160000_NOW_With_Alex_Wagner#start/1305/end/1340</field>
+<field name="datetime">5/21/2013 16:22:00</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20130521_160000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130521_160000_NOW_With_Alex_Wagner/MSNBCW_20130521_160000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20130521_160000_NOW_With_Alex_Wagner_001305.jpg</field>
+<field name="snippet">climate change has played a role in the recent patterns. 2011 saw a record number of twisters, but until this week, the past 12 months had seen the fewest tornadoes in 20 years. but still recent history sucks that a new era of extreme weather is upon us. with record heat waves, droughts, wildfires and deadly</field>
+</doc>
+</add>

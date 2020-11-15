@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201112.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111212_110000_FOX_and_Friends#start/8160/end/8195</field>
+<field name="datetime">12/12/2011 13:16:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20111212_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111212_110000_FOX_and_Friends/FOXNEWSW_20111212_110000_FOX_and_Friends.thumbs/FOXNEWSW_20111212_110000_FOX_and_Friends_008157.jpg</field>
+<field name="snippet">the united states, owe underdeveloped countries for our climate change. joining us, fox news legal analyst, peter johnson, jr. good morning. they finally came to a deal in durbin, south africa with some</field>
+</doc>
+</add>

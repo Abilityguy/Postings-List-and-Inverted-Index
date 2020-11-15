@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201311.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20131104_000000_FOX_Report#start/1124/end/1159</field>
+<field name="datetime">11/4/2013 0:18:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report</field>
+<field name="showid">FOXNEWSW_20131104_000000_FOX_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20131104_000000_FOX_Report/FOXNEWSW_20131104_000000_FOX_Report.thumbs/FOXNEWSW_20131104_000000_FOX_Report_001125.jpg</field>
+<field name="snippet">forces more than 20000 people from their homes. we will tell you what it is coming up. whether you believe in it, a group of top scientists says they have a cure for global warming. [ female announcer ] it figures.on your busiest day</field>
+</doc>
+</add>

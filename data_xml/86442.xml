@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191206_110000_BBC_Newsroom_Live#start/6105/end/6140</field>
+<field name="datetime">12/6/2019 12:42:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20191206_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191206_110000_BBC_Newsroom_Live/BBCNEWS_20191206_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20191206_110000_BBC_Newsroom_Live_006088.jpg</field>
+<field name="snippet">and unpredictable these fires are. now, the severity of these fires, the timing of these fires, early on into the fire season have sparked anger at the government. many people are criticising scott morrison's government for not doing enough to tackle climate change.</field>
+</doc>
+</add>

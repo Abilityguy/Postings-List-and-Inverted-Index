@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190706_080000_Hannity_Fourth_of_July_Special#start/609/end/644</field>
+<field name="datetime">7/6/2019 8:10:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity Fourth of July Special</field>
+<field name="showid">FOXNEWSW_20190706_080000_Hannity_Fourth_of_July_Special</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190706_080000_Hannity_Fourth_of_July_Special/FOXNEWSW_20190706_080000_Hannity_Fourth_of_July_Special.thumbs/FOXNEWSW_20190706_080000_Hannity_Fourth_of_July_Special_000599.jpg</field>
+<field name="snippet">for the entire nbc network. sean: mark, you seem to have a whole news channel that is a conspiracy channel. msnbc. sean: like roswell, new mexico, every night over there. this is an enormous disservice to the american people. chuck todd doesn't know the first thing about climate</field>
+</doc>
+</add>

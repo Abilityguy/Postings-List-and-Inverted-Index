@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201409.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140922_090000_First_Look#start/953/end/988</field>
+<field name="datetime">9/22/2014 9:16:08</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20140922_090000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140922_090000_First_Look/MSNBCW_20140922_090000_First_Look.thumbs/MSNBCW_20140922_090000_First_Look_000946.jpg</field>
+<field name="snippet">and it is being called the largest march ever on global warming. some 300000 people jammed the streets of new york yesterday to demand action. it was part of a longer week-long effort in 160 cities</field>
+</doc>
+</add>

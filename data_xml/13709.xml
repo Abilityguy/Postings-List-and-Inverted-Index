@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201501.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150116_170000_Outnumbered#start/2426/end/2461</field>
+<field name="datetime">1/16/2015 17:40:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Outnumbered</field>
+<field name="showid">FOXNEWSW_20150116_170000_Outnumbered</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150116_170000_Outnumbered/FOXNEWSW_20150116_170000_Outnumbered.thumbs/FOXNEWSW_20150116_170000_Outnumbered_002415.jpg</field>
+<field name="snippet">cooperation on cybersecurity to protect our critical infrastructure, our businesses and the privacy of our people. and as leaders in the global fight against climate change we believe that a strong commitment to reducing greenhouse gases will be an essential element of</field>
+</doc>
+</add>

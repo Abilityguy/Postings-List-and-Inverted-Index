@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201509.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150930_030000_All_In_With_Chris_Hayes#start/3242/end/3277</field>
+<field name="datetime">9/30/2015 3:54:17</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20150930_030000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150930_030000_All_In_With_Chris_Hayes/MSNBCW_20150930_030000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20150930_030000_All_In_With_Chris_Hayes_003225.jpg</field>
+<field name="snippet">earlier today i spoke with mayor philip stoddard about the florida's place on the frontline of climate change in this country. because he also happens to be a biology professor, i asked him about the rarity of being a scientist and a politician.</field>
+</doc>
+</add>

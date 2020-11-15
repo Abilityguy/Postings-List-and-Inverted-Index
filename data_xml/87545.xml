@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191223_090000_BBC_News#start/494/end/529</field>
+<field name="datetime">12/23/2019 9:08:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191223_090000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191223_090000_BBC_News/BBCNEWS_20191223_090000_BBC_News.thumbs/BBCNEWS_20191223_090000_BBC_News_000477.jpg</field>
+<field name="snippet">scott morrison is not about to divert away from his charted course on climate change. he won an election here in may, promising to support the coal industry. scott morrison says that australia is being responsible and its emissions</field>
+</doc>
+</add>

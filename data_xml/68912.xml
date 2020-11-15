@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201003.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100331_100000_Morning_Joe#start/9869/end/9904</field>
+<field name="datetime">3/31/2010 12:44:44</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20100331_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20100331_100000_Morning_Joe/MSNBC_20100331_100000_Morning_Joe.thumbs/MSNBC_20100331_100000_Morning_Joe_009865.jpg</field>
+<field name="snippet">that cooperating with this administration at this time is not necessary in order for them to pick up seats during the midterm election. so if this is more of a legislative maneuver in order to get a broader bill on climate change, unfortunately, i think it's going to come up short.</field>
+</doc>
+</add>

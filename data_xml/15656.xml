@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201104.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110428_150000_Happening_Now#start/1585/end/1620</field>
+<field name="datetime">4/28/2011 15:26:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20110428_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110428_150000_Happening_Now/FOXNEWS_20110428_150000_Happening_Now.thumbs/FOXNEWS_20110428_150000_Happening_Now_001585.jpg</field>
+<field name="snippet">people who are yelling the sky is falling. absolutely. there is a tendency every time we see something terrible, and this is terrible, absolutely. when we see that we say, oh, it must be global warming. and we certainly need to, you know, pause and step back and</field>
+</doc>
+</add>

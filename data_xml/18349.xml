@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201311.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20131104_000000_FOX_Report#start/1379/end/1414</field>
+<field name="datetime">11/4/2013 0:23:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report</field>
+<field name="showid">FOXNEWSW_20131104_000000_FOX_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20131104_000000_FOX_Report/FOXNEWSW_20131104_000000_FOX_Report.thumbs/FOXNEWSW_20131104_000000_FOX_Report_001365.jpg</field>
+<field name="snippet">world's largest economies have begun to look at reducing nuclear energy, and now scientists are saying if the world doesn't go nuclear global warming will get worst.</field>
+</doc>
+</add>

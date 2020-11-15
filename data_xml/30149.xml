@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201508.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150804_093000_Way_Too_Early#start/1114/end/1149</field>
+<field name="datetime">8/4/2015 9:48:49</field>
+<field name="station">MSNBC</field>
+<field name="show">Way Too Early</field>
+<field name="showid">MSNBCW_20150804_093000_Way_Too_Early</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150804_093000_Way_Too_Early/MSNBCW_20150804_093000_Way_Too_Early.thumbs/MSNBCW_20150804_093000_Way_Too_Early_001096.jpg</field>
+<field name="snippet">climate change. we're the first generation to feel the impact of climate change. we're the last generation to do something about it. we only get one home. we only get one planet.</field>
+</doc>
+</add>

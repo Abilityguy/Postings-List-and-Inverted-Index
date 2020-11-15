@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190819_170000_BBC_News_at_Six#start/1046/end/1081</field>
+<field name="datetime">8/19/2019 17:17:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20190819_170000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190819_170000_BBC_News_at_Six/BBCNEWS_20190819_170000_BBC_News_at_Six.thumbs/BBCNEWS_20190819_170000_BBC_News_at_Six_001019.jpg</field>
+<field name="snippet">more than a fifth of england's flowers and bulbs are produced here, and more than a third of its fresh veg. but this is a man-made landscape, it's been drained for centuries, it is a constant battle to keep water levels down. climate change, with predictions of sea-level rise and flash flooding, could tip the balance.</field>
+</doc>
+</add>

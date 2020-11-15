@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201401.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140107_060000_Hannity#start/1103/end/1138</field>
+<field name="datetime">1/7/2014 6:18:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20140107_060000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140107_060000_Hannity/FOXNEWSW_20140107_060000_Hannity.thumbs/FOXNEWSW_20140107_060000_Hannity_001095.jpg</field>
+<field name="snippet">and if it's raining, it's global warming, if it doesn't rain it's global warming. the $7 billion that they spent looking into global warming is a lot better than the 24 billion that the republicans</field>
+</doc>
+</add>

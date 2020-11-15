@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201512.csv</field>
+<field name="url">https://archive.org/details/CNNW_20151212_090000_CNN_Newsroom_Live#start/5635/end/5670</field>
+<field name="datetime">12/12/2015 10:34:10</field>
+<field name="station">CNN</field>
+<field name="show">CNN Newsroom Live</field>
+<field name="showid">CNNW_20151212_090000_CNN_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/CNNW_20151212_090000_CNN_Newsroom_Live/CNNW_20151212_090000_CNN_Newsroom_Live.thumbs/CNNW_20151212_090000_CNN_Newsroom_Live_005625.jpg</field>
+<field name="snippet">as you and i talk, bring our viewers up to date. those are live pictures from paris. delegates taking to their seats, waiting for the french foreign minister to address them. the final details of the global climate change. the global proposal. we need to know the details.</field>
+</doc>
+</add>

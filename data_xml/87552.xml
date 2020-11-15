@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191217_110000_BBC_Newsroom_Live#start/5042/end/5077</field>
+<field name="datetime">12/17/2019 12:24:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20191217_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191217_110000_BBC_Newsroom_Live/BBCNEWS_20191217_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20191217_110000_BBC_Newsroom_Live_005037.jpg</field>
+<field name="snippet">officials have accused the australian government of not taking the threat of climate change seriously. here in new south wales the fires are unprecedented. more countries have been burned and more homes lost, three times more homes</field>
+</doc>
+</add>

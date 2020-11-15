@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091208_180000_Andrea_Mitchell_Reports#start/1545/end/1580</field>
+<field name="datetime">12/8/2009 18:26:00</field>
+<field name="station">MSNBC</field>
+<field name="show">Andrea Mitchell Reports</field>
+<field name="showid">MSNBC_20091208_180000_Andrea_Mitchell_Reports</field>
+<field name="preview">https://archive.org/download/MSNBC_20091208_180000_Andrea_Mitchell_Reports/MSNBC_20091208_180000_Andrea_Mitchell_Reports.thumbs/MSNBC_20091208_180000_Andrea_Mitchell_Reports_001493.jpg</field>
+<field name="snippet">president al gore, here to talk about the challenges of climate change. if you have a question for the former vice president, send me your tweets at twitter.msnbc.com and follow the link to my twitter page. somewhere in america, there's a home by the sea</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181206_050000_Tucker_Carlson_Tonight#start/2523/end/2558</field>
+<field name="datetime">12/6/2018 5:42:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20181206_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181206_050000_Tucker_Carlson_Tonight/FOXNEWSW_20181206_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20181206_050000_Tucker_Carlson_Tonight_002517.jpg</field>
+<field name="snippet">it's really not fair to put the tax on the individual. tucker: it's not fair for someone who is telling us the planet is being destroyed to live in a way that suggests that he actually believes the planet is being destroyed.ng i honestly really don't get it. if you are al gore and you say, nothing is more important than climate</field>
+</doc>
+</add>

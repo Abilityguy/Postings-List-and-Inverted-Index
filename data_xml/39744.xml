@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091103_160000_Happening_Now#start/515/end/550</field>
+<field name="datetime">11/3/2009 16:08:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091103_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091103_160000_Happening_Now/FOXNEWS_20091103_160000_Happening_Now.thumbs/FOXNEWS_20091103_160000_Happening_Now_000510.jpg</field>
+<field name="snippet">she has been talking about afghanistan and global warming. she is suggesting -- addressing a joint meeting of congress</field>
+</doc>
+</add>

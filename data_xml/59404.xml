@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201106.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110609_140000_Jansing_and_Co.#start/341/end/376</field>
+<field name="datetime">6/9/2011 14:05:56</field>
+<field name="station">MSNBC</field>
+<field name="show">Jansing and Co.</field>
+<field name="showid">MSNBC_20110609_140000_Jansing_and_Co.</field>
+<field name="preview">https://archive.org/download/MSNBC_20110609_140000_Jansing_and_Co./MSNBC_20110609_140000_Jansing_and_Co..thumbs/MSNBC_20110609_140000_Jansing_and_Co._000326.jpg</field>
+<field name="snippet">luck of the draw for the east coast right now? well, particularly events are just luck of the draw, but obviously, scientists have antennae up looking for signs of climate change. if we see persistent heat waves, maybe five out of ten years have</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_130000_Afternoon_Live#start/2344/end/2379</field>
+<field name="datetime">10/8/2018 13:39:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20181008_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_130000_Afternoon_Live/BBCNEWS_20181008_130000_Afternoon_Live.thumbs/BBCNEWS_20181008_130000_Afternoon_Live_002338.jpg</field>
+<field name="snippet">on climate change is calling for the rise in the earth's temperature since the industrial age to be limited to 1.5 degrees celsius. i'm nowjoined byjonathan bartley, co-leader of the green party.</field>
+</doc>
+</add>

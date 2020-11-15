@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_160000_BBC_News_at_Five#start/176/end/211</field>
+<field name="datetime">10/8/2018 16:03:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20181008_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_160000_BBC_News_at_Five/BBCNEWS_20181008_160000_BBC_News_at_Five.thumbs/BBCNEWS_20181008_160000_BBC_News_at_Five_000148.jpg</field>
+<field name="snippet">a milestone in conveying that message to human society. countries need to up their ambition and get moving now with climate change action if we're going to keep 1.5 degrees within reach. with no action, the world is on course to breach this crucial target by as early as 2030, compromising the very</field>
+</doc>
+</add>

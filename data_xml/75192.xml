@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_190000_Beyond_100_Days#start/1192/end/1227</field>
+<field name="datetime">1/16/2020 19:20:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20200116_190000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_190000_Beyond_100_Days/BBCNEWS_20200116_190000_Beyond_100_Days.thumbs/BBCNEWS_20200116_190000_Beyond_100_Days_001169.jpg</field>
+<field name="snippet">the fires in australia are ferocious, out-of-control, and far worse than usual. they've made headlines around the world, and scientists have warned that climate change has made them more severe. now sir david attenborough agrees with them. as i speak, south-east australia is on fire.</field>
+</doc>
+</add>

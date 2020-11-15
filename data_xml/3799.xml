@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170426_043000_World_Business_Report#start/871/end/906</field>
+<field name="datetime">4/26/2017 4:44:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World Business Report</field>
+<field name="showid">BBCNEWS_20170426_043000_World_Business_Report</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170426_043000_World_Business_Report/BBCNEWS_20170426_043000_World_Business_Report.thumbs/BBCNEWS_20170426_043000_World_Business_Report_000868.jpg</field>
+<field name="snippet">business and sport. they'll also have more on the changing face of british gardens. a new report from the royal horticultural society says climate change is going to affect gardens in the north and south of the uk in very different ways. that's breakfast at 6am. this is bbc world news.</field>
+</doc>
+</add>

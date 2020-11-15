@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091130_230000_Special_Report_With_Bret_Baier#start/3099/end/3134</field>
+<field name="datetime">11/30/2009 23:51:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091130_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091130_230000_Special_Report_With_Bret_Baier/FOXNEWS_20091130_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091130_230000_Special_Report_With_Bret_Baier_003083.jpg</field>
+<field name="snippet">before we go about reorienting u.s. policy on global climate change. this, i think, speaks directly to the scandal with the e-mails. in the e-mails you see in print evidence of these scientists manipulating the</field>
+</doc>
+</add>

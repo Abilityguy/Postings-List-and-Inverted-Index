@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201909.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190917_000000_All_In_With_Chris_Hayes#start/3228/end/3263</field>
+<field name="datetime">9/17/2019 0:54:03</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20190917_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190917_000000_All_In_With_Chris_Hayes/MSNBCW_20190917_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20190917_000000_All_In_With_Chris_Hayes_003208.jpg</field>
+<field name="snippet">on the eve of this big week of international focus on climate change, new polling shows people's opinions are moving and changing. it is happening in front of our eyes. people are noticing. we're used to seeing polls that show an even partisan split on so many issues, similar to polls along the lines of do you like trump or not, basically.</field>
+</doc>
+</add>

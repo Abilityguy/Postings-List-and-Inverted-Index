@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190511_060000_Breakfast#start/570/end/605</field>
+<field name="datetime">5/11/2019 6:09:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190511_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190511_060000_Breakfast/BBCNEWS_20190511_060000_Breakfast.thumbs/BBCNEWS_20190511_060000_Breakfast_000568.jpg</field>
+<field name="snippet">to ensure poetry embraces major global issues, including climate change. here's our arts editor, will gompertz.</field>
+</doc>
+</add>

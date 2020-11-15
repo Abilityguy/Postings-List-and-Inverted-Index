@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201501.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150127_220000_The_Five#start/79/end/114</field>
+<field name="datetime">1/27/2015 22:01:34</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20150127_220000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150127_220000_The_Five/FOXNEWSW_20150127_220000_The_Five.thumbs/FOXNEWSW_20150127_220000_The_Five_000075.jpg</field>
+<field name="snippet">so in a sense is this somewhat new territory for us in the meteorological world. the very strong winds that will be associated with this storm in the next couple days, these could be connected to climate change.</field>
+</doc>
+</add>

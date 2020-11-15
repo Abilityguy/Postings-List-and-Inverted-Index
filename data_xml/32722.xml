@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091205_190000_The_Journal_Editorial_Report#start/1198/end/1233</field>
+<field name="datetime">12/5/2009 19:20:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Journal Editorial Report</field>
+<field name="showid">FOXNEWS_20091205_190000_The_Journal_Editorial_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091205_190000_The_Journal_Editorial_Report/FOXNEWS_20091205_190000_The_Journal_Editorial_Report.thumbs/FOXNEWS_20091205_190000_The_Journal_Editorial_Report_001200.jpg</field>
+<field name="snippet">after leading climate scientists were leaked on the internet last month and reveal attempts to manipulate and hide date that that downplayed global warming and efforts to avoid freedom of information requirements from global warming skeptics.</field>
+</doc>
+</add>

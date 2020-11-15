@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171106_110000_BBC_Newsroom_Live#start/2877/end/2912</field>
+<field name="datetime">11/6/2017 11:48:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20171106_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171106_110000_BBC_Newsroom_Live/BBCNEWS_20171106_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20171106_110000_BBC_Newsroom_Live_002852.jpg</field>
+<field name="snippet">0rganisation says this year is likely to be one of the warmest years on record. its report was released as the un climate change conference began in the german city of bonn. it's the first major meeting</field>
+</doc>
+</add>

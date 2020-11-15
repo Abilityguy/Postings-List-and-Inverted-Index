@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170811_221500_Newsnight#start/1298/end/1333</field>
+<field name="datetime">8/11/2017 22:36:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsnight</field>
+<field name="showid">BBCNEWS_20170811_221500_Newsnight</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170811_221500_Newsnight/BBCNEWS_20170811_221500_Newsnight.thumbs/BBCNEWS_20170811_221500_Newsnight_001288.jpg</field>
+<field name="snippet">they walk the streets? thank you for putting that view to us. thank you, andreas. well, we've been dealing with some tough issues tonight, but bear with us, this last story has a more hopeful note. climate change poses huge challenges and, it's projected, will cause hundreds of millions to become refugees.</field>
+</doc>
+</add>

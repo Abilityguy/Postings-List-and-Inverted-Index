@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201703.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170329_030000_BBC_News#start/1731/end/1766</field>
+<field name="datetime">3/29/2017 3:29:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170329_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170329_030000_BBC_News/BBCNEWS_20170329_030000_BBC_News.thumbs/BBCNEWS_20170329_030000_BBC_News_001708.jpg</field>
+<field name="snippet">an executive order scrapping the us's green energy targets and boosting its troubled coal industry. us environmentalists say the move will hinder efforts to curb climate change and have vowed to challenge it in the courts. there's deepening concern for thousands of civilians caught up</field>
+</doc>
+</add>

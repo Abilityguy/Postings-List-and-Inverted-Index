@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181122_040000_BBC_News#start/995/end/1030</field>
+<field name="datetime">11/22/2018 4:16:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181122_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181122_040000_BBC_News/BBCNEWS_20181122_040000_BBC_News.thumbs/BBCNEWS_20181122_040000_BBC_News_000987.jpg</field>
+<field name="snippet">justice of the us supreme court, john roberts, who has rebuked the president for describing a colleague as an obama judge. next month politicians from around the world will gather in poland for the united nations climate change conference, and for the first time, there will be one seat that is not for a nation.</field>
+</doc>
+</add>

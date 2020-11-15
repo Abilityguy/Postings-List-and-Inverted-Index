@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190605_080000_Fox_and_Friends_First#start/36/end/71</field>
+<field name="datetime">6/5/2019 8:00:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190605_080000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190605_080000_Fox_and_Friends_First/FOXNEWSW_20190605_080000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190605_080000_Fox_and_Friends_First_000027.jpg</field>
+<field name="snippet">rob: we have complete coverage of the historic tribute. joe biden's plan to combat climate change already burning out. science tells us that how we after failed to act in the next 12 years will determine the livability of our planet.</field>
+</doc>
+</add>

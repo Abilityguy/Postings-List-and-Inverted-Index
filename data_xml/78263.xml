@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191128_220000_BBC_News_at_Ten#start/790/end/825</field>
+<field name="datetime">11/28/2019 22:13:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20191128_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191128_220000_BBC_News_at_Ten/BBCNEWS_20191128_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20191128_220000_BBC_News_at_Ten_000777.jpg</field>
+<field name="snippet">the leaders of labour, the liberal democrats, the snp, plaid cymru and the greens have taken part in the first television debate based solely on how to tackle climate change. the discussion - which was hosted by channel 4 - included renewable energy, public transport and legal targets to reach net zero emissions.</field>
+</doc>
+</add>

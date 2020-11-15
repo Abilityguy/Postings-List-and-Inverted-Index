@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201301.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130116_180000_America_Live#start/1360/end/1395</field>
+<field name="datetime">1/16/2013 18:22:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWSW_20130116_180000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130116_180000_America_Live/FOXNEWSW_20130116_180000_America_Live.thumbs/FOXNEWSW_20130116_180000_America_Live_001335.jpg</field>
+<field name="snippet">money? a consumption tax? a carbon tax? a value added tax? a gas tax, butat you consume. when you spend your money, you get taxed. that's a big revenue hog. megyn: it's a big number for a lot of americans, stu,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190922_200000_World_News_Today#start/970/end/1005</field>
+<field name="datetime">9/22/2019 20:16:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190922_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190922_200000_World_News_Today/BBCNEWS_20190922_200000_World_News_Today.thumbs/BBCNEWS_20190922_200000_World_News_Today_000958.jpg</field>
+<field name="snippet">front of tens of thousands of indian americans. we turn to our main story - warnings of the ever harder impact of climate change on our planet. switzerland's glaciers have all been shrinking at an accelerated rate in recent years. one of them - the pizol glacier -  _</field>
+</doc>
+</add>

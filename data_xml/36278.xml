@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201912.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191223_020000_MSNBC_Special#start/3279/end/3314</field>
+<field name="datetime">12/23/2019 2:54:54</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Special</field>
+<field name="showid">MSNBCW_20191223_020000_MSNBC_Special</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191223_020000_MSNBC_Special/MSNBCW_20191223_020000_MSNBC_Special.thumbs/MSNBCW_20191223_020000_MSNBC_Special_003268.jpg</field>
+<field name="snippet">okay? if we don't share truth, we can't possibly get the big -- we can't possibly face the big challenges, climate change, cyber war, education. we can't possibly agree to do anything at scale if we don't share the same truth and if we</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201308.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130822_130000_Americas_Newsroom#start/2197/end/2232</field>
+<field name="datetime">8/22/2013 13:36:52</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWSW_20130822_130000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130822_130000_Americas_Newsroom/FOXNEWSW_20130822_130000_Americas_Newsroom.thumbs/FOXNEWSW_20130822_130000_Americas_Newsroom_002175.jpg</field>
+<field name="snippet">now that the military is back in power in egypt. we'll bring you all of that live gregg: al gore, always up to the task when taking on those opposed to his ideas on climate</field>
+</doc>
+</add>

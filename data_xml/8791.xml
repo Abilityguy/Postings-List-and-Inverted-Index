@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190905_100000_FOX__Friends#start/3921/end/3956</field>
+<field name="datetime">9/5/2019 11:05:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20190905_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190905_100000_FOX__Friends/FOXNEWSW_20190905_100000_FOX__Friends.thumbs/FOXNEWSW_20190905_100000_FOX__Friends_003897.jpg</field>
+<field name="snippet">brian: five minutes after the top of the hour. i know you missed it. there was a seven hour marathon on another channel about climate change. it was a bunch of candidates trying to out extreme each other talking about how desperate the situation was and building off the hurricane that we are witnessing that has always been support of the</field>
+</doc>
+</add>

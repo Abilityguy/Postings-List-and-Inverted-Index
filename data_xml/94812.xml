@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201010.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101005_100000_Morning_Joe#start/10358/end/10393</field>
+<field name="datetime">10/5/2010 12:52:53</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20101005_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20101005_100000_Morning_Joe/MSNBC_20101005_100000_Morning_Joe.thumbs/MSNBC_20101005_100000_Morning_Joe_010350.jpg</field>
+<field name="snippet">remember, lindsey graham was this guy negotiating on climate change. he was negotiating on guantanamo bay. the guy is from south carolina, he has jim demint to the right making all sorts of noises.</field>
+</doc>
+</add>

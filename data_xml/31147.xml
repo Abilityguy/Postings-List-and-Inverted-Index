@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090719_160000_Americas_News_HQ#start/5914/end/5949</field>
+<field name="datetime">7/19/2009 17:38:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWS_20090719_160000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090719_160000_Americas_News_HQ/FOXNEWS_20090719_160000_Americas_News_HQ.thumbs/FOXNEWS_20090719_160000_Americas_News_HQ_005906.jpg</field>
+<field name="snippet">greenhouse gases should shoulder the biggest burden for cleaning up the environment and reducing our carbon footprint. we are simply not in a position to take on legally binding emission reduction</field>
+</doc>
+</add>

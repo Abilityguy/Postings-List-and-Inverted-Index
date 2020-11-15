@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201501.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150102_220000_The_Ed_Show#start/121/end/156</field>
+<field name="datetime">1/2/2015 22:02:16</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20150102_220000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150102_220000_The_Ed_Show/MSNBCW_20150102_220000_The_Ed_Show.thumbs/MSNBCW_20150102_220000_The_Ed_Show_000105.jpg</field>
+<field name="snippet">wall street. that's what they're all about. nothing's changed. americans who care about climate change will have to take a rain check. there will be no legislative effort to address the problem facing our globe. 2014 is set to be the warmest year globally in history.</field>
+</doc>
+</add>

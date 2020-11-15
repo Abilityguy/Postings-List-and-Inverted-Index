@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091017_040000_Hannity#start/92/end/127</field>
+<field name="datetime">10/17/2009 4:01:47</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20091017_040000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091017_040000_Hannity/FOXNEWS_20091017_040000_Hannity.thumbs/FOXNEWS_20091017_040000_Hannity_000090.jpg</field>
+<field name="snippet">hold on to your wallets. first health care reform, then climate change, then cap and tax, so what will it take to end this administration's spending spree? and does the president at this point have enough political capital to accomplish his radical agenda? i'm joined now by fox news</field>
+</doc>
+</add>

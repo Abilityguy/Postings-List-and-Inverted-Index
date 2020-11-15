@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201104.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110428_150000_Happening_Now#start/6580/end/6615</field>
+<field name="datetime">4/28/2011 16:49:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20110428_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110428_150000_Happening_Now/FOXNEWS_20110428_150000_Happening_Now.thumbs/FOXNEWS_20110428_150000_Happening_Now_006560.jpg</field>
+<field name="snippet">highly technical questions like climate change and you get two experts battling against each other, how's a person who doesn't have, you know, formal scientific training, how are you supposed to come to a conclusion? reporter: it's very difficult. but i think if you look, and</field>
+</doc>
+</add>

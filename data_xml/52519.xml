@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181231_173000_Review_2018#start/530/end/565</field>
+<field name="datetime">12/31/2018 17:39:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Review 2018</field>
+<field name="showid">BBCNEWS_20181231_173000_Review_2018</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181231_173000_Review_2018/BBCNEWS_20181231_173000_Review_2018.thumbs/BBCNEWS_20181231_173000_Review_2018_000507.jpg</field>
+<field name="snippet">and the extinction of much of the natural world is on the horizon. scientists have not been able to link specific weather events - such as this summer's heatwave - to climate change. this year, that began to change. it's becoming much clearer</field>
+</doc>
+</add>

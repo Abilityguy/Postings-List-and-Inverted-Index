@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200102_170000_BBC_News_at_Five#start/2468/end/2503</field>
+<field name="datetime">1/2/2020 17:41:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20200102_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200102_170000_BBC_News_at_Five/BBCNEWS_20200102_170000_BBC_News_at_Five.thumbs/BBCNEWS_20200102_170000_BBC_News_at_Five_002457.jpg</field>
+<field name="snippet">had one of the warmest years on record globally. australia has had its warmest and driest year ever, so climate change happening on top of this unusual weather is conspiring to make these severe conditions. are we in any position, do you</field>
+</doc>
+</add>

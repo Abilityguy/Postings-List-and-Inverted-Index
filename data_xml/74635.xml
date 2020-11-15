@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200113_020000_BBC_News#start/780/end/815</field>
+<field name="datetime">1/13/2020 2:13:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200113_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200113_020000_BBC_News/BBCNEWS_20200113_020000_BBC_News.thumbs/BBCNEWS_20200113_020000_BBC_News_000777.jpg</field>
+<field name="snippet">in the climate change debate. this is coal, don't be afraid, don't be scared. speaker: the treasurer knows the rule on props. it's coal, there's no word for coalaphobia officially,</field>
+</doc>
+</add>

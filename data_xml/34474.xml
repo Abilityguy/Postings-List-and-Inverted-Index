@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201403.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140313_150000_Happening_Now#start/2260/end/2295</field>
+<field name="datetime">3/13/2014 15:37:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20140313_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140313_150000_Happening_Now/FOXNEWSW_20140313_150000_Happening_Now.thumbs/FOXNEWSW_20140313_150000_Happening_Now_002235.jpg</field>
+<field name="snippet">pardon the interruption, republicans are at the mercy of harry reid in the senate. when they did the all-nighter in the senate, climate change making headlines and so forth, republicans don't really have control over that. making headlines is not win elections.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201511.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151130_230000_MSNBC_Live#start/14/end/49</field>
+<field name="datetime">11/30/2015 23:00:29</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20151130_230000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151130_230000_MSNBC_Live/MSNBCW_20151130_230000_MSNBC_Live.thumbs/MSNBCW_20151130_230000_MSNBC_Live_000045.jpg</field>
+<field name="snippet">a judge for the first time as we learn more about the victims. president obama at a historic summit in paris with more than 150 world leaders meeting about climate change. the united states of america not only recognizes our role in</field>
+</doc>
+</add>

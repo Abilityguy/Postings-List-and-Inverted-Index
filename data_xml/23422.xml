@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201405.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140501_070000_Red_Eye#start/3320/end/3355</field>
+<field name="datetime">5/1/2014 7:55:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWSW_20140501_070000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140501_070000_Red_Eye/FOXNEWSW_20140501_070000_Red_Eye.thumbs/FOXNEWSW_20140501_070000_Red_Eye_003315.jpg</field>
+<field name="snippet">what are you waiting for? i know piers morgan lost his show, but i didn't expect it to come to this. imagine how much trouble we would be getting into if that was there because there was not enough ice. and the global warming was causing it to wash ashore.</field>
+</doc>
+</add>

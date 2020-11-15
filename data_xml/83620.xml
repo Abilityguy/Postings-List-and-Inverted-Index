@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190419_120000_BBC_News#start/2604/end/2639</field>
+<field name="datetime">4/19/2019 12:43:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190419_120000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190419_120000_BBC_News/BBCNEWS_20190419_120000_BBC_News.thumbs/BBCNEWS_20190419_120000_BBC_News_002577.jpg</field>
+<field name="snippet">trend will continue, with a small chance temperatures could temporarily exceed 1.5 degrees. the main driver for all this is a greenhouse gas emissions we are producing. we're still too reliant on fossil fuels like coal, and globally levels of carbon</field>
+</doc>
+</add>

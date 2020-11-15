@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201012.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101229_000000_FOX_Report#start/1149/end/1184</field>
+<field name="datetime">12/29/2010 0:19:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report</field>
+<field name="showid">FOXNEWS_20101229_000000_FOX_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101229_000000_FOX_Report/FOXNEWS_20101229_000000_FOX_Report.thumbs/FOXNEWS_20101229_000000_FOX_Report_001140.jpg</field>
+<field name="snippet">we report. you decide. as republicans gear up to take control of the u.s. house, they are also gearing up to take on the obama administration's plan to tackle climate change. a live report right after this break.</field>
+</doc>
+</add>

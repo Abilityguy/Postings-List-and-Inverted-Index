@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190207_230000_Special_Report_With_Bret_Baier#start/2626/end/2661</field>
+<field name="datetime">2/7/2019 23:44:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20190207_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190207_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20190207_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20190207_230000_Special_Report_With_Bret_Baier_002610.jpg</field>
+<field name="snippet">what's interesting to see is the battle within the party, byron, the democratic party, not only for this and the green new deal but also medicare for all and what that means and that terminology. here's michael bloomberg who has his own climate change</field>
+</doc>
+</add>

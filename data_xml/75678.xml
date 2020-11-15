@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201210.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121031_160000_NOW_With_Alex_Wagner#start/3230/end/3265</field>
+<field name="datetime">10/31/2012 16:54:05</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20121031_160000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121031_160000_NOW_With_Alex_Wagner/MSNBCW_20121031_160000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20121031_160000_NOW_With_Alex_Wagner_003208.jpg</field>
+<field name="snippet">climate deniers on the right will say we don't know if that hurricane was the result of global warming and, of course, you can't pin any one weather event to climate change. what you can see are the patterns. and you can see that the conditions are such that creating vigorous storms, more</field>
+</doc>
+</add>

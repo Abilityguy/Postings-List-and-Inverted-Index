@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201001.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100129_110000_Morning_Joe#start/996/end/1031</field>
+<field name="datetime">1/29/2010 11:16:51</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20100129_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20100129_110000_Morning_Joe/MSNBC_20100129_110000_Morning_Joe.thumbs/MSNBC_20100129_110000_Morning_Joe_000953.jpg</field>
+<field name="snippet">bring the kids. they want to spend a summer in afghanistan, you talk about climate change, and the kids will come. you know, next day he'll be talking about the jersey shore. good thing that al qaeda is on board on the issue of climate</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190418_100000_BBC_Newsroom_Live#start/3763/end/3798</field>
+<field name="datetime">4/18/2019 11:02:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190418_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190418_100000_BBC_Newsroom_Live/BBCNEWS_20190418_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190418_100000_BBC_Newsroom_Live_003747.jpg</field>
+<field name="snippet">i think we have reached a point where globally respected scientists have described us as having met the endgame with climate change, we have known about this problem for well over 30 years. global emissions are still going up, they will go up again this year.</field>
+</doc>
+</add>

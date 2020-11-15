@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190604_100000_BBC_Newsroom_Live#start/4774/end/4809</field>
+<field name="datetime">6/4/2019 11:19:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190604_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190604_100000_BBC_Newsroom_Live/BBCNEWS_20190604_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190604_100000_BBC_Newsroom_Live_004767.jpg</field>
+<field name="snippet">nobody expecting decisions to be reached today. theresa may is going to raise issues around climate change. donald trump is widely expected to raise concerns whether we give the green light to huawei,</field>
+</doc>
+</add>

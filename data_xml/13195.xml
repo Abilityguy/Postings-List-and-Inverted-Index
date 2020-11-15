@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201101.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110121_230000_Special_Report_With_Bret_Baier#start/180/end/215</field>
+<field name="datetime">1/21/2011 23:03:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20110121_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110121_230000_Special_Report_With_Bret_Baier/FOXNEWS_20110121_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20110121_230000_Special_Report_With_Bret_Baier_000176.jpg</field>
+<field name="snippet">united states. that's important. the chamber of commerce called immelt counsel a promising step but others worry about the support for carbon tax to make the green energy sources competitive, and it would amount to energy tax, which could cost jobs, not create them.</field>
+</doc>
+</add>

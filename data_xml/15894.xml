@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201106.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110617_080000_Special_Report_With_Bret_Baier#start/1858/end/1893</field>
+<field name="datetime">6/17/2011 8:31:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20110617_080000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110617_080000_Special_Report_With_Bret_Baier/FOXNEWS_20110617_080000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20110617_080000_Special_Report_With_Bret_Baier_001615.jpg</field>
+<field name="snippet">you may not have to worry about global warming for a while. we'll tell you why in the grapevine. while you were struggling. guess which of the rich got richer?. bret: now fresh pickings from the political grapevine.</field>
+</doc>
+</add>

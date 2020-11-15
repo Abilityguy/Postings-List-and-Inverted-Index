@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201509.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150923_220000_Special_Report_With_Bret_Baier#start/1912/end/1947</field>
+<field name="datetime">9/23/2015 22:32:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20150923_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150923_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20150923_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20150923_220000_Special_Report_With_Bret_Baier_001905.jpg</field>
+<field name="snippet">reporter: the address was not limited to pastoral themes, the pope spoke of the diplomatic relations with cuba, a deal he helped to broker, and discussed the poor. but combatting climate change is</field>
+</doc>
+</add>

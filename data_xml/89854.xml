@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201401.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140102_110000_Morning_Joe#start/574/end/609</field>
+<field name="datetime">1/2/2014 11:09:49</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20140102_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140102_110000_Morning_Joe/MSNBCW_20140102_110000_Morning_Joe.thumbs/MSNBCW_20140102_110000_Morning_Joe_000555.jpg</field>
+<field name="snippet">outrage, it is a horrible constraint on economic growth and on giving people the security we need to tackle problems like climate change. we cannot go forward if we don't do it together.</field>
+</doc>
+</add>

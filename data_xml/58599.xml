@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181127_210000_Outside_Source#start/0/end/34</field>
+<field name="datetime">11/27/2018 21:00:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20181127_210000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181127_210000_Outside_Source/BBCNEWS_20181127_210000_Outside_Source.thumbs/BBCNEWS_20181127_210000_Outside_Source_000057.jpg</field>
+<field name="snippet">hello, i'm ros atkins, this is outside source. a un report says greenhouse gas emisions - have reached a record high - and countries need to triple their planned emissions cuts, to stay within temperature limits. president trump's former campaign manager could be facing a lengthy jail sentence after his plea agreeement collapses, paul manafort is accused</field>
+</doc>
+</add>

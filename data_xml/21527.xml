@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100124_070000_Glenn_Beck#start/2793/end/2828</field>
+<field name="datetime">1/24/2010 7:46:48</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20100124_070000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100124_070000_Glenn_Beck/FOXNEWS_20100124_070000_Glenn_Beck.thumbs/FOXNEWS_20100124_070000_Glenn_Beck_002790.jpg</field>
+<field name="snippet">economy and as the world's second largest emitter america bears our responsibility to address climate change. and we intend to meet that</field>
+</doc>
+</add>

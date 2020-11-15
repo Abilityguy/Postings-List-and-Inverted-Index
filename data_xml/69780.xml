@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201611.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161127_150000_AM_Joy#start/4900/end/4935</field>
+<field name="datetime">11/27/2016 16:21:55</field>
+<field name="station">MSNBC</field>
+<field name="show">AM Joy</field>
+<field name="showid">MSNBCW_20161127_150000_AM_Joy</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161127_150000_AM_Joy/MSNBCW_20161127_150000_AM_Joy.thumbs/MSNBCW_20161127_150000_AM_Joy_004887.jpg</field>
+<field name="snippet">should be a nonpartisan issue but right now they are partisan issues because republicans are very invested in this stage in defending donald trump. the other thing to note is if you look at the 'new york times' interview, donald trump on climate change, on torture, on policy, i don't really know what</field>
+</doc>
+</add>

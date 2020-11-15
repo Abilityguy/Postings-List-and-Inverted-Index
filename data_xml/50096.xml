@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181206_050000_Tucker_Carlson_Tonight#start/2474/end/2509</field>
+<field name="datetime">12/6/2018 5:41:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20181206_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181206_050000_Tucker_Carlson_Tonight/FOXNEWSW_20181206_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20181206_050000_Tucker_Carlson_Tonight_002457.jpg</field>
+<field name="snippet">on climate change is one person shouting, it's real, and the other, we don't have all the evidence. granted, everything you say about climate change. thank you. that's a start. we admit it. tucker: but if you really believed what you are saying</field>
+</doc>
+</add>

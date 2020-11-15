@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201704.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170429_190000_MSNBC_Live#start/1773/end/1808</field>
+<field name="datetime">4/29/2017 19:29:48</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170429_190000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170429_190000_MSNBC_Live/MSNBCW_20170429_190000_MSNBC_Live.thumbs/MSNBCW_20170429_190000_MSNBC_Live_001768.jpg</field>
+<field name="snippet">msnbc. all right. a live look at the national mall in washington, d.c., where thousands of people have gathered for a march against the trump administration's climate change policies. it's just one of dozens of marches taking place on this 100th day of the trump</field>
+</doc>
+</add>

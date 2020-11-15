@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201702.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170213_010000_Newsday#start/632/end/667</field>
+<field name="datetime">2/13/2017 1:10:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20170213_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170213_010000_Newsday/BBCNEWS_20170213_010000_Newsday.thumbs/BBCNEWS_20170213_010000_Newsday_000628.jpg</field>
+<field name="snippet">this is a bit like trying to turn around a battleship. you can't do it instantly, but you have got to start turning the wheel if you want to turn the ship down the road. we actually have to do this now with climate change, if we want to stabilise the climate system.</field>
+</doc>
+</add>

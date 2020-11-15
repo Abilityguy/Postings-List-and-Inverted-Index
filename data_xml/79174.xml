@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201402.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140219_040000_All_In_With_Chris_Hayes#start/1644/end/1679</field>
+<field name="datetime">2/19/2014 4:27:39</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20140219_040000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140219_040000_All_In_With_Chris_Hayes/MSNBCW_20140219_040000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20140219_040000_All_In_With_Chris_Hayes_001575.jpg</field>
+<field name="snippet">this is humira at work. something pretty remarkable is happening in american politics right now. we are seeing right now and for the first time in a long time some real forward momentum on climate change.</field>
+</doc>
+</add>

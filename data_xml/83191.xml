@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191016_040000_The_Briefing#start/247/end/282</field>
+<field name="datetime">10/16/2019 4:04:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20191016_040000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191016_040000_The_Briefing/BBCNEWS_20191016_040000_The_Briefing.thumbs/BBCNEWS_20191016_040000_The_Briefing_000898.jpg</field>
+<field name="snippet">with their tractors in a protest against a new law to tackle climate change. jean-claude juncker inaugurates the new european labour authority in brussels at 6pm. this eu organisation will help member states to enforce rules on labour mobility and preventing abuses.</field>
+</doc>
+</add>

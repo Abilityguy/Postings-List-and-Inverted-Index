@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201804.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180402_230000_Newsday#start/1199/end/1234</field>
+<field name="datetime">4/2/2018 23:20:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20180402_230000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180402_230000_Newsday/BBCNEWS_20180402_230000_Newsday.thumbs/BBCNEWS_20180402_230000_Newsday_001198.jpg</field>
+<field name="snippet">12, i had my first little kodak brownie camera, and it was the beginning of a story. well, we will talk about climate change and the impact of the melting polar ice caps ina minute. in a minute. at first off, let's</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100108_090000_Special_Report_With_Bret_Baier#start/2040/end/2075</field>
+<field name="datetime">1/8/2010 9:34:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100108_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100108_090000_Special_Report_With_Bret_Baier/FOXNEWS_20100108_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100108_090000_Special_Report_With_Bret_Baier_002034.jpg</field>
+<field name="snippet">image of the east siberian sea, is one in a growing archive of aerial photographs snapped by spy satellites for the benefit of scientists studying climate change. discontinued in the bush administration, it has revived</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171123_020000_BBC_News#start/1252/end/1287</field>
+<field name="datetime">11/23/2017 2:21:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171123_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171123_020000_BBC_News/BBCNEWS_20171123_020000_BBC_News.thumbs/BBCNEWS_20171123_020000_BBC_News_001227.jpg</field>
+<field name="snippet">a new perspective on climate change and the hunt for alien life. paul blake reports from nasa's goddard space flight center. this is what scientists are calling the most complete global picture of life on earth. for 20 years, nasa satellites have been recording changes in vegetation</field>
+</doc>
+</add>

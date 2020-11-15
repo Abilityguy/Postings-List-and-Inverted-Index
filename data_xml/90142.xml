@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200910.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091009_100000_Morning_Joe#start/4887/end/4922</field>
+<field name="datetime">10/9/2009 11:21:42</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20091009_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20091009_100000_Morning_Joe/MSNBC_20091009_100000_Morning_Joe.thumbs/MSNBC_20091009_100000_Morning_Joe_004886.jpg</field>
+<field name="snippet">president has brought forward here, to rededicate ourselves to the cause of dealing with the threat of nuclear weapons, the cause of climate change, to the cause of conflict of the resolution, and to the cause of rebuilding frayed relationships</field>
+</doc>
+</add>

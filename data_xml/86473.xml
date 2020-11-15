@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191202_170000_BBC_News_at_Five#start/1654/end/1689</field>
+<field name="datetime">12/2/2019 17:27:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20191202_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191202_170000_BBC_News_at_Five/BBCNEWS_20191202_170000_BBC_News_at_Five.thumbs/BBCNEWS_20191202_170000_BBC_News_at_Five_001648.jpg</field>
+<field name="snippet">human family and all the generations to come. here in madrid, the fate of the planet is under intense discussions. the un has already said we should try and keep global temperatures from rising above 1.5 degrees to stop the worst effects of climate change.</field>
+</doc>
+</add>

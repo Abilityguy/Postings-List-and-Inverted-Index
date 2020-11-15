@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201902.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190225_220000_MTP_Daily#start/2819/end/2854</field>
+<field name="datetime">2/25/2019 22:47:14</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20190225_220000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190225_220000_MTP_Daily/MSNBCW_20190225_220000_MTP_Daily.thumbs/MSNBCW_20190225_220000_MTP_Daily_002819.jpg</field>
+<field name="snippet">they say the move would represent the most forceful effort to date to challenge the scientific consensus that greenhouse gas emissions are helping to drive global warning.</field>
+</doc>
+</add>

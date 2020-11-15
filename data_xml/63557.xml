@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190315_210000_World_News_Today#start/1741/end/1776</field>
+<field name="datetime">3/15/2019 21:29:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190315_210000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190315_210000_World_News_Today/BBCNEWS_20190315_210000_World_News_Today.thumbs/BBCNEWS_20190315_210000_World_News_Today_001737.jpg</field>
+<field name="snippet">again left their classrooms to join a global day of protests against climate change. they took place in several major towns and cities, this was in brighton, and there were similar ones around the world. they have been inspired by the swedish teenager, 16-year-old greta thunberg, who's staging a long-running protest outside parliament in stockholm.</field>
+</doc>
+</add>

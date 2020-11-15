@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201111.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20111119_103000_Your_Business#start/1264/end/1299</field>
+<field name="datetime">11/19/2011 10:51:19</field>
+<field name="station">MSNBC</field>
+<field name="show">Your Business</field>
+<field name="showid">MSNBCW_20111119_103000_Your_Business</field>
+<field name="preview">https://archive.org/download/MSNBCW_20111119_103000_Your_Business/MSNBCW_20111119_103000_Your_Business.thumbs/MSNBCW_20111119_103000_Your_Business_001256.jpg</field>
+<field name="snippet">said we'll tackle climate change when it's good business to do so. when looking at any environmental matter, products or services, it needs to be profitable and a value for the</field>
+</doc>
+</add>

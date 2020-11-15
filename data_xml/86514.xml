@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191222_190000_BBC_News#start/147/end/182</field>
+<field name="datetime">12/22/2019 19:02:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191222_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191222_190000_BBC_News/BBCNEWS_20191222_190000_BBC_News.thumbs/BBCNEWS_20191222_190000_BBC_News_000148.jpg</field>
+<field name="snippet">the prime minister, scott morrison, appearing for the first time today after fierce criticism of his holiday in hawaii, conceded that more needed to be done to tackle global warming, with scientists saying that drier conditions brought about by climate change have worsened the impact of bushfires.</field>
+</doc>
+</add>

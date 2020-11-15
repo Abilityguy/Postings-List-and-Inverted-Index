@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201502.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150215_220000_MediaBuzz#start/2092/end/2127</field>
+<field name="datetime">2/15/2015 22:35:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">MediaBuzz</field>
+<field name="showid">FOXNEWSW_20150215_220000_MediaBuzz</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150215_220000_MediaBuzz/FOXNEWSW_20150215_220000_MediaBuzz.thumbs/FOXNEWSW_20150215_220000_MediaBuzz_002085.jpg</field>
+<field name="snippet">incremental stories like climate change because they're not considered sexy. sure. is that fair? it's absolutely fair. people have a hard time making sense of it. this isn't necessarily a bad thing when extremism, whether it's islamic extremism or extremely polarized or extremely</field>
+</doc>
+</add>

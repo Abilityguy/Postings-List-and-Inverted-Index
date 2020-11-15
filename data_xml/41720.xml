@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201301.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130130_110000_Morning_Joe#start/4463/end/4498</field>
+<field name="datetime">1/30/2013 12:14:38</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20130130_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130130_110000_Morning_Joe/MSNBCW_20130130_110000_Morning_Joe.thumbs/MSNBCW_20130130_110000_Morning_Joe_004455.jpg</field>
+<field name="snippet">and this year we are already outpacing last year's numbers. now, there are contributing factors that are not under anybody's control and may seem odd, but it is factually true. one of them is actually the weather. there is a dramatic increase in gun violence when it is warmer. and we are having this climate</field>
+</doc>
+</add>

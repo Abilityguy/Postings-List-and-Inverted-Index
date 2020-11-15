@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190721_170000_BBC_News#start/1743/end/1778</field>
+<field name="datetime">7/21/2019 17:29:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190721_170000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190721_170000_BBC_News/BBCNEWS_20190721_170000_BBC_News.thumbs/BBCNEWS_20190721_170000_BBC_News_001738.jpg</field>
+<field name="snippet">the single-celled algae absorb the carbon, and oxygen is released at the top. the inventors say it's an effective way to cut down greenhouse gas emissions in the cities.</field>
+</doc>
+</add>

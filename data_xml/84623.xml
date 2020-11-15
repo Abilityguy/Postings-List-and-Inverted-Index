@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190419_120000_BBC_News#start/3040/end/3075</field>
+<field name="datetime">4/19/2019 12:50:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190419_120000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190419_120000_BBC_News/BBCNEWS_20190419_120000_BBC_News.thumbs/BBCNEWS_20190419_120000_BBC_News_003028.jpg</field>
+<field name="snippet">it is a huge project, janet terry is the seed collections manager. why collect so many seeds? we are the world's largest seed bank for wild species and it is our insurance policy against what is happening in the world around us. what is happening? climate change, plants becoming extinct all the time,</field>
+</doc>
+</add>

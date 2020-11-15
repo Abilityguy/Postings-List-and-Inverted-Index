@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201509.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150924_170000_Happening_Now#start/3624/end/3659</field>
+<field name="datetime">9/24/2015 18:00:39</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20150924_170000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150924_170000_Happening_Now/FOXNEWSW_20150924_170000_Happening_Now.thumbs/FOXNEWSW_20150924_170000_Happening_Now_003615.jpg</field>
+<field name="snippet">meeting of congress. first time ever for a pope and greeting the adorning crowd. it was quite a moment. this is the real story today. the pope touching on climate change, immigration, the death penalty and the family.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20171218_230000_Special_Report_With_Bret_Baier#start/372/end/407</field>
+<field name="datetime">12/18/2017 23:06:27</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20171218_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20171218_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20171218_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20171218_230000_Special_Report_With_Bret_Baier_000358.jpg</field>
+<field name="snippet">security is national security, pointing to his efforts to cut taxes and reduce regulations and rewrite trade deals to better serve the united states. president trump parted ways with his predecessors president obama, bush, clinton, making no mention of climate</field>
+</doc>
+</add>

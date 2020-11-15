@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181102_190000_BBC_News#start/157/end/192</field>
+<field name="datetime">11/2/2018 19:02:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181102_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181102_190000_BBC_News/BBCNEWS_20181102_190000_BBC_News.thumbs/BBCNEWS_20181102_190000_BBC_News_000147.jpg</field>
+<field name="snippet">records from as far back as the 1960s, tracking floods and other events, and they confirmed what other researchers are saying - that the impacts of rising temperatures are already being felt. we often think of climate change</field>
+</doc>
+</add>

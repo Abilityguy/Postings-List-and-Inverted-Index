@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100214_030000_Geraldo_at_Large#start/224/end/259</field>
+<field name="datetime">2/14/2010 3:03:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Geraldo at Large</field>
+<field name="showid">FOXNEWS_20100214_030000_Geraldo_at_Large</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100214_030000_Geraldo_at_Large/FOXNEWS_20100214_030000_Geraldo_at_Large.thumbs/FOXNEWS_20100214_030000_Geraldo_at_Large_000206.jpg</field>
+<field name="snippet">scorching. thousands of people died during that heat spell. so what we are seeing is fluctuations, wild swings in the weather rather than simply say, a-ha, global warming or a-ha global cooling. you can't judge a book by its</field>
+</doc>
+</add>

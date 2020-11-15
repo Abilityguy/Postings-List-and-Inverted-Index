@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201904.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190422_190000_MSNBC_Live_With_Ali_Velshi#start/1544/end/1579</field>
+<field name="datetime">4/22/2019 19:25:59</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190422_190000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190422_190000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190422_190000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190422_190000_MSNBC_Live_With_Ali_Velshi_001529.jpg</field>
+<field name="snippet">next, it's earth day. i'm talking with presidential candidate jay inslee about his push to make climate change america's number one priority. you're watching msnbc. e america's number one priority. you're watching msnbc.</field>
+</doc>
+</add>

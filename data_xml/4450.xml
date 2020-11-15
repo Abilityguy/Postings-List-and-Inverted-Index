@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201302.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130216_110000_FOX_and_Friends_Saturday#start/4799/end/4834</field>
+<field name="datetime">2/16/2013 12:20:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20130216_110000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130216_110000_FOX_and_Friends_Saturday/FOXNEWSW_20130216_110000_FOX_and_Friends_Saturday.thumbs/FOXNEWSW_20130216_110000_FOX_and_Friends_Saturday_004785.jpg</field>
+<field name="snippet">so-called free preschool for everyone. 40 billion toward infrastructure and untold amount but likely trillions for, quote, combating climate change. can we afford all of this? that's the question we have to ask ourselves. it's not that these programs wouldn't be good programs.</field>
+</doc>
+</add>

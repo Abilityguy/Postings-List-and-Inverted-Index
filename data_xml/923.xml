@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170512_044500_BBC_News#start/44/end/79</field>
+<field name="datetime">5/12/2017 4:45:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170512_044500_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170512_044500_BBC_News/BBCNEWS_20170512_044500_BBC_News.thumbs/BBCNEWS_20170512_044500_BBC_News_000057.jpg</field>
+<field name="snippet">foreign ministers from the eight arctic circle called for urgent global action to reduce greenhouse gases. however, the us secretary of state, rex tillerson told the ministers, that his country would not rush to make a decision. now it is time for our news review</field>
+</doc>
+</add>

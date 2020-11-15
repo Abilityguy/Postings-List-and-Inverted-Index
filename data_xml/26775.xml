@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100213_040000_The_OReilly_Factor#start/2320/end/2355</field>
+<field name="datetime">2/13/2010 4:38:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20100213_040000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100213_040000_The_OReilly_Factor/FOXNEWS_20100213_040000_The_OReilly_Factor.thumbs/FOXNEWS_20100213_040000_The_OReilly_Factor_002304.jpg</field>
+<field name="snippet">i spoke with beck last night. so, beck, what are you doing in los angeles, man? what are you doing out there? just avoiding the snow. bill: is that right? thank you for global warming. i'm checking for global warming out here. bill: did you find any? is there any warming out there?</field>
+</doc>
+</add>

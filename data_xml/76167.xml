@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190528_180000_Beyond_100_Days#start/1473/end/1508</field>
+<field name="datetime">5/28/2019 18:24:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20190528_180000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190528_180000_Beyond_100_Days/BBCNEWS_20190528_180000_Beyond_100_Days.thumbs/BBCNEWS_20190528_180000_Beyond_100_Days_001468.jpg</field>
+<field name="snippet">something people are taking seriously. even republicans are saying you have to have a sensible policy on climate change. so cross- party policy on climate change. so cross-party support for doing something about that. here is the most extraordinary story about</field>
+</doc>
+</add>

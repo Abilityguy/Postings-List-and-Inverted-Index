@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190319_190000_Beyond_100_Days#start/1187/end/1222</field>
+<field name="datetime">3/19/2019 19:20:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20190319_190000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190319_190000_Beyond_100_Days/BBCNEWS_20190319_190000_Beyond_100_Days.thumbs/BBCNEWS_20190319_190000_Beyond_100_Days_001708.jpg</field>
+<field name="snippet">to new york to find out more. within 25 years, england will not have enough water to meet demand - that's the stark warning from the head of the environment agency. the impact of climate change, combined with population growth,</field>
+</doc>
+</add>

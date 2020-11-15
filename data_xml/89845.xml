@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201401.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140131_210000_NOW_With_Alex_Wagner#start/1786/end/1821</field>
+<field name="datetime">1/31/2014 21:30:01</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20140131_210000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140131_210000_NOW_With_Alex_Wagner/MSNBCW_20140131_210000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20140131_210000_NOW_With_Alex_Wagner_001785.jpg</field>
+<field name="snippet">just days after he announced that climate change is a fact, president obama stands at a cross roads. will he or won't he green light keystone? we'll discuss when chris haynes</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190914_000000_Tucker_Carlson_Tonight#start/2931/end/2966</field>
+<field name="datetime">9/14/2019 0:49:06</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190914_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190914_000000_Tucker_Carlson_Tonight/FOXNEWSW_20190914_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190914_000000_Tucker_Carlson_Tonight_002908.jpg</field>
+<field name="snippet">result of the government's unwillingness to acknowledge climate change. it's great to be here, first of all. it's not at all true. this is normal phenomenon every year in the time of</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191203_230000_BBC_News#start/532/end/567</field>
+<field name="datetime">12/3/2019 23:09:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191203_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191203_230000_BBC_News/BBCNEWS_20191203_230000_BBC_News.thumbs/BBCNEWS_20191203_230000_BBC_News_000508.jpg</field>
+<field name="snippet">jeremy corbyn speaking to phillip schofield there this morning. the broadcasting regulator 0fcom has decided not to investigate a conservative party complaint against last week's channel a debate on the climate crisis. the conservatives had complained about the broadcaster's decision to feature an ice sculpture in place of a party spokesperson, after borisjohnson declined</field>
+</doc>
+</add>

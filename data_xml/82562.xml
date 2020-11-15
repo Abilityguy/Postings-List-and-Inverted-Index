@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201509.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150923_160000_Outnumbered#start/88/end/123</field>
+<field name="datetime">9/23/2015 16:01:43</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Outnumbered</field>
+<field name="showid">FOXNEWSW_20150923_160000_Outnumbered</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150923_160000_Outnumbered/FOXNEWSW_20150923_160000_Outnumbered.thumbs/FOXNEWSW_20150923_160000_Outnumbered_000075.jpg</field>
+<field name="snippet">on the south lawn. he spoke english to weigh in on climate change, cuba, marriage, and immigration. pope francis setting the tone in his first words.</field>
+</doc>
+</add>

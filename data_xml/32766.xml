@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091203_110000_FOX_and_Friends#start/4246/end/4281</field>
+<field name="datetime">12/3/2009 12:11:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091203_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091203_110000_FOX_and_Friends/FOXNEWS_20091203_110000_FOX_and_Friends.thumbs/FOXNEWS_20091203_110000_FOX_and_Friends_004189.jpg</field>
+<field name="snippet">this. jon stewart of the daily show, which has historically bashed republicans and, you know, not bashed democrats, really took a shot at al gore. look at this. poor al gore. global warming completely</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_160000_BBC_News_at_Five#start/394/end/429</field>
+<field name="datetime">10/8/2018 16:06:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20181008_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_160000_BBC_News_at_Five/BBCNEWS_20181008_160000_BBC_News_at_Five.thumbs/BBCNEWS_20181008_160000_BBC_News_at_Five_000388.jpg</field>
+<field name="snippet">taking the us out of the climate change agreement, avoiding climate change will be difficult but not impossible. the question is whether national leaders have the political will to bring about the changes recommended, or it will be too little, too late.</field>
+</doc>
+</add>

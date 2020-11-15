@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201502.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150221_160000_Forbes_on_FOX#start/202/end/237</field>
+<field name="datetime">2/21/2015 16:03:37</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Forbes on FOX</field>
+<field name="showid">FOXNEWSW_20150221_160000_Forbes_on_FOX</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150221_160000_Forbes_on_FOX/FOXNEWSW_20150221_160000_Forbes_on_FOX.thumbs/FOXNEWSW_20150221_160000_Forbes_on_FOX_000195.jpg</field>
+<field name="snippet">let's just play the sound clip of what -- where the president's priorities are. and no challenge, no challenge poses a greater threat to future generations than climate change. and we're spending a lot of cash on that, rick.</field>
+</doc>
+</add>

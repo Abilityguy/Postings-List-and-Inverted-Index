@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091217_200000_Studio_B_With_Shepard_Smith#start/492/end/527</field>
+<field name="datetime">12/17/2009 20:08:27</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Studio B With Shepard Smith</field>
+<field name="showid">FOXNEWS_20091217_200000_Studio_B_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091217_200000_Studio_B_With_Shepard_Smith/FOXNEWS_20091217_200000_Studio_B_With_Shepard_Smith.thumbs/FOXNEWS_20091217_200000_Studio_B_With_Shepard_Smith_000480.jpg</field>
+<field name="snippet">hillary clinton today tried to jump start the process by offering u.s. aid to countries hard hit by climate change. australia's prime minister says the stakes are high for all world leaders. the peoples of the world will judge us not just as nations,</field>
+</doc>
+</add>

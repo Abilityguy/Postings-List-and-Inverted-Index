@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190731_050000_Breakfast#start/7424/end/7459</field>
+<field name="datetime">7/31/2019 7:03:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190731_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190731_050000_Breakfast/BBCNEWS_20190731_050000_Breakfast.thumbs/BBCNEWS_20190731_050000_Breakfast_007407.jpg</field>
+<field name="snippet">affected by climate change, as our science editor, david shukman explains. temperatures so low, the sea off kent actually froze. this was back in 1963, one of the chilliest years experienced in britain over</field>
+</doc>
+</add>

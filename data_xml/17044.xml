@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201811.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181123_170000_Andrea_Mitchell_Reports#start/2980/end/3015</field>
+<field name="datetime">11/23/2018 17:49:55</field>
+<field name="station">MSNBC</field>
+<field name="show">Andrea Mitchell Reports</field>
+<field name="showid">MSNBCW_20181123_170000_Andrea_Mitchell_Reports</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181123_170000_Andrea_Mitchell_Reports/MSNBCW_20181123_170000_Andrea_Mitchell_Reports.thumbs/MSNBCW_20181123_170000_Andrea_Mitchell_Reports_002968.jpg</field>
+<field name="snippet">scientists have reached a strong consensus about the reality and the threat of the human-caused climate change. there is a political debate about the solutions, but no longer a good faith debate to be had about the problem and the</field>
+</doc>
+</add>

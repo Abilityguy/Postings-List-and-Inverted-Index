@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.200908.csv</field>
+<field name="url">https://archive.org/details/CNN_20090810_100000_American_Morning#start/1225/end/1260</field>
+<field name="datetime">8/10/2009 10:20:40</field>
+<field name="station">CNN</field>
+<field name="show">American Morning</field>
+<field name="showid">CNN_20090810_100000_American_Morning</field>
+<field name="preview">https://archive.org/download/CNN_20090810_100000_American_Morning/CNN_20090810_100000_American_Morning.thumbs/CNN_20090810_100000_American_Morning_008634.jpg</field>
+<field name="snippet">'new york times' on sunday. climate change seen as threat to u.s. security. politicians have said for years we cannot ignore the environment in our public policy. but the idea it's a threat to national security is a fairly new one and it's a growing concern. that's sure to be on the agenda</field>
+</doc>
+</add>

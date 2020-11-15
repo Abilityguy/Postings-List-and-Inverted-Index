@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100205_210000_Your_World_With_Neil_Cavuto#start/3134/end/3169</field>
+<field name="datetime">2/5/2010 21:52:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWS_20100205_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100205_210000_Your_World_With_Neil_Cavuto/FOXNEWS_20100205_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWS_20100205_210000_Your_World_With_Neil_Cavuto_003113.jpg</field>
+<field name="snippet">d.c. is bracing for what could be record-breaking snow, stuart. stuart: i was tempted to be sarcastic and hope that global warming champion al gore was snug at home in 30 inches of snow. sarcasm is a low form of witt</field>
+</doc>
+</add>

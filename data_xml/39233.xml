@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201212.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121210_140000_Americas_Newsroom#start/6889/end/6924</field>
+<field name="datetime">12/10/2012 15:55:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWSW_20121210_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121210_140000_Americas_Newsroom/FOXNEWSW_20121210_140000_Americas_Newsroom.thumbs/FOXNEWSW_20121210_140000_Americas_Newsroom_006868.jpg</field>
+<field name="snippet">reporter: this is the story about solar that you don't often hear. for years state and federal officials threw tax money at solar to stop global warming. we were told it is clean and cheap. some in california are finding</field>
+</doc>
+</add>

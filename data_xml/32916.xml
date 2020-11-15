@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091205_090000_Special_Report_With_Bret_Baier#start/1063/end/1098</field>
+<field name="datetime">12/5/2009 9:17:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091205_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091205_090000_Special_Report_With_Bret_Baier/FOXNEWS_20091205_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091205_090000_Special_Report_With_Bret_Baier_001045.jpg</field>
+<field name="snippet">warming, the u.n. investigated e-mails leaked from the brittish university that serves as the main data source on climate change. the lebonese want action in copenhagen. global warming skeptics hope the e-mails put the brakes on. ken gene says they just might</field>
+</doc>
+</add>

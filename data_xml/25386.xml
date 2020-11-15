@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201611.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161112_210000_Americas_Election_HQ#start/2030/end/2065</field>
+<field name="datetime">11/12/2016 21:34:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Election HQ</field>
+<field name="showid">FOXNEWSW_20161112_210000_Americas_Election_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161112_210000_Americas_Election_HQ/FOXNEWSW_20161112_210000_Americas_Election_HQ.thumbs/FOXNEWSW_20161112_210000_Americas_Election_HQ_002007.jpg</field>
+<field name="snippet">mr. trump said he would reopen nafta, the north american free trade agreement, withdraw consideration of tpp, approve the keystone pipeline, cancel the united nations climate change payments and study how quickly to build the border</field>
+</doc>
+</add>

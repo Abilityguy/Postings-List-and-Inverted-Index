@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190626_030000_BBC_News#start/1271/end/1306</field>
+<field name="datetime">6/26/2019 3:21:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190626_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190626_030000_BBC_News/BBCNEWS_20190626_030000_BBC_News.thumbs/BBCNEWS_20190626_030000_BBC_News_001259.jpg</field>
+<field name="snippet">climate change is also increasing extreme events, and we predict this to be more frequent and more intense. global temperatures have been on an upward trend for more than 50 years. human activity has released growing amounts of carbon dioxide gas</field>
+</doc>
+</add>

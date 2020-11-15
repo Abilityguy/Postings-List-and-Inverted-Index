@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201409.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140923_160000_Andrea_Mitchell_Reports#start/3626/end/3661</field>
+<field name="datetime">9/23/2014 17:00:41</field>
+<field name="station">MSNBC</field>
+<field name="show">Andrea Mitchell Reports</field>
+<field name="showid">MSNBCW_20140923_160000_Andrea_Mitchell_Reports</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140923_160000_Andrea_Mitchell_Reports/MSNBCW_20140923_160000_Andrea_Mitchell_Reports.thumbs/MSNBCW_20140923_160000_Andrea_Mitchell_Reports_003616.jpg</field>
+<field name="snippet">we are awaiting live comments from president obama, the united nations this hour. he will be addressing world leaders at the climate change summit. this three-day visit will be dominated by isis.</field>
+</doc>
+</add>

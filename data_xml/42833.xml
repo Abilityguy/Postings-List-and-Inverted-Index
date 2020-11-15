@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180123_020000_BBC_News#start/812/end/847</field>
+<field name="datetime">1/23/2018 2:13:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180123_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180123_020000_BBC_News/BBCNEWS_20180123_020000_BBC_News.thumbs/BBCNEWS_20180123_020000_BBC_News_000807.jpg</field>
+<field name="snippet">tackle water quality didn't go far enough. it's now hoped the new funding will start major research into preventing the impact of global warming and helping to repair the damage that's already occurred. andrew plant, bbc</field>
+</doc>
+</add>

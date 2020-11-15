@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190424_210000_The_Five#start/159/end/194</field>
+<field name="datetime">4/24/2019 21:02:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20190424_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190424_210000_The_Five/FOXNEWSW_20190424_210000_The_Five.thumbs/FOXNEWSW_20190424_210000_The_Five_000148.jpg</field>
+<field name="snippet">existential threat to our democracy. what does that even mean? greg: it's an overused term. an existential threat, asteroids, cataclysmic climate change. islamic terror. any time you're stuck in an elevator and maroon 5 is</field>
+</doc>
+</add>

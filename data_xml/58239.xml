@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201310.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20131011_200000_Martin_Bashir#start/1388/end/1423</field>
+<field name="datetime">10/11/2013 20:23:23</field>
+<field name="station">MSNBC</field>
+<field name="show">Martin Bashir</field>
+<field name="showid">MSNBCW_20131011_200000_Martin_Bashir</field>
+<field name="preview">https://archive.org/download/MSNBCW_20131011_200000_Martin_Bashir/MSNBCW_20131011_200000_Martin_Bashir.thumbs/MSNBCW_20131011_200000_Martin_Bashir_001365.jpg</field>
+<field name="snippet">some of these votes. no, no, no, no. i couldn't help notice, joan, if it's hard to convince republicans that defaulting is a bad thing, how do you convince them about the truth regarding climate change, for example? what hope is there with that? there is no hope.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190422_050000_Breakfast#start/5195/end/5230</field>
+<field name="datetime">4/22/2019 6:26:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190422_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190422_050000_Breakfast/BBCNEWS_20190422_050000_Breakfast.thumbs/BBCNEWS_20190422_050000_Breakfast_005187.jpg</field>
+<field name="snippet">you about that later. time now to get the news, travel and weather where you are. good morning from bbc london news, i'm sonja jessup. the climate change protest group, extinction rebellion,</field>
+</doc>
+</add>

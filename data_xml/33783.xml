@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091209_140000_Americas_Newsroom#start/2125/end/2160</field>
+<field name="datetime">12/9/2009 14:35:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20091209_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091209_140000_Americas_Newsroom/FOXNEWS_20091209_140000_Americas_Newsroom.thumbs/FOXNEWS_20091209_140000_Americas_Newsroom_002091.jpg</field>
+<field name="snippet">president obama has a tough position. for eight years, republicans like george bush said climate change was not happening. world leaders were acting without the u.s. at the table.</field>
+</doc>
+</add>

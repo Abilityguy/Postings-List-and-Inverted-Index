@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201004.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100419_160000_MSNBC_News_Live#start/1076/end/1111</field>
+<field name="datetime">4/19/2010 16:18:11</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100419_160000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100419_160000_MSNBC_News_Live/MSNBC_20100419_160000_MSNBC_News_Live.thumbs/MSNBC_20100419_160000_MSNBC_News_Live_001017.jpg</field>
+<field name="snippet">chesney, keith urban. somewhere in america. the slightest breeze harbors immense power. the tallest buildings leave the lightest footprints. a fifty-ton train makes barely a mark on the environment. and a country facing climate change</field>
+</doc>
+</add>

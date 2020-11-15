@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201211.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121112_170000_NOW_With_Alex_Wagner#start/2989/end/3024</field>
+<field name="datetime">11/12/2012 17:50:04</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20121112_170000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121112_170000_NOW_With_Alex_Wagner/MSNBCW_20121112_170000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20121112_170000_NOW_With_Alex_Wagner_002969.jpg</field>
+<field name="snippet">whether it's climate change where the science doesn't add up, or as we saw in the final couple of weeks of this debate, in the polling and math and the electoral votes and early votes and everything we could count showed an obama edge. but the republicans sort of did something tough to themselves.</field>
+</doc>
+</add>

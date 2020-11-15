@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201812.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181231_100000_Meet_the_Press#start/3033/end/3068</field>
+<field name="datetime">12/31/2018 10:50:48</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20181231_100000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181231_100000_Meet_the_Press/MSNBCW_20181231_100000_Meet_the_Press.thumbs/MSNBCW_20181231_100000_Meet_the_Press_003028.jpg</field>
+<field name="snippet">there, is a carbon tax doable? is this the way to do it? is a vice tax the most way to go? the most efficient and most logical and probably the most politically viable solution. i think mayor bloomberg and governor brown tried to make this point</field>
+</doc>
+</add>

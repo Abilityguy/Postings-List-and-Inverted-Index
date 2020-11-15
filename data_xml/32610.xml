@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201211.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121114_180000_America_Live#start/4643/end/4678</field>
+<field name="datetime">11/14/2012 19:17:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWSW_20121114_180000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121114_180000_America_Live/FOXNEWSW_20121114_180000_America_Live.thumbs/FOXNEWSW_20121114_180000_America_Live_004618.jpg</field>
+<field name="snippet">as you know, mark, we can't attribute any particular weather event to climate change. what we do know is the temperature around the globes increasing. faster than was predicted even</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191125_033000_Dateline_London#start/115/end/150</field>
+<field name="datetime">11/25/2019 3:32:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Dateline London</field>
+<field name="showid">BBCNEWS_20191125_033000_Dateline_London</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191125_033000_Dateline_London/BBCNEWS_20191125_033000_Dateline_London.thumbs/BBCNEWS_20191125_033000_Dateline_London_000088.jpg</field>
+<field name="snippet">four years ago, climate change barely registered as a voter issue in a british election. this time, it's a priority. the same is true of the battle for the democratic presidential</field>
+</doc>
+</add>

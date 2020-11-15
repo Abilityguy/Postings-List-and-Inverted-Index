@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190208_100000_Fox_and_Friends_First#start/227/end/262</field>
+<field name="datetime">2/8/2019 10:04:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190208_100000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190208_100000_Fox_and_Friends_First/FOXNEWSW_20190208_100000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190208_100000_Fox_and_Friends_First_000209.jpg</field>
+<field name="snippet">please bring this up for a vote. i'm anxious to have this vote, get people on the records, get them to endorse it. it was massively unpopular in 2009. reporter: hard to decouple the climate change aspects of this from the social change</field>
+</doc>
+</add>

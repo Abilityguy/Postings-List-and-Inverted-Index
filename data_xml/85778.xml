@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201709.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170908_040000_BBC_News#start/455/end/490</field>
+<field name="datetime">9/8/2017 4:07:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170908_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170908_040000_BBC_News/BBCNEWS_20170908_040000_BBC_News.thumbs/BBCNEWS_20170908_040000_BBC_News_000447.jpg</field>
+<field name="snippet">with costs totalling $$1.2 trillion. so is climate change behind this spiralling bill? who will end up paying it? we'll speak to a top insurance boss in 20 minutes' time.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_080000_Victoria_Derbyshire#start/7202/end/7237</field>
+<field name="datetime">10/8/2018 10:00:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20181008_080000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_080000_Victoria_Derbyshire/BBCNEWS_20181008_080000_Victoria_Derbyshire.thumbs/BBCNEWS_20181008_080000_Victoria_Derbyshire_007197.jpg</field>
+<field name="snippet">scientists issue their strongest warning yet on climate change, saying society must undergo rapid and far-reaching change to meet targets. the ipcc report says temperature rises should be limited to no more than 1.5 degrees celsius, just half</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191129_210000_BBC_News#start/836/end/871</field>
+<field name="datetime">11/29/2019 21:14:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191129_210000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191129_210000_BBC_News/BBCNEWS_20191129_210000_BBC_News.thumbs/BBCNEWS_20191129_210000_BBC_News_000838.jpg</field>
+<field name="snippet">at london bridge, the tone was initially a muted one. the national health service, climate change and spending were among the issues raised in questions from the public, as well as brexit. here's a little of what was said.</field>
+</doc>
+</add>

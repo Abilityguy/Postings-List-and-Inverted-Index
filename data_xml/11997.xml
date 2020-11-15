@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_200000_Outside_Source#start/13/end/48</field>
+<field name="datetime">8/8/2019 20:00:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20190808_200000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_200000_Outside_Source/BBCNEWS_20190808_200000_Outside_Source.thumbs/BBCNEWS_20190808_200000_Outside_Source_000027.jpg</field>
+<field name="snippet">hello, i'm nuala mcgovern, this is outside source. the un says we must change our diets to help stop climate change. a new report warns that intensive farming to produce meat and dairy products is having a devastating impact on the planet. the choice between broccoli and ribs</field>
+</doc>
+</add>

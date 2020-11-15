@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201908.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190808_150000_MSNBC_Live_With_Craig_Melvin#start/3070/end/3105</field>
+<field name="datetime">8/8/2019 15:51:25</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Craig Melvin</field>
+<field name="showid">MSNBCW_20190808_150000_MSNBC_Live_With_Craig_Melvin</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190808_150000_MSNBC_Live_With_Craig_Melvin/MSNBCW_20190808_150000_MSNBC_Live_With_Craig_Melvin.thumbs/MSNBCW_20190808_150000_MSNBC_Live_With_Craig_Melvin_003058.jpg</field>
+<field name="snippet">reporter: and so after we did that tour across the way, now elizabeth warren is going to talk with several farmers here. they've been here for decades, they see they've seen the impacts on climate change. they're interested in hearing</field>
+</doc>
+</add>

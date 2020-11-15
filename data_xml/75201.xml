@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_140000_Afternoon_Live#start/5165/end/5200</field>
+<field name="datetime">1/17/2020 15:26:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20200117_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_140000_Afternoon_Live/BBCNEWS_20200117_140000_Afternoon_Live.thumbs/BBCNEWS_20200117_140000_Afternoon_Live_005157.jpg</field>
+<field name="snippet">to the anger many australians feel over their government not doing enough to tackle climate change, which scientists say is causing more violent and more regularflooding and fires across the world. prime minister scott morrison joined mourners at the funeral of a firefighter killed last month. a reminder of the sacrifice</field>
+</doc>
+</add>

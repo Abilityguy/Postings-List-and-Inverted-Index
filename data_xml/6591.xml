@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190923_200000_Outside_Source#start/15/end/50</field>
+<field name="datetime">9/23/2019 20:00:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20190923_200000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190923_200000_Outside_Source/BBCNEWS_20190923_200000_Outside_Source.thumbs/BBCNEWS_20190923_200000_Outside_Source_000058.jpg</field>
+<field name="snippet">hello, i'm nuala mcgovern, this is outside source. at a climate change summit of world leaders in new york, the un secretary general declares that 'time is running out, but it's not too late' swedish campaigner greta thunberg also has her say, accusing leaders of failing</field>
+</doc>
+</add>

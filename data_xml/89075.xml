@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190621_100000_BBC_Newsroom_Live#start/3613/end/3648</field>
+<field name="datetime">6/21/2019 11:00:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190621_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190621_100000_BBC_Newsroom_Live/BBCNEWS_20190621_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190621_100000_BBC_Newsroom_Live_003598.jpg</field>
+<field name="snippet">you're watching bbc newsroom live, these are today's main stories: foreign office minister mark field is suspended after he was filmed pushing a climate change demonstrator at a dinner in the city of london. she is pretty shaken up.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100111_230000_Special_Report_With_Bret_Baier#start/588/end/623</field>
+<field name="datetime">1/11/2010 23:10:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100111_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100111_230000_Special_Report_With_Bret_Baier/FOXNEWS_20100111_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100111_230000_Special_Report_With_Bret_Baier_000566.jpg</field>
+<field name="snippet">now there is a drop in percentage of americans who believe global warming to be caused chiefly by human activity. the plunge is most pronounced in the rasmussen reports that found in a survey of likely voters last month fully half of them, 50% citing long-term planetary trends of chief</field>
+</doc>
+</add>

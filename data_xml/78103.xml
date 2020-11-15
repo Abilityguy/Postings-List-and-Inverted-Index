@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191119_180000_BBC_News_at_Six#start/837/end/872</field>
+<field name="datetime">11/19/2019 18:14:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20191119_180000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191119_180000_BBC_News_at_Six/BBCNEWS_20191119_180000_BBC_News_at_Six.thumbs/BBCNEWS_20191119_180000_BBC_News_at_Six_000837.jpg</field>
+<field name="snippet">the green party announced big plans that mean big spending. they say on climate change, the country can't afford not to act. this is the last election where we can take the first step down the right path, and that is what we must do. vote green.</field>
+</doc>
+</add>

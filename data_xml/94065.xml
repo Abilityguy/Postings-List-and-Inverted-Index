@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170802_230000_Newsday#start/401/end/436</field>
+<field name="datetime">8/2/2017 23:06:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20170802_230000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170802_230000_Newsday/BBCNEWS_20170802_230000_Newsday.thumbs/BBCNEWS_20170802_230000_Newsday_000388.jpg</field>
+<field name="snippet">the two people on board the plane were unharmed. researchers have warned that by the end of the century hundreds of millions of people in south asia will face humidity levels so high they reach the limit of what humans can survive. that's if global warming isn't curbed.</field>
+</doc>
+</add>

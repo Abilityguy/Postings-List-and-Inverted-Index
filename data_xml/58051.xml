@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201304.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130408_160000_NOW_With_Alex_Wagner#start/1982/end/2017</field>
+<field name="datetime">4/8/2013 16:33:17</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20130408_160000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130408_160000_NOW_With_Alex_Wagner/MSNBCW_20130408_160000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20130408_160000_NOW_With_Alex_Wagner_001965.jpg</field>
+<field name="snippet">my parents still haven't moved back in and most of our neighbors, five miles in both directions haven't been able to get back into their houses. the same thing for people in texas displaced by wildfires last year. same thing is happening to people who are affected by drought. but when we look at climate</field>
+</doc>
+</add>

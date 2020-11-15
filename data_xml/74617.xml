@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200115_220000_BBC_News_at_Ten#start/262/end/297</field>
+<field name="datetime">1/15/2020 22:04:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20200115_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200115_220000_BBC_News_at_Ten/BBCNEWS_20200115_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20200115_220000_BBC_News_at_Ten_000238.jpg</field>
+<field name="snippet">heatwaves and droughts, sea levels would rise and rain would intensify, bringing more floods like the ones that hit yorkshire last year. what we have to remember is that the climate crisis is going to affect our economy across so many different dimensions,</field>
+</doc>
+</add>

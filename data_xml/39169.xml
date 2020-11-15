@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100402_150000_Happening_Now#start/5826/end/5861</field>
+<field name="datetime">4/2/2010 16:37:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20100402_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100402_150000_Happening_Now/FOXNEWS_20100402_150000_Happening_Now.thumbs/FOXNEWS_20100402_150000_Happening_Now_005811.jpg</field>
+<field name="snippet">what's happening with the tax code, and what's about ready to happen at the end of 2010 is all the tax cuts that passed with bipartisan votes in congress and signed by president bush are set to increase dramatically. that's on top of a cap and trade or a carbon tax that will shed</field>
+</doc>
+</add>

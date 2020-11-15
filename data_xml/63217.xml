@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190329_000000_Newsday#start/1323/end/1358</field>
+<field name="datetime">3/29/2019 0:22:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190329_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190329_000000_Newsday/BBCNEWS_20190329_000000_Newsday.thumbs/BBCNEWS_20190329_000000_Newsday_001317.jpg</field>
+<field name="snippet">a new record high in co2 emissions happened in 2018, with greenhouse gas concentrations driving global temperatures to increasingly dangerous levels. it says 0cean heat content is at a record high and sea level rises are accelerating, growing 3.7mm higher on average in 2018 than 2017, with melting ice from the ice sheets the main cause of the increase. average global temperature have now</field>
+</doc>
+</add>

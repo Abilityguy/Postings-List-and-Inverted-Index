@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201306.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130625_200000_Martin_Bashir#start/3436/end/3471</field>
+<field name="datetime">6/25/2013 20:57:31</field>
+<field name="station">MSNBC</field>
+<field name="show">Martin Bashir</field>
+<field name="showid">MSNBCW_20130625_200000_Martin_Bashir</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130625_200000_Martin_Bashir/MSNBCW_20130625_200000_Martin_Bashir.thumbs/MSNBCW_20130625_200000_Martin_Bashir_003435.jpg</field>
+<field name="snippet">a short time ago, the president delivered his remarks about climate change taking a strong stance to reduce greenhouse gas pollution. and tomorrow morning, he'll board a plane for a week long trip to africa where he'll visit</field>
+</doc>
+</add>

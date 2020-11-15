@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201302.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130221_210000_Your_World_With_Neil_Cavuto#start/1200/end/1235</field>
+<field name="datetime">2/21/2013 21:20:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20130221_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130221_210000_Your_World_With_Neil_Cavuto/FOXNEWSW_20130221_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20130221_210000_Your_World_With_Neil_Cavuto_001185.jpg</field>
+<field name="snippet">still sounding the alarm. but meteorologists are not buying any of it. i never know how this argument works. if it's hot, it's global warming. it's cold, it's global warming. you've have a headache or</field>
+</doc>
+</add>

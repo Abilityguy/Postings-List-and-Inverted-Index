@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_080000_BBC_News_at_Nine#start/859/end/894</field>
+<field name="datetime">9/20/2019 8:14:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190920_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_080000_BBC_News_at_Nine/BBCNEWS_20190920_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190920_080000_BBC_News_at_Nine_000838.jpg</field>
+<field name="snippet">where we discuss a lot and we should be talking about it but in the uk, we go back to talking about brexit and its intricacies. but climate change is the biggest issue we face globally and in the uk. this protest</field>
+</doc>
+</add>

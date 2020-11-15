@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181126_110000_FOX__Friends#start/4357/end/4392</field>
+<field name="datetime">11/26/2018 12:12:52</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20181126_110000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181126_110000_FOX__Friends/FOXNEWSW_20181126_110000_FOX__Friends.thumbs/FOXNEWSW_20181126_110000_FOX__Friends_004348.jpg</field>
+<field name="snippet">steve: dramatic crash on the racetrack. a car flips over and catches fire. what happened to the driver? probably going to surprise you. pete: chaos erupting in paris o'er macron's gas tax hike climate change. stuart varney says it's a</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201606.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160630_000000_All_In_With_Chris_Hayes#start/3156/end/3191</field>
+<field name="datetime">6/30/2016 0:52:51</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20160630_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160630_000000_All_In_With_Chris_Hayes/MSNBCW_20160630_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20160630_000000_All_In_With_Chris_Hayes_003147.jpg</field>
+<field name="snippet">community is melting fast. the arctic is the leading edge of climate change. our leading indicator of what the entire planet faces. climate change is no longer some</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201412.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141215_060000_Stossel#start/2228/end/2263</field>
+<field name="datetime">12/15/2014 6:37:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Stossel</field>
+<field name="showid">FOXNEWSW_20141215_060000_Stossel</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141215_060000_Stossel/FOXNEWSW_20141215_060000_Stossel.thumbs/FOXNEWSW_20141215_060000_Stossel_002205.jpg</field>
+<field name="snippet">is global warming a big problem? yes, it is. i think it's a huge issue and we're all killing ourselves. it scares me. it should scare everybody. look how bad the storms have gotten, look how bad the fires have gotten. look how bad the fires get.</field>
+</doc>
+</add>

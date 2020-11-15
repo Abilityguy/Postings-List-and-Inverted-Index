@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181129_230000_BBC_News#start/33/end/68</field>
+<field name="datetime">11/29/2018 23:00:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181129_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181129_230000_BBC_News/BBCNEWS_20181129_230000_BBC_News.thumbs/BBCNEWS_20181129_230000_BBC_News_000057.jpg</field>
+<field name="snippet">live in this community. if i didn't think and believe that i was capable of leading this organisation, i would have already walked away. 12 days ahead of the brexit vote in parliament, theresa may and jeremy corbyn clash over whether the bbc or itv should host a televised debate. calls for more action to tackle climate change. we report on new technology</field>
+</doc>
+</add>

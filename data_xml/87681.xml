@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191205_010000_Newsday#start/885/end/920</field>
+<field name="datetime">12/5/2019 1:15:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191205_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191205_010000_Newsday/BBCNEWS_20191205_010000_Newsday.thumbs/BBCNEWS_20191205_010000_Newsday_000868.jpg</field>
+<field name="snippet">climate change is causing birds to shrink and their wingspans to grow. american scientists who analysed 70000 specimens of migratory birds found almost all of the species were getting smaller. the authors say the findings are important to understanding how</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201306.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130625_130000_The_Daily_Rundown#start/126/end/161</field>
+<field name="datetime">6/25/2013 13:02:21</field>
+<field name="station">MSNBC</field>
+<field name="show">The Daily Rundown</field>
+<field name="showid">MSNBCW_20130625_130000_The_Daily_Rundown</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130625_130000_The_Daily_Rundown/MSNBCW_20130625_130000_The_Daily_Rundown.thumbs/MSNBCW_20130625_130000_The_Daily_Rundown_000106.jpg</field>
+<field name="snippet">developing news this morning. let me get to my first read this tuesday. this afternoon in a speech at georgetown university the president will lay out plans to tackle climate change. it's a speech frankly some six years in the making. perhaps the best way to see, it's an attempt to restart a</field>
+</doc>
+</add>

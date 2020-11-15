@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201411.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20141101_160000_Weekends_With_Alex_Witt#start/2157/end/2192</field>
+<field name="datetime">11/1/2014 16:36:12</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20141101_160000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20141101_160000_Weekends_With_Alex_Witt/MSNBCW_20141101_160000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20141101_160000_Weekends_With_Alex_Witt_002145.jpg</field>
+<field name="snippet">i want to play you some sound of republicans avoiding the issue of climate change. here it is. i'm not a scientist. i'm interested in protecting kentucky's economy. i'm not qualified to debate the science over climate change.</field>
+</doc>
+</add>

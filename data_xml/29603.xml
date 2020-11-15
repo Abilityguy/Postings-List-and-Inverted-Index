@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201905.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190524_210000_MTP_Daily#start/2218/end/2253</field>
+<field name="datetime">5/24/2019 21:37:13</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20190524_210000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190524_210000_MTP_Daily/MSNBCW_20190524_210000_MTP_Daily.thumbs/MSNBCW_20190524_210000_MTP_Daily_002219.jpg</field>
+<field name="snippet">more than eight in ten democrats believe it's very important for their party's nominee to take aggressive action to address climate change. there's still a political issue here. look at what happened in australia, an island continent whose great barrier reef is literally being killed by rising</field>
+</doc>
+</add>

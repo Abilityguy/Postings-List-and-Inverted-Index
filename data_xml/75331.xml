@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_140000_Afternoon_Live#start/8197/end/8232</field>
+<field name="datetime">1/16/2020 16:16:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20200116_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_140000_Afternoon_Live/BBCNEWS_20200116_140000_Afternoon_Live.thumbs/BBCNEWS_20200116_140000_Afternoon_Live_008187.jpg</field>
+<field name="snippet">these are our headlines. we're out of time and world leaders need to make life or death decisions on climate change now. that's the warning from sir david attenborough. prince harry makes his first public appearance since announcing he and meghan will be stepping back from front line royal duties. the nhs condemns what it calls shameful tactics by betting companies</field>
+</doc>
+</add>

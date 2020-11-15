@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190904_160000_Outnumbered#start/2355/end/2390</field>
+<field name="datetime">9/4/2019 16:39:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Outnumbered</field>
+<field name="showid">FOXNEWSW_20190904_160000_Outnumbered</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190904_160000_Outnumbered/FOXNEWSW_20190904_160000_Outnumbered.thumbs/FOXNEWSW_20190904_160000_Outnumbered_002339.jpg</field>
+<field name="snippet">harris: ocasio-cortez, co-author of the green new deal retweeted a video of the devastation dorian has left in the bahamas. this is what climate change looks like. hits vulnerable communities first. i can already hear climate</field>
+</doc>
+</add>

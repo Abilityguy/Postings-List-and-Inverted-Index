@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190922_060000_Watters_World#start/2725/end/2760</field>
+<field name="datetime">9/22/2019 6:45:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Watters World</field>
+<field name="showid">FOXNEWSW_20190922_060000_Watters_World</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190922_060000_Watters_World/FOXNEWSW_20190922_060000_Watters_World.thumbs/FOXNEWSW_20190922_060000_Watters_World_002700.jpg</field>
+<field name="snippet">lunch table there at netflix. i want to skip ahead we go to -- this conference you know when everybody goes and talks about climate change. seems like there's a little pollution going on when they fly in there.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201704.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170422_120000_MSNBC_Live#start/2865/end/2900</field>
+<field name="datetime">4/22/2017 12:48:00</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170422_120000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170422_120000_MSNBC_Live/MSNBCW_20170422_120000_MSNBC_Live.thumbs/MSNBCW_20170422_120000_MSNBC_Live_002847.jpg</field>
+<field name="snippet">that doesn't seem to be dampening the turnout. some are dressed like mad scientists and others are carrying posters with climate change messages. it is interesting. this stems from the women's march that took place in january</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190920_100000_FOX__Friends#start/4299/end/4334</field>
+<field name="datetime">9/20/2019 11:11:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20190920_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190920_100000_FOX__Friends/FOXNEWSW_20190920_100000_FOX__Friends.thumbs/FOXNEWSW_20190920_100000_FOX__Friends_004288.jpg</field>
+<field name="snippet">brian: nothing better than bernie sanders screaming at you about climate change. real quick, i think a lot of people are deciding not to have children until we solve this problem. steve: because of climate change? ainsley: or cheeseburgers good thing it's not national cheeseburger day. steve: what do you think</field>
+</doc>
+</add>

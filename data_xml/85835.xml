@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201709.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170901_030000_BBC_News#start/343/end/378</field>
+<field name="datetime">9/1/2017 3:05:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170901_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170901_030000_BBC_News/BBCNEWS_20170901_030000_BBC_News.thumbs/BBCNEWS_20170901_030000_BBC_News_000327.jpg</field>
+<field name="snippet">is we are starting to see storms with worse characteristics than what we have seen in the past and our infrastructure just isn't up to the task. we have not built climate change into our infrastructure</field>
+</doc>
+</add>

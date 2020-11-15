@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170706_194500_Meet_the_Author#start/867/end/902</field>
+<field name="datetime">7/6/2017 19:59:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Meet the Author</field>
+<field name="showid">BBCNEWS_20170706_194500_Meet_the_Author</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170706_194500_Meet_the_Author/BBCNEWS_20170706_194500_Meet_the_Author.thumbs/BBCNEWS_20170706_194500_Meet_the_Author_000867.jpg</field>
+<field name="snippet">things, including climate change.</field>
+</doc>
+</add>

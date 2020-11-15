@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201909.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190917_190000_MSNBC_Live_With_Ali_Velshi#start/2555/end/2590</field>
+<field name="datetime">9/17/2019 19:42:50</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190917_190000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190917_190000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190917_190000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190917_190000_MSNBC_Live_With_Ali_Velshi_002549.jpg</field>
+<field name="snippet">'green new deal' is the most notable and wide ranging plan that has been put forward to fight climate change i want to take a closer look at what that plan hopes to accomplish the main goal is to cut global</field>
+</doc>
+</add>

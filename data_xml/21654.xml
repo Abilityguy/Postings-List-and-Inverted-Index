@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100127_230000_Special_Report_With_Bret_Baier#start/1863/end/1898</field>
+<field name="datetime">1/27/2010 23:31:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100127_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100127_230000_Special_Report_With_Bret_Baier/FOXNEWS_20100127_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100127_230000_Special_Report_With_Bret_Baier_001855.jpg</field>
+<field name="snippet">researching and monitoring climate change. and a new quinnipiac university poll shows a majority of floridians do not want immigration laws waived to make it easier for haitians to stay in the u.s. in the wake of the</field>
+</doc>
+</add>

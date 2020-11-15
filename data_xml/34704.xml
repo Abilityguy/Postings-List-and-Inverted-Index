@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201509.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150923_090000_First_Look#start/1019/end/1054</field>
+<field name="datetime">9/23/2015 9:17:14</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20150923_090000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150923_090000_First_Look/MSNBCW_20150923_090000_First_Look.thumbs/MSNBCW_20150923_090000_First_Look_001006.jpg</field>
+<field name="snippet">'people' magazine is reporting leonardo dicaprio says he will sell his fossil fuel investments to support clean energy. the 40-year-old actor is joining a coalition of 2000 people to fight global warming through their financial investments. all right so can our elected</field>
+</doc>
+</add>

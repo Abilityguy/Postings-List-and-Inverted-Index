@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201201.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120114_120000_Up_W_Chris_Hayes#start/5175/end/5210</field>
+<field name="datetime">1/14/2012 13:26:30</field>
+<field name="station">MSNBC</field>
+<field name="show">Up W Chris Hayes</field>
+<field name="showid">MSNBCW_20120114_120000_Up_W_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120114_120000_Up_W_Chris_Hayes/MSNBCW_20120114_120000_Up_W_Chris_Hayes.thumbs/MSNBCW_20120114_120000_Up_W_Chris_Hayes_005156.jpg</field>
+<field name="snippet">we're back talking about what we talk about when we talk about climate change and when we don't talk about climate change. i have michael mann here and dave roberts here. one of the things i think is most -- in fact, the most</field>
+</doc>
+</add>

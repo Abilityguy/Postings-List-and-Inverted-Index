@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180915_120000_BBC_News#start/1432/end/1467</field>
+<field name="datetime">9/15/2018 12:24:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180915_120000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180915_120000_BBC_News/BBCNEWS_20180915_120000_BBC_News.thumbs/BBCNEWS_20180915_120000_BBC_News_001407.jpg</field>
+<field name="snippet">of earth's ice cover. the satellite mission, called icesat-2, should provide more precise information on the effects of climate change. antarctica, greenland and the ice floating on the arctic ocean have all lost volume in recent decades. a zoo in colombia is celebrating the arrival of a newborn spider monkey. these monkeys are among the 25</field>
+</doc>
+</add>

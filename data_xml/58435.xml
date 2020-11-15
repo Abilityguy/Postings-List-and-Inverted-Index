@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181127_230000_BBC_News#start/1072/end/1107</field>
+<field name="datetime">11/27/2018 23:18:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181127_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181127_230000_BBC_News/BBCNEWS_20181127_230000_BBC_News.thumbs/BBCNEWS_20181127_230000_BBC_News_001047.jpg</field>
+<field name="snippet">today but the public pressure on his company shows no sign of letting up. rory cellan-jones, bbc news. efforts to tackle climate change are way off track according to the united nations, which is hosting a major climate conference in poland next week. last year, greenhouse gas emissions reached a record high, and it's notjust a matter of industrial pollution.</field>
+</doc>
+</add>

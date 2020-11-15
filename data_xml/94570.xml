@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201004.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100410_000000_Countdown_With_Keith_Olbermann#start/1174/end/1209</field>
+<field name="datetime">4/10/2010 0:19:49</field>
+<field name="station">MSNBC</field>
+<field name="show">Countdown With Keith Olbermann</field>
+<field name="showid">MSNBC_20100410_000000_Countdown_With_Keith_Olbermann</field>
+<field name="preview">https://archive.org/download/MSNBC_20100410_000000_Countdown_With_Keith_Olbermann/MSNBC_20100410_000000_Countdown_With_Keith_Olbermann.thumbs/MSNBC_20100410_000000_Countdown_With_Keith_Olbermann_001166.jpg</field>
+<field name="snippet">the tallest buildings leave the lightest footprints. a fifty-ton train makes barely a mark on the environment. and a country facing climate change finds climate solutions. somewhere in america,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200115_210000_Outside_Source#start/584/end/619</field>
+<field name="datetime">1/15/2020 21:09:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20200115_210000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200115_210000_Outside_Source/BBCNEWS_20200115_210000_Outside_Source.thumbs/BBCNEWS_20200115_210000_Outside_Source_000568.jpg</field>
+<field name="snippet">one of the consequences of climate change is the intensity of natural disasters as well as hotter weather - and we've seen plenty of both in the past year alone. in the far north of the united states alaska had its warmest year on record. far away in australia -  _</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201301.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130105_020000_Hannity#start/717/end/752</field>
+<field name="datetime">1/5/2013 2:12:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20130105_020000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130105_020000_Hannity/FOXNEWSW_20130105_020000_Hannity.thumbs/FOXNEWSW_20130105_020000_Hannity_000675.jpg</field>
+<field name="snippet">they have the time. welcome back to 'hannity.' now that former vice-president al gore is 100 million dollars richer it's safe to say that the global warming guru</field>
+</doc>
+</add>

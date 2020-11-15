@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201507.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150728_090000_Fox_and_Friends_First#start/1472/end/1507</field>
+<field name="datetime">7/28/2015 9:24:47</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20150728_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150728_090000_Fox_and_Friends_First/FOXNEWSW_20150728_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20150728_090000_Fox_and_Friends_First_001455.jpg</field>
+<field name="snippet">hours after unveiling the new plan to solve global warming. the 19 seat jet burns up 150 gallons of fuel per hour.</field>
+</doc>
+</add>

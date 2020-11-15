@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_100000_BBC_Newsroom_Live#start/35/end/70</field>
+<field name="datetime">8/8/2019 10:00:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190808_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_100000_BBC_Newsroom_Live/BBCNEWS_20190808_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190808_100000_BBC_Newsroom_Live_000028.jpg</field>
+<field name="snippet">he has an injury to the side of his head which required stitching and he has other injuries to his body included bumps and bruises. eating less meat could help slow down global warming, according to climate scientists. bad for our health,</field>
+</doc>
+</add>

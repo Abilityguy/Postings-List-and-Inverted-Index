@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191203_180000_BBC_News_at_Six#start/587/end/622</field>
+<field name="datetime">12/3/2019 18:10:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20191203_180000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191203_180000_BBC_News_at_Six/BBCNEWS_20191203_180000_BBC_News_at_Six.thumbs/BBCNEWS_20191203_180000_BBC_News_at_Six_000568.jpg</field>
+<field name="snippet">that's according to scientists at the world meteorological organisation. the report - presented at the un climate talks in madrid - also confirms that the exceptional temperatures are being driven by greenhouse gas emissions. from madrid, here's our science editor david shukman.</field>
+</doc>
+</add>

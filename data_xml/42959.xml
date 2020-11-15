@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180123_040000_BBC_News#start/1118/end/1153</field>
+<field name="datetime">1/23/2018 4:18:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180123_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180123_040000_BBC_News/BBCNEWS_20180123_040000_BBC_News.thumbs/BBCNEWS_20180123_040000_BBC_News_001108.jpg</field>
+<field name="snippet">barrier reef has changed fundamentally in the last two years because of the bleaching event driven by climate change of course. and so it needs a huge injection of funding, notjust the amount of money the prime minister announced yesterday. studies show we need about $8 billion just to fix the poor water quality problem from</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190324_213000_Our_World#start/232/end/267</field>
+<field name="datetime">3/24/2019 21:34:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Our World</field>
+<field name="showid">BBCNEWS_20190324_213000_Our_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190324_213000_Our_World/BBCNEWS_20190324_213000_Our_World.thumbs/BBCNEWS_20190324_213000_Our_World_000209.jpg</field>
+<field name="snippet">the country is in deep trouble. water has never been plentiful here but growing demand, mainly from farming, and higher temperatures linked to climate change, have collided to create the country's worst</field>
+</doc>
+</add>

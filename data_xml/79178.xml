@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201402.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140218_060000_The_Last_Word_With_Lawrence_ODonnell#start/915/end/950</field>
+<field name="datetime">2/18/2014 6:15:30</field>
+<field name="station">MSNBC</field>
+<field name="show">The Last Word With Lawrence ODonnell</field>
+<field name="showid">MSNBCW_20140218_060000_The_Last_Word_With_Lawrence_ODonnell</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140218_060000_The_Last_Word_With_Lawrence_ODonnell/MSNBCW_20140218_060000_The_Last_Word_With_Lawrence_ODonnell.thumbs/MSNBCW_20140218_060000_The_Last_Word_With_Lawrence_ODonnell_000915.jpg</field>
+<field name="snippet">to michael sam's public declaration he is gay. and finally, tonight, the last word goes to bill nye, the science guy. he is back to talk about his debate, if you could call it that, on 'meet the press' yesterday about climate change.</field>
+</doc>
+</add>

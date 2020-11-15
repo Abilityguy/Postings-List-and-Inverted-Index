@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190923_100000_FOX__Friends#start/1688/end/1723</field>
+<field name="datetime">9/23/2019 10:28:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20190923_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190923_100000_FOX__Friends/FOXNEWSW_20190923_100000_FOX__Friends.thumbs/FOXNEWSW_20190923_100000_FOX__Friends_001679.jpg</field>
+<field name="snippet">a third of a world is living under religious persecution. 80 percent of it is against christians. it is a remarkable thing that this president would skip u.n. climate change summit on an imaginary problem to address the very</field>
+</doc>
+</add>

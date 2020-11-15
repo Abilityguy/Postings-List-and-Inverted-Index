@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200102_030000_BBC_News#start/1398/end/1433</field>
+<field name="datetime">1/2/2020 3:23:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200102_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200102_030000_BBC_News/BBCNEWS_20200102_030000_BBC_News.thumbs/BBCNEWS_20200102_030000_BBC_News_001377.jpg</field>
+<field name="snippet">what to look out for in 2020. this is going to be a critical year climate change. in 2020 nations will be revealing how they intend to cut</field>
+</doc>
+</add>

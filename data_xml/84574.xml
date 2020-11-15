@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190417_050000_Breakfast#start/7260/end/7295</field>
+<field name="datetime">4/17/2019 7:01:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190417_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190417_050000_Breakfast/BBCNEWS_20190417_050000_Breakfast.thumbs/BBCNEWS_20190417_050000_Breakfast_007258.jpg</field>
+<field name="snippet">let's start with the tube and as you heard commuters have been warned there could be disruption today because of planned action by climate change activists at the moment there are some unrelated minor delays clockwise on the circle line and also severe delays on the district line between tower hill and ealing</field>
+</doc>
+</add>

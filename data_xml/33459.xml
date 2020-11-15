@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091201_230000_Special_Report_With_Bret_Baier#start/2180/end/2215</field>
+<field name="datetime">12/1/2009 23:36:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091201_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091201_230000_Special_Report_With_Bret_Baier/FOXNEWS_20091201_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091201_230000_Special_Report_With_Bret_Baier_002154.jpg</field>
+<field name="snippet">colleagues tried to downplay data contradicting the theory of man made global warming. meantime, the administration at penn state university reportedly will investigate the alleged involvement of one of its researchers in the scandal. we will preview tonight's</field>
+</doc>
+</add>

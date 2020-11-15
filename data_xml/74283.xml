@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200110_023000_Thursday_in_Parliament#start/1186/end/1221</field>
+<field name="datetime">1/10/2020 2:50:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Thursday in Parliament</field>
+<field name="showid">BBCNEWS_20200110_023000_Thursday_in_Parliament</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200110_023000_Thursday_in_Parliament/BBCNEWS_20200110_023000_Thursday_in_Parliament.thumbs/BBCNEWS_20200110_023000_Thursday_in_Parliament_001167.jpg</field>
+<field name="snippet">there is always a bushfire season, but not like this. labour said the fires were clearly caused by global warming - and yet there were still individuals who denied climate change was a real issue. these individuals, sadly, include the current president of the united states, donald trump,</field>
+</doc>
+</add>

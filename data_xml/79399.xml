@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201402.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140224_160000_NewsNation#start/1566/end/1601</field>
+<field name="datetime">2/24/2014 16:26:21</field>
+<field name="station">MSNBC</field>
+<field name="show">NewsNation</field>
+<field name="showid">MSNBCW_20140224_160000_NewsNation</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140224_160000_NewsNation/MSNBCW_20140224_160000_NewsNation.thumbs/MSNBCW_20140224_160000_NewsNation_001545.jpg</field>
+<field name="snippet">former governor herself, has proven to work with all of you to find ways to get that done. on the west coast, you've got governors brown, insly, who are working together to combat the effects of climate change on their states.</field>
+</doc>
+</add>

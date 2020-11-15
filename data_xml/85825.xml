@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201709.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170911_043000_World_Business_Report#start/80/end/115</field>
+<field name="datetime">9/11/2017 4:31:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World Business Report</field>
+<field name="showid">BBCNEWS_20170911_043000_World_Business_Report</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170911_043000_World_Business_Report/BBCNEWS_20170911_043000_World_Business_Report.thumbs/BBCNEWS_20170911_043000_World_Business_Report_000057.jpg</field>
+<field name="snippet">and the president pledges whatever resources are needed. we assess what's at stake. and who should take the lead on addressing climate change - businesses or government? we bring you a special report from india. welcome to world business report.</field>
+</doc>
+</add>

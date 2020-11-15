@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190910_160000_BBC_News_at_Five#start/2399/end/2434</field>
+<field name="datetime">9/10/2019 16:40:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190910_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190910_160000_BBC_News_at_Five/BBCNEWS_20190910_160000_BBC_News_at_Five.thumbs/BBCNEWS_20190910_160000_BBC_News_at_Five_002398.jpg</field>
+<field name="snippet">that glasgow will be hosting a major united nations climate change summit next year with up to do hundreds of state attending. the time is 5:39pm. let move on to some of the other news today. police in northern ireland say</field>
+</doc>
+</add>

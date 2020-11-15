@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201007.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100720_220000_Special_Report_With_Bret_Baier#start/427/end/462</field>
+<field name="datetime">7/20/2010 22:07:22</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100720_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100720_220000_Special_Report_With_Bret_Baier/FOXNEWS_20100720_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100720_220000_Special_Report_With_Bret_Baier_000416.jpg</field>
+<field name="snippet">the u.s. economy. the international energy agency says china is the largest energy consumer, surpassing the u.s. the paris-based group says china's consumption more than doubled since 2000, making it the biggest producer of greenhouse gases.</field>
+</doc>
+</add>

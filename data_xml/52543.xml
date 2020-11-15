@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_060000_Breakfast#start/4291/end/4326</field>
+<field name="datetime">12/3/2018 7:11:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181203_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_060000_Breakfast/BBCNEWS_20181203_060000_Breakfast.thumbs/BBCNEWS_20181203_060000_Breakfast_004287.jpg</field>
+<field name="snippet">mention on their big day. lebo diseko, bbc news. sir david attenborough will address the un's climate change summit in poland later amid warnings that the planet is 'at a crossroads.' the meeting in katowice will call for drastic cuts in emissions to meet the targets set in the 2015 paris agreement. we're joined from poland</field>
+</doc>
+</add>

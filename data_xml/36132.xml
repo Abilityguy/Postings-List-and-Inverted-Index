@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201912.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191222_120000_MSNBC_Live#start/2887/end/2922</field>
+<field name="datetime">12/22/2019 12:48:22</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20191222_120000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191222_120000_MSNBC_Live/MSNBCW_20191222_120000_MSNBC_Live.thumbs/MSNBCW_20191222_120000_MSNBC_Live_002877.jpg</field>
+<field name="snippet">there's 97% scientific consensus among climate scientists that climate change is happening, the vast majority of americans now acknowledge that climate change is happening and we're seeing the effects, we're seeing the if ekts from the midwestern floods this year to the california wildfires to what's happening in</field>
+</doc>
+</add>

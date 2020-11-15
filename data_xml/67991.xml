@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190226_060000_Breakfast#start/3088/end/3123</field>
+<field name="datetime">2/26/2019 6:51:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190226_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190226_060000_Breakfast/BBCNEWS_20190226_060000_Breakfast.thumbs/BBCNEWS_20190226_060000_Breakfast_003088.jpg</field>
+<field name="snippet">scientists have been telling us. the met office say we have had the warmest winter day on record but it would be simplistic to list this to climate change unless a study has</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181126_220000_BBC_News_at_Ten#start/720/end/755</field>
+<field name="datetime">11/26/2018 22:12:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20181126_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181126_220000_BBC_News_at_Ten/BBCNEWS_20181126_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20181126_220000_BBC_News_at_Ten_000717.jpg</field>
+<field name="snippet">as temperatures are set to rise, the scientists have produced different scenarios for the future climate. these are based on computer simulations of how much more greenhouse gas will be added to the air. gases like carbon dioxide have the effect of warming the planet, and at the moment</field>
+</doc>
+</add>

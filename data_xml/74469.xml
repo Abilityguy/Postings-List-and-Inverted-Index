@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200113_040000_BBC_News#start/703/end/738</field>
+<field name="datetime">1/13/2020 4:11:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200113_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200113_040000_BBC_News/BBCNEWS_20200113_040000_BBC_News.thumbs/BBCNEWS_20200113_040000_BBC_News_000689.jpg</field>
+<field name="snippet">they're starting so much earlier. i believe it is climate change. the government is asleep at the wheel. and that government is led by scott morrison, who as a minister four years ago nailed his colours to the mast in the climate change debate. this is coal, don't be</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190208_130000_BBC_News_at_One#start/907/end/942</field>
+<field name="datetime">2/8/2019 13:15:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190208_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190208_130000_BBC_News_at_One/BBCNEWS_20190208_130000_BBC_News_at_One.thumbs/BBCNEWS_20190208_130000_BBC_News_at_One_000898.jpg</field>
+<field name="snippet">the first in the world to capture carbon dioxide by burning wood pellets. the company says the electricity it is producing during a trial at the plant near selby is carbon negative and helping to combat climate change on a very small scale.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191117_023000_Dateline_London#start/1075/end/1110</field>
+<field name="datetime">11/17/2019 2:48:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Dateline London</field>
+<field name="showid">BBCNEWS_20191117_023000_Dateline_London</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191117_023000_Dateline_London/BBCNEWS_20191117_023000_Dateline_London.thumbs/BBCNEWS_20191117_023000_Dateline_London_001049.jpg</field>
+<field name="snippet">it was not a successful week. in terms of climate change, i don't see it is such a big topic in the british campaign, which is surprising because the extinction rebellion,</field>
+</doc>
+</add>

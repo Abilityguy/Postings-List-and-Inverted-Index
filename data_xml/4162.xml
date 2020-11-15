@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201008.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100804_100000_Morning_Joe#start/4752/end/4787</field>
+<field name="datetime">8/4/2010 11:19:27</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20100804_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20100804_100000_Morning_Joe/MSNBC_20100804_100000_Morning_Joe.thumbs/MSNBC_20100804_100000_Morning_Joe_004732.jpg</field>
+<field name="snippet">which is expected to say that what is left of the crude does not seem to pose much additional risk. here with us now from the white house, assistant to the president for energy and climate change, carol browner. thank you for being on the show.</field>
+</doc>
+</add>

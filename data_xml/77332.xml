@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191125_170000_BBC_News_at_Five#start/3627/end/3662</field>
+<field name="datetime">11/25/2019 18:00:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20191125_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191125_170000_BBC_News_at_Five/BBCNEWS_20191125_170000_BBC_News_at_Five.thumbs/BBCNEWS_20191125_170000_BBC_News_at_Five_003628.jpg</field>
+<field name="snippet">where the bodies, including those of children, were discovered. mr robinson is stll facing 39 charges of manslaughter. we'll bring you the latest from the old bailey. also tonight: levels of greenhouse gases in the atmosphere reach another record high.</field>
+</doc>
+</add>

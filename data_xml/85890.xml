@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201709.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170907_221500_Newsnight#start/301/end/336</field>
+<field name="datetime">9/7/2017 22:20:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsnight</field>
+<field name="showid">BBCNEWS_20170907_221500_Newsnight</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170907_221500_Newsnight/BBCNEWS_20170907_221500_Newsnight.thumbs/BBCNEWS_20170907_221500_Newsnight_000298.jpg</field>
+<field name="snippet">and definitely the very extreme rainfall is one of the things where the likelihood has increased due to climate change. this year in the north atlantic, there have so far been 11 named storms, of which six have been hurricanes. the average between 1981 and 2010</field>
+</doc>
+</add>

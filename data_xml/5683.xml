@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190925_050000_Breakfast#start/515/end/550</field>
+<field name="datetime">9/25/2019 5:08:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190925_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190925_050000_Breakfast/BBCNEWS_20190925_050000_Breakfast.thumbs/BBCNEWS_20190925_050000_Breakfast_000507.jpg</field>
+<field name="snippet">and pushing for impeachment. scientists have been meeting in monaco to finalise and publish a report on the effect of rising temperatures on the world's oceans. the report, set to be published later today by the intergovernmental panel on climate change, is expected</field>
+</doc>
+</add>

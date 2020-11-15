@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201802.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180208_170000_BBC_News_at_Five#start/3281/end/3316</field>
+<field name="datetime">2/8/2018 17:54:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20180208_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180208_170000_BBC_News_at_Five/BBCNEWS_20180208_170000_BBC_News_at_Five.thumbs/BBCNEWS_20180208_170000_BBC_News_at_Five_003267.jpg</field>
+<field name="snippet">more we look for the plastics, the more we are finding. arctic scientists don't know yet whether the plastic tide will affect local fish stocks, but it is another human threat to a fragile environment already being transformed by man-made climate change. coming up</field>
+</doc>
+</add>

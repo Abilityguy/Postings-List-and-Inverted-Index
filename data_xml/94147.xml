@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170805_220000_BBC_News#start/654/end/689</field>
+<field name="datetime">8/5/2017 22:11:09</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170805_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170805_220000_BBC_News/BBCNEWS_20170805_220000_BBC_News.thumbs/BBCNEWS_20170805_220000_BBC_News_000627.jpg</field>
+<field name="snippet">from europe's heatwave, temperatures are expected to return to some normality late next week. this is something scientists predict we should get used to, though, suggesting global warming will lead to more of us being exposed to increased extreme weather patterns in the years to come.</field>
+</doc>
+</add>

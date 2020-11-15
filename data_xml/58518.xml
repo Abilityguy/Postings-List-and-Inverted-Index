@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181122_110000_BBC_Newsroom_Live#start/1873/end/1908</field>
+<field name="datetime">11/22/2018 11:31:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20181122_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181122_110000_BBC_Newsroom_Live/BBCNEWS_20181122_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20181122_110000_BBC_Newsroom_Live_001857.jpg</field>
+<field name="snippet">are extremely concerned with the recent increases of the greenhouse gas concentration. there are the three main gases, carbon dioxide, methane and nitrous oxide. this year, we reported another increase</field>
+</doc>
+</add>

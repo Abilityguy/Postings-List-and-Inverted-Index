@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201105.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110515_070000_Huckabee#start/3197/end/3232</field>
+<field name="datetime">5/15/2011 7:53:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Huckabee</field>
+<field name="showid">FOXNEWS_20110515_070000_Huckabee</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110515_070000_Huckabee/FOXNEWS_20110515_070000_Huckabee.thumbs/FOXNEWS_20110515_070000_Huckabee_003180.jpg</field>
+<field name="snippet">so what if global warming is a real threat? what if we need to use less coal, oil or natural gas? what then? nuclear. it doesn't admit greenhouse gasses. it scares people to death.</field>
+</doc>
+</add>

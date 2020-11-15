@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091209_090000_Special_Report_With_Bret_Baier#start/961/end/996</field>
+<field name="datetime">12/9/2009 9:16:16</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091209_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091209_090000_Special_Report_With_Bret_Baier/FOXNEWS_20091209_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091209_090000_Special_Report_With_Bret_Baier_000954.jpg</field>
+<field name="snippet">with revelations that some leading proponents of global warming have manipulated findings and destroyed more than 150 years worth of raw climate data. on that basis, the competitive enterprise institute, which has also challenged whether</field>
+</doc>
+</add>

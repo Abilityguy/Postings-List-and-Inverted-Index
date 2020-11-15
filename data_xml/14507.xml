@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201812.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181230_230000_Meet_the_Press#start/2740/end/2775</field>
+<field name="datetime">12/30/2018 23:45:55</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20181230_230000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181230_230000_Meet_the_Press/MSNBCW_20181230_230000_Meet_the_Press.thumbs/MSNBCW_20181230_230000_Meet_the_Press_002728.jpg</field>
+<field name="snippet">is happening and 57% believe it's mostly caused by human activity, and in fact, the 66% of people in our latest nbc news/wall street journal poll who believe climate change is a serious problem that does need to be addressed, that's a 15-point increase since 1999.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201709.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170917_060000_Watters_World#start/2698/end/2733</field>
+<field name="datetime">9/17/2017 6:45:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Watters World</field>
+<field name="showid">FOXNEWSW_20170917_060000_Watters_World</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170917_060000_Watters_World/FOXNEWSW_20170917_060000_Watters_World.thumbs/FOXNEWSW_20170917_060000_Watters_World_002698.jpg</field>
+<field name="snippet">piece from david leonard. smoking, drunken driving and seat beltless riding each created a public health crisis. climate change is on its way to</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201010.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101012_150000_Happening_Now#start/5948/end/5983</field>
+<field name="datetime">10/12/2010 16:39:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20101012_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101012_150000_Happening_Now/FOXNEWS_20101012_150000_Happening_Now.thumbs/FOXNEWS_20101012_150000_Happening_Now_005930.jpg</field>
+<field name="snippet">it's actually just a simple matter of physics. reporter: now, the sierra club which is where mcginn worked last year supports this measure. they say cars contribute to global warming. jenna? jenna: road diet.</field>
+</doc>
+</add>

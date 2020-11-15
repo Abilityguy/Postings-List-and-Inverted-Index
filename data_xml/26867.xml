@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100214_030000_Geraldo_at_Large#start/302/end/337</field>
+<field name="datetime">2/14/2010 3:05:17</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Geraldo at Large</field>
+<field name="showid">FOXNEWS_20100214_030000_Geraldo_at_Large</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100214_030000_Geraldo_at_Large/FOXNEWS_20100214_030000_Geraldo_at_Large.thumbs/FOXNEWS_20100214_030000_Geraldo_at_Large_000296.jpg</field>
+<field name="snippet">out 200 years ago why we have rain or snow. hot air from the gulf of mexico hits cold air from the arctic creating precipitation. now, global warming means more moisture in the atmosphere.</field>
+</doc>
+</add>

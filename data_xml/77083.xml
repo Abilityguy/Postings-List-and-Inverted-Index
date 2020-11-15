@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190512_050000_Breakfast#start/3528/end/3563</field>
+<field name="datetime">5/12/2019 5:59:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190512_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190512_050000_Breakfast/BBCNEWS_20190512_050000_Breakfast.thumbs/BBCNEWS_20190512_050000_Breakfast_003507.jpg</field>
+<field name="snippet">if the climate change conditions dry things out sufficiently, than they might start to feel some impacts, they might not grow as well, they might not get as tall. they might, in the future, even start to die back and that is what we are trying to figure out. do i feel the tree shaking a little bit? it's moving. this is a normal</field>
+</doc>
+</add>

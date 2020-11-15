@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100209_050000_Hannity#start/1835/end/1870</field>
+<field name="datetime">2/9/2010 5:30:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20100209_050000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100209_050000_Hannity/FOXNEWS_20100209_050000_Hannity.thumbs/FOXNEWS_20100209_050000_Hannity_001800.jpg</field>
+<field name="snippet">making it all a bit easier -- now that's progressive! call or click today. . sean: earlier today the secretary of commerce held a news conference to discuss the threat global warming poses to the u.s.</field>
+</doc>
+</add>

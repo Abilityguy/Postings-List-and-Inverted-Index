@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181101_060000_Breakfast#start/5491/end/5526</field>
+<field name="datetime">11/1/2018 7:31:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181101_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181101_060000_Breakfast/BBCNEWS_20181101_060000_Breakfast.thumbs/BBCNEWS_20181101_060000_Breakfast_005487.jpg</field>
+<field name="snippet">a global study has warned that the amount of heat absorbed by the oceans over the past 25 years has been seriously underestimated. researchers say the seas have absorbed 60% more heat than previously thought, which means it could be harder to keep global warming within safe levels this century. too many prisoners in england are in unsafe and unsanitary</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201011.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101116_170000_MSNBC_News_Live#start/3202/end/3237</field>
+<field name="datetime">11/16/2010 17:53:37</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20101116_170000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20101116_170000_MSNBC_News_Live/MSNBC_20101116_170000_MSNBC_News_Live.thumbs/MSNBC_20101116_170000_MSNBC_News_Live_003203.jpg</field>
+<field name="snippet">expected to meet this week to talk about whether to call a lame duck session to freeze the current standards for the epa's climate change agenda. it's frightening because the conversation in washington, d.c. is really about parties and who</field>
+</doc>
+</add>

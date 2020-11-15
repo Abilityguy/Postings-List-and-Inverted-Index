@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200114_170000_BBC_News_at_Five#start/2402/end/2437</field>
+<field name="datetime">1/14/2020 17:40:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20200114_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200114_170000_BBC_News_at_Five/BBCNEWS_20200114_170000_BBC_News_at_Five.thumbs/BBCNEWS_20200114_170000_BBC_News_at_Five_002397.jpg</field>
+<field name="snippet">the exception but the norm. let's speak to drjo house, director of climate change science and policy at the university of bristol.</field>
+</doc>
+</add>

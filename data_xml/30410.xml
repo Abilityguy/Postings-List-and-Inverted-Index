@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.202001.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20200120_110000_Morning_Joe#start/5027/end/5062</field>
+<field name="datetime">1/20/2020 12:24:02</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20200120_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20200120_110000_Morning_Joe/MSNBCW_20200120_110000_Morning_Joe.thumbs/MSNBCW_20200120_110000_Morning_Joe_005009.jpg</field>
+<field name="snippet">as a leader in the fight against climate change, he helped shut down over half of the nation's coal plants, then led one of the biggest pollution reduction efforts in history. as president, he intends to reduce emissions by fifty percent within ten years. because if we want to stop climate change,</field>
+</doc>
+</add>

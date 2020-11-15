@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201411.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20141110_210000_NOW_With_Alex_Wagner#start/3136/end/3171</field>
+<field name="datetime">11/10/2014 21:52:31</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20141110_210000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20141110_210000_NOW_With_Alex_Wagner/MSNBCW_20141110_210000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20141110_210000_NOW_With_Alex_Wagner_003135.jpg</field>
+<field name="snippet">public information and science is winning. it is hard to keep science under rap. the climate change is actively trying to use it. but only working to a bigger point because science has a</field>
+</doc>
+</add>

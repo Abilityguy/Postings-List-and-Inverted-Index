@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191225_013000_Our_World#start/408/end/443</field>
+<field name="datetime">12/25/2019 1:37:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Our World</field>
+<field name="showid">BBCNEWS_20191225_013000_Our_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191225_013000_Our_World/BBCNEWS_20191225_013000_Our_World.thumbs/BBCNEWS_20191225_013000_Our_World_000389.jpg</field>
+<field name="snippet">in all schools across town, older kids mentor younger kids about climate change. so, in our school, we do something very similar. 15-year-old kia is</field>
+</doc>
+</add>

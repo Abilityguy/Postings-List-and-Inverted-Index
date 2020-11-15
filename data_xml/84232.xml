@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190419_120000_BBC_News#start/1899/end/1934</field>
+<field name="datetime">4/19/2019 12:31:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190419_120000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190419_120000_BBC_News/BBCNEWS_20190419_120000_BBC_News.thumbs/BBCNEWS_20190419_120000_BBC_News_001887.jpg</field>
+<field name="snippet">are deployed on the streets of central london as they try to stop people joining climate change demonstrators on oxford circus. local authorities are being acused of practicing 'social clea nsing' by misusing powers to issue fines for rough sleeping, begging and loitering.</field>
+</doc>
+</add>

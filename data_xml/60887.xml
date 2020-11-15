@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201804.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180426_030000_BBC_News#start/61/end/96</field>
+<field name="datetime">4/26/2018 3:01:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180426_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180426_030000_BBC_News/BBCNEWS_20180426_030000_BBC_News.thumbs/BBCNEWS_20180426_030000_BBC_News_000058.jpg</field>
+<field name="snippet">he backed the iran nuclear deal and stressed the urgency of tackling climate change. mr macron hasjust been giving a press conference, he said mr trump might still reject the current deal that limits iran's nuclear ambitions, but insisted there had been progress towards a new, better agreement.</field>
+</doc>
+</add>

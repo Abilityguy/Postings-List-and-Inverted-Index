@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201909.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190921_000000_All_In_With_Chris_Hayes#start/2957/end/2992</field>
+<field name="datetime">9/21/2019 0:49:32</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20190921_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190921_000000_All_In_With_Chris_Hayes/MSNBCW_20190921_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20190921_000000_All_In_With_Chris_Hayes_002938.jpg</field>
+<field name="snippet">i'm a 14-year-old climate activist living in new york city. every friday i strike school and i'm outside the united nations headquarters because it's where all the world leaders come together to make big decisions like reducing our global greenhouse gas emissions so it's</field>
+</doc>
+</add>

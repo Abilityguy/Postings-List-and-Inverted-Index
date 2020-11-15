@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201303.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130318_100000_Morning_Joe#start/6653/end/6688</field>
+<field name="datetime">3/18/2013 11:51:08</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20130318_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130318_100000_Morning_Joe/MSNBCW_20130318_100000_Morning_Joe.thumbs/MSNBCW_20130318_100000_Morning_Joe_006645.jpg</field>
+<field name="snippet">the food industry and how it's linked to climate change and consumption. our national security in obesity. catch 'the need to know' on pbs this friday. check your local listings for time. emily, thanks.</field>
+</doc>
+</add>

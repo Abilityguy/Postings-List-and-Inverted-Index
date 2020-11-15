@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201009.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100917_170000_America_Live#start/4500/end/4535</field>
+<field name="datetime">9/17/2010 18:15:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWS_20100917_170000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100917_170000_America_Live/FOXNEWS_20100917_170000_America_Live.thumbs/FOXNEWS_20100917_170000_America_Live_004491.jpg</field>
+<field name="snippet">news out of washington today that we all have to say so long global warming and say hello to global disruption. the administration changing its tune on climate change. white house science advisor</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191220_030000_BBC_News#start/247/end/282</field>
+<field name="datetime">12/20/2019 3:04:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191220_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191220_030000_BBC_News/BBCNEWS_20191220_030000_BBC_News.thumbs/BBCNEWS_20191220_030000_BBC_News_000238.jpg</field>
+<field name="snippet">last week to protect the industry, and many australians support that view. i'm not so sure that climate change is responsible for what we're experiencing here. possibly the drought has got a lot to do with it in australia. we're talking about 60, 70-metre flame heights. every day, a new front line emerges.</field>
+</doc>
+</add>

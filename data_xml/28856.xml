@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201610.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161011_190000_Shepard_Smith_Reporting#start/2513/end/2548</field>
+<field name="datetime">10/11/2016 19:42:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20161011_190000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161011_190000_Shepard_Smith_Reporting/FOXNEWSW_20161011_190000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20161011_190000_Shepard_Smith_Reporting_002488.jpg</field>
+<field name="snippet">donald trump is, quote, not a big believer in climate change. and, you know, as i said, he says it's a hoax created by the chinese and in our first debate two weeks ago he tried to deny</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201201.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120110_010000_The_OReilly_Factor#start/3104/end/3139</field>
+<field name="datetime">1/10/2012 1:51:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20120110_010000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120110_010000_The_OReilly_Factor/FOXNEWSW_20120110_010000_The_OReilly_Factor.thumbs/FOXNEWSW_20120110_010000_The_OReilly_Factor_003086.jpg</field>
+<field name="snippet">bill: kind of hot rhetoric does not help the global warming cause. check four. chris christie again taking no prisoners.</field>
+</doc>
+</add>

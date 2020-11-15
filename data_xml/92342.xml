@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200911.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091125_200000_MSNBC_News_Live#start/784/end/819</field>
+<field name="datetime">11/25/2009 20:13:19</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091125_200000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091125_200000_MSNBC_News_Live/MSNBC_20091125_200000_MSNBC_News_Live.thumbs/MSNBC_20091125_200000_MSNBC_News_Live_000773.jpg</field>
+<field name="snippet">there you have that. plus, a controversy rocking the science community, stolen memos about global warming, critics say they reveal it's all quack science. and today, half a million text messages from september 11th, 2001, were made public for</field>
+</doc>
+</add>

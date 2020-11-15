@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201612.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161205_220000_MTP_Daily#start/3136/end/3171</field>
+<field name="datetime">12/5/2016 22:52:31</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20161205_220000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161205_220000_MTP_Daily/MSNBCW_20161205_220000_MTP_Daily.thumbs/MSNBCW_20161205_220000_MTP_Daily_003117.jpg</field>
+<field name="snippet">it's got to make every conservative nervous, because al gore's single issue is climate change. but even donald trump has softened his stance. he's told 'the new york times,' i'm open to the conversation.</field>
+</doc>
+</add>

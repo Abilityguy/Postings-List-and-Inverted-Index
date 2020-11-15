@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190615_203000_Our_World#start/1381/end/1416</field>
+<field name="datetime">6/15/2019 20:53:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Our World</field>
+<field name="showid">BBCNEWS_20190615_203000_Our_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190615_203000_Our_World/BBCNEWS_20190615_203000_Our_World.thumbs/BBCNEWS_20190615_203000_Our_World_001378.jpg</field>
+<field name="snippet">nature gives if we give back. we can't just take. will climate change destroy</field>
+</doc>
+</add>

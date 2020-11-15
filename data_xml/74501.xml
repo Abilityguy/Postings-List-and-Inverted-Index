@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200114_030000_BBC_News#start/285/end/320</field>
+<field name="datetime">1/14/2020 3:05:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200114_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200114_030000_BBC_News/BBCNEWS_20200114_030000_BBC_News.thumbs/BBCNEWS_20200114_030000_BBC_News_000268.jpg</field>
+<field name="snippet">by more than 1.5 degrees to prevent the worst aspects of global warming. but that's looking increasingly unlikely, and in a world 3 degrees warmer, according to the hadley centre, part of the uk's met office, weather events such as the australia fires would become normal.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_040000_The_Briefing#start/118/end/153</field>
+<field name="datetime">10/8/2018 4:02:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20181008_040000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_040000_The_Briefing/BBCNEWS_20181008_040000_The_Briefing.thumbs/BBCNEWS_20181008_040000_The_Briefing_000118.jpg</field>
+<field name="snippet">on climate changesays unprecedented changes will be needed in all parts of society if global warming is to be limited to 1.5 celsius above pre-industrial levels. achieving this would help save millions of people from flooding and preserve endangered species like coral reefs. victoria gill has more. pictures of a warming world.</field>
+</doc>
+</add>

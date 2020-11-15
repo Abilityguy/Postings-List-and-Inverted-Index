@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190402_210000_The_Five#start/933/end/968</field>
+<field name="datetime">4/2/2019 21:15:48</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20190402_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190402_210000_The_Five/FOXNEWSW_20190402_210000_The_Five.thumbs/FOXNEWSW_20190402_210000_The_Five_000928.jpg</field>
+<field name="snippet">person, one vote. jesse: dana, on the list of concerns among american citizens, i think abolishing the electoral college probably below global warming. dana: i wrote 'economy.' i have been following the</field>
+</doc>
+</add>

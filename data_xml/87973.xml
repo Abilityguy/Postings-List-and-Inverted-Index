@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191230_180000_BBC_News#start/38/end/73</field>
+<field name="datetime">12/30/2019 18:00:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191230_180000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191230_180000_BBC_News/BBCNEWS_20191230_180000_BBC_News.thumbs/BBCNEWS_20191230_180000_BBC_News_000027.jpg</field>
+<field name="snippet">of three british tourists, who drowned in a pool in spain on christmas eve, say it was an accident and that the case can now be closed. also, we speak to greta thunberg, the teenager who spearheaded a global movement against climate change, who's calling for more</field>
+</doc>
+</add>

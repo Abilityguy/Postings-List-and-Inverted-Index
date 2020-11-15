@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191215_110000_BBC_News#start/255/end/290</field>
+<field name="datetime">12/15/2019 11:04:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191215_110000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191215_110000_BBC_News/BBCNEWS_20191215_110000_BBC_News.thumbs/BBCNEWS_20191215_110000_BBC_News_000237.jpg</field>
+<field name="snippet">--andrew marr. our political correspondent tony bonsignore told me that despite mr corbyn's apology - the labour leader insisted the party had got some things right. there is not much apologising going on. he said that labour won the argument when it comes to climate</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190616_060000_Watters_World#start/2501/end/2536</field>
+<field name="datetime">6/16/2019 6:41:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Watters World</field>
+<field name="showid">FOXNEWSW_20190616_060000_Watters_World</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190616_060000_Watters_World/FOXNEWSW_20190616_060000_Watters_World.thumbs/FOXNEWSW_20190616_060000_Watters_World_002488.jpg</field>
+<field name="snippet">jesse: there is a climate change message wrapped up in this, am i wrong about this? there is definitely a climate change message. we like to celebrate freedom from oil. we ride our bikes so we are not</field>
+</doc>
+</add>

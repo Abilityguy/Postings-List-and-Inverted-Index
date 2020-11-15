@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190221_130000_BBC_News_at_One#start/665/end/700</field>
+<field name="datetime">2/21/2019 13:11:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190221_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190221_130000_BBC_News_at_One/BBCNEWS_20190221_130000_BBC_News_at_One.thumbs/BBCNEWS_20190221_130000_BBC_News_at_One_000657.jpg</field>
+<field name="snippet">last year, emissions from housing rose when they should be falling to help combat climate change. we risk saving up a problem for the next generation if we don't make actions and put our plans in place now. so, we know that spending a small</field>
+</doc>
+</add>

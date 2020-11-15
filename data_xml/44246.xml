@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201704.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170425_100000_Morning_Joe#start/6139/end/6174</field>
+<field name="datetime">4/25/2017 11:42:34</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20170425_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170425_100000_Morning_Joe/MSNBCW_20170425_100000_Morning_Joe.thumbs/MSNBCW_20170425_100000_Morning_Joe_006117.jpg</field>
+<field name="snippet">something. coal burning plants versus the automobiles we drive every day as far as contributing to climate change? until two years ago, coal power plants had always been the biggest source of pollution. now they've been replaced by the</field>
+</doc>
+</add>

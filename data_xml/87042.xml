@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191216_030000_BBC_News#start/10/end/45</field>
+<field name="datetime">12/16/2019 3:00:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191216_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191216_030000_BBC_News/BBCNEWS_20191216_030000_BBC_News.thumbs/BBCNEWS_20191216_030000_BBC_News_000028.jpg</field>
+<field name="snippet">welcome to bbc news, i'm james reynolds. our top stories: marathon talks on climate change close in madrid, but a compromise deal prompts scathing criticism.</field>
+</doc>
+</add>

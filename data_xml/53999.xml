@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201306.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130612_100000_Morning_Joe#start/5467/end/5502</field>
+<field name="datetime">6/12/2013 11:31:22</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20130612_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130612_100000_Morning_Joe/MSNBCW_20130612_100000_Morning_Joe.thumbs/MSNBCW_20130612_100000_Morning_Joe_005446.jpg</field>
+<field name="snippet">national policy? in some cases we do. the number of coal fired plants is going down. there hasn't been a new coal fire plant in a number of years. coal fire plants contribute to a third of our greenhouse gases,</field>
+</doc>
+</add>

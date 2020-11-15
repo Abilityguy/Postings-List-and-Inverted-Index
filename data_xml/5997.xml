@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190907_210000_BBC_News#start/975/end/1010</field>
+<field name="datetime">9/7/2019 21:16:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190907_210000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190907_210000_BBC_News/BBCNEWS_20190907_210000_BBC_News.thumbs/BBCNEWS_20190907_210000_BBC_News_000957.jpg</field>
+<field name="snippet">they're protesting about visiting cruise ships which they say are causing erosion of the city's foundations, and contributing to global warming. the italian government has already banned the ships from waterways close to the historic centre of venice. now, with news of the battle</field>
+</doc>
+</add>

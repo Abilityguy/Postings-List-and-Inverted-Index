@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201703.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170328_230000_Newsday#start/30/end/65</field>
+<field name="datetime">3/28/2017 23:00:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20170328_230000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170328_230000_Newsday/BBCNEWS_20170328_230000_Newsday.thumbs/BBCNEWS_20170328_230000_Newsday_000058.jpg</field>
+<field name="snippet">climate change regulations. we will power american industry. i am babita sharma in london. violence in paris after the police killing of a chinese man. of beijing asks for protection of its citizens. and theresa may signs the letter formally beginning the negotiations</field>
+</doc>
+</add>

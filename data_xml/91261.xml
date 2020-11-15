@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190602_100000_Fox_and_Friends_Sunday#start/553/end/588</field>
+<field name="datetime">6/2/2019 10:09:28</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20190602_100000_Fox_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190602_100000_Fox_and_Friends_Sunday/FOXNEWSW_20190602_100000_Fox_and_Friends_Sunday.thumbs/FOXNEWSW_20190602_100000_Fox_and_Friends_Sunday_000539.jpg</field>
+<field name="snippet">americans. [crowd booing] we should not try to tackle climate change by trying to guarantee every american a government job. [crowd booing] hold on, hold on. as the democratic party. we have to create a vision for this country.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190509_190000_BBC_News#start/2900/end/2935</field>
+<field name="datetime">5/9/2019 19:48:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190509_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190509_190000_BBC_News/BBCNEWS_20190509_190000_BBC_News.thumbs/BBCNEWS_20190509_190000_BBC_News_002879.jpg</field>
+<field name="snippet">green groups say the uk should be trying harder to prevent climate change in the first place. we believe resilience is undeniably important to protect communities up and down the country who are at risk of flooding. but, if the government really wants</field>
+</doc>
+</add>

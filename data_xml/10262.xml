@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201511.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151129_210000_Americas_News_HQ#start/66/end/101</field>
+<field name="datetime">11/29/2015 21:01:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20151129_210000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151129_210000_Americas_News_HQ/FOXNEWSW_20151129_210000_Americas_News_HQ.thumbs/FOXNEWSW_20151129_210000_Americas_News_HQ_000045.jpg</field>
+<field name="snippet">grabs. we'll tell you what strides some candidates are making as the voting inches closer. more than 100 world leaders flocking to paris to talk climate change.</field>
+</doc>
+</add>

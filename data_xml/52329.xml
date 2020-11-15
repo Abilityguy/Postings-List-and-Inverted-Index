@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181202_203000_The_Travel_Show#start/90/end/125</field>
+<field name="datetime">12/2/2018 20:31:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Travel Show</field>
+<field name="showid">BBCNEWS_20181202_203000_The_Travel_Show</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181202_203000_The_Travel_Show/BBCNEWS_20181202_203000_The_Travel_Show.thumbs/BBCNEWS_20181202_203000_The_Travel_Show_000087.jpg</field>
+<field name="snippet">a warning that the world is at a crossroads at a crucial climate change conference in poland. three astronauts are ready to blast off to the international space station, two months after the unprecendented failure of russia's soyuz spacecraft. now time for the travel show.</field>
+</doc>
+</add>

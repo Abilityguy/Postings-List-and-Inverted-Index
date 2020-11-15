@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190115_010000_Tucker_Carlson_Tonight#start/3299/end/3334</field>
+<field name="datetime">1/15/2019 1:55:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190115_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190115_010000_Tucker_Carlson_Tonight/FOXNEWSW_20190115_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190115_010000_Tucker_Carlson_Tonight_003297.jpg</field>
+<field name="snippet">protestors destroyed 60% of the speed cameras in france. you might think global warming and speed cameras are not related but they are.</field>
+</doc>
+</add>

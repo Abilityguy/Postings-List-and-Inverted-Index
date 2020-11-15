@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181210_050000_The_Briefing#start/1081/end/1116</field>
+<field name="datetime">12/10/2018 5:18:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20181210_050000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181210_050000_The_Briefing/BBCNEWS_20181210_050000_The_Briefing.thumbs/BBCNEWS_20181210_050000_The_Briefing_001077.jpg</field>
+<field name="snippet">connectivity, trade, surging inequality, and climate change. some of the reasons why today 258 million people around the world are seeking opportunities outside their country of birth. no single nation can</field>
+</doc>
+</add>

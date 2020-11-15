@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201807.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180727_000000_Newsday#start/1106/end/1141</field>
+<field name="datetime">7/27/2018 0:18:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20180727_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180727_000000_Newsday/BBCNEWS_20180727_000000_Newsday.thumbs/BBCNEWS_20180727_000000_Newsday_001108.jpg</field>
+<field name="snippet">trees are in peril, it says, as climate change threatens to wipe out its forests this century. now, what stories are sparking discussions online?</field>
+</doc>
+</add>

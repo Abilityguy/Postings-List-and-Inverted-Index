@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190201_050000_The_Briefing#start/524/end/559</field>
+<field name="datetime">2/1/2019 5:08:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20190201_050000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190201_050000_The_Briefing/BBCNEWS_20190201_050000_The_Briefing.thumbs/BBCNEWS_20190201_050000_The_Briefing_000508.jpg</field>
+<field name="snippet">that the mean temperature across the continent exceeded 30 degrees celsius. the hottest temperature of 49.5 celsius was recorded in port augusta in south australia. climate experts say the main cause was a persistent high pressure system over the tasman sea, as well as the broader trend in global warming. let's turn now to our</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201504.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150402_220000_Special_Report_With_Bret_Baier#start/969/end/1004</field>
+<field name="datetime">4/2/2015 22:16:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20150402_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150402_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20150402_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20150402_220000_Special_Report_With_Bret_Baier_000945.jpg</field>
+<field name="snippet">pence but pollsters say depending on how the issue is phrased, it may not be a factor for 2016 voters. if you make a list of all the important problems facing the country, gay rights competes with climate change and campaign</field>
+</doc>
+</add>

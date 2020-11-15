@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190726_200000_World_News_Today#start/25/end/60</field>
+<field name="datetime">7/26/2019 20:00:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190726_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190726_200000_World_News_Today/BBCNEWS_20190726_200000_World_News_Today.thumbs/BBCNEWS_20190726_200000_World_News_Today_000027.jpg</field>
+<field name="snippet">air strikes kill a significant number of civilians every time a week and the response seems to be a collective shrug. wildfires in the arctic circle. they're at 'unprecedented' levels according to scientists - because of climate change. a british computer hacker who helped</field>
+</doc>
+</add>

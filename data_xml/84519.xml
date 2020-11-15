@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190422_090000_BBC_News#start/38/end/73</field>
+<field name="datetime">4/22/2019 9:00:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190422_090000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190422_090000_BBC_News/BBCNEWS_20190422_090000_BBC_News.thumbs/BBCNEWS_20190422_090000_BBC_News_000058.jpg</field>
+<field name="snippet">two teenagers arrested in connection with the murder of the journalist lyra mckee in londonderry have been released without charge. a week of climate-change protests on waterloo bridge in london are brought to an end by police, who removed the final activists from the site late last night.</field>
+</doc>
+</add>

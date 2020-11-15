@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201105.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110521_000000_The_Last_Word#start/359/end/394</field>
+<field name="datetime">5/21/2011 0:06:14</field>
+<field name="station">MSNBC</field>
+<field name="show">The Last Word</field>
+<field name="showid">MSNBC_20110521_000000_The_Last_Word</field>
+<field name="preview">https://archive.org/download/MSNBC_20110521_000000_The_Last_Word/MSNBC_20110521_000000_The_Last_Word.thumbs/MSNBC_20110521_000000_The_Last_Word_000360.jpg</field>
+<field name="snippet">on climate change -- do you believe that climate change is caused in part by human behavior? i think the scientific community would suggest that to be the case. i think in a world like we have, we should be deferring to the scientific community and not the</field>
+</doc>
+</add>

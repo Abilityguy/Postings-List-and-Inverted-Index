@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091217_230000_Special_Report_With_Bret_Baier#start/259/end/294</field>
+<field name="datetime">12/17/2009 23:04:34</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091217_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091217_230000_Special_Report_With_Bret_Baier/FOXNEWS_20091217_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091217_230000_Special_Report_With_Bret_Baier_000236.jpg</field>
+<field name="snippet">a spokesman for nancy pelosi said there was so much media at the event, republicans could hold a press conference anyway. the latest fox news poll shows 63% of respondents believe that global warming is real. 33% do not.</field>
+</doc>
+</add>

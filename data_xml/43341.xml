@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090922_210000_Glenn_Beck#start/1508/end/1543</field>
+<field name="datetime">9/22/2009 21:25:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20090922_210000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090922_210000_Glenn_Beck/FOXNEWS_20090922_210000_Glenn_Beck.thumbs/FOXNEWS_20090922_210000_Glenn_Beck_001496.jpg</field>
+<field name="snippet">president obama, i expect like any other party who is part of the u.n., regardless of this debate about climate change, he has good observations but no solutions. we are convinced if we are to save humanity, it is important to save the planet earth.</field>
+</doc>
+</add>

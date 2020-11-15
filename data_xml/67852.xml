@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190221_200000_BBC_News#start/2907/end/2942</field>
+<field name="datetime">2/21/2019 20:48:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190221_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190221_200000_BBC_News/BBCNEWS_20190221_200000_BBC_News.thumbs/BBCNEWS_20190221_200000_BBC_News_002909.jpg</field>
+<field name="snippet">advisors to the government on climate change, say gas boilers and cookers should be banned in new homes, within six years. the committee on climate change says the move is crucial to the uk meeting legally binding targets, on carbon dioxide emissions.</field>
+</doc>
+</add>

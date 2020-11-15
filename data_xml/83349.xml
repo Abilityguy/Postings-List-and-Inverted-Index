@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191010_050000_Breakfast#start/1713/end/1748</field>
+<field name="datetime">10/10/2019 5:28:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191010_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191010_050000_Breakfast/BBCNEWS_20191010_050000_Breakfast.thumbs/BBCNEWS_20191010_050000_Breakfast_003598.jpg</field>
+<field name="snippet">at the climate change demonstrations in the capital since monday. ken marsh says campaigners are likely to see a big change in police tactics over the next few days. it comes as activists say they plan to shut down city airport today. the extinction rebellion movement says its members intend to 'peacefully occu py'</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201505.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150505_210000_The_Ed_Show#start/2241/end/2276</field>
+<field name="datetime">5/5/2015 21:37:36</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20150505_210000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150505_210000_The_Ed_Show/MSNBCW_20150505_210000_The_Ed_Show.thumbs/MSNBCW_20150505_210000_The_Ed_Show_002235.jpg</field>
+<field name="snippet">it's manmade? it's manmade. since 1950 or so, we have been driving climate change. how do we reverse it? can we do anything? we have to. we probably won't be able to prevent the first six or ten</field>
+</doc>
+</add>

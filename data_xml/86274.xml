@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191230_103000_Victoria_Derbyshire#start/5/end/40</field>
+<field name="datetime">12/30/2019 10:30:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20191230_103000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191230_103000_Victoria_Derbyshire/BBCNEWS_20191230_103000_Victoria_Derbyshire.thumbs/BBCNEWS_20191230_103000_Victoria_Derbyshire_000059.jpg</field>
+<field name="snippet">the world will face irreversible heating unless firms shift their priorities soon. that's the warning from the outgoing bank of england governor, mark carney. i would say we are in our climate crisis, just like the financial crisis. what is essential on this topic, climate change, we have</field>
+</doc>
+</add>

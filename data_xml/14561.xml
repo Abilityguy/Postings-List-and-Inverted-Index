@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201806.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20180603_190000_MSNBC_Live_With_David_Gura#start/14/end/49</field>
+<field name="datetime">6/3/2018 19:00:29</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With David Gura</field>
+<field name="showid">MSNBCW_20180603_190000_MSNBC_Live_With_David_Gura</field>
+<field name="preview">https://archive.org/download/MSNBCW_20180603_190000_MSNBC_Live_With_David_Gura/MSNBCW_20180603_190000_MSNBC_Live_With_David_Gura.thumbs/MSNBCW_20180603_190000_MSNBC_Live_With_David_Gura_000057.jpg</field>
+<field name="snippet">californians are leading against donald trump. our senator should, too. kevin de león is the only candidate for senate who passed laws protecting immigrants from trump. and helped dreamers stay in school. he led bold action against climate change.</field>
+</doc>
+</add>

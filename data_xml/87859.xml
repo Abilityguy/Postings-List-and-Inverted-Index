@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191210_083000_Worklife#start/1135/end/1170</field>
+<field name="datetime">12/10/2019 8:49:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Worklife</field>
+<field name="showid">BBCNEWS_20191210_083000_Worklife</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191210_083000_Worklife/BBCNEWS_20191210_083000_Worklife.thumbs/BBCNEWS_20191210_083000_Worklife_001108.jpg</field>
+<field name="snippet">you are watching worklife, let's remind you of our top survey. a global survey says climate change is one of the biggest challenges facing the world. this comes as greta thunberg is set to address government ministers meeting in madrid. have you got a burning</field>
+</doc>
+</add>

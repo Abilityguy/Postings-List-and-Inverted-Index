@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191129_050000_The_Briefing#start/825/end/860</field>
+<field name="datetime">11/29/2019 5:14:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20191129_050000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191129_050000_The_Briefing/BBCNEWS_20191129_050000_The_Briefing.thumbs/BBCNEWS_20191129_050000_The_Briefing_000808.jpg</field>
+<field name="snippet">you are watching the briefing. our headlines: protesters in sydney have kicked off a fresh round of global protests against climate change. thousands more are set to join rallies across asia and europe demanding urgent action. there is a changing of the guard at the european council in brussels</field>
+</doc>
+</add>

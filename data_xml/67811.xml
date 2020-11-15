@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190206_170000_BBC_News_at_Five#start/1018/end/1053</field>
+<field name="datetime">2/6/2019 17:17:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190206_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190206_170000_BBC_News_at_Five/BBCNEWS_20190206_170000_BBC_News_at_Five.thumbs/BBCNEWS_20190206_170000_BBC_News_at_Five_001019.jpg</field>
+<field name="snippet">forecasts 100 years ahead, broadly speaking, the temperature will be whatever it will be if we keep on pumping out greenhouse gases. what is new about these forecasts and what is really cutting-edge is they are trying to forecast something in between, forecasting five years, and</field>
+</doc>
+</add>

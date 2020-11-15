@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201610.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161029_160000_MSNBC_Live#start/1530/end/1565</field>
+<field name="datetime">10/29/2016 16:25:45</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20161029_160000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161029_160000_MSNBC_Live/MSNBCW_20161029_160000_MSNBC_Live.thumbs/MSNBCW_20161029_160000_MSNBC_Live_001527.jpg</field>
+<field name="snippet">is it voter suppression, criminal justice reform, education, climate change? and i say, look, if you're affected, sit down and make a list of your five or ten issues. give a check mark next to the candidate who actually is more in line with your views, whoever gets the most check marks,</field>
+</doc>
+</add>

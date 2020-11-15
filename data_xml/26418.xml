@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201108.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20110823_100000_Morning_Joe#start/6361/end/6396</field>
+<field name="datetime">8/23/2011 11:46:16</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20110823_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20110823_100000_Morning_Joe/MSNBCW_20110823_100000_Morning_Joe.thumbs/MSNBCW_20110823_100000_Morning_Joe_006357.jpg</field>
+<field name="snippet">rick perry is thoughtful. he has a new theory of chemistry and physics that means that the group house effect that we've known about for 100 years and that's driving climate change</field>
+</doc>
+</add>

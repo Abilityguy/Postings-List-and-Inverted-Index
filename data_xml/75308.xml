@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_133000_BBC_News#start/542/end/577</field>
+<field name="datetime">1/17/2020 13:39:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200117_133000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_133000_BBC_News/BBCNEWS_20200117_133000_BBC_News.thumbs/BBCNEWS_20200117_133000_BBC_News_000539.jpg</field>
+<field name="snippet">hello and welcome to your questions answered here from the empowering the future room of the glasgow science centre and we are in the glasgow today for two key reasons, one at the end of this year, glasgow will be hosting a meeting of world leaders and eminent scientists talking about climate change, that is called cop26,</field>
+</doc>
+</add>

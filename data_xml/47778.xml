@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201511.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151130_200000_MSNBC_Live_With_Kate_Snow#start/1092/end/1127</field>
+<field name="datetime">11/30/2015 20:18:27</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Kate Snow</field>
+<field name="showid">MSNBCW_20151130_200000_MSNBC_Live_With_Kate_Snow</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151130_200000_MSNBC_Live_With_Kate_Snow/MSNBCW_20151130_200000_MSNBC_Live_With_Kate_Snow.thumbs/MSNBCW_20151130_200000_MSNBC_Live_With_Kate_Snow_001066.jpg</field>
+<field name="snippet">warming is an issue and virtually all of them pledged to cut the pollution that causes global warming. we have a debate about it. the rest of the sworld gathering in paris and saying, okay, it's settled. it is a problem. we're coming the table.</field>
+</doc>
+</add>

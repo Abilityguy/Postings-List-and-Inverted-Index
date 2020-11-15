@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091209_110000_FOX_and_Friends#start/9135/end/9170</field>
+<field name="datetime">12/9/2009 13:32:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091209_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091209_110000_FOX_and_Friends/FOXNEWS_20091209_110000_FOX_and_Friends.thumbs/FOXNEWS_20091209_110000_FOX_and_Friends_009103.jpg</field>
+<field name="snippet">president will endorse fraudulent scientific practices in pressing for an agreement, as president obama works on climate change today at the white house. mike emanuel, where are we</field>
+</doc>
+</add>

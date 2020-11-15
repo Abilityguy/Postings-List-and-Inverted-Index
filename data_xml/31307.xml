@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090722_010000_Hannity#start/1608/end/1643</field>
+<field name="datetime">7/22/2009 1:27:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20090722_010000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090722_010000_Hannity/FOXNEWS_20090722_010000_Hannity.thumbs/FOXNEWS_20090722_010000_Hannity_001585.jpg</field>
+<field name="snippet">brought to you by one angry and desperate nobel prize winning economist. he recently revealed that he's willing to say anything to promote the false science of global warming. he said it's a tough sell, and you probably have to find ways to exaggerate the threat.</field>
+</doc>
+</add>

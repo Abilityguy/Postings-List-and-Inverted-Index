@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100129_110000_FOX_and_Friends#start/3644/end/3679</field>
+<field name="datetime">1/29/2010 12:00:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100129_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100129_110000_FOX_and_Friends/FOXNEWS_20100129_110000_FOX_and_Friends.thumbs/FOXNEWS_20100129_110000_FOX_and_Friends_003590.jpg</field>
+<field name="snippet">fox news alerted. bin laden out with a new audio tape. now he's blaming america for climate change. you're kidding. meanwhile, peta comparing the duggar kids to dogs? using their children to urge</field>
+</doc>
+</add>

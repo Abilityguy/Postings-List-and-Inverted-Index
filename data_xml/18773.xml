@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201107.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110708_100000_FOX_and_Friends#start/1087/end/1122</field>
+<field name="datetime">7/8/2011 10:18:22</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20110708_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110708_100000_FOX_and_Friends/FOXNEWS_20110708_100000_FOX_and_Friends.thumbs/FOXNEWS_20110708_100000_FOX_and_Friends_001075.jpg</field>
+<field name="snippet">worldwide and to reduce poverty and hunger worldwide. so they're bringing in poverty and hunger along with climate change. it's not all green. it's poverty, hunger and everything else. but you cannot eradicate poverty and hunger without going green because if you don't go</field>
+</doc>
+</add>

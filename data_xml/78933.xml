@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20200112_110000_FOX_and_Friends_Sunday#start/5093/end/5128</field>
+<field name="datetime">1/12/2020 12:25:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20200112_110000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20200112_110000_FOX_and_Friends_Sunday/FOXNEWSW_20200112_110000_FOX_and_Friends_Sunday.thumbs/FOXNEWSW_20200112_110000_FOX_and_Friends_Sunday_005068.jpg</field>
+<field name="snippet">saying about the ongoing fire crisis across the country. now, we did hear from the embattled prime minister, scott morrison, today who says that he could have personally handled this crisis a lot better and also addressed climate change. as you mentioned at the top, he</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091127_160000_Happening_Now#start/1465/end/1500</field>
+<field name="datetime">11/27/2009 16:24:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091127_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091127_160000_Happening_Now/FOXNEWS_20091127_160000_Happening_Now.thumbs/FOXNEWS_20091127_160000_Happening_Now_001440.jpg</field>
+<field name="snippet">expectations for anything meaningful at the conference seem to be diminishing. there might be political agreement of sorts, but pay legally binding treaty on global warming cuts seems doubtful</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180126_010000_Tucker_Carlson_Tonight#start/1934/end/1969</field>
+<field name="datetime">1/26/2018 1:32:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20180126_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180126_010000_Tucker_Carlson_Tonight/FOXNEWSW_20180126_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20180126_010000_Tucker_Carlson_Tonight_001918.jpg</field>
+<field name="snippet">you said hamburgers cause global warming. every time you eat a sausage and egg mcmuffin a polar bear loses</field>
+</doc>
+</add>

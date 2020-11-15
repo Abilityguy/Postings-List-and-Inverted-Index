@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201307.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130730_130000_Americas_Newsroom#start/2144/end/2179</field>
+<field name="datetime">7/30/2013 13:35:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWSW_20130730_130000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130730_130000_Americas_Newsroom/FOXNEWSW_20130730_130000_Americas_Newsroom.thumbs/FOXNEWSW_20130730_130000_Americas_Newsroom_002145.jpg</field>
+<field name="snippet">reporter: jamie, good morning to you. there are a lot of very smart people who hope it will be. president's climate change speech last month he wanted to get rid of dirty coal-fired plants. what do you replace them with.</field>
+</doc>
+</add>

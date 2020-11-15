@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091209_180000_Andrea_Mitchell_Reports#start/454/end/489</field>
+<field name="datetime">12/9/2009 18:07:49</field>
+<field name="station">MSNBC</field>
+<field name="show">Andrea Mitchell Reports</field>
+<field name="showid">MSNBC_20091209_180000_Andrea_Mitchell_Reports</field>
+<field name="preview">https://archive.org/download/MSNBC_20091209_180000_Andrea_Mitchell_Reports/MSNBC_20091209_180000_Andrea_Mitchell_Reports.thumbs/MSNBC_20091209_180000_Andrea_Mitchell_Reports_000413.jpg</field>
+<field name="snippet">there's been, according to the pew research, a 20% job in the number of people in the last year. since 2008, 71% believed that humans contributed to global warming and now it is only 51%.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201312.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20131220_110000_Morning_Joe#start/5489/end/5524</field>
+<field name="datetime">12/20/2013 12:31:44</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20131220_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20131220_110000_Morning_Joe/MSNBCW_20131220_110000_Morning_Joe.thumbs/MSNBCW_20131220_110000_Morning_Joe_005475.jpg</field>
+<field name="snippet">because we got three more years, right? what needs to be done at the white house? i think there needs big ideas. on climate change he gave a really good speech on that. you can't pass big ideas</field>
+</doc>
+</add>

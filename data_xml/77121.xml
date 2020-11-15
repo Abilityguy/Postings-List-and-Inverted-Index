@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191128_010000_Newsday#start/952/end/987</field>
+<field name="datetime">11/28/2019 1:16:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191128_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191128_010000_Newsday/BBCNEWS_20191128_010000_Newsday.thumbs/BBCNEWS_20191128_010000_Newsday_000927.jpg</field>
+<field name="snippet">pages from around the world. we start with the international edition of the new york times, which reminds readers that world leaders are gathering in madrid over how to avert a climate catastrophe after the united nations said that greenhouse gas emissions</field>
+</doc>
+</add>

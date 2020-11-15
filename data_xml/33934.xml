@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091207_050000_Red_Eye#start/1909/end/1944</field>
+<field name="datetime">12/7/2009 5:32:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20091207_050000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091207_050000_Red_Eye/FOXNEWS_20091207_050000_Red_Eye.thumbs/FOXNEWS_20091207_050000_Red_Eye_001800.jpg</field>
+<field name="snippet">sean: the climate change emails uncovered at the university shed serious doubts on the science of global warm. one example the university's phil jones instructs his colleagues to respond to a freedom of information act request by deleting emails,</field>
+</doc>
+</add>

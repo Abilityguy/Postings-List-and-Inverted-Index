@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190216_020000_Hannity#start/2439/end/2474</field>
+<field name="datetime">2/16/2019 2:40:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20190216_020000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190216_020000_Hannity/FOXNEWSW_20190216_020000_Hannity.thumbs/FOXNEWSW_20190216_020000_Hannity_002429.jpg</field>
+<field name="snippet">well, i think the party would like to see a vigorous debate on climate change. many of us on the democratic side believe climate change is real and we believe that there are public policy solutions that can get us away from the</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201302.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130213_110000_Morning_Joe#start/447/end/482</field>
+<field name="datetime">2/13/2013 11:07:42</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20130213_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130213_110000_Morning_Joe/MSNBCW_20130213_110000_Morning_Joe.thumbs/MSNBCW_20130213_110000_Morning_Joe_000436.jpg</field>
+<field name="snippet">something on that was incredibly vague and quite honestly the biggest problem's not going to necessarily be here at home. it's going to be the fact that the rest of the world, the chinese, the indians and all that, they're not going to support what it is we want to do on climate change. what do you think, mike?</field>
+</doc>
+</add>

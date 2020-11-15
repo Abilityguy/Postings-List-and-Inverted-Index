@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201709.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170928_221500_Newsnight#start/371/end/406</field>
+<field name="datetime">9/28/2017 22:21:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsnight</field>
+<field name="showid">BBCNEWS_20170928_221500_Newsnight</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170928_221500_Newsnight/BBCNEWS_20170928_221500_Newsnight.thumbs/BBCNEWS_20170928_221500_Newsnight_000358.jpg</field>
+<field name="snippet">we should be having a discussion about the shared responsibilities, and the shared risk-taking, the co-investment in new areas which will lead to profits, but in the meantime helps solve massive societal problems, whether it is on climate change or the 21st-century</field>
+</doc>
+</add>

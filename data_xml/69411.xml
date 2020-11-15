@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201407.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140716_130000_The_Daily_Rundown#start/427/end/462</field>
+<field name="datetime">7/16/2014 13:07:22</field>
+<field name="station">MSNBC</field>
+<field name="show">The Daily Rundown</field>
+<field name="showid">MSNBCW_20140716_130000_The_Daily_Rundown</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140716_130000_The_Daily_Rundown/MSNBCW_20140716_130000_The_Daily_Rundown.thumbs/MSNBCW_20140716_130000_The_Daily_Rundown_000405.jpg</field>
+<field name="snippet">as for the president's health care law, it is struggling for support in both iowa and new hampshire, just like we saw yesterday in colorado and michigan. half of voters in both states call the law a bad idea. more popular is a proposal to cut greenhouse gas emissions</field>
+</doc>
+</add>

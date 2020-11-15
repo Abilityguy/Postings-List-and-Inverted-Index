@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201508.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150830_160000_Weekends_With_Alex_Witt#start/2389/end/2424</field>
+<field name="datetime">8/30/2015 16:40:04</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20150830_160000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150830_160000_Weekends_With_Alex_Witt/MSNBCW_20150830_160000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20150830_160000_Weekends_With_Alex_Witt_002385.jpg</field>
+<field name="snippet">the stage, really, for a major international climate change agreement that he hopes will come from a december summit in paris. now, recently, you'll recall, alex, that the president put in place and called for the first-ever national standards to cut carbon emissions from power plants.</field>
+</doc>
+</add>

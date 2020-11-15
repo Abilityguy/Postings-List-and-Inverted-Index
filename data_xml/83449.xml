@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190417_100000_BBC_Newsroom_Live#start/1016/end/1051</field>
+<field name="datetime">4/17/2019 10:17:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190417_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190417_100000_BBC_Newsroom_Live/BBCNEWS_20190417_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190417_100000_BBC_Newsroom_Live_001017.jpg</field>
+<field name="snippet">with raising awareness with government, getting their demands for a climate change emergency to be declared, to have greenhouse gases reduced to zero emissions by 2025. that's what the disruption is about, to try and get that message across.</field>
+</doc>
+</add>

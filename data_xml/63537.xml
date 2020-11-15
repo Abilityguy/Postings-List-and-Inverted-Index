@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190315_230000_BBC_News#start/1412/end/1447</field>
+<field name="datetime">3/15/2019 23:23:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190315_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190315_230000_BBC_News/BBCNEWS_20190315_230000_BBC_News.thumbs/BBCNEWS_20190315_230000_BBC_News_001408.jpg</field>
+<field name="snippet">police have urged the driver of the audi, who left the scene, to come forward. thousands of children in the uk have again left their classrooms to join a global day of protests against climate change. they took place in several major towns and cities, this was in brighton, and there were similar ones</field>
+</doc>
+</add>

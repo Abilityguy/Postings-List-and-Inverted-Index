@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091220_120000_FOX_and_Friends_Sunday#start/1187/end/1222</field>
+<field name="datetime">12/20/2009 12:20:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWS_20091220_120000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091220_120000_FOX_and_Friends_Sunday/FOXNEWS_20091220_120000_FOX_and_Friends_Sunday.thumbs/FOXNEWS_20091220_120000_FOX_and_Friends_Sunday_001170.jpg</field>
+<field name="snippet">as far as climate change goes, yeah, a lot has been debunked. i'm settle for being a good steward of the environment. you're not a good stewart of the environment when you're getting down and begging the</field>
+</doc>
+</add>

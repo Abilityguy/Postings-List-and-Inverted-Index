@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201411.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141119_040000_The_OReilly_Factor#start/0/end/34</field>
+<field name="datetime">11/19/2014 4:00:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20141119_040000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141119_040000_The_OReilly_Factor/FOXNEWSW_20141119_040000_The_OReilly_Factor.thumbs/FOXNEWSW_20141119_040000_The_OReilly_Factor_000045.jpg</field>
+<field name="snippet">twitter and tell us your answer. just a fun question on these cold winter eve-like mornings in the midst of global warming. thanks for joining us we'll see you back here tomorrow night. the o'reilly factor is</field>
+</doc>
+</add>

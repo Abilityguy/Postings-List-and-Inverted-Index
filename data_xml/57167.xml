@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181112_230000_Special_Report_With_Bret_Baier#start/161/end/196</field>
+<field name="datetime">11/12/2018 23:02:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20181112_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181112_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20181112_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20181112_230000_Special_Report_With_Bret_Baier_000147.jpg</field>
+<field name="snippet">as she escaped the wood woolsey fire. outgoing governor jerry brown blaming it on fire climate change. this is in the new normal.</field>
+</doc>
+</add>

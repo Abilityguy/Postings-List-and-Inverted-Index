@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190502_050000_Breakfast#start/7253/end/7288</field>
+<field name="datetime">5/2/2019 7:01:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190502_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190502_050000_Breakfast/BBCNEWS_20190502_050000_Breakfast.thumbs/BBCNEWS_20190502_050000_Breakfast_007227.jpg</field>
+<field name="snippet">denies the allegations. eating less meat, taking fewer flights and giving up our cars - how the uk could become a world leader in tackling climate change. how healthy is our economy? the bank of england will tell us</field>
+</doc>
+</add>

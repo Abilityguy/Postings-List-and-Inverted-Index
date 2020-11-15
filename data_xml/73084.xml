@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190122_010000_Newsday#start/926/end/961</field>
+<field name="datetime">1/22/2019 1:15:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190122_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190122_010000_Newsday/BBCNEWS_20190122_010000_Newsday.thumbs/BBCNEWS_20190122_010000_Newsday_000928.jpg</field>
+<field name="snippet">on climate change. on tuesday, he'll take part let's now take a look at some of the front pages</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190513_020000_BBC_News#start/685/end/720</field>
+<field name="datetime">5/13/2019 2:11:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190513_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190513_020000_BBC_News/BBCNEWS_20190513_020000_BBC_News.thumbs/BBCNEWS_20190513_020000_BBC_News_000687.jpg</field>
+<field name="snippet">climate change faster than people can suckle it. while the world is aiming to limit climate change to 1.5 celsius, empty max's politicians are not doing enough. we're seeing everywhere a clear demonstration that we not on track to achieve the</field>
+</doc>
+</add>

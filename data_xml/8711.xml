@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190904_100000_FOX__Friends#start/4928/end/4963</field>
+<field name="datetime">9/4/2019 11:22:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20190904_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190904_100000_FOX__Friends/FOXNEWSW_20190904_100000_FOX__Friends.thumbs/FOXNEWSW_20190904_100000_FOX__Friends_004917.jpg</field>
+<field name="snippet">ainsley: hey, jay, alexandria ocasio-cortez and bernie sanders are saying that this -- the hurricanes are caused by climate change. i know that hurricanes have been happening since the beginning of the atmosphere. what do you think the reason is? well, that's a complex question to try to answer</field>
+</doc>
+</add>

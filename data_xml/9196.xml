@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190808_210000_The_Five#start/2198/end/2233</field>
+<field name="datetime">8/8/2019 21:36:53</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20190808_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190808_210000_The_Five/FOXNEWSW_20190808_210000_The_Five.thumbs/FOXNEWSW_20190808_210000_The_Five_002189.jpg</field>
+<field name="snippet">i like beef and chicken and i love to cook it. i don't care what the u.n. says anyway. donna: you don't care about climate change? dan: the climate changes all the time. donna: we are in a wake up</field>
+</doc>
+</add>

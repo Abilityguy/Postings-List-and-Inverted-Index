@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190509_080000_BBC_News_at_Nine#start/2044/end/2079</field>
+<field name="datetime">5/9/2019 8:34:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190509_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190509_080000_BBC_News_at_Nine/BBCNEWS_20190509_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190509_080000_BBC_News_at_Nine_002038.jpg</field>
+<field name="snippet">the government is to cover the cost of replacing grenfell tower type building cladding on private tower blocks in england - at a cost of £200 million. prepare for the worst - a stark warning that some communities may have to move away, because of the threat of climate change.</field>
+</doc>
+</add>

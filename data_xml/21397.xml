@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100102_070000_Special_Report_With_Bret_Baier#start/700/end/735</field>
+<field name="datetime">1/2/2010 7:11:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100102_070000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100102_070000_Special_Report_With_Bret_Baier/FOXNEWS_20100102_070000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100102_070000_Special_Report_With_Bret_Baier_000690.jpg</field>
+<field name="snippet">her first trip as secretary of state. clinton visited several key asian nations, including china, where she made headlines by saying the u.s. could not press human rights issues at the expense of economics. climate change and security.</field>
+</doc>
+</add>

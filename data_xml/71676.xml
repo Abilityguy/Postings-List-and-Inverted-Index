@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190114_000000_Fox_News_Sunday_With_Chris_Wallace#start/525/end/560</field>
+<field name="datetime">1/14/2019 0:09:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News Sunday With Chris Wallace</field>
+<field name="showid">FOXNEWSW_20190114_000000_Fox_News_Sunday_With_Chris_Wallace</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190114_000000_Fox_News_Sunday_With_Chris_Wallace/FOXNEWSW_20190114_000000_Fox_News_Sunday_With_Chris_Wallace.thumbs/FOXNEWSW_20190114_000000_Fox_News_Sunday_With_Chris_Wallace_000507.jpg</field>
+<field name="snippet">know what? it's a national emergency, let's fund climate change, let's fund income inequality. well, let's start with the president. i asked him, mr. president, if you want to go down the emergency path, i stand with you. he said just 30 minutes ago</field>
+</doc>
+</add>

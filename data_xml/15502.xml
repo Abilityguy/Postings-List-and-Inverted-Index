@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201110.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111029_200000_Americas_News_Headquarters#start/4290/end/4325</field>
+<field name="datetime">10/29/2011 21:11:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20111029_200000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111029_200000_Americas_News_Headquarters/FOXNEWSW_20111029_200000_Americas_News_Headquarters.thumbs/FOXNEWSW_20111029_200000_Americas_News_Headquarters_004286.jpg</field>
+<field name="snippet">former massachusetts governor mitt romney is again being accused of flip-flopping. tell us about it. reporter: this is on the issue of global warming. here is what he told the crowd in pittsburgh earlier this week. my view is we don't know what</field>
+</doc>
+</add>

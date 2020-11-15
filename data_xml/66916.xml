@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201411.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20141115_170000_Weekends_With_Alex_Witt#start/4200/end/4235</field>
+<field name="datetime">11/15/2014 18:10:15</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20141115_170000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20141115_170000_Weekends_With_Alex_Witt/MSNBCW_20141115_170000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20141115_170000_Weekends_With_Alex_Witt_004186.jpg</field>
+<field name="snippet">the new deal with the u.s. reaching with china to fight climate change, coming up, a guest who says you can't fix the environment until we fix the economy. and later, jon stewart talks about his new film and the question i asked him that he had no answer to.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200119_133000_The_Travel_Show#start/1066/end/1101</field>
+<field name="datetime">1/19/2020 13:48:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Travel Show</field>
+<field name="showid">BBCNEWS_20200119_133000_The_Travel_Show</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200119_133000_The_Travel_Show/BBCNEWS_20200119_133000_The_Travel_Show.thumbs/BBCNEWS_20200119_133000_The_Travel_Show_001048.jpg</field>
+<field name="snippet">the region to the south of the sahara desert, and build local resilience to climate change. the hope is to create 10 million jobs, some of them in tourism, as travellers flock to see the changing face of africa</field>
+</doc>
+</add>

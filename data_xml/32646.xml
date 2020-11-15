@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201211.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121114_180000_America_Live#start/4838/end/4873</field>
+<field name="datetime">11/14/2012 19:20:53</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWSW_20121114_180000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121114_180000_America_Live/FOXNEWSW_20121114_180000_America_Live.thumbs/FOXNEWSW_20121114_180000_America_Live_004828.jpg</field>
+<field name="snippet">but if we can shape an agenda that says we can create jobs, advance growth, and make a serious dent in climate change and be an international leader i think that's something the american people would support.</field>
+</doc>
+</add>

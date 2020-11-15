@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181209_190000_BBC_News#start/1720/end/1755</field>
+<field name="datetime">12/9/2018 19:28:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181209_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181209_190000_BBC_News/BBCNEWS_20181209_190000_BBC_News.thumbs/BBCNEWS_20181209_190000_BBC_News_001707.jpg</field>
+<field name="snippet">one. that is really the question of the century, how do we get all of these parties on board. while countries like the united states have an administration that really rejects the idea of climate change,</field>
+</doc>
+</add>

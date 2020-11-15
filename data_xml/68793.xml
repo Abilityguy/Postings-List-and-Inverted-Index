@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201001.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100119_230000_The_Ed_Show#start/2227/end/2262</field>
+<field name="datetime">1/19/2010 23:37:22</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBC_20100119_230000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20100119_230000_The_Ed_Show/MSNBC_20100119_230000_The_Ed_Show.thumbs/MSNBC_20100119_230000_The_Ed_Show_002220.jpg</field>
+<field name="snippet">what's happening? no. i think they're gaining traction -- scott brown has gone out and said that he does not want to vote for this health care bill in its current fashion. he does not want to vote for global climate change. he does not believe in one-party rule in washington and that he</field>
+</doc>
+</add>

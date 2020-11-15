@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180915_050000_Breakfast#start/707/end/742</field>
+<field name="datetime">9/15/2018 5:12:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20180915_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180915_050000_Breakfast/BBCNEWS_20180915_050000_Breakfast.thumbs/BBCNEWS_20180915_050000_Breakfast_000687.jpg</field>
+<field name="snippet">about to put a laser in orbit to measure the condition of the earth's ice cover. the satellite mission should provide more precise information on the effects of climate change. antarctica, greenland and the ice floating on</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20200111_050000_Tucker_Carlson_Tonight#start/815/end/850</field>
+<field name="datetime">1/11/2020 5:13:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20200111_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20200111_050000_Tucker_Carlson_Tonight/FOXNEWSW_20200111_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20200111_050000_Tucker_Carlson_Tonight_000809.jpg</field>
+<field name="snippet">but at the same time, when you need them particularly to accomplish certain goals, then you know, you have to convince them, bring them to the table. there are certain people that are willing to have the conversation about things like climate change and racial and</field>
+</doc>
+</add>

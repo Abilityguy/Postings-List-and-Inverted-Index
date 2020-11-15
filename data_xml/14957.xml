@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201312.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20131231_080000_The_OReilly_Factor#start/2662/end/2697</field>
+<field name="datetime">12/31/2013 8:44:37</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20131231_080000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20131231_080000_The_OReilly_Factor/FOXNEWSW_20131231_080000_The_OReilly_Factor.thumbs/FOXNEWSW_20131231_080000_The_OReilly_Factor_002655.jpg</field>
+<field name="snippet">please email us o'reilly at foxnews.com and bill will read some of your emails on thursday. and in a moment, a lightning round of hot topics, featuring robin roberts and global warming and a plus</field>
+</doc>
+</add>

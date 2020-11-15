@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190912_050000_Breakfast#start/5280/end/5315</field>
+<field name="datetime">9/12/2019 6:28:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190912_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190912_050000_Breakfast/BBCNEWS_20190912_050000_Breakfast.thumbs/BBCNEWS_20190912_050000_Breakfast_005278.jpg</field>
+<field name="snippet">caused by protestors who plan to fly drones near heathrow airport tomorrow. the climate change activist group heathrow pause want to use the devices within the no-fly zone as part of a campaign to halt the airport's planned expansion. police say they're confident that passengers will not be affected.</field>
+</doc>
+</add>

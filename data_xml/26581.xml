@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201108.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20110825_100000_Morning_Joe#start/1005/end/1040</field>
+<field name="datetime">8/25/2011 10:17:00</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20110825_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20110825_100000_Morning_Joe/MSNBCW_20110825_100000_Morning_Joe.thumbs/MSNBCW_20110825_100000_Morning_Joe_000987.jpg</field>
+<field name="snippet">the rapid job growth in texas. a lot of problems on climate change. a lot of problems in the views of social issues. it might play well on the republican primary. i don't think it does well in</field>
+</doc>
+</add>

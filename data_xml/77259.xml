@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191126_130000_BBC_News_at_One#start/67/end/102</field>
+<field name="datetime">11/26/2019 13:01:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20191126_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191126_130000_BBC_News_at_One/BBCNEWS_20191126_130000_BBC_News_at_One.thumbs/BBCNEWS_20191126_130000_BBC_News_at_One_000058.jpg</field>
+<field name="snippet">a bleak outlook, says the un on climate change. the world has to act much faster to avoid dangerous levels of global warming sir andy murray speaks about his return to tennis after hip-surgery - and why he's living life to the full</field>
+</doc>
+</add>

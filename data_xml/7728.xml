@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170602_170000_Happening_Now#start/310/end/345</field>
+<field name="datetime">6/2/2017 17:05:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20170602_170000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170602_170000_Happening_Now/FOXNEWSW_20170602_170000_Happening_Now.thumbs/FOXNEWSW_20170602_170000_Happening_Now_000298.jpg</field>
+<field name="snippet">be here. we hope to hear about what the united states will and will not do in the fight against climate change. leland: peter doocey, thank you. heather? heather: president trump</field>
+</doc>
+</add>

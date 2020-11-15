@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191111_170000_Outnumbered#start/3228/end/3263</field>
+<field name="datetime">11/11/2019 17:54:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Outnumbered</field>
+<field name="showid">FOXNEWSW_20191111_170000_Outnumbered</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191111_170000_Outnumbered/FOXNEWSW_20191111_170000_Outnumbered.thumbs/FOXNEWSW_20191111_170000_Outnumbered_003207.jpg</field>
+<field name="snippet">that could one day power planes, propel ships, and fuel trucks. and cut their greenhouse gas emissions in half. algae. its potential just keeps growing.</field>
+</doc>
+</add>

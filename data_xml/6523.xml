@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_130000_Afternoon_Live#start/3725/end/3760</field>
+<field name="datetime">9/20/2019 14:02:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190920_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_130000_Afternoon_Live/BBCNEWS_20190920_130000_Afternoon_Live.thumbs/BBCNEWS_20190920_130000_Afternoon_Live_003717.jpg</field>
+<field name="snippet">hello, this is afternoon live. i'm martine croxall. millions of children around the world have stayed away from school to lead what could be the biggest day of protest yet demanding urgent action on climate change. thousands of separate demonstrations are taking place in 150 countries,</field>
+</doc>
+</add>

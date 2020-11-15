@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191119_130000_BBC_News_at_One#start/533/end/568</field>
+<field name="datetime">11/19/2019 13:09:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20191119_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191119_130000_BBC_News_at_One/BBCNEWS_20191119_130000_BBC_News_at_One.thumbs/BBCNEWS_20191119_130000_BBC_News_at_One_000507.jpg</field>
+<field name="snippet">the green party has launched its manifesto with a pledge to 'tra nsform everything' to combat climate change. it's promising net zero carbon emissions in the uk by 2030 - the government's target is 2050 - and it says it will pay for the policy by borrowing almost</field>
+</doc>
+</add>

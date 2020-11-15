@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201302.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130213_110000_Morning_Joe#start/646/end/681</field>
+<field name="datetime">2/13/2013 11:11:01</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20130213_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130213_110000_Morning_Joe/MSNBCW_20130213_110000_Morning_Joe.thumbs/MSNBCW_20130213_110000_Morning_Joe_000646.jpg</field>
+<field name="snippet">the first half of it was very traditional state of the union fare and laundry listy. but the two things that really stand out are the big section of the speech on climate change. i agree with richard. it was vague. but it's something he hasn't talked about for four years. and both in the inaugural and in</field>
+</doc>
+</add>

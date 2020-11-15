@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201006.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100629_100000_FOX_and_Friends#start/1106/end/1141</field>
+<field name="datetime">6/29/2010 10:18:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100629_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100629_100000_FOX_and_Friends/FOXNEWS_20100629_100000_FOX_and_Friends.thumbs/FOXNEWS_20100629_100000_FOX_and_Friends_001106.jpg</field>
+<field name="snippet">the cultural climate was very different a year ago. climate change was a vibrant subject. we were all worried about it. times have changed enormously. i mean, climate is now way down at the bottom of voter concerns.</field>
+</doc>
+</add>

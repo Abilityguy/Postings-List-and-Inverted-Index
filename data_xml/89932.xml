@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201401.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140103_040000_All_In_With_Chris_Hayes#start/237/end/272</field>
+<field name="datetime">1/3/2014 4:04:12</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20140103_040000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140103_040000_All_In_With_Chris_Hayes/MSNBCW_20140103_040000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20140103_040000_All_In_With_Chris_Hayes_000226.jpg</field>
+<field name="snippet">there is an entire industry that exists to feed its viewers and readers with contempt and ridicule for not only the basic science of climate change, but even for the people who toil in obscurity, risking their lives to avert genuine misery and disaster for millions of people.</field>
+</doc>
+</add>

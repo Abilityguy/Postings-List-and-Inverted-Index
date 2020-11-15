@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191208_040000_BBC_News#start/1263/end/1298</field>
+<field name="datetime">12/8/2019 4:21:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191208_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191208_040000_BBC_News/BBCNEWS_20191208_040000_BBC_News.thumbs/BBCNEWS_20191208_040000_BBC_News_001258.jpg</field>
+<field name="snippet">greenhouse gas emissions. the findings suggest larger fish are being affected both by global warming and chemical pollution. tens of thousands of people are taking part in the world's big sleep out to raise awareness about homelessness. an estimated 100 million people across the globe don't have a home.</field>
+</doc>
+</add>

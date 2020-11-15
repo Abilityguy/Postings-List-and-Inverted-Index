@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201003.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100323_170000_America_Live#start/5913/end/5948</field>
+<field name="datetime">3/23/2010 18:38:48</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWS_20100323_170000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100323_170000_America_Live/FOXNEWS_20100323_170000_America_Live.thumbs/FOXNEWS_20100323_170000_America_Live_005910.jpg</field>
+<field name="snippet">to the american people. so to think we'll be able to get through a job creation message on an issue that's more difficult to put forward, that is energy and climate change, i think is quite foolhardy. we might have some hearings in the senate.</field>
+</doc>
+</add>

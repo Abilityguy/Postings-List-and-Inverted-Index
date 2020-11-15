@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170706_210000_BBC_News_at_Ten#start/338/end/373</field>
+<field name="datetime">7/6/2017 21:05:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20170706_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170706_210000_BBC_News_at_Ten/BBCNEWS_20170706_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20170706_210000_BBC_News_at_Ten_000328.jpg</field>
+<field name="snippet">on russia's western border. then it was on to germany, and what promises to be a testing summit, with disagreements over north korea, free trade, immigration and climate change. and angela merkel and donald trump, who met this evening, disagree on much of this. the joint communique</field>
+</doc>
+</add>

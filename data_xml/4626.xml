@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170601_030000_BBC_News#start/1099/end/1134</field>
+<field name="datetime">6/1/2017 3:18:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170601_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170601_030000_BBC_News/BBCNEWS_20170601_030000_BBC_News.thumbs/BBCNEWS_20170601_030000_BBC_News_001077.jpg</field>
+<field name="snippet">the german chancellor. climate change and trade are expected to dominate their discussions. all this with german relations with the us under severe strain - partly over mr trump's stance on climate change. parliament in macedonia has endorsed a new government, ending the political deadlock since elections last december. it's headed by the pro-eu</field>
+</doc>
+</add>

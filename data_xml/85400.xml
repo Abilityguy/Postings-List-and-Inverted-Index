@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201011.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101116_110000_Morning_Joe#start/9648/end/9683</field>
+<field name="datetime">11/16/2010 13:41:03</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20101116_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20101116_110000_Morning_Joe/MSNBC_20101116_110000_Morning_Joe.thumbs/MSNBC_20101116_110000_Morning_Joe_009630.jpg</field>
+<field name="snippet">let's get it out. do you believe in climate change? yes. global warming is real. it's manmade. it's an important problem but we are not tackling itery well. we are throwing hundreds of billions of dollars into</field>
+</doc>
+</add>

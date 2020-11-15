@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201401.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140129_015500_State_of_the_Union_2014#start/2164/end/2199</field>
+<field name="datetime">1/29/2014 2:31:19</field>
+<field name="station">FOXNEWS</field>
+<field name="show">State of the Union 2014</field>
+<field name="showid">FOXNEWSW_20140129_015500_State_of_the_Union_2014</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140129_015500_State_of_the_Union_2014/FOXNEWSW_20140129_015500_State_of_the_Union_2014.thumbs/FOXNEWSW_20140129_015500_State_of_the_Union_2014_002145.jpg</field>
+<field name="snippet">one of the reasons why is natural gas. if extracted safely, it's the bridge fuel that can power our economy with less of the carbon pollution that produces climate change. businesses plan to invest almost</field>
+</doc>
+</add>

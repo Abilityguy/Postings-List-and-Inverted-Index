@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201111.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20111128_110000_Morning_Joe#start/739/end/774</field>
+<field name="datetime">11/28/2011 11:12:34</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20111128_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20111128_110000_Morning_Joe/MSNBCW_20111128_110000_Morning_Joe.thumbs/MSNBCW_20111128_110000_Morning_Joe_000717.jpg</field>
+<field name="snippet">global warming and he's got one or two others, but i'll guarantee you, 9 out of 10 times, he's rock solid conservative as the utah governor, and yet you have romney and gingrich running around acting like they're</field>
+</doc>
+</add>

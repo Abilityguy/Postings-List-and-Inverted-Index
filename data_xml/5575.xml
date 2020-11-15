@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171212_020000_BBC_News#start/423/end/458</field>
+<field name="datetime">12/12/2017 2:07:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171212_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171212_020000_BBC_News/BBCNEWS_20171212_020000_BBC_News.thumbs/BBCNEWS_20171212_020000_BBC_News_000417.jpg</field>
+<field name="snippet">signing a directive at the white house, with a toy astronaut as a prop, the president said it would allow the united states to reclaim what he called its destiny in space. world leaders are gathering in france for tuesday's summit, called to push forward plans to tackle climate change agreed in paris two years ago.</field>
+</doc>
+</add>

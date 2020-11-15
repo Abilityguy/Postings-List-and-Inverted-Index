@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201404.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140423_070000_All_In_With_Chris_Hayes#start/1560/end/1595</field>
+<field name="datetime">4/23/2014 7:26:15</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20140423_070000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140423_070000_All_In_With_Chris_Hayes/MSNBCW_20140423_070000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20140423_070000_All_In_With_Chris_Hayes_001545.jpg</field>
+<field name="snippet">i think it's all part of an overall trend that we're seeing of every issue is looked at through this partisan prism. if we make this another third rail, we can use it. and it's hard for people to understand. you saw the latest pew poll that came out today that fewer people are willing to admit that global warming is due to human</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201610.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161031_050000_Special_Report_With_Bret_Baier#start/2220/end/2255</field>
+<field name="datetime">10/31/2016 5:37:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20161031_050000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161031_050000_Special_Report_With_Bret_Baier/FOXNEWSW_20161031_050000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20161031_050000_Special_Report_With_Bret_Baier_002217.jpg</field>
+<field name="snippet">voters is already decided. the number one thing that people vote on is their partisanship. climate change is baked into that cake. if you're a democrat, you believe it's real, man made, and happening. if you're a republican, most likely you don't.</field>
+</doc>
+</add>

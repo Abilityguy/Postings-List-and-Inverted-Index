@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191113_133000_BBC_News#start/79/end/114</field>
+<field name="datetime">11/13/2019 13:31:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191113_133000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191113_133000_BBC_News/BBCNEWS_20191113_133000_BBC_News.thumbs/BBCNEWS_20191113_133000_BBC_News_000059.jpg</field>
+<field name="snippet">climate change is responsible for the worst flooding in the italian city for nearly a century. he said the highest water levels in the region in more than 50 years will leave 'a permanent mark' on the city. popular tourist sites were completely flooded and people had to wade through the streets</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190404_100000_FOX__Friends#start/10066/end/10101</field>
+<field name="datetime">4/4/2019 12:48:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20190404_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190404_100000_FOX__Friends/FOXNEWSW_20190404_100000_FOX__Friends.thumbs/FOXNEWSW_20190404_100000_FOX__Friends_010050.jpg</field>
+<field name="snippet">waiter. had amazing meal. he asked what are you doing here. we're doing segment of 'fox & friends' talking about the environment. he wanted to come down. you say climate change is the urgent. more carbon goes into the</field>
+</doc>
+</add>

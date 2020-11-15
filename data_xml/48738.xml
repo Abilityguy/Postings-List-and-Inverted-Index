@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201908.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190824_140000_AM_Joy#start/6041/end/6076</field>
+<field name="datetime">8/24/2019 15:40:56</field>
+<field name="station">MSNBC</field>
+<field name="show">AM Joy</field>
+<field name="showid">MSNBCW_20190824_140000_AM_Joy</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190824_140000_AM_Joy/MSNBCW_20190824_140000_AM_Joy.thumbs/MSNBCW_20190824_140000_AM_Joy_006028.jpg</field>
+<field name="snippet">this from a reporting standpoint. we know that 73000 fires have been detected since january. it's an 80% increase since last year. this is going to come up at the g7 who doesn't believe in climate change will be meeting</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091203_160000_Happening_Now#start/3250/end/3285</field>
+<field name="datetime">12/3/2009 16:54:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091203_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091203_160000_Happening_Now/FOXNEWS_20091203_160000_Happening_Now.thumbs/FOXNEWS_20091203_160000_Happening_Now_003230.jpg</field>
+<field name="snippet">data on global warming. here is the poll we took.</field>
+</doc>
+</add>

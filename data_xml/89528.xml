@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190627_210000_BBC_News_at_Ten#start/1872/end/1907</field>
+<field name="datetime">6/27/2019 21:31:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20190627_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190627_210000_BBC_News_at_Ten/BBCNEWS_20190627_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20190627_210000_BBC_News_at_Ten_001858.jpg</field>
+<field name="snippet">what can we expect, james?|j what can we expect, james? i think this will be a summit of high anxiety and low expectations, frankly. there are so many fracture lines in the world right now over trade, climate change and how to contain the risks in the gulf, threats to all of us. many people</field>
+</doc>
+</add>

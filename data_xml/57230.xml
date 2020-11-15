@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181124_210000_Americas_News_HQ#start/2236/end/2271</field>
+<field name="datetime">11/24/2018 21:37:31</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20181124_210000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181124_210000_Americas_News_HQ/FOXNEWSW_20181124_210000_Americas_News_HQ.thumbs/FOXNEWSW_20181124_210000_Americas_News_HQ_002217.jpg</field>
+<field name="snippet">if there's not sustained mitigation in efforts the report warns climate change is expected to cause growing losses to america's infrastructure and property and impede the rate of economic growth over this century. this report is over 1600 pages,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201409.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140915_150000_NewsNation#start/1796/end/1831</field>
+<field name="datetime">9/15/2014 15:30:11</field>
+<field name="station">MSNBC</field>
+<field name="show">NewsNation</field>
+<field name="showid">MSNBCW_20140915_150000_NewsNation</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140915_150000_NewsNation/MSNBCW_20140915_150000_NewsNation.thumbs/MSNBCW_20140915_150000_NewsNation_001785.jpg</field>
+<field name="snippet">in des moines many are not convinced that clinton is the candidate for them. i'm looking for someone a little bit more liberal. more on the edge and pushing some important issues like climate change and campaign finance reform and income inequality.</field>
+</doc>
+</add>

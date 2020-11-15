@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201512.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151215_090000_The_Kelly_File#start/1111/end/1146</field>
+<field name="datetime">12/15/2015 9:18:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Kelly File</field>
+<field name="showid">FOXNEWSW_20151215_090000_The_Kelly_File</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151215_090000_The_Kelly_File/FOXNEWSW_20151215_090000_The_Kelly_File.thumbs/FOXNEWSW_20151215_090000_The_Kelly_File_001095.jpg</field>
+<field name="snippet">day. bret? cruz came out and talked about the big climate change deal in paris. your thoughts on all that? i saw that, and i've been reading about all this, and i thought, did i miss something?</field>
+</doc>
+</add>

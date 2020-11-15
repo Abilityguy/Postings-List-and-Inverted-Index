@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201503.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150302_220000_The_Ed_Show#start/3329/end/3364</field>
+<field name="datetime">3/2/2015 22:55:44</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20150302_220000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150302_220000_The_Ed_Show/MSNBCW_20150302_220000_The_Ed_Show.thumbs/MSNBCW_20150302_220000_The_Ed_Show_003315.jpg</field>
+<field name="snippet">these are folks who know a little bit of what they're talking about. it's a snowball. most americans think combatting climate change is a moral obligation. safeguard creation because if we destroy creation creation will destroy us.</field>
+</doc>
+</add>

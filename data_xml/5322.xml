@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171231_220000_BBC_News#start/1088/end/1123</field>
+<field name="datetime">12/31/2017 22:18:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171231_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171231_220000_BBC_News/BBCNEWS_20171231_220000_BBC_News.thumbs/BBCNEWS_20171231_220000_BBC_News_001078.jpg</field>
+<field name="snippet">the chinese president, xijinping, has suggested that his country will play a greater role in international affairs in 2018. mr xi said the world now expected a clear stance from beijing on international issues. he said china would maintain the authority of the united nations and pledged to tackle climate</field>
+</doc>
+</add>

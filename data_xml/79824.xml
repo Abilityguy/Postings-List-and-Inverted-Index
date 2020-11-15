@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191115_090000_Fox_and_Friends_First#start/2718/end/2753</field>
+<field name="datetime">11/15/2019 9:45:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20191115_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191115_090000_Fox_and_Friends_First/FOXNEWSW_20191115_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20191115_090000_Fox_and_Friends_First_002700.jpg</field>
+<field name="snippet">congresswoman alexandria ocasio cortez unveiling massive overhaul plans, the green new deal, the green new housing deal includes carbon neutral housing with on-site organic grocery stores and community gardens. tackling the climate crisis</field>
+</doc>
+</add>

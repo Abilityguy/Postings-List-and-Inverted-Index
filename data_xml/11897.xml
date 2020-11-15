@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_200000_Outside_Source#start/1870/end/1905</field>
+<field name="datetime">8/8/2019 20:31:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20190808_200000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_200000_Outside_Source/BBCNEWS_20190808_200000_Outside_Source.thumbs/BBCNEWS_20190808_200000_Outside_Source_001857.jpg</field>
+<field name="snippet">as we've been hearing, a new un report warns that the world's land and water resources are being exploited at unprecedented rates. this combined with climate change is putting dire pressure on the ability of humanity to feed itself. the report also says these food</field>
+</doc>
+</add>

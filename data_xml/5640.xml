@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190913_080000_BBC_News_at_Nine#start/961/end/996</field>
+<field name="datetime">9/13/2019 8:16:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190913_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190913_080000_BBC_News_at_Nine/BBCNEWS_20190913_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190913_080000_BBC_News_at_Nine_000957.jpg</field>
+<field name="snippet">music: '22' by lily allen. the bbc understands lily allen's alleged attacker continues to work with the label. miquita oliver, bbc news. two climate change protesters have</field>
+</doc>
+</add>

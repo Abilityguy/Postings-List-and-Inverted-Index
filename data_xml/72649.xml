@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201406.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140624_100000_Morning_Joe#start/8627/end/8662</field>
+<field name="datetime">6/24/2014 12:24:02</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20140624_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140624_100000_Morning_Joe/MSNBCW_20140624_100000_Morning_Joe.thumbs/MSNBCW_20140624_100000_Morning_Joe_008625.jpg</field>
+<field name="snippet">the weather was particularly hot in areas such as australia and spain. still the u.s. did not set the record, because we were cold. temperatures were only one degree higher compared to previous records but you ask me if there's global warming, my answer to you, i'm not a</field>
+</doc>
+</add>

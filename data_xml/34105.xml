@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091203_230000_Special_Report_With_Bret_Baier#start/1915/end/1950</field>
+<field name="datetime">12/3/2009 23:32:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091203_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091203_230000_Special_Report_With_Bret_Baier/FOXNEWS_20091203_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091203_230000_Special_Report_With_Bret_Baier_001914.jpg</field>
+<field name="snippet">temperature, -- where were we measuring the temperature in 1885?' dees spite the controversy over the climate change data, since the brittish e-mail story broke 13 days ago, the major broadcast networks have not covered it on their morning or evening news</field>
+</doc>
+</add>

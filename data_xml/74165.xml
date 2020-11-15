@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_183000_Sportsday#start/73/end/108</field>
+<field name="datetime">1/17/2020 18:31:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Sportsday</field>
+<field name="showid">BBCNEWS_20200117_183000_Sportsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_183000_Sportsday/BBCNEWS_20200117_183000_Sportsday.thumbs/BBCNEWS_20200117_183000_Sportsday_000057.jpg</field>
+<field name="snippet">in a moment it will be time for sportsday, but first a look at what else is coming up this evening on bbc news. we'll be bringing you more on how glasgow plans to become 'carbon neutral' in ten years time - amid new warnings over global warming.</field>
+</doc>
+</add>

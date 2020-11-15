@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201511.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151103_103000_Way_Too_Early#start/1565/end/1600</field>
+<field name="datetime">11/3/2015 10:56:20</field>
+<field name="station">MSNBC</field>
+<field name="show">Way Too Early</field>
+<field name="showid">MSNBCW_20151103_103000_Way_Too_Early</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151103_103000_Way_Too_Early/MSNBCW_20151103_103000_Way_Too_Early.thumbs/MSNBCW_20151103_103000_Way_Too_Early_001485.jpg</field>
+<field name="snippet">on climate change. now, if you went to a doctor -- no, let's change that. you go to a hundred doctors and 99 of them tell you you've got</field>
+</doc>
+</add>

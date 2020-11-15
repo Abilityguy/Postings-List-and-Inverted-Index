@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201505.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150528_100000_FOX_and_Friends#start/1070/end/1105</field>
+<field name="datetime">5/28/2015 10:18:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20150528_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150528_100000_FOX_and_Friends/FOXNEWSW_20150528_100000_FOX_and_Friends.thumbs/FOXNEWSW_20150528_100000_FOX_and_Friends_001065.jpg</field>
+<field name="snippet">relating it to global climate change is just as ridiculous. i mean, i guess maybe god is punishing india with the 1000 people who have died in the heat wave because they have stolen too many jobs from americans.</field>
+</doc>
+</add>

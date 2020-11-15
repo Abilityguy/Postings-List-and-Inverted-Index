@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201404.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140423_000000_All_In_With_Chris_Hayes#start/1516/end/1551</field>
+<field name="datetime">4/23/2014 0:25:31</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20140423_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140423_000000_All_In_With_Chris_Hayes/MSNBCW_20140423_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20140423_000000_All_In_With_Chris_Hayes_001515.jpg</field>
+<field name="snippet">global warming is occurring. the vast majority of the academy of science says it is. a minority says it is not. climate's always changing. that's not the fundamental question. the fundamental question is whether manmade activity is what's attributing most to it. the question is why?</field>
+</doc>
+</add>

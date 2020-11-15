@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091221_050000_Red_Eye#start/671/end/706</field>
+<field name="datetime">12/21/2009 5:11:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20091221_050000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091221_050000_Red_Eye/FOXNEWS_20091221_050000_Red_Eye.thumbs/FOXNEWS_20091221_050000_Red_Eye_000480.jpg</field>
+<field name="snippet">research? fox news reporting continues after the break. issues to make the case that global warming was a serious problem requiring urgent immediate response. in the end we have to trust the scientists as we do every time</field>
+</doc>
+</add>

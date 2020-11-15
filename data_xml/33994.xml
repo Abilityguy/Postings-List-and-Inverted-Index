@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091206_150000_Americas_News_HQ#start/5087/end/5122</field>
+<field name="datetime">12/6/2009 16:25:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWS_20091206_150000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091206_150000_Americas_News_HQ/FOXNEWS_20091206_150000_Americas_News_HQ.thumbs/FOXNEWS_20091206_150000_Americas_News_HQ_005088.jpg</field>
+<field name="snippet">jamie: leaders from nearly 200 countries about to sit down for historic talks on climate change. but does the world really care? what a new poll shows and what it could mean for the talks. coming up. p.</field>
+</doc>
+</add>

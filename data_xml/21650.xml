@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100111_180000_The_Live_Desk#start/5627/end/5662</field>
+<field name="datetime">1/11/2010 19:34:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Live Desk</field>
+<field name="showid">FOXNEWS_20100111_180000_The_Live_Desk</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100111_180000_The_Live_Desk/FOXNEWS_20100111_180000_The_Live_Desk.thumbs/FOXNEWS_20100111_180000_The_Live_Desk_005628.jpg</field>
+<field name="snippet">trace: claudia cowan live outside the federal courthouse in san francisco. a new poll reflecting growing script sis imover -- scepticism over climate change lecht's get live to james rosen in wa today. reporter: trace, good afternoon orange crops</field>
+</doc>
+</add>

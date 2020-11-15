@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190705_090000_Victoria_Derbyshire#start/105/end/140</field>
+<field name="datetime">7/5/2019 9:02:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20190705_090000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190705_090000_Victoria_Derbyshire/BBCNEWS_20190705_090000_Victoria_Derbyshire.thumbs/BBCNEWS_20190705_090000_Victoria_Derbyshire_000088.jpg</field>
+<field name="snippet">change says the government must act now, if it's to achieve its aim of cutting carbon emissions to zero injust over 30 years. later in the programme we'll be talking about what changes we, as individuals, can also make to tackle climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180614_040000_Tucker_Carlson_Tonight#start/1776/end/1811</field>
+<field name="datetime">6/14/2018 4:29:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20180614_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180614_040000_Tucker_Carlson_Tonight/FOXNEWSW_20180614_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20180614_040000_Tucker_Carlson_Tonight_001768.jpg</field>
+<field name="snippet">tucker: i am in favor of a clean environment so i wonder why -- have you noticed this -- places that spend the most energy telling the rest of us that the world is ending because of climate change also tendo have the dirtiest streets and largest number of people</field>
+</doc>
+</add>

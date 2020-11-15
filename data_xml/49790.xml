@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201703.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170316_190000_MSNBC_Live_With_Kate_Snow#start/2250/end/2285</field>
+<field name="datetime">3/16/2017 19:37:45</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Kate Snow</field>
+<field name="showid">MSNBCW_20170316_190000_MSNBC_Live_With_Kate_Snow</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170316_190000_MSNBC_Live_With_Kate_Snow/MSNBCW_20170316_190000_MSNBC_Live_With_Kate_Snow.thumbs/MSNBCW_20170316_190000_MSNBC_Live_With_Kate_Snow_002247.jpg</field>
+<field name="snippet">a lot of funding for science and climate change? a couple different messages. when we talk about science and climate change -- let's deal with them separately.</field>
+</doc>
+</add>

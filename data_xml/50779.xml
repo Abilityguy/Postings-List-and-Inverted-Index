@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201501.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150103_130000_Up_WSteve_Kornacki#start/1685/end/1720</field>
+<field name="datetime">1/3/2015 13:28:20</field>
+<field name="station">MSNBC</field>
+<field name="show">Up WSteve Kornacki</field>
+<field name="showid">MSNBCW_20150103_130000_Up_WSteve_Kornacki</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150103_130000_Up_WSteve_Kornacki/MSNBCW_20150103_130000_Up_WSteve_Kornacki.thumbs/MSNBCW_20150103_130000_Up_WSteve_Kornacki_001665.jpg</field>
+<field name="snippet">'the guardian' newspaper reporting that climate change will be one of the pope's major points of emphasis in 2015 with a rare letter directly to the world's bishops and priests on the importance of the issue as well as meetings with faith leaders and politicians from</field>
+</doc>
+</add>

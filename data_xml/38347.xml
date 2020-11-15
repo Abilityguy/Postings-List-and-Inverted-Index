@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201005.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100515_150000_Forbes_on_FOX#start/731/end/766</field>
+<field name="datetime">5/15/2010 15:12:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Forbes on FOX</field>
+<field name="showid">FOXNEWS_20100515_150000_Forbes_on_FOX</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100515_150000_Forbes_on_FOX/FOXNEWS_20100515_150000_Forbes_on_FOX.thumbs/FOXNEWS_20100515_150000_Forbes_on_FOX_000720.jpg</field>
+<field name="snippet">memorial day. some here say d.c. is cooking up three plans this week that are creating the perfect petro storm. a push to hike taxes on oil, off-shore drilling and the new climate change bill.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201402.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140217_100000_First_Look#start/76/end/111</field>
+<field name="datetime">2/17/2014 10:01:31</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20140217_100000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140217_100000_First_Look/MSNBCW_20140217_100000_First_Look.thumbs/MSNBCW_20140217_100000_First_Look_000075.jpg</field>
+<field name="snippet">the geneva airport executives say the hijacker who was ethiopian and in his 30s wanted asylum. they say all passengers and crew are safe. we'll keep an eye on that one. climate change compared to a</field>
+</doc>
+</add>

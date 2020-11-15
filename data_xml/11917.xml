@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190815_050000_Breakfast#start/785/end/820</field>
+<field name="datetime">8/15/2019 5:13:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190815_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190815_050000_Breakfast/BBCNEWS_20190815_050000_Breakfast.thumbs/BBCNEWS_20190815_050000_Breakfast_000777.jpg</field>
+<field name="snippet">the guardian says mr corbyn is calling on rebel tories and other party leaders to oust borisjohnson to stop a no-deal brexit. there's a photo of climate change activist greta thunberg on the front page, she's on a two week voyage across the atlantic to attend</field>
+</doc>
+</add>

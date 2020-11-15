@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201106.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110621_130000_The_Daily_Rundown#start/260/end/295</field>
+<field name="datetime">6/21/2011 13:04:35</field>
+<field name="station">MSNBC</field>
+<field name="show">The Daily Rundown</field>
+<field name="showid">MSNBC_20110621_130000_The_Daily_Rundown</field>
+<field name="preview">https://archive.org/download/MSNBC_20110621_130000_The_Daily_Rundown/MSNBC_20110621_130000_The_Daily_Rundown.thumbs/MSNBC_20110621_130000_The_Daily_Rundown_000240.jpg</field>
+<field name="snippet">arnold schwarzenegger urging congress to pass it. in state after state. we're taking action. now it's time for congress to act by capping greenhouse gas pollution. we are leading. now it's their turn.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170706_140000_BBC_News#start/534/end/569</field>
+<field name="datetime">7/6/2017 14:09:09</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170706_140000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170706_140000_BBC_News/BBCNEWS_20170706_140000_BBC_News.thumbs/BBCNEWS_20170706_140000_BBC_News_000508.jpg</field>
+<field name="snippet">issues facing our world are going to play out in the next few days. climate change, trade, how different countries approached the issue of immigration, tax avoidance, angela merkel wants to talk about that and</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190903_170000_BBC_News_at_Six#start/1394/end/1429</field>
+<field name="datetime">9/3/2019 17:23:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20190903_170000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190903_170000_BBC_News_at_Six/BBCNEWS_20190903_170000_BBC_News_at_Six.thumbs/BBCNEWS_20190903_170000_BBC_News_at_Six_001377.jpg</field>
+<field name="snippet">not exactly subtle, but it sends the desired message. nicola sturgeon wants you to know that she's in the driving seat, taking bold action on climate change, starting with green buses and other transport initiatives, she is promising to make scotland one of the worlds' first zero emissions countries.</field>
+</doc>
+</add>

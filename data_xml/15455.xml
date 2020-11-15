@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201110.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111002_020000_Stossel#start/1407/end/1442</field>
+<field name="datetime">10/2/2011 2:23:42</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Stossel</field>
+<field name="showid">FOXNEWSW_20111002_020000_Stossel</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111002_020000_Stossel/FOXNEWSW_20111002_020000_Stossel.thumbs/FOXNEWSW_20111002_020000_Stossel_001410.jpg</field>
+<field name="snippet">(applause) the law in effect banned the incandescent light bulb gradually starting in january, 2012. the main idea was to reduce greenhouse gases. but one of the measures</field>
+</doc>
+</add>

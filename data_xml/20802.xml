@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201202.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120212_100000_The_Five#start/2414/end/2449</field>
+<field name="datetime">2/12/2012 10:40:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20120212_100000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120212_100000_The_Five/FOXNEWSW_20120212_100000_The_Five.thumbs/FOXNEWSW_20120212_100000_The_Five_002400.jpg</field>
+<field name="snippet">warming and quite frankly a lot of other issues, that there's such a polarization in the conversation, it's either the end of the world or not happening at all, but what we need to find is a pragmatic middle. yes, global warming is real, it's not the end of the world. let's fix it, but fix it</field>
+</doc>
+</add>

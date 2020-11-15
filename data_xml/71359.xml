@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.200912.csv</field>
+<field name="url">https://archive.org/details/CNN_20091219_000000_CNN_Tonight#start/365/end/400</field>
+<field name="datetime">12/19/2009 0:06:20</field>
+<field name="station">CNN</field>
+<field name="show">CNN Tonight</field>
+<field name="showid">CNN_20091219_000000_CNN_Tonight</field>
+<field name="preview">https://archive.org/download/CNN_20091219_000000_CNN_Tonight/CNN_20091219_000000_CNN_Tonight.thumbs/CNN_20091219_000000_CNN_Tonight_000360.jpg</field>
+<field name="snippet">reporter: what's interesting is that republicans back in the united states are already charging that they fear there'll be taxes raised if the president moves forward with climate change legislation on capitol hill to try to enforce some of the commitments made here in this agreement.</field>
+</doc>
+</add>

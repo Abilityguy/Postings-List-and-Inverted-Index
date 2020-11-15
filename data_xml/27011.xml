@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100225_100000_The_OReilly_Factor#start/44/end/79</field>
+<field name="datetime">2/25/2010 10:00:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20100225_100000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100225_100000_The_OReilly_Factor/FOXNEWS_20100225_100000_The_OReilly_Factor.thumbs/FOXNEWS_20100225_100000_The_OReilly_Factor_000026.jpg</field>
+<field name="snippet">senator bernie sanders compares global warming to the third rite. the tea party people are making us afraid says valerie jarrett. it's always a lot easier to scare people and get them angry. bill: we'll have a report that may make you afraid.</field>
+</doc>
+</add>

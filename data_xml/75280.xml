@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200109_210000_Outside_Source#start/1344/end/1379</field>
+<field name="datetime">1/9/2020 21:22:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20200109_210000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200109_210000_Outside_Source/BBCNEWS_20200109_210000_Outside_Source.thumbs/BBCNEWS_20200109_210000_Outside_Source_001319.jpg</field>
+<field name="snippet">this bushfire crisis has put huge attention on australia's fossil fuel industry. there is no doubt this crisis is so severe in part because australia has been getting hotter for the past century. that shift is caused by global climate change which in turn is caused by human behaviour not least emissions from fossil fuels. and those fossils fuels</field>
+</doc>
+</add>

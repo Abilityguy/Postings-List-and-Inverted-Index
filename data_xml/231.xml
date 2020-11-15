@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201301.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130122_020000_Americas_Election_Headquarters#start/225/end/260</field>
+<field name="datetime">1/22/2013 2:04:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Election Headquarters</field>
+<field name="showid">FOXNEWSW_20130122_020000_Americas_Election_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130122_020000_Americas_Election_Headquarters/FOXNEWSW_20130122_020000_Americas_Election_Headquarters.thumbs/FOXNEWSW_20130122_020000_Americas_Election_Headquarters_000225.jpg</field>
+<field name="snippet">from today's inaugural address how extraordinarily liberal it was, to advance his agenda, an agenda at that was addressing global warming, championing gay rights, gun control and</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201512.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151214_160000_Happening_Now#start/2233/end/2268</field>
+<field name="datetime">12/14/2015 16:37:28</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20151214_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151214_160000_Happening_Now/FOXNEWSW_20151214_160000_Happening_Now.thumbs/FOXNEWSW_20151214_160000_Happening_Now_002205.jpg</field>
+<field name="snippet">the nature of what came out of paris. there is no debate about gun control in the media. and i think that is the problem. eric: do you think that will happen with the coverage today? i think the media will weigh in particularly around climate</field>
+</doc>
+</add>

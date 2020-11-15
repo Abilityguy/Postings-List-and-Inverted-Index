@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201810.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181009_060000_The_11th_Hour_With_Brian_Williams#start/3476/end/3511</field>
+<field name="datetime">10/9/2018 6:58:11</field>
+<field name="station">MSNBC</field>
+<field name="show">The 11th Hour With Brian Williams</field>
+<field name="showid">MSNBCW_20181009_060000_The_11th_Hour_With_Brian_Williams</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181009_060000_The_11th_Hour_With_Brian_Williams/MSNBCW_20181009_060000_The_11th_Hour_With_Brian_Williams.thumbs/MSNBCW_20181009_060000_The_11th_Hour_With_Brian_Williams_003448.jpg</field>
+<field name="snippet">panel on climate change was more than some people could take today. the report by a group of scientists paints a dire picture. it's desperate, in fact, and it's beyond urgent. as the authors put it, avoiding widespread damage would require transforming the global economy</field>
+</doc>
+</add>

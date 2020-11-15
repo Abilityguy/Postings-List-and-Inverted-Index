@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091220_110000_The_OReilly_Factor#start/2479/end/2514</field>
+<field name="datetime">12/20/2009 11:41:34</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20091220_110000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091220_110000_The_OReilly_Factor/FOXNEWS_20091220_110000_The_OReilly_Factor.thumbs/FOXNEWS_20091220_110000_The_OReilly_Factor_002460.jpg</field>
+<field name="snippet">he was in copenhagen along with scientists, world leaders and protesters on that conference on world climate and the press was there giving lots of attention to concerns over global warming, maybe not as much an attention</field>
+</doc>
+</add>

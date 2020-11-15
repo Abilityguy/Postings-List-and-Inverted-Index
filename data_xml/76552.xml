@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190521_100000_BBC_Newsroom_Live#start/5828/end/5863</field>
+<field name="datetime">5/21/2019 11:37:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190521_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190521_100000_BBC_Newsroom_Live/BBCNEWS_20190521_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190521_100000_BBC_Newsroom_Live_005819.jpg</field>
+<field name="snippet">in 2013, the un's intergovernmental panel on climate change predicted that by the end of the century global sea levels would rise by around one metre. but researchers now suggest seas could rise by twice that amount,</field>
+</doc>
+</add>

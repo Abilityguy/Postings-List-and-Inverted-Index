@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201509.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150902_093000_Way_Too_Early#start/915/end/950</field>
+<field name="datetime">9/2/2015 9:45:30</field>
+<field name="station">MSNBC</field>
+<field name="show">Way Too Early</field>
+<field name="showid">MSNBCW_20150902_093000_Way_Too_Early</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150902_093000_Way_Too_Early/MSNBCW_20150902_093000_Way_Too_Early.thumbs/MSNBCW_20150902_093000_Way_Too_Early_000915.jpg</field>
+<field name="snippet">president obama is using trip to alaska to highlight climate change. it included a taping of 'running wild with bear grylls.'</field>
+</doc>
+</add>

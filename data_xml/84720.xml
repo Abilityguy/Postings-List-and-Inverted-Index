@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190420_130000_BBC_News#start/17/end/52</field>
+<field name="datetime">4/20/2019 13:00:32</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190420_130000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190420_130000_BBC_News/BBCNEWS_20190420_130000_BBC_News.thumbs/BBCNEWS_20190420_130000_BBC_News_000059.jpg</field>
+<field name="snippet">this is bbc news i'm lukwesa burak. the headlines at two: police in londonderry investigating the murder of thejournalist, leera mckie , have arrested two teenagers. the suspects, who are 18 and 19, were arrested under the terrorism act. this is the live scene in oxford circus where climate change protests contiune into their sixth day. police in london say they've now</field>
+</doc>
+</add>

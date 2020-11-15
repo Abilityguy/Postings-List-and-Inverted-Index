@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191214_160000_BBC_News#start/341/end/376</field>
+<field name="datetime">12/14/2019 16:05:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191214_160000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191214_160000_BBC_News/BBCNEWS_20191214_160000_BBC_News.thumbs/BBCNEWS_20191214_160000_BBC_News_000328.jpg</field>
+<field name="snippet">the two issues that we face are still there - huge, grotesque levels of inequality and, secondly, the issue that never really emerged in the election campaign, which was climate change, this existential threat. that must be our priority. with brexit, we will see</field>
+</doc>
+</add>

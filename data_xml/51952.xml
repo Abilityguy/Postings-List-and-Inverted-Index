@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181204_040000_BBC_News#start/955/end/990</field>
+<field name="datetime">12/4/2018 4:16:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181204_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181204_040000_BBC_News/BBCNEWS_20181204_040000_BBC_News.thumbs/BBCNEWS_20181204_040000_BBC_News_000927.jpg</field>
+<field name="snippet">the latest headlines. delegates at a major climate change conference in poland have been warned not to be the generation to betray humanity. president trump has paid</field>
+</doc>
+</add>

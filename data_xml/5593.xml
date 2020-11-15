@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_090000_Victoria_Derbyshire#start/157/end/192</field>
+<field name="datetime">9/20/2019 9:02:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20190920_090000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_090000_Victoria_Derbyshire/BBCNEWS_20190920_090000_Victoria_Derbyshire.thumbs/BBCNEWS_20190920_090000_Victoria_Derbyshire_000149.jpg</field>
+<field name="snippet">in what could be the largest ever climate change protest today. some demonstrations, like this one in sydney, are already under way. more than 5000 are planned in over 150 countries. protesters are calling for governments to take more urgent action to halt global warming.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100214_110000_The_OReilly_Factor#start/581/end/616</field>
+<field name="datetime">2/14/2010 11:09:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20100214_110000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100214_110000_The_OReilly_Factor/FOXNEWS_20100214_110000_The_OReilly_Factor.thumbs/FOXNEWS_20100214_110000_The_OReilly_Factor_000535.jpg</field>
+<field name="snippet">aflac! .then you don't know quack. to find out more visit getquack.com. next up, the climate crackup. here at home, chances of a climate bill or climate change bill passing congress this year</field>
+</doc>
+</add>

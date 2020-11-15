@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190813_210000_BBC_News_at_Ten#start/1382/end/1417</field>
+<field name="datetime">8/13/2019 21:23:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20190813_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190813_210000_BBC_News_at_Ten/BBCNEWS_20190813_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20190813_210000_BBC_News_at_Ten_001379.jpg</field>
+<field name="snippet">in the democratic republic of congo where health workers have been struggling to contain an outbreak of ebola for more than a year. the teenage climate change campaigner, greta thunberg is preparing to sail across the atlantic to attend a summit at the united</field>
+</doc>
+</add>

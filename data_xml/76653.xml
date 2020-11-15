@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190511_153000_Victoria_Derbyshire#start/1836/end/1871</field>
+<field name="datetime">5/11/2019 16:00:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20190511_153000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190511_153000_Victoria_Derbyshire/BBCNEWS_20190511_153000_Victoria_Derbyshire.thumbs/BBCNEWS_20190511_153000_Victoria_Derbyshire_001828.jpg</field>
+<field name="snippet">flying in the uk may have to be restricted because of climate change, admits the government. campaigners say a rethink is essential. we know we have to reduce our emissions urgently and radically, and expanding them is going in the opposite direction.</field>
+</doc>
+</add>

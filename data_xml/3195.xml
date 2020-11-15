@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201512.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151219_200000_Americas_News_HQ#start/1069/end/1104</field>
+<field name="datetime">12/19/2015 20:18:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20151219_200000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151219_200000_Americas_News_HQ/FOXNEWSW_20151219_200000_Americas_News_HQ.thumbs/FOXNEWSW_20151219_200000_Americas_News_HQ_001065.jpg</field>
+<field name="snippet">if you undermine that ideological point of view, you know, global warming or climate change is more important than jihadists beheading more than citizens f y citizens, if you say isis is more dangerous, you're an enemy</field>
+</doc>
+</add>

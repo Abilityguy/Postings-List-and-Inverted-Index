@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201506.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150619_080000_The_OReilly_Factor#start/525/end/560</field>
+<field name="datetime">6/19/2015 8:09:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20150619_080000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150619_080000_The_OReilly_Factor/FOXNEWSW_20150619_080000_The_OReilly_Factor.thumbs/FOXNEWSW_20150619_080000_The_OReilly_Factor_000525.jpg</field>
+<field name="snippet">science, while jeb bush's quip hinted that the pope is not an authority on climate change. i don't get economic policy from my bishops or my cardinals or from my pope. religion ought to be about making us better as people and less about things that end up</field>
+</doc>
+</add>

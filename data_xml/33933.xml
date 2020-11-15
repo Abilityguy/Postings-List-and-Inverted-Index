@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091207_110000_FOX_and_Friends#start/3780/end/3815</field>
+<field name="datetime">12/7/2009 12:03:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091207_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091207_110000_FOX_and_Friends/FOXNEWS_20091207_110000_FOX_and_Friends.thumbs/FOXNEWS_20091207_110000_FOX_and_Friends_003780.jpg</field>
+<field name="snippet">brian: i skip the word entirely. martha: 15000 delegates from 190 nations trying to reach a deal on climate change. listen to this. let's mark this meeting in history. let's open the door to the low</field>
+</doc>
+</add>

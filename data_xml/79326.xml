@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201402.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140205_210000_NOW_With_Alex_Wagner#start/2025/end/2060</field>
+<field name="datetime">2/5/2014 21:34:00</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20140205_210000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140205_210000_NOW_With_Alex_Wagner/MSNBCW_20140205_210000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20140205_210000_NOW_With_Alex_Wagner_002026.jpg</field>
+<field name="snippet">climate hubs, this afternoon the white house announced executive actions on climate change. the seven hubs are designed to help farmers in rural communities to respond to the</field>
+</doc>
+</add>

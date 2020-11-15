@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201703.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170328_180000_Americas_News_HQ#start/2172/end/2207</field>
+<field name="datetime">3/28/2017 18:36:27</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20170328_180000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170328_180000_Americas_News_HQ/FOXNEWSW_20170328_180000_Americas_News_HQ.thumbs/FOXNEWSW_20170328_180000_Americas_News_HQ_002158.jpg</field>
+<field name="snippet">this is a vastly different approach to climate change than we saw under president obama. you mentioned about half dozen obama era regulations being dismantled in terms of dealing with the environment. and there are a whole bunch more that are now officially under</field>
+</doc>
+</add>

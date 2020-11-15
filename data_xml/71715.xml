@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190111_110000_FOX__Friends#start/7942/end/7977</field>
+<field name="datetime">1/11/2019 13:12:37</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20190111_110000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190111_110000_FOX__Friends/FOXNEWSW_20190111_110000_FOX__Friends.thumbs/FOXNEWSW_20190111_110000_FOX__Friends_007918.jpg</field>
+<field name="snippet">jillian: that's what they say. steve: thank you, jillian. ainsley: you heard democrats push what they're calling a green new deal to stop climate change but what exactly is that plan? we'll break it down next. connell: and he shoots, he scores. the epic high school</field>
+</doc>
+</add>

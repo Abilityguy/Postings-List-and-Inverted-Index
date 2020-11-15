@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170707_200000_World_News_Today#start/187/end/222</field>
+<field name="datetime">7/7/2017 20:03:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20170707_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170707_200000_World_News_Today/BBCNEWS_20170707_200000_World_News_Today.thumbs/BBCNEWS_20170707_200000_World_News_Today_000178.jpg</field>
+<field name="snippet">and then there's the family photo, with president trump in the strange position of not being centre stage. but forget any headline of, 'president marginalised', it seemed there was no shortage of leaders wanting to bend his ear. two big topics - one trade, the other, climate change.</field>
+</doc>
+</add>

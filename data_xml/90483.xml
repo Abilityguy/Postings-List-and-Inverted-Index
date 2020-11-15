@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201411.csv</field>
+<field name="url">https://archive.org/details/CNNW_20141112_060000_CNNI_Simulcast#start/65/end/100</field>
+<field name="datetime">11/12/2014 6:01:20</field>
+<field name="station">CNN</field>
+<field name="show">CNNI Simulcast</field>
+<field name="showid">CNNW_20141112_060000_CNNI_Simulcast</field>
+<field name="preview">https://archive.org/download/CNNW_20141112_060000_CNNI_Simulcast/CNNW_20141112_060000_CNNI_Simulcast.thumbs/CNNW_20141112_060000_CNNI_Simulcast_000046.jpg</field>
+<field name="snippet">united states have announced a major agreement on climate change. barack obama and xi jinping spoke with reports just a short time ago after a morning meeting. both leaders have agreed to plan to reduce greenhouse gas emissions by close to 1/3 over the next two decades.</field>
+</doc>
+</add>

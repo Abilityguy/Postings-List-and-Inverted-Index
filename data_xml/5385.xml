@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171222_003000_Brexitcast#start/937/end/972</field>
+<field name="datetime">12/22/2017 0:45:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Brexitcast</field>
+<field name="showid">BBCNEWS_20171222_003000_Brexitcast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171222_003000_Brexitcast/BBCNEWS_20171222_003000_Brexitcast.thumbs/BBCNEWS_20171222_003000_Brexitcast_000928.jpg</field>
+<field name="snippet">of the top three warmest years on record, making tackling climate change a priority. two years earlier in paris, the world came to a landmark agreement to limit temperature rise,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201409.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140921_160000_Weekends_With_Alex_Witt#start/6862/end/6897</field>
+<field name="datetime">9/21/2014 17:54:37</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20140921_160000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140921_160000_Weekends_With_Alex_Witt/MSNBCW_20140921_160000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20140921_160000_Weekends_With_Alex_Witt_006825.jpg</field>
+<field name="snippet">bringing you live coverage of one of the largest climate change rallies in new york. look at that scene. people as far as the eye can see marching on central park west. a million fliers were handed out. buses from all over the country</field>
+</doc>
+</add>

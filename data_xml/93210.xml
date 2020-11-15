@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190726_203000_Hard_Drive#start/22/end/57</field>
+<field name="datetime">7/26/2019 20:30:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Hard Drive</field>
+<field name="showid">BBCNEWS_20190726_203000_Hard_Drive</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190726_203000_Hard_Drive/BBCNEWS_20190726_203000_Hard_Drive.thumbs/BBCNEWS_20190726_203000_Hard_Drive_000027.jpg</field>
+<field name="snippet">as 'unprecendented' in size. they say summer fires triggered by lightning have been worsened by temperatures that are higher than average - because of climate change.</field>
+</doc>
+</add>

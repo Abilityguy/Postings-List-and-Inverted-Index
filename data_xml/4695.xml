@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170612_120000_BBC_News_at_One#start/1020/end/1055</field>
+<field name="datetime">6/12/2017 12:17:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20170612_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170612_120000_BBC_News_at_One/BBCNEWS_20170612_120000_BBC_News_at_One.thumbs/BBCNEWS_20170612_120000_BBC_News_at_One_001018.jpg</field>
+<field name="snippet">but campaigners say that's at odds with his record of opposing measures to combat climate change, as our environment analyst roger harrabin explains. the highlands of scotland, michael</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170528_030000_BBC_News#start/1246/end/1281</field>
+<field name="datetime">5/28/2017 3:21:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170528_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170528_030000_BBC_News/BBCNEWS_20170528_030000_BBC_News.thumbs/BBCNEWS_20170528_030000_BBC_News_001228.jpg</field>
+<field name="snippet">this disagreement over climate change has shown that donald trump is ready and willing to confront his allies in europe. in stark contrast to the warm words he offered partners in the middle east. james landale, bbc news, sicily.</field>
+</doc>
+</add>

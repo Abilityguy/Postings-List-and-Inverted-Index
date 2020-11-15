@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151211_200000_MSNBC_Live_With_Kate_Snow#start/1766/end/1801</field>
+<field name="datetime">12/11/2015 20:29:41</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Kate Snow</field>
+<field name="showid">MSNBCW_20151211_200000_MSNBC_Live_With_Kate_Snow</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151211_200000_MSNBC_Live_With_Kate_Snow/MSNBCW_20151211_200000_MSNBC_Live_With_Kate_Snow.thumbs/MSNBCW_20151211_200000_MSNBC_Live_With_Kate_Snow_004365.jpg</field>
+<field name="snippet">nearly 200 countries working overtime to reach a climate deal. we'll talk to a senator up next who's been in paris this week for talks to climate change, about the hurdles getting in the way. wanna see, i wanna see.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191215_160000_BBC_News#start/74/end/109</field>
+<field name="datetime">12/15/2019 16:01:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191215_160000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191215_160000_BBC_News/BBCNEWS_20191215_160000_BBC_News.thumbs/BBCNEWS_20191215_160000_BBC_News_000058.jpg</field>
+<field name="snippet">there are millions of people all around the world who are already suffering from the impacts of climate change. denying this fact could be interpreted by some to be a crime against humanity.</field>
+</doc>
+</add>

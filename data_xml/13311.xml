@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201111.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111127_230000_FOX_News_Sunday_With_Chris_Wallace#start/279/end/314</field>
+<field name="datetime">11/27/2011 23:04:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Sunday With Chris Wallace</field>
+<field name="showid">FOXNEWSW_20111127_230000_FOX_News_Sunday_With_Chris_Wallace</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111127_230000_FOX_News_Sunday_With_Chris_Wallace/FOXNEWSW_20111127_230000_FOX_News_Sunday_With_Chris_Wallace.thumbs/FOXNEWSW_20111127_230000_FOX_News_Sunday_With_Chris_Wallace_000267.jpg</field>
+<field name="snippet">you are the one who is saying we need to pull -- not all but most of our troops out of afghanistan, sooner than anybody else on the stage, except ron paul. you have been tweaking the others candidates, saying you believe in science issues like global warming and evolution,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_140000_Afternoon_Live#start/5799/end/5834</field>
+<field name="datetime">1/17/2020 15:36:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20200117_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_140000_Afternoon_Live/BBCNEWS_20200117_140000_Afternoon_Live.thumbs/BBCNEWS_20200117_140000_Afternoon_Live_005788.jpg</field>
+<field name="snippet">herlet's jon annita mcveigh herlet'sjon annita mcveigh who is in glasgow today. we are still here at the glasgow science centre, where we have been all day, talking about how glasgow will be a big focus this year as we look at climate change</field>
+</doc>
+</add>

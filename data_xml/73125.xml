@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190122_000000_Newsday#start/872/end/907</field>
+<field name="datetime">1/22/2019 0:14:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190122_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190122_000000_Newsday/BBCNEWS_20190122_000000_Newsday.thumbs/BBCNEWS_20190122_000000_Newsday_000869.jpg</field>
+<field name="snippet">the broadcaster and environmentalist sir david attenborough has told the world economic forum in davos that civilisation will collapse if we do not take urgent action on climate change. on tuesday, he'll take part</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201203.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120325_190000_Americas_News_Headquarters#start/2675/end/2710</field>
+<field name="datetime">3/25/2012 19:44:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20120325_190000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120325_190000_Americas_News_Headquarters/FOXNEWSW_20120325_190000_Americas_News_Headquarters.thumbs/FOXNEWSW_20120325_190000_Americas_News_Headquarters_002666.jpg</field>
+<field name="snippet">climate change is serious, it is urgent an it is growing. john: yeah, yeah, i've been hearing that for years. i'm skeptical that the threat is urgent. there is a threat. a lot of scientists say they are</field>
+</doc>
+</add>

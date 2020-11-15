@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201202.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120212_100000_The_Five#start/36/end/71</field>
+<field name="datetime">2/12/2012 10:00:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20120212_100000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120212_100000_The_Five/FOXNEWSW_20120212_100000_The_Five.thumbs/FOXNEWSW_20120212_100000_The_Five_000030.jpg</field>
+<field name="snippet">more than 2 trillion dollars in cuts and savings. john: great, but is it true? how would we know? have you gone through their piles of paper. turns out they want to spend more to solve global warming.</field>
+</doc>
+</add>

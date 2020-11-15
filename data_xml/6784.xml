@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190921_200000_World_News_Today#start/40/end/75</field>
+<field name="datetime">9/21/2019 20:00:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190921_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190921_200000_World_News_Today/BBCNEWS_20190921_200000_World_News_Today.thumbs/BBCNEWS_20190921_200000_World_News_Today_000027.jpg</field>
+<field name="snippet">as the us sends troops. cheering. cheers greet the teenage activist greta thunberg as she arrives at a youth summit on climate change in new york - ahead of the un general assembly next week. and coming up - the amazing story of how a 97-year-old war veteran commemorated the battle of arnhem.</field>
+</doc>
+</add>

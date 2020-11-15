@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201405.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140506_220000_Special_Report_With_Bret_Baier#start/166/end/201</field>
+<field name="datetime">5/6/2014 22:03:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20140506_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140506_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20140506_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20140506_220000_Special_Report_With_Bret_Baier_000165.jpg</field>
+<field name="snippet">deteriorating climate situation. but some people find rising temperatures more difficult to accept after a winter so harsh the administration blamed it for holding back the economy in the first three months of the year. the white house says climate change causes extremes in both directions.</field>
+</doc>
+</add>

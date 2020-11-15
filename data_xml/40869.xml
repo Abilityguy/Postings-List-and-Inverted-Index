@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201705.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170529_120000_MSNBC_Live#start/3021/end/3056</field>
+<field name="datetime">5/29/2017 12:50:36</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170529_120000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170529_120000_MSNBC_Live/MSNBCW_20170529_120000_MSNBC_Live.thumbs/MSNBCW_20170529_120000_MSNBC_Live_002997.jpg</field>
+<field name="snippet">the travel rewards credit card from bank of america. it's travel, better connected. welcome back. i'm stephanie ruhle. you're watching msnbc. we're talking climate. the way the u.s. tackles climate</field>
+</doc>
+</add>

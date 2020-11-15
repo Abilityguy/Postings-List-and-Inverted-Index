@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181211_030000_BBC_News#start/1299/end/1334</field>
+<field name="datetime">12/11/2018 3:21:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181211_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181211_030000_BBC_News/BBCNEWS_20181211_030000_BBC_News.thumbs/BBCNEWS_20181211_030000_BBC_News_001288.jpg</field>
+<field name="snippet">vulnerable natural wonder, stretching 2300 kilometres down the east coast, the ecosystem supports over 3000 individual reef systems and coral islands but it is under threat from climate change and coral bleaching. now the great barrier</field>
+</doc>
+</add>

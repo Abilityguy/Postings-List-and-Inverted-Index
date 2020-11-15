@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190513_010000_BBC_News#start/736/end/771</field>
+<field name="datetime">5/13/2019 1:12:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190513_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190513_010000_BBC_News/BBCNEWS_20190513_010000_BBC_News.thumbs/BBCNEWS_20190513_010000_BBC_News_000718.jpg</field>
+<field name="snippet">risking their lives to travel further into unprotected areas to rehydrate. the ramping up of diplomacy will lead to a climate action summit at the un in september, an event that's been billed as a last chance to prevent irreversible climate change. stay with us on bbc</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201201.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120125_010000_MSNBC_Special_Coverage#start/6240/end/6275</field>
+<field name="datetime">1/25/2012 2:44:15</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Special Coverage</field>
+<field name="showid">MSNBCW_20120125_010000_MSNBC_Special_Coverage</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120125_010000_MSNBC_Special_Coverage/MSNBCW_20120125_010000_MSNBC_Special_Coverage.thumbs/MSNBCW_20120125_010000_MSNBC_Special_Coverage_006236.jpg</field>
+<field name="snippet">pass a comprehensive plan to fight climate change. there is no reason why congress shouldn't at least set a clean energy standard that creates a market for innovation. so far, you haven't acted.</field>
+</doc>
+</add>

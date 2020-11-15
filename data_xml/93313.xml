@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190706_070000_Breakfast#start/3353/end/3388</field>
+<field name="datetime">7/6/2019 7:56:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190706_070000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190706_070000_Breakfast/BBCNEWS_20190706_070000_Breakfast.thumbs/BBCNEWS_20190706_070000_Breakfast_003329.jpg</field>
+<field name="snippet">climate change. and so, when we deforest part of the world in latin america, for example, that has an effect on weather patterns and climate change in other parts of the</field>
+</doc>
+</add>

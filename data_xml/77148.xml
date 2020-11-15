@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191128_110000_BBC_Newsroom_Live#start/6849/end/6884</field>
+<field name="datetime">11/28/2019 12:54:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20191128_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191128_110000_BBC_Newsroom_Live/BBCNEWS_20191128_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20191128_110000_BBC_Newsroom_Live_006838.jpg</field>
+<field name="snippet">of the biggest players on the international scene. british scientists are creating a blueprint for bands and pop stars to continue to perform live music without contributing to climate change. the tyndall centre for climate change research</field>
+</doc>
+</add>

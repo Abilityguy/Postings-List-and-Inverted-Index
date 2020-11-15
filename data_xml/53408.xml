@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201110.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20111008_110000_Up_W_Chris_Hayes#start/6052/end/6087</field>
+<field name="datetime">10/8/2011 12:41:07</field>
+<field name="station">MSNBC</field>
+<field name="show">Up W Chris Hayes</field>
+<field name="showid">MSNBCW_20111008_110000_Up_W_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20111008_110000_Up_W_Chris_Hayes/MSNBCW_20111008_110000_Up_W_Chris_Hayes.thumbs/MSNBCW_20111008_110000_Up_W_Chris_Hayes_006056.jpg</field>
+<field name="snippet">you know what? if you look at the polling on climate change there is a massive partisan divide. 70% to 75% of democrats believe in it. overwhelming scientific consensus agree with 98% of</field>
+</doc>
+</add>

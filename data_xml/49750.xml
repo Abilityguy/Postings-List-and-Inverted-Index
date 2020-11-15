@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201609.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160901_150000_Happening_Now#start/1046/end/1081</field>
+<field name="datetime">9/1/2016 15:17:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20160901_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160901_150000_Happening_Now/FOXNEWSW_20160901_150000_Happening_Now.thumbs/FOXNEWSW_20160901_150000_Happening_Now_001047.jpg</field>
+<field name="snippet">william blodgett s is live in holland lulu with the details. the president is still sleeping but what he's going to do today is show in the most concrete way he can that climate change is real. he's going to do that by flying to one of the most</field>
+</doc>
+</add>

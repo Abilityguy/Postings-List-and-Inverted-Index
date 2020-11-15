@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201509.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150925_090000_Fox_and_Friends_First#start/206/end/241</field>
+<field name="datetime">9/25/2015 9:03:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20150925_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150925_090000_Fox_and_Friends_First/FOXNEWSW_20150925_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20150925_090000_Fox_and_Friends_First_000195.jpg</field>
+<field name="snippet">of pope francis. he challenged our national leaders to work in unity to address the world's problems here and abroad. he addressed climate change saying we have to take better care of environment. he called for protection of</field>
+</doc>
+</add>

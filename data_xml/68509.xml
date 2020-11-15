@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201309.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130913_100000_FOX_and_Friends#start/4370/end/4405</field>
+<field name="datetime">9/13/2013 11:13:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20130913_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130913_100000_FOX_and_Friends/FOXNEWSW_20130913_100000_FOX_and_Friends.thumbs/FOXNEWSW_20130913_100000_FOX_and_Friends_004365.jpg</field>
+<field name="snippet">steve: the government offering teachers free lesson plans on climate change! details straight ahead, live from new york city on this friday the 13th  turn around</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201402.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140217_090000_Meet_the_Press#start/1365/end/1400</field>
+<field name="datetime">2/17/2014 9:23:00</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20140217_090000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140217_090000_Meet_the_Press/MSNBCW_20140217_090000_Meet_the_Press.thumbs/MSNBCW_20140217_090000_Meet_the_Press_001366.jpg</field>
+<field name="snippet">scientific uncertainty, in this case about cold weather events and what we call back east, are -- is the same as uncertainty about the whole idea of climate change. and this is unscientific. it's not logical.</field>
+</doc>
+</add>

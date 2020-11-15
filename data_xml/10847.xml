@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190803_110000_BBC_News#start/1239/end/1274</field>
+<field name="datetime">8/3/2019 11:20:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190803_110000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190803_110000_BBC_News/BBCNEWS_20190803_110000_BBC_News.thumbs/BBCNEWS_20190803_110000_BBC_News_001227.jpg</field>
+<field name="snippet">what do we know about it? we know that some species are reducing numbers, and those with gardens or window boxes will see a reduction in certain species at certain times of the year, so overall the picture is not good, mainly due climate change,</field>
+</doc>
+</add>

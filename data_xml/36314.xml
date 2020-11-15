@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201912.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191230_000000_Kasie_DC#start/5271/end/5306</field>
+<field name="datetime">12/30/2019 1:28:06</field>
+<field name="station">MSNBC</field>
+<field name="show">Kasie DC</field>
+<field name="showid">MSNBCW_20191230_000000_Kasie_DC</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191230_000000_Kasie_DC/MSNBCW_20191230_000000_Kasie_DC.thumbs/MSNBCW_20191230_000000_Kasie_DC_005247.jpg</field>
+<field name="snippet">from the worst flooding the city has experienced in years. the venetian council voted against a measure to fight against climate change. one of the leading faces in the climate fight, 16-year-old greta thunberg being named time magazine's person of the year.</field>
+</doc>
+</add>

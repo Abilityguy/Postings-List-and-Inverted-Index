@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191120_220000_BBC_News_at_Ten#start/706/end/741</field>
+<field name="datetime">11/20/2019 22:12:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20191120_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191120_220000_BBC_News_at_Ten/BBCNEWS_20191120_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20191120_220000_BBC_News_at_Ten_000687.jpg</field>
+<field name="snippet">jo swinson has launched her party's ma nifesto. there's a promise to stop brexit and to build what they call a new future for the uk inside the european union. the party claims that staying in the eu will give a £50 billion boost to spend on public services. and on climate change, they're setting a target</field>
+</doc>
+</add>

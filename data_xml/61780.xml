@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201409.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140923_220000_Special_Report_With_Bret_Baier#start/1107/end/1142</field>
+<field name="datetime">9/23/2014 22:18:42</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20140923_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140923_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20140923_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20140923_220000_Special_Report_With_Bret_Baier_001095.jpg</field>
+<field name="snippet">we must set the world on a due course, climate change is a defining issue of our age. reporter: the last attempt to hammer out an agreement in copenhagen failed and china the world's largest greenhouse gas</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201701.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170111_150000_MSNBC_Live_With_Hallie_Jackson#start/1234/end/1269</field>
+<field name="datetime">1/11/2017 15:20:49</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Hallie Jackson</field>
+<field name="showid">MSNBCW_20170111_150000_MSNBC_Live_With_Hallie_Jackson</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170111_150000_MSNBC_Live_With_Hallie_Jackson/MSNBCW_20170111_150000_MSNBC_Live_With_Hallie_Jackson.thumbs/MSNBCW_20170111_150000_MSNBC_Live_With_Hallie_Jackson_001227.jpg</field>
+<field name="snippet">states should continue in international leadership on climate change issues with the international community? i think it's important that the united states maintain its seat at the table on the conversations around how to address threats of climate change, which do require a</field>
+</doc>
+</add>

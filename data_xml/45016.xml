@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201909.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190920_190000_MSNBC_Live_With_Ali_Velshi#start/1988/end/2023</field>
+<field name="datetime">9/20/2019 19:33:23</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190920_190000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190920_190000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190920_190000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190920_190000_MSNBC_Live_With_Ali_Velshi_001979.jpg</field>
+<field name="snippet">to bring in susie hicks who is out here protesting. nice to meet you. nice to meet you too. what brings you out here today? you're one of thousands people. why climate change? why has that brought you out? climate change is already</field>
+</doc>
+</add>

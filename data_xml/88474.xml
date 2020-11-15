@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190612_080000_BBC_News_at_Nine#start/2060/end/2095</field>
+<field name="datetime">6/12/2019 8:34:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190612_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190612_080000_BBC_News_at_Nine/BBCNEWS_20190612_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190612_080000_BBC_News_at_Nine_002037.jpg</field>
+<field name="snippet">white-matter time now for the morning briefing, as we offer you on the stories that people are watching, reading and sharing. the uk is promising to reduce greenhouse gas emissions to net zero by 2050 - under a new government plan to tackle climate change. it means emissions will either have</field>
+</doc>
+</add>

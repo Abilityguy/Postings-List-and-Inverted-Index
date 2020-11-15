@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201203.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120315_220000_PoliticsNation#start/1863/end/1898</field>
+<field name="datetime">3/15/2012 22:31:18</field>
+<field name="station">MSNBC</field>
+<field name="show">PoliticsNation</field>
+<field name="showid">MSNBCW_20120315_220000_PoliticsNation</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120315_220000_PoliticsNation/MSNBCW_20120315_220000_PoliticsNation.thumbs/MSNBCW_20120315_220000_PoliticsNation_001856.jpg</field>
+<field name="snippet">climate change is happening. i'll trust them, not pat robertson. but what's really funny is that robertson used to think global warming was a serious issue. in fact, he and i made a public service ad about it in 2008.</field>
+</doc>
+</add>

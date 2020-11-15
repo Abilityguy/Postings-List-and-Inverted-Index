@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191116_140000_BBC_News#start/55/end/90</field>
+<field name="datetime">11/16/2019 14:01:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191116_140000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191116_140000_BBC_News/BBCNEWS_20191116_140000_BBC_News.thumbs/BBCNEWS_20191116_140000_BBC_News_000028.jpg</field>
+<field name="snippet">an investigation is under way into the cause of a fire at a student accommodation building in bolton after more than 200 firefighters spent nine hours putting it out. competing on climate change policies, the conservatives say they will plant 30 million trees</field>
+</doc>
+</add>

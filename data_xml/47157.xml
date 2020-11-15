@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201101.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110117_230000_The_Ed_Show#start/1315/end/1350</field>
+<field name="datetime">1/17/2011 23:22:10</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBC_20110117_230000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20110117_230000_The_Ed_Show/MSNBC_20110117_230000_The_Ed_Show.thumbs/MSNBC_20110117_230000_The_Ed_Show_001315.jpg</field>
+<field name="snippet">congress' inaction on so many issues, climate change, mayor ve on the streets, we have to do this on our own. we need the community development block grant, we need</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191207_140000_BBC_News#start/702/end/737</field>
+<field name="datetime">12/7/2019 14:11:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191207_140000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191207_140000_BBC_News/BBCNEWS_20191207_140000_BBC_News.thumbs/BBCNEWS_20191207_140000_BBC_News_000688.jpg</field>
+<field name="snippet">are diminishing oxygen levels in our oceans. that's the conclusion of the biggest study of its kind, undertaken by the group the international union for the conservation of nature. while nutrient run-off has been known for decades, researchers say that climate change is making the lack of oxygen worse and is having an impact</field>
+</doc>
+</add>

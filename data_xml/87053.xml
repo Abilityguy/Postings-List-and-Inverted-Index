@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191230_113000_Weather_World#start/950/end/985</field>
+<field name="datetime">12/30/2019 11:46:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20191230_113000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191230_113000_Weather_World/BBCNEWS_20191230_113000_Weather_World.thumbs/BBCNEWS_20191230_113000_Weather_World_000927.jpg</field>
+<field name="snippet">rainfall sent some rivers to their highest levels ever recorded. extinction! rebellion! during 2019, public protest and direct action about climate change reached new levels.</field>
+</doc>
+</add>

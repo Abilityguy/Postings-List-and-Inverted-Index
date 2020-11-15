@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191130_060000_Breakfast#start/4182/end/4217</field>
+<field name="datetime">11/30/2019 7:09:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191130_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191130_060000_Breakfast/BBCNEWS_20191130_060000_Breakfast.thumbs/BBCNEWS_20191130_060000_Breakfast_004168.jpg</field>
+<field name="snippet">brexit, the nhs and climate change. welcome to cardiff and the national assembly for wales. in a fractious political period, last night's debate began on a sober note.</field>
+</doc>
+</add>

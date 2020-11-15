@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190123_020000_BBC_News#start/1135/end/1170</field>
+<field name="datetime">1/23/2019 2:19:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190123_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190123_020000_BBC_News/BBCNEWS_20190123_020000_BBC_News.thumbs/BBCNEWS_20190123_020000_BBC_News_001107.jpg</field>
+<field name="snippet">in the swiss resort of davos. our diplomatic correspondent, james landale was there. davos - playground for the rich and conference hall for the powerful. but look who's also here, a first-time visitor come to discuss climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201201.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120127_000000_The_FOX_Report_With_Shepard_Smith#start/3208/end/3243</field>
+<field name="datetime">1/27/2012 0:53:43</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The FOX Report With Shepard Smith</field>
+<field name="showid">FOXNEWSW_20120127_000000_The_FOX_Report_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120127_000000_The_FOX_Report_With_Shepard_Smith/FOXNEWSW_20120127_000000_The_FOX_Report_With_Shepard_Smith.thumbs/FOXNEWSW_20120127_000000_The_FOX_Report_With_Shepard_Smith_003207.jpg</field>
+<field name="snippet">rivers running beneath antarctica's frozen surface. researchers say they are studying the effects of climate change in the region, and that's a wrap on this fox trip around the world in 80 seconds. around the world is brought to</field>
+</doc>
+</add>

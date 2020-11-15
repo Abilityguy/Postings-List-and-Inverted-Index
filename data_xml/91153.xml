@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190611_040000_Tucker_Carlson_Tonight#start/2223/end/2258</field>
+<field name="datetime">6/11/2019 4:37:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190611_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190611_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190611_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190611_040000_Tucker_Carlson_Tonight_002218.jpg</field>
+<field name="snippet">latest target in the crusade against global warming. you shouldn't ride it. how long till we get a solar powered airplane? we look into the subject and get the details next.</field>
+</doc>
+</add>

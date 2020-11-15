@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191018_073000_Worklife#start/72/end/107</field>
+<field name="datetime">10/18/2019 7:31:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Worklife</field>
+<field name="showid">BBCNEWS_20191018_073000_Worklife</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191018_073000_Worklife/BBCNEWS_20191018_073000_Worklife.thumbs/BBCNEWS_20191018_073000_Worklife_000059.jpg</field>
+<field name="snippet">the inside track on the s-word, sustainability, it's a business buzzword for yonks, but is itjust about climate change and why should companies care? we'll find out later.</field>
+</doc>
+</add>

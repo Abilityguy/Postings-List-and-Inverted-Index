@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_110000_FOX_and_Friends#start/172/end/207</field>
+<field name="datetime">12/18/2009 11:03:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091218_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_110000_FOX_and_Friends/FOXNEWS_20091218_110000_FOX_and_Friends.thumbs/FOXNEWS_20091218_110000_FOX_and_Friends_000173.jpg</field>
+<field name="snippet">change front -- climate change front. brian: i just think somehow they'll find a way to blame us. a lot of people are talking about the fact that we might be on the hook for $100 billion. that was mentioned. what's the truth?</field>
+</doc>
+</add>

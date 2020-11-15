@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091207_230000_Special_Report_With_Bret_Baier#start/306/end/341</field>
+<field name="datetime">12/7/2009 23:05:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091207_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091207_230000_Special_Report_With_Bret_Baier/FOXNEWS_20091207_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091207_230000_Special_Report_With_Bret_Baier_000296.jpg</field>
+<field name="snippet">the president is raising the stakes by going in at the end. he may not achieve much on climate change but there is certain political logic to it anyway. bret: what do you think of the politics behind this finding from the epa today? i think that principally is</field>
+</doc>
+</add>

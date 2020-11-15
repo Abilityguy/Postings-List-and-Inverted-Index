@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191210_220000_BBC_News_at_Ten#start/1724/end/1759</field>
+<field name="datetime">12/10/2019 22:28:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20191210_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191210_220000_BBC_News_at_Ten/BBCNEWS_20191210_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20191210_220000_BBC_News_at_Ten_001708.jpg</field>
+<field name="snippet">the situation is dire enough to push global sea levels up and put more people at risk due to coastal flooding. 0ur science editor, david shukman, is in madrid for a un conference on climate change, and he's sent us this report. as the world heats up,</field>
+</doc>
+</add>

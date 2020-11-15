@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091204_020000_The_Rachel_Maddow_Show#start/3087/end/3122</field>
+<field name="datetime">12/4/2009 2:51:42</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBC_20091204_020000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20091204_020000_The_Rachel_Maddow_Show/MSNBC_20091204_020000_The_Rachel_Maddow_Show.thumbs/MSNBC_20091204_020000_The_Rachel_Maddow_Show_003054.jpg</field>
+<field name="snippet">inhofe also famously declared that global warming is, quote, the second largest hoax ever played on the american people, after the separation of church and state. it's not whether or not we're going through a global warming period. we were. we're not now. you know, god is still up there. we're now going through a</field>
+</doc>
+</add>

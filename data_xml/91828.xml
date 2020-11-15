@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190709_200000_Your_World_With_Neil_Cavuto#start/3090/end/3125</field>
+<field name="datetime">7/9/2019 20:51:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20190709_200000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190709_200000_Your_World_With_Neil_Cavuto/FOXNEWSW_20190709_200000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20190709_200000_Your_World_With_Neil_Cavuto_002909.jpg</field>
+<field name="snippet">i'm real! he thinks he's real. geico. over 75 years of savings and service. neil: keen to be green. congresswoman ocasio-cortez, center bernie sanders heating up to introduce a resolution declaring climate change is an emergency after the green new</field>
+</doc>
+</add>

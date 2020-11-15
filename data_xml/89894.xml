@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201401.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140131_190000_NewsNation#start/492/end/527</field>
+<field name="datetime">1/31/2014 19:08:27</field>
+<field name="station">MSNBC</field>
+<field name="show">NewsNation</field>
+<field name="showid">MSNBCW_20140131_190000_NewsNation</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140131_190000_NewsNation/MSNBCW_20140131_190000_NewsNation.thumbs/MSNBCW_20140131_190000_NewsNation_000465.jpg</field>
+<field name="snippet">we know back in june of 2013 of last year, the president said this project could only be approved if it didn't significantly exacerbate the problem of climate change. that's going to leave a lot of people to conclude that if this</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201401.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140110_060000_Hannity#start/2675/end/2710</field>
+<field name="datetime">1/10/2014 6:44:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20140110_060000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140110_060000_Hannity/FOXNEWSW_20140110_060000_Hannity.thumbs/FOXNEWSW_20140110_060000_Hannity_002655.jpg</field>
+<field name="snippet">extreme cold spells like the one that we're having in the united states now disproves global warming, don't believe it. i believe the odds are we can expect as a result of global warming to see more of this pattern of extreme cold in the</field>
+</doc>
+</add>

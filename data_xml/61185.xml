@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201503.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150320_210000_The_Ed_Show#start/3585/end/3620</field>
+<field name="datetime">3/20/2015 22:00:00</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20150320_210000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150320_210000_The_Ed_Show/MSNBCW_20150320_210000_The_Ed_Show.thumbs/MSNBCW_20150320_210000_The_Ed_Show_003585.jpg</field>
+<field name="snippet">service. senator, i hope you and others run as well. we need the debate in this country, no question about it. i appreciate your time tonight, bernie sanders thanks so much senator. and we of course have been down here in florida all week long working on a climate change</field>
+</doc>
+</add>

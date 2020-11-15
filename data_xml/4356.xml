@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201302.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130211_160000_Happening_Now#start/2381/end/2416</field>
+<field name="datetime">2/11/2013 16:39:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20130211_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130211_160000_Happening_Now/FOXNEWSW_20130211_160000_Happening_Now.thumbs/FOXNEWSW_20130211_160000_Happening_Now_002355.jpg</field>
+<field name="snippet">poll-tested platitudes like he did in the inauguration where he talked about gay rights, global warming, immigration, those things matter to a lot of people, but not everyone. people are worried about does he try to cut spending and the deficit, and if so, i think</field>
+</doc>
+</add>

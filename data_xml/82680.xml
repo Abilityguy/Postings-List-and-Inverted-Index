@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201509.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150922_190000_Shepard_Smith_Reporting#start/3350/end/3385</field>
+<field name="datetime">9/22/2015 19:56:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20150922_190000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150922_190000_Shepard_Smith_Reporting/FOXNEWSW_20150922_190000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20150922_190000_Shepard_Smith_Reporting_003345.jpg</field>
+<field name="snippet">greeting point today. this is a pope that talks about income redistribution, that talks very passionately about climate change, who is trying to deemphasize the roman catholics position, the church's position on gay marriage and divorce. these are all points that he</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191009_223000_The_Papers#start/380/end/415</field>
+<field name="datetime">10/9/2019 22:36:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Papers</field>
+<field name="showid">BBCNEWS_20191009_223000_The_Papers</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191009_223000_The_Papers/BBCNEWS_20191009_223000_The_Papers.thumbs/BBCNEWS_20191009_223000_The_Papers_000358.jpg</field>
+<field name="snippet">the guardian's cover teases a special investigation into the companies driving climate change, revealing the 20 firms behind a third of all carbon emissions. and the daily mail concentrating on falling rates of uptake for the mmr vaccine, issuing a plea for parents to 'give them theirjab'.</field>
+</doc>
+</add>

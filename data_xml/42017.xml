@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201301.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130123_080000_The_Ed_Show#start/1800/end/1835</field>
+<field name="datetime">1/23/2013 8:30:15</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20130123_080000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130123_080000_The_Ed_Show/MSNBCW_20130123_080000_The_Ed_Show.thumbs/MSNBCW_20130123_080000_The_Ed_Show_001695.jpg</field>
+<field name="snippet">has the political capital to set his agenda and get things done in his second term. the president's inaugural address set the stage for action on a number of critical issues, from climate change to immigration reform. he stressed the importance of protecting the middle class, and said now is the time to act. for now decisions are upon us, and we cannot afford delay. we cannot mistake absolutism for principle or institute spectacle</field>
+</doc>
+</add>

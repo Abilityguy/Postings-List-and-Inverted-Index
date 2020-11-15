@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201211.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121102_100000_Morning_Joe#start/5224/end/5259</field>
+<field name="datetime">11/2/2012 11:27:19</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20121102_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121102_100000_Morning_Joe/MSNBCW_20121102_100000_Morning_Joe.thumbs/MSNBCW_20121102_100000_Morning_Joe_005220.jpg</field>
+<field name="snippet">we face climate change needs that require government response on the scale of the federal government. and i think it's not just mayor bloomberg, but other people who are looking at this in the final days and saying hey, this has some impact here on how i live and ultimately how i may vote.</field>
+</doc>
+</add>

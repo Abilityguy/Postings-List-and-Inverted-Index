@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201306.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130626_010000_Hannity#start/1182/end/1217</field>
+<field name="datetime">6/26/2013 1:19:57</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20130626_010000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130626_010000_Hannity/FOXNEWSW_20130626_010000_Hannity.thumbs/FOXNEWSW_20130626_010000_Hannity_001155.jpg</field>
+<field name="snippet">with something like iran this is not quite at that level, so we shouldn't elevate it to that. thank you, guys. climate change. an issue that americans view as one of the least important problems we face as a country.</field>
+</doc>
+</add>

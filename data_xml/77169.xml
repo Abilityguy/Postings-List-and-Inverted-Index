@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191118_033000_Dateline_London#start/1086/end/1121</field>
+<field name="datetime">11/18/2019 3:48:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Dateline London</field>
+<field name="showid">BBCNEWS_20191118_033000_Dateline_London</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191118_033000_Dateline_London/BBCNEWS_20191118_033000_Dateline_London.thumbs/BBCNEWS_20191118_033000_Dateline_London_001078.jpg</field>
+<field name="snippet">in terms of climate change, environmental policies, i don't see it is such a big topic in the british campaign - which is surprising because the extinction rebellion, which is such a successful movement, actually comes from here, has been very fierce here, very popular. and, in fact, climate change</field>
+</doc>
+</add>

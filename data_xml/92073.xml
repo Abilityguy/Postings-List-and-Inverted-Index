@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170803_060000_Tucker_Carlson_Tonight#start/3427/end/3462</field>
+<field name="datetime">8/3/2017 6:57:22</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20170803_060000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170803_060000_Tucker_Carlson_Tonight/FOXNEWSW_20170803_060000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20170803_060000_Tucker_Carlson_Tonight_003417.jpg</field>
+<field name="snippet">al gore's back. he just put out his new anti-global warming documentary. it is called 'an inconvenient sequel.' like his previous film, he warns about interplanetary catastrophe if everybody doesn't start using less energy and throwing off less carbon.</field>
+</doc>
+</add>

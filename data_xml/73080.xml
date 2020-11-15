@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190104_210000_World_News_Today#start/895/end/930</field>
+<field name="datetime">1/4/2019 21:15:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190104_210000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190104_210000_World_News_Today/BBCNEWS_20190104_210000_World_News_Today.thumbs/BBCNEWS_20190104_210000_World_News_Today_000897.jpg</field>
+<field name="snippet">more evidence, people here believe, that climate change is starting in earnest. john simpson, bbc news.</field>
+</doc>
+</add>

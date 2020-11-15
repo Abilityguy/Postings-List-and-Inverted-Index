@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190326_130000_BBC_News_at_One#start/1540/end/1575</field>
+<field name="datetime">3/26/2019 13:25:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190326_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190326_130000_BBC_News_at_One/BBCNEWS_20190326_130000_BBC_News_at_One.thumbs/BBCNEWS_20190326_130000_BBC_News_at_One_001528.jpg</field>
+<field name="snippet">nearly 60000 people have signed their online petition from all over the planet, proving the demand for action on climate change is really hotting up. katharine da costa, bbc news, in oxfordshire.</field>
+</doc>
+</add>

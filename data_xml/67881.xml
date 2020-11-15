@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190203_060000_Breakfast#start/2972/end/3007</field>
+<field name="datetime">2/3/2019 6:49:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190203_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190203_060000_Breakfast/BBCNEWS_20190203_060000_Breakfast.thumbs/BBCNEWS_20190203_060000_Breakfast_002967.jpg</field>
+<field name="snippet">despite the resort's high altitude, like many others, it had to delay the start of its season by a couple of weeks due to lack of snow. across the world, global warming is shortening the ski season,</field>
+</doc>
+</add>

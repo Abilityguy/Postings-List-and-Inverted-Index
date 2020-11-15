@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190419_080000_BBC_News#start/1032/end/1067</field>
+<field name="datetime">4/19/2019 8:17:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190419_080000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190419_080000_BBC_News/BBCNEWS_20190419_080000_BBC_News.thumbs/BBCNEWS_20190419_080000_BBC_News_001017.jpg</field>
+<field name="snippet">as 500 climate change protestors have now been arrested across london police promise a 'robust' response if they target heathrow airport. network rail warns of disruption on the west coast main line from london to glasgow</field>
+</doc>
+</add>

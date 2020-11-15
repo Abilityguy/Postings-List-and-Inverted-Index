@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191106_200000_BBC_News#start/192/end/227</field>
+<field name="datetime">11/6/2019 20:03:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191106_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191106_200000_BBC_News/BBCNEWS_20191106_200000_BBC_News.thumbs/BBCNEWS_20191106_200000_BBC_News_000177.jpg</field>
+<field name="snippet">send your kids to school, to start a business, the place that leads the world in clean, green technology and tackling climate change and greenhouse gases. let's get brexit done, my friends, and get on with oui' our project of sensible, moderate</field>
+</doc>
+</add>

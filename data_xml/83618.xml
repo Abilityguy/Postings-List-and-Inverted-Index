@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190418_190000_BBC_News#start/1288/end/1323</field>
+<field name="datetime">4/18/2019 19:21:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190418_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190418_190000_BBC_News/BBCNEWS_20190418_190000_BBC_News.thumbs/BBCNEWS_20190418_190000_BBC_News_001288.jpg</field>
+<field name="snippet">from central london to heathrow airport tomorrow - just as the easter get away begins. extinction rebellion are calling for the government to reduce the uk's greenhouse gas emissions to zero by 2025. 0ur science correspondent rebecca morelle reports, and a warning - this report contains                 _</field>
+</doc>
+</add>

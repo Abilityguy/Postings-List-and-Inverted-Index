@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190530_200000_Outside_Source#start/3006/end/3041</field>
+<field name="datetime">5/30/2019 20:50:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20190530_200000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190530_200000_Outside_Source/BBCNEWS_20190530_200000_Outside_Source.thumbs/BBCNEWS_20190530_200000_Outside_Source_002998.jpg</field>
+<field name="snippet">climate change played a big part in their deaths. the bodies of dead puffins started washing up on the coast of saint paul island in 2016, with us scientists saying around 9000 sea birds died over a few months. they were emaciated, and the scientists believe the birds</field>
+</doc>
+</add>

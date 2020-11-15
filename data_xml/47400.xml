@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201209.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120925_210000_The_Five#start/150/end/185</field>
+<field name="datetime">9/25/2012 21:02:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20120925_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120925_210000_The_Five/FOXNEWSW_20120925_210000_The_Five.thumbs/FOXNEWSW_20120925_210000_The_Five_000147.jpg</field>
+<field name="snippet">dana: i didn't deal a lot with the u.n. except for climate change. but they said everybody should make time for whoopi. greg: true. possibly pay for it. unusual. all this talk about obama skipping intel briefings is a farce. 'the view' is an intel</field>
+</doc>
+</add>

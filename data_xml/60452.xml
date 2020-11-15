@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181004_210000_BBC_News_at_Ten#start/1400/end/1435</field>
+<field name="datetime">10/4/2018 21:23:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20181004_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181004_210000_BBC_News_at_Ten/BBCNEWS_20181004_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20181004_210000_BBC_News_at_Ten_001378.jpg</field>
+<field name="snippet">'climate change is getting worse,' says this man. 'and the water level is rising so fast we don't have time 'to build defences.' the threat is felt throughout the mekong delta. in the city of can tho, we found this flood barrier</field>
+</doc>
+</add>

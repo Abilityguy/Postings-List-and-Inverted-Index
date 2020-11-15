@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201610.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161011_190000_MSNBC_Live#start/2125/end/2160</field>
+<field name="datetime">10/11/2016 19:35:40</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20161011_190000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161011_190000_MSNBC_Live/MSNBCW_20161011_190000_MSNBC_Live.thumbs/MSNBCW_20161011_190000_MSNBC_Live_002128.jpg</field>
+<field name="snippet">america's efforts to negotiate the kyoto protocol to cut greenhouse gas emissions and -- [ cheers and applause ] you take all this together,</field>
+</doc>
+</add>

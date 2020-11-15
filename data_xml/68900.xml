@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201003.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100327_150000_MSNBC_News_Live#start/705/end/740</field>
+<field name="datetime">3/27/2010 15:12:00</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100327_150000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100327_150000_MSNBC_News_Live/MSNBC_20100327_150000_MSNBC_News_Live.thumbs/MSNBC_20100327_150000_MSNBC_News_Live_000687.jpg</field>
+<field name="snippet">sydney, australia. 1 of more than 4000 cities turning out the lights at 8:30 p.m. for an hour. they're drawing attention to saving energy and the fight against climate change. this is sponsored by the world wildlife fund. a florida woman got a lot</field>
+</doc>
+</add>

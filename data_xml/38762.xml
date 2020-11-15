@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201010.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101012_100000_FOX_and_Friends#start/7773/end/7808</field>
+<field name="datetime">10/12/2010 12:09:48</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20101012_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101012_100000_FOX_and_Friends/FOXNEWS_20101012_100000_FOX_and_Friends.thumbs/FOXNEWS_20101012_100000_FOX_and_Friends_007759.jpg</field>
+<field name="snippet">trading that stock. gretchen: i want to move to this topic. there's a prominent professor who says global warming is a complete scam and it's actually ruining real science. what do you know about this? the american physical society, which is what this particular professor was</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190218_190000_Beyond_100_Days#start/1751/end/1786</field>
+<field name="datetime">2/18/2019 19:29:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20190218_190000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190218_190000_Beyond_100_Days/BBCNEWS_20190218_190000_Beyond_100_Days.thumbs/BBCNEWS_20190218_190000_Beyond_100_Days_001737.jpg</field>
+<field name="snippet">the paris agreement targets on climate change - and in some cases the situation has got worse not better. the new research from the university of edinburgh helps explain why democrats launched here in the us launched their ambitious green new deal to fight global warming. there is little chance</field>
+</doc>
+</add>

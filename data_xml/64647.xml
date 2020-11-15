@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201612.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161214_160000_MSNBC_Live_With_Tamron_Hall#start/375/end/410</field>
+<field name="datetime">12/14/2016 16:06:30</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Tamron Hall</field>
+<field name="showid">MSNBCW_20161214_160000_MSNBC_Live_With_Tamron_Hall</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161214_160000_MSNBC_Live_With_Tamron_Hall/MSNBCW_20161214_160000_MSNBC_Live_With_Tamron_Hall.thumbs/MSNBCW_20161214_160000_MSNBC_Live_With_Tamron_Hall_000357.jpg</field>
+<field name="snippet">series of these nominations that are now going to get a lot of focus for the positions they take on issues of energy and national resources and also climate change. and the positions in two cases that they've taken against the agency they want to lead.</field>
+</doc>
+</add>

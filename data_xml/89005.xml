@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190604_073000_BBC_Business_Live#start/1838/end/1873</field>
+<field name="datetime">6/4/2019 8:00:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Business Live</field>
+<field name="showid">BBCNEWS_20190604_073000_BBC_Business_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190604_073000_BBC_Business_Live/BBCNEWS_20190604_073000_BBC_Business_Live.thumbs/BBCNEWS_20190604_073000_BBC_Business_Live_001828.jpg</field>
+<field name="snippet">is meeting business leaders before holding talks with theresa may and her senior ministers to discuss climate change, huawei and iran. i'm joanna gosling at buckingham palace, where president trump is due to arrive shortly to begin</field>
+</doc>
+</add>

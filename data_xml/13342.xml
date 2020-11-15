@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201111.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111114_220000_The_Five#start/593/end/628</field>
+<field name="datetime">11/14/2011 22:10:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20111114_220000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111114_220000_The_Five/FOXNEWSW_20111114_220000_The_Five.thumbs/FOXNEWSW_20111114_220000_The_Five_000570.jpg</field>
+<field name="snippet">i bob: i consider it anti-american. dana: you will be arguing globalization is -- bob: part of that is true! eric: no global warming is laziness. we have to leave it there.</field>
+</doc>
+</add>

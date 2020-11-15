@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171218_170000_BBC_News_at_Five#start/3183/end/3218</field>
+<field name="datetime">12/18/2017 17:53:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20171218_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171218_170000_BBC_News_at_Five/BBCNEWS_20171218_170000_BBC_News_at_Five.thumbs/BBCNEWS_20171218_170000_BBC_News_at_Five_003178.jpg</field>
+<field name="snippet">based on the america first slogan, the plan will have economic security at its core and will no longer recognise climate change as a threat, instead stressing the need to embrace energy dominance. mark cancian is a senior adviser</field>
+</doc>
+</add>

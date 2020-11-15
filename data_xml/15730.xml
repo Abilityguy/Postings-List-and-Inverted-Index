@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201112.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111230_030000_Greta_Van_Susteren#start/220/end/255</field>
+<field name="datetime">12/30/2011 3:03:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Greta Van Susteren</field>
+<field name="showid">FOXNEWSW_20111230_030000_Greta_Van_Susteren</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111230_030000_Greta_Van_Susteren/FOXNEWSW_20111230_030000_Greta_Van_Susteren.thumbs/FOXNEWSW_20111230_030000_Greta_Van_Susteren_000206.jpg</field>
+<field name="snippet">the green energy stuff -- that's all a hoax and a fraud, based on another hoax and a fraud, global warming. you know, i do -- get interested in motivation, you know, why politicians do things they do, what motivatings them.</field>
+</doc>
+</add>

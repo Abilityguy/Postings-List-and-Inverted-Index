@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201106.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110616_040000_Hannity#start/2800/end/2835</field>
+<field name="datetime">6/16/2011 4:46:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20110616_040000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110616_040000_Hannity/FOXNEWS_20110616_040000_Hannity.thumbs/FOXNEWS_20110616_040000_Hannity_002790.jpg</field>
+<field name="snippet">if it is hot it is global warming. if it is cold it is global warming. if it hails it is global warming. gingrich and romney are saying it is happening, are you behind them? sean: i disagree. i believe man has an impact on</field>
+</doc>
+</add>

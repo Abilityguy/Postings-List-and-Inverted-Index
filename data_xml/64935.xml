@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190327_100000_FOX__Friends#start/4770/end/4805</field>
+<field name="datetime">3/27/2019 11:19:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20190327_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190327_100000_FOX__Friends/FOXNEWSW_20190327_100000_FOX__Friends.thumbs/FOXNEWSW_20190327_100000_FOX__Friends_004769.jpg</field>
+<field name="snippet">environmental science. on cleaning up the environment. on reducing emissions of all kinds of things, including but not limited to greenhouse gases. the effect is we have made tremendous strides. those strides have been brought about through human beings. through american ingenuity</field>
+</doc>
+</add>

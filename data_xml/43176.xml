@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090903_060000_Glenn_Beck#start/934/end/969</field>
+<field name="datetime">9/3/2009 6:15:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20090903_060000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090903_060000_Glenn_Beck/FOXNEWS_20090903_060000_Glenn_Beck.thumbs/FOXNEWS_20090903_060000_Glenn_Beck_000926.jpg</field>
+<field name="snippet">a coal-fired plant, they can, it's just that it will bankrupt them because they're going to be charged a huge sum for all that greenhouse gas that's being admitted. how about joe bietdzen? he promised no coal in america.</field>
+</doc>
+</add>

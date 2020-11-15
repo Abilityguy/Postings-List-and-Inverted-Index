@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190519_120000_BBC_News#start/705/end/740</field>
+<field name="datetime">5/19/2019 12:12:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190519_120000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190519_120000_BBC_News/BBCNEWS_20190519_120000_BBC_News.thumbs/BBCNEWS_20190519_120000_BBC_News_000688.jpg</field>
+<field name="snippet">everyone wants to sound green on climate change. it's bringing people over to us. but people will have heard this before from the big parties and they know that we're the ones they can't rely on to take the very fierce action, to have the political will to put the real investment into new industries, but also to challenge the old industries.</field>
+</doc>
+</add>

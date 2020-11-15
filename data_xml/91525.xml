@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191203_050000_Tucker_Carlson_Tonight#start/2267/end/2302</field>
+<field name="datetime">12/3/2019 5:38:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20191203_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191203_050000_Tucker_Carlson_Tonight/FOXNEWSW_20191203_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20191203_050000_Tucker_Carlson_Tonight_002039.jpg</field>
+<field name="snippet">john kerry told us the other day it's time to treat climate change as seriously as the. tucker: the left wants power as you know, that's a given. that's the whole reason for existing, really.</field>
+</doc>
+</add>

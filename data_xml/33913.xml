@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091220_050000_Red_Eye#start/357/end/392</field>
+<field name="datetime">12/20/2009 5:06:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20091220_050000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091220_050000_Red_Eye/FOXNEWS_20091220_050000_Red_Eye.thumbs/FOXNEWS_20091220_050000_Red_Eye_000356.jpg</field>
+<field name="snippet">greg: they have no powers. jesse, do you have any sympathy at all for the protesters out there in the freezing cold during a global warming conference? greg, i got to say this because it happens every time and i want to point out that is the conclusion that you draw at the end of your greg-alogue</field>
+</doc>
+</add>

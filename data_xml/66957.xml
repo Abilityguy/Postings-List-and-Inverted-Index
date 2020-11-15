@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140513_060000_Hardball_With_Chris_Matthews#start/1820/end/1855</field>
+<field name="datetime">5/13/2014 6:30:35</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball With Chris Matthews</field>
+<field name="showid">MSNBCW_20140513_060000_Hardball_With_Chris_Matthews</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140513_060000_Hardball_With_Chris_Matthews/MSNBCW_20140513_060000_Hardball_With_Chris_Matthews.thumbs/MSNBCW_20140513_060000_Hardball_With_Chris_Matthews_001816.jpg</field>
+<field name="snippet">now the latest high profile republican to question the cause of global warming. but rubio's political posturing on the issue is no match for john oliver who lost night pointed out how absurd the so-called debate over climate change really is.</field>
+</doc>
+</add>

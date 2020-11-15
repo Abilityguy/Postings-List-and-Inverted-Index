@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200909.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20090904_150000_MSNBC_News_Live#start/3077/end/3112</field>
+<field name="datetime">9/4/2009 15:51:32</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20090904_150000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20090904_150000_MSNBC_News_Live/MSNBC_20090904_150000_MSNBC_News_Live.thumbs/MSNBC_20090904_150000_MSNBC_News_Live_003056.jpg</field>
+<field name="snippet">the climate change debate. this is the other big priority that got pushed aside and then, of course, the main thing is trying to reset and reenergize the health care debate to prove to congressional liberals that there can be reform without this</field>
+</doc>
+</add>

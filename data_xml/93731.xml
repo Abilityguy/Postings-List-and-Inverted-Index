@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190726_010000_BBC_News#start/921/end/956</field>
+<field name="datetime">7/26/2019 1:15:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190726_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190726_010000_BBC_News/BBCNEWS_20190726_010000_BBC_News.thumbs/BBCNEWS_20190726_010000_BBC_News_000898.jpg</field>
+<field name="snippet">by a meteorological effect known as the omega block. which is a massive area of high pressure that acts like a lid over the entire continent, trapping hot airfrom north africa. experts are pointing to the link between extreme weather and climate change. our science correspondent</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201211.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121101_150000_MSNBC_Live#start/1426/end/1461</field>
+<field name="datetime">11/1/2012 15:24:01</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20121101_150000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121101_150000_MSNBC_Live/MSNBCW_20121101_150000_MSNBC_Live.thumbs/MSNBCW_20121101_150000_MSNBC_Live_001408.jpg</field>
+<field name="snippet">single metric we have right now is telling us that climate change isn't some abstraction in the future we need to worry about and prepare for. it is happening now. it is out the door. there are two things that need to happen politically. we need a radical, crash program</field>
+</doc>
+</add>

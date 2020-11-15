@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191207_220000_BBC_News#start/567/end/602</field>
+<field name="datetime">12/7/2019 22:09:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191207_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191207_220000_BBC_News/BBCNEWS_20191207_220000_BBC_News.thumbs/BBCNEWS_20191207_220000_BBC_News_000568.jpg</field>
+<field name="snippet">in terms of the impact, is there any measures that could reduce this? we are talking about mitigating effects from global warming but when we talk about the oceans and the loss of oxygen, how do you reoxygenate the ocean?</field>
+</doc>
+</add>

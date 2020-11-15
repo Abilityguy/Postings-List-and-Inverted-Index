@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090717_210000_Glenn_Beck#start/165/end/200</field>
+<field name="datetime">7/17/2009 21:03:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20090717_210000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090717_210000_Glenn_Beck/FOXNEWS_20090717_210000_Glenn_Beck.thumbs/FOXNEWS_20090717_210000_Glenn_Beck_000145.jpg</field>
+<field name="snippet">naacp resolution that passed saying this -- 'the naacp approved the resolution addressing climate change legislation for the first time in the organization's history.' what does that mean?</field>
+</doc>
+</add>

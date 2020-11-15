@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151210_040000_All_In_With_Chris_Hayes#start/2670/end/2705</field>
+<field name="datetime">12/10/2015 4:44:45</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20151210_040000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151210_040000_All_In_With_Chris_Hayes/MSNBCW_20151210_040000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20151210_040000_All_In_With_Chris_Hayes_002656.jpg</field>
+<field name="snippet">there are just three days left to hammer out a climate deal in paris. as much as people want to think the issue of climate change is someone else's problem in some far-flung location, this year we've seen one of the starkest examples yet of climate change here in the u.s. california is in its fourth year of a historic record-breaking</field>
+</doc>
+</add>

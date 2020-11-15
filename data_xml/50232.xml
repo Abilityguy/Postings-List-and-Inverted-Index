@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181206_010000_Tucker_Carlson_Tonight#start/2035/end/2070</field>
+<field name="datetime">12/6/2018 1:34:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20181206_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181206_010000_Tucker_Carlson_Tonight/FOXNEWSW_20181206_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20181206_010000_Tucker_Carlson_Tonight_002037.jpg</field>
+<field name="snippet">paris and throughout france. they are about climate change and they tell you a lot about the attitudes of the people in charge. we will investigate that after the break.</field>
+</doc>
+</add>

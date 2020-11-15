@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201610.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161031_030000_Special_Report_With_Bret_Baier#start/2099/end/2134</field>
+<field name="datetime">10/31/2016 3:35:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20161031_030000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161031_030000_Special_Report_With_Bret_Baier/FOXNEWSW_20161031_030000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20161031_030000_Special_Report_With_Bret_Baier_002097.jpg</field>
+<field name="snippet">another view. mother nature is giving us a clear and powerful message. reporter: two weeks ago former presidential candidate al gore who still champions climate change campaigned with clinton in miami on this issue.</field>
+</doc>
+</add>

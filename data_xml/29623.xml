@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201905.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190511_160000_Weekends_With_Alex_Witt#start/6731/end/6766</field>
+<field name="datetime">5/11/2019 17:52:26</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20190511_160000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190511_160000_Weekends_With_Alex_Witt/MSNBCW_20190511_160000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20190511_160000_Weekends_With_Alex_Witt_006719.jpg</field>
+<field name="snippet">this is where i start, i'm ready for this, because we have a message saying we need to face this existential threat to climate change. it is an existential threat to our economy, our health and our national security. i have the boldest, i believe,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201511.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151123_010000_Watters_World#start/817/end/852</field>
+<field name="datetime">11/23/2015 1:13:52</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Watters World</field>
+<field name="showid">FOXNEWSW_20151123_010000_Watters_World</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151123_010000_Watters_World/FOXNEWSW_20151123_010000_Watters_World.thumbs/FOXNEWSW_20151123_010000_Watters_World_000795.jpg</field>
+<field name="snippet">isiss? to drive a prius? how many people has climate change beheaded? can you name one person? i've never seen a climate change -- i've never seen a cloud behead somebody, a storm cloud or tornado, no.</field>
+</doc>
+</add>

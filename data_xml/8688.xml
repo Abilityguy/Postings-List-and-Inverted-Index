@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190920_090000_Fox_and_Friends_First#start/403/end/438</field>
+<field name="datetime">9/20/2019 9:06:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190920_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190920_090000_Fox_and_Friends_First/FOXNEWSW_20190920_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190920_090000_Fox_and_Friends_First_000388.jpg</field>
+<field name="snippet">action on climate change, one of hundreds of demonstrations taking place across the globe today. the global climate strikes kicking off in australia with tens of thousands of people filling the streets of sydney. all public schools in new york will excuse absences for students who skip class to protest.</field>
+</doc>
+</add>

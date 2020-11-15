@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201310.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20131016_130000_Americas_Newsroom#start/3343/end/3378</field>
+<field name="datetime">10/16/2013 13:55:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWSW_20131016_130000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20131016_130000_Americas_Newsroom/FOXNEWSW_20131016_130000_Americas_Newsroom.thumbs/FOXNEWSW_20131016_130000_Americas_Newsroom_003345.jpg</field>
+<field name="snippet">overfishing them, there is awful pollution, climate change is affecting ocean, depleting water even faster than the air, for species like this we don't even know what their populations are because they're so rare and so</field>
+</doc>
+</add>

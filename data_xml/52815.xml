@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180613_160000_BBC_News_at_Five#start/3324/end/3359</field>
+<field name="datetime">6/13/2018 16:55:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20180613_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180613_160000_BBC_News_at_Five/BBCNEWS_20180613_160000_BBC_News_at_Five.thumbs/BBCNEWS_20180613_160000_BBC_News_at_Five_003297.jpg</field>
+<field name="snippet">the report's authors place the blame on climate change, disease and loss of habitat. an extension of the m4 could slice through part of the gwent levels reserve, potentially having a major impact on the water voles. they're really starting to thrive</field>
+</doc>
+</add>

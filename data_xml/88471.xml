@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190626_030000_BBC_News#start/1236/end/1271</field>
+<field name="datetime">6/26/2019 3:20:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190626_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190626_030000_BBC_News/BBCNEWS_20190626_030000_BBC_News.thumbs/BBCNEWS_20190626_030000_BBC_News_001228.jpg</field>
+<field name="snippet">desert temperatures in france yet. paris is a balmy 33 degrees today, but it is expected to rise, and some parts of france further south are predicted to reach a0 degrees tomorrow. the question being asked here - is this the result of climate change?</field>
+</doc>
+</add>

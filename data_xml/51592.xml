@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181202_180000_BBC_News#start/748/end/783</field>
+<field name="datetime">12/2/2018 18:12:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181202_180000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181202_180000_BBC_News/BBCNEWS_20181202_180000_BBC_News.thumbs/BBCNEWS_20181202_180000_BBC_News_000747.jpg</field>
+<field name="snippet">the devil is always in the detail in trade talks. nevertheless, global markets will be relieved progress has been made. but this is a ceasefire, not the end of hostilities. jon sopel, bbc news, buenos aires. crucial talks on climate change have</field>
+</doc>
+</add>

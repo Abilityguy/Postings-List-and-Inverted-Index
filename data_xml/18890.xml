@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201612.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161215_140000_Americas_Newsroom_With_Bill_Hemmer_and_Martha_MacCallum#start/5923/end/5958</field>
+<field name="datetime">12/15/2016 15:38:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom With Bill Hemmer and Martha MacCallum</field>
+<field name="showid">FOXNEWSW_20161215_140000_Americas_Newsroom_With_Bill_Hemmer_and_Martha_MacCallum</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161215_140000_Americas_Newsroom_With_Bill_Hemmer_and_Martha_MacCallum/FOXNEWSW_20161215_140000_Americas_Newsroom_With_Bill_Hemmer_and_Martha_MacCallum.thumbs/FOXNEWSW_20161215_140000_Americas_Newsroom_With_Bill_Hemmer_and_Martha_MacCallum_005908.jpg</field>
+<field name="snippet">which could be radical change in energy policy. hi, william. well, martha, instead of a focus on climate change, trump wants energy independence.</field>
+</doc>
+</add>

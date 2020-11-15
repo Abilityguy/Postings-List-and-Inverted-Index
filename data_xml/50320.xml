@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181226_080000_Special_Report_With_Bret_Baier#start/1338/end/1373</field>
+<field name="datetime">12/26/2018 8:22:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20181226_080000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181226_080000_Special_Report_With_Bret_Baier/FOXNEWSW_20181226_080000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20181226_080000_Special_Report_With_Bret_Baier_001317.jpg</field>
+<field name="snippet">the so-called keep it in the ground movement aims to stop the use of oil, coal and natural gas to slow down climate change would critics call the idea and economy killer. how this policy is supposed to work.</field>
+</doc>
+</add>

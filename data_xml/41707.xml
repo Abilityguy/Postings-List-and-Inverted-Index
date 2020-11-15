@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201301.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130122_030000_The_Last_Word#start/2323/end/2358</field>
+<field name="datetime">1/22/2013 3:38:58</field>
+<field name="station">MSNBC</field>
+<field name="show">The Last Word</field>
+<field name="showid">MSNBCW_20130122_030000_The_Last_Word</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130122_030000_The_Last_Word/MSNBCW_20130122_030000_The_Last_Word.thumbs/MSNBCW_20130122_030000_The_Last_Word_002325.jpg</field>
+<field name="snippet">let's listen to what he said about climate change, for example, which is not the kind of thing that would come up in the first inaugural. we will respond to the threat of climate change, knowing that the failure to do so would betray our children and future</field>
+</doc>
+</add>

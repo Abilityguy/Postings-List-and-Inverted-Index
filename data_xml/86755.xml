@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191225_090000_BBC_News#start/1307/end/1342</field>
+<field name="datetime">12/25/2019 9:22:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191225_090000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191225_090000_BBC_News/BBCNEWS_20191225_090000_BBC_News.thumbs/BBCNEWS_20191225_090000_BBC_News_001287.jpg</field>
+<field name="snippet">insects. they are a good source of protein. producing them as less environmentally damaging than producing meat. when we grow crickets we need a small land area but more importantly crickets emit little greenhouse gas. we know there has been a lot of discussion lately about animals and the impact they</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201710.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171031_020000_BBC_News#start/31/end/66</field>
+<field name="datetime">10/31/2017 2:00:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171031_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171031_020000_BBC_News/BBCNEWS_20171031_020000_BBC_News.thumbs/BBCNEWS_20171031_020000_BBC_News_000058.jpg</field>
+<field name="snippet">the sacked catalan president carles puigdemont has gone to belgium amid reports he may claim asylum as spain considers charging him with rebellion. and levels of the greenhouse gas carbon dioxide in the earth's atmosphere surge to a record high. the un says we have</field>
+</doc>
+</add>

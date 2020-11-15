@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201104.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110429_200000_Your_World_With_Neil_Cavuto#start/2303/end/2338</field>
+<field name="datetime">4/29/2011 20:38:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWS_20110429_200000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110429_200000_Your_World_With_Neil_Cavuto/FOXNEWS_20110429_200000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWS_20110429_200000_Your_World_With_Neil_Cavuto_002304.jpg</field>
+<field name="snippet">we did not have the data to go back hundreds of years and look at patterns 500 years ago. our data does not go back long enough to draw conclusions so it is difficult to know if it is climate change or, at the same time, whether it is in the.</field>
+</doc>
+</add>

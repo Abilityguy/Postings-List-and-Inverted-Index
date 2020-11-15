@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201812.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181231_100000_Meet_the_Press#start/130/end/165</field>
+<field name="datetime">12/31/2018 10:02:25</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20181231_100000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181231_100000_Meet_the_Press/MSNBCW_20181231_100000_Meet_the_Press.thumbs/MSNBCW_20181231_100000_Meet_the_Press_000118.jpg</field>
+<field name="snippet">but just as important as what we are going to do this hour is what we're not going to do. we're not going to debate climate change. the existence of it. the earth is getting hotter and human activity is a major cause, period. we're not going to give time to climate deniers, the science is settled, even if political opinion is not. and we're not going to confuse weather with climate. heat wave is no more evidence</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190316_010000_BBC_News#start/1305/end/1340</field>
+<field name="datetime">3/16/2019 1:22:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190316_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190316_010000_BBC_News/BBCNEWS_20190316_010000_BBC_News.thumbs/BBCNEWS_20190316_010000_BBC_News_001289.jpg</field>
+<field name="snippet">across the world took to the streets on friday for the first ever global climate strike. the protesters used more than 40 languages to tell world leaders that they must act now to address the climate crisis and save their</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091207_110000_FOX_and_Friends#start/6357/end/6392</field>
+<field name="datetime">12/7/2009 12:46:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091207_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091207_110000_FOX_and_Friends/FOXNEWS_20091207_110000_FOX_and_Friends.thumbs/FOXNEWS_20091207_110000_FOX_and_Friends_006150.jpg</field>
+<field name="snippet">dr. mark seagull is here. don't lick your toys, kids. steve: no no to zhu zhu. brian: global warming scandal hot mess. accused of messing with the climate data.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201511.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151130_220000_MTP_Daily#start/1127/end/1162</field>
+<field name="datetime">11/30/2015 22:19:02</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20151130_220000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151130_220000_MTP_Daily/MSNBCW_20151130_220000_MTP_Daily.thumbs/MSNBCW_20151130_220000_MTP_Daily_001126.jpg</field>
+<field name="snippet">when this first started, i thought this woman has the gravitas, she understands soft power in the world, she understands hard power in the world. she's been an advocate for children, the environment. she wants to do something about climate change. she's calling for a big rebuild</field>
+</doc>
+</add>

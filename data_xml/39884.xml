@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091126_090000_Special_Report_With_Bret_Baier#start/2386/end/2421</field>
+<field name="datetime">11/26/2009 9:40:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091126_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091126_090000_Special_Report_With_Bret_Baier/FOXNEWS_20091126_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091126_090000_Special_Report_With_Bret_Baier_002364.jpg</field>
+<field name="snippet">chris: well, there have been differing views on the global warming debate as the world prepares for the climate summit in a couple of weeks. let's bring in our panel. fred barnes, a.b. stoddard of the hill newspaper and syndicated columnist charles krauthammer. so, fred, let me start with</field>
+</doc>
+</add>

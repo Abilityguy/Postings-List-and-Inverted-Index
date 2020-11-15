@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190512_190000_BBC_News#start/810/end/845</field>
+<field name="datetime">5/12/2019 19:13:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190512_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190512_190000_BBC_News/BBCNEWS_20190512_190000_BBC_News.thumbs/BBCNEWS_20190512_190000_BBC_News_000807.jpg</field>
+<field name="snippet">in mozambique he said the world is feeling the effects of climate change faster than the human efforts to tackle it. while the paris agreement on climate change aims to try to limit global temperatures to 1.5 celsius, antonio guterres says politicians aren't doing enough.</field>
+</doc>
+</add>

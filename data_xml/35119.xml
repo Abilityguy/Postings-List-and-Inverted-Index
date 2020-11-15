@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201509.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150924_000000_All_In_With_Chris_Hayes#start/95/end/130</field>
+<field name="datetime">9/24/2015 0:01:50</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20150924_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150924_000000_All_In_With_Chris_Hayes/MSNBCW_20150924_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20150924_000000_All_In_With_Chris_Hayes_000075.jpg</field>
+<field name="snippet">the pope drawing high praise for addressing the crowd in english, describing himself as a son of immigrants, recognizing the u.s. as a nation of immigrants. but it was the subject of climate change that francis devoted more time to than any other subject. commending the president specifically for his actions on</field>
+</doc>
+</add>

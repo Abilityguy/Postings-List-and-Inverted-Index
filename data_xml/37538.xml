@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091017_010000_Hannity#start/80/end/115</field>
+<field name="datetime">10/17/2009 1:01:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20091017_010000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091017_010000_Hannity/FOXNEWS_20091017_010000_Hannity.thumbs/FOXNEWS_20091017_010000_Hannity_000060.jpg</field>
+<field name="snippet">you can throw whatever you want at me. keep it coming. we're going get this done. we're going to get health care done. we're going to get clean energy done. we're going to get climate change done.</field>
+</doc>
+</add>

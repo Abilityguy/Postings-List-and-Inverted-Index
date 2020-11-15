@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191126_023000_Electioncast#start/1/end/36</field>
+<field name="datetime">11/26/2019 2:30:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Electioncast</field>
+<field name="showid">BBCNEWS_20191126_023000_Electioncast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191126_023000_Electioncast/BBCNEWS_20191126_023000_Electioncast.thumbs/BBCNEWS_20191126_023000_Electioncast_000028.jpg</field>
+<field name="snippet">the headlines: new figures released show that concentrations of greenhouse gases in the atmosphere have reached another record high. the statistics by the world meteorological organisation collected over 30 yea rs</field>
+</doc>
+</add>

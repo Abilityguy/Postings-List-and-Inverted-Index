@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190424_023000_Weather_World#start/358/end/393</field>
+<field name="datetime">4/24/2019 2:36:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20190424_023000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190424_023000_Weather_World/BBCNEWS_20190424_023000_Weather_World.thumbs/BBCNEWS_20190424_023000_Weather_World_000358.jpg</field>
+<field name="snippet">as diseases such as cholera increase across the affected areas. the track of idai gives clues as to why the flooding here was so bad. it was a double hit. the scale of the devastation here led many to ask about the role of climate change. in fact, the frequency of tropical</field>
+</doc>
+</add>

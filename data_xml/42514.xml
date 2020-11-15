@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201008.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100828_090000_The_OReilly_Factor#start/1937/end/1972</field>
+<field name="datetime">8/28/2010 9:32:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20100828_090000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100828_090000_The_OReilly_Factor/FOXNEWS_20100828_090000_The_OReilly_Factor.thumbs/FOXNEWS_20100828_090000_The_OReilly_Factor_001915.jpg</field>
+<field name="snippet">research unit sparking a controversy that will forever be known as climate -- climategate. revealing effort to hide the truth that global warming is far from conclusive.</field>
+</doc>
+</add>

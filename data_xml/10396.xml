@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201511.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151101_110000_Fox_and_Friends_Sunday#start/12002/end/12037</field>
+<field name="datetime">11/1/2015 14:20:17</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20151101_110000_Fox_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151101_110000_Fox_and_Friends_Sunday/FOXNEWSW_20151101_110000_Fox_and_Friends_Sunday.thumbs/FOXNEWSW_20151101_110000_Fox_and_Friends_Sunday_011985.jpg</field>
+<field name="snippet">gaining 20 pounds or eating mcdonald's for breakfast. no problem with that. but for some reason we ignore this. we love to talk about the settled science of global warming which isn't all that settled but no one wants the settled science of the importance of family structure.</field>
+</doc>
+</add>

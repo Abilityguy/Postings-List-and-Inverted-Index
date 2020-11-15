@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201906.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190606_190000_MSNBC_Live_With_Ali_Velshi#start/380/end/415</field>
+<field name="datetime">6/6/2019 19:06:35</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190606_190000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190606_190000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190606_190000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190606_190000_MSNBC_Live_With_Ali_Velshi_000360.jpg</field>
+<field name="snippet">field. the dnc responded to the criticism saying while climate change is at the top of our list, the dnc will not be holding entire debates on a single issue area because we want to make sure voters have the ability to hear from</field>
+</doc>
+</add>

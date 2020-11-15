@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201612.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161203_140000_MSNBC_Live#start/1802/end/1837</field>
+<field name="datetime">12/3/2016 14:30:17</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20161203_140000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161203_140000_MSNBC_Live/MSNBCW_20161203_140000_MSNBC_Live.thumbs/MSNBCW_20161203_140000_MSNBC_Live_001618.jpg</field>
+<field name="snippet">efforts to combat global warming. welcome back, everybody. i am ayman mohyeldin at msnbc world headquarters in new york. at the half hour mark, this is what we are monitoring.</field>
+</doc>
+</add>

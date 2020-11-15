@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201110.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111007_220000_Special_Report_With_Bret_Baier#start/588/end/623</field>
+<field name="datetime">10/7/2011 22:10:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20111007_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111007_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20111007_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20111007_220000_Special_Report_With_Bret_Baier_000567.jpg</field>
+<field name="snippet">reporter: perry launched a new web attack on romney as a carbon copy of president obama when it comes to environmental regulation and climate change. i will not create jobs or hold jobs that kill people. [ applause ]  _          _</field>
+</doc>
+</add>

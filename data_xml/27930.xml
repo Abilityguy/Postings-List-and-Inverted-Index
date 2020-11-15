@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201412.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141230_230000_Special_Report_With_Bret_Baier#start/3101/end/3136</field>
+<field name="datetime">12/30/2014 23:51:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20141230_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141230_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20141230_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20141230_230000_Special_Report_With_Bret_Baier_003075.jpg</field>
+<field name="snippet">we're back with the panel. steve hayes, the pope is about to publish incyclical about climate change. he has made very clear he is not going to be stuck or held hymned in by the</field>
+</doc>
+</add>

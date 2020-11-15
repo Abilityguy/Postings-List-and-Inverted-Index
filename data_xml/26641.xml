@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100215_180000_America_Live#start/2730/end/2765</field>
+<field name="datetime">2/15/2010 18:45:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWS_20100215_180000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100215_180000_America_Live/FOXNEWS_20100215_180000_America_Live.thumbs/FOXNEWS_20100215_180000_America_Live_002550.jpg</field>
+<field name="snippet">british professor at the center of the climb atgate scandal admitting he could not keep track of all that vital data used to back up his theory of global warming university of east anglia professor phil jones stepped own as director of the climate change unit in</field>
+</doc>
+</add>

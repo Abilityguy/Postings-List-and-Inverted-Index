@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201408.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140827_220000_Special_Report_With_Bret_Baier#start/1109/end/1144</field>
+<field name="datetime">8/27/2014 22:18:44</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20140827_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140827_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20140827_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20140827_220000_Special_Report_With_Bret_Baier_001095.jpg</field>
+<field name="snippet">prices. reporter: why should you care what californians pay for a gallon of gas? the administration is drafting rules to require all states to reduce pollution. not just at the smoke stack but the tail pipe as well, squeezing more carbon from everyone's diet to reduce global warming.</field>
+</doc>
+</add>

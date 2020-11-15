@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090926_183000_FOX_News_Watch#start/609/end/644</field>
+<field name="datetime">9/26/2009 18:40:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Watch</field>
+<field name="showid">FOXNEWS_20090926_183000_FOX_News_Watch</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090926_183000_FOX_News_Watch/FOXNEWS_20090926_183000_FOX_News_Watch.thumbs/FOXNEWS_20090926_183000_FOX_News_Watch_000596.jpg</field>
+<field name="snippet">on weapons he was off to the united nations for the speech in front of the general assembly where he addressed global leaders and tackled issues like climate change. on thursday, the president then headed the security council as chairman, delivering a stirring speech to that group about nuclear proliferation.</field>
+</doc>
+</add>

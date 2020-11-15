@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200910.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091015_130000_Morning_Meeting#start/5630/end/5665</field>
+<field name="datetime">10/15/2009 14:34:05</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Meeting</field>
+<field name="showid">MSNBC_20091015_130000_Morning_Meeting</field>
+<field name="preview">https://archive.org/download/MSNBC_20091015_130000_Morning_Meeting/MSNBC_20091015_130000_Morning_Meeting.thumbs/MSNBC_20091015_130000_Morning_Meeting_005610.jpg</field>
+<field name="snippet">the chamber of commerce is the self-anointed protector of american business. why are we seeing major corporations, most recent -- apple as you were saying -- walk away? short answer, climate change. a difference of opinions over</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_110000_FOX_and_Friends#start/4317/end/4352</field>
+<field name="datetime">12/18/2009 12:12:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091218_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_110000_FOX_and_Friends/FOXNEWS_20091218_110000_FOX_and_Friends.thumbs/FOXNEWS_20091218_110000_FOX_and_Friends_004309.jpg</field>
+<field name="snippet">president's speech in copenhagen regarding global warming. brian: then, a toddler drown drowns in a swimming pool and his mom twitters about it as the incident is happening. bloggers across the web are sticking out. many supporting her did. she cross the line?</field>
+</doc>
+</add>

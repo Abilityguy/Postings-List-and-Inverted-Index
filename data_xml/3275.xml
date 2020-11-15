@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201512.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151215_060000_Hannity#start/3575/end/3610</field>
+<field name="datetime">12/15/2015 6:59:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20151215_060000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151215_060000_Hannity/FOXNEWSW_20151215_060000_Hannity.thumbs/FOXNEWSW_20151215_060000_Hannity_003555.jpg</field>
+<field name="snippet">the president's speech today gave us any new insight to strategy dealing with the middle east? thanks. no. i think the president still thinks the weather and global warming and a nonbinding agreement are far more important and a greater threat to our national security there is no</field>
+</doc>
+</add>

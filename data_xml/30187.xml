@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201508.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150821_210000_MSNBC_Live#start/2841/end/2876</field>
+<field name="datetime">8/21/2015 21:47:36</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20150821_210000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150821_210000_MSNBC_Live/MSNBCW_20150821_210000_MSNBC_Live.thumbs/MSNBCW_20150821_210000_MSNBC_Live_002835.jpg</field>
+<field name="snippet">the report says global warming conditions have most likely increased the drought in california by 15-20%. what can be done to counteract that? there is lots. but to solve the problem you have to first admit the problem exists. what we're seeing in california</field>
+</doc>
+</add>

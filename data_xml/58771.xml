@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181122_140000_Afternoon_Live#start/10577/end/10612</field>
+<field name="datetime">11/22/2018 16:56:32</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20181122_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181122_140000_Afternoon_Live/BBCNEWS_20181122_140000_Afternoon_Live.thumbs/BBCNEWS_20181122_140000_Afternoon_Live_010557.jpg</field>
+<field name="snippet">climate change. it has changing temperature regimes so we have seen warmer coastal seas here, warmer than we've had before, and warmer environments more often than we've had before.</field>
+</doc>
+</add>

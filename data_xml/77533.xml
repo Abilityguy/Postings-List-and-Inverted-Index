@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191129_010000_Newsday#start/1401/end/1436</field>
+<field name="datetime">11/29/2019 1:23:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191129_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191129_010000_Newsday/BBCNEWS_20191129_010000_Newsday.thumbs/BBCNEWS_20191129_010000_Newsday_001379.jpg</field>
+<field name="snippet">free concert tickets by fighting climate change. # really hurt me, baby.</field>
+</doc>
+</add>

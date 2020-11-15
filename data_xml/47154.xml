@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201101.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110106_200000_MSNBC_News_Live#start/2461/end/2496</field>
+<field name="datetime">1/6/2011 20:41:16</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20110106_200000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20110106_200000_MSNBC_News_Live/MSNBC_20110106_200000_MSNBC_News_Live.thumbs/MSNBC_20110106_200000_MSNBC_News_Live_002453.jpg</field>
+<field name="snippet">the scientific community that we're causing global warming. and the reports from the national academy of sciences and ipcc are warning of serious consequences for millions of people around the world, especially the poor. as christians we're called to care for the least of these, as</field>
+</doc>
+</add>

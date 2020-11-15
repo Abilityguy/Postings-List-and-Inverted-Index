@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191004_100000_BBC_Newsroom_Live#start/6625/end/6660</field>
+<field name="datetime">10/4/2019 11:50:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20191004_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191004_100000_BBC_Newsroom_Live/BBCNEWS_20191004_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20191004_100000_BBC_Newsroom_Live_006628.jpg</field>
+<field name="snippet">more than a quarter of mammals in the uk are on the brink of being wiped out. that's the stark warning from the state of nature report, which says climate change and more intense farming methods are to blame. claire marshall has</field>
+</doc>
+</add>

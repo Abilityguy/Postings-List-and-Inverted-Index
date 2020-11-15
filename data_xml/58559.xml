@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181127_220000_BBC_News_at_Ten#start/1277/end/1312</field>
+<field name="datetime">11/27/2018 22:21:32</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20181127_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181127_220000_BBC_News_at_Ten/BBCNEWS_20181127_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20181127_220000_BBC_News_at_Ten_001257.jpg</field>
+<field name="snippet">according to the united nations which is hosting a major climate conference in poland next week. last year greenhouse gas emissions reached a record high and it's notjust a matter of industrial pollution. food is also a factor the global livestock population has reached 28 billlion animals.</field>
+</doc>
+</add>

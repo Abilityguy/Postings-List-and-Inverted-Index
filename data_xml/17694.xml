@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170111_210000_Your_World_With_Neil_Cavuto#start/2900/end/2935</field>
+<field name="datetime">1/11/2017 21:48:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20170111_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170111_210000_Your_World_With_Neil_Cavuto/FOXNEWSW_20170111_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20170111_210000_Your_World_With_Neil_Cavuto_002878.jpg</field>
+<field name="snippet">a seat at that table. neil: like a liberal who hears a former ceo question everything behind climate change and that is exactly what you witnessed rex tillerson doing.</field>
+</doc>
+</add>

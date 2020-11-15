@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100202_080000_Red_Eye#start/484/end/519</field>
+<field name="datetime">2/2/2010 8:08:19</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20100202_080000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100202_080000_Red_Eye/FOXNEWS_20100202_080000_Red_Eye.thumbs/FOXNEWS_20100202_080000_Red_Eye_000480.jpg</field>
+<field name="snippet">as a nonexpert. i was an english major who spent the last 20 years drunk, shirtless and weeping, but this is a good thing. whether you think humans cause global warming or not, we are all in this boat of ignorance together and should be more</field>
+</doc>
+</add>

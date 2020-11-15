@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201610.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161011_220000_Special_Report_With_Bret_Baier#start/822/end/857</field>
+<field name="datetime">10/11/2016 22:13:57</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20161011_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161011_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20161011_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20161011_220000_Special_Report_With_Bret_Baier_000807.jpg</field>
+<field name="snippet">after losing the presidency, gore became a champion of climate change awareness, but came under fire for his own carbon footprint after producing 'an inconvenient truth.'</field>
+</doc>
+</add>

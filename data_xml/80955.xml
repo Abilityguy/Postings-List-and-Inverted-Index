@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201601.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160121_080000_All_In_With_Chris_Hayes#start/2748/end/2783</field>
+<field name="datetime">1/21/2016 8:46:03</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20160121_080000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160121_080000_All_In_With_Chris_Hayes/MSNBCW_20160121_080000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20160121_080000_All_In_With_Chris_Hayes_002745.jpg</field>
+<field name="snippet">major winter storm. but that very storm which will be hitting the east coast this weekend is going to threaten a huge storm surge, part of which is due to a higher sea level due to climate change.</field>
+</doc>
+</add>

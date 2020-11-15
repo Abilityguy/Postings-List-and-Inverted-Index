@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181108_140000_Afternoon_Live#start/4687/end/4722</field>
+<field name="datetime">11/8/2018 15:18:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20181108_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181108_140000_Afternoon_Live/BBCNEWS_20181108_140000_Afternoon_Live.thumbs/BBCNEWS_20181108_140000_Afternoon_Live_004677.jpg</field>
+<field name="snippet">our targets for reducing greenhouse gas emissions and playing our part in moderating climate change, its very possible we will still need more nuclear power stations. how does this leave us in terms of those</field>
+</doc>
+</add>

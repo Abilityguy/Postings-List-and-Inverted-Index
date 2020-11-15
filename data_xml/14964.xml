@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201312.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20131211_140000_Americas_Newsroom#start/3855/end/3890</field>
+<field name="datetime">12/11/2013 15:04:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWSW_20131211_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20131211_140000_Americas_Newsroom/FOXNEWSW_20131211_140000_Americas_Newsroom.thumbs/FOXNEWSW_20131211_140000_Americas_Newsroom_003855.jpg</field>
+<field name="snippet">it seems to be he's window dressing. though he's an enthusiast about regulations on global warming it was made clear he will have no influence on one of the most crucial decisions about carbon which is the keystone pipeline.</field>
+</doc>
+</add>

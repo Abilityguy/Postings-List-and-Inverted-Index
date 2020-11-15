@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170712_173000_Wimbledon_Sportsday#start/75/end/110</field>
+<field name="datetime">7/12/2017 17:31:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Wimbledon Sportsday</field>
+<field name="showid">BBCNEWS_20170712_173000_Wimbledon_Sportsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170712_173000_Wimbledon_Sportsday/BBCNEWS_20170712_173000_Wimbledon_Sportsday.thumbs/BBCNEWS_20170712_173000_Wimbledon_Sportsday_000057.jpg</field>
+<field name="snippet">and it is about a quarter the size of wales and weighs about a trillion tonnes. we'll be joined by one expert who says that although one of the biggest icebergs hasjust broken away from antarctica, it might not be linked to global warming.</field>
+</doc>
+</add>

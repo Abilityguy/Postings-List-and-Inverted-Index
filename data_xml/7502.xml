@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170603_030000_Tucker_Carlson_Tonight#start/705/end/740</field>
+<field name="datetime">6/3/2017 3:12:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20170603_030000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170603_030000_Tucker_Carlson_Tonight/FOXNEWSW_20170603_030000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20170603_030000_Tucker_Carlson_Tonight_000688.jpg</field>
+<field name="snippet">island, left on a private jet, to tahiti. after that trip wrapped up he tookok another private jet to milan for a 14-car caravan to escort him to conference he spoke about global warming.</field>
+</doc>
+</add>

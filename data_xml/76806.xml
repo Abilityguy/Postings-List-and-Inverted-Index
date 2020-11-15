@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190521_200000_Outside_Source#start/2791/end/2826</field>
+<field name="datetime">5/21/2019 20:46:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20190521_200000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190521_200000_Outside_Source/BBCNEWS_20190521_200000_Outside_Source.thumbs/BBCNEWS_20190521_200000_Outside_Source_002787.jpg</field>
+<field name="snippet">this is outside source live from the bbc newsroom. our lead story is. talk about climate change and how it fits in european politics. britain's prime minister theresa may has offered mps a vote on whether to hold a second referendum if they approve her</field>
+</doc>
+</add>

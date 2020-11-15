@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201604.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160422_210000_The_Five#start/31/end/66</field>
+<field name="datetime">4/22/2016 21:00:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20160422_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160422_210000_The_Five/FOXNEWSW_20160422_210000_The_Five.thumbs/FOXNEWSW_20160422_210000_The_Five_000057.jpg</field>
+<field name="snippet">and if you believe the hysteria from some celebrities and politicians, global warming is going to destroy the planet. climate change is happening faster than even the most pessimistic of scientists warned us decades ago.</field>
+</doc>
+</add>

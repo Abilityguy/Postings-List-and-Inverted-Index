@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_050000_The_Briefing#start/1030/end/1065</field>
+<field name="datetime">1/16/2020 5:17:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20200116_050000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_050000_The_Briefing/BBCNEWS_20200116_050000_The_Briefing.thumbs/BBCNEWS_20200116_050000_The_Briefing_001018.jpg</field>
+<field name="snippet">who will outlining the major isues in the build up to the un climate change summit in glasgow later this year.</field>
+</doc>
+</add>

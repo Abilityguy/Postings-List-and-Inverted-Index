@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201802.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180227_130000_BBC_News_at_One#start/1719/end/1754</field>
+<field name="datetime">2/27/2018 13:28:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20180227_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180227_130000_BBC_News_at_One/BBCNEWS_20180227_130000_BBC_News_at_One.thumbs/BBCNEWS_20180227_130000_BBC_News_at_One_001708.jpg</field>
+<field name="snippet">douglas innes denies four counts of manslaughter by gross negligence. the trial is due to last until easter. duncan kennedy, bbc news, at winchester crown court. scientists are warning that global warming could have a devastating</field>
+</doc>
+</add>

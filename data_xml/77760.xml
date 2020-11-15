@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191121_130000_BBC_News_at_One#start/1372/end/1407</field>
+<field name="datetime">11/21/2019 13:23:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20191121_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191121_130000_BBC_News_at_One/BBCNEWS_20191121_130000_BBC_News_at_One.thumbs/BBCNEWS_20191121_130000_BBC_News_at_One_001348.jpg</field>
+<field name="snippet">as the flames rage, so does the debate about the impact of climate change. scientists say the proof is there for all to see. phil mercer, bbc news, sydney. a senior us diplomat has told</field>
+</doc>
+</add>

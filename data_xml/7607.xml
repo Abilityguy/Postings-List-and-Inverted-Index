@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170602_100000_FOX__Friends#start/9455/end/9490</field>
+<field name="datetime">6/2/2017 12:37:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20170602_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170602_100000_FOX__Friends/FOXNEWSW_20170602_100000_FOX__Friends.thumbs/FOXNEWSW_20170602_100000_FOX__Friends_009448.jpg</field>
+<field name="snippet">people say this is america, not leading on climate change. that is completely divorced from reality. america has been leading on climate change for years in terms of switch from coal to gas, in inventing new, klieg technologies.</field>
+</doc>
+</add>

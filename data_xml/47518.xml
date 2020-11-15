@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201303.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130315_100000_Morning_Joe#start/3913/end/3948</field>
+<field name="datetime">3/15/2013 11:05:28</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20130315_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130315_100000_Morning_Joe/MSNBCW_20130315_100000_Morning_Joe.thumbs/MSNBCW_20130315_100000_Morning_Joe_003915.jpg</field>
+<field name="snippet">everything from gun violence and immigration and trade policy and climate change and discussed the keystone pipeline and job creation and federal regulations. even the middle east peace process. but like usual, the biggest issues involved entitlements and taxes and whether the two sides</field>
+</doc>
+</add>

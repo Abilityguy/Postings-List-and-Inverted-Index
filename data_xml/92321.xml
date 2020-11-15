@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200911.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091125_110000_Morning_Joe#start/2276/end/2311</field>
+<field name="datetime">11/25/2009 11:38:11</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20091125_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20091125_110000_Morning_Joe/MSNBC_20091125_110000_Morning_Joe.thumbs/MSNBC_20091125_110000_Morning_Joe_002190.jpg</field>
+<field name="snippet">do you ever think that maybe you're wrong about global warming? i think the science is very clear on global warming. why do you have to impose it on me? why do you have to impose dirty air on me in los angeles? let me explain what i'm</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201010.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101015_100000_FOX_and_Friends#start/4676/end/4711</field>
+<field name="datetime">10/15/2010 11:18:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20101015_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101015_100000_FOX_and_Friends/FOXNEWS_20101015_100000_FOX_and_Friends.thumbs/FOXNEWS_20101015_100000_FOX_and_Friends_004671.jpg</field>
+<field name="snippet">american people. even though president obama has done more in the 20 months of his presidency than any other democratic administration, financial reform, health care, education reform, you know, champions, climate change. yeah, like that stuff? no, the unemployment rate. people want food on the table and speem are struggling right</field>
+</doc>
+</add>

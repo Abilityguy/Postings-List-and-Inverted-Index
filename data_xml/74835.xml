@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200118_010000_BBC_News#start/1229/end/1264</field>
+<field name="datetime">1/18/2020 1:20:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200118_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200118_010000_BBC_News/BBCNEWS_20200118_010000_BBC_News.thumbs/BBCNEWS_20200118_010000_BBC_News_001228.jpg</field>
+<field name="snippet">and this comes at an important time. because an international summit on climate change is due to take place here in november, so the world will be watching what the city does. how welcoming is your workplace</field>
+</doc>
+</add>

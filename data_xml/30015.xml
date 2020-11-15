@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191129_190000_MSNBC_Live#start/2798/end/2833</field>
+<field name="datetime">11/29/2019 19:46:53</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20191129_190000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191129_190000_MSNBC_Live/MSNBCW_20191129_190000_MSNBC_Live.thumbs/MSNBCW_20191129_190000_MSNBC_Live_002788.jpg</field>
+<field name="snippet">in california are still recovering from last month's string of devastating wildfires. cal perry got a look at the impact of climate change on the state's growing wildfires and the rolling blackouts that appear to be the new normal.</field>
+</doc>
+</add>

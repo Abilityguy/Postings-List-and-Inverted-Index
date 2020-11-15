@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190818_210000_BBC_News#start/1573/end/1608</field>
+<field name="datetime">8/18/2019 21:26:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190818_210000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190818_210000_BBC_News/BBCNEWS_20190818_210000_BBC_News.thumbs/BBCNEWS_20190818_210000_BBC_News_001557.jpg</field>
+<field name="snippet">about the effect of climate change, but i think this is the first time that there has actually been a ceremony like this, marking perhaps the emotional as well as the physical effects. yeah. we think this is important.</field>
+</doc>
+</add>

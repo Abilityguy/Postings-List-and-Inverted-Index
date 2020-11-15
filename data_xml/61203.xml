@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201503.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150301_170000_Weekends_With_Alex_Witt#start/7240/end/7275</field>
+<field name="datetime">3/1/2015 19:00:55</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20150301_170000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150301_170000_Weekends_With_Alex_Witt/MSNBCW_20150301_170000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20150301_170000_Weekends_With_Alex_Witt_007245.jpg</field>
+<field name="snippet">then there was senator james inhofe. it is very, very cold out. proof that global warming is</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100201_140000_Americas_Newsroom#start/3346/end/3381</field>
+<field name="datetime">2/1/2010 14:56:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20100201_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100201_140000_Americas_Newsroom/FOXNEWS_20100201_140000_Americas_Newsroom.thumbs/FOXNEWS_20100201_140000_Americas_Newsroom_003323.jpg</field>
+<field name="snippet">it's not that they're converts to nuclear power. they see it as necessary for a political deal to get climate change legislation passed. reporter: safety and security remain a concern, but the biggest road block to the industry's revival is what to do with spent fuel rods.</field>
+</doc>
+</add>

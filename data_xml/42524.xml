@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201008.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100825_070000_Red_Eye#start/943/end/978</field>
+<field name="datetime">8/25/2010 7:15:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20100825_070000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100825_070000_Red_Eye/FOXNEWS_20100825_070000_Red_Eye.thumbs/FOXNEWS_20100825_070000_Red_Eye_000926.jpg</field>
+<field name="snippet">look -- people would say, he is really smart, but this happened when he had these arguments. he is clearly having second thoughts about global warming. it is easy to criticize</field>
+</doc>
+</add>

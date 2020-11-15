@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200121_130000_BBC_News_at_One#start/381/end/416</field>
+<field name="datetime">1/21/2020 13:06:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20200121_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200121_130000_BBC_News_at_One/BBCNEWS_20200121_130000_BBC_News_at_One.thumbs/BBCNEWS_20200121_130000_BBC_News_at_One_000358.jpg</field>
+<field name="snippet">trade-off, a trade-off between a thriving us economy and too much regulation and climate change alleviation and that was the message he did want to hit back on. it wasn't a message overall popular, even amongst the elite businessmen</field>
+</doc>
+</add>

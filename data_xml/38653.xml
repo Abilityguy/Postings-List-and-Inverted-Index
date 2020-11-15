@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201011.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101115_160000_Happening_Now#start/5854/end/5889</field>
+<field name="datetime">11/15/2010 17:37:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20101115_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101115_160000_Happening_Now/FOXNEWS_20101115_160000_Happening_Now.thumbs/FOXNEWS_20101115_160000_Happening_Now_005850.jpg</field>
+<field name="snippet">warming is a problem, but he did so by scaring the pants off of us. of course, we also need to cool the planet, but we need to do so smartly and, quite frankly, we're not right now. jon: all right. so you believe global warming is a man-caused event. yes.</field>
+</doc>
+</add>

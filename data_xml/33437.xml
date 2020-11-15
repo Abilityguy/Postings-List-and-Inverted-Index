@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091219_120000_FOX_and_Friends_Saturday#start/8081/end/8116</field>
+<field name="datetime">12/19/2009 14:14:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWS_20091219_120000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091219_120000_FOX_and_Friends_Saturday/FOXNEWS_20091219_120000_FOX_and_Friends_Saturday.thumbs/FOXNEWS_20091219_120000_FOX_and_Friends_Saturday_008070.jpg</field>
+<field name="snippet">recovery and there's been studies by university of illinois, yale, university of massachusetts that show that global warming legislation would help create jobs. if you're a steel worker that might be unemployed, you'll be making steel for wind turbines.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180603_210000_The_Greg_Gutfeld_Show#start/1031/end/1066</field>
+<field name="datetime">6/3/2018 21:17:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Greg Gutfeld Show</field>
+<field name="showid">FOXNEWSW_20180603_210000_The_Greg_Gutfeld_Show</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180603_210000_The_Greg_Gutfeld_Show/FOXNEWSW_20180603_210000_The_Greg_Gutfeld_Show.thumbs/FOXNEWSW_20180603_210000_The_Greg_Gutfeld_Show_000958.jpg</field>
+<field name="snippet">greg: in case you missed it, it's all donald trump's fault, everything. something bad, he's the reason. climate change, his fault. asteroids, his fault. earthquakes, those faults are his fault.</field>
+</doc>
+</add>

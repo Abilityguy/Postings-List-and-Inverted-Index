@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201211.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121114_230000_PoliticsNation#start/3530/end/3565</field>
+<field name="datetime">11/14/2012 23:59:05</field>
+<field name="station">MSNBC</field>
+<field name="show">PoliticsNation</field>
+<field name="showid">MSNBCW_20121114_230000_PoliticsNation</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121114_230000_PoliticsNation/MSNBCW_20121114_230000_PoliticsNation.thumbs/MSNBCW_20121114_230000_PoliticsNation_003508.jpg</field>
+<field name="snippet">he was open to deal-making in other areas like climate change and immigration reform. again and again he let republicans know he's open to the ideas. both parties can work together.</field>
+</doc>
+</add>

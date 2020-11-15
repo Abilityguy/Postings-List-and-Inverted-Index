@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201501.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150116_210000_NOW_With_Alex_Wagner#start/2313/end/2348</field>
+<field name="datetime">1/16/2015 21:38:48</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20150116_210000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150116_210000_NOW_With_Alex_Wagner/MSNBCW_20150116_210000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20150116_210000_NOW_With_Alex_Wagner_002295.jpg</field>
+<field name="snippet">congressional representatives and senators is dramatic. john boehner yesterday was asked about climate change. and basically, he said we have had changes in the climate, but i'll let the scientists debate their source. that is a very convenient way of actually dealing with the problem. we have a scientist right</field>
+</doc>
+</add>

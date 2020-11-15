@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170430_043000_Talking_Movies#start/0/end/34</field>
+<field name="datetime">4/30/2017 4:30:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Talking Movies</field>
+<field name="showid">BBCNEWS_20170430_043000_Talking_Movies</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170430_043000_Talking_Movies/BBCNEWS_20170430_043000_Talking_Movies.thumbs/BBCNEWS_20170430_043000_Talking_Movies_000057.jpg</field>
+<field name="snippet">donald trump has marked his first 100 days as us president, attacking the media and defending his own record, at a rally in pennsylvania. earlier, thousands of people across the us took part in protests against his policies on climate change. pope francis has called for international mediation, to ease the rising tensions</field>
+</doc>
+</add>

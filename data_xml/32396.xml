@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201205.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120510_220000_Special_Report_With_Bret_Baier#start/1954/end/1989</field>
+<field name="datetime">5/10/2012 22:32:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20120510_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120510_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20120510_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20120510_220000_Special_Report_With_Bret_Baier_001950.jpg</field>
+<field name="snippet">environmentalists praise the new rule as a vital defense against climate change. we know what fossil fuels do to the health of our families. we know the damage to crops and buildings. now the big dang of all around</field>
+</doc>
+</add>

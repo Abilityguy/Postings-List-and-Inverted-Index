@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201510.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151009_210000_The_Five#start/2312/end/2347</field>
+<field name="datetime">10/9/2015 21:38:47</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20151009_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151009_210000_The_Five/FOXNEWSW_20151009_210000_The_Five.thumbs/FOXNEWSW_20151009_210000_The_Five_002295.jpg</field>
+<field name="snippet">planet, what would you say to them? dana first? welcome. no, that's not what you said during the break. i would say is climate change real? i don't know. wow, way to give it your all.</field>
+</doc>
+</add>

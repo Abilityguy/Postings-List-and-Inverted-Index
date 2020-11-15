@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201302.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130213_080000_State_of_the_Union_2013#start/5413/end/5448</field>
+<field name="datetime">2/13/2013 9:30:28</field>
+<field name="station">FOXNEWS</field>
+<field name="show">State of the Union 2013</field>
+<field name="showid">FOXNEWSW_20130213_080000_State_of_the_Union_2013</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130213_080000_State_of_the_Union_2013/FOXNEWSW_20130213_080000_State_of_the_Union_2013.thumbs/FOXNEWSW_20130213_080000_State_of_the_Union_2013_005385.jpg</field>
+<field name="snippet">speech and democrats seemed to approve and independents flocked with the republicans to the lowest rating of the night for the president, clearly not coalescing on issues of climate change making it tough for the president to probably sell this particular issue and last thing we want to look at is gun rights. this was near the end of the</field>
+</doc>
+</add>

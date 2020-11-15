@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_133000_BBC_News#start/1593/end/1628</field>
+<field name="datetime">1/17/2020 13:56:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200117_133000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_133000_BBC_News/BBCNEWS_20200117_133000_BBC_News.thumbs/BBCNEWS_20200117_133000_BBC_News_001589.jpg</field>
+<field name="snippet">thank you to our viewers for sending them in. plenty of opportunities to get your questions answered over the course of the year over the continuing 0ur continuing our planet matters. we'll be looking at the subject of climate change over the years building up to that key summit in glasgow in</field>
+</doc>
+</add>

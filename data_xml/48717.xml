@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201908.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190823_000000_All_In_With_Chris_Hayes#start/63/end/98</field>
+<field name="datetime">8/23/2019 0:01:18</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20190823_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190823_000000_All_In_With_Chris_Hayes/MSNBCW_20190823_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20190823_000000_All_In_With_Chris_Hayes_000059.jpg</field>
+<field name="snippet">good evening from new york, i'm chris hayes. this year has been the year in which the climate crisis has made itself the most ferociously known. that was true last year and the year before that and 2020 will almost certainly be worse, but this year we've already showed you this footage of greenland</field>
+</doc>
+</add>

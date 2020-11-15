@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191119_230000_BBC_News#start/614/end/649</field>
+<field name="datetime">11/19/2019 23:10:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191119_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191119_230000_BBC_News/BBCNEWS_20191119_230000_BBC_News.thumbs/BBCNEWS_20191119_230000_BBC_News_000598.jpg</field>
+<field name="snippet">the money mainly through borrowing and use it to invest in projects designed to tackle climate change. our political correspondent iain watson has been covering the debate from salford all night for us and getting reaction from some of the politicians</field>
+</doc>
+</add>

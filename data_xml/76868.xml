@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190526_070000_Breakfast#start/436/end/471</field>
+<field name="datetime">5/26/2019 7:07:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190526_070000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190526_070000_Breakfast/BBCNEWS_20190526_070000_Breakfast.thumbs/BBCNEWS_20190526_070000_Breakfast_000418.jpg</field>
+<field name="snippet">in ireland, which voted on thursday, the green party believes it did well on the back of voter concerns about climate change. the official results will be announced when polls close this evening. fire safety experts have warned that 1700 buildings in england are at risk of failing</field>
+</doc>
+</add>

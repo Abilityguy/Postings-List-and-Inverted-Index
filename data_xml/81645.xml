@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091219_130000_MSNBC_News_Live#start/50/end/85</field>
+<field name="datetime">12/19/2009 13:01:05</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091219_130000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091219_130000_MSNBC_News_Live/MSNBC_20091219_130000_MSNBC_News_Live.thumbs/MSNBC_20091219_130000_MSNBC_News_Live_000030.jpg</field>
+<field name="snippet">climate change. will it stick. and a very good morning. i'm kristen welker in for alex witt. lean times this holiday season but first following breaks news. a massive snowstorm slamming the mid-atlantic states and residents in the northeast are</field>
+</doc>
+</add>

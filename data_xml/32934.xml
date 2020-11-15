@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091207_110000_FOX_and_Friends#start/6121/end/6156</field>
+<field name="datetime">12/7/2009 12:42:16</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091207_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091207_110000_FOX_and_Friends/FOXNEWS_20091207_110000_FOX_and_Friends.thumbs/FOXNEWS_20091207_110000_FOX_and_Friends_006120.jpg</field>
+<field name="snippet">steve: bermuda. that island in the pacific. brian: makes no sense. 19 minutes before the top of the hour. a story mainly being ignored by the mainstream media the climate change scandal. is there an opinion about whether we are in the midst of global warming in this period?</field>
+</doc>
+</add>

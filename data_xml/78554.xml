@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201508.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150803_220000_Special_Report_With_Bret_Baier#start/3188/end/3223</field>
+<field name="datetime">8/3/2015 22:53:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20150803_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150803_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20150803_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20150803_220000_Special_Report_With_Bret_Baier_003165.jpg</field>
+<field name="snippet">we can't wait for another generation to tackle climate change. our future depends on what we do today and in the next decade. charles? look, we all know it's going to kill jobs. we know it's going to kill coal. we know it's going to raise</field>
+</doc>
+</add>

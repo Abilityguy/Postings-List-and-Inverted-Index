@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091217_230000_Special_Report_With_Bret_Baier#start/2698/end/2733</field>
+<field name="datetime">12/17/2009 23:45:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091217_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091217_230000_Special_Report_With_Bret_Baier/FOXNEWS_20091217_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091217_230000_Special_Report_With_Bret_Baier_002694.jpg</field>
+<field name="snippet">the healthcare bill, obama care and they have rejected cap and trade as well, and yet the administration fights on to get these things. that's good segue. healthcare is up next, but first join me for a special look at climate change this weekend.</field>
+</doc>
+</add>

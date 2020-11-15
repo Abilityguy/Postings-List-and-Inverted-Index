@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201702.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170208_090000_Special_Report_With_Bret_Baier#start/1662/end/1697</field>
+<field name="datetime">2/8/2017 9:27:57</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20170208_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170208_090000_Special_Report_With_Bret_Baier/FOXNEWSW_20170208_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20170208_090000_Special_Report_With_Bret_Baier_001647.jpg</field>
+<field name="snippet">the climate change controversy this evening. it has to do with data said to be manipulated by scientists and that data was given to then president obama and other world leaders at a critical moment. doug mckelway looks at that night.</field>
+</doc>
+</add>

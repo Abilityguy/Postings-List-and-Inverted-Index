@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191023_230000_Newsday#start/1126/end/1161</field>
+<field name="datetime">10/23/2019 23:19:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191023_230000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191023_230000_Newsday/BBCNEWS_20191023_230000_Newsday.thumbs/BBCNEWS_20191023_230000_Newsday_001109.jpg</field>
+<field name="snippet">now. what stories are sparking discussions online? yes let's looks at what's trending right now. british singer ellie goulding has urged young people to choose hope and keep fighting the climate change battle, despite the backlash they may face from big</field>
+</doc>
+</add>

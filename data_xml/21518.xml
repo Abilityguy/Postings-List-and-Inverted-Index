@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100106_070000_Glenn_Beck#start/280/end/315</field>
+<field name="datetime">1/6/2010 7:04:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20100106_070000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100106_070000_Glenn_Beck/FOXNEWS_20100106_070000_Glenn_Beck.thumbs/FOXNEWS_20100106_070000_Glenn_Beck_000266.jpg</field>
+<field name="snippet">debate on global warming. it's over. then the third thing they learned never let a good crisis go to waste. well, as we discuss all of these things i want you to keep watching tonight with your eyes.</field>
+</doc>
+</add>

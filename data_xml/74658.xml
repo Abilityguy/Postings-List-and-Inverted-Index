@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200102_180000_BBC_News_at_Six#start/437/end/472</field>
+<field name="datetime">1/2/2020 18:07:32</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20200102_180000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200102_180000_BBC_News_at_Six/BBCNEWS_20200102_180000_BBC_News_at_Six.thumbs/BBCNEWS_20200102_180000_BBC_News_at_Six_000418.jpg</field>
+<field name="snippet">dry and all the time the global average temperature is heading up. scientists researching the fires say conditions have created a perfect storm, with climate change heating the planet and adding to the</field>
+</doc>
+</add>

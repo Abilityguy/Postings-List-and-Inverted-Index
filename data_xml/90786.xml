@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201709.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170905_060000_Tucker_Carlson_Tonight#start/1342/end/1377</field>
+<field name="datetime">9/5/2017 6:22:37</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20170905_060000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170905_060000_Tucker_Carlson_Tonight/FOXNEWSW_20170905_060000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20170905_060000_Tucker_Carlson_Tonight_001318.jpg</field>
+<field name="snippet">roberto, good luck out there. thank you. tucker: up next, we'll revisit our interview with bill neither television personality guy, the one where he said people who have questions about global warming are mentally ill. stay tuned.</field>
+</doc>
+</add>

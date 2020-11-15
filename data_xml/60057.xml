@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_050000_Breakfast#start/3752/end/3787</field>
+<field name="datetime">10/8/2018 6:02:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181008_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_050000_Breakfast/BBCNEWS_20181008_050000_Breakfast.thumbs/BBCNEWS_20181008_050000_Breakfast_003747.jpg</field>
+<field name="snippet">of a global temperature rise of more than 1.5 degrees and a plan for precisely how that can be prevented. countries need to up their ambition and get moving now with climate</field>
+</doc>
+</add>

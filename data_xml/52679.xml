@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180608_180000_BBC_News#start/600/end/635</field>
+<field name="datetime">6/8/2018 18:10:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180608_180000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180608_180000_BBC_News/BBCNEWS_20180608_180000_BBC_News.thumbs/BBCNEWS_20180608_180000_BBC_News_000597.jpg</field>
+<field name="snippet">there is a huge division over things like the iran nuclear deal, like israel, like the paris climate change agreement. and when it comes to other issues like climate change, the president is not happy about those as well. so i think we will</field>
+</doc>
+</add>

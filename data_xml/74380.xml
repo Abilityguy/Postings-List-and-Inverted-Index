@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200112_130000_BBC_News#start/1170/end/1205</field>
+<field name="datetime">1/12/2020 13:19:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200112_130000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200112_130000_BBC_News/BBCNEWS_20200112_130000_BBC_News.thumbs/BBCNEWS_20200112_130000_BBC_News_001167.jpg</field>
+<field name="snippet">it takes pressure off the nhs and it is more convenient for patients. we always hear about the impact of carbon dioxide on the environment but methane is actually a more potent heat-trapping greenhouse gas and there are huge quantities of it</field>
+</doc>
+</add>

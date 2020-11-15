@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191101_070000_Fox_News__Night_With_Shannon_Bream#start/2196/end/2231</field>
+<field name="datetime">11/1/2019 7:36:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News  Night With Shannon Bream</field>
+<field name="showid">FOXNEWSW_20191101_070000_Fox_News__Night_With_Shannon_Bream</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191101_070000_Fox_News__Night_With_Shannon_Bream/FOXNEWSW_20191101_070000_Fox_News__Night_With_Shannon_Bream.thumbs/FOXNEWSW_20191101_070000_Fox_News__Night_With_Shannon_Bream_002189.jpg</field>
+<field name="snippet">the suit alleges the german government has not kept its promise to reduce greenhouse gas quickly enough. the court threw the case out. admitting germany is falling short of its common goals.</field>
+</doc>
+</add>

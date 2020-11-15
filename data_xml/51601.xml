@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181209_090000_BBC_News#start/818/end/853</field>
+<field name="datetime">12/9/2018 9:13:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181209_090000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181209_090000_BBC_News/BBCNEWS_20181209_090000_BBC_News.thumbs/BBCNEWS_20181209_090000_BBC_News_000807.jpg</field>
+<field name="snippet">and yet another spanner in the works, one which threatens to derail progress tackling global warming. in october, the un's intergovernmental panel on -- panel on climate change details the importance of keeping</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190509_100000_BBC_Newsroom_Live#start/425/end/460</field>
+<field name="datetime">5/9/2019 10:07:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190509_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190509_100000_BBC_Newsroom_Live/BBCNEWS_20190509_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190509_100000_BBC_Newsroom_Live_000418.jpg</field>
+<field name="snippet">of rain and continuing coastal erosion with climate change. it says currently two-thirds of properties in england are served by infrastructure that is at risk of flooding and it calculates that for every home flooded, around 16 more suffer problems with power, transport or telecommunications.</field>
+</doc>
+</add>

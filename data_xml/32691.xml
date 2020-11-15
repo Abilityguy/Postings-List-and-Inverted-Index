@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091215_160000_Happening_Now#start/4222/end/4257</field>
+<field name="datetime">12/15/2009 17:10:37</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091215_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091215_160000_Happening_Now/FOXNEWS_20091215_160000_Happening_Now.thumbs/FOXNEWS_20091215_160000_Happening_Now_004222.jpg</field>
+<field name="snippet">of greenhouse gas emissions. some are burnishing their image, but others say that they are being inundated by rising oceans because of global warming.</field>
+</doc>
+</add>

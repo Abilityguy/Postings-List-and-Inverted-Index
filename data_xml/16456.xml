@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201502.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150224_010000_The_OReilly_Factor#start/3118/end/3153</field>
+<field name="datetime">2/24/2015 1:52:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20150224_010000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150224_010000_The_OReilly_Factor/FOXNEWSW_20150224_010000_The_OReilly_Factor.thumbs/FOXNEWSW_20150224_010000_The_OReilly_Factor_003105.jpg</field>
+<field name="snippet">this is [ bleep ]. it's snowing because it's snowing out. wake me up when it's over. how many inches you have? of snow. yeah. take your foot off the gas. climate change they're saying is causing all of this snow.</field>
+</doc>
+</add>

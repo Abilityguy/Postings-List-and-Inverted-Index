@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201509.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150922_200000_Your_World_With_Neil_Cavuto#start/3060/end/3095</field>
+<field name="datetime">9/22/2015 20:51:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20150922_200000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150922_200000_Your_World_With_Neil_Cavuto/FOXNEWSW_20150922_200000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20150922_200000_Your_World_With_Neil_Cavuto_003045.jpg</field>
+<field name="snippet">father jonathan morris joins us from washington. you have heard the back and forth, father, about the fear that this pontiff is going to politicize this trip by making statements on climate change or capitalism that ruffles feathers on the right, he might talk</field>
+</doc>
+</add>

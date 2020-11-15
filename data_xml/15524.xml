@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201110.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111029_160000_Americas_News_Headquarters#start/315/end/350</field>
+<field name="datetime">10/29/2011 16:05:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20111029_160000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111029_160000_Americas_News_Headquarters/FOXNEWSW_20111029_160000_Americas_News_Headquarters.thumbs/FOXNEWSW_20111029_160000_Americas_News_Headquarters_000297.jpg</field>
+<field name="snippet">romney told the crowd he is not sure what caused it. my view is we don't know what is causing climate change on the planet and the idea of spending trillions to reduce co2 emissions is not the right</field>
+</doc>
+</add>

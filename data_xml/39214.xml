@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201212.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121221_080000_Red_Eye#start/192/end/227</field>
+<field name="datetime">12/21/2012 8:03:27</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWSW_20121221_080000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121221_080000_Red_Eye/FOXNEWSW_20121221_080000_Red_Eye.thumbs/FOXNEWSW_20121221_080000_Red_Eye_000165.jpg</field>
+<field name="snippet">for the market thanks to the affects of global warming. you see pigs hunt truffles,</field>
+</doc>
+</add>

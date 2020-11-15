@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091130_230000_Special_Report_With_Bret_Baier#start/30/end/65</field>
+<field name="datetime">11/30/2009 23:00:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091130_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091130_230000_Special_Report_With_Bret_Baier/FOXNEWS_20091130_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091130_230000_Special_Report_With_Bret_Baier_000026.jpg</field>
+<field name="snippet">afghanistan, the president's plans to attend a climate change summit as climate scientists wrestle with a growing scandal and look at day one of the senate healthcare reform bill as a new assessment of that bill is released. all that plus brit hume's</field>
+</doc>
+</add>

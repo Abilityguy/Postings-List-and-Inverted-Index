@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201411.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141115_110000_FOX_and_Friends_Saturday#start/7720/end/7755</field>
+<field name="datetime">11/15/2014 13:08:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20141115_110000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141115_110000_FOX_and_Friends_Saturday/FOXNEWSW_20141115_110000_FOX_and_Friends_Saturday.thumbs/FOXNEWSW_20141115_110000_FOX_and_Friends_Saturday_007695.jpg</field>
+<field name="snippet">he's announcing here in australia the u.s. putting up $3 billion into a climate change fund to get other countries around the world to deal with greens house gas emissions. at the start of the trip in china the president also announced a deal with the chinese. he's highly unlikely to get any</field>
+</doc>
+</add>

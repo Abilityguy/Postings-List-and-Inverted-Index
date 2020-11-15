@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201903.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190315_140000_MSNBC_Live_With_Hallie_Jackson#start/2155/end/2190</field>
+<field name="datetime">3/15/2019 14:36:10</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Hallie Jackson</field>
+<field name="showid">MSNBCW_20190315_140000_MSNBC_Live_With_Hallie_Jackson</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190315_140000_MSNBC_Live_With_Hallie_Jackson/MSNBCW_20190315_140000_MSNBC_Live_With_Hallie_Jackson.thumbs/MSNBCW_20190315_140000_MSNBC_Live_With_Hallie_Jackson_002128.jpg</field>
+<field name="snippet">we told you about the lawsuit filed in the college admissions scandal. now maybe a million people could be jumping on board. one of the country's leading voices on elitism and inequality joins us next. and climate change, the huge</field>
+</doc>
+</add>

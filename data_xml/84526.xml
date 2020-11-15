@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190422_220000_BBC_News#start/675/end/710</field>
+<field name="datetime">4/22/2019 22:11:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190422_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190422_220000_BBC_News/BBCNEWS_20190422_220000_BBC_News.thumbs/BBCNEWS_20190422_220000_BBC_News_000659.jpg</field>
+<field name="snippet">sally hurst, bbc up north, marsden. climate change protesters, who've staged a week of demonstrations in london and edinburgh, have been holding talks to decide the next phase of their campaign. more than a thousand people have been arrested since the protests began. 0ur correspondent caroline davies reports. central london, day</field>
+</doc>
+</add>

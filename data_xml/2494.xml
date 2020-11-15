@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200909.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20090925_150000_MSNBC_News_Live#start/2589/end/2624</field>
+<field name="datetime">9/25/2009 15:43:24</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20090925_150000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20090925_150000_MSNBC_News_Live/MSNBC_20090925_150000_MSNBC_News_Live.thumbs/MSNBC_20090925_150000_MSNBC_News_Live_002576.jpg</field>
+<field name="snippet">declared his innocence today on a trial on corruption charges. he is accused of illegally accepting funds. a new u.n. report finds climate change is happening faster and</field>
+</doc>
+</add>

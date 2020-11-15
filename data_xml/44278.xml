@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201704.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170429_160000_MSNBC_Live#start/877/end/912</field>
+<field name="datetime">4/29/2017 16:14:52</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170429_160000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170429_160000_MSNBC_Live/MSNBCW_20170429_160000_MSNBC_Live.thumbs/MSNBCW_20170429_160000_MSNBC_Live_000867.jpg</field>
+<field name="snippet">protest is about to get under way in washington, d.c., over president trump's actions on climate change. the people's climate march will kick off any moment now from the capitol building. crowds will march down pennsylvania avenue and end at the white house.</field>
+</doc>
+</add>

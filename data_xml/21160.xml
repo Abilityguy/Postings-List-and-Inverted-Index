@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180903_220000_BBC_News#start/29/end/64</field>
+<field name="datetime">9/3/2018 22:00:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180903_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180903_220000_BBC_News/BBCNEWS_20180903_220000_BBC_News.thumbs/BBCNEWS_20180903_220000_BBC_News_000057.jpg</field>
+<field name="snippet">expected that because of greenhouse gas emissions and global warming, these kinds of heatwaves will occur more regularly and, when they occur, we will at higher temperatures as a result. the home secretary issues a stark warning to tech companies, saying that he won't be afraid to take action if they don't do more to tackle online</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181010_000000_Newsday#start/925/end/960</field>
+<field name="datetime">10/10/2018 0:15:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20181010_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181010_000000_Newsday/BBCNEWS_20181010_000000_Newsday.thumbs/BBCNEWS_20181010_000000_Newsday_000928.jpg</field>
+<field name="snippet">finally, the japan times reports on the 2018 nobel prize in economics being awarded to a leading climate change researcher. it suggests that the prize could give momentum to policies aimed at helping our planet - a particularly pertinent issue given monday's united nations climate report. that brings you up to date with some</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200909.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20090928_060000_Meet_the_Press#start/833/end/868</field>
+<field name="datetime">9/28/2009 6:14:08</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBC_20090928_060000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBC_20090928_060000_Meet_the_Press/MSNBC_20090928_060000_Meet_the_Press.thumbs/MSNBC_20090928_060000_Meet_the_Press_000807.jpg</field>
+<field name="snippet">of health, education, better environment through fighting climate change and improving access to clean water and increasing people's livelihoods, primarily true through</field>
+</doc>
+</add>

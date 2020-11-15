@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_200000_BBC_News#start/511/end/546</field>
+<field name="datetime">1/16/2020 20:08:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200116_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_200000_BBC_News/BBCNEWS_20200116_200000_BBC_News.thumbs/BBCNEWS_20200116_200000_BBC_News_000508.jpg</field>
+<field name="snippet">so we're not winning, but we're not losing either. clive myrie, bbc news, in southeast australia. the government is revealing proposed new laws under which farmers will be rewarded for protecting the environment, tackling climate</field>
+</doc>
+</add>

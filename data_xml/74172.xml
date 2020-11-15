@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200104_060000_Breakfast#start/1908/end/1943</field>
+<field name="datetime">1/4/2020 6:32:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20200104_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200104_060000_Breakfast/BBCNEWS_20200104_060000_Breakfast.thumbs/BBCNEWS_20200104_060000_Breakfast_001888.jpg</field>
+<field name="snippet">emily thornberry and clive lewis have already announced their intention to stand. the climate change campaigner</field>
+</doc>
+</add>

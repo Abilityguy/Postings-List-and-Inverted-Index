@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_140000_Afternoon_Live#start/2646/end/2681</field>
+<field name="datetime">1/16/2020 14:44:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20200116_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_140000_Afternoon_Live/BBCNEWS_20200116_140000_Afternoon_Live.thumbs/BBCNEWS_20200116_140000_Afternoon_Live_002638.jpg</field>
+<field name="snippet">people have set foot on these rocky shores. researchers are travelling on greenpeace ships from island to island across the antarctic peninsula. they are comparing different penguin populations to see how they are adapting to climate change here. it may not look like it</field>
+</doc>
+</add>

@@ -9,7 +9,7 @@ import requests
 
 es = Elasticsearch([{'host':'localhost', 'port': 9200}])
 
-FOLDER_PATH = './archive'
+FOLDER_PATH = 'data'
 
 
 def read_folder(folder_path):

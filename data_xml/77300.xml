@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191124_023000_Dateline_London#start/323/end/358</field>
+<field name="datetime">11/24/2019 2:35:38</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Dateline London</field>
+<field name="showid">BBCNEWS_20191124_023000_Dateline_London</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191124_023000_Dateline_London/BBCNEWS_20191124_023000_Dateline_London.thumbs/BBCNEWS_20191124_023000_Dateline_London_000298.jpg</field>
+<field name="snippet">greenhouse gases were pegged to the 2020 deadline, so it will be crucial next year, when we have talks hosted in london, for a new set of commitments.</field>
+</doc>
+</add>

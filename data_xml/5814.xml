@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190925_130000_Afternoon_Live#start/1845/end/1880</field>
+<field name="datetime">9/25/2019 13:31:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190925_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190925_130000_Afternoon_Live/BBCNEWS_20190925_130000_Afternoon_Live.thumbs/BBCNEWS_20190925_130000_Afternoon_Live_001828.jpg</field>
+<field name="snippet">to change the future. matt mcgrath, bbc news, monaco. looking at long-term climate change there. looking at shorter term climate change, it is matte with the</field>
+</doc>
+</add>

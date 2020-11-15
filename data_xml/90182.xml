@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200910.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091009_150000_MSNBC_News_Live#start/293/end/328</field>
+<field name="datetime">10/9/2009 15:05:08</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091009_150000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091009_150000_MSNBC_News_Live/MSNBC_20091009_150000_MSNBC_News_Live.thumbs/MSNBC_20091009_150000_MSNBC_News_Live_000266.jpg</field>
+<field name="snippet">a big climate change conference is happening of all places, copenhagen in december. how do you think this has to do with what is going on in terms of the actual awarding of this? the weight of the issue with tehran. the potential for nuclear</field>
+</doc>
+</add>

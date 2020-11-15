@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091211_200000_MSNBC_News_Live#start/3217/end/3252</field>
+<field name="datetime">12/11/2009 20:53:52</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091211_200000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091211_200000_MSNBC_News_Live/MSNBC_20091211_200000_MSNBC_News_Live.thumbs/MSNBC_20091211_200000_MSNBC_News_Live_003173.jpg</field>
+<field name="snippet">required to cut their greenhouse gases from anywhere from 75% to 90% by the year 2050. u.s. representative todd stern who is leading the climate negotiations here for the united states said today that while the context -- or excuse me, while</field>
+</doc>
+</add>

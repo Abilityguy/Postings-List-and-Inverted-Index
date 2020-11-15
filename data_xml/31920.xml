@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201204.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120425_220000_Special_Report_With_Bret_Baier#start/1821/end/1856</field>
+<field name="datetime">4/25/2012 22:30:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20120425_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120425_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20120425_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20120425_220000_Special_Report_With_Bret_Baier_001795.jpg</field>
+<field name="snippet">stone' -- 'those who look at the signs of climate change are scared and corn concerned about a general lack of sufficient movement to deal with the problem.' however one scientist who was at the forefront of the environmental movement now admits his own projections</field>
+</doc>
+</add>

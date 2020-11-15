@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181209_020000_BBC_News#start/147/end/182</field>
+<field name="datetime">12/9/2018 2:02:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181209_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181209_020000_BBC_News/BBCNEWS_20181209_020000_BBC_News.thumbs/BBCNEWS_20181209_020000_BBC_News_000147.jpg</field>
+<field name="snippet">conference centre, thousands marched outside, demanding politicians wake up up to the threat of climate change, voicing concerns that time is running out. we need to do something now, we need action right now. not</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191202_170000_BBC_News_at_Five#start/1559/end/1594</field>
+<field name="datetime">12/2/2019 17:26:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20191202_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191202_170000_BBC_News_at_Five/BBCNEWS_20191202_170000_BBC_News_at_Five.thumbs/BBCNEWS_20191202_170000_BBC_News_at_Five_001557.jpg</field>
+<field name="snippet">an opportunity next week, on election day, to play our part in trying to stop borisjohnson. the un secretary general has warned that the world is almost at the point of no-return when it comes to climate change.</field>
+</doc>
+</add>

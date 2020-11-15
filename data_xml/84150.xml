@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190412_040000_The_Briefing#start/21/end/56</field>
+<field name="datetime">4/12/2019 4:00:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20190412_040000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190412_040000_The_Briefing/BBCNEWS_20190412_040000_The_Briefing.thumbs/BBCNEWS_20190412_040000_The_Briefing_001138.jpg</field>
+<field name="snippet">and later in paris, thousands of young people skip school and take to the streets to voice their anger and frustration over the world's failure to tackle climate change. now it's time to get all the latest from the bbc sports</field>
+</doc>
+</add>

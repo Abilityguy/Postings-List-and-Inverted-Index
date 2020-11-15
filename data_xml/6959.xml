@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201510.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151019_170000_Happening_Now#start/3311/end/3346</field>
+<field name="datetime">10/19/2015 17:55:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20151019_170000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151019_170000_Happening_Now/FOXNEWSW_20151019_170000_Happening_Now.thumbs/FOXNEWSW_20151019_170000_Happening_Now_003285.jpg</field>
+<field name="snippet">powerful ally in his effort to directly link climate change to wildfires, president obama, who is hosting an event at the white house today discussing climate change. a fact sheet issued for the event says in part, quote, countries and communities around</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191110_030000_BBC_News#start/1155/end/1190</field>
+<field name="datetime">11/10/2019 3:19:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191110_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191110_030000_BBC_News/BBCNEWS_20191110_030000_BBC_News.thumbs/BBCNEWS_20191110_030000_BBC_News_001138.jpg</field>
+<field name="snippet">now “- now -- mayor. we have scott morrison on the other hand not wanting to answer questions on climate change. what is the state of the debate in the country? i think there are obviously polarising views on some of these aspects. what is clear is that we are saying</field>
+</doc>
+</add>

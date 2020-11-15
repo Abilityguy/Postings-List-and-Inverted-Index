@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191129_030000_BBC_News#start/789/end/824</field>
+<field name="datetime">11/29/2019 3:13:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191129_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191129_030000_BBC_News/BBCNEWS_20191129_030000_BBC_News.thumbs/BBCNEWS_20191129_030000_BBC_News_000777.jpg</field>
+<field name="snippet">it was notjust a bushfire, it was a firestorm. over 80 houses have been lost in my community. this is climate change, this is a climate crisis. we are feeling the impact from it right now.</field>
+</doc>
+</add>

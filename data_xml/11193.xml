@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190809_020000_BBC_News#start/94/end/129</field>
+<field name="datetime">8/9/2019 2:01:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190809_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190809_020000_BBC_News/BBCNEWS_20190809_020000_BBC_News.thumbs/BBCNEWS_20190809_020000_BBC_News_000089.jpg</field>
+<field name="snippet">the un experts say we're consuming too many meat and dairy products in the west and it's helping to fuel global warming. but their new report stops short of saying people should become vegetarian or vegan. here's our science editor david shukman.</field>
+</doc>
+</add>

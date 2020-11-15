@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181228_080000_Fox_News__Night_With_Shannon_Bream#start/2089/end/2124</field>
+<field name="datetime">12/28/2018 8:35:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News  Night With Shannon Bream</field>
+<field name="showid">FOXNEWSW_20181228_080000_Fox_News__Night_With_Shannon_Bream</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181228_080000_Fox_News__Night_With_Shannon_Bream/FOXNEWSW_20181228_080000_Fox_News__Night_With_Shannon_Bream.thumbs/FOXNEWSW_20181228_080000_Fox_News__Night_With_Shannon_Bream_002068.jpg</field>
+<field name="snippet">space-based technology can pinpoint sources of methane, a potent greenhouse gas that contributes to global morning. this initiative will enable us to spot the methane, the pollution, to point out those</field>
+</doc>
+</add>

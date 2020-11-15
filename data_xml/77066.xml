@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190501_050000_Breakfast#start/5244/end/5279</field>
+<field name="datetime">5/1/2019 6:27:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190501_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190501_050000_Breakfast/BBCNEWS_20190501_050000_Breakfast.thumbs/BBCNEWS_20190501_050000_Breakfast_005218.jpg</field>
+<field name="snippet">travel and weather where you are. good morning from bbc london news, i'm alice salfield. hospitals, schools and tube stations are at serious risk of flooding if urgent action is not taken to tackle climate change. that is according to a report by the london assembly's green party, which looks at how the capital will be affected by an increase in temperature.</field>
+</doc>
+</add>

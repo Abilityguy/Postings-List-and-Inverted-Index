@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171213_000000_Newsday#start/1008/end/1043</field>
+<field name="datetime">12/13/2017 0:17:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20171213_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171213_000000_Newsday/BBCNEWS_20171213_000000_Newsday.thumbs/BBCNEWS_20171213_000000_Newsday_000987.jpg</field>
+<field name="snippet">the battle against climate change. he told world leaders and heads of companies at the one planet summit in paris that action against global warming was not being taken fast enough. the world bank announced at the summit that is would stop financing oil and gas exploration and extraction from 2019. from paris, lucy</field>
+</doc>
+</add>

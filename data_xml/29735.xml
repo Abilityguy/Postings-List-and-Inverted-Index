@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191108_220000_MTP_Daily#start/1123/end/1158</field>
+<field name="datetime">11/8/2019 22:18:58</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20191108_220000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191108_220000_MTP_Daily/MSNBCW_20191108_220000_MTP_Daily.thumbs/MSNBCW_20191108_220000_MTP_Daily_001109.jpg</field>
+<field name="snippet">is michael bloomberg democrat enough to win the democratic nomination? is he democrat enough? i think over the last four or five years, you could point to bloomberg a lot of things he's done on climate change.</field>
+</doc>
+</add>

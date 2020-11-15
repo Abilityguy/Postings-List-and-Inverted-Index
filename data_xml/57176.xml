@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181130_010000_Tucker_Carlson_Tonight#start/1452/end/1487</field>
+<field name="datetime">11/30/2018 1:24:27</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20181130_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181130_010000_Tucker_Carlson_Tonight/FOXNEWSW_20181130_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20181130_010000_Tucker_Carlson_Tonight_001437.jpg</field>
+<field name="snippet">tucker: african-american men like donald trump more than they like mitt romney. that was back in 2016. tucker: richard, great to see you. failed candidate al gore recently blasted the president as a super villain who is holy to blame for global warming. donald j. trump is now the face of climate</field>
+</doc>
+</add>

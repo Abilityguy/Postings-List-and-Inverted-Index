@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201010.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101005_100000_Morning_Joe#start/10263/end/10298</field>
+<field name="datetime">10/5/2010 12:51:18</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20101005_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20101005_100000_Morning_Joe/MSNBC_20101005_100000_Morning_Joe.thumbs/MSNBC_20101005_100000_Morning_Joe_010260.jpg</field>
+<field name="snippet">own. ryan lizza joins us now. you actually say the republican primaries may be to blame for the death of the climate change. when you got to 2010, when the white house was washing its hand of the issue, in early</field>
+</doc>
+</add>

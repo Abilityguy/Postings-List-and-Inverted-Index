@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190921_100000_Fox_and_Friends_Saturday#start/2777/end/2812</field>
+<field name="datetime">9/21/2019 10:46:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20190921_100000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190921_100000_Fox_and_Friends_Saturday/FOXNEWSW_20190921_100000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20190921_100000_Fox_and_Friends_Saturday_002759.jpg</field>
+<field name="snippet">millions across the country flooded the streets, protesting in the name of climate change and students right here in new york city followed along after getting the okay from officials to guess what, skip class. does this type of action actually do anything or is it just a hall pass for some kids</field>
+</doc>
+</add>

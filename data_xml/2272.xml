@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170418_090000_Fox_and_Friends_First#start/1110/end/1145</field>
+<field name="datetime">4/18/2017 9:18:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20170418_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170418_090000_Fox_and_Friends_First/FOXNEWSW_20170418_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20170418_090000_Fox_and_Friends_First_001107.jpg</field>
+<field name="snippet">do believe humans are causing climate change to that is the</field>
+</doc>
+</add>

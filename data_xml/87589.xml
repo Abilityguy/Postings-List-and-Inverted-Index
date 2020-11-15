@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191229_230000_BBC_News#start/955/end/990</field>
+<field name="datetime">12/29/2019 23:16:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191229_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191229_230000_BBC_News/BBCNEWS_20191229_230000_BBC_News.thumbs/BBCNEWS_20191229_230000_BBC_News_000928.jpg</field>
+<field name="snippet">bushfires? well, we know that not only is there an effective climate change on increasing fire how we've logged the forest in the past makes some of these forests more prone to high severity fire so therein lies a</field>
+</doc>
+</add>

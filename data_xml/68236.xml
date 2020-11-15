@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190215_100000_Victoria_Derbyshire#start/3188/end/3223</field>
+<field name="datetime">2/15/2019 10:53:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20190215_100000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190215_100000_Victoria_Derbyshire/BBCNEWS_20190215_100000_Victoria_Derbyshire.thumbs/BBCNEWS_20190215_100000_Victoria_Derbyshire_003178.jpg</field>
+<field name="snippet">the uk and ireland are on strike. they've walked out of lessons to show their concern about the threat of escalating climate change. this day of action follows the example of greta thunberg, a swedish schoolgirl who has been protesting outside her country s parliament since august. we can speak now to four</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190614_194500_The_Film_Review#start/921/end/956</field>
+<field name="datetime">6/14/2019 20:00:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Film Review</field>
+<field name="showid">BBCNEWS_20190614_194500_The_Film_Review</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190614_194500_The_Film_Review/BBCNEWS_20190614_194500_The_Film_Review.thumbs/BBCNEWS_20190614_194500_The_Film_Review_000899.jpg</field>
+<field name="snippet">the world health organization has stopped short of declaring an international public health emergency over the ebola outbreak in eastern congo. the pope's message to big business on climate change , he tells executives urgent action</field>
+</doc>
+</add>

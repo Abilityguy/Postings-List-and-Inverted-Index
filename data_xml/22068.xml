@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201309.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130926_220000_PoliticsNation#start/1233/end/1268</field>
+<field name="datetime">9/26/2013 22:20:48</field>
+<field name="station">MSNBC</field>
+<field name="show">PoliticsNation</field>
+<field name="showid">MSNBCW_20130926_220000_PoliticsNation</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130926_220000_PoliticsNation/MSNBCW_20130926_220000_PoliticsNation.thumbs/MSNBCW_20130926_220000_PoliticsNation_001215.jpg</field>
+<field name="snippet">keystone pipeline, paul ryan's tax plan, more offshore drilling, more greenhouse gases. i mean, many folks have pointed out that this is essentially mitt romney's economic plan.</field>
+</doc>
+</add>

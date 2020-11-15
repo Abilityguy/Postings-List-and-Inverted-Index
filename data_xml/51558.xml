@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181209_043000_Click#start/111/end/146</field>
+<field name="datetime">12/9/2018 4:32:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Click</field>
+<field name="showid">BBCNEWS_20181209_043000_Click</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181209_043000_Click/BBCNEWS_20181209_043000_Click.thumbs/BBCNEWS_20181209_043000_Click_000087.jpg</field>
+<field name="snippet">this week, world leaders have come together once again at the un's climate conference in poland. on the agenda, the latest findings from the inter-governmental panel on climate change,</field>
+</doc>
+</add>

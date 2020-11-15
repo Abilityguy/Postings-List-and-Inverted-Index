@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201412.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141214_070000_Red_Eye#start/15/end/50</field>
+<field name="datetime">12/14/2014 7:00:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWSW_20141214_070000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141214_070000_Red_Eye/FOXNEWSW_20141214_070000_Red_Eye.thumbs/FOXNEWSW_20141214_070000_Red_Eye_000045.jpg</field>
+<field name="snippet">tonight on 'red eye.' coming up on 'red eye,' the bahamas get a makeover just in time for tourist season. we will discuss how global warming is changing the face of this once tropical resort. plus, how did the president feel about 'the good wife'</field>
+</doc>
+</add>

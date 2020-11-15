@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100223_100000_The_OReilly_Factor#start/1872/end/1907</field>
+<field name="datetime">2/23/2010 10:31:27</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20100223_100000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100223_100000_The_OReilly_Factor/FOXNEWS_20100223_100000_The_OReilly_Factor.thumbs/FOXNEWS_20100223_100000_The_OReilly_Factor_001825.jpg</field>
+<field name="snippet">bill: factor follow-up segment tonight, another global warming study debunked. the study was printed showing the ocean is rising because of global warming. now the magazine says sorry, the study was flawed. just another in a long line of global warming problems including the resignation of the</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190419_000000_Newsday#start/1500/end/1535</field>
+<field name="datetime">4/19/2019 0:25:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190419_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190419_000000_Newsday/BBCNEWS_20190419_000000_Newsday.thumbs/BBCNEWS_20190419_000000_Newsday_001499.jpg</field>
+<field name="snippet">affected by climate change and the melting ice sheets? there is a number of species in the ocean that are what we call ice-dependent species and they include polar bears,</field>
+</doc>
+</add>

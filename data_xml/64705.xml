@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201612.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161208_073000_Hardball_With_Chris_Matthews#start/1822/end/1857</field>
+<field name="datetime">12/8/2016 8:00:37</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball With Chris Matthews</field>
+<field name="showid">MSNBCW_20161208_073000_Hardball_With_Chris_Matthews</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161208_073000_Hardball_With_Chris_Matthews/MSNBCW_20161208_073000_Hardball_With_Chris_Matthews.thumbs/MSNBCW_20161208_073000_Hardball_With_Chris_Matthews_001798.jpg</field>
+<field name="snippet">good evening from new york. i'm chris hayes. in 44 days donald trump will become the president of the united states, and yet today his views on some of the most important issues he'll face in the white house are still a moving target. but on climate change, arguably the gravest, most urgent problem</field>
+</doc>
+</add>

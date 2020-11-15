@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191028_230000_The_Story_With_Martha_MacCallum#start/2021/end/2056</field>
+<field name="datetime">10/28/2019 23:33:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Story With Martha MacCallum</field>
+<field name="showid">FOXNEWSW_20191028_230000_The_Story_With_Martha_MacCallum</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191028_230000_The_Story_With_Martha_MacCallum/FOXNEWSW_20191028_230000_The_Story_With_Martha_MacCallum.thumbs/FOXNEWSW_20191028_230000_The_Story_With_Martha_MacCallum_002010.jpg</field>
+<field name="snippet">democratic voters think health care is number one issue, swing voters think health care is a number one issue. there's a reason why you've seen so much time devoted to health care and so little time relatively devoted to the issue of climate change. in their mind, there was already a candidate on the democrat</field>
+</doc>
+</add>

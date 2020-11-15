@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190923_013000_Asia_Business_Report#start/16/end/51</field>
+<field name="datetime">9/23/2019 1:30:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Asia Business Report</field>
+<field name="showid">BBCNEWS_20190923_013000_Asia_Business_Report</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190923_013000_Asia_Business_Report/BBCNEWS_20190923_013000_Asia_Business_Report.thumbs/BBCNEWS_20190923_013000_Asia_Business_Report_000029.jpg</field>
+<field name="snippet">a new un report says the last five years are set to be the hottest on record, and the impacts of global warming, such as extreme weather, are increasing. a report says levels of carbon dioxide are nearly 20% higher than in the previous five years.</field>
+</doc>
+</add>

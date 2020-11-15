@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201610.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161014_150000_MSNBC_Live#start/2554/end/2589</field>
+<field name="datetime">10/14/2016 15:42:49</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20161014_150000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161014_150000_MSNBC_Live/MSNBCW_20161014_150000_MSNBC_Live.thumbs/MSNBCW_20161014_150000_MSNBC_Live_002547.jpg</field>
+<field name="snippet">it's not always perfect. and you've got to work to make it better and you take two steps forward on something like climate change, there's going to be folks who try to push you back and the special interests are strong and it is true that the country is so often divided</field>
+</doc>
+</add>

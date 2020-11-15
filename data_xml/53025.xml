@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201111.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20111109_110000_Morning_Joe#start/1880/end/1915</field>
+<field name="datetime">11/9/2011 11:31:35</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20111109_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20111109_110000_Morning_Joe/MSNBCW_20111109_110000_Morning_Joe.thumbs/MSNBCW_20111109_110000_Morning_Joe_001856.jpg</field>
+<field name="snippet">every time there's a snowstorm in october, there'll be a story posted somewhere. oh, what happened to global warming? it's snowing in october. i think we should call it climate change. that's exactly right. it is climate change -- it is warming, and what's</field>
+</doc>
+</add>

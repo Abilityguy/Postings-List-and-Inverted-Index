@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100103_050000_Red_Eye#start/1410/end/1445</field>
+<field name="datetime">1/3/2010 5:23:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20100103_050000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100103_050000_Red_Eye/FOXNEWS_20100103_050000_Red_Eye.thumbs/FOXNEWS_20100103_050000_Red_Eye_001410.jpg</field>
+<field name="snippet">aren't people who pretend to be smart far more dangerous than people who are actually dumb? there is dumb and there is dumb. it is not like any of these people flew in a private yet to a conference on global warming and then got snowed in by the</field>
+</doc>
+</add>

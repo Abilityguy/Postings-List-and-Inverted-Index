@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170602_000000_Tucker_Carlson_Tonight#start/308/end/343</field>
+<field name="datetime">6/2/2017 0:05:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20170602_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170602_000000_Tucker_Carlson_Tonight/FOXNEWSW_20170602_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20170602_000000_Tucker_Carlson_Tonight_000297.jpg</field>
+<field name="snippet">president obama had a democratic house and a super majority that year, the people now telling you that global warming is an existential threat to the world and everyone will die if we don't get a handle on it had more power at that moment than at any time since the new deal in the 30s and they could have done something about global warming openly and</field>
+</doc>
+</add>

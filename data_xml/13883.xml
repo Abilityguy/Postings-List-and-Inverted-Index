@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201501.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150125_110000_FOX_and_Friends_Sunday#start/144/end/179</field>
+<field name="datetime">1/25/2015 11:02:39</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20150125_110000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150125_110000_FOX_and_Friends_Sunday/FOXNEWSW_20150125_110000_FOX_and_Friends_Sunday.thumbs/FOXNEWSW_20150125_110000_FOX_and_Friends_Sunday_000135.jpg</field>
+<field name="snippet">he'll be here until tuesday morning before heading to saudi arabia. they hope to make progresses on talks over climate change. the president called the king -- the new king in saudi arabia to express condolences.</field>
+</doc>
+</add>

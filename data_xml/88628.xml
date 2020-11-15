@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190630_133000_The_Week_in_Parliament#start/899/end/934</field>
+<field name="datetime">6/30/2019 13:45:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Week in Parliament</field>
+<field name="showid">BBCNEWS_20190630_133000_The_Week_in_Parliament</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190630_133000_The_Week_in_Parliament/BBCNEWS_20190630_133000_The_Week_in_Parliament.thumbs/BBCNEWS_20190630_133000_The_Week_in_Parliament_000897.jpg</field>
+<field name="snippet">on westminster in a week in which mps backed government plans to cut greenhouse gas emissions in the uk to almost zero by 2050. many of my constituents, especially schoolchildren, will be delighted with this announcement, but others are rightly sceptical about the cost.</field>
+</doc>
+</add>

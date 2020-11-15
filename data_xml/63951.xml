@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201410.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20141014_070000_All_In_With_Chris_Hayes#start/1112/end/1147</field>
+<field name="datetime">10/14/2014 7:18:47</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20141014_070000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20141014_070000_All_In_With_Chris_Hayes/MSNBCW_20141014_070000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20141014_070000_All_In_With_Chris_Hayes_001095.jpg</field>
+<field name="snippet">here's mitch mcconnell on climate change, which i think is a bitter gaffe. if climate change is a problem, and, do you believe it is or not? i'm not a scientist. all i can tell you is that</field>
+</doc>
+</add>

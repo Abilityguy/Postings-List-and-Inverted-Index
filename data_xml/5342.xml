@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171222_003000_Brexitcast#start/108/end/143</field>
+<field name="datetime">12/22/2017 0:32:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Brexitcast</field>
+<field name="showid">BBCNEWS_20171222_003000_Brexitcast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171222_003000_Brexitcast/BBCNEWS_20171222_003000_Brexitcast.thumbs/BBCNEWS_20171222_003000_Brexitcast_000088.jpg</field>
+<field name="snippet">this was also a year that put global warming in the spotlight again, when america pulled out of the worldwide climate deal. and after 20 years in space, a mission to saturn ended in a blaze of glory. a grand finale to a momentous year in science.</field>
+</doc>
+</add>

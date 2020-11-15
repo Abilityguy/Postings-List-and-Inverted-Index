@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190411_070000_Fox_News__Night_With_Shannon_Bream#start/1474/end/1509</field>
+<field name="datetime">4/11/2019 7:24:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News  Night With Shannon Bream</field>
+<field name="showid">FOXNEWSW_20190411_070000_Fox_News__Night_With_Shannon_Bream</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190411_070000_Fox_News__Night_With_Shannon_Bream/FOXNEWSW_20190411_070000_Fox_News__Night_With_Shannon_Bream.thumbs/FOXNEWSW_20190411_070000_Fox_News__Night_With_Shannon_Bream_001469.jpg</field>
+<field name="snippet">wildfires in alberta to hurricanes in puerto rico, climate change is one of the reasons many of us are forced to leave our homes in search of a safer place to live. ocasio cortez has other allies like john kerry who praised her push for climate change action.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181117_210000_Americas_News_HQ#start/152/end/187</field>
+<field name="datetime">11/17/2018 21:02:47</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20181117_210000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181117_210000_Americas_News_HQ/FOXNEWSW_20181117_210000_Americas_News_HQ.thumbs/FOXNEWSW_20181117_210000_Americas_News_HQ_000148.jpg</field>
+<field name="snippet">whom are about as politically far from the president as you can get has been peppered with questions about his views on climate change and his claim that some of the california fires could be avoided if there was better land management.</field>
+</doc>
+</add>

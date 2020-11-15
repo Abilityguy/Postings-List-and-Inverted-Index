@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201309.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130927_100000_Morning_Joe#start/1365/end/1400</field>
+<field name="datetime">9/27/2013 10:23:00</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20130927_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130927_100000_Morning_Joe/MSNBCW_20130927_100000_Morning_Joe.thumbs/MSNBCW_20130927_100000_Morning_Joe_001365.jpg</field>
+<field name="snippet">panel on the climate change, 259 scientists got together, the big headline they're saying for the first time, it's extremely likely that humans dominate the cause of observed warming since 1950. that's up from likelihood. they're saying 95% chance that the warming of the planet is</field>
+</doc>
+</add>

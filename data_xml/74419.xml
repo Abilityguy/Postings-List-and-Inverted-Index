@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_110000_BBC_Newsroom_Live#start/2925/end/2960</field>
+<field name="datetime">1/17/2020 11:49:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20200117_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_110000_BBC_Newsroom_Live/BBCNEWS_20200117_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20200117_110000_BBC_Newsroom_Live_002907.jpg</field>
+<field name="snippet">tackle climate change from the ground up. let me remind you that if you want to find out more about climate change and what you can do, go to our website, bbc.co.uk/news or the bbc news app.</field>
+</doc>
+</add>

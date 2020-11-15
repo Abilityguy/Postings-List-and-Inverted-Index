@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201104.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110428_150000_Happening_Now#start/6518/end/6553</field>
+<field name="datetime">4/28/2011 16:48:53</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20110428_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110428_150000_Happening_Now/FOXNEWS_20110428_150000_Happening_Now.thumbs/FOXNEWS_20110428_150000_Happening_Now_006500.jpg</field>
+<field name="snippet">the head of fema has long experience with seve weather. craig fugate served for eight years as the director of florida's state emergency management division, and when asked if climate change is to blame for what we're seeing today, he said, quote, actually what we're seeing is springtime.</field>
+</doc>
+</add>

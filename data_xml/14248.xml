@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201703.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170325_230000_Fox_Report_Saturday#start/3585/end/3620</field>
+<field name="datetime">3/26/2017 0:00:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox Report Saturday</field>
+<field name="showid">FOXNEWSW_20170325_230000_Fox_Report_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170325_230000_Fox_Report_Saturday/FOXNEWSW_20170325_230000_Fox_Report_Saturday.thumbs/FOXNEWSW_20170325_230000_Fox_Report_Saturday_003567.jpg</field>
+<field name="snippet">in the empire state building here in new york city. the initiative started by the world wildlife foundation. it hopes to bring awareness to climate change. that is how fox reports.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201503.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150302_220000_The_Ed_Show#start/3283/end/3318</field>
+<field name="datetime">3/2/2015 22:54:58</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20150302_220000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150302_220000_The_Ed_Show/MSNBCW_20150302_220000_The_Ed_Show.thumbs/MSNBCW_20150302_220000_The_Ed_Show_003285.jpg</field>
+<field name="snippet">nasa says the melt adds up to 130 billion tons of ice per year for the past decade. scientists called it ground zero for climate change. they warn this will reshape the earth as we know it. although the chair of the senate environment and public works</field>
+</doc>
+</add>

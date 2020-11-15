@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201607.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160729_050000_Americas_Election_HQ#start/194/end/229</field>
+<field name="datetime">7/29/2016 5:03:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Election HQ</field>
+<field name="showid">FOXNEWSW_20160729_050000_Americas_Election_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160729_050000_Americas_Election_HQ/FOXNEWSW_20160729_050000_Americas_Election_HQ.thumbs/FOXNEWSW_20160729_050000_Americas_Election_HQ_000177.jpg</field>
+<field name="snippet">believes that we can always do better when we come together and we work together. reporter: in officially accepting the nomination, hillary clinton brought the crowd to their feet several times. from gun control to climate change, clinton vowed to bring</field>
+</doc>
+</add>

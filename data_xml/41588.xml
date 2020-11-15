@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090810_100000_FOX_and_Friends#start/1535/end/1570</field>
+<field name="datetime">8/10/2009 10:25:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20090810_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090810_100000_FOX_and_Friends/FOXNEWS_20090810_100000_FOX_and_Friends.thumbs/FOXNEWS_20090810_100000_FOX_and_Friends_001526.jpg</field>
+<field name="snippet">exacerbated drought and the conflicts have been intensified. in fact, climate change is a force multiplier. you combine that with the idea that not only do the effects cause mass migrations. but also we are sending all these billions of dollars to our</field>
+</doc>
+</add>

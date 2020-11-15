@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201303.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130302_110000_FOX_and_Friends_Saturday#start/1055/end/1090</field>
+<field name="datetime">3/2/2013 11:17:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20130302_110000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130302_110000_FOX_and_Friends_Saturday/FOXNEWSW_20130302_110000_FOX_and_Friends_Saturday.thumbs/FOXNEWSW_20130302_110000_FOX_and_Friends_Saturday_001035.jpg</field>
+<field name="snippet">with us this morning. we heard how we are going to be cutting kindergarten teachers and first responders. it turns out we could be cutting a lot of other things. going through a list. apparently the federal government is paying for a climate change musical? yeah, hundreds and</field>
+</doc>
+</add>

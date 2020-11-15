@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201512.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151206_190000_Fox_News_Sunday_With_Chris_Wallace#start/1965/end/2000</field>
+<field name="datetime">12/6/2015 19:33:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News Sunday With Chris Wallace</field>
+<field name="showid">FOXNEWSW_20151206_190000_Fox_News_Sunday_With_Chris_Wallace</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151206_190000_Fox_News_Sunday_With_Chris_Wallace/FOXNEWSW_20151206_190000_Fox_News_Sunday_With_Chris_Wallace.thumbs/FOXNEWSW_20151206_190000_Fox_News_Sunday_With_Chris_Wallace_001965.jpg</field>
+<field name="snippet">a look outside the beltway at buffalo, new york. snowless this time of year for the first time since 1899. let the climate change debate begin. one month ago dr. ben carson was riding high on the polls in a virtual tie with gop frontrunner donald trump, but after terror</field>
+</doc>
+</add>

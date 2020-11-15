@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170429_210000_Americas_News_HQ#start/789/end/824</field>
+<field name="datetime">4/29/2017 21:13:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20170429_210000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170429_210000_Americas_News_HQ/FOXNEWSW_20170429_210000_Americas_News_HQ.thumbs/FOXNEWSW_20170429_210000_Americas_News_HQ_000777.jpg</field>
+<field name="snippet">people marching on washington today to raise awareness about climate change. the march is taking place in sweltering heat, almost 90 degrees, and coming one week after the march for science which also drew massive crowds. meanwhile, president trump continues his efforts to roll</field>
+</doc>
+</add>

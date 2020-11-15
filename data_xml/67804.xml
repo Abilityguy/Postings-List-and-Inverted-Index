@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190219_060000_Breakfast#start/7686/end/7721</field>
+<field name="datetime">2/19/2019 8:08:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190219_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190219_060000_Breakfast/BBCNEWS_20190219_060000_Breakfast.thumbs/BBCNEWS_20190219_060000_Breakfast_007678.jpg</field>
+<field name="snippet">the impact of fast fashion stretches around the world. in east asia, many rivers are polluted with waste from the clothing industry. the fashion trade produces as many greenhouse gases as all the world's aircraft. young people's habits of buying</field>
+</doc>
+</add>

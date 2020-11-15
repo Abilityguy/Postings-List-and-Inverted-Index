@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201506.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150621_210000_MediaBuzz#start/3325/end/3360</field>
+<field name="datetime">6/21/2015 21:55:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">MediaBuzz</field>
+<field name="showid">FOXNEWSW_20150621_210000_MediaBuzz</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150621_210000_MediaBuzz/FOXNEWSW_20150621_210000_MediaBuzz.thumbs/FOXNEWSW_20150621_210000_MediaBuzz_003315.jpg</field>
+<field name="snippet">and that brings me back to today's obsession with global warming. we're going to see more floods more droughts, more wildfires . john: in 2018, abc news</field>
+</doc>
+</add>

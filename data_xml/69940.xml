@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201605.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160525_210000_MTP_Daily#start/970/end/1005</field>
+<field name="datetime">5/25/2016 21:16:25</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20160525_210000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160525_210000_MTP_Daily/MSNBCW_20160525_210000_MTP_Daily.thumbs/MSNBCW_20160525_210000_MTP_Daily_000957.jpg</field>
+<field name="snippet">changing and things are changing and we now acknowledge that john kerry is doing it. you know, it's not the biggest issue in the world. there is a lot more issues, income inequality, student loans. my lord, climate change. we've got lots to talk about. this is a report that</field>
+</doc>
+</add>

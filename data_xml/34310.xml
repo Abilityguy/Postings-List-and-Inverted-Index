@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201403.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140313_020000_Hannity#start/3618/end/3653</field>
+<field name="datetime">3/13/2014 3:00:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20140313_020000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140313_020000_Hannity/FOXNEWSW_20140313_020000_Hannity.thumbs/FOXNEWSW_20140313_020000_Hannity_003615.jpg</field>
+<field name="snippet">put a price on. put a price on denial. a new poll says americans don't really care very much about global warming, climate change but they do care about their financial well being. we will have the facts.</field>
+</doc>
+</add>

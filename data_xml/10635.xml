@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201511.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151129_180000_Americas_News_HQ#start/704/end/739</field>
+<field name="datetime">11/29/2015 18:11:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20151129_180000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151129_180000_Americas_News_HQ/FOXNEWSW_20151129_180000_Americas_News_HQ.thumbs/FOXNEWSW_20151129_180000_Americas_News_HQ_000705.jpg</field>
+<field name="snippet">detained in paris after a march for a climate change deal became violent. this as president obama is en route to france right now where he'll be joining the u.n. climate summit. kevin cork is waiting the president's arrival in paris. is this going to turn into a summit about isis instead of</field>
+</doc>
+</add>

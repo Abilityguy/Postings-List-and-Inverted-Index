@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170123_231500_Newsnight#start/2108/end/2143</field>
+<field name="datetime">1/23/2017 23:50:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsnight</field>
+<field name="showid">BBCNEWS_20170123_231500_Newsnight</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170123_231500_Newsnight/BBCNEWS_20170123_231500_Newsnight.thumbs/BBCNEWS_20170123_231500_Newsnight_002097.jpg</field>
+<field name="snippet">thank you for being late. it describes how three forces are accelerating the processes that drive our lives - technology, globalisation and climate change - explaining, well, everything. he's a three-time pulitzer prize-winning journalist,</field>
+</doc>
+</add>

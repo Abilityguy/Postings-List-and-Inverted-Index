@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170706_160000_BBC_News_at_Five#start/483/end/518</field>
+<field name="datetime">7/6/2017 16:08:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20170706_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170706_160000_BBC_News_at_Five/BBCNEWS_20170706_160000_BBC_News_at_Five.thumbs/BBCNEWS_20170706_160000_BBC_News_at_Five_000477.jpg</field>
+<field name="snippet">the paris agreement, angela merkel making climate change the priority of this summit and says the rest of the world will push on with implementing paris. they are poles apart on key issues and key policies, it's going to be</field>
+</doc>
+</add>

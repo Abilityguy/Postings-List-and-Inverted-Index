@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_023000_Thursday_in_Parliament#start/0/end/35</field>
+<field name="datetime">1/17/2020 2:30:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Thursday in Parliament</field>
+<field name="showid">BBCNEWS_20200117_023000_Thursday_in_Parliament</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_023000_Thursday_in_Parliament/BBCNEWS_20200117_023000_Thursday_in_Parliament.thumbs/BBCNEWS_20200117_023000_Thursday_in_Parliament_000028.jpg</field>
+<field name="snippet">the world has reached the point of climate change crisis, sir david attenborough has told the bbc. he said countries had been dodging their commitments for too long. sir david added that it is palpable nonsense for politicians to suggest the australian fires are nothing</field>
+</doc>
+</add>

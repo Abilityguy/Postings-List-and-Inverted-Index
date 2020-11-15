@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201105.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110520_150000_MSNBC_Live#start/656/end/691</field>
+<field name="datetime">5/20/2011 15:11:11</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBC_20110520_150000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20110520_150000_MSNBC_Live/MSNBC_20110520_150000_MSNBC_Live.thumbs/MSNBC_20110520_150000_MSNBC_Live_000655.jpg</field>
+<field name="snippet">400 people polled said that they would pick jon huntsman as their presidential candidate. he does have a problem in the gop primaries of being tied to this administration, and his policies are quite moderate. he speaks about climate change, he believes the science behind it. he wants to do something about</field>
+</doc>
+</add>

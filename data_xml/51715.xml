@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181227_063000_Review_2018#start/704/end/739</field>
+<field name="datetime">12/27/2018 6:41:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Review 2018</field>
+<field name="showid">BBCNEWS_20181227_063000_Review_2018</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181227_063000_Review_2018/BBCNEWS_20181227_063000_Review_2018.thumbs/BBCNEWS_20181227_063000_Review_2018_000688.jpg</field>
+<field name="snippet">jets contributes a great deal to global warming. but electric planes such as this one can't carry enough</field>
+</doc>
+</add>

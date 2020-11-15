@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201404.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140405_100000_FOX_and_Friends_Saturday#start/182/end/217</field>
+<field name="datetime">4/5/2014 10:03:17</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20140405_100000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140405_100000_FOX_and_Friends_Saturday/FOXNEWSW_20140405_100000_FOX_and_Friends_Saturday.thumbs/FOXNEWSW_20140405_100000_FOX_and_Friends_Saturday_000165.jpg</field>
+<field name="snippet">of climate change declare the issue closed, it's over. there is no debate, it is settled science. and, therefore, anybody who is skeptical of that is considered antiscience and is called a denier, a conscious way to echo that</field>
+</doc>
+</add>

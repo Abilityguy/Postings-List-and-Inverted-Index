@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170502_130000_Americas_Newsroom#start/2852/end/2887</field>
+<field name="datetime">5/2/2017 13:47:47</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWSW_20170502_130000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170502_130000_Americas_Newsroom/FOXNEWSW_20170502_130000_Americas_Newsroom.thumbs/FOXNEWSW_20170502_130000_Americas_Newsroom_002847.jpg</field>
+<field name="snippet">climate change or the possible severity of its consequences. ordinary citizens have a right to be skeptical. they know that history is littered with the human wreckage of scientific errors married to political power.</field>
+</doc>
+</add>

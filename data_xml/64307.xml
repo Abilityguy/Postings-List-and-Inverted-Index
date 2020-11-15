@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201606.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160624_180000_MSNBC_Live#start/195/end/230</field>
+<field name="datetime">6/24/2016 18:03:30</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20160624_180000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160624_180000_MSNBC_Live/MSNBCW_20160624_180000_MSNBC_Live.thumbs/MSNBCW_20160624_180000_MSNBC_Live_000177.jpg</field>
+<field name="snippet">pressing global problems from climate change to poverty. when people can start their own businesses, it helps individuals and families succeed and can make whole communities more prosperous and more secure. it offers a positive path for</field>
+</doc>
+</add>

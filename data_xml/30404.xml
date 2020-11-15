@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.202001.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20200107_110000_Morning_Joe#start/1585/end/1620</field>
+<field name="datetime">1/7/2020 11:26:40</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20200107_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20200107_110000_Morning_Joe/MSNBCW_20200107_110000_Morning_Joe.thumbs/MSNBCW_20200107_110000_Morning_Joe_001528.jpg</field>
+<field name="snippet">cigna. together, all the way. this melting pot of impacted species. everywhere is going to get touched by climate change.</field>
+</doc>
+</add>

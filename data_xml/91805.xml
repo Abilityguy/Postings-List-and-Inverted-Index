@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190712_000000_Tucker_Carlson_Tonight#start/1435/end/1470</field>
+<field name="datetime">7/12/2019 0:24:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190712_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190712_000000_Tucker_Carlson_Tonight/FOXNEWSW_20190712_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190712_000000_Tucker_Carlson_Tonight_001438.jpg</field>
+<field name="snippet">man-made climate change, our emissions, our excesses in the face of the fact of the science. when it is that deadly, you are unable to grow food to feed yourself, you have no choice but to come here.</field>
+</doc>
+</add>

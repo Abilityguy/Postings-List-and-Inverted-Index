@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201110.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111002_100000_FOX_and_Friends_Sunday#start/3753/end/3788</field>
+<field name="datetime">10/2/2011 11:02:48</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20111002_100000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111002_100000_FOX_and_Friends_Sunday/FOXNEWSW_20111002_100000_FOX_and_Friends_Sunday.thumbs/FOXNEWSW_20111002_100000_FOX_and_Friends_Sunday_003750.jpg</field>
+<field name="snippet">mainly in the wall street area, but on a much smaller scale. the rally is a demonstration against corporate greed, global warming, social equality. and boys, would you like to jump in on this one. dave: they don't know what they were doing out there. that was editorial.</field>
+</doc>
+</add>

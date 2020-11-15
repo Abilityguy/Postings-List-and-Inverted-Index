@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181129_220000_BBC_News_at_Ten#start/1663/end/1698</field>
+<field name="datetime">11/29/2018 22:27:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20181129_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181129_220000_BBC_News_at_Ten/BBCNEWS_20181129_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20181129_220000_BBC_News_at_Ten_001647.jpg</field>
+<field name="snippet">in an underground laboratory plants grown in carefully monitored conditions. instruments keep track of every detail, and mixed into the soil is a powder - it's rock that's been ground up. this is a major project to see if agriculture can help tackle climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201401.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140128_030000_Hannity#start/200/end/235</field>
+<field name="datetime">1/28/2014 3:03:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20140128_030000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140128_030000_Hannity/FOXNEWSW_20140128_030000_Hannity.thumbs/FOXNEWSW_20140128_030000_Hannity_000195.jpg</field>
+<field name="snippet">on issues like re-writing the health care laws. we're told to expect a lot more executive action on climate change, on energy, that will frustrate republicans on the hill. so on some of this, it will be</field>
+</doc>
+</add>

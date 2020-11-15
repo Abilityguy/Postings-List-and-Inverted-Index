@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170702_220000_BBC_News#start/1776/end/1811</field>
+<field name="datetime">7/2/2017 22:29:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170702_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170702_220000_BBC_News/BBCNEWS_20170702_220000_BBC_News.thumbs/BBCNEWS_20170702_220000_BBC_News_001768.jpg</field>
+<field name="snippet">italy struggles to cope with the 80000 migrants that have arrived on its shores since the start of the year. and stephen hawking criticises president trump's decision to pull out of the paris accord, warning it could lead to irreversible climate change. hello and welcome to our look ahead</field>
+</doc>
+</add>

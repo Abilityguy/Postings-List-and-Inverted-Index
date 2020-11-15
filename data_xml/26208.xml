@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201003.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100323_220000_Special_Report_With_Bret_Baier#start/1472/end/1507</field>
+<field name="datetime">3/23/2010 22:24:47</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100323_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100323_220000_Special_Report_With_Bret_Baier/FOXNEWS_20100323_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100323_220000_Special_Report_With_Bret_Baier_001465.jpg</field>
+<field name="snippet">bret: early they are month a federal judge said a government black listing of the scandal-plagued group was illegal. we'll tell you who was behind an elaborate fake news release. global warming activists can now have a burger and</field>
+</doc>
+</add>

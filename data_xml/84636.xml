@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190421_210000_BBC_News#start/909/end/944</field>
+<field name="datetime">4/21/2019 21:15:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190421_210000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190421_210000_BBC_News/BBCNEWS_20190421_210000_BBC_News.thumbs/BBCNEWS_20190421_210000_BBC_News_000897.jpg</field>
+<field name="snippet">for a seventh day, climate change protesters were making noise on the streets of london. some dressed for the weather, others not so much. the people that are standing here today and that have been here for the last seven days, have been amazing, and without people standing up and speaking up</field>
+</doc>
+</add>

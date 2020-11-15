@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190422_050000_Breakfast#start/1905/end/1940</field>
+<field name="datetime">4/22/2019 5:32:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190422_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190422_050000_Breakfast/BBCNEWS_20190422_050000_Breakfast.thumbs/BBCNEWS_20190422_050000_Breakfast_001888.jpg</field>
+<field name="snippet">a week of climate change protests on waterloo bridge in london has been brought to an end by police, who removed the final activists from the site late last night. more than 960 people have been arrested in connection with the demonstrations. 'extinction rebellion' said it will hold a meeting in a legally-approved area at marble arch today, to decide its next steps.</field>
+</doc>
+</add>

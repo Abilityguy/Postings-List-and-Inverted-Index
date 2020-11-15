@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201007.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100706_080000_Special_Report_With_Bret_Baier#start/1947/end/1982</field>
+<field name="datetime">7/6/2010 8:32:42</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100706_080000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100706_080000_Special_Report_With_Bret_Baier/FOXNEWS_20100706_080000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100706_080000_Special_Report_With_Bret_Baier_001944.jpg</field>
+<field name="snippet">events and said the comment was taken out of context. a leading dutch environmental agency says the united states report on climate change -- united nations report on climate change is too generalized and has more errors than previously noted. despite the newly discovered flaws the netherlands</field>
+</doc>
+</add>

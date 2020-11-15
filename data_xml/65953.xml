@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190219_090000_Fox_and_Friends_First#start/359/end/394</field>
+<field name="datetime">2/19/2019 9:06:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190219_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190219_090000_Fox_and_Friends_First/FOXNEWSW_20190219_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190219_090000_Fox_and_Friends_First_000359.jpg</field>
+<field name="snippet">nominee taking aim at the declaration. hillary clinton pushing donald trump's efforts to secure the border, the secretary of state tweeting, quote, the real national emergency is religious gun violence, children separated from their families, climate change, americans dying for lack of healthcare.</field>
+</doc>
+</add>

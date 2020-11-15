@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_140000_Afternoon_Live#start/10836/end/10871</field>
+<field name="datetime">1/16/2020 17:00:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20200116_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_140000_Afternoon_Live/BBCNEWS_20200116_140000_Afternoon_Live.thumbs/BBCNEWS_20200116_140000_Afternoon_Live_010828.jpg</field>
+<field name="snippet">we'll hear more from sir david attenborough and talk to the director for the centre for climate change. the other main stories on bbc news at 5pm. prince harry makes his first public appearance since announcing that he and meghan will be stepping back from front line royal duties.</field>
+</doc>
+</add>

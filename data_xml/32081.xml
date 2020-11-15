@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201012.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101202_010000_The_OReilly_Factor#start/2170/end/2205</field>
+<field name="datetime">12/2/2010 1:36:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20101202_010000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101202_010000_The_OReilly_Factor/FOXNEWS_20101202_010000_The_OReilly_Factor.thumbs/FOXNEWS_20101202_010000_The_OReilly_Factor_002124.jpg</field>
+<field name="snippet">bill: tonya reiman, there you go. when we come right back, it will be miller time starring wikileaks, jimmy carter, global warming and, of course, miller. he is next. hey, guys, i know i've been bad at this in the past,. so i've come up with some mnemonic devices to help me learn your nas.</field>
+</doc>
+</add>

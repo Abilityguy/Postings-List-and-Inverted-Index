@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201409.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140921_230000_FOX_Report#start/1863/end/1898</field>
+<field name="datetime">9/21/2014 23:31:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report</field>
+<field name="showid">FOXNEWSW_20140921_230000_FOX_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140921_230000_FOX_Report/FOXNEWSW_20140921_230000_FOX_Report.thumbs/FOXNEWSW_20140921_230000_FOX_Report_001845.jpg</field>
+<field name="snippet">world comes two days before the start of a special u.n. summit on climate change. turkey, 700 refugees have streamed across the border and that number could be as high as 100000 all together as families</field>
+</doc>
+</add>

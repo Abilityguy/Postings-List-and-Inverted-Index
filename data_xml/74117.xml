@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201006.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100616_010000_The_Rachel_Maddow_Show#start/733/end/768</field>
+<field name="datetime">6/16/2010 1:12:28</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBC_20100616_010000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20100616_010000_The_Rachel_Maddow_Show/MSNBC_20100616_010000_The_Rachel_Maddow_Show.thumbs/MSNBC_20100616_010000_The_Rachel_Maddow_Show_000716.jpg</field>
+<field name="snippet">we saw two weeks ago in pittsburgh actually make some progress here? possibly. there are two things i think are important about tonight's speech. one is that it was about bp oil, right? i think a lot of policy wonks really wanted him to talk about climate change and talk about pricing carbon.</field>
+</doc>
+</add>

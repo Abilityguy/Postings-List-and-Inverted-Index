@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100208_230000_Special_Report_With_Bret_Baier#start/1545/end/1580</field>
+<field name="datetime">2/8/2010 23:26:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100208_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100208_230000_Special_Report_With_Bret_Baier/FOXNEWS_20100208_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100208_230000_Special_Report_With_Bret_Baier_001525.jpg</field>
+<field name="snippet">speaking of clean energy, one attempt at combatting global warming has fallen victim to the cold sting of ironing. and what did you think of the ad you bought in the super bowl? we look at reaction when we come back.</field>
+</doc>
+</add>

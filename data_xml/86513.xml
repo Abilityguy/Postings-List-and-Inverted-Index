@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191217_140000_Afternoon_Live#start/10039/end/10074</field>
+<field name="datetime">12/17/2019 16:47:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20191217_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191217_140000_Afternoon_Live/BBCNEWS_20191217_140000_Afternoon_Live.thumbs/BBCNEWS_20191217_140000_Afternoon_Live_010017.jpg</field>
+<field name="snippet">as the fires rage, so does the political debate about the impact of global warming. a group of former senior emergency officials has accused the australian government of not taking the threat of climate change seriously. here in new south wales, the fires are totally unprecedented.</field>
+</doc>
+</add>

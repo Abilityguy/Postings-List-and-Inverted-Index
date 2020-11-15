@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201005.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100513_100000_FOX_and_Friends#start/1463/end/1498</field>
+<field name="datetime">5/13/2010 10:24:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100513_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100513_100000_FOX_and_Friends/FOXNEWS_20100513_100000_FOX_and_Friends.thumbs/FOXNEWS_20100513_100000_FOX_and_Friends_001434.jpg</field>
+<field name="snippet">by 2050, we're going to have 100 million more people in the united states. that's according to the census. by 2050, they want to reduce greenhouse gases by 83%. ok. how's this going to work? we're going to have to ship off</field>
+</doc>
+</add>

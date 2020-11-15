@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200120_100000_Victoria_Derbyshire#start/3001/end/3036</field>
+<field name="datetime">1/20/2020 10:50:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20200120_100000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200120_100000_Victoria_Derbyshire/BBCNEWS_20200120_100000_Victoria_Derbyshire.thumbs/BBCNEWS_20200120_100000_Victoria_Derbyshire_002998.jpg</field>
+<field name="snippet">audience here knows there has been discussion amongst politicians there about whether this is related to climate change. you say absolutely, of course it is. yes, and one of the reasons for doing so is that in</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201309.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130920_100000_Morning_Joe#start/741/end/776</field>
+<field name="datetime">9/20/2013 10:12:36</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20130920_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130920_100000_Morning_Joe/MSNBCW_20130920_100000_Morning_Joe.thumbs/MSNBCW_20130920_100000_Morning_Joe_000735.jpg</field>
+<field name="snippet">murders has gone from 2200 in the early '90s to 420. because of stop-and-frisk. we had global warming during that period. you can blame it on global warming. these two things happen at the</field>
+</doc>
+</add>

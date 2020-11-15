@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190819_000000_Newsday#start/43/end/78</field>
+<field name="datetime">8/19/2019 0:00:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190819_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190819_000000_Newsday/BBCNEWS_20190819_000000_Newsday.thumbs/BBCNEWS_20190819_000000_Newsday_000027.jpg</field>
+<field name="snippet">malaysia's former prime minister najib razak is due in court later over alleged corruption. he denies the charges. and, iceland bids farewell to its first glacier lost to climate change - with a warning 'there's no time to lose'.</field>
+</doc>
+</add>

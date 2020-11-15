@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181215_053000_The_Travel_Show#start/158/end/193</field>
+<field name="datetime">12/15/2018 5:32:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Travel Show</field>
+<field name="showid">BBCNEWS_20181215_053000_The_Travel_Show</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181215_053000_The_Travel_Show/BBCNEWS_20181215_053000_The_Travel_Show.thumbs/BBCNEWS_20181215_053000_The_Travel_Show_000147.jpg</field>
+<field name="snippet">people we've talked to here today. they'd like more information about the carbon footprint of their food. labels would create the information about greenhouse gas emissions, about bio-diversity loss, and put that on products. that means consumers can change what they're purchasing.</field>
+</doc>
+</add>

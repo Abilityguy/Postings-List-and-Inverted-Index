@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201009.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100901_190000_MSNBC_News_Live#start/3424/end/3459</field>
+<field name="datetime">9/1/2010 19:57:19</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100901_190000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100901_190000_MSNBC_News_Live/MSNBC_20100901_190000_MSNBC_News_Live.thumbs/MSNBC_20100901_190000_MSNBC_News_Live_003413.jpg</field>
+<field name="snippet">animal planet, tlc, planet green, discovery produces some really wonderful programming on the concerns that face our planet when it comes to global warming or certain species</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191104_200000_MSNBC_Live_With_Ali_Velshi#start/3275/end/3310</field>
+<field name="datetime">11/4/2019 20:54:50</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20191104_200000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191104_200000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20191104_200000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20191104_200000_MSNBC_Live_With_Ali_Velshi_003269.jpg</field>
+<field name="snippet">system. i just want to bring some breaking news to my viewers. the united states has started the process of formally withdrawing from the paris climate change agreement. this is the landmark global coalition that is meant to curb emissions that cause climate</field>
+</doc>
+</add>

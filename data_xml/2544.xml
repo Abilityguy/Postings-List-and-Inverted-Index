@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200909.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20090901_030000_The_Rachel_Maddow_Show#start/1345/end/1380</field>
+<field name="datetime">9/1/2009 3:22:40</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBC_20090901_030000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20090901_030000_The_Rachel_Maddow_Show/MSNBC_20090901_030000_The_Rachel_Maddow_Show.thumbs/MSNBC_20090901_030000_The_Rachel_Maddow_Show_001346.jpg</field>
+<field name="snippet">last question for you, chris. the democrats' political argument is that this president would rather spend its political capital on stuff like health reform and climate change and this is something that would be nice to clean up but would eclipse everything else the</field>
+</doc>
+</add>

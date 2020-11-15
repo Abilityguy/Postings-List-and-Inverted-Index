@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190815_123000_BBC_News#start/1328/end/1363</field>
+<field name="datetime">8/15/2019 12:52:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190815_123000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190815_123000_BBC_News/BBCNEWS_20190815_123000_BBC_News.thumbs/BBCNEWS_20190815_123000_BBC_News_001317.jpg</field>
+<field name="snippet">campaigner, arron banks, aimed at climate change activist greta thunberg. ms thunberg, who chooses not to fly, is sailing from the uk to attend un climate summits in new york and chile. yesterday, mr banks referred to ms thunberg's sea voyage</field>
+</doc>
+</add>

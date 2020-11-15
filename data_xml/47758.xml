@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201511.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151130_200000_MSNBC_Live_With_Kate_Snow#start/5643/end/5678</field>
+<field name="datetime">11/30/2015 21:34:18</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Kate Snow</field>
+<field name="showid">MSNBCW_20151130_200000_MSNBC_Live_With_Kate_Snow</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151130_200000_MSNBC_Live_With_Kate_Snow/MSNBCW_20151130_200000_MSNBC_Live_With_Kate_Snow.thumbs/MSNBCW_20151130_200000_MSNBC_Live_With_Kate_Snow_005626.jpg</field>
+<field name="snippet">about 150 world leaders are meeting for a massive climate change summit in paris. today president obama addressed the summit, speaking about his own experience, witnessing the effects of climate change. this summer i saw the effects of climate change first hand in</field>
+</doc>
+</add>

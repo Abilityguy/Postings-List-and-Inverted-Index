@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170808_200000_Outside_Source#start/1115/end/1150</field>
+<field name="datetime">8/8/2017 20:18:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20170808_200000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170808_200000_Outside_Source/BBCNEWS_20170808_200000_Outside_Source.thumbs/BBCNEWS_20170808_200000_Outside_Source_001108.jpg</field>
+<field name="snippet">a couple ofjob offers, including from wikileaks. julian assange tweeted that he would be delighted to have him as a member of staff. a bbc investigation has revealed many countries around the world are under-reporting how much greenhouse gases they're emitting into the atmosphere.</field>
+</doc>
+</add>

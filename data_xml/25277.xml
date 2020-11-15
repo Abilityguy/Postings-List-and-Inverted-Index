@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201611.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161104_200000_Your_World_With_Neil_Cavuto#start/3410/end/3445</field>
+<field name="datetime">11/4/2016 20:57:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20161104_200000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161104_200000_Your_World_With_Neil_Cavuto/FOXNEWSW_20161104_200000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20161104_200000_Your_World_With_Neil_Cavuto_003387.jpg</field>
+<field name="snippet">energy, including shale, oil, natural gas and clean coal. we're going to put our miners back to work. we're going to put our steel workers back to work. we will cancel billions of dollars of global warming</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100111_230000_Special_Report_With_Bret_Baier#start/512/end/547</field>
+<field name="datetime">1/11/2010 23:08:47</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100111_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100111_230000_Special_Report_With_Bret_Baier/FOXNEWS_20100111_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100111_230000_Special_Report_With_Bret_Baier_000506.jpg</field>
+<field name="snippet">hanging on in quiet desperation is the english way. and the people in beijing, china, already oppressed just logged their coldest morning in 40 years. all evidence of a global big chill that has some wondering whatever happening to global warming. a gore and his friends, a</field>
+</doc>
+</add>

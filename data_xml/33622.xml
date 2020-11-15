@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091217_180000_The_Live_Desk#start/4426/end/4461</field>
+<field name="datetime">12/17/2009 19:14:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Live Desk</field>
+<field name="showid">FOXNEWS_20091217_180000_The_Live_Desk</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091217_180000_The_Live_Desk/FOXNEWS_20091217_180000_The_Live_Desk.thumbs/FOXNEWS_20091217_180000_The_Live_Desk_004369.jpg</field>
+<field name="snippet">leaders try to come up with a consensus on how to tackle the issue, which is not easy. we have random numbers for you. take a look at what people think about global warming. a 17% say the word 'crisis' described the issue.</field>
+</doc>
+</add>

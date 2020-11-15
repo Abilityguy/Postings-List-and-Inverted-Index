@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201810.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181011_210000_MTP_Daily#start/2407/end/2442</field>
+<field name="datetime">10/11/2018 21:40:22</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20181011_210000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181011_210000_MTP_Daily/MSNBCW_20181011_210000_MTP_Daily.thumbs/MSNBCW_20181011_210000_MTP_Daily_002398.jpg</field>
+<field name="snippet">is this normal, is this now normal? we know we have an oceans warming trend, all part of the climate change discussion and issue. but is this an anomaly that can be explained by an el nino or la</field>
+</doc>
+</add>

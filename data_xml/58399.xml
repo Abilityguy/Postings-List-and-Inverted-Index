@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181126_130000_BBC_News_at_One#start/1006/end/1041</field>
+<field name="datetime">11/26/2018 13:17:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20181126_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181126_130000_BBC_News_at_One/BBCNEWS_20181126_130000_BBC_News_at_One.thumbs/BBCNEWS_20181126_130000_BBC_News_at_One_000987.jpg</field>
+<field name="snippet">latest projections from the met office suggest climate change could transform britain. it warns that if greenhouse gas emissions aren't cut, summer temperatures could rise by more than five degrees by 2070, and scorching summers like this year's could become normal. our environment analyst</field>
+</doc>
+</add>

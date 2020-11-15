@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180105_060000_Breakfast#start/1916/end/1951</field>
+<field name="datetime">1/5/2018 6:32:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20180105_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180105_060000_Breakfast/BBCNEWS_20180105_060000_Breakfast.thumbs/BBCNEWS_20180105_060000_Breakfast_001917.jpg</field>
+<field name="snippet">this is breakfast with charlie stayt and naga munchetty. we'll bring you all the latest news and sport in a moment, but also on breakfast this morning. ? as scientists warn reefs are under siege from global warming, we'll find out why coral bleaching</field>
+</doc>
+</add>

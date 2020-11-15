@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190512_160000_BBC_News#start/704/end/739</field>
+<field name="datetime">5/12/2019 16:11:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190512_160000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190512_160000_BBC_News/BBCNEWS_20190512_160000_BBC_News.thumbs/BBCNEWS_20190512_160000_BBC_News_000687.jpg</field>
+<field name="snippet">pictures we've had in. police says three of the aircraft's occupants were treated by paramedics at the scene. their injuries are not life-threatening. the un secretary general has warned that politicians are not doing enough to tackle climate change. speaking in new zealand ahead of a tour of the pacific islands, antonio guterres, warned</field>
+</doc>
+</add>

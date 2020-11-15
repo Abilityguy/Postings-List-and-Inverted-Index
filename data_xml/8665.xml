@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190919_210000_The_Five#start/3018/end/3053</field>
+<field name="datetime">9/19/2019 21:50:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20190919_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190919_210000_The_Five/FOXNEWSW_20190919_210000_The_Five.thumbs/FOXNEWSW_20190919_210000_The_Five_002997.jpg</field>
+<field name="snippet">mike: it's your dog. dana: i'm totally innocent when it comes to climate change. i'm for innovation i believe capitalism is the best way to find new products. just talked about one this week brand new way to produce cement which is one of the biggest emissions of</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190611_214000_The_Papers#start/1203/end/1238</field>
+<field name="datetime">6/11/2019 22:00:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Papers</field>
+<field name="showid">BBCNEWS_20190611_214000_The_Papers</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190611_214000_The_Papers/BBCNEWS_20190611_214000_The_Papers.thumbs/BBCNEWS_20190611_214000_The_Papers_001109.jpg</field>
+<field name="snippet">through the weekend. this is bbc news. i'm ben brown. the headlines at 11:00: the prime minister pledges the uk will cut greenhouse gases to zero by 2050,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201103.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110315_100000_Morning_Joe#start/644/end/679</field>
+<field name="datetime">3/15/2011 10:10:59</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20110315_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20110315_100000_Morning_Joe/MSNBC_20110315_100000_Morning_Joe.thumbs/MSNBC_20110315_100000_Morning_Joe_000630.jpg</field>
+<field name="snippet">the tsunami caused the problem. you could have an earthquake way off the coast of california far away from your nuclear reactor and still get the tsunami with climate change and water levels rising, we don't know the impact of that. we need to move the generators above the basement</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201907.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190718_000000_All_In_With_Chris_Hayes#start/1910/end/1945</field>
+<field name="datetime">7/18/2019 0:32:05</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20190718_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190718_000000_All_In_With_Chris_Hayes/MSNBCW_20190718_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20190718_000000_All_In_With_Chris_Hayes_001888.jpg</field>
+<field name="snippet">hottest june on record, as noted by 'the washington post.' quote, nine of the ten warmest years on record have occurred since 2000, a trend scientists have tied mainly to human emissions of greenhouse gases. right now the biggest problem we face here and across the world</field>
+</doc>
+</add>

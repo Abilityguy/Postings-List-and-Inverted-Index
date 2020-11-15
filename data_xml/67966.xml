@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190215_233000_The_Papers#start/306/end/341</field>
+<field name="datetime">2/15/2019 23:35:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Papers</field>
+<field name="showid">BBCNEWS_20190215_233000_The_Papers</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190215_233000_The_Papers/BBCNEWS_20190215_233000_The_Papers.thumbs/BBCNEWS_20190215_233000_The_Papers_000298.jpg</field>
+<field name="snippet">the thousands of children who walked out of classes across the country today to demand more action from the government on climate change. those are the front pages. we will</field>
+</doc>
+</add>

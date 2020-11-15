@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190422_220000_BBC_News#start/47/end/82</field>
+<field name="datetime">4/22/2019 22:01:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190422_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190422_220000_BBC_News/BBCNEWS_20190422_220000_BBC_News.thumbs/BBCNEWS_20190422_220000_BBC_News_000028.jpg</field>
+<field name="snippet">it's thought the blaze, which broke out last night and extends to over a square mile, was started by a barbecue. police say more than a thousand people have been arrested after seven days of climate change protests. and at 11:30 we'll be taking an in-depth look at the papers with our reviewers rachel shabi and tim montgomerie - stay with us for that.</field>
+</doc>
+</add>

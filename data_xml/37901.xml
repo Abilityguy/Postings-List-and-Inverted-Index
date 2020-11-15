@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091009_230000_The_FOX_Report_With_Shepard_Smith#start/2763/end/2798</field>
+<field name="datetime">10/9/2009 23:46:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The FOX Report With Shepard Smith</field>
+<field name="showid">FOXNEWS_20091009_230000_The_FOX_Report_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091009_230000_The_FOX_Report_With_Shepard_Smith/FOXNEWS_20091009_230000_The_FOX_Report_With_Shepard_Smith.thumbs/FOXNEWS_20091009_230000_The_FOX_Report_With_Shepard_Smith_002753.jpg</field>
+<field name="snippet">they're in favor of a climate change bill, just not the one that's already pass the house of representatives. trace: critics say there may be something else going on here, right? under this bill companies that derive their power from traditional coal will get slammed while companies like</field>
+</doc>
+</add>

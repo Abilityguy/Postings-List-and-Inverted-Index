@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201504.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150427_093000_Way_Too_Early#start/1573/end/1608</field>
+<field name="datetime">4/27/2015 9:56:28</field>
+<field name="station">MSNBC</field>
+<field name="show">Way Too Early</field>
+<field name="showid">MSNBCW_20150427_093000_Way_Too_Early</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150427_093000_Way_Too_Early/MSNBCW_20150427_093000_Way_Too_Early.thumbs/MSNBCW_20150427_093000_Way_Too_Early_001545.jpg</field>
+<field name="snippet">ted cruz said that denying the existence of climate change made him like galileo. now, that's not really an apt comparison.</field>
+</doc>
+</add>

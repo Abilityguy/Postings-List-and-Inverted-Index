@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190510_180000_BBC_News#start/1640/end/1675</field>
+<field name="datetime">5/10/2019 18:27:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190510_180000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190510_180000_BBC_News/BBCNEWS_20190510_180000_BBC_News.thumbs/BBCNEWS_20190510_180000_BBC_News_001618.jpg</field>
+<field name="snippet">at the heart of government to combat climate change for 20 years is helping to set up a new research centre to develop ways of repairing the damage that's already been done. the urgency of the issue is such that we have very little time left. so we've got to pull out the stack</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190423_160000_BBC_News_at_Five#start/77/end/112</field>
+<field name="datetime">4/23/2019 16:01:32</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190423_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190423_160000_BBC_News_at_Five/BBCNEWS_20190423_160000_BBC_News_at_Five.thumbs/BBCNEWS_20190423_160000_BBC_News_at_Five_000059.jpg</field>
+<field name="snippet">i think we needed a lesson to show one person can change everything. the swedish schoolgirl who helped inspire global protests on climate change meets political leaders at westminster.</field>
+</doc>
+</add>

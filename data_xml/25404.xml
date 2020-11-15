@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201611.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161127_160000_MediaBuzz#start/78/end/113</field>
+<field name="datetime">11/27/2016 16:01:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">MediaBuzz</field>
+<field name="showid">FOXNEWSW_20161127_160000_MediaBuzz</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161127_160000_MediaBuzz/FOXNEWSW_20161127_160000_MediaBuzz.thumbs/FOXNEWSW_20161127_160000_MediaBuzz_000057.jpg</field>
+<field name="snippet">now his positions are in transition. the president-elect says he won't prosecute hillary clinton and denying climate change, well, that's changing, too. trump acknowledges he won't be bottling through on some of the promises he made during the heat of the campaign.</field>
+</doc>
+</add>

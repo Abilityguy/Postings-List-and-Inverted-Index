@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200104_113000_Dateline_London#start/1186/end/1221</field>
+<field name="datetime">1/4/2020 11:50:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Dateline London</field>
+<field name="showid">BBCNEWS_20200104_113000_Dateline_London</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200104_113000_Dateline_London/BBCNEWS_20200104_113000_Dateline_London.thumbs/BBCNEWS_20200104_113000_Dateline_London_001168.jpg</field>
+<field name="snippet">india, romania, the whole of south america is but constantly protesting on the streets. we have it in britain on climate change. we have it in france constantly. so what is the power of the citizen? it is everywhere in the headline but then again what doesn't quite match,</field>
+</doc>
+</add>

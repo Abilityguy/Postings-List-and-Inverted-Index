@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201412.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20141226_110000_Morning_Joe#start/3293/end/3328</field>
+<field name="datetime">12/26/2014 11:55:08</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20141226_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20141226_110000_Morning_Joe/MSNBCW_20141226_110000_Morning_Joe.thumbs/MSNBCW_20141226_110000_Morning_Joe_003286.jpg</field>
+<field name="snippet">seriously. it's a terrible thing that's going on but we have to be able to rationally deal with it. and when, you know, 90% of the scientists say climate change is happening we have to listen. so we know what's number one</field>
+</doc>
+</add>

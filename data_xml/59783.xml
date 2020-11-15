@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201301.csv</field>
+<field name="url">https://archive.org/details/CNNW_20130126_220000_CNN_Newsroom#start/1376/end/1411</field>
+<field name="datetime">1/26/2013 22:23:11</field>
+<field name="station">CNN</field>
+<field name="show">CNN Newsroom</field>
+<field name="showid">CNNW_20130126_220000_CNN_Newsroom</field>
+<field name="preview">https://archive.org/download/CNNW_20130126_220000_CNN_Newsroom/CNNW_20130126_220000_CNN_Newsroom.thumbs/CNNW_20130126_220000_CNN_Newsroom_001365.jpg</field>
+<field name="snippet">we call the internet of everything. trees will talk to networks will talk to scientists about climate change. cars will talk to road sensors will talk to stoplights about traffic efficiency. the ambulance will talk to patient records</field>
+</doc>
+</add>

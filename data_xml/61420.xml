@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201503.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150302_220000_The_Ed_Show#start/3239/end/3274</field>
+<field name="datetime">3/2/2015 22:54:14</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20150302_220000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150302_220000_The_Ed_Show/MSNBCW_20150302_220000_The_Ed_Show.thumbs/MSNBCW_20150302_220000_The_Ed_Show_003225.jpg</field>
+<field name="snippet">and finally tonight, we focus on the climate. every day we are getting new evidence of the effects of manmade climate change. today, the northeast plains and lower midwest are digging out from another round of snow and freezing rain. this storm brings massachusetts</field>
+</doc>
+</add>

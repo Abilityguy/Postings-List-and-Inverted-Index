@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180909_030000_BBC_News#start/1057/end/1092</field>
+<field name="datetime">9/9/2018 3:17:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180909_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180909_030000_BBC_News/BBCNEWS_20180909_030000_BBC_News.thumbs/BBCNEWS_20180909_030000_BBC_News_001047.jpg</field>
+<field name="snippet">last year, it was 49. tall ships carrying banners to highlight climate change sailed into sydney harbour in australia on saturday. the event was just one of hundreds</field>
+</doc>
+</add>

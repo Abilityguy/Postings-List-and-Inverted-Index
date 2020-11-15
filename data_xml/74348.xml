@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200114_140000_Afternoon_Live#start/1754/end/1789</field>
+<field name="datetime">1/14/2020 14:29:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20200114_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200114_140000_Afternoon_Live/BBCNEWS_20200114_140000_Afternoon_Live.thumbs/BBCNEWS_20200114_140000_Afternoon_Live_001738.jpg</field>
+<field name="snippet">there is smoke, they generate a lot of pm 2.5. you mentioned ozone, but when i was growing up it was the hole in the ozone layer people were talking about. that isn't so much as an issue. we are talking more about global</field>
+</doc>
+</add>

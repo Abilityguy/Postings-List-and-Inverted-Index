@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190409_100000_BBC_Newsroom_Live#start/295/end/330</field>
+<field name="datetime">4/9/2019 10:05:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190409_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190409_100000_BBC_Newsroom_Live/BBCNEWS_20190409_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190409_100000_BBC_Newsroom_Live_002158.jpg</field>
+<field name="snippet">researchers believe it'll give them a record of the climate going back around 1.5 million years, which could help with future predictions about climate change. here's our science correspondentjonathan amos. it's a never-ending</field>
+</doc>
+</add>

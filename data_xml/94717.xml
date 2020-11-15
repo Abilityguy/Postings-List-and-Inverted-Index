@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201004.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100428_140000_MSNBC_News_Live#start/888/end/923</field>
+<field name="datetime">4/28/2010 14:15:03</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100428_140000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100428_140000_MSNBC_News_Live/MSNBC_20100428_140000_MSNBC_News_Live.thumbs/MSNBC_20100428_140000_MSNBC_News_Live_000870.jpg</field>
+<field name="snippet">now washington, d.c. could follow suit. mexico issuing a travel advisory warning its residents about visiting arizona. on the hill yesterday the republican who stalled his own climate change bill because he didn't wan to debate illegal immigration said the law may not pass legal muster.</field>
+</doc>
+</add>

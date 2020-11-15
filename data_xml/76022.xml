@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190502_170000_BBC_News_at_Six#start/691/end/726</field>
+<field name="datetime">5/2/2019 17:11:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20190502_170000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190502_170000_BBC_News_at_Six/BBCNEWS_20190502_170000_BBC_News_at_Six.thumbs/BBCNEWS_20190502_170000_BBC_News_at_Six_000687.jpg</field>
+<field name="snippet">and help limit global warming. we are responsible for a great deal of the warming the world is now seeing, the climate change we are now seeing, but more than that we also consume a lot</field>
+</doc>
+</add>

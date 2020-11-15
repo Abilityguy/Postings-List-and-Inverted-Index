@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190518_000000_BBC_News#start/231/end/266</field>
+<field name="datetime">5/18/2019 0:04:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190518_000000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190518_000000_BBC_News/BBCNEWS_20190518_000000_BBC_News.thumbs/BBCNEWS_20190518_000000_BBC_News_000208.jpg</field>
+<field name="snippet">bob hawke died just the other night and i think that might rally the true believers and i think labor, i hope, mightjust get in. what about the issues of climate change and the economy, what do you think will sway this election? the centre-right governing coalition saying that it is the key economic manager,</field>
+</doc>
+</add>

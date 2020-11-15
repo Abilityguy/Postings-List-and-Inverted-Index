@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190312_100000_FOX__Friends#start/7747/end/7782</field>
+<field name="datetime">3/12/2019 12:09:22</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20190312_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190312_100000_FOX__Friends/FOXNEWSW_20190312_100000_FOX__Friends.thumbs/FOXNEWSW_20190312_100000_FOX__Friends_007739.jpg</field>
+<field name="snippet">warming this is something we do that is another contribution to addressing global warming. striking a balance in our whole society. ainsley: great. steve: one thing to talk about the health of the students. it is another thing to talk about reducing green house gas</field>
+</doc>
+</add>

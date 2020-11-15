@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201411.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141105_200000_Shepard_Smith_Reporting#start/312/end/347</field>
+<field name="datetime">11/5/2014 20:05:27</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20141105_200000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141105_200000_Shepard_Smith_Reporting/FOXNEWSW_20141105_200000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20141105_200000_Shepard_Smith_Reporting_000285.jpg</field>
+<field name="snippet">and whether it's immigration or climate change or making sure our kids are going to the best possible schools to making sure that our communities are creating jobs, whether it's stopping the spread of terror and disease to opening up doors of opportunity to everybody who's willing to work hard and</field>
+</doc>
+</add>

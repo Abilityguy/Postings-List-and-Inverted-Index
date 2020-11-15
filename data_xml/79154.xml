@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201402.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140218_210000_NOW_With_Alex_Wagner#start/1185/end/1220</field>
+<field name="datetime">2/18/2014 21:20:00</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20140218_210000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140218_210000_NOW_With_Alex_Wagner/MSNBCW_20140218_210000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20140218_210000_NOW_With_Alex_Wagner_001185.jpg</field>
+<field name="snippet">to combat carbon pollution that causes climate change, this trend is going to get worse. secretary of state john kerry announced a new partnership on climate change with china.</field>
+</doc>
+</add>

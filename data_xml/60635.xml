@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_080000_Victoria_Derbyshire#start/202/end/237</field>
+<field name="datetime">10/8/2018 8:03:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20181008_080000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_080000_Victoria_Derbyshire/BBCNEWS_20181008_080000_Victoria_Derbyshire.thumbs/BBCNEWS_20181008_080000_Victoria_Derbyshire_000177.jpg</field>
+<field name="snippet">of a global temperature rise of more than 1.5 degrees and a plan for precisely how that can be prevented. countries need to up their ambition and get moving now with climate change action if we're going to keep 1.5 degrees within reach. with no action, the world is on course to breach this crucial</field>
+</doc>
+</add>

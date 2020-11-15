@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191202_110000_BBC_Newsroom_Live#start/5381/end/5416</field>
+<field name="datetime">12/2/2019 12:29:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20191202_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191202_110000_BBC_Newsroom_Live/BBCNEWS_20191202_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20191202_110000_BBC_Newsroom_Live_005369.jpg</field>
+<field name="snippet">a growing disconnect between the resources that developing countries need to cope with the impact on what is being provided, so yeah, while governments drag their feet are here, the climate crisis is wreaking havoc across the world. there are</field>
+</doc>
+</add>

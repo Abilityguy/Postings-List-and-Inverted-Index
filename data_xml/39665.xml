@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091126_090000_Special_Report_With_Bret_Baier#start/66/end/101</field>
+<field name="datetime">11/26/2009 9:01:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091126_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091126_090000_Special_Report_With_Bret_Baier/FOXNEWS_20091126_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091126_090000_Special_Report_With_Bret_Baier_000056.jpg</field>
+<field name="snippet">recently discovered e-mails from climate scientists have many people doubting how legitimate that threat is. white house correspondent wendell goler explains. aides announced the president will stop in copenhagen near the start of the climate change conference</field>
+</doc>
+</add>

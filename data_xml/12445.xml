@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170709_020000_BBC_News#start/126/end/161</field>
+<field name="datetime">7/9/2017 2:02:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170709_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170709_020000_BBC_News/BBCNEWS_20170709_020000_BBC_News.thumbs/BBCNEWS_20170709_020000_BBC_News_000117.jpg</field>
+<field name="snippet">on global warming. translation: i think it's very clear but unfortunately we could not reach consensus. but the differences were not papered over. they were clearly stated. and president trump, apparently to protect america's capacity to pollute, insisted today on the inclusion of separate us-only paragraphs</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201707.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170705_220000_MSNBC_Live#start/125/end/160</field>
+<field name="datetime">7/5/2017 22:02:20</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170705_220000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170705_220000_MSNBC_Live/MSNBCW_20170705_220000_MSNBC_Live.thumbs/MSNBCW_20170705_220000_MSNBC_Live_000118.jpg</field>
+<field name="snippet">so let's go to nbc's peter alexander who is traveling with the president in warsaw now. so, peter, this is already going to be a complicated g20 if you want to talk about trade, syria, climate change, i could go on, and of course the putin meeting. but now how does north korea</field>
+</doc>
+</add>

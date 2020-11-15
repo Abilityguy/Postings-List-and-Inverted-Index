@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191008_080000_BBC_News_at_Nine#start/3089/end/3124</field>
+<field name="datetime">10/8/2019 8:51:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20191008_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191008_080000_BBC_News_at_Nine/BBCNEWS_20191008_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20191008_080000_BBC_News_at_Nine_003088.jpg</field>
+<field name="snippet">but this is quite different because this affects everybody, public opinion is quite high about climate change and people are waking up to the fact that this is something we need to deal with, and i think people are frustrated that nothing</field>
+</doc>
+</add>

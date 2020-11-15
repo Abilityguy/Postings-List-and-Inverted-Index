@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191231_040000_BBC_News#start/1237/end/1272</field>
+<field name="datetime">12/31/2019 4:20:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191231_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191231_040000_BBC_News/BBCNEWS_20191231_040000_BBC_News.thumbs/BBCNEWS_20191231_040000_BBC_News_001228.jpg</field>
+<field name="snippet">the 16-year-old campaigner greta thunberg has said she wants to go back to school as soon as she can. she's been talking to the bbc at the end of a year in which she became known around the world for spearheading a youth movement pressing for more action on climate change. mishal husain went to</field>
+</doc>
+</add>

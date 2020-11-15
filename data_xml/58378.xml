@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181102_110000_BBC_Newsroom_Live#start/3725/end/3760</field>
+<field name="datetime">11/2/2018 12:02:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20181102_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181102_110000_BBC_Newsroom_Live/BBCNEWS_20181102_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20181102_110000_BBC_Newsroom_Live_003717.jpg</field>
+<field name="snippet">summers and the kind of heatwave we had last year i suppose many people will clap and cheer. it's not all bad. we will have to take it in context. we are moving rapidly in this climate change environment</field>
+</doc>
+</add>

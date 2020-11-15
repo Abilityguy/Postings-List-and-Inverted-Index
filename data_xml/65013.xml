@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190328_000000_Tucker_Carlson_Tonight#start/2184/end/2219</field>
+<field name="datetime">3/28/2019 0:36:39</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190328_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190328_000000_Tucker_Carlson_Tonight/FOXNEWSW_20190328_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190328_000000_Tucker_Carlson_Tonight_002159.jpg</field>
+<field name="snippet">deaths from natural disasters are way lower than they were 100 years ago. it's not obvious that global warming is doing this. deaths from hurricanes hundred years ago are far more. we need to look at the entire</field>
+</doc>
+</add>

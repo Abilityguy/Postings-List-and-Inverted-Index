@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091208_140000_Morning_Meeting#start/2913/end/2948</field>
+<field name="datetime">12/8/2009 14:48:48</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Meeting</field>
+<field name="showid">MSNBC_20091208_140000_Morning_Meeting</field>
+<field name="preview">https://archive.org/download/MSNBC_20091208_140000_Morning_Meeting/MSNBC_20091208_140000_Morning_Meeting.thumbs/MSNBC_20091208_140000_Morning_Meeting_002910.jpg</field>
+<field name="snippet">psychologists in london say climate change could make you nuts. according to a study it could provoke mental disorders like ptsd and depression and increased flooding could force people to move away from home</field>
+</doc>
+</add>

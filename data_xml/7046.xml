@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201510.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151012_090000_Fox_and_Friends_First#start/3643/end/3678</field>
+<field name="datetime">10/12/2015 10:00:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20151012_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151012_090000_Fox_and_Friends_First/FOXNEWSW_20151012_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20151012_090000_Fox_and_Friends_First_003615.jpg</field>
+<field name="snippet">obama does some explaining why. my definition of leadership would be leading on climate change. what? is that really earning us more respect around the world? we'll play some of the stuff he said last night.</field>
+</doc>
+</add>

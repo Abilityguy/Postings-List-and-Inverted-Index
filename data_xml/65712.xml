@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190218_230000_Special_Report_With_Bret_Baier#start/0/end/35</field>
+<field name="datetime">2/18/2019 23:00:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20190218_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190218_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20190218_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20190218_230000_Special_Report_With_Bret_Baier_000029.jpg</field>
+<field name="snippet">juan: greenhouse gas emissions. i once gave a speech in colorado, and the guy before me fainted. dana: that's how you know it's a good audience. [laughter] set your dvrs, never miss an episode of 'the five.' 'special report' is up next. hey, bret.</field>
+</doc>
+</add>

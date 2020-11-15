@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091012_200000_Your_World_With_Neil_Cavuto#start/3002/end/3037</field>
+<field name="datetime">10/12/2009 20:50:17</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWS_20091012_200000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091012_200000_Your_World_With_Neil_Cavuto/FOXNEWS_20091012_200000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWS_20091012_200000_Your_World_With_Neil_Cavuto_002993.jpg</field>
+<field name="snippet">global warming. a guest joins me right now. you were asking questions, and they shed the microphone off. -- they shut the microphone</field>
+</doc>
+</add>

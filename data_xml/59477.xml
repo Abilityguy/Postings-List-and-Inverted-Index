@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201112.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20111214_200000_Martin_Bashir#start/23/end/58</field>
+<field name="datetime">12/14/2011 20:00:38</field>
+<field name="station">MSNBC</field>
+<field name="show">Martin Bashir</field>
+<field name="showid">MSNBCW_20111214_200000_Martin_Bashir</field>
+<field name="preview">https://archive.org/download/MSNBCW_20111214_200000_Martin_Bashir/MSNBCW_20111214_200000_Martin_Bashir.thumbs/MSNBCW_20111214_200000_Martin_Bashir_000030.jpg</field>
+<field name="snippet">the reality of climate change. speaking of which, guess who has a new ad out against newt. together we can do this.</field>
+</doc>
+</add>

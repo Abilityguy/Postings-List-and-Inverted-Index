@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201907.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190709_160000_Andrea_Mitchell_Reports#start/82/end/117</field>
+<field name="datetime">7/9/2019 16:01:37</field>
+<field name="station">MSNBC</field>
+<field name="show">Andrea Mitchell Reports</field>
+<field name="showid">MSNBCW_20190709_160000_Andrea_Mitchell_Reports</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190709_160000_Andrea_Mitchell_Reports/MSNBCW_20190709_160000_Andrea_Mitchell_Reports.thumbs/MSNBCW_20190709_160000_Andrea_Mitchell_Reports_000057.jpg</field>
+<field name="snippet">something absolutely critical, try as hard as you can and let the chips fall where they may, and that's what i'm doing. coming up, we'll talk about that and a lot more with senator bernie sanders who wants to declare an emergency to battle climate change. and remembering a political</field>
+</doc>
+</add>

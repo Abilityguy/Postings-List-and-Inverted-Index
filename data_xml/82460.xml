@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201509.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150924_070000_Red_Eye#start/1873/end/1908</field>
+<field name="datetime">9/24/2015 7:31:28</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWSW_20150924_070000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150924_070000_Red_Eye/FOXNEWSW_20150924_070000_Red_Eye.thumbs/FOXNEWSW_20150924_070000_Red_Eye_001845.jpg</field>
+<field name="snippet">the first papal address to congress. but the vip visit may not go over well with some lawmakers. that's because the holy father is expected to raise some issues that put republicans and democrats at odds over the years such as climate change and immigration.</field>
+</doc>
+</add>

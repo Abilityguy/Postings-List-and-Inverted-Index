@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201505.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150521_030000_All_In_With_Chris_Hayes#start/2982/end/3017</field>
+<field name="datetime">5/21/2015 3:49:57</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20150521_030000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150521_030000_All_In_With_Chris_Hayes/MSNBCW_20150521_030000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20150521_030000_All_In_With_Chris_Hayes_002956.jpg</field>
+<field name="snippet">it was fascinating to me in the trove of bin laden documents, one of them was an undated document, written by bin laden discussing the massive consequence of climate change. it strikes me as, you know, if your enemies -- if you want to deny something's happening, that's not going to stop your enemy from denying something's happening? there's been a lot of</field>
+</doc>
+</add>

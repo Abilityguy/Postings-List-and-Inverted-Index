@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190429_050000_Breakfast#start/5161/end/5196</field>
+<field name="datetime">4/29/2019 6:26:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190429_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190429_050000_Breakfast/BBCNEWS_20190429_050000_Breakfast.thumbs/BBCNEWS_20190429_050000_Breakfast_005157.jpg</field>
+<field name="snippet">well, we know how cows' burps are a problem for climate change, but their dung also helps put carbon back into the soil. so this mobile dairy in the south of england may prove part of a solution. it means cows spread their dung across the fields, not leave it in the farmyard.</field>
+</doc>
+</add>

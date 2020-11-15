@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191029_053000_Business_Briefing#start/118/end/153</field>
+<field name="datetime">10/29/2019 5:32:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Business Briefing</field>
+<field name="showid">BBCNEWS_20191029_053000_Business_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191029_053000_Business_Briefing/BBCNEWS_20191029_053000_Business_Briefing.thumbs/BBCNEWS_20191029_053000_Business_Briefing_000117.jpg</field>
+<field name="snippet">meanwhile, in the us, exxonmobil is in court fighting a claim that it misleading investors about the potential costs of climate regulation to its business. and climate change is arguably already having a measurable impact on the industry. the number of big institutional investors, like pension funds, promising to get rid of their fossil</field>
+</doc>
+</add>

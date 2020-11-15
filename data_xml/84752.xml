@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190428_000000_BBC_News#start/938/end/973</field>
+<field name="datetime">4/28/2019 0:15:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190428_000000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190428_000000_BBC_News/BBCNEWS_20190428_000000_BBC_News.thumbs/BBCNEWS_20190428_000000_BBC_News_000927.jpg</field>
+<field name="snippet">day-to-day in terms of dealing with climate change or environmental problems are the same things we need to do to protect more and more of the species that are vulnerable to human activities. we will certainly keep an eye on that report as more details come about. thank you so much for your time. stay with us on bbc world news, still to come:</field>
+</doc>
+</add>

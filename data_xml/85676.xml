@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201709.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170909_153000_Dateline_London#start/315/end/350</field>
+<field name="datetime">9/9/2017 15:35:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Dateline London</field>
+<field name="showid">BBCNEWS_20170909_153000_Dateline_London</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170909_153000_Dateline_London/BBCNEWS_20170909_153000_Dateline_London.thumbs/BBCNEWS_20170909_153000_Dateline_London_000297.jpg</field>
+<field name="snippet">well, it starts at home. mar-a-lago is in the mandatory evacuation zone, one wonders whether that might have an impact on donald trump? and his approach to climate change?</field>
+</doc>
+</add>

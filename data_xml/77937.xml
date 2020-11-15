@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191112_110000_BBC_Newsroom_Live#start/4808/end/4843</field>
+<field name="datetime">11/12/2019 12:20:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20191112_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191112_110000_BBC_Newsroom_Live/BBCNEWS_20191112_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20191112_110000_BBC_Newsroom_Live_004797.jpg</field>
+<field name="snippet">this country, we will continue to be one of the richest nations globally and we will continue to deal with the global issues we face, whether that's through climate change, through peace across our nations, we will continue to deliver that and</field>
+</doc>
+</add>

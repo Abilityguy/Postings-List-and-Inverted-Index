@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170726_230000_Newsday#start/1444/end/1479</field>
+<field name="datetime">7/26/2017 23:24:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20170726_230000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170726_230000_Newsday/BBCNEWS_20170726_230000_Newsday.thumbs/BBCNEWS_20170726_230000_Newsday_001437.jpg</field>
+<field name="snippet">we have to get rid of petrol and diesel cars off our roads if we're going to make sure not only that we deal with the health problems that air pollution causes, but also that we meet our climate-change targets.</field>
+</doc>
+</add>

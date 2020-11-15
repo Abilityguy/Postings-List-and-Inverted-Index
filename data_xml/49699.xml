@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201609.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160901_090000_Fox_and_Friends_First#start/3205/end/3240</field>
+<field name="datetime">9/1/2016 9:53:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20160901_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160901_090000_Fox_and_Friends_First/FOXNEWSW_20160901_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20160901_090000_Fox_and_Friends_First_003177.jpg</field>
+<field name="snippet">hundreds of miles behind, expected to weaken to a tropical storm by sunday. heather? wow. if you don't believe in global warming, get out. that is coming from three professors at the university of colorado. they sent an e-mail to student telling them to drop the class</field>
+</doc>
+</add>

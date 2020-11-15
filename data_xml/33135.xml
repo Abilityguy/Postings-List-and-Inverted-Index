@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091209_160000_Happening_Now#start/2410/end/2445</field>
+<field name="datetime">12/9/2009 16:40:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091209_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091209_160000_Happening_Now/FOXNEWS_20091209_160000_Happening_Now.thumbs/FOXNEWS_20091209_160000_Happening_Now_002400.jpg</field>
+<field name="snippet">extended to it -- to cover developing nations. this is a nonstarter for the u.s. and europe. they say that china and india will account for 80% of greenhouse gas emissions over the next decade.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201903.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190301_200000_MSNBC_Live_With_Ali_Velshi#start/1206/end/1241</field>
+<field name="datetime">3/1/2019 20:20:21</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190301_200000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190301_200000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190301_200000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190301_200000_MSNBC_Live_With_Ali_Velshi_001199.jpg</field>
+<field name="snippet">as he tries to push the field to talk about climate change as the top priority. and that is a differentiating factor. a lot of the candidates, kacmal harris, julian castro, all of these people are talking about</field>
+</doc>
+</add>

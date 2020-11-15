@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201407.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140704_150000_Happening_Now#start/1061/end/1096</field>
+<field name="datetime">7/4/2014 15:17:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20140704_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140704_150000_Happening_Now/FOXNEWSW_20140704_150000_Happening_Now.thumbs/FOXNEWSW_20140704_150000_Happening_Now_001035.jpg</field>
+<field name="snippet">city. mid-term elections are a few months away and democrats are using energy change and climate change to fire up the base. will that be enough to hold the</field>
+</doc>
+</add>

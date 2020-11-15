@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201111.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111111_160000_Happening_Now#start/4225/end/4260</field>
+<field name="datetime">11/11/2011 17:10:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20111111_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111111_160000_Happening_Now/FOXNEWSW_20111111_160000_Happening_Now.thumbs/FOXNEWSW_20111111_160000_Happening_Now_004226.jpg</field>
+<field name="snippet">jon: well, you got the list there -- [laughter] public health, climate change and some other things ahead of jobs. don't all the polls say that people are most concerned about jobs in this country? they do. and i think the climate change argument's particularly</field>
+</doc>
+</add>

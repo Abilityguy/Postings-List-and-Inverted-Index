@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200114_170000_BBC_News_at_Five#start/2386/end/2421</field>
+<field name="datetime">1/14/2020 17:40:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20200114_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200114_170000_BBC_News_at_Five/BBCNEWS_20200114_170000_BBC_News_at_Five.thumbs/BBCNEWS_20200114_170000_BBC_News_at_Five_002367.jpg</field>
+<field name="snippet">of global warming, the message is one we have heard many times before. get emissions down and get them down fast or the fires we see australia will no longer be</field>
+</doc>
+</add>

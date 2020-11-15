@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_140000_Afternoon_Live#start/3716/end/3751</field>
+<field name="datetime">1/16/2020 15:02:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20200116_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_140000_Afternoon_Live/BBCNEWS_20200116_140000_Afternoon_Live.thumbs/BBCNEWS_20200116_140000_Afternoon_Live_003687.jpg</field>
+<field name="snippet">delay taking urgent action to address global warming. sir david said there could be no greater evidence of the consequences of rising temperatures than the severe wildfires in australia. he's been speaking to our science editor david shukman. the moment of crisis has come.</field>
+</doc>
+</add>

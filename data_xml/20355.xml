@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201404.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140401_000000_The_OReilly_Factor#start/191/end/226</field>
+<field name="datetime">4/1/2014 0:03:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20140401_000000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140401_000000_The_OReilly_Factor/FOXNEWSW_20140401_000000_The_OReilly_Factor.thumbs/FOXNEWSW_20140401_000000_The_OReilly_Factor_000165.jpg</field>
+<field name="snippet">man made report says that. again, no one knows whether it's true. no one, that is, except brian williams. we have never been warned like this before, all of us about climate change, unless the world changes course</field>
+</doc>
+</add>

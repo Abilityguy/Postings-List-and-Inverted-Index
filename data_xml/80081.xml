@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191112_050000_Tucker_Carlson_Tonight#start/1138/end/1173</field>
+<field name="datetime">11/12/2019 5:19:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20191112_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191112_050000_Tucker_Carlson_Tonight/FOXNEWSW_20191112_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20191112_050000_Tucker_Carlson_Tonight_001138.jpg</field>
+<field name="snippet">climate change, and is going to be catastrophic. if that's true, why are we bringing people from all over the world where they produce co2 emissions less per a person in places like mexico and guatemala and things like that, why are we bringing them to the united states where we produce co2 emissions per person at a</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190423_073000_BBC_Business_Live#start/1844/end/1879</field>
+<field name="datetime">4/23/2019 8:00:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Business Live</field>
+<field name="showid">BBCNEWS_20190423_073000_BBC_Business_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190423_073000_BBC_Business_Live/BBCNEWS_20190423_073000_BBC_Business_Live.thumbs/BBCNEWS_20190423_073000_BBC_Business_Live_001829.jpg</field>
+<field name="snippet">activist greta thunberg urges politicians to listen to scientists when it comes to the impacts of climate change. this is an emergency, this is an existential crisis,</field>
+</doc>
+</add>

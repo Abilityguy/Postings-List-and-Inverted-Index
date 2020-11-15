@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170611_090000_Fox_Report_Saturday#start/1279/end/1314</field>
+<field name="datetime">6/11/2017 9:21:34</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox Report Saturday</field>
+<field name="showid">FOXNEWSW_20170611_090000_Fox_Report_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170611_090000_Fox_Report_Saturday/FOXNEWSW_20170611_090000_Fox_Report_Saturday.thumbs/FOXNEWSW_20170611_090000_Fox_Report_Saturday_001227.jpg</field>
+<field name="snippet">u.s. government, the governor of california charting his own course when it comes to climate change. hear what jerry brown is doing to buck president trump. liberty mutual stood with us when a fire destroyed everything in our living room.</field>
+</doc>
+</add>

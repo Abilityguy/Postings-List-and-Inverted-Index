@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091218_110000_Morning_Joe#start/3235/end/3270</field>
+<field name="datetime">12/18/2009 11:54:10</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20091218_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20091218_110000_Morning_Joe/MSNBC_20091218_110000_Morning_Joe.thumbs/MSNBC_20091218_110000_Morning_Joe_003236.jpg</field>
+<field name="snippet">a classic peyton manning comeback. you said the only thing would be more exciting this morning is if we got the three amigos on the set to talk about global warming. exactly. here they are. bill press when we come back,</field>
+</doc>
+</add>

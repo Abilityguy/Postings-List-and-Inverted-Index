@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201304.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130424_130000_Americas_Newsroom#start/1680/end/1715</field>
+<field name="datetime">4/24/2013 13:28:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWSW_20130424_130000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130424_130000_Americas_Newsroom/FOXNEWSW_20130424_130000_Americas_Newsroom.thumbs/FOXNEWSW_20130424_130000_Americas_Newsroom_001665.jpg</field>
+<field name="snippet">information. the letter states that greenhouse gas emissions from oil sands are actually much, much higher than greenhouse gas emissions from regular crude oil that would be processed in this country. to quote, the additional co2 from oil sands crude</field>
+</doc>
+</add>

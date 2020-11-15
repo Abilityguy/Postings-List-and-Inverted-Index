@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190819_080000_BBC_News_at_Nine#start/1406/end/1441</field>
+<field name="datetime">8/19/2019 8:23:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190819_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190819_080000_BBC_News_at_Nine/BBCNEWS_20190819_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190819_080000_BBC_News_at_Nine_001408.jpg</field>
+<field name="snippet">the way that climate change affects farmers and farming, we like to think of farmers as all the same but globally across the world different farmers are going to need different help to be able to deal with the impacts of climate change. that is a</field>
+</doc>
+</add>

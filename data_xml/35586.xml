@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201904.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190430_090000_First_Look#start/1991/end/2026</field>
+<field name="datetime">4/30/2019 9:33:26</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20190430_090000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190430_090000_First_Look/MSNBCW_20190430_090000_First_Look.thumbs/MSNBCW_20190430_090000_First_Look_001978.jpg</field>
+<field name="snippet">o'rourke's climate change marks the first policy proposal of his campaign. joining me once again, david drucker. david, talk to us about beto o'rourke here. how do you think his plan is going over so far with his 2020</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180609_130000_BBC_News#start/393/end/428</field>
+<field name="datetime">6/9/2018 13:06:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180609_130000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180609_130000_BBC_News/BBCNEWS_20180609_130000_BBC_News.thumbs/BBCNEWS_20180609_130000_BBC_News_000388.jpg</field>
+<field name="snippet">there are big divides over climate change, iran and the israel-palestinian conflict. one thing is certain, weather this is g7 or g6+i, president trump will be long gone before the summit ends. last to arrive, first to leave.</field>
+</doc>
+</add>

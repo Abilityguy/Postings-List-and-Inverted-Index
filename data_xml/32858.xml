@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091208_070000_Glenn_Beck#start/2266/end/2301</field>
+<field name="datetime">12/8/2009 7:38:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20091208_070000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091208_070000_Glenn_Beck/FOXNEWS_20091208_070000_Glenn_Beck.thumbs/FOXNEWS_20091208_070000_Glenn_Beck_002211.jpg</field>
+<field name="snippet">snowfall in texas history last friday. tonight they're expecting the first snowfall since 1976 in sacremento, california. al gore was just interviewed in 'outside' magazine and asked how do you talk to these climate change naysayers?</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091103_180000_The_Live_Desk#start/1801/end/1836</field>
+<field name="datetime">11/3/2009 18:30:16</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Live Desk</field>
+<field name="showid">FOXNEWS_20091103_180000_The_Live_Desk</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091103_180000_The_Live_Desk/FOXNEWS_20091103_180000_The_Live_Desk.thumbs/FOXNEWS_20091103_180000_The_Live_Desk_001800.jpg</field>
+<field name="snippet">stories. the present wrapping up a meeting with the german chancellor, and it is all about climate change. mike emanuel is at the white house. and bill merkel making stops here at the white house and</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201509.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150925_100000_FOX__Friends#start/3879/end/3914</field>
+<field name="datetime">9/25/2015 11:04:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20150925_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150925_100000_FOX__Friends/FOXNEWSW_20150925_100000_FOX__Friends.thumbs/FOXNEWSW_20150925_100000_FOX__Friends_003855.jpg</field>
+<field name="snippet">steve, the pontiff's goal in these remarks was to begin a discussion on a host of issues. issues that also happened to divide the country politically, which is likely why pope francis began his remarks by calling for unity, and cooperation. he addressed climate change</field>
+</doc>
+</add>

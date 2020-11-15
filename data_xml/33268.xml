@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091201_100000_The_OReilly_Factor#start/3011/end/3046</field>
+<field name="datetime">12/1/2009 10:50:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20091201_100000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091201_100000_The_OReilly_Factor/FOXNEWS_20091201_100000_The_OReilly_Factor.thumbs/FOXNEWS_20091201_100000_The_OReilly_Factor_002990.jpg</field>
+<field name="snippet">sorry. check three, tomorrow on the factor, john stovall will report report -- john stossel on global warming. it came up on the mcglock collin group. it mass not been warming</field>
+</doc>
+</add>

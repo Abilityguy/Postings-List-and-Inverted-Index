@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190317_100000_BBC_News#start/1548/end/1583</field>
+<field name="datetime">3/17/2019 10:26:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190317_100000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190317_100000_BBC_News/BBCNEWS_20190317_100000_BBC_News.thumbs/BBCNEWS_20190317_100000_BBC_News_001528.jpg</field>
+<field name="snippet">and that is growing rainfall. this microbiologist has been coming here for 12 years to study climate change.</field>
+</doc>
+</add>

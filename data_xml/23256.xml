@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201405.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140519_200000_Your_World_With_Neil_Cavuto#start/3132/end/3167</field>
+<field name="datetime">5/19/2014 20:52:27</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20140519_200000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140519_200000_Your_World_With_Neil_Cavuto/FOXNEWSW_20140519_200000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20140519_200000_Your_World_With_Neil_Cavuto_003105.jpg</field>
+<field name="snippet">we're not seeing it yet. when you look at the data, they find no trend in doubts droughts, floods, hurricanes or tornadoes. it's not climate change that's causing these weather disasters. but climate change is the</field>
+</doc>
+</add>

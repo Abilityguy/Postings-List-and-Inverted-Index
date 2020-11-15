@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200109_040000_BBC_News#start/1124/end/1159</field>
+<field name="datetime">1/9/2020 4:18:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200109_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200109_040000_BBC_News/BBCNEWS_20200109_040000_BBC_News.thumbs/BBCNEWS_20200109_040000_BBC_News_001108.jpg</field>
+<field name="snippet">for underplaying the role of global warming in this crisis as well. so here we have a prime minister trying to get back onto the front foot, he has brought in the military, he is promising billions of dollars in recovery assistance</field>
+</doc>
+</add>

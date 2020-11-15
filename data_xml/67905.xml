@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190215_183000_Sportsday#start/1797/end/1832</field>
+<field name="datetime">2/15/2019 19:00:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Sportsday</field>
+<field name="showid">BBCNEWS_20190215_183000_Sportsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190215_183000_Sportsday/BBCNEWS_20190215_183000_Sportsday.thumbs/BBCNEWS_20190215_183000_Sportsday_001769.jpg</field>
+<field name="snippet">thousands of pupils skip school and take to the streets, in protest against climate change. how our personal data has been manipulated for political influence, sometimes at the highest levels of power.</field>
+</doc>
+</add>

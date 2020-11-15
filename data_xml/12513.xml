@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170706_160000_BBC_News_at_Five#start/380/end/415</field>
+<field name="datetime">7/6/2017 16:06:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20170706_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170706_160000_BBC_News_at_Five/BBCNEWS_20170706_160000_BBC_News_at_Five.thumbs/BBCNEWS_20170706_160000_BBC_News_at_Five_000357.jpg</field>
+<field name="snippet">demonstrators will be kept at bay but the american president may face tough questions from his fellow leaders on issues like global warming and protectionism. a scheduled meeting on the fringes with vladimir putin could also be awkward given donald trump's comments about russia earlier in the day. there are a number of intriguing</field>
+</doc>
+</add>

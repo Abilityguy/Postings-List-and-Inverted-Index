@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180826_153000_Weather_World#start/326/end/361</field>
+<field name="datetime">8/26/2018 15:35:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20180826_153000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180826_153000_Weather_World/BBCNEWS_20180826_153000_Weather_World.thumbs/BBCNEWS_20180826_153000_Weather_World_000327.jpg</field>
+<field name="snippet">but what about looking forward to climate change, higher temperatures and maybe more intense frequent rainfall and longer droughts? how much is all of that in your mind when it comes to the future of the crop?</field>
+</doc>
+</add>

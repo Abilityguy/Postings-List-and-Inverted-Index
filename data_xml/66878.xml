@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201411.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20141119_110000_Morning_Joe#start/5681/end/5716</field>
+<field name="datetime">11/19/2014 12:34:56</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20141119_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20141119_110000_Morning_Joe/MSNBCW_20141119_110000_Morning_Joe.thumbs/MSNBCW_20141119_110000_Morning_Joe_005655.jpg</field>
+<field name="snippet">the show earlier. the question isn't climate change or energy or this or that. it's what kind of infrastructure do you want to have in both canada and the united states to move the oil? do you want it on rail from</field>
+</doc>
+</add>

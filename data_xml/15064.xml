@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201306.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130626_060000_The_Five#start/3610/end/3645</field>
+<field name="datetime">6/26/2013 7:00:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20130626_060000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130626_060000_The_Five/FOXNEWSW_20130626_060000_The_Five.thumbs/FOXNEWSW_20130626_060000_The_Five_003585.jpg</field>
+<field name="snippet">global warming. global warming. welcome to 'red eye.' it is like 'scream 4' if by four it means all you want because no one can hear you</field>
+</doc>
+</add>

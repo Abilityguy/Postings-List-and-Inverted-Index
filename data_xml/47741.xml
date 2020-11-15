@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201511.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151130_110000_Morning_Joe#start/1131/end/1166</field>
+<field name="datetime">11/30/2015 11:19:06</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20151130_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151130_110000_Morning_Joe/MSNBCW_20151130_110000_Morning_Joe.thumbs/MSNBCW_20151130_110000_Morning_Joe_001125.jpg</field>
+<field name="snippet">the piece. at 8:00 we're going to have a programming announcement on chris christie. also, the president in paris. yes. and he may be holding a press conference on climate change</field>
+</doc>
+</add>

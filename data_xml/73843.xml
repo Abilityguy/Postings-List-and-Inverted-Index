@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201002.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100210_190000_MSNBC_News_Live#start/1590/end/1625</field>
+<field name="datetime">2/10/2010 19:26:45</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100210_190000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100210_190000_MSNBC_News_Live/MSNBC_20100210_190000_MSNBC_News_Live.thumbs/MSNBC_20100210_190000_MSNBC_News_Live_001590.jpg</field>
+<field name="snippet">how is global warming treating you folks out east today? i've got like 3000 things i could say back to that, but none of them would be polite. let me move on. you're republican and think this</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091126_230000_Special_Report_With_Bret_Baier#start/31/end/66</field>
+<field name="datetime">11/26/2009 23:00:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091126_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091126_230000_Special_Report_With_Bret_Baier/FOXNEWS_20091126_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091126_230000_Special_Report_With_Bret_Baier_000026.jpg</field>
+<field name="snippet">the healthcare reform debate rages on. america is serious about reforming healthcare. ought american people are saying don't pass this healthcare bill. climate change legislation looks unlikely. we're not going to be passing anything in this country on cap and trade. and the government</field>
+</doc>
+</add>

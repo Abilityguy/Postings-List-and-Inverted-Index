@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091217_210000_Your_World_With_Neil_Cavuto#start/2225/end/2260</field>
+<field name="datetime">12/17/2009 21:37:20</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWS_20091217_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091217_210000_Your_World_With_Neil_Cavuto/FOXNEWS_20091217_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWS_20091217_210000_Your_World_With_Neil_Cavuto_002214.jpg</field>
+<field name="snippet">we now use less polluting. whatever your view is about global warming, we ought to play on the safe side. the safe side is that at every point to try to reduce pollution, to try to reduce co2</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201103.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110318_100000_Morning_Joe#start/796/end/831</field>
+<field name="datetime">3/18/2011 10:13:31</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20110318_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20110318_100000_Morning_Joe/MSNBC_20110318_100000_Morning_Joe.thumbs/MSNBC_20110318_100000_Morning_Joe_000780.jpg</field>
+<field name="snippet">we have a global warming problem. we have energy problems. we have dependence on foreign oil. but on the other hand when these terrible things occur, there hasn't been a tremendous loss of life but there's panic, the population gets upset.</field>
+</doc>
+</add>

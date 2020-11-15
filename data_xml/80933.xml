@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191017_190000_Fox_News_Reporting#start/248/end/283</field>
+<field name="datetime">10/17/2019 19:04:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News Reporting</field>
+<field name="showid">FOXNEWSW_20191017_190000_Fox_News_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191017_190000_Fox_News_Reporting/FOXNEWSW_20191017_190000_Fox_News_Reporting.thumbs/FOXNEWSW_20191017_190000_Fox_News_Reporting_000238.jpg</field>
+<field name="snippet">summit, the middle of june. mick mulvaney said climate change issues will not be part of it. he also said essentially that it's an open question as to whether or not the russian president vladimir putin will be invited, as to whether or not it will go from a g7 back to a g8</field>
+</doc>
+</add>

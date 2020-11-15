@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190228_183000_Sportsday#start/81/end/116</field>
+<field name="datetime">2/28/2019 18:31:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Sportsday</field>
+<field name="showid">BBCNEWS_20190228_183000_Sportsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190228_183000_Sportsday/BBCNEWS_20190228_183000_Sportsday.thumbs/BBCNEWS_20190228_183000_Sportsday_000058.jpg</field>
+<field name="snippet">against delaying brexit. in a moment, we'll bejoining hugh woozencroft for sportsday but first a look at what else is coming up this evening on bbc news: after eight, we'll be discussing what you can do to help tackle climate change in conjunction with the government's</field>
+</doc>
+</add>

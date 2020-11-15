@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_100000_BBC_Newsroom_Live#start/4010/end/4045</field>
+<field name="datetime">8/8/2019 11:07:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190808_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_100000_BBC_Newsroom_Live/BBCNEWS_20190808_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190808_100000_BBC_Newsroom_Live_003988.jpg</field>
+<field name="snippet">un scientists have released a major report into how to help fight climate change. their findings focus on land use, and the damage done to the world's eco systems through farming and agriculture. the report, prepared by more than 100 scientists for the un's</field>
+</doc>
+</add>

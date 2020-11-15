@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201409.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140930_210000_The_Ed_Show#start/1385/end/1420</field>
+<field name="datetime">9/30/2014 21:23:20</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20140930_210000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140930_210000_The_Ed_Show/MSNBCW_20140930_210000_The_Ed_Show.thumbs/MSNBCW_20140930_210000_The_Ed_Show_001366.jpg</field>
+<field name="snippet">this year and a persistent drought. california is facing a drought. they need rain, and they're not going to get it. governor brown said climate</field>
+</doc>
+</add>

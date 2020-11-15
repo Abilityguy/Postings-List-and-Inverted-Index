@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191018_023000_Climate_Change#start/1027/end/1062</field>
+<field name="datetime">10/18/2019 2:47:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Climate Change</field>
+<field name="showid">BBCNEWS_20191018_023000_Climate_Change</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191018_023000_Climate_Change/BBCNEWS_20191018_023000_Climate_Change.thumbs/BBCNEWS_20191018_023000_Climate_Change_001019.jpg</field>
+<field name="snippet">today, we're off to cheltenham. we're going to try this new electric van. see how this goes. there are currently almost 27000 public chargers in the uk, but the committee on climate change says we'll need almost eight times that number.</field>
+</doc>
+</add>

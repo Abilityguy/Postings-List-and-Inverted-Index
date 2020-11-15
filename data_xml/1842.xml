@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170511_170000_Happening_Now#start/1143/end/1178</field>
+<field name="datetime">5/11/2017 17:19:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20170511_170000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170511_170000_Happening_Now/FOXNEWSW_20170511_170000_Happening_Now.thumbs/FOXNEWSW_20170511_170000_Happening_Now_001137.jpg</field>
+<field name="snippet">here at the meeting of the arctic council and fairbanks, alaska, what the two are supposed to be talking about along with the six other representatives of the arctic nation is climate change, et cetera, but we will be asking</field>
+</doc>
+</add>

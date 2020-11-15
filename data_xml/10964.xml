@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_100000_BBC_Newsroom_Live#start/7247/end/7282</field>
+<field name="datetime">8/8/2019 12:01:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190808_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_100000_BBC_Newsroom_Live/BBCNEWS_20190808_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190808_100000_BBC_Newsroom_Live_007229.jpg</field>
+<field name="snippet">cutting down on meat and dairy will help tackle global warming. torrential rain leaves five trains stuck on the main edinburgh to glasgow line, after the drainage</field>
+</doc>
+</add>

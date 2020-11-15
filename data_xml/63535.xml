@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190319_130000_BBC_News_at_One#start/101/end/136</field>
+<field name="datetime">3/19/2019 13:01:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190319_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190319_130000_BBC_News_at_One/BBCNEWS_20190319_130000_BBC_News_at_One.thumbs/BBCNEWS_20190319_130000_BBC_News_at_One_000058.jpg</field>
+<field name="snippet">and a warning about future water shortages in england - because of climate change and population growth. coming up on bbc news. callum hudson-odoi says he's shocked by his call-up to the england senior squad, which comes before he's even made a premier league start for chelsea. good afternoon and welcome</field>
+</doc>
+</add>

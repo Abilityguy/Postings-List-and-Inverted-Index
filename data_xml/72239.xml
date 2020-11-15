@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201610.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161011_190000_MSNBC_Live#start/2503/end/2538</field>
+<field name="datetime">10/11/2016 19:41:58</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20161011_190000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161011_190000_MSNBC_Live/MSNBCW_20161011_190000_MSNBC_Live.thumbs/MSNBCW_20161011_190000_MSNBC_Live_002488.jpg</field>
+<field name="snippet">but, unfortunately, there are still too many people in washington, on the campaign trail, who won't face what's happening right in front of us. donald trump is, quote, not a big believer in climate change.</field>
+</doc>
+</add>

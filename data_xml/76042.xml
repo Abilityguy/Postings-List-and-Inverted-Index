@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190510_050000_Breakfast#start/255/end/290</field>
+<field name="datetime">5/10/2019 5:04:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190510_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190510_050000_Breakfast/BBCNEWS_20190510_050000_Breakfast.thumbs/BBCNEWS_20190510_050000_Breakfast_000237.jpg</field>
+<field name="snippet">its role will be to repair the damage that's already been done. we are looking for processes that are scalable, by which i mean processes that can take out billions of tons of greenhouse</field>
+</doc>
+</add>

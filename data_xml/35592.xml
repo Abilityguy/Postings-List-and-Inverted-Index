@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201904.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190412_210000_MTP_Daily#start/3592/end/3627</field>
+<field name="datetime">4/12/2019 22:00:07</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20190412_210000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190412_210000_MTP_Daily/MSNBCW_20190412_210000_MTP_Daily.thumbs/MSNBCW_20190412_210000_MTP_Daily_003567.jpg</field>
+<field name="snippet">governor of washington state who wants to make climate change his big issue in the presidential trail. that will be on your local nbc station. and don't miss richard engel with stove banning. why he is now going after pope</field>
+</doc>
+</add>

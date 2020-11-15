@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200101_093000_Weather_World#start/570/end/605</field>
+<field name="datetime">1/1/2020 9:39:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20200101_093000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200101_093000_Weather_World/BBCNEWS_20200101_093000_Weather_World.thumbs/BBCNEWS_20200101_093000_Weather_World_000569.jpg</field>
+<field name="snippet">and in terms of those record temperatures and how they fit into the heatwaves, is that something which is going to happen more frequently, or is already happening more frequently? we are seeing it already. so heatwaves in some parts of the world that used to happen maybe a couple of times a century before any climate change, we're now</field>
+</doc>
+</add>

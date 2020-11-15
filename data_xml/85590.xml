@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201005.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100515_150000_MSNBC_News_Live#start/1436/end/1471</field>
+<field name="datetime">5/15/2010 15:24:11</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100515_150000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100515_150000_MSNBC_News_Live/MSNBC_20100515_150000_MSNBC_News_Live.thumbs/MSNBC_20100515_150000_MSNBC_News_Live_001436.jpg</field>
+<field name="snippet">though, it shows we need to diversify. we can't just be dependent on oil. hopefully that will help our efforts on climate change. automobiles for a long time are going to run on gasoline. that's the primary reason why we depend on oil, and that two</field>
+</doc>
+</add>

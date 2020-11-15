@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201312.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20131214_230000_Americas_News_Headquarters#start/1390/end/1425</field>
+<field name="datetime">12/14/2013 23:23:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20131214_230000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20131214_230000_Americas_News_Headquarters/FOXNEWSW_20131214_230000_Americas_News_Headquarters.thumbs/FOXNEWSW_20131214_230000_Americas_News_Headquarters_001365.jpg</field>
+<field name="snippet">house understands this and yet, there seems to be a little bit of a panic here. i don't know if -- look, podesta has been hired for a year and he's there to push things like amnesty and climate change, which doesn't make a lot of sense when you look at the fox news poll numbers that the</field>
+</doc>
+</add>

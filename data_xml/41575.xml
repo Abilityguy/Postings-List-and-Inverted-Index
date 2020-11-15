@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090804_221716_Special_Report_With_Bret_Baier#start/1013/end/1048</field>
+<field name="datetime">8/4/2009 22:34:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20090804_221716_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090804_221716_Special_Report_With_Bret_Baier/FOXNEWS_20090804_221716_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20090804_221716_Special_Report_With_Bret_Baier_000986.jpg</field>
+<field name="snippet">bret: the government's top forecasting energy agency said climate change legislation passed by the house will result in significant cost increases. the u.s. energy information administration says the average family will spend $142 more per year for energy by</field>
+</doc>
+</add>

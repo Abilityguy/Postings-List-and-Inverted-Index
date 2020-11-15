@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190318_080000_Fox_and_Friends_First#start/2210/end/2245</field>
+<field name="datetime">3/18/2019 8:37:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190318_080000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190318_080000_Fox_and_Friends_First/FOXNEWSW_20190318_080000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190318_080000_Fox_and_Friends_First_002190.jpg</field>
+<field name="snippet">what we do believe we have to fight climate change and we believe in science and health care and i think that's important. nations have universal health care and all of them live longer than we do.</field>
+</doc>
+</add>

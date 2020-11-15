@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180111_090000_Victoria_Derbyshire#start/7035/end/7070</field>
+<field name="datetime">1/11/2018 10:57:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20180111_090000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180111_090000_Victoria_Derbyshire/BBCNEWS_20180111_090000_Victoria_Derbyshire.thumbs/BBCNEWS_20180111_090000_Victoria_Derbyshire_007017.jpg</field>
+<field name="snippet">you can see that commitment in our work on climate change. since 2012, the carbon intensity of uk electricity has fallen by more than twice that of any other major economy. in 2016, the uk succeeded</field>
+</doc>
+</add>

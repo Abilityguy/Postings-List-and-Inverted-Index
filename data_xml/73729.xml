@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201002.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100213_150000_MSNBC_News_Live#start/2341/end/2376</field>
+<field name="datetime">2/13/2010 15:39:16</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100213_150000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100213_150000_MSNBC_News_Live/MSNBC_20100213_150000_MSNBC_News_Live.thumbs/MSNBC_20100213_150000_MSNBC_News_Live_002335.jpg</field>
+<field name="snippet">dad called, 'how's the weather, honey?' oh, be quiet. you sit there from your perch in l.a., thank you very much, michelle grossman. all of this winter weather we've seen as brought renewed skepticism from the biggest global warming detroktors.</field>
+</doc>
+</add>

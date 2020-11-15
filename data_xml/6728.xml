@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190910_190000_BBC_News#start/1624/end/1659</field>
+<field name="datetime">9/10/2019 19:27:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190910_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190910_190000_BBC_News/BBCNEWS_20190910_190000_BBC_News.thumbs/BBCNEWS_20190910_190000_BBC_News_001618.jpg</field>
+<field name="snippet">the scottish government has confirmed that glasgow is to host a major united nations climate change summit next year, known as cop26. up to 200 heads of state and 30000 delegates are expected to come to the city for the conference, which is designed to produce an international response</field>
+</doc>
+</add>

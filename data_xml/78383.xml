@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191123_060000_Breakfast#start/5287/end/5322</field>
+<field name="datetime">11/23/2019 7:28:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191123_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191123_060000_Breakfast/BBCNEWS_20191123_060000_Breakfast.thumbs/BBCNEWS_20191123_060000_Breakfast_005278.jpg</field>
+<field name="snippet">at that time of night. there's no reason to assume that there would be an update overnight, so why was he there? surely in this age of climate change, we should be avoiding reporters being sent on location to report on subjects which can easily be addressed from the studio and save the expense of lighting,</field>
+</doc>
+</add>

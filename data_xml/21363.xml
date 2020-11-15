@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100107_050000_Hannity#start/623/end/658</field>
+<field name="datetime">1/7/2010 5:10:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20100107_050000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100107_050000_Hannity/FOXNEWS_20100107_050000_Hannity.thumbs/FOXNEWS_20100107_050000_Hannity_000596.jpg</field>
+<field name="snippet">sorry congressman bad news for john murtha and the company that he likes funneling millions of your dollars to. plus michelle a frightening report on global warming from 1922.</field>
+</doc>
+</add>

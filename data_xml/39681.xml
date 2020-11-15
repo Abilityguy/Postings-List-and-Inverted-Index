@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091117_090000_Special_Report_With_Bret_Baier#start/1181/end/1216</field>
+<field name="datetime">11/17/2009 9:19:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091117_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091117_090000_Special_Report_With_Bret_Baier/FOXNEWS_20091117_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091117_090000_Special_Report_With_Bret_Baier_001165.jpg</field>
+<field name="snippet">will try to pass a climate change bill, but not until next spring. massachusetts senator john kerry says this is no specific timetable, but that the global warming bill will be addressed after healthcare reform and financial regulation are taken</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091205_100000_The_OReilly_Factor#start/355/end/390</field>
+<field name="datetime">12/5/2009 10:06:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20091205_100000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091205_100000_The_OReilly_Factor/FOXNEWS_20091205_100000_The_OReilly_Factor.thumbs/FOXNEWS_20091205_100000_The_OReilly_Factor_000353.jpg</field>
+<field name="snippet">sean: now, 59% rasmussen say that they believe the global warming data that we've been hearing about is rigged. so i think in that sense, it's a good thing. but there still seems to be denial. the white house is still actually denying that this --  _</field>
+</doc>
+</add>

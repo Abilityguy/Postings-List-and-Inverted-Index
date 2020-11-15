@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171227_140000_BBC_News#start/637/end/672</field>
+<field name="datetime">12/27/2017 14:10:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171227_140000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171227_140000_BBC_News/BBCNEWS_20171227_140000_BBC_News.thumbs/BBCNEWS_20171227_140000_BBC_News_000627.jpg</field>
+<field name="snippet">one around the whole issue of climate change, which, you know now, whether we like it or not, is the biggest threat multiplier we face. and then at the end of the programme it was time to face questions, rather than to ask them.</field>
+</doc>
+</add>

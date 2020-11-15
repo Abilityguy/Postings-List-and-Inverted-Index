@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200103_100000_BBC_Newsroom_Live#start/3285/end/3320</field>
+<field name="datetime">1/3/2020 10:55:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20200103_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200103_100000_BBC_Newsroom_Live/BBCNEWS_20200103_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20200103_100000_BBC_Newsroom_Live_003268.jpg</field>
+<field name="snippet">of the met office's national climate information centre - he began explaining whether warmer tempertatures were evidence of climate change in the uk. we have seen that our climate in the uk has warmed byjust under a degree since the mid-20th century.</field>
+</doc>
+</add>

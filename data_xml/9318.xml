@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190824_050000_Hannity#start/2149/end/2184</field>
+<field name="datetime">8/24/2019 5:36:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20190824_050000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190824_050000_Hannity/FOXNEWSW_20190824_050000_Hannity.thumbs/FOXNEWSW_20190824_050000_Hannity_002129.jpg</field>
+<field name="snippet">as the democratic 2020 presidential candidates continue fighting for the nomination, the party is in chaos. the dnc's annual summer meeting got off to a bit of a rough start yesterday when dozens of climate change activists packed into a meeting with top dnc members to demand the party hold a primary debates focused on the climate.</field>
+</doc>
+</add>

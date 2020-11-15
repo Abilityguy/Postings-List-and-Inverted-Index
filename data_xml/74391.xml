@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200115_200000_BBC_News#start/322/end/357</field>
+<field name="datetime">1/15/2020 20:05:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200115_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200115_200000_BBC_News/BBCNEWS_20200115_200000_BBC_News.thumbs/BBCNEWS_20200115_200000_BBC_News_000299.jpg</field>
+<field name="snippet">to you first of all, what does this tell us? this group of studies that we did not know already? the world is warming because he predicted it and we can protect it because we understand what causes climate</field>
+</doc>
+</add>

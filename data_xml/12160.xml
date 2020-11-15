@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190825_003000_The_Travel_Show#start/10/end/45</field>
+<field name="datetime">8/25/2019 0:30:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Travel Show</field>
+<field name="showid">BBCNEWS_20190825_003000_The_Travel_Show</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190825_003000_The_Travel_Show/BBCNEWS_20190825_003000_The_Travel_Show.thumbs/BBCNEWS_20190825_003000_The_Travel_Show_000028.jpg</field>
+<field name="snippet">this is bbc news. the headlines: emmanuel macron has called for a de-escalation of trade tensions - at an informal dinner ahead of sunday's g7 talks. leaders will also try to resolve differences over climate change and brexit. the european council president donald tusk says it may be the last chance to restore harmony among leading industrial nations. hundreds of new fires</field>
+</doc>
+</add>

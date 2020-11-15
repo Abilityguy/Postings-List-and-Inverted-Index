@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_090000_Victoria_Derbyshire#start/12/end/47</field>
+<field name="datetime">9/20/2019 9:00:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20190920_090000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_090000_Victoria_Derbyshire/BBCNEWS_20190920_090000_Victoria_Derbyshire.thumbs/BBCNEWS_20190920_090000_Victoria_Derbyshire_000028.jpg</field>
+<field name="snippet">hello. it's friday, it's ten o'clock - i'm joanna gosling. millions of children are expected to join a global protest today - calling for the governments of the world to take action on climate change. in school, i'm learning about the effects of climate change and i'm learning that we need to do</field>
+</doc>
+</add>

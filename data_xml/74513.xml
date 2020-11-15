@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_010000_Newsday#start/512/end/547</field>
+<field name="datetime">1/17/2020 1:08:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20200117_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_010000_Newsday/BBCNEWS_20200117_010000_Newsday.thumbs/BBCNEWS_20200117_010000_Newsday_000509.jpg</field>
+<field name="snippet">over climate change, and action is needed. in some of his strongest comments yet, sir david says we've been putting matters off for too long. his warning comes as the bbc begins a year of special coverage on the subject of climate change ahead of the un's international conference in glasgow at the end of the year. here is our science</field>
+</doc>
+</add>

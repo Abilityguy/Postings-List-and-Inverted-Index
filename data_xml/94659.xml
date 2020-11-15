@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201004.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100416_100000_Morning_Joe#start/4938/end/4973</field>
+<field name="datetime">4/16/2010 11:22:33</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20100416_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20100416_100000_Morning_Joe/MSNBC_20100416_100000_Morning_Joe.thumbs/MSNBC_20100416_100000_Morning_Joe_004913.jpg</field>
+<field name="snippet">enough. let's go back to james now. well, we've been talking, david, about climate change and how this was a winning issue a few years ago. but you've just seen the poll numbers tick down over the past year or two.</field>
+</doc>
+</add>

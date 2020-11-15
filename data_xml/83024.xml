@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191018_090000_Victoria_Derbyshire#start/3641/end/3676</field>
+<field name="datetime">10/18/2019 10:00:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20191018_090000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191018_090000_Victoria_Derbyshire/BBCNEWS_20191018_090000_Victoria_Derbyshire.thumbs/BBCNEWS_20191018_090000_Victoria_Derbyshire_003628.jpg</field>
+<field name="snippet">leaders move on to matters of climate change, also long-term eu budget, and priorities for the next five years. we'll have the latest reaction from here in westminster. this morning's other stories.</field>
+</doc>
+</add>

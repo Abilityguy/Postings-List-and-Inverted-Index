@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200908.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20090819_030000_The_Rachel_Maddow_Show#start/1908/end/1943</field>
+<field name="datetime">8/19/2009 3:32:03</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBC_20090819_030000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20090819_030000_The_Rachel_Maddow_Show/MSNBC_20090819_030000_The_Rachel_Maddow_Show.thumbs/MSNBC_20090819_030000_The_Rachel_Maddow_Show_001886.jpg</field>
+<field name="snippet">nation's fastest 3g network. has progress taken us to a better place? i'd say it's taken us for a ride. honestly, what thanks do we owe progress? we're up to our necks in landfill, and down to the wire in resources and climate change is out to get us.</field>
+</doc>
+</add>

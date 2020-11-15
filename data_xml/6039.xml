@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190923_050000_Breakfast#start/531/end/566</field>
+<field name="datetime">9/23/2019 5:09:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190923_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190923_050000_Breakfast/BBCNEWS_20190923_050000_Breakfast.thumbs/BBCNEWS_20190923_050000_Breakfast_000508.jpg</field>
+<field name="snippet">scientists have warned that the causes and impacts of global warming are accelerating, rather than slowing down. the world meteorological 0rganisation says the past five years are on track to be the hottest on record. it comes as world leaders gather in new york for a un climate action summit. the un has urged leaders to turn up</field>
+</doc>
+</add>

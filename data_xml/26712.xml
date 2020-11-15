@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100215_210000_Your_World_With_Neil_Cavuto#start/1466/end/1501</field>
+<field name="datetime">2/15/2010 21:24:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWS_20100215_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100215_210000_Your_World_With_Neil_Cavuto/FOXNEWS_20100215_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWS_20100215_210000_Your_World_With_Neil_Cavuto_001465.jpg</field>
+<field name="snippet">this is the professor whose data is crucial to the theory of climate change. but despite this, the white house is reportedly planning to use executive orders to muscle through global warming initiatives. my next guest doesn't even know where to start. pat michaels with the cato</field>
+</doc>
+</add>

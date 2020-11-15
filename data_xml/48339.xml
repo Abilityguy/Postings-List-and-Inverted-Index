@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201908.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190829_140000_MSNBC_Live_With_Hallie_Jackson#start/879/end/914</field>
+<field name="datetime">8/29/2019 14:14:54</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Hallie Jackson</field>
+<field name="showid">MSNBCW_20190829_140000_MSNBC_Live_With_Hallie_Jackson</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190829_140000_MSNBC_Live_With_Hallie_Jackson/MSNBCW_20190829_140000_MSNBC_Live_With_Hallie_Jackson.thumbs/MSNBCW_20190829_140000_MSNBC_Live_With_Hallie_Jackson_000778.jpg</field>
+<field name="snippet">make an announcement that could have big impact on the environment. plans to roll back obama regulations on powerful greenhouse gas methane, a big contributor to climate change. anne thompson has all the details for us. ann, you cover the environment</field>
+</doc>
+</add>

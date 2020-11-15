@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190124_130000_BBC_News_at_One#start/1013/end/1048</field>
+<field name="datetime">1/24/2019 13:17:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190124_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190124_130000_BBC_News_at_One/BBCNEWS_20190124_130000_BBC_News_at_One.thumbs/BBCNEWS_20190124_130000_BBC_News_at_One_000988.jpg</field>
+<field name="snippet">the australian open final. scientists meeting in norway are warning that climate change is redrawing the map of the arctic. in what researchers claim is the first sign of a major modern climatic shift,</field>
+</doc>
+</add>

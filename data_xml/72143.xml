@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201604.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160420_090000_First_Look#start/915/end/950</field>
+<field name="datetime">4/20/2016 9:15:30</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20160420_090000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160420_090000_First_Look/MSNBCW_20160420_090000_First_Look.thumbs/MSNBCW_20160420_090000_First_Look_000897.jpg</field>
+<field name="snippet">a row in the month of april, ever. well, maybe that whole global warming thing is really happening? you think? i don't know. you guys are the experts, not me. see how i avoided that? another aftershock this morning in ecuador and it was big. measuring 6.1 with the epicenter</field>
+</doc>
+</add>

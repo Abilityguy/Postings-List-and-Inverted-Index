@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201610.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161006_070000_All_In_With_Chris_Hayes#start/31/end/66</field>
+<field name="datetime">10/6/2016 7:00:46</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20161006_070000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161006_070000_All_In_With_Chris_Hayes/MSNBCW_20161006_070000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20161006_070000_All_In_With_Chris_Hayes_000027.jpg</field>
+<field name="snippet">as hurricane matthew approaches florida, today's massive announcement on climate change from the white house. 'all in' starts right now. good evening from new york. i'm chris hayes. after mike pence managed to get through 90 minutes of last night's presidential debate without insulting a single woman's appearance or bragging that not paying taxes makes him</field>
+</doc>
+</add>

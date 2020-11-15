@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191128_030000_The_Last_Word_With_Lawrence_ODonnell#start/3339/end/3374</field>
+<field name="datetime">11/28/2019 3:55:54</field>
+<field name="station">MSNBC</field>
+<field name="show">The Last Word With Lawrence ODonnell</field>
+<field name="showid">MSNBCW_20191128_030000_The_Last_Word_With_Lawrence_ODonnell</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191128_030000_The_Last_Word_With_Lawrence_ODonnell/MSNBCW_20191128_030000_The_Last_Word_With_Lawrence_ODonnell.thumbs/MSNBCW_20191128_030000_The_Last_Word_With_Lawrence_ODonnell_003329.jpg</field>
+<field name="snippet">'the last word' and learned how climate change is causing that state's fires to grow and intentional blackouts to prevent them may become the new normal. reporter: 81-year-old dr. glenn benjamin appears to be in constant conflict with</field>
+</doc>
+</add>

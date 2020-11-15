@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201011.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101119_110000_Morning_Joe#start/10134/end/10169</field>
+<field name="datetime">11/19/2010 13:49:09</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20101119_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20101119_110000_Morning_Joe/MSNBC_20101119_110000_Morning_Joe.thumbs/MSNBC_20101119_110000_Morning_Joe_010127.jpg</field>
+<field name="snippet">prince charles' documentary' on climate change, at 10:00. a big night on nbc. up next, 'the week in review.' client comes in and they have a box. and inside that box is their financial life.</field>
+</doc>
+</add>

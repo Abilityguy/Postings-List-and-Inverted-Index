@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181214_090000_BBC_News_at_9#start/2277/end/2312</field>
+<field name="datetime">12/14/2018 9:38:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20181214_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181214_090000_BBC_News_at_9/BBCNEWS_20181214_090000_BBC_News_at_9.thumbs/BBCNEWS_20181214_090000_BBC_News_at_9_002277.jpg</field>
+<field name="snippet">say, over an entire year, your avocado consumption is contributing 15 kilograms to your annual greenhouse gas emissions. that is the equivalent of driving a regular petrol car 39 miles, same as eating the average home for two days. it is interesting when you see the</field>
+</doc>
+</add>

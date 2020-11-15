@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201812.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181230_230000_Meet_the_Press#start/464/end/499</field>
+<field name="datetime">12/30/2018 23:07:59</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20181230_230000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181230_230000_Meet_the_Press/MSNBCW_20181230_230000_Meet_the_Press.thumbs/MSNBCW_20181230_230000_Meet_the_Press_000448.jpg</field>
+<field name="snippet">i think the big problem we have right now is we have a climate change problem. the world is getting hotter, bigger storms than ever before. drought and floods, vice-versa, the water is getting less and we</field>
+</doc>
+</add>

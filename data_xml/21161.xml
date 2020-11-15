@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180904_230000_Newsday#start/279/end/314</field>
+<field name="datetime">9/4/2018 23:04:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20180904_230000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180904_230000_Newsday/BBCNEWS_20180904_230000_Newsday.thumbs/BBCNEWS_20180904_230000_Newsday_000267.jpg</field>
+<field name="snippet">have covered a lot about the extreme weather patterns, particularly in japan and that heat wave that was dangerously warm, what is your understanding of what is going on? you and your friends and neighbours talk about possible reasons for this? well, obviously climate change</field>
+</doc>
+</add>

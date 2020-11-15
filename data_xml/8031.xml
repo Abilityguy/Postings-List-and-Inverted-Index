@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190921_100000_Fox_and_Friends_Saturday#start/2923/end/2958</field>
+<field name="datetime">9/21/2019 10:48:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20190921_100000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190921_100000_Fox_and_Friends_Saturday/FOXNEWSW_20190921_100000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20190921_100000_Fox_and_Friends_Saturday_002909.jpg</field>
+<field name="snippet">caps, global warming, cry matt change. i'm exhausted. do i need a brochure to follow so i can decide what to be panicked about next. the reason you're seeing people in the streets fighting on this issue is because this is a crisis. we first heard about climate</field>
+</doc>
+</add>

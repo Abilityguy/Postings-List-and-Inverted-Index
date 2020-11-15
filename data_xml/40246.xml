@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201907.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190707_100000_MSNBC_Live#start/83/end/118</field>
+<field name="datetime">7/7/2019 10:01:38</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20190707_100000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190707_100000_MSNBC_Live/MSNBCW_20190707_100000_MSNBC_Live.thumbs/MSNBCW_20190707_100000_MSNBC_Live_000060.jpg</field>
+<field name="snippet">approval ratings on immigration, health care, climate change and gun violence. on the race for 2020, the poll found that former vice president joe biden leads donald trump by 10 percentage points.</field>
+</doc>
+</add>

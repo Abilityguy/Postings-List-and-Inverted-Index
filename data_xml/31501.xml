@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090725_230000_FOX_Report#start/869/end/904</field>
+<field name="datetime">7/25/2009 23:14:44</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report</field>
+<field name="showid">FOXNEWS_20090725_230000_FOX_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090725_230000_FOX_Report/FOXNEWS_20090725_230000_FOX_Report.thumbs/FOXNEWS_20090725_230000_FOX_Report_000870.jpg</field>
+<field name="snippet">we're up to our necks in landfill, and down to the wire in resources and climate change is out to get us. that's why progress plays no role inside post shredded wheat. here we put the 'no' in innovation. post original shredded wheat is still just the one, simple, honest ingredient</field>
+</doc>
+</add>

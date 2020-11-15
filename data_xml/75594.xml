@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201204.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120420_190000_Martin_Bashir#start/2610/end/2645</field>
+<field name="datetime">4/20/2012 19:43:45</field>
+<field name="station">MSNBC</field>
+<field name="show">Martin Bashir</field>
+<field name="showid">MSNBCW_20120420_190000_Martin_Bashir</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120420_190000_Martin_Bashir/MSNBCW_20120420_190000_Martin_Bashir.thumbs/MSNBCW_20120420_190000_Martin_Bashir_002610.jpg</field>
+<field name="snippet">taking two diametrically opposed positions on the issue of climate change. i believe what i read, the world is getting warmer. and number two, i believe humans contributed to that.</field>
+</doc>
+</add>

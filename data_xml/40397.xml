@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201907.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190711_040000_The_Rachel_Maddow_Show#start/2686/end/2721</field>
+<field name="datetime">7/11/2019 4:45:01</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBCW_20190711_040000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190711_040000_The_Rachel_Maddow_Show/MSNBCW_20190711_040000_The_Rachel_Maddow_Show.thumbs/MSNBCW_20190711_040000_The_Rachel_Maddow_Show_002668.jpg</field>
+<field name="snippet">this week you introduced legislation with alexandria ocasio-cortez in the house to declare a climate emergency. you have also said just this week that you will be coming out with the strongest climate change plan in the current democratic field. i know you haven't released</field>
+</doc>
+</add>

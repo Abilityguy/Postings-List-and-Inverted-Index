@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181227_203000_Review_2018#start/341/end/376</field>
+<field name="datetime">12/27/2018 20:35:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Review 2018</field>
+<field name="showid">BBCNEWS_20181227_203000_Review_2018</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181227_203000_Review_2018/BBCNEWS_20181227_203000_Review_2018.thumbs/BBCNEWS_20181227_203000_Review_2018_000327.jpg</field>
+<field name="snippet">of climate change. scientists warned that it was now or never to save the planet, and they called for drastic action to keep global temperature rises to within 1.5 celsius. any more, and we risk irreversible environmental damage to our world.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191226_210000_World_News_Today#start/1394/end/1429</field>
+<field name="datetime">12/26/2019 21:23:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20191226_210000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191226_210000_World_News_Today/BBCNEWS_20191226_210000_World_News_Today.thumbs/BBCNEWS_20191226_210000_World_News_Today_001378.jpg</field>
+<field name="snippet">placed inside a rope and then they are hung mid-water. over half the world's reefs have already been lost because of climate change. coral gets its colour and its energy from the algae which live inside it. as the water gets warmer, though,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181127_180000_BBC_News_at_Six#start/1057/end/1092</field>
+<field name="datetime">11/27/2018 18:17:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20181127_180000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181127_180000_BBC_News_at_Six/BBCNEWS_20181127_180000_BBC_News_at_Six.thumbs/BBCNEWS_20181127_180000_BBC_News_at_Six_001047.jpg</field>
+<field name="snippet">and those animals produce methane, a potent greenhouse gas, that's expected to increase by 60% in the next two years. 0ur science editor david shukman reports on how our food choices have an impact</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151214_230000_MSNBC_Live#start/3417/end/3452</field>
+<field name="datetime">12/14/2015 23:57:12</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20151214_230000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151214_230000_MSNBC_Live/MSNBCW_20151214_230000_MSNBC_Live.thumbs/MSNBCW_20151214_230000_MSNBC_Live_003405.jpg</field>
+<field name="snippet">to replace fossil fuels, coal and oil and gas with clean energy in order to meet the targets of this agreement and keep global warming below 3.6</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201506.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150621_210000_MediaBuzz#start/1464/end/1499</field>
+<field name="datetime">6/21/2015 21:24:39</field>
+<field name="station">FOXNEWS</field>
+<field name="show">MediaBuzz</field>
+<field name="showid">FOXNEWSW_20150621_210000_MediaBuzz</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150621_210000_MediaBuzz/FOXNEWSW_20150621_210000_MediaBuzz.thumbs/FOXNEWSW_20150621_210000_MediaBuzz_001455.jpg</field>
+<field name="snippet">john: the m t the most hotly debated science issue is global warming. three science superstars standout among those that make the case to act now punish cool plants by electric car and who are the three superstars?</field>
+</doc>
+</add>

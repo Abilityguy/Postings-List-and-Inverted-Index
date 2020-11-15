@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190913_190000_BBC_News#start/1553/end/1588</field>
+<field name="datetime">9/13/2019 19:26:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190913_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190913_190000_BBC_News/BBCNEWS_20190913_190000_BBC_News.thumbs/BBCNEWS_20190913_190000_BBC_News_001529.jpg</field>
+<field name="snippet">it's the most powerful greenhouse gas known to humanity, one that can cause terrible damage to the atmosphere yet most people will have never heard of it. sulphur hexa fluoride or sf6 as it's known is widely used to prevent fires and accidents in electrical equipment in power stations,</field>
+</doc>
+</add>

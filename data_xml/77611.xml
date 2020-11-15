@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191121_170000_BBC_News_at_Five#start/3329/end/3364</field>
+<field name="datetime">11/21/2019 17:55:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20191121_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191121_170000_BBC_News_at_Five/BBCNEWS_20191121_170000_BBC_News_at_Five.thumbs/BBCNEWS_20191121_170000_BBC_News_at_Five_003327.jpg</field>
+<field name="snippet">the impact of climate change. scientists say the proof is there for all to see. phil mercer, bbc news, sydney. and now a look at the weather</field>
+</doc>
+</add>

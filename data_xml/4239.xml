@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201302.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130206_180000_America_Live#start/1571/end/1606</field>
+<field name="datetime">2/6/2013 18:26:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWSW_20130206_180000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130206_180000_America_Live/FOXNEWSW_20130206_180000_America_Live.thumbs/FOXNEWSW_20130206_180000_America_Live_001545.jpg</field>
+<field name="snippet">baby  marvin gaye and worms, yes, you heard me right. a new report suggested a big explosion in the population of earth worms, maybe a major factor in global warming.</field>
+</doc>
+</add>

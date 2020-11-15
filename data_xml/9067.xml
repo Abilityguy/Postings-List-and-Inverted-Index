@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190824_220000_FOX_Report_With_Jon_Scott#start/3131/end/3166</field>
+<field name="datetime">8/24/2019 22:52:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report With Jon Scott</field>
+<field name="showid">FOXNEWSW_20190824_220000_FOX_Report_With_Jon_Scott</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190824_220000_FOX_Report_With_Jon_Scott/FOXNEWSW_20190824_220000_FOX_Report_With_Jon_Scott.thumbs/FOXNEWSW_20190824_220000_FOX_Report_With_Jon_Scott_003118.jpg</field>
+<field name="snippet">we have a government that works wonderfully for giant oil companies that want to drill everywhere. just not for the rest of us who see climate change bearing down upon us.</field>
+</doc>
+</add>

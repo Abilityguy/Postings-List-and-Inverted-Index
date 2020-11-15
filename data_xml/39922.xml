@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091112_200000_Studio_B_With_Shepard_Smith#start/2889/end/2924</field>
+<field name="datetime">11/12/2009 20:48:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Studio B With Shepard Smith</field>
+<field name="showid">FOXNEWS_20091112_200000_Studio_B_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091112_200000_Studio_B_With_Shepard_Smith/FOXNEWS_20091112_200000_Studio_B_With_Shepard_Smith.thumbs/FOXNEWS_20091112_200000_Studio_B_With_Shepard_Smith_002880.jpg</field>
+<field name="snippet">terrorism. one percent say climate change. 2% aren't sure about much of anything. i'm in that category. major garrett is traveling with the president and is in tokyo, streaming live.</field>
+</doc>
+</add>

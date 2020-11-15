@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201002.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100205_140000_The_Daily_Rundown#start/271/end/306</field>
+<field name="datetime">2/5/2010 14:04:46</field>
+<field name="station">MSNBC</field>
+<field name="show">The Daily Rundown</field>
+<field name="showid">MSNBC_20100205_140000_The_Daily_Rundown</field>
+<field name="preview">https://archive.org/download/MSNBC_20100205_140000_The_Daily_Rundown/MSNBC_20100205_140000_The_Daily_Rundown.thumbs/MSNBC_20100205_140000_The_Daily_Rundown_000270.jpg</field>
+<field name="snippet">me, people are starting to fill in, having some breakfast. we'll see other speakers this morning, there's guy from junkscience.com, climate change doesn't exist, that kind of stuff. you'll see a lot of other speakers throughout the day. but, you know, palin is the main attraction. there's been a lot of</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201609.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160903_120000_MSNBC_Live#start/751/end/786</field>
+<field name="datetime">9/3/2016 12:12:46</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20160903_120000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160903_120000_MSNBC_Live/MSNBCW_20160903_120000_MSNBC_Live.thumbs/MSNBCW_20160903_120000_MSNBC_Live_000747.jpg</field>
+<field name="snippet">both sign on to the paris climate change agreement. he made the announcement in china ahead of the g-20 summit. together, the u.s. and china represent about 40% of global emissions, so today we are moving the world significantly</field>
+</doc>
+</add>

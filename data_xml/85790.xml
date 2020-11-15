@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201709.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170911_003000_Asia_Business_Report#start/80/end/115</field>
+<field name="datetime">9/11/2017 0:31:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Asia Business Report</field>
+<field name="showid">BBCNEWS_20170911_003000_Asia_Business_Report</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170911_003000_Asia_Business_Report/BBCNEWS_20170911_003000_Asia_Business_Report.thumbs/BBCNEWS_20170911_003000_Asia_Business_Report_000057.jpg</field>
+<field name="snippet">the message from uber's asia chief, in an exclusive tv interview. and who should take the lead in addressing climate change, business or government? we bring you a special report from india. welcome</field>
+</doc>
+</add>

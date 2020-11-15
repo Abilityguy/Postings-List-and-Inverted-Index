@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201508.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150829_230000_Fox_Report_Saturday#start/1800/end/1835</field>
+<field name="datetime">8/29/2015 23:30:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox Report Saturday</field>
+<field name="showid">FOXNEWSW_20150829_230000_Fox_Report_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150829_230000_Fox_Report_Saturday/FOXNEWSW_20150829_230000_Fox_Report_Saturday.thumbs/FOXNEWSW_20150829_230000_Fox_Report_Saturday_001785.jpg</field>
+<field name="snippet">iran, north korea and global warming. china's president meantime will make a state visit to the white house next month. fox news of course is america's election headquarters. we are getting some eye-opening new polling out there out of</field>
+</doc>
+</add>

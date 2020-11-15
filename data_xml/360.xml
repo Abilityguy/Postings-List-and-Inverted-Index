@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201301.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130112_180000_Americas_News_Headquarters#start/1890/end/1925</field>
+<field name="datetime">1/12/2013 18:31:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20130112_180000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130112_180000_Americas_News_Headquarters/FOXNEWSW_20130112_180000_Americas_News_Headquarters.thumbs/FOXNEWSW_20130112_180000_Americas_News_Headquarters_001875.jpg</field>
+<field name="snippet">from the destructive effects of climate change and protect our children from the horrors of gun violence. as for afghanistan, president obama voiced his support for reconciliation efforts between the afghan government and taliban</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140512_210000_The_Ed_Show#start/1486/end/1521</field>
+<field name="datetime">5/12/2014 21:25:01</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20140512_210000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140512_210000_The_Ed_Show/MSNBCW_20140512_210000_The_Ed_Show.thumbs/MSNBCW_20140512_210000_The_Ed_Show_001486.jpg</field>
+<field name="snippet">we're not raising the minimum wage. as you well know, compared to 1968, if the minimum wage went up with inflation, it would today be somewhere around $10.50 an hour. senator, let's talk climate</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201907.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190715_210000_MTP_Daily#start/1605/end/1640</field>
+<field name="datetime">7/15/2019 21:27:00</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20190715_210000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190715_210000_MTP_Daily/MSNBCW_20190715_210000_MTP_Daily.thumbs/MSNBCW_20190715_210000_MTP_Daily_001589.jpg</field>
+<field name="snippet">health care, climate change, student debt, or our endless wars. this is his plan to pit us against one another. this ison how he can continue t enrich his friends and distract us fromnd the detrimental polics</field>
+</doc>
+</add>

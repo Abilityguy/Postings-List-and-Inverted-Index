@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201402.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140217_070000_Meet_the_Press#start/1876/end/1911</field>
+<field name="datetime">2/17/2014 7:31:31</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20140217_070000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140217_070000_Meet_the_Press/MSNBCW_20140217_070000_Meet_the_Press.thumbs/MSNBCW_20140217_070000_Meet_the_Press_001876.jpg</field>
+<field name="snippet">thank you for your time this morning. absolutely. thank you so much. coming up next here, back to the never-ending squabbles in washington, not just over climate change. the fight over the debt ceiling, as well.</field>
+</doc>
+</add>

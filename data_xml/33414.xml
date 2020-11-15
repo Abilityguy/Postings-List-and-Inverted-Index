@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091215_070000_Glenn_Beck#start/2557/end/2592</field>
+<field name="datetime">12/15/2009 7:42:52</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20091215_070000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091215_070000_Glenn_Beck/FOXNEWS_20091215_070000_Glenn_Beck.thumbs/FOXNEWS_20091215_070000_Glenn_Beck_002544.jpg</field>
+<field name="snippet">right now? if you want to prepare yourself for the mindless arguments you're going to have to endure over hot holidays about healthcare, global warming and taxes, grab a copy of 'arguing with id yotsd idiots.'</field>
+</doc>
+</add>

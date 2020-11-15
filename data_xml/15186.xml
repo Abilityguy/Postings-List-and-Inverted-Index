@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201306.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130630_100000_FOX_and_Friends_Sunday#start/4209/end/4244</field>
+<field name="datetime">6/30/2013 11:10:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20130630_100000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130630_100000_FOX_and_Friends_Sunday/FOXNEWSW_20130630_100000_FOX_and_Friends_Sunday.thumbs/FOXNEWSW_20130630_100000_FOX_and_Friends_Sunday_004185.jpg</field>
+<field name="snippet">address, the president talking about getting on board with climate change proposals, which would basically go around congress, go right to the epa and enable the epa to put stricter emissions standards for those coal powered plants.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190201_010000_Newsday#start/1229/end/1264</field>
+<field name="datetime">2/1/2019 1:20:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190201_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190201_010000_Newsday/BBCNEWS_20190201_010000_Newsday.thumbs/BBCNEWS_20190201_010000_Newsday_001229.jpg</field>
+<field name="snippet">temperatures both here in australia and abroad in the last few years. in terms of the polar vortex, interestingly, there might be a climate change connection there as well, which does sound counterintuitive, but it's something which scientists are looking into.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181202_080000_Breakfast#start/3482/end/3517</field>
+<field name="datetime">12/2/2018 8:58:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181202_080000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181202_080000_Breakfast/BBCNEWS_20181202_080000_Breakfast.thumbs/BBCNEWS_20181202_080000_Breakfast_003478.jpg</field>
+<field name="snippet">representatives from almost 200 countries gather in poland for crucial talks on climate change. the talks will focus on how to limit global temperature rises and try to breath new life</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201111.csv</field>
+<field name="url">https://archive.org/details/CNNW_20111128_090000_World_Business_Today#start/2778/end/2813</field>
+<field name="datetime">11/28/2011 9:46:33</field>
+<field name="station">CNN</field>
+<field name="show">World Business Today</field>
+<field name="showid">CNNW_20111128_090000_World_Business_Today</field>
+<field name="preview">https://archive.org/download/CNNW_20111128_090000_World_Business_Today/CNNW_20111128_090000_World_Business_Today.thumbs/CNNW_20111128_090000_World_Business_Today_002757.jpg</field>
+<field name="snippet">there's a dismal outlook, is it expected to be any different this time around? reporter: hi there, andrew. no, i suppose. effectively the bedrock of climate change policy, the kyoto</field>
+</doc>
+</add>

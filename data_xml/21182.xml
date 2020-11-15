@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180909_030000_BBC_News#start/1072/end/1107</field>
+<field name="datetime">9/9/2018 3:18:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180909_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180909_030000_BBC_News/BBCNEWS_20180909_030000_BBC_News.thumbs/BBCNEWS_20180909_030000_BBC_News_001047.jpg</field>
+<field name="snippet">of protests being planned across the world by the us-campaign group, 350.org. and the rallies come ahead of a summit on global warming being held in california next week.</field>
+</doc>
+</add>

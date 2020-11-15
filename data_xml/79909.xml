@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191128_050000_Tucker_Carlson_Tonight#start/299/end/334</field>
+<field name="datetime">11/28/2019 5:05:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20191128_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191128_050000_Tucker_Carlson_Tonight/FOXNEWSW_20191128_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20191128_050000_Tucker_Carlson_Tonight_000298.jpg</field>
+<field name="snippet">programs. to fight global warming, which is an existential crisis, they keep telling you. unlike actual environmental crises like littering. they are promising to spend money like it's the end of the world because they think it is. so it's a good thing that they at leastd claim the world is</field>
+</doc>
+</add>

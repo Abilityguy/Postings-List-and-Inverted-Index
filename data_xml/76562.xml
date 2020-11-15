@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190502_190000_BBC_News#start/1917/end/1952</field>
+<field name="datetime">5/2/2019 19:32:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190502_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190502_190000_BBC_News/BBCNEWS_20190502_190000_BBC_News.thumbs/BBCNEWS_20190502_190000_BBC_News_001918.jpg</field>
+<field name="snippet">hello, this is bbc news. the headlines. the uk should lead the globalfight against headlines. the uk should lead the global fight against climate change by reducing emissions to nearly zero by 2050, they are not planning to</field>
+</doc>
+</add>

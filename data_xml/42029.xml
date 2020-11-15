@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201107.csv</field>
+<field name="url">https://archive.org/details/CNNW_20110711_080000_World_Business_Today#start/1196/end/1231</field>
+<field name="datetime">7/11/2011 8:20:11</field>
+<field name="station">CNN</field>
+<field name="show">World Business Today</field>
+<field name="showid">CNNW_20110711_080000_World_Business_Today</field>
+<field name="preview">https://archive.org/download/CNNW_20110711_080000_World_Business_Today/CNNW_20110711_080000_World_Business_Today.thumbs/CNNW_20110711_080000_World_Business_Today_001170.jpg</field>
+<field name="snippet">statement the new carbon tax would add $3.50 to the price of each ticket. it closed down at 3.25%. virgin blue fell. it releases a statement saying higher fairs will be inevitable.</field>
+</doc>
+</add>

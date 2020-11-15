@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_090000_BBC_News_at_9#start/430/end/465</field>
+<field name="datetime">1/16/2020 9:07:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20200116_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_090000_BBC_News_at_9/BBCNEWS_20200116_090000_BBC_News_at_9.thumbs/BBCNEWS_20200116_090000_BBC_News_at_9_000418.jpg</field>
+<field name="snippet">in glasgow tomorrow, focusing on climate change. we want to put your questions on this complex issue to our experts. you can do so on twitter using the hashtag #bbcyourquestions and you can email us on yourquestions@bbc.co.uk. please remember to leave your name</field>
+</doc>
+</add>

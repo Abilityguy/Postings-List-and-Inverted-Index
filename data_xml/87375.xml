@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191217_110000_BBC_Newsroom_Live#start/5546/end/5581</field>
+<field name="datetime">12/17/2019 12:32:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20191217_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191217_110000_BBC_Newsroom_Live/BBCNEWS_20191217_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20191217_110000_BBC_Newsroom_Live_005547.jpg</field>
+<field name="snippet">with a climate change twist. let's get more now on the news that the government is to add a new clause to the brexit bill to rule out any extension to the transition period</field>
+</doc>
+</add>

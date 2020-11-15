@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201505.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150524_100000_FOX_and_Friends_Sunday#start/13564/end/13599</field>
+<field name="datetime">5/24/2015 13:46:19</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20150524_100000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150524_100000_FOX_and_Friends_Sunday/FOXNEWSW_20150524_100000_FOX_and_Friends_Sunday.thumbs/FOXNEWSW_20150524_100000_FOX_and_Friends_Sunday_013545.jpg</field>
+<field name="snippet">surprising that they both would focus on this topic. president obama's speech was at the coast guard academy. climate change was a subject that will be of interest to this year's class. next up we have mitt romney.</field>
+</doc>
+</add>

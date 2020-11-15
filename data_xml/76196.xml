@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190506_180000_Beyond_100_Days#start/949/end/984</field>
+<field name="datetime">5/6/2019 18:16:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20190506_180000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190506_180000_Beyond_100_Days/BBCNEWS_20190506_180000_Beyond_100_Days.thumbs/BBCNEWS_20190506_180000_Beyond_100_Days_000927.jpg</field>
+<field name="snippet">seeing the eroded loss of species. what is the call to action? we have had lots of climate change calls over the last six months, but what is the call to action for this one? it is interesting that climate change is mentioned throughout this</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201002.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100213_160000_MSNBC_News_Live#start/1049/end/1084</field>
+<field name="datetime">2/13/2010 16:17:44</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100213_160000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100213_160000_MSNBC_News_Live/MSNBC_20100213_160000_MSNBC_News_Live.thumbs/MSNBC_20100213_160000_MSNBC_News_Live_001050.jpg</field>
+<field name="snippet">james inhofe built an igloo and calls it 'al gore's new home' but the scientists say the blizzards actually support theorys about climate change. i'm joined by washington, d.c., political analyst pat buchanan and democratic strategist peter</field>
+</doc>
+</add>

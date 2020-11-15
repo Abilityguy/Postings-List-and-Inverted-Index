@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201312.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20131219_230000_Special_Report_With_Bret_Baier#start/1264/end/1299</field>
+<field name="datetime">12/19/2013 23:21:19</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20131219_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20131219_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20131219_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20131219_230000_Special_Report_With_Bret_Baier_001245.jpg</field>
+<field name="snippet">staff and founded the center for american progress. fan of single payer health care system and opposes the keystone pipeline though he says he won't get involved in pipeline discussions at white house. he will reportedly get involved in discussions on climate</field>
+</doc>
+</add>

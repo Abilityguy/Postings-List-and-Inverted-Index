@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201101.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110125_110000_Morning_Joe#start/4217/end/4252</field>
+<field name="datetime">1/25/2011 12:10:32</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20110125_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20110125_110000_Morning_Joe/MSNBC_20110125_110000_Morning_Joe.thumbs/MSNBC_20110125_110000_Morning_Joe_004200.jpg</field>
+<field name="snippet">and it's in that context that the president will talk it what the white house calls investments in things like innovation, education, and he'll talk about his green energy agenda. even as carol browner, the head of the office on climate control -- excuse me, climate                 _</field>
+</doc>
+</add>

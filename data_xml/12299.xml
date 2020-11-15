@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170714_044500_BBC_News#start/28/end/63</field>
+<field name="datetime">7/14/2017 4:45:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170714_044500_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170714_044500_BBC_News/BBCNEWS_20170714_044500_BBC_News.thumbs/BBCNEWS_20170714_044500_BBC_News_000057.jpg</field>
+<field name="snippet">the eiffel tower for the us and french presidents, and their wives. they're shown here on le figaro. in france for bastille day celebrations, donald trump has hinted that the united states' position on climate change</field>
+</doc>
+</add>

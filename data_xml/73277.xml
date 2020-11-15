@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190125_000000_Newsday#start/787/end/822</field>
+<field name="datetime">1/25/2019 0:13:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190125_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190125_000000_Newsday/BBCNEWS_20190125_000000_Newsday.thumbs/BBCNEWS_20190125_000000_Newsday_000779.jpg</field>
+<field name="snippet">it helps create a cold, fresh surface layer that acts as a cap on warm, saltier waters beneath. but with climate change, there is less sea ice getting to norway's barents sea. the north barents sea has been dominated for 12000 years by sea ice flowing down from the high arctic. but now, that flow is diminishing</field>
+</doc>
+</add>

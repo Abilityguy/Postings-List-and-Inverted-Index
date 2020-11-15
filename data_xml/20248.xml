@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201404.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140420_020000_Stossel#start/32/end/67</field>
+<field name="datetime">4/20/2014 2:00:47</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Stossel</field>
+<field name="showid">FOXNEWSW_20140420_020000_Stossel</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140420_020000_Stossel/FOXNEWSW_20140420_020000_Stossel.thumbs/FOXNEWSW_20140420_020000_Stossel_000045.jpg</field>
+<field name="snippet">are you worried about global warming? of course i am. what should we do about it? i'm not sure. it can be as simple as riding the bus or the subway to work. well, i do that. or this.</field>
+</doc>
+</add>

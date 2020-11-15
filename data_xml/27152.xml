@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100205_010000_The_OReilly_Factor#start/277/end/312</field>
+<field name="datetime">2/5/2010 1:04:52</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20100205_010000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100205_010000_The_OReilly_Factor/FOXNEWS_20100205_010000_The_OReilly_Factor.thumbs/FOXNEWS_20100205_010000_The_OReilly_Factor_000266.jpg</field>
+<field name="snippet">bill: i got to have your -- on. this i'm not a scientist. can i only assume common sense if you burn a lot of stuff and put it in the atmosphere it means something. what it means, i don't know. bill: but you believe in global warming man made? i have no reason not to. bill: what do you want to do</field>
+</doc>
+</add>

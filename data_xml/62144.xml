@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181013_200000_Americas_News_HQ#start/3552/end/3587</field>
+<field name="datetime">10/13/2018 20:59:27</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20181013_200000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181013_200000_Americas_News_HQ/FOXNEWSW_20181013_200000_Americas_News_HQ.thumbs/FOXNEWSW_20181013_200000_Americas_News_HQ_003537.jpg</field>
+<field name="snippet">paul: allysia. this is miss to exxon mobil who donated $1 million to promote a carbon tax, as well as bill gates who endorsed the carbon tax in washington state. in washington it would start at</field>
+</doc>
+</add>

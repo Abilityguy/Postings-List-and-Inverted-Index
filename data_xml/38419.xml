@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201005.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100507_130000_Americas_Newsroom#start/1094/end/1129</field>
+<field name="datetime">5/7/2010 13:18:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20100507_130000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100507_130000_Americas_Newsroom/FOXNEWS_20100507_130000_Americas_Newsroom.thumbs/FOXNEWS_20100507_130000_Americas_Newsroom_001080.jpg</field>
+<field name="snippet">majority lead harry reid is who in his own tight election race. for reid, with hispanic voters in nevada, it's a good thing, so he's been aggressive saying we should move forward on this after moving the climate change bill. but as your poll shows, a lot of americans don't have</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.202001.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20200101_140000_MSNBC_Live#start/1867/end/1902</field>
+<field name="datetime">1/1/2020 14:31:22</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20200101_140000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20200101_140000_MSNBC_Live/MSNBCW_20200101_140000_MSNBC_Live.thumbs/MSNBCW_20200101_140000_MSNBC_Live_001857.jpg</field>
+<field name="snippet">worst. more than 1000 homes have been destroyed and at least 17 people have died in the wildfires that have raged across the country. and the most of the damage centered in new south wales. officials are blaming it on climate change and they are also</field>
+</doc>
+</add>

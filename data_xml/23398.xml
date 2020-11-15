@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201405.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140506_220000_Special_Report_With_Bret_Baier#start/2412/end/2447</field>
+<field name="datetime">5/6/2014 22:40:27</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20140506_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140506_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20140506_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20140506_220000_Special_Report_With_Bret_Baier_002385.jpg</field>
+<field name="snippet">assume that they are right about global warming, assuming it is caused by man, the united states has reduced carbon emissions since 2006 mower than any other country on earth. we are right now at 1992 levels according to the international energy agency, and yet carbon</field>
+</doc>
+</add>

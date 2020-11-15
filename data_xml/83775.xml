@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190421_200000_World_News_Today#start/1267/end/1302</field>
+<field name="datetime">4/21/2019 20:21:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190421_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190421_200000_World_News_Today/BBCNEWS_20190421_200000_World_News_Today.thumbs/BBCNEWS_20190421_200000_World_News_Today_001257.jpg</field>
+<field name="snippet">crisis. a climate crisis, an ecological crisis. which has never been treated as a crisis before. they have been ignored for decades. and for way too long, the politicians and the people in power</field>
+</doc>
+</add>

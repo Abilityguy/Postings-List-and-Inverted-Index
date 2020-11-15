@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181126_230000_BBC_News#start/895/end/930</field>
+<field name="datetime">11/26/2018 23:15:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181126_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181126_230000_BBC_News/BBCNEWS_20181126_230000_BBC_News.thumbs/BBCNEWS_20181126_230000_BBC_News_000868.jpg</field>
+<field name="snippet">the same could happen in wales. in winter in scotland, rain and snow could increase by a fifth, as in northern ireland. but some scientists say climate change poses real dangers</field>
+</doc>
+</add>

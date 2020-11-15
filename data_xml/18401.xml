@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201311.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20131119_080000_Red_Eye#start/2800/end/2835</field>
+<field name="datetime">11/19/2013 8:46:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWSW_20131119_080000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20131119_080000_Red_Eye/FOXNEWSW_20131119_080000_Red_Eye.thumbs/FOXNEWSW_20131119_080000_Red_Eye_002775.jpg</field>
+<field name="snippet">i >>- q. i haven't read -- i haven't read the book yet. i have time for one more story. this is about a bunch of climate change experts saying they found the world's oldest creature.</field>
+</doc>
+</add>

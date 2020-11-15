@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201009.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100928_060000_Glenn_Beck#start/1117/end/1152</field>
+<field name="datetime">9/28/2010 6:18:52</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20100928_060000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100928_060000_Glenn_Beck/FOXNEWS_20100928_060000_Glenn_Beck.thumbs/FOXNEWS_20100928_060000_Glenn_Beck_001110.jpg</field>
+<field name="snippet">explain the science behind climate change and how we can change our daily practices to help save our planet and role in preparing students for jobs in the green economy. glenn: there is no green economy. america, this is your job as a parent. did you ask your schools to make your child a green environmental citizen?</field>
+</doc>
+</add>

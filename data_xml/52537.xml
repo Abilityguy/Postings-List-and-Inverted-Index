@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_113000_BBC_Newsroom_Live#start/1144/end/1179</field>
+<field name="datetime">12/3/2018 11:49:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20181203_113000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_113000_BBC_Newsroom_Live/BBCNEWS_20181203_113000_BBC_Newsroom_Live.thumbs/BBCNEWS_20181203_113000_BBC_Newsroom_Live_001137.jpg</field>
+<field name="snippet">but first the headlines on bbc news. sir david attenborough calls on world leaders to combat climate change - describing it as the greatest threat to humanity in thousands of years - and that inaction could see the extinction of much of the natural world. theresa may dismisses suggestions she could resign if she loses the meaningful vote</field>
+</doc>
+</add>

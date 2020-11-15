@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181210_033000_Dateline_London#start/1233/end/1268</field>
+<field name="datetime">12/10/2018 3:50:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Dateline London</field>
+<field name="showid">BBCNEWS_20181210_033000_Dateline_London</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181210_033000_Dateline_London/BBCNEWS_20181210_033000_Dateline_London.thumbs/BBCNEWS_20181210_033000_Dateline_London_001228.jpg</field>
+<field name="snippet">it's a bit of the 193a extreme right leagues. you know, i could go on. how many hours do we have? not enough, sadly! you could do a whole program. another president, a different take on climate change.</field>
+</doc>
+</add>

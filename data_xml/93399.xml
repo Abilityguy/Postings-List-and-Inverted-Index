@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190724_210000_BBC_News_at_Ten#start/1900/end/1935</field>
+<field name="datetime">7/24/2019 21:31:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20190724_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190724_210000_BBC_News_at_Ten/BBCNEWS_20190724_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20190724_210000_BBC_News_at_Ten_001889.jpg</field>
+<field name="snippet">reported. meanwhile, research published today in the journal of nature suggests the current warming rate is higher than any previously observed, with scientists saying that human influence on global warming is no longer in doubt. our science correspondent has more</field>
+</doc>
+</add>

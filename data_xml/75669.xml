@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201210.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121016_190000_The_Cycle#start/3063/end/3098</field>
+<field name="datetime">10/16/2012 19:51:18</field>
+<field name="station">MSNBC</field>
+<field name="show">The Cycle</field>
+<field name="showid">MSNBCW_20121016_190000_The_Cycle</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121016_190000_The_Cycle/MSNBCW_20121016_190000_The_Cycle.thumbs/MSNBCW_20121016_190000_The_Cycle_003058.jpg</field>
+<field name="snippet">people who signed their petition argued for a presidential debate about science. as we know, that never happened. instead though, they succeeded in something slightly less ambitious. they got the candidates to submit written responses about more than a dozen top science issues ranging from space exploration to climate change to</field>
+</doc>
+</add>

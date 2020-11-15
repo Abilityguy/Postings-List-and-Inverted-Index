@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190922_040000_BBC_News#start/109/end/144</field>
+<field name="datetime">9/22/2019 4:02:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190922_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190922_040000_BBC_News/BBCNEWS_20190922_040000_BBC_News.thumbs/BBCNEWS_20190922_040000_BBC_News_000598.jpg</field>
+<field name="snippet">there's been a day of protests and sporadic clashes in paris, as a climate change demonstration was infiltrated by activists associated with anarchist groups and by yellow-vest supporters. french police responded with tear gas as the radical groups broke shop windows, set up barricades and set fire to bins. more than a hundred people were arrested. the bbc's tim allman reports.</field>
+</doc>
+</add>

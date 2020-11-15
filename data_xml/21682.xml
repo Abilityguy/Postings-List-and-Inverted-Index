@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100128_140000_Americas_Newsroom#start/3831/end/3866</field>
+<field name="datetime">1/28/2010 15:04:06</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20100128_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100128_140000_Americas_Newsroom/FOXNEWS_20100128_140000_Americas_Newsroom.thumbs/FOXNEWS_20100128_140000_Americas_Newsroom_003829.jpg</field>
+<field name="snippet">things like climate change legislation, so-called cap-and-trade bill, it is off in limbo and many had invested a good portion of last year voting for it, supporting it and telling constituents back home they were going to deliver and</field>
+</doc>
+</add>

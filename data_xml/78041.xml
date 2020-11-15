@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191130_120000_BBC_News#start/1186/end/1221</field>
+<field name="datetime">11/30/2019 12:20:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191130_120000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191130_120000_BBC_News/BBCNEWS_20191130_120000_BBC_News.thumbs/BBCNEWS_20191130_120000_BBC_News_001168.jpg</field>
+<field name="snippet">senior figures from seven parties, who discussed issues, including brexit, the nhs and climate change. nick eardley reports. welcome to cardiff and the national assembly for wales. in a fractious political period, last night's debate began on a sombre note.</field>
+</doc>
+</add>

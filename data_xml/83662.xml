@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190418_080000_BBC_News_at_Nine#start/552/end/587</field>
+<field name="datetime">4/18/2019 8:09:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190418_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190418_080000_BBC_News_at_Nine/BBCNEWS_20190418_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190418_080000_BBC_News_at_Nine_000537.jpg</field>
+<field name="snippet">committee on climate change was established ten years ago when that climate change act was passed by westminster in 2008. best to think of us as the independent watchdog that was established to help advise government and parliament on how well we are doing on reducing</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201505.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150520_220000_PoliticsNation#start/3527/end/3562</field>
+<field name="datetime">5/20/2015 22:59:02</field>
+<field name="station">MSNBC</field>
+<field name="show">PoliticsNation</field>
+<field name="showid">MSNBCW_20150520_220000_PoliticsNation</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150520_220000_PoliticsNation/MSNBCW_20150520_220000_PoliticsNation.thumbs/MSNBCW_20150520_220000_PoliticsNation_003526.jpg</field>
+<field name="snippet">president obama told graduates of the coast guard academy at their graduation ceremony today saying ignoring climate change would be a dereliction of duty. even as we meet threats like</field>
+</doc>
+</add>

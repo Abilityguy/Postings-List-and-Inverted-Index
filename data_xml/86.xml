@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201009.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100930_000000_Countdown_With_Keith_Olbermann#start/85/end/120</field>
+<field name="datetime">9/30/2010 0:01:40</field>
+<field name="station">MSNBC</field>
+<field name="show">Countdown With Keith Olbermann</field>
+<field name="showid">MSNBC_20100930_000000_Countdown_With_Keith_Olbermann</field>
+<field name="preview">https://archive.org/download/MSNBC_20100930_000000_Countdown_With_Keith_Olbermann/MSNBC_20100930_000000_Countdown_With_Keith_Olbermann.thumbs/MSNBC_20100930_000000_Countdown_With_Keith_Olbermann_000060.jpg</field>
+<field name="snippet">if the republicans take the house he wants to turn the select committee on global warming into an investigation of obama's green power initiatives and of the so-called climategate. the 9/11 first responders bill finally passes.</field>
+</doc>
+</add>

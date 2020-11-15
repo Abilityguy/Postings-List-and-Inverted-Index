@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091222_040000_The_OReilly_Factor#start/2250/end/2285</field>
+<field name="datetime">12/22/2009 4:37:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20091222_040000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091222_040000_The_OReilly_Factor/FOXNEWS_20091222_040000_The_OReilly_Factor.thumbs/FOXNEWS_20091222_040000_The_OReilly_Factor_002250.jpg</field>
+<field name="snippet">laura: take care. when we come back, o'reilly goes one on one with a lawyer who represents a terrorist suspect in new york city. this is hot. you don't want to miss it and then, global warming? straight face test as the east</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201007.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100708_200000_The_Dylan_Ratigan_Show#start/1190/end/1225</field>
+<field name="datetime">7/8/2010 20:20:05</field>
+<field name="station">MSNBC</field>
+<field name="show">The Dylan Ratigan Show</field>
+<field name="showid">MSNBC_20100708_200000_The_Dylan_Ratigan_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20100708_200000_The_Dylan_Ratigan_Show/MSNBC_20100708_200000_The_Dylan_Ratigan_Show.thumbs/MSNBC_20100708_200000_The_Dylan_Ratigan_Show_001166.jpg</field>
+<field name="snippet">climate scientists come out and talk about the rationale, the reason more specifically for the snowstorms, they say that's totally in keeping with the climate change model because all of that moisture is trapped in the atmosphere, and when the temperature reaches a certain level, boom, you're going to</field>
+</doc>
+</add>

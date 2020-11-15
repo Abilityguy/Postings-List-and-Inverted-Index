@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190317_230000_BBC_News#start/1569/end/1604</field>
+<field name="datetime">3/17/2019 23:26:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190317_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190317_230000_BBC_News/BBCNEWS_20190317_230000_BBC_News.thumbs/BBCNEWS_20190317_230000_BBC_News_001558.jpg</field>
+<field name="snippet">has been coming to svalbard for 12 years to study climate change. i am just going to use this to measure the depth of the snowpack and also identify layers of refrozen rainwater within the snow. so, it's gone in fairly easily, it's hit a hard layer. that's one rain event. pushing through that, there's another one. you can hear that hollow sound. that's a layer of refrozen rain.</field>
+</doc>
+</add>

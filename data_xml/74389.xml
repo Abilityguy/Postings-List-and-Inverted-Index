@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200114_170000_BBC_News_at_Five#start/2341/end/2376</field>
+<field name="datetime">1/14/2020 17:39:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20200114_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200114_170000_BBC_News_at_Five/BBCNEWS_20200114_170000_BBC_News_at_Five.thumbs/BBCNEWS_20200114_170000_BBC_News_at_Five_002338.jpg</field>
+<field name="snippet">are what we expect to happen on average in a world of nearly three degrees global warming. so, it houses what that future might look like.</field>
+</doc>
+</add>

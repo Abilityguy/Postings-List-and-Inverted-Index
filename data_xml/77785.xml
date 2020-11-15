@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191113_170000_BBC_News_at_Five#start/468/end/503</field>
+<field name="datetime">11/13/2019 17:08:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20191113_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191113_170000_BBC_News_at_Five/BBCNEWS_20191113_170000_BBC_News_at_Five.thumbs/BBCNEWS_20191113_170000_BBC_News_at_Five_000448.jpg</field>
+<field name="snippet">and blue flag that represents the best of our values from democracy to rule of law to free trade to free speech, freedom to love whoever you choose, from tackling climate change to protecting the wildlife of the</field>
+</doc>
+</add>

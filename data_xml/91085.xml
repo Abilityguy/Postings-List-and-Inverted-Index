@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190626_080000_Fox_and_Friends_First#start/2725/end/2760</field>
+<field name="datetime">6/26/2019 8:45:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190626_080000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190626_080000_Fox_and_Friends_First/FOXNEWSW_20190626_080000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190626_080000_Fox_and_Friends_First_002729.jpg</field>
+<field name="snippet">this is the top eight, what democrats want to hear and topping the list, 63% want to talk about climate change, 62%</field>
+</doc>
+</add>

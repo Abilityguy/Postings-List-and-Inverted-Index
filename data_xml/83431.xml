@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190418_230000_Newsday#start/1332/end/1367</field>
+<field name="datetime">4/18/2019 23:22:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190418_230000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190418_230000_Newsday/BBCNEWS_20190418_230000_Newsday.thumbs/BBCNEWS_20190418_230000_Newsday_001319.jpg</field>
+<field name="snippet">wants us to think about the impact global warming has on the world's habitats. earlier he told me global warming is</field>
+</doc>
+</add>

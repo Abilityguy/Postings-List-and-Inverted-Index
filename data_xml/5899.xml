@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190925_040000_The_Briefing#start/751/end/786</field>
+<field name="datetime">9/25/2019 4:12:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20190925_040000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190925_040000_The_Briefing/BBCNEWS_20190925_040000_The_Briefing.thumbs/BBCNEWS_20190925_040000_The_Briefing_000747.jpg</field>
+<field name="snippet">un scientists are due to publish their latest study on how climate change is affecting the world's oceans. the intergovernmental panel on climate change will warn that hundreds of millions of people could be at risk of flooding by the end of the century.</field>
+</doc>
+</add>

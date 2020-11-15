@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191024_100000_FOX__Friends#start/1523/end/1558</field>
+<field name="datetime">10/24/2019 10:25:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20191024_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191024_100000_FOX__Friends/FOXNEWSW_20191024_100000_FOX__Friends.thumbs/FOXNEWSW_20191024_100000_FOX__Friends_001408.jpg</field>
+<field name="snippet">ainsley: here's some quick headlines for you. california tried to make its own deal on energy and now the trump administration is taking the state to court. the lawsuit claims california overstepped its legal authority to strike a climate change deal with quebec to lower fossil fuel emissions. governor gavin newsom calls</field>
+</doc>
+</add>

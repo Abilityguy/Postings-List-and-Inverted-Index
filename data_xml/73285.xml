@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190123_030000_BBC_News#start/902/end/937</field>
+<field name="datetime">1/23/2019 3:15:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190123_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190123_030000_BBC_News/BBCNEWS_20190123_030000_BBC_News.thumbs/BBCNEWS_20190123_030000_BBC_News_000898.jpg</field>
+<field name="snippet">across the world struggling to cope with extreme and fluctuating weather conditions. the effects are being keenly felt in mali in north-west africa where droughts and floods have caused immense damage. our chief international correspondent, lyse doucet has travelled to the town of menaka, rarely visited byjournalists, to see the impact climate change is having on daily life there. the sahel, locked in a long war</field>
+</doc>
+</add>

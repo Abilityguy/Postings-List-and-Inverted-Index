@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090923_220000_Special_Report_With_Bret_Baier#start/125/end/160</field>
+<field name="datetime">9/23/2009 22:02:20</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20090923_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090923_220000_Special_Report_With_Bret_Baier/FOXNEWS_20090923_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20090923_220000_Special_Report_With_Bret_Baier_000116.jpg</field>
+<field name="snippet">based on his moves to ban torture, reduce greenhouse gases, p pursue middle east peace and address world hunger. those who used to chastise america now stand by and wait</field>
+</doc>
+</add>

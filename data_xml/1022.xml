@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170512_003000_Asia_Business_Report#start/25/end/60</field>
+<field name="datetime">5/12/2017 0:30:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Asia Business Report</field>
+<field name="showid">BBCNEWS_20170512_003000_Asia_Business_Report</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170512_003000_Asia_Business_Report/BBCNEWS_20170512_003000_Asia_Business_Report.thumbs/BBCNEWS_20170512_003000_Asia_Business_Report_000058.jpg</field>
+<field name="snippet">is trending on bbc.com. foreign ministers of the eight arctic council nations are meeting in alaska to discuss climate change. and the top story here in the uk.</field>
+</doc>
+</add>

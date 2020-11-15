@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190430_000000_Tucker_Carlson_Tonight#start/2074/end/2109</field>
+<field name="datetime">4/30/2019 0:34:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190430_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190430_000000_Tucker_Carlson_Tonight/FOXNEWSW_20190430_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190430_000000_Tucker_Carlson_Tonight_002069.jpg</field>
+<field name="snippet">now he has another idea. he just revealed a $5 trillion plan to fight climate change. we are announcing the most ambitious climate plan in the history of the united states. we will ensure that we are at</field>
+</doc>
+</add>

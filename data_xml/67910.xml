@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190226_180000_BBC_News_at_Six#start/1587/end/1622</field>
+<field name="datetime">2/26/2019 18:26:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20190226_180000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190226_180000_BBC_News_at_Six/BBCNEWS_20190226_180000_BBC_News_at_Six.thumbs/BBCNEWS_20190226_180000_BBC_News_at_Six_001587.jpg</field>
+<field name="snippet">while the warm spell rolls on, it's here at kew gardens that weather history has been made, with a new record. the highest winter temperature ever recorded in britain. we know the average world temperature is rising with global warming, so is this the reason? we asked a leading</field>
+</doc>
+</add>

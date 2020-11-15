@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190423_130000_Afternoon_Live#start/1520/end/1555</field>
+<field name="datetime">4/23/2019 13:25:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190423_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190423_130000_Afternoon_Live/BBCNEWS_20190423_130000_Afternoon_Live.thumbs/BBCNEWS_20190423_130000_Afternoon_Live_001497.jpg</field>
+<field name="snippet">on climate change. sarah walton reports. not many 16-year-olds could hold the attention of political leaders, but today greta thunberg took her message of climate change activism</field>
+</doc>
+</add>

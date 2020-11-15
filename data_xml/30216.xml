@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201508.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150831_190000_MSNBC_Live#start/1856/end/1891</field>
+<field name="datetime">8/31/2015 19:31:11</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20150831_190000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150831_190000_MSNBC_Live/MSNBCW_20150831_190000_MSNBC_Live.thumbs/MSNBCW_20150831_190000_MSNBC_Live_001846.jpg</field>
+<field name="snippet">friday plans. thanks so much for that report. right now, president obama is in alaska for a three-day trip focusing on climate change. he's meeting with natives after officially renaming mt. mckinley</field>
+</doc>
+</add>

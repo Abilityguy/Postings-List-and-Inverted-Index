@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201306.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130624_100000_FOX_and_Friends#start/1241/end/1276</field>
+<field name="datetime">6/24/2013 10:20:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20130624_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130624_100000_FOX_and_Friends/FOXNEWSW_20130624_100000_FOX_and_Friends.thumbs/FOXNEWSW_20130624_100000_FOX_and_Friends_001245.jpg</field>
+<field name="snippet">stuart varney keeping a close eye on wall street and your wallet. when he walks down the hall, the world seems safe again. he also will be talking about global warming, because the president is.</field>
+</doc>
+</add>

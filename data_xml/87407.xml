@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191203_020000_BBC_News#start/914/end/949</field>
+<field name="datetime">12/3/2019 2:15:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191203_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191203_020000_BBC_News/BBCNEWS_20191203_020000_BBC_News.thumbs/BBCNEWS_20191203_020000_BBC_News_000899.jpg</field>
+<field name="snippet">david panuelo is president of the federated states of micronesia. mark what effects are you seeing right now for climate change and how bad you are expected to get? first of all, thank you for having me on</field>
+</doc>
+</add>

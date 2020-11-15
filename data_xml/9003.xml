@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190823_000000_Tucker_Carlson_Tonight#start/2387/end/2422</field>
+<field name="datetime">8/23/2019 0:40:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190823_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190823_000000_Tucker_Carlson_Tonight/FOXNEWSW_20190823_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190823_000000_Tucker_Carlson_Tonight_002370.jpg</field>
+<field name="snippet">that global warming is an existential threat. probably overstated at this point. that doesn't mean there aren't deadly threats out there that could be existential. super volcanoes and astros asteroids for example are existential threats. should be boo worried about</field>
+</doc>
+</add>

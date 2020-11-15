@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201107.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20110721_220000_Special_Report_With_Bret_Baier#start/1801/end/1836</field>
+<field name="datetime">7/21/2011 22:30:16</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20110721_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20110721_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20110721_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20110721_220000_Special_Report_With_Bret_Baier_001800.jpg</field>
+<field name="snippet">a group was debateed whether the climate change constituted a peace and security issue that must be addressed and ambassador susan rice called the lack of attention a dereliction of duty because, 'as sea levels rise, small island states may well see the</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190103_090000_BBC_News#start/5456/end/5491</field>
+<field name="datetime">1/3/2019 10:31:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190103_090000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190103_090000_BBC_News/BBCNEWS_20190103_090000_BBC_News.thumbs/BBCNEWS_20190103_090000_BBC_News_005457.jpg</field>
+<field name="snippet">production, we will have to source from abroad, but we also know that climate change is going to have an impact on the resilience and range of food production in other countries, particularly in the global south. so countries like our own will have to play an even more</field>
+</doc>
+</add>

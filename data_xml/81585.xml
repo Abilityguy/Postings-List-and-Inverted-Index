@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091217_110000_Morning_Joe#start/5472/end/5507</field>
+<field name="datetime">12/17/2009 12:31:27</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20091217_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20091217_110000_Morning_Joe/MSNBC_20091217_110000_Morning_Joe.thumbs/MSNBC_20091217_110000_Morning_Joe_005453.jpg</field>
+<field name="snippet">welcome back to 'morning joe.' pretty pictures of new york city. just after 7:30 on the east coast. president obama headed to copenhagen to attend the final day of the climate change summit. he'll arrive in denmark early</field>
+</doc>
+</add>

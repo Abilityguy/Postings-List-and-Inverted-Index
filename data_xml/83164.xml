@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191014_081500_Victoria_Derbyshire#start/17/end/52</field>
+<field name="datetime">10/14/2019 8:15:32</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20191014_081500_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191014_081500_Victoria_Derbyshire/BBCNEWS_20191014_081500_Victoria_Derbyshire.thumbs/BBCNEWS_20191014_081500_Victoria_Derbyshire_000027.jpg</field>
+<field name="snippet">have been more than 1300 arrests in connection with the ongoing extinction rebellion protests across london. hundreds of activists occupied the crossroads outside the bank of england this morning, targeting financial firms they say profit from climate change. the protests in the capital</field>
+</doc>
+</add>

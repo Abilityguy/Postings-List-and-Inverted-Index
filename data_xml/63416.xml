@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190305_010000_Newsday#start/1354/end/1389</field>
+<field name="datetime">3/5/2019 1:22:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190305_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190305_010000_Newsday/BBCNEWS_20190305_010000_Newsday.thumbs/BBCNEWS_20190305_010000_Newsday_001348.jpg</field>
+<field name="snippet">in the bay of bengal. the island of ghoramara on the east coast of india is on the brink of sinking. climate change is causing water levels to rise rapidly here, and soon, ghoramara could vanish completely, as the bbc's devina gupta reports</field>
+</doc>
+</add>

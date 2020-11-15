@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191223_080000_MediaBuzz#start/3339/end/3374</field>
+<field name="datetime">12/23/2019 8:55:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">MediaBuzz</field>
+<field name="showid">FOXNEWSW_20191223_080000_MediaBuzz</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191223_080000_MediaBuzz/FOXNEWSW_20191223_080000_MediaBuzz.thumbs/FOXNEWSW_20191223_080000_MediaBuzz_003329.jpg</field>
+<field name="snippet">turn it back to climate change. sure. of course. howard: overall, this debate was seen by six million people, the lowest of the season for these debates. i thought the moderators did a good job, but almost every question -- a couple of exceptions -- seemed to come from a liberal checklist;</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201109.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20110929_220000_Special_Report_With_Bret_Baier#start/1810/end/1845</field>
+<field name="datetime">9/29/2011 22:30:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20110929_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20110929_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20110929_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20110929_220000_Special_Report_With_Bret_Baier_001797.jpg</field>
+<field name="snippet">bret: fresh picks from the political grapevine. obama administration cut corners before concluding climate change pollution can endanger human health. key finding to justify costly regulations according to an internal government watchdog.</field>
+</doc>
+</add>

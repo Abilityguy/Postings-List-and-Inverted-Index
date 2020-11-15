@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_193000_Climate_Change#start/1357/end/1392</field>
+<field name="datetime">10/8/2018 19:52:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Climate Change</field>
+<field name="showid">BBCNEWS_20181008_193000_Climate_Change</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_193000_Climate_Change/BBCNEWS_20181008_193000_Climate_Change.thumbs/BBCNEWS_20181008_193000_Climate_Change_001347.jpg</field>
+<field name="snippet">governments are taking the action that's needed to reduce global warming. in the united states, the picture is mixed. some states and corporations are massively expanding cheap power from the sun and wind, and the us government is a signatory to the climate assessment today.</field>
+</doc>
+</add>

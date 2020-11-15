@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190710_160000_BBC_News_at_Five#start/3003/end/3038</field>
+<field name="datetime">7/10/2019 16:50:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190710_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190710_160000_BBC_News_at_Five/BBCNEWS_20190710_160000_BBC_News_at_Five.thumbs/BBCNEWS_20190710_160000_BBC_News_at_Five_002998.jpg</field>
+<field name="snippet">but actually we are seeing the climate change. even if we are on the 1.5 degrees path, the climate is going to go on changing, we are going to see more severe weather. the 2018 summer is going to be, by 2050, a normal summer.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201207.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120703_060000_The_Five#start/2557/end/2592</field>
+<field name="datetime">7/3/2012 6:42:52</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20120703_060000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120703_060000_The_Five/FOXNEWSW_20120703_060000_The_Five.thumbs/FOXNEWSW_20120703_060000_The_Five_002550.jpg</field>
+<field name="snippet">greg: do you think global warming causes this? bob: yes. absolutely. greg: do you have any evidence for that? kimberly: 17th floor. producer put the research in -- bob: more evidence than galileo had. greg: right, right.</field>
+</doc>
+</add>

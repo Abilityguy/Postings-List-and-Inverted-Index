@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201108.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20110806_100000_FOX_and_Friends_Saturday#start/1402/end/1437</field>
+<field name="datetime">8/6/2011 10:23:37</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20110806_100000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20110806_100000_FOX_and_Friends_Saturday/FOXNEWSW_20110806_100000_FOX_and_Friends_Saturday.thumbs/FOXNEWSW_20110806_100000_FOX_and_Friends_Saturday_001380.jpg</field>
+<field name="snippet">january. the nasa study is debunking whether global warming is man made. 69 percent of americans believe that some scientists lied in the research to support their own theory. so what is the real story?</field>
+</doc>
+</add>

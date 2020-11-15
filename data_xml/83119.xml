@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191018_040000_The_Briefing#start/31/end/66</field>
+<field name="datetime">10/18/2019 4:00:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20191018_040000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191018_040000_The_Briefing/BBCNEWS_20191018_040000_The_Briefing.thumbs/BBCNEWS_20191018_040000_The_Briefing_000028.jpg</field>
+<field name="snippet">i'm nuala mcgovern in brussels where the summit continues, leaders move on to matters on climate change, long-term eu budget and priorities for the next five years. a five-day pause in fighting in northern syria has come</field>
+</doc>
+</add>

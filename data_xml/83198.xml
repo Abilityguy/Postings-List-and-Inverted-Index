@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191025_050000_Breakfast#start/5211/end/5246</field>
+<field name="datetime">10/25/2019 6:27:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191025_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191025_050000_Breakfast/BBCNEWS_20191025_050000_Breakfast.thumbs/BBCNEWS_20191025_050000_Breakfast_005188.jpg</field>
+<field name="snippet">you're watching breakfast. still to come this morning: we'll be joined by two of the team behind sir david attenborough's stunning seven worlds, one planet. the series he hopes will be as influential on climate change, as blue planet was on plastics.</field>
+</doc>
+</add>

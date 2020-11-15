@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170601_210000_BBC_News_at_Ten#start/506/end/541</field>
+<field name="datetime">6/1/2017 21:08:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20170601_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170601_210000_BBC_News_at_Ten/BBCNEWS_20170601_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20170601_210000_BBC_News_at_Ten_000507.jpg</field>
+<field name="snippet">major blow. this is a terrible day for international efforts to combat climate change, the biggest issues that the world faces. 195 countries signed the paris climate agreement and for the second largest polluter</field>
+</doc>
+</add>

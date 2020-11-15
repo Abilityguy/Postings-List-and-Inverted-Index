@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201912.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191205_110000_Morning_Joe#start/10038/end/10073</field>
+<field name="datetime">12/5/2019 13:47:33</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20191205_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191205_110000_Morning_Joe/MSNBCW_20191205_110000_Morning_Joe.thumbs/MSNBCW_20191205_110000_Morning_Joe_010019.jpg</field>
+<field name="snippet">what are the top two or three things if we don't address climate change in a serious manner over the next decade, how would that change people's lives here in the united states? if we don't do it? if we don't do it. people will be paying</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201703.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170325_080000_Breakfast#start/3265/end/3300</field>
+<field name="datetime">3/25/2017 8:54:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20170325_080000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170325_080000_Breakfast/BBCNEWS_20170325_080000_Breakfast.thumbs/BBCNEWS_20170325_080000_Breakfast_003238.jpg</field>
+<field name="snippet">this, and the science is compelling, from nasa through to the british antarctic survey, who know that climate change is beginning to hit hard. politicians do sometimes ignore scientific advice. yes, but the good news is this is a worldwide</field>
+</doc>
+</add>

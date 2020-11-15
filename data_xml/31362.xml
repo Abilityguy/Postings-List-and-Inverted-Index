@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090710_100000_FOX_and_Friends#start/3723/end/3758</field>
+<field name="datetime">7/10/2009 11:02:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20090710_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090710_100000_FOX_and_Friends/FOXNEWS_20090710_100000_FOX_and_Friends.thumbs/FOXNEWS_20090710_100000_FOX_and_Friends_003716.jpg</field>
+<field name="snippet">we can talk about global warming, international trade, international currency. development aid, all topics here. first, i want to start off with a juicy, angry little dispute. it's not going to change the world it's certainly going to change the tone of this final day of the g-8 conference. the president is supposed to</field>
+</doc>
+</add>

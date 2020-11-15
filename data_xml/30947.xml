@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140216_230000_FOX_News_Sunday_With_Chris_Wallace#start/2716/end/2751</field>
+<field name="datetime">2/16/2014 23:45:31</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Sunday With Chris Wallace</field>
+<field name="showid">FOXNEWSW_20140216_230000_FOX_News_Sunday_With_Chris_Wallace</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140216_230000_FOX_News_Sunday_With_Chris_Wallace/FOXNEWSW_20140216_230000_FOX_News_Sunday_With_Chris_Wallace.thumbs/FOXNEWSW_20140216_230000_FOX_News_Sunday_With_Chris_Wallace_002715.jpg</field>
+<field name="snippet">i would say the fund is focused on reducing a carbon emission, which whether you believe in climate change or not, i think, is something people should be able to get behind. less pollution is definitely a good thing.</field>
+</doc>
+</add>

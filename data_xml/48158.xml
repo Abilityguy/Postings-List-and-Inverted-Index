@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201505.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150505_210000_The_Ed_Show#start/2619/end/2654</field>
+<field name="datetime">5/5/2015 21:43:54</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20150505_210000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150505_210000_The_Ed_Show/MSNBCW_20150505_210000_The_Ed_Show.thumbs/MSNBCW_20150505_210000_The_Ed_Show_002595.jpg</field>
+<field name="snippet">the impact of climate change and human rights on the next generation. because they're the ones who are really going to be feeling the impact. and we're the ones who are causing the problem. all right, the robert f. kennedy center for justice and human rights.</field>
+</doc>
+</add>

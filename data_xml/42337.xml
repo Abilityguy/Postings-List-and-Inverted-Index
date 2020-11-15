@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201009.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100928_170000_America_Live#start/3956/end/3991</field>
+<field name="datetime">9/28/2010 18:06:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWS_20100928_170000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100928_170000_America_Live/FOXNEWS_20100928_170000_America_Live.thumbs/FOXNEWS_20100928_170000_America_Live_003930.jpg</field>
+<field name="snippet">commercial 800000 jobs. 28 million tons of cement production forced overseas. and the report catalogues other regulations, related to greenhouse gas restrictions.</field>
+</doc>
+</add>

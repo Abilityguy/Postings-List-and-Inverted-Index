@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191030_090000_BBC_News_at_Nine#start/1127/end/1162</field>
+<field name="datetime">10/30/2019 9:19:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20191030_090000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191030_090000_BBC_News_at_Nine/BBCNEWS_20191030_090000_BBC_News_at_Nine.thumbs/BBCNEWS_20191030_090000_BBC_News_at_Nine_001348.jpg</field>
+<field name="snippet">asthma sufferers can reduce their carbon footprint by changing inhalers to ones that don't contain greenhouse gases. there is an important health warning with that story because anyone who suffers from asthma shouldn't be doing that without checking with their doctor first. at number one on the most</field>
+</doc>
+</add>

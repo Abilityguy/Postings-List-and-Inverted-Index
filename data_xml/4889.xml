@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170602_050000_Breakfast#start/0/end/32</field>
+<field name="datetime">6/2/2017 5:00:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20170602_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170602_050000_Breakfast/BBCNEWS_20170602_050000_Breakfast.thumbs/BBCNEWS_20170602_050000_Breakfast_000058.jpg</field>
+<field name="snippet">hello. this is breakfast on friday the 2nd ofjune. i'm charlie stayt. the main headline this morning: international condemnation for president trump after he pulls america out of the paris agreement on climate change. theresa may has told the president she's disappointed</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091214_200000_MSNBC_News_Live#start/1766/end/1801</field>
+<field name="datetime">12/14/2009 20:29:41</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091214_200000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091214_200000_MSNBC_News_Live/MSNBC_20091214_200000_MSNBC_News_Live.thumbs/MSNBC_20091214_200000_MSNBC_News_Live_001766.jpg</field>
+<field name="snippet">now back to msnbc. welcome back. i'm david schuster, live in washington. i'm tamron hall, live in new york. chaos and controversy at the international climate change conference happening in copenhagen. talks were suspended after</field>
+</doc>
+</add>

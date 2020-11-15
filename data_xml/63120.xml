@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190307_130000_BBC_News_at_One#start/1378/end/1413</field>
+<field name="datetime">3/7/2019 13:23:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190307_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190307_130000_BBC_News_at_One/BBCNEWS_20190307_130000_BBC_News_at_One.thumbs/BBCNEWS_20190307_130000_BBC_News_at_One_001378.jpg</field>
+<field name="snippet">goes global. sarah corker, bbc our environment analyst roger harrabin is here. how are we going to keep the lights on while tackling climate change?</field>
+</doc>
+</add>

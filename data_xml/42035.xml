@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201107.csv</field>
+<field name="url">https://archive.org/details/CNNW_20110711_080000_World_Business_Today#start/322/end/357</field>
+<field name="datetime">7/11/2011 8:05:37</field>
+<field name="station">CNN</field>
+<field name="show">World Business Today</field>
+<field name="showid">CNNW_20110711_080000_World_Business_Today</field>
+<field name="preview">https://archive.org/download/CNNW_20110711_080000_World_Business_Today/CNNW_20110711_080000_World_Business_Today.thumbs/CNNW_20110711_080000_World_Business_Today_000300.jpg</field>
+<field name="snippet">meanwhile in sydney, the investors absorbed a carbon tax plan. we'll have more on that in a few minutes. also the cam bonian stock exchange, this is interesting news, they have launched their operation this week, preparing</field>
+</doc>
+</add>

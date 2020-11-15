@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190913_090000_Fox_and_Friends_First#start/3124/end/3159</field>
+<field name="datetime">9/13/2019 9:52:19</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190913_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190913_090000_Fox_and_Friends_First/FOXNEWSW_20190913_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190913_090000_Fox_and_Friends_First_003117.jpg</field>
+<field name="snippet">todd: two men arrested by london at heathrow airport trying to fly drones believed part of an activist group that wanted to demand action on climate change. now flights have been affected. 10 people have been arrested in connection with that protests.</field>
+</doc>
+</add>

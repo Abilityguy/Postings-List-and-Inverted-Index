@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190922_050000_Breakfast#start/403/end/438</field>
+<field name="datetime">9/22/2019 5:06:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190922_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190922_050000_Breakfast/BBCNEWS_20190922_050000_Breakfast.thumbs/BBCNEWS_20190922_050000_Breakfast_000387.jpg</field>
+<field name="snippet">the disappearance of a glacier. the pizol glacier has been reduced to a few frozen lumps. scientists warn that 80% of switzerland's 1500 glaciers could disappear by the end of this century if global warming continues. strictly come dancing is back.</field>
+</doc>
+</add>

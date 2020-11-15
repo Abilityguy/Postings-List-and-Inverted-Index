@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191012_100000_Fox_and_Friends_Saturday#start/1511/end/1546</field>
+<field name="datetime">10/12/2019 10:25:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20191012_100000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191012_100000_Fox_and_Friends_Saturday/FOXNEWSW_20191012_100000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20191012_100000_Fox_and_Friends_Saturday_001498.jpg</field>
+<field name="snippet">jed? jedediah: we shall see. actress jane fonda taking on a new role as climate change activist. inspired by greta and the students i have decided to upend my life, leave my comfort zone and move to d.c. for four months to focus on climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190306_200000_Shepard_Smith_Reporting#start/1548/end/1583</field>
+<field name="datetime">3/6/2019 20:26:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20190306_200000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190306_200000_Shepard_Smith_Reporting/FOXNEWSW_20190306_200000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20190306_200000_Shepard_Smith_Reporting_001527.jpg</field>
+<field name="snippet">will produce 10 billion gallons of water run off heading out to the ocean. now san francisco, l.a., have failed to capture that despite warnings of climate change, longer droughts and more floods. it's not reflected in policy and</field>
+</doc>
+</add>

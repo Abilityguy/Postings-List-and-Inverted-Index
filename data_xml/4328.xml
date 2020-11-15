@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201302.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130202_193000_FOX_News_Watch#start/1394/end/1429</field>
+<field name="datetime">2/2/2013 19:53:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Watch</field>
+<field name="showid">FOXNEWSW_20130202_193000_FOX_News_Watch</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130202_193000_FOX_News_Watch/FOXNEWSW_20130202_193000_FOX_News_Watch.thumbs/FOXNEWSW_20130202_193000_FOX_News_Watch_001395.jpg</field>
+<field name="snippet">it counters the inaugural narrative. now let's move on on gay rights and global warming and so on. 'washington post' with the headline above the fold, gdp shrank in fourth quarter. night before nbc news didn't</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201107.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110704_100000_FOX_and_Friends#start/3201/end/3236</field>
+<field name="datetime">7/4/2011 10:53:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20110704_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110704_100000_FOX_and_Friends/FOXNEWS_20110704_100000_FOX_and_Friends.thumbs/FOXNEWS_20110704_100000_FOX_and_Friends_003090.jpg</field>
+<field name="snippet">well, could grilling be contributing to global warming? seriously? weather bell's chief meteorologist says where's the beef? where's the scientific proof, rather? i added that. good morning to you, happy fourth of july.</field>
+</doc>
+</add>

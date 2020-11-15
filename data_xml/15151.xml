@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201306.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130607_040000_Hannity#start/1171/end/1206</field>
+<field name="datetime">6/7/2013 4:19:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20130607_040000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130607_040000_Hannity/FOXNEWSW_20130607_040000_Hannity.thumbs/FOXNEWSW_20130607_040000_Hannity_001155.jpg</field>
+<field name="snippet">example of global warming, so you may be right. sean: i may be right. i'm thinking do i have to rethink where i am in this? all right, mr. speaker, good to see you. thanks for being with us. good to be with you. sean: when we come back, ann</field>
+</doc>
+</add>

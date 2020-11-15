@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191209_170000_BBC_News_at_Five#start/3087/end/3122</field>
+<field name="datetime">12/9/2019 17:51:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20191209_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191209_170000_BBC_News_at_Five/BBCNEWS_20191209_170000_BBC_News_at_Five.thumbs/BBCNEWS_20191209_170000_BBC_News_at_Five_003087.jpg</field>
+<field name="snippet">representatives of fossil fuel companies told bbc news they were already adapting their business plans to take climate change into account. roger harrabin, bbc news.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191211_230000_BBC_News#start/1382/end/1417</field>
+<field name="datetime">12/11/2019 23:23:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191211_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191211_230000_BBC_News/BBCNEWS_20191211_230000_BBC_News.thumbs/BBCNEWS_20191211_230000_BBC_News_001378.jpg</field>
+<field name="snippet">the environmental campaigner greta thunberg has called on world leaders at a un summit to stop making excuses to avoid taking action on climate change. her speech coincided wirth her being named time magazine's person of the year. here's our science editor, david shukman.</field>
+</doc>
+</add>

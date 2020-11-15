@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091210_110000_Morning_Joe#start/5764/end/5799</field>
+<field name="datetime">12/10/2009 12:36:19</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20091210_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20091210_110000_Morning_Joe/MSNBC_20091210_110000_Morning_Joe.thumbs/MSNBC_20091210_110000_Morning_Joe_005760.jpg</field>
+<field name="snippet">if global warming turns out to be a hoax, which i don't think it is, but we prepare ourselves as though it's true and imminent, what will happen? well, we'll all be driving electric cars, we'll have wind, solar, and battery industry that</field>
+</doc>
+</add>

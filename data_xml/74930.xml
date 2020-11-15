@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_060000_Breakfast#start/629/end/664</field>
+<field name="datetime">1/17/2020 6:10:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20200117_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_060000_Breakfast/BBCNEWS_20200117_060000_Breakfast.thumbs/BBCNEWS_20200117_060000_Breakfast_000627.jpg</field>
+<field name="snippet">climate change conference that happens every year is taking place. largely seen as a failure because some of the big players in the world failed to come up plans that would help achieve the agreement, the paris agreement which was the aim to</field>
+</doc>
+</add>

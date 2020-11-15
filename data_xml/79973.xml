@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191106_100000_Fox_and_Friends_First#start/1330/end/1365</field>
+<field name="datetime">11/6/2019 10:22:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20191106_100000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191106_100000_Fox_and_Friends_First/FOXNEWSW_20191106_100000_Fox_and_Friends_First.thumbs/FOXNEWSW_20191106_100000_Fox_and_Friends_First_001317.jpg</field>
+<field name="snippet">jane fonda has been leading weekly climate change protests in washington dc she calls fire drill fridays. she has been arrested four times but she has no plans to stop. she has moved down to dc to</field>
+</doc>
+</add>

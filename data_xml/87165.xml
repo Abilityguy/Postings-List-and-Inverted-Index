@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191230_210000_World_News_Today#start/1852/end/1887</field>
+<field name="datetime">12/30/2019 21:31:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20191230_210000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191230_210000_World_News_Today/BBCNEWS_20191230_210000_World_News_Today.thumbs/BBCNEWS_20191230_210000_World_News_Today_001828.jpg</field>
+<field name="snippet">degrees celsius in every state across the country. the most dangerous bushfires on monday were in the state of victoria. the swedish climate change activist greta thunberg says she wants to go back to school as soon as possible. in a bbc interview she also thanked the british broadcaster</field>
+</doc>
+</add>

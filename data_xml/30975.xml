@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140201_193000_Americas_News_Headquarters#start/1900/end/1935</field>
+<field name="datetime">2/1/2014 20:01:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20140201_193000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140201_193000_Americas_News_Headquarters/FOXNEWSW_20140201_193000_Americas_News_Headquarters.thumbs/FOXNEWSW_20140201_193000_Americas_News_Headquarters_001875.jpg</field>
+<field name="snippet">pipeline. which is part of the reason they find the construction of the pipeline that would take 830000 barrels of crude oil a day out of canada isn't going to really contribute to climate change at all. this is one pipeline project.</field>
+</doc>
+</add>

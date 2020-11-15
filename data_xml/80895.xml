@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191010_220000_Special_Report_With_Bret_Baier#start/1458/end/1493</field>
+<field name="datetime">10/10/2019 22:24:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20191010_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191010_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20191010_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20191010_220000_Special_Report_With_Bret_Baier_001438.jpg</field>
+<field name="snippet">point about climate change. we say more than 1000 people have been arrested since monday trying to do the same thing. the sky was eventually removed unstuck from the plane. just some of the other stories beyond our borders tonight. we will be right back.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191115_140000_Afternoon_Live#start/1144/end/1179</field>
+<field name="datetime">11/15/2019 14:19:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20191115_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191115_140000_Afternoon_Live/BBCNEWS_20191115_140000_Afternoon_Live.thumbs/BBCNEWS_20191115_140000_Afternoon_Live_001137.jpg</field>
+<field name="snippet">the liberal democrats are promising to spend an extra £100 billion on tackling climate change if they win the election in a speech today, sir ed davey will say the five-year investment would jump-start efforts to combat the climate emergency. the pledge would be funded through borrowing and tax changes.</field>
+</doc>
+</add>

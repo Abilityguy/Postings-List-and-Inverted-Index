@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091205_170000_Americas_News_HQ#start/2480/end/2515</field>
+<field name="datetime">12/5/2009 17:41:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWS_20091205_170000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091205_170000_Americas_News_HQ/FOXNEWS_20091205_170000_Americas_News_HQ.thumbs/FOXNEWS_20091205_170000_Americas_News_HQ_002451.jpg</field>
+<field name="snippet">sure about global warming, i'm not sure. figuring it out, studying the data and the thing that i see is it's sort of flat lined. we're not getting warmer right now. i think you saw if you see the data based paper, nine of the warmest ten years in history have been in the last</field>
+</doc>
+</add>

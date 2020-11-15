@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170527_110000_BBC_News#start/1049/end/1084</field>
+<field name="datetime">5/27/2017 11:17:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170527_110000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170527_110000_BBC_News/BBCNEWS_20170527_110000_BBC_News.thumbs/BBCNEWS_20170527_110000_BBC_News_001047.jpg</field>
+<field name="snippet">outage and one captain described it as catastrophic. leaders of the world's leading industrial nations, the g7, have failed to reach agreement on climate change at a summit in italy. members had hoped donald trump would join the rest of the world in combating climate change but differences remain between the us president and other countries.</field>
+</doc>
+</add>

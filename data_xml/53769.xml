@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201807.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180726_080000_Victoria_Derbyshire#start/3331/end/3366</field>
+<field name="datetime">7/26/2018 8:55:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20180726_080000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180726_080000_Victoria_Derbyshire/BBCNEWS_20180726_080000_Victoria_Derbyshire.thumbs/BBCNEWS_20180726_080000_Victoria_Derbyshire_003327.jpg</field>
+<field name="snippet">a bit more -- a bit further away, unlike brexit? climate change is going to play out over decades. it requires us to prepare for a hundred</field>
+</doc>
+</add>

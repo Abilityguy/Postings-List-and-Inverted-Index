@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_193000_Climate_Change#start/1532/end/1567</field>
+<field name="datetime">10/8/2018 19:55:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Climate Change</field>
+<field name="showid">BBCNEWS_20181008_193000_Climate_Change</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_193000_Climate_Change/BBCNEWS_20181008_193000_Climate_Change.thumbs/BBCNEWS_20181008_193000_Climate_Change_001527.jpg</field>
+<field name="snippet">and i think we're one of the first major developed countries to actually ask our own climate change committee for advice on what it would look like to meet a zero emissions target by 2050, because, of course, we need to make the right choices, but we also need to do that</field>
+</doc>
+</add>

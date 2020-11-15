@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201511.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151130_160000_MSNBC_Live_With_Tamron_Hall#start/1970/end/2005</field>
+<field name="datetime">11/30/2015 16:33:05</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Tamron Hall</field>
+<field name="showid">MSNBCW_20151130_160000_MSNBC_Live_With_Tamron_Hall</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151130_160000_MSNBC_Live_With_Tamron_Hall/MSNBCW_20151130_160000_MSNBC_Live_With_Tamron_Hall.thumbs/MSNBCW_20151130_160000_MSNBC_Live_With_Tamron_Hall_001966.jpg</field>
+<field name="snippet">an act of defiance that proves nothing will deter us from building the future we want for our children. so far today we've not seen a repeat of yesterday's clashes between climate change protesters and police at the</field>
+</doc>
+</add>

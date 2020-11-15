@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201009.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100902_140000_MSNBC_News_Live#start/616/end/651</field>
+<field name="datetime">9/2/2010 14:10:31</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100902_140000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100902_140000_MSNBC_News_Live/MSNBC_20100902_140000_MSNBC_News_Live.thumbs/MSNBC_20100902_140000_MSNBC_News_Live_000596.jpg</field>
+<field name="snippet">calling for more programming about global warming and animal extinction. after attracting crowds by throwing thousands of into the air, he was arrested in february of 2008 and pleaded guilty to disorderly conduct. lee told our nbc news producer he spent time preparing for this</field>
+</doc>
+</add>

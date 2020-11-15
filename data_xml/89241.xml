@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190604_050000_Breakfast#start/3804/end/3839</field>
+<field name="datetime">6/4/2019 6:03:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190604_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190604_050000_Breakfast/BBCNEWS_20190604_050000_Breakfast.thumbs/BBCNEWS_20190604_050000_Breakfast_003777.jpg</field>
+<field name="snippet">the prime minister's likely to be critical of the us administration on climate change. there are differences on how to handle iran's nuclear ambitions and tensions over the chinese tech firm, huawei. the president doesn't want america's allies to give contracts to a firm</field>
+</doc>
+</add>

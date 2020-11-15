@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191223_110000_BBC_News#start/56/end/91</field>
+<field name="datetime">12/23/2019 11:01:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191223_110000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191223_110000_BBC_News/BBCNEWS_20191223_110000_BBC_News.thumbs/BBCNEWS_20191223_110000_BBC_News_000057.jpg</field>
+<field name="snippet">as australia's bushfire crisis continues - the country's prime minister defends the coal industry and defies calls for new carbon targets. the need to take action on climate change hasn't change and you don't run government on sentiment, you run government on facts. employs from</field>
+</doc>
+</add>

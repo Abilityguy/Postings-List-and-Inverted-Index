@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090720_210000_Glenn_Beck#start/2011/end/2046</field>
+<field name="datetime">7/20/2009 21:33:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20090720_210000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090720_210000_Glenn_Beck/FOXNEWS_20090720_210000_Glenn_Beck.thumbs/FOXNEWS_20090720_210000_Glenn_Beck_002006.jpg</field>
+<field name="snippet">' and everyone was -- no, do not do that.' global warming is a byproduct of the other problem that scientists said we had to fix.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190416_100000_BBC_Newsroom_Live#start/2950/end/2985</field>
+<field name="datetime">4/16/2019 10:49:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190416_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190416_100000_BBC_Newsroom_Live/BBCNEWS_20190416_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190416_100000_BBC_Newsroom_Live_002937.jpg</field>
+<field name="snippet">more than 100 climate change activists have been arrested for blocking roads in central london amid protests which broug ht the capital to a standstill. a second day of disruption is expected as campaigners camped overnight at waterloo bridge, parliament square and oxford circus. police ordered them to restrict their protest to marble arch after causing widespread disruption on monday.</field>
+</doc>
+</add>

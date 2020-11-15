@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190414_140000_BBC_News#start/63/end/98</field>
+<field name="datetime">4/14/2019 14:01:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190414_140000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190414_140000_BBC_News/BBCNEWS_20190414_140000_BBC_News.thumbs/BBCNEWS_20190414_140000_BBC_News_000057.jpg</field>
+<field name="snippet">a tree to hit their family car. and a look at this week on the victoria derbyshire programme, including interviews with members of the climate change protest group extinction rebellion. that's in half an hour here on bbc news.</field>
+</doc>
+</add>

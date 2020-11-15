@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190519_080000_BBC_News#start/922/end/957</field>
+<field name="datetime">5/19/2019 8:15:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190519_080000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190519_080000_BBC_News/BBCNEWS_20190519_080000_BBC_News.thumbs/BBCNEWS_20190519_080000_BBC_News_000897.jpg</field>
+<field name="snippet">had the hottest summer ever documented here in australia, but many committees say the government's plans for climate change are not as ambitious as they might be. thank you very much indeed. you are</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191211_030000_BBC_News#start/1143/end/1178</field>
+<field name="datetime">12/11/2019 3:19:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191211_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191211_030000_BBC_News/BBCNEWS_20191211_030000_BBC_News.thumbs/BBCNEWS_20191211_030000_BBC_News_001139.jpg</field>
+<field name="snippet">melting of the sea ice and near-record melting of the ice sheet in greenland, which we know raises sea levels. is a particularly alarming report and a continuation of the trends we've seen with climate change in the arctic over the last three decades, but 2019 was</field>
+</doc>
+</add>

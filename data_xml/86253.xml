@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191202_060000_Breakfast#start/533/end/568</field>
+<field name="datetime">12/2/2019 6:09:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191202_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191202_060000_Breakfast/BBCNEWS_20191202_060000_Breakfast.thumbs/BBCNEWS_20191202_060000_Breakfast_000507.jpg</field>
+<field name="snippet">summit in madrid when more than 200 countries will meet to plan how the world can tackle rising greenhouse gas emissions.</field>
+</doc>
+</add>

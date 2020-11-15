@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171104_224500_Meet_the_Author#start/801/end/836</field>
+<field name="datetime">11/4/2017 22:58:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Meet the Author</field>
+<field name="showid">BBCNEWS_20171104_224500_Meet_the_Author</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171104_224500_Meet_the_Author/BBCNEWS_20171104_224500_Meet_the_Author.thumbs/BBCNEWS_20171104_224500_Meet_the_Author_000777.jpg</field>
+<field name="snippet">the white house downplays a major report by us government scientists which is at odds with the president's stance on global warming. only half of fixed speed cameras in the uk are actually switched on, according to new data.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201708.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170822_190000_MSNBC_Live_With_Ali_Velshi#start/1369/end/1404</field>
+<field name="datetime">8/22/2017 19:23:04</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20170822_190000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170822_190000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20170822_190000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20170822_190000_MSNBC_Live_With_Ali_Velshi_001347.jpg</field>
+<field name="snippet">the -- you know, not just the makeup of these kind of scientific advisory boards but the agendas and priorities of these agencies which obviously are out there to deal with problems such as climate change and other environmental issues.</field>
+</doc>
+</add>

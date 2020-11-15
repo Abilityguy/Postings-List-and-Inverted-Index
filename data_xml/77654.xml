@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191128_110000_BBC_Newsroom_Live#start/2839/end/2874</field>
+<field name="datetime">11/28/2019 11:47:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20191128_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191128_110000_BBC_Newsroom_Live/BBCNEWS_20191128_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20191128_110000_BBC_Newsroom_Live_002817.jpg</field>
+<field name="snippet">jeremy corbyn is speaking now at a climate change event in southampton. he has been speaking about yesterday's unredacted nhs documents as well as the party's plans to</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100113_110000_FOX_and_Friends#start/4805/end/4840</field>
+<field name="datetime">1/13/2010 12:20:20</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100113_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100113_110000_FOX_and_Friends/FOXNEWS_20100113_110000_FOX_and_Friends.thumbs/FOXNEWS_20100113_110000_FOX_and_Friends_004788.jpg</field>
+<field name="snippet">only school. it's sort of like climate change where we're told there's only one view. that's not so. there are real experts who are imbued with an understanding of what it's about who could provide us with a second opinion and i'm confident give us a far better chance of survival let</field>
+</doc>
+</add>

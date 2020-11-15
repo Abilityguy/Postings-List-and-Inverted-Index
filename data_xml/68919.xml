@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201003.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100331_230000_Hardball_With_Chris_Matthews#start/626/end/661</field>
+<field name="datetime">3/31/2010 23:10:41</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball With Chris Matthews</field>
+<field name="showid">MSNBC_20100331_230000_Hardball_With_Chris_Matthews</field>
+<field name="preview">https://archive.org/download/MSNBC_20100331_230000_Hardball_With_Chris_Matthews/MSNBC_20100331_230000_Hardball_With_Chris_Matthews.thumbs/MSNBC_20100331_230000_Hardball_With_Chris_Matthews_000626.jpg</field>
+<field name="snippet">have said about global climate change? why don't we have an honest debate? because the weather in boston right now over the last x many years is the same as it used to be in philadelphia. it's getting warmer and warmer a. it was sure warm on the east</field>
+</doc>
+</add>

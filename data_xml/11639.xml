@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190813_160000_BBC_News_at_Five#start/3285/end/3320</field>
+<field name="datetime">8/13/2019 16:55:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190813_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190813_160000_BBC_News_at_Five/BBCNEWS_20190813_160000_BBC_News_at_Five.thumbs/BBCNEWS_20190813_160000_BBC_News_at_Five_003267.jpg</field>
+<field name="snippet">course we will be covering that story throughout the evening here on bbc news channel and we will go back to that as and when we see developments there. the climate change campaigner, greta thunberg, is in plymouth,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091218_210000_MSNBC_News_Live#start/121/end/156</field>
+<field name="datetime">12/18/2009 21:02:16</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091218_210000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091218_210000_MSNBC_News_Live/MSNBC_20091218_210000_MSNBC_News_Live.thumbs/MSNBC_20091218_210000_MSNBC_News_Live_000116.jpg</field>
+<field name="snippet">there will be another meeting of this kind in mexico city, will bear fruit. it's also important, tamron, politically in the united states, because john kerry, leading the effort to pass carbon reductions and climate change legislation in the senate said, if there was a failure in</field>
+</doc>
+</add>

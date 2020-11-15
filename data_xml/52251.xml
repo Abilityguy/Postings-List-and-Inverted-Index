@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181217_000000_Newsday#start/819/end/854</field>
+<field name="datetime">12/17/2018 0:13:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20181217_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181217_000000_Newsday/BBCNEWS_20181217_000000_Newsday.thumbs/BBCNEWS_20181217_000000_Newsday_000807.jpg</field>
+<field name="snippet">the japan times leads on the un climate change report from poland, with an agreement from almost 200 countries to push forward with the 2015 paris accord, including the us, which pushed hard for greater transparency on compliance issues. those are the papers.</field>
+</doc>
+</add>

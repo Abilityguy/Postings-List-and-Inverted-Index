@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200121_233000_The_Papers#start/221/end/256</field>
+<field name="datetime">1/21/2020 23:33:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Papers</field>
+<field name="showid">BBCNEWS_20200121_233000_The_Papers</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200121_233000_The_Papers/BBCNEWS_20200121_233000_The_Papers.thumbs/BBCNEWS_20200121_233000_The_Papers_000207.jpg</field>
+<field name="snippet">first the headlines: president trump has mounted a strong attack on the climate change movement during a speech to political and business leaders at the world economic forum in switzerland. meanwhile the impeachment trial has</field>
+</doc>
+</add>

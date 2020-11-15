@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190518_010000_BBC_News#start/353/end/388</field>
+<field name="datetime">5/18/2019 1:06:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190518_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190518_010000_BBC_News/BBCNEWS_20190518_010000_BBC_News.thumbs/BBCNEWS_20190518_010000_BBC_News_000327.jpg</field>
+<field name="snippet">institute an independent think tank in sydney says recently that two-thirds of australian voters thought climate change was the number one concern for the country ahead of national terrorism and north korea's nuclear programme.</field>
+</doc>
+</add>

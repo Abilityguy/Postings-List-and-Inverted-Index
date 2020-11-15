@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090911_220000_Special_Report_With_Bret_Baier#start/2792/end/2827</field>
+<field name="datetime">9/11/2009 22:46:47</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20090911_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090911_220000_Special_Report_With_Bret_Baier/FOXNEWS_20090911_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20090911_220000_Special_Report_With_Bret_Baier_002785.jpg</field>
+<field name="snippet">stopping iran from getting nuclear weapons? i mean, iran gave a contemptuous response to our question to talk about the nuclear program saying yeah, we will talk about global climate change and the administration said, ok, fine, we'll talk about that.</field>
+</doc>
+</add>

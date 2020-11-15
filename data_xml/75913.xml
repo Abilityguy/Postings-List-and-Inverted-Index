@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190524_200000_World_News_Today#start/52/end/87</field>
+<field name="datetime">5/24/2019 20:01:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190524_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190524_200000_World_News_Today/BBCNEWS_20190524_200000_World_News_Today.thumbs/BBCNEWS_20190524_200000_World_News_Today_000027.jpg</field>
+<field name="snippet">to the middle east. and from australia to europe school children skip classes to call for action on climate change.</field>
+</doc>
+</add>

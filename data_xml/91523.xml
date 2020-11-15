@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191214_110000_Fox_and_Friends_Saturday#start/8040/end/8075</field>
+<field name="datetime">12/14/2019 13:14:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20191214_110000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191214_110000_Fox_and_Friends_Saturday/FOXNEWSW_20191214_110000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20191214_110000_Fox_and_Friends_Saturday_008040.jpg</field>
+<field name="snippet">made this ominous warning about climate change. the entire north polar ice cap during summer -- during some of the summer months, could be completely ice-free within the next five to seven years.</field>
+</doc>
+</add>

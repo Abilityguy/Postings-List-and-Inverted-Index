@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190808_190000_Shepard_Smith_Reporting#start/3061/end/3096</field>
+<field name="datetime">8/8/2019 19:51:16</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20190808_190000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190808_190000_Shepard_Smith_Reporting/FOXNEWSW_20190808_190000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20190808_190000_Shepard_Smith_Reporting_003058.jpg</field>
+<field name="snippet">climate change could eventually lead to a worldwide food shortage and our current farming practices are only making the problems much worse. that's according to a new report from the united nations. talk on climate change often focuses on melting ice caps and</field>
+</doc>
+</add>

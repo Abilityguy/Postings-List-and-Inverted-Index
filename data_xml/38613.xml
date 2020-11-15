@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201011.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101114_120000_FOX_and_Friends_Sunday#start/6270/end/6305</field>
+<field name="datetime">11/14/2010 13:44:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWS_20101114_120000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101114_120000_FOX_and_Friends_Sunday/FOXNEWS_20101114_120000_FOX_and_Friends_Sunday.thumbs/FOXNEWS_20101114_120000_FOX_and_Friends_Sunday_006270.jpg</field>
+<field name="snippet">environmentalist's guide to global warming. he joins us, nice to see you. critics are saying this may be an answer to al gore's film 'an inconvenient truth' do you see it that way. it's move moving on.</field>
+</doc>
+</add>

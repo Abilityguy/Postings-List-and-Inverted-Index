@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191107_220000_BBC_News_at_Ten#start/199/end/234</field>
+<field name="datetime">11/7/2019 22:03:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20191107_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191107_220000_BBC_News_at_Ten/BBCNEWS_20191107_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20191107_220000_BBC_News_at_Ten_000177.jpg</field>
+<field name="snippet">john mcdonnell, in his hometown, announcing that a labour government will not try to bring the national debt down as a rule, and instead will increase borrowing to fund hundreds of billions in investments to solve what he calls the social and climate change emergencies. isn't it interesting?</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201405.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140529_100000_FOX_and_Friends#start/1199/end/1234</field>
+<field name="datetime">5/29/2014 10:20:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20140529_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140529_100000_FOX_and_Friends/FOXNEWSW_20140529_100000_FOX_and_Friends.thumbs/FOXNEWSW_20140529_100000_FOX_and_Friends_001185.jpg</field>
+<field name="snippet">military. sure. he didn't talk about the v.a. but he did talk about how, as a future military they're going to have to do something about -- wait for it -- climate change. did your jaw just go what when he said that?</field>
+</doc>
+</add>

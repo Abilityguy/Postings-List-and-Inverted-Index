@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190822_000000_Tucker_Carlson_Tonight#start/2110/end/2145</field>
+<field name="datetime">8/22/2019 0:35:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190822_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190822_000000_Tucker_Carlson_Tonight/FOXNEWSW_20190822_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190822_000000_Tucker_Carlson_Tonight_002098.jpg</field>
+<field name="snippet">human beings. tucker: [laughs] i mean, they be climate change is an existential threat. i'm certainly open-minded. but if it is, then why do none of the democratic responses seem very serious?</field>
+</doc>
+</add>

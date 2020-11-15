@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201208.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120815_160000_NOW_With_Alex_Wagner#start/2686/end/2721</field>
+<field name="datetime">8/15/2012 16:45:01</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20120815_160000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120815_160000_NOW_With_Alex_Wagner/MSNBCW_20120815_160000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20120815_160000_NOW_With_Alex_Wagner_002670.jpg</field>
+<field name="snippet">the impact seems to be quite serious in terms of everything from grain to meat, a number of products in the u.s. are tied to corn and soy, for that matter. i guess my question is we talk about climate change and energy policy, sometimes in a vacuum, but now that there is a very</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190426_184500_Newswatch#start/309/end/344</field>
+<field name="datetime">4/26/2019 18:50:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newswatch</field>
+<field name="showid">BBCNEWS_20190426_184500_Newswatch</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190426_184500_Newswatch/BBCNEWS_20190426_184500_Newswatch.thumbs/BBCNEWS_20190426_184500_Newswatch_000298.jpg</field>
+<field name="snippet">local radio say, climate change is a problem, they felt obliged to put on some ten saying, actually, climate change is not a problem. that has evaporated. now climate sceptics say they cannot get on air at all, and we still have some important things to say from time to time was</field>
+</doc>
+</add>

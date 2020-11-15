@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190510_080000_BBC_News_at_Nine#start/810/end/845</field>
+<field name="datetime">5/10/2019 8:13:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190510_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190510_080000_BBC_News_at_Nine/BBCNEWS_20190510_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190510_080000_BBC_News_at_Nine_000807.jpg</field>
+<field name="snippet">radical new ways to repair the climate and reverse global warming are being considered by scientists at the university of cambridge as part of plans for a new research centre. among the ideas is a scheme to re-freeze polar regions, by reflecting sunlight away from the earth and spraying water from ships into the atmosphere.</field>
+</doc>
+</add>

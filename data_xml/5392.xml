@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171207_130000_BBC_News_at_One#start/1557/end/1592</field>
+<field name="datetime">12/7/2017 13:26:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20171207_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171207_130000_BBC_News_at_One/BBCNEWS_20171207_130000_BBC_News_at_One.thumbs/BBCNEWS_20171207_130000_BBC_News_at_One_001557.jpg</field>
+<field name="snippet">many scientists say climate change is driving more frequent and more destructive wildfires. for california, this is yet another grim wake-up call. james cook, bbc news, los angeles. australia's parliament has</field>
+</doc>
+</add>

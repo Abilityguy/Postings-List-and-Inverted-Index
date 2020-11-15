@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201402.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140217_100000_First_Look#start/138/end/173</field>
+<field name="datetime">2/17/2014 10:02:33</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20140217_100000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140217_100000_First_Look/MSNBCW_20140217_100000_First_Look.thumbs/MSNBCW_20140217_100000_First_Look_000135.jpg</field>
+<field name="snippet">record snowfall in japan, record flooding in southern england. scientists are blaming climate change. they're warning it's time the world seriously cut back on pollution often coming from power plants. this is not good. you don't need a ph.d. in climate science to understand</field>
+</doc>
+</add>

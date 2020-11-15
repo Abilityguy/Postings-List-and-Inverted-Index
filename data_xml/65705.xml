@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190222_040000_Fox_News__Night_With_Shannon_Bream#start/2189/end/2224</field>
+<field name="datetime">2/22/2019 4:36:44</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News  Night With Shannon Bream</field>
+<field name="showid">FOXNEWSW_20190222_040000_Fox_News__Night_With_Shannon_Bream</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190222_040000_Fox_News__Night_With_Shannon_Bream/FOXNEWSW_20190222_040000_Fox_News__Night_With_Shannon_Bream.thumbs/FOXNEWSW_20190222_040000_Fox_News__Night_With_Shannon_Bream_002188.jpg</field>
+<field name="snippet">shannon: as a liberty alum, i can assure you people did not get punched in the face. to our power panel tonight, think you all very much. up next, president trump's pick to lead a new panel on climate</field>
+</doc>
+</add>

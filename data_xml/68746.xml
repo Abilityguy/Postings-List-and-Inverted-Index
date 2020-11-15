@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201001.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100107_110000_Morning_Joe#start/10362/end/10397</field>
+<field name="datetime">1/7/2010 13:52:57</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20100107_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20100107_110000_Morning_Joe/MSNBC_20100107_110000_Morning_Joe.thumbs/MSNBC_20100107_110000_Morning_Joe_010345.jpg</field>
+<field name="snippet">challenge. the question is our capacity to meet it. for while the reality of climate change is not in doubt, i have to be honest, as the world watches us today, i think our</field>
+</doc>
+</add>

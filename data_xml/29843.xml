@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191128_180000_MSNBC_Live#start/3129/end/3164</field>
+<field name="datetime">11/28/2019 18:52:24</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20191128_180000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191128_180000_MSNBC_Live/MSNBCW_20191128_180000_MSNBC_Live.thumbs/MSNBCW_20191128_180000_MSNBC_Live_003118.jpg</field>
+<field name="snippet">bill neely in london. climate scientists are sounding the alarm saying our planet may be on the verge of crossing several tipping points. in the journal of nature scientists suggest global warming is becoming irreversible in some places.</field>
+</doc>
+</add>

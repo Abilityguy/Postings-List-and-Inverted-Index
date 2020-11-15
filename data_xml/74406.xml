@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200105_040000_BBC_News#start/1079/end/1114</field>
+<field name="datetime">1/5/2020 4:18:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200105_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200105_040000_BBC_News/BBCNEWS_20200105_040000_BBC_News.thumbs/BBCNEWS_20200105_040000_BBC_News_001079.jpg</field>
+<field name="snippet">global and national level to climate change policies have to be reset. australia is one of the wealthy countries of the world, but it is heavily impacted by climate change compared to other wealthy countries,</field>
+</doc>
+</add>

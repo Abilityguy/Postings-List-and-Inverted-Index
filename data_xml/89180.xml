@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190629_230000_BBC_News#start/238/end/273</field>
+<field name="datetime">6/29/2019 23:04:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190629_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190629_230000_BBC_News/BBCNEWS_20190629_230000_BBC_News.thumbs/BBCNEWS_20190629_230000_BBC_News_000238.jpg</field>
+<field name="snippet">apart from trade, several other key global issues have been discussed at the summit. here's our diplomatic correspondent, james robbins in osaka. it has been a bruising summit, not least on climate change where donald trump, who frankly despises these</field>
+</doc>
+</add>

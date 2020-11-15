@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190602_113000_Click#start/1313/end/1348</field>
+<field name="datetime">6/2/2019 11:52:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Click</field>
+<field name="showid">BBCNEWS_20190602_113000_Click</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190602_113000_Click/BBCNEWS_20190602_113000_Click.thumbs/BBCNEWS_20190602_113000_Click_001288.jpg</field>
+<field name="snippet">now, machine learning, so say its advocates, may one day solve the world's most pressing problems, from climate change to finding cures for deadly diseases. but some think it may bring about the end of the world. well, it certainly seems the end of the world is something that the games industry has been</field>
+</doc>
+</add>

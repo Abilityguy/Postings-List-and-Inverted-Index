@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201501.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150125_110000_FOX_and_Friends_Sunday#start/2095/end/2130</field>
+<field name="datetime">1/25/2015 11:35:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20150125_110000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150125_110000_FOX_and_Friends_Sunday/FOXNEWSW_20150125_110000_FOX_and_Friends_Sunday.thumbs/FOXNEWSW_20150125_110000_FOX_and_Friends_Sunday_002085.jpg</field>
+<field name="snippet">projects to improve air quality in indian cities. the united states will share more data and develop tools to help india assess and adapt to the impact of climate change and vulnerable communities become</field>
+</doc>
+</add>

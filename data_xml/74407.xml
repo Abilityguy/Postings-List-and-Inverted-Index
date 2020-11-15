@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200101_093000_Weather_World#start/586/end/621</field>
+<field name="datetime">1/1/2020 9:40:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20200101_093000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200101_093000_Weather_World/BBCNEWS_20200101_093000_Weather_World.thumbs/BBCNEWS_20200101_093000_Weather_World_000569.jpg</field>
+<field name="snippet">seeing it occurring every few years. and as the temperatures increase globally, those frequencies will increase still further. what's driving the heat and the increasing heat that we're getting? the science is overwhelmingly clear that the cause of this climate</field>
+</doc>
+</add>

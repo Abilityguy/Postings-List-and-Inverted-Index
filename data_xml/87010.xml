@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191227_023000_Newsbeat_Documentaries#start/1832/end/1867</field>
+<field name="datetime">12/27/2019 3:00:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsbeat Documentaries</field>
+<field name="showid">BBCNEWS_20191227_023000_Newsbeat_Documentaries</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191227_023000_Newsbeat_Documentaries/BBCNEWS_20191227_023000_Newsbeat_Documentaries.thumbs/BBCNEWS_20191227_023000_Newsbeat_Documentaries_001828.jpg</field>
+<field name="snippet">is this a way to save the world's coral from climate change? scientists are trying to grow new reefs in the seychelles.</field>
+</doc>
+</add>

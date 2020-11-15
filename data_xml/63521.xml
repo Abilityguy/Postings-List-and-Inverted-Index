@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190307_130000_BBC_News_at_One#start/1638/end/1673</field>
+<field name="datetime">3/7/2019 13:27:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190307_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190307_130000_BBC_News_at_One/BBCNEWS_20190307_130000_BBC_News_at_One.thumbs/BBCNEWS_20190307_130000_BBC_News_at_One_001618.jpg</field>
+<field name="snippet">now, the simple bucket is not usually linked with climate change technology, but since the early days of seafaring it's been used as a tool to measure sea temperatures. scientists are now scouring through log books going back 200 years comparing temperatures recorded then to what they are now. our science correspondent,</field>
+</doc>
+</add>

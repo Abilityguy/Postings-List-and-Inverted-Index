@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201307.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130724_100000_FOX_and_Friends#start/6050/end/6085</field>
+<field name="datetime">7/24/2013 11:41:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20130724_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130724_100000_FOX_and_Friends/FOXNEWSW_20130724_100000_FOX_and_Friends.thumbs/FOXNEWSW_20130724_100000_FOX_and_Friends_006045.jpg</field>
+<field name="snippet">minute? i guess not. everybody is in a hurry. steve: ma'am, can i ask you a question? the word climate change is used a lot these days. what do you think it used to be?</field>
+</doc>
+</add>

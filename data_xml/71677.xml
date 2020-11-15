@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190114_000000_Fox_News_Sunday_With_Chris_Wallace#start/2205/end/2240</field>
+<field name="datetime">1/14/2019 0:37:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News Sunday With Chris Wallace</field>
+<field name="showid">FOXNEWSW_20190114_000000_Fox_News_Sunday_With_Chris_Wallace</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190114_000000_Fox_News_Sunday_With_Chris_Wallace/FOXNEWSW_20190114_000000_Fox_News_Sunday_With_Chris_Wallace.thumbs/FOXNEWSW_20190114_000000_Fox_News_Sunday_With_Chris_Wallace_002187.jpg</field>
+<field name="snippet">the panel, and on the president's thought about declaring a national emergency. we got this tweet from greg angle. by declaring a national emergency, will this open the door for future presidents to do the same over topics such as climate change, health care or</field>
+</doc>
+</add>

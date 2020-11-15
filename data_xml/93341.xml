@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190704_080000_BBC_News_at_Nine#start/1735/end/1770</field>
+<field name="datetime">7/4/2019 8:29:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190704_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190704_080000_BBC_News_at_Nine/BBCNEWS_20190704_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190704_080000_BBC_News_at_Nine_001737.jpg</field>
+<field name="snippet">like global warming, it gets even shorter still. i think that scientists are a bit like artists. in the 1960s, he was an eco-pioneer who invented supersensitive testing devices which detected</field>
+</doc>
+</add>

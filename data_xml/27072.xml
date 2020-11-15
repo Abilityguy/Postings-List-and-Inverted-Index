@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100211_090000_Special_Report_With_Bret_Baier#start/3116/end/3151</field>
+<field name="datetime">2/11/2010 9:52:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100211_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100211_090000_Special_Report_With_Bret_Baier/FOXNEWS_20100211_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100211_090000_Special_Report_With_Bret_Baier_003113.jpg</field>
+<field name="snippet">sleds in virginia today. look, this is going to hurt the global warming people in public opinion. it already is way down on the list of concerns with 10% unemployment. and if you are shovelling for the next three weeks, it will be lower down. however, it has no effect one</field>
+</doc>
+</add>

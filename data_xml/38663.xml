@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201011.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101104_170000_America_Live#start/1409/end/1444</field>
+<field name="datetime">11/4/2010 17:23:44</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWS_20101104_170000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101104_170000_America_Live/FOXNEWS_20101104_170000_America_Live.thumbs/FOXNEWS_20101104_170000_America_Live_001404.jpg</field>
+<field name="snippet">it's talking about the how the president can pursue an ambitious agenda without congress' help. take on the banks, climate change, immigration, use the epa to push through regulations on carbon emissions that you</field>
+</doc>
+</add>

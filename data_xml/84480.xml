@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190416_123000_BBC_News#start/809/end/844</field>
+<field name="datetime">4/16/2019 12:43:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190416_123000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190416_123000_BBC_News/BBCNEWS_20190416_123000_BBC_News.thumbs/BBCNEWS_20190416_123000_BBC_News_000809.jpg</field>
+<field name="snippet">the business news: more than 100 climate change activists have been arrested for blocking roads in central london during protests which brought parts of the capital to a standstill. a second day of disruption is expected. police have ordered protestors to keep to the marble arch area. unemployment fell by 27000</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201404.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140405_160000_Weekends_With_Alex_Witt#start/5273/end/5308</field>
+<field name="datetime">4/5/2014 17:28:08</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20140405_160000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140405_160000_Weekends_With_Alex_Witt/MSNBCW_20140405_160000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20140405_160000_Weekends_With_Alex_Witt_005265.jpg</field>
+<field name="snippet">this is the first major report from this group, this group of several hundred nobel winning scientists, the ipcc, that says climate change is not something that's coming in the future. the impacts are measurably here and now. due to climate change, we can</field>
+</doc>
+</add>

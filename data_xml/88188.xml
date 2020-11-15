@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191218_100000_Victoria_Derbyshire#start/3171/end/3206</field>
+<field name="datetime">12/18/2019 10:53:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20191218_100000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191218_100000_Victoria_Derbyshire/BBCNEWS_20191218_100000_Victoria_Derbyshire.thumbs/BBCNEWS_20191218_100000_Victoria_Derbyshire_003147.jpg</field>
+<field name="snippet">of england has released a report on climate change and how it will affect business and your finances in the years to come. it's been looking at what banks and other big businesses need to do to be more sustainable, and how what they do will impact you. in the studio this morning</field>
+</doc>
+</add>

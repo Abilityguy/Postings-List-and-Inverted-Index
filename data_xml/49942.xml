@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180621_080000_Fox_and_Friends_First#start/1515/end/1550</field>
+<field name="datetime">6/21/2018 8:25:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20180621_080000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180621_080000_Fox_and_Friends_First/FOXNEWSW_20180621_080000_Fox_and_Friends_First.thumbs/FOXNEWSW_20180621_080000_Fox_and_Friends_First_001498.jpg</field>
+<field name="snippet">investigation into a taxpayer-funded global warming advocacy, senators ted cruz, rand paul, james lankford and jim inhofe in, several grants broke federal law claiming they funded projects with the intent</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190627_100000_BBC_Newsroom_Live#start/1720/end/1755</field>
+<field name="datetime">6/27/2019 10:28:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190627_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190627_100000_BBC_Newsroom_Live/BBCNEWS_20190627_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190627_100000_BBC_Newsroom_Live_001708.jpg</field>
+<field name="snippet">our environment correpsondent matt mcgrath is in bonn in germany for a climate change conference. 0bviously obviously this is raising questions about global warming. yes,</field>
+</doc>
+</add>

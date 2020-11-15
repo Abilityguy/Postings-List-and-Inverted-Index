@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190106_110000_Fox_and_Friends_Sunday#start/8241/end/8276</field>
+<field name="datetime">1/6/2019 13:17:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20190106_110000_Fox_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190106_110000_Fox_and_Friends_Sunday/FOXNEWSW_20190106_110000_Fox_and_Friends_Sunday.thumbs/FOXNEWSW_20190106_110000_Fox_and_Friends_Sunday_008217.jpg</field>
+<field name="snippet">ed: well, that's alexandria ocasio-cortez, a congressman floating a massive tax hike on the rich to fund what she calls a green new deal related to climate change, claiming now that wealthy americans should be contributing more. but according to a bloomberg</field>
+</doc>
+</add>

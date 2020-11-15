@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190901_060000_Watters_World#start/1879/end/1914</field>
+<field name="datetime">9/1/2019 6:31:34</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Watters World</field>
+<field name="showid">FOXNEWSW_20190901_060000_Watters_World</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190901_060000_Watters_World/FOXNEWSW_20190901_060000_Watters_World.thumbs/FOXNEWSW_20190901_060000_Watters_World_001858.jpg</field>
+<field name="snippet">happens on the roads. we are not in metal cages of cars, keeping us safe. we hope that makes people more aware of us and more careful as they share the road with us. there's a climate change message wrapped up in office, am i wrong? not at all.</field>
+</doc>
+</add>

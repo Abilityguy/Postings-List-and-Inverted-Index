@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190809_020000_BBC_News#start/25/end/60</field>
+<field name="datetime">8/9/2019 2:00:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190809_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190809_020000_BBC_News/BBCNEWS_20190809_020000_BBC_News.thumbs/BBCNEWS_20190809_020000_BBC_News_000029.jpg</field>
+<field name="snippet">the choice between broccoli and ribs on your plate actually has a real link to the level of global warming that we are likely to see. us immigration officials release half of the workers detained</field>
+</doc>
+</add>

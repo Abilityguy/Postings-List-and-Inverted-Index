@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100223_100000_The_OReilly_Factor#start/2199/end/2234</field>
+<field name="datetime">2/23/2010 10:36:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20100223_100000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100223_100000_The_OReilly_Factor/FOXNEWS_20100223_100000_The_OReilly_Factor.thumbs/FOXNEWS_20100223_100000_The_OReilly_Factor_002184.jpg</field>
+<field name="snippet">the one guy called the other guy an idiot. one guy calls his metsd no good. other guy says his method is really good. but the world is getting warmer. carbon dioxide is a very strong greenhouse gas. it has a very long residence time in the atmosphere. it is making the world warmer.</field>
+</doc>
+</add>

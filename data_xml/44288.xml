@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201704.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170422_120000_MSNBC_Live#start/2896/end/2931</field>
+<field name="datetime">4/22/2017 12:48:31</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170422_120000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170422_120000_MSNBC_Live/MSNBCW_20170422_120000_MSNBC_Live.thumbs/MSNBCW_20170422_120000_MSNBC_Live_002877.jpg</field>
+<field name="snippet">climate change is real. the message here today is yes, a celebration of science, but also a push for environmentally and science based federal policies from the federal government. that's important when you think about the trump administration and what it is doing with</field>
+</doc>
+</add>

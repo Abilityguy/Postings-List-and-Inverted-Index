@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191221_133000_Climate_Defenders#start/1410/end/1445</field>
+<field name="datetime">12/21/2019 13:53:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Climate Defenders</field>
+<field name="showid">BBCNEWS_20191221_133000_Climate_Defenders</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191221_133000_Climate_Defenders/BBCNEWS_20191221_133000_Climate_Defenders.thumbs/BBCNEWS_20191221_133000_Climate_Defenders_001408.jpg</field>
+<field name="snippet">example? 100 years ago, trees covered one third of ethiopia. now it is less than 5%. and without trees, there is nothing to protect the soil from drought, wind and burst of rain which all become more intense with climate change. when the soil goes,</field>
+</doc>
+</add>

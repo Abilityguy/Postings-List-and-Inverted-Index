@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201401.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140130_140000_The_Daily_Rundown#start/935/end/970</field>
+<field name="datetime">1/30/2014 14:15:50</field>
+<field name="station">MSNBC</field>
+<field name="show">The Daily Rundown</field>
+<field name="showid">MSNBCW_20140130_140000_The_Daily_Rundown</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140130_140000_The_Daily_Rundown/MSNBCW_20140130_140000_The_Daily_Rundown.thumbs/MSNBCW_20140130_140000_The_Daily_Rundown_000916.jpg</field>
+<field name="snippet">president committed to drastically reducing greenhouse gas emissions, a tall order and a controversial move to some. last year, the president called out climate change deniers and called fossil fuel yesterday's energy. but this year, the president went a bit further. first, he said he directed his</field>
+</doc>
+</add>

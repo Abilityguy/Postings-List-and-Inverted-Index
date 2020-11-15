@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201305.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130521_160000_NOW_With_Alex_Wagner#start/1504/end/1539</field>
+<field name="datetime">5/21/2013 16:25:19</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20130521_160000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130521_160000_NOW_With_Alex_Wagner/MSNBCW_20130521_160000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20130521_160000_NOW_With_Alex_Wagner_001485.jpg</field>
+<field name="snippet">texas. i mean we're now living in an era of extreme weather. this is where the controversy over climate change gets complicated, very complicated and in some ways outrageous, if you will. we are in a period of extreme</field>
+</doc>
+</add>

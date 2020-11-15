@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.202001.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20200113_200000_MSNBC_Live_With_Ali_Velshi#start/30/end/65</field>
+<field name="datetime">1/13/2020 20:00:45</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20200113_200000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20200113_200000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20200113_200000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20200113_200000_MSNBC_Live_With_Ali_Velshi_000027.jpg</field>
+<field name="snippet">climate change, scorched earth. it's the same picture as the western united states. prominent voice on my show and really sounding the alarm, saying, listen this is a really serious issue. this is what it looks like and not just australia.</field>
+</doc>
+</add>

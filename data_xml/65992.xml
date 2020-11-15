@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190226_060000_Hannity#start/345/end/380</field>
+<field name="datetime">2/26/2019 6:06:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20190226_060000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190226_060000_Hannity/FOXNEWSW_20190226_060000_Hannity.thumbs/FOXNEWSW_20190226_060000_Hannity_000329.jpg</field>
+<field name="snippet">'the new york times' editorial board endorsed this insane plan. i wonder if they looked at the $93 trillion. they wrote that climate change is now putting our coral reefs and fisheries at risk. they report that ice is melting</field>
+</doc>
+</add>

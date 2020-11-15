@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.202001.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20200113_220000_MTP_Daily#start/2588/end/2623</field>
+<field name="datetime">1/13/2020 22:43:23</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20200113_220000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20200113_220000_MTP_Daily/MSNBCW_20200113_220000_MTP_Daily.thumbs/MSNBCW_20200113_220000_MTP_Daily_002579.jpg</field>
+<field name="snippet">so many candidates say we can't guarantee health care for all, make college affordable for all, combat climate change or create a world at peace, remember, america is best when we strive to do big things, even when it's hard.</field>
+</doc>
+</add>

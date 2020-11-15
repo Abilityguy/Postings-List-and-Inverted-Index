@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201609.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160905_100000_FOX__Friends#start/5697/end/5732</field>
+<field name="datetime">9/5/2016 11:35:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20160905_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160905_100000_FOX__Friends/FOXNEWSW_20160905_100000_FOX__Friends.thumbs/FOXNEWSW_20160905_100000_FOX__Friends_005697.jpg</field>
+<field name="snippet">we agreed to advance our cooperation across a range of issues including climate change, global health and development. peacekeeping, counternarcotics and nuclear security. we also address our differences</field>
+</doc>
+</add>

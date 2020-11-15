@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191214_160000_BBC_News#start/401/end/436</field>
+<field name="datetime">12/14/2019 16:06:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191214_160000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191214_160000_BBC_News/BBCNEWS_20191214_160000_BBC_News.thumbs/BBCNEWS_20191214_160000_BBC_News_000388.jpg</field>
+<field name="snippet">of inequality, and the big one is climate change, and my fear is five years of a fossil fuel-backed government, under boris johnson, means we will miss this five-year opportunity of saving our planet.</field>
+</doc>
+</add>

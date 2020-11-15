@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190924_010000_BBC_News#start/12/end/47</field>
+<field name="datetime">9/24/2019 1:00:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190924_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190924_010000_BBC_News/BBCNEWS_20190924_010000_BBC_News.thumbs/BBCNEWS_20190924_010000_BBC_News_000027.jpg</field>
+<field name="snippet">welcome to bbc news. my name is mike embley. our top stories: as world leaders meet for a special un summit on climate change, the teenage activist greta thunberg greets them with a furious attack. how dare you?! you have stolen my dreams and my</field>
+</doc>
+</add>

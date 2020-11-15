@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201409.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140922_150000_Happening_Now#start/2265/end/2300</field>
+<field name="datetime">9/22/2014 15:38:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20140922_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140922_150000_Happening_Now/FOXNEWSW_20140922_150000_Happening_Now.thumbs/FOXNEWSW_20140922_150000_Happening_Now_002265.jpg</field>
+<field name="snippet">chew gum at the same time. we can talk about ebola and isis and climate change. the u.n. is the place to address them. to say the homeland security department is doing nothing, we have a relatively safe homeland. people anti-immigration use</field>
+</doc>
+</add>

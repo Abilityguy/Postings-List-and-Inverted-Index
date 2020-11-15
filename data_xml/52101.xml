@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181213_200000_BBC_News#start/1380/end/1415</field>
+<field name="datetime">12/13/2018 20:23:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181213_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181213_200000_BBC_News/BBCNEWS_20181213_200000_BBC_News.thumbs/BBCNEWS_20181213_200000_BBC_News_001377.jpg</field>
+<field name="snippet">50 years ago, this image of ourfragile planet raised awareness of potential threats of potential threats to the environment, and now we're seeing where that might lead. let's explore this further with the climate change lawyer farhana yamin,</field>
+</doc>
+</add>

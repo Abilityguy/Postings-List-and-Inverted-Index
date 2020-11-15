@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091207_160000_MSNBC_News_Live#start/217/end/252</field>
+<field name="datetime">12/7/2009 16:03:52</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091207_160000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091207_160000_MSNBC_News_Live/MSNBC_20091207_160000_MSNBC_News_Live.thumbs/MSNBC_20091207_160000_MSNBC_News_Live_000210.jpg</field>
+<field name="snippet">heavily on climate change. what's his end goal? reporter: well, i think in this case it's one half trying to show that, you know -- and this is something he's done for all his international trip which is to show the united states does want to be involved in</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191128_100000_MTP_Daily#start/3058/end/3093</field>
+<field name="datetime">11/28/2019 10:51:13</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20191128_100000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191128_100000_MTP_Daily/MSNBCW_20191128_100000_MTP_Daily.thumbs/MSNBCW_20191128_100000_MTP_Daily_003057.jpg</field>
+<field name="snippet">nearest hill and shout. the good side of it is it's never too late to start doing better, but we're in a really bad place. what can we do -- what needs to happen now in order to push off the effects of climate change? in order to change what looks</field>
+</doc>
+</add>

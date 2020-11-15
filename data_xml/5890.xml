@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190910_200000_Outside_Source#start/964/end/999</field>
+<field name="datetime">9/10/2019 20:16:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20190910_200000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190910_200000_Outside_Source/BBCNEWS_20190910_200000_Outside_Source.thumbs/BBCNEWS_20190910_200000_Outside_Source_000958.jpg</field>
+<field name="snippet">let's talk about climate change - and more specifically, 'adaptation'. in the context of climate change, this means the way we adapt the way we live to deal with higher temperatures, rising seas, and fiercer storms. this is new report from</field>
+</doc>
+</add>

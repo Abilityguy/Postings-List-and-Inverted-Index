@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201504.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150416_220000_Special_Report_With_Bret_Baier#start/580/end/615</field>
+<field name="datetime">4/16/2015 22:09:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20150416_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150416_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20150416_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20150416_220000_Special_Report_With_Bret_Baier_000555.jpg</field>
+<field name="snippet">fighting aids in africa, climate change, responding to earthquake disaster relief. reporter: clinton has not yet mentioned the foundation on the campaign trail though she did recently note a subsidiary the clinton global initiative had</field>
+</doc>
+</add>

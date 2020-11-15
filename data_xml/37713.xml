@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091020_210000_Glenn_Beck#start/791/end/826</field>
+<field name="datetime">10/20/2009 21:13:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20091020_210000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091020_210000_Glenn_Beck/FOXNEWS_20091020_210000_Glenn_Beck.thumbs/FOXNEWS_20091020_210000_Glenn_Beck_000780.jpg</field>
+<field name="snippet">glenn: let me think of all the electricity they saved. i'm sure it made up for flying reporters all over in jets around the world to cover the horrifying scene of global warming in the frigid cold of the arctic, among other exotic</field>
+</doc>
+</add>

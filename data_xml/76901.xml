@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190511_070000_Breakfast#start/524/end/559</field>
+<field name="datetime">5/11/2019 7:08:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190511_070000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190511_070000_Breakfast/BBCNEWS_20190511_070000_Breakfast.thumbs/BBCNEWS_20190511_070000_Breakfast_000509.jpg</field>
+<field name="snippet">simon armitage has been named as the new poet laureate, a role that lasts 10 years. he has pledged to give away his salary of £6000 a year. he says he wants to use the role to ensure poetry embraces major global issues, including climate change. here's our arts editor,</field>
+</doc>
+</add>

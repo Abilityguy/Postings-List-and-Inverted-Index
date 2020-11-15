@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191113_133000_BBC_News#start/973/end/1008</field>
+<field name="datetime">11/13/2019 13:46:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191113_133000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191113_133000_BBC_News/BBCNEWS_20191113_133000_BBC_News.thumbs/BBCNEWS_20191113_133000_BBC_News_000958.jpg</field>
+<field name="snippet">which is evidently the effect of climate change. a crane had to be used to move this ferry after it got stuck under a bridge. the mayor says he will declare a disaster zone and asked the government</field>
+</doc>
+</add>

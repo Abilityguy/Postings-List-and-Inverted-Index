@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140512_100000_Morning_Joe#start/175/end/210</field>
+<field name="datetime">5/12/2014 10:03:10</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20140512_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140512_100000_Morning_Joe/MSNBCW_20140512_100000_Morning_Joe.thumbs/MSNBCW_20140512_100000_Morning_Joe_000165.jpg</field>
+<field name="snippet">the next few minutes. marco rubio, his strongest statement yet in terms of potentially running in 2016. we're going to play some of that interview. interesting concept he has on climate change. he lets that be known. also we have new polling that</field>
+</doc>
+</add>

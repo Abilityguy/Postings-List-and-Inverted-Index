@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190501_090000_Fox_and_Friends_First#start/3591/end/3626</field>
+<field name="datetime">5/1/2019 10:00:06</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190501_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190501_090000_Fox_and_Friends_First/FOXNEWSW_20190501_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190501_090000_Fox_and_Friends_First_003568.jpg</field>
+<field name="snippet">time-out. carley: game in cleveland, ohio deer eventually hopping back over the fence. rob: still pretty to see those. turns out love of wine might be contradicting to climate change. success accept cybil to changes in temperature.</field>
+</doc>
+</add>

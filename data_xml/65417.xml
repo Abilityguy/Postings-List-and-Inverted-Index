@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190313_000000_Tucker_Carlson_Tonight#start/2650/end/2685</field>
+<field name="datetime">3/13/2019 0:44:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190313_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190313_000000_Tucker_Carlson_Tonight/FOXNEWSW_20190313_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190313_000000_Tucker_Carlson_Tonight_002638.jpg</field>
+<field name="snippet">tucker: some people decided that, no, it is not okay to have children. a co-founder of birth strike a group of people refusing to have children in order to resist climate change. she joins us tonight. thanks very much for coming on. thank you for having me.</field>
+</doc>
+</add>

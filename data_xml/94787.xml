@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201010.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101003_110000_Hardball_Weekend#start/1577/end/1612</field>
+<field name="datetime">10/3/2010 11:26:32</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball Weekend</field>
+<field name="showid">MSNBC_20101003_110000_Hardball_Weekend</field>
+<field name="preview">https://archive.org/download/MSNBC_20101003_110000_Hardball_Weekend/MSNBC_20101003_110000_Hardball_Weekend.thumbs/MSNBC_20101003_110000_Hardball_Weekend_001560.jpg</field>
+<field name="snippet">next, senator russ feingold's republican challenger millionaire businessman ron johnson just told the associated press he believes global warming is unproven. his quote is, the point is, because we're not certain because it's not proven the last</field>
+</doc>
+</add>

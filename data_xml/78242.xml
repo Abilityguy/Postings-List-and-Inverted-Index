@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191126_200000_BBC_Wales_Live#start/2524/end/2559</field>
+<field name="datetime">11/26/2019 20:42:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Wales Live</field>
+<field name="showid">BBCNEWS_20191126_200000_BBC_Wales_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191126_200000_BBC_Wales_Live/BBCNEWS_20191126_200000_BBC_Wales_Live.thumbs/BBCNEWS_20191126_200000_BBC_Wales_Live_002519.jpg</field>
+<field name="snippet">griffiths, the welsh government declared a climate emergency, so what are you doing about that other than declaring it? we have a very clear plan and we want to be very bold about tackling climate change because we feel it is absolutely essential we get a move on now after</field>
+</doc>
+</add>

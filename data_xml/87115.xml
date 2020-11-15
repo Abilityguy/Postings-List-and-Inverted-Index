@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191207_010000_BBC_News#start/1272/end/1307</field>
+<field name="datetime">12/7/2019 1:21:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191207_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191207_010000_BBC_News/BBCNEWS_20191207_010000_BBC_News.thumbs/BBCNEWS_20191207_010000_BBC_News_001257.jpg</field>
+<field name="snippet">climate crisis is still being ignored by those in power. as these protests continue into the night ahead of another week of summit talks, it's clear that world leaders are registering this message has never been so vocal. but few here</field>
+</doc>
+</add>

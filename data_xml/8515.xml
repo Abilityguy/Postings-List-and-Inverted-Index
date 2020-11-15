@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190906_040000_Tucker_Carlson_Tonight#start/729/end/764</field>
+<field name="datetime">9/6/2019 4:12:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190906_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190906_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190906_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190906_040000_Tucker_Carlson_Tonight_000719.jpg</field>
+<field name="snippet">bigger fires in the west, supercharged storms like the one we see now, hurricane dorian. we are seeing firsthand the effects of climate change as a powerful atlantic hurricane is sitting right now off the coast of florida. tucker: chris plante hosts</field>
+</doc>
+</add>

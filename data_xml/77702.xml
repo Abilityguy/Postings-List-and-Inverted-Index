@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191110_190000_BBC_News#start/389/end/424</field>
+<field name="datetime">11/10/2019 19:06:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191110_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191110_190000_BBC_News/BBCNEWS_20191110_190000_BBC_News.thumbs/BBCNEWS_20191110_190000_BBC_News_000389.jpg</field>
+<field name="snippet">to see more flooding of this type in the future? it's notjust likely, is certain. this is what climate change means. we will have more pressure, more floods unless we take action.</field>
+</doc>
+</add>

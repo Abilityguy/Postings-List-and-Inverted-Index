@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170526_023000_The_Travel_Show#start/26/end/61</field>
+<field name="datetime">5/26/2017 2:30:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Travel Show</field>
+<field name="showid">BBCNEWS_20170526_023000_The_Travel_Show</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170526_023000_The_Travel_Show/BBCNEWS_20170526_023000_The_Travel_Show.thumbs/BBCNEWS_20170526_023000_The_Travel_Show_000057.jpg</field>
+<field name="snippet">france, germany, italy, japan, the united kingdom, and the united states meeting in the sicilian resort town of taormina. they will discuss the global fight against terrorism, as well differences over trade and climate change. let's have a look at the front pages</field>
+</doc>
+</add>

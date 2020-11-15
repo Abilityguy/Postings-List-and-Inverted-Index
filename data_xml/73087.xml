@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190123_030000_BBC_News#start/921/end/956</field>
+<field name="datetime">1/23/2019 3:15:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190123_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190123_030000_BBC_News/BBCNEWS_20190123_030000_BBC_News.thumbs/BBCNEWS_20190123_030000_BBC_News_000898.jpg</field>
+<field name="snippet">to hold back the desert. it's losing. and now, a new enemy, climate change, threatening the world's most vulnerable lands.</field>
+</doc>
+</add>

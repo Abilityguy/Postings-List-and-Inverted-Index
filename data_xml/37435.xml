@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201401.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140118_090000_The_Five#start/2553/end/2588</field>
+<field name="datetime">1/18/2014 9:42:48</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20140118_090000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140118_090000_The_Five/FOXNEWSW_20140118_090000_The_Five.thumbs/FOXNEWSW_20140118_090000_The_Five_002535.jpg</field>
+<field name="snippet">shouldn't emit water vapor. it's not climate change, it's e-cigarettes. i don't see the difference in having an e-cigarette at your desk or a vaporizer. maybe not tea, because i have tea here. it's a little different.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190112_200000_The_Journal_Editorial_Report#start/1852/end/1887</field>
+<field name="datetime">1/12/2019 20:31:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Journal Editorial Report</field>
+<field name="showid">FOXNEWSW_20190112_200000_The_Journal_Editorial_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190112_200000_The_Journal_Editorial_Report/FOXNEWSW_20190112_200000_The_Journal_Editorial_Report.thumbs/FOXNEWSW_20190112_200000_The_Journal_Editorial_Report_001827.jpg</field>
+<field name="snippet">from some republicans. james baker and george schultz recently unveiled a climate plan that calls for taxes carbon emissions and returning the revenue as a dividend to americans. could this be the year that congress enacts a carbon tax?</field>
+</doc>
+</add>

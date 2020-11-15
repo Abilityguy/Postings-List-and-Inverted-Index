@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100426_150000_Happening_Now#start/106/end/141</field>
+<field name="datetime">4/26/2010 15:02:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20100426_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100426_150000_Happening_Now/FOXNEWS_20100426_150000_Happening_Now.thumbs/FOXNEWS_20100426_150000_Happening_Now_000090.jpg</field>
+<field name="snippet">get it done. the senate hasn't done anything yet but for months three key senators have been meeting and meeting on this, john kerry, independent joe lieberman and republican lindsey graham, and today, they were set to unveil what they were going to do about climate change and in their</field>
+</doc>
+</add>

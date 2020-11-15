@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.202001.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20200101_040000#start/1615/end/1650</field>
+<field name="datetime">1/1/2020 4:27:10</field>
+<field name="station">MSNBC</field>
+<field name="show"></field>
+<field name="showid">MSNBCW_20200101_040000</field>
+<field name="preview">https://archive.org/download/MSNBCW_20200101_040000/MSNBCW_20200101_040000.thumbs/MSNBCW_20200101_040000_001621.jpg</field>
+<field name="snippet">climate change, inequality, injustice, conflict, and yet we have never had so much in our hands to make the world a more peaceful and prosperous place.</field>
+</doc>
+</add>

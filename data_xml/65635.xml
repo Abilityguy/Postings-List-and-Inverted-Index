@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190208_110000_FOX__Friends#start/7467/end/7502</field>
+<field name="datetime">2/8/2019 13:04:42</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20190208_110000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190208_110000_FOX__Friends/FOXNEWSW_20190208_110000_FOX__Friends.thumbs/FOXNEWSW_20190208_110000_FOX__Friends_007468.jpg</field>
+<field name="snippet">global warming. when i look at the last five years, i look at record high temperatures, to me there is evidence that something has to change to keep those temperatures from continuing to go up and, global warming, climate change, or you know,</field>
+</doc>
+</add>

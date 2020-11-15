@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.200912.csv</field>
+<field name="url">https://archive.org/details/CNN_20091209_160000_CNN_Newsroom#start/1844/end/1879</field>
+<field name="datetime">12/9/2009 16:30:59</field>
+<field name="station">CNN</field>
+<field name="show">CNN Newsroom</field>
+<field name="showid">CNN_20091209_160000_CNN_Newsroom</field>
+<field name="preview">https://archive.org/download/CNN_20091209_160000_CNN_Newsroom/CNN_20091209_160000_CNN_Newsroom.thumbs/CNN_20091209_160000_CNN_Newsroom_001825.jpg</field>
+<field name="snippet">climate change is a complicated subject that sill generates plenty of scientific debate. the easiest way to understand it is to think of the earth's atmosphere as a giant greenhouse. sunlight beams down to warm the surface, then bounces back</field>
+</doc>
+</add>

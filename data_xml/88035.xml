@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191207_170000_BBC_News#start/309/end/344</field>
+<field name="datetime">12/7/2019 17:05:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191207_170000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191207_170000_BBC_News/BBCNEWS_20191207_170000_BBC_News.thumbs/BBCNEWS_20191207_170000_BBC_News_000297.jpg</field>
+<field name="snippet">while nutrient run-off has been known for decades, researchers say that climate change is making the lack of oxygen worse and is having an impact on certain species of fish. minna epps is the director of the iucn's global marine and polar programe earlier spoke to me from the climate</field>
+</doc>
+</add>

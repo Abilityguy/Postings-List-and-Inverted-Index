@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201207.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120703_040000_Hannity#start/577/end/612</field>
+<field name="datetime">7/3/2012 4:09:52</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20120703_040000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120703_040000_Hannity/FOXNEWSW_20120703_040000_Hannity.thumbs/FOXNEWSW_20120703_040000_Hannity_000570.jpg</field>
+<field name="snippet">announced the united states was giving away $2 billion to third world countries as a downpayment on $100 billion fund to help them handle climate change. what's important about that $2 billion, it's not just the amount, but that we don't decide where it goes. we give it to the u.n. and it</field>
+</doc>
+</add>

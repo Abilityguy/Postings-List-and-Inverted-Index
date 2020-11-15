@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170805_070000_Breakfast#start/442/end/477</field>
+<field name="datetime">8/5/2017 7:07:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20170805_070000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170805_070000_Breakfast/BBCNEWS_20170805_070000_Breakfast.thumbs/BBCNEWS_20170805_070000_Breakfast_000417.jpg</field>
+<field name="snippet">health journal suggests that heatwaves alone could account for 100000 deaths a year. researchers in italy say urgent action is needed to curb the effects of climate change. millions of rail passengers are</field>
+</doc>
+</add>

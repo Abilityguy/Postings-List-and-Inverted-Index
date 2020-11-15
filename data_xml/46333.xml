@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201510.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151028_030000_All_In_With_Chris_Hayes#start/1955/end/1990</field>
+<field name="datetime">10/28/2015 3:32:50</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20151028_030000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151028_030000_All_In_With_Chris_Hayes/MSNBCW_20151028_030000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20151028_030000_All_In_With_Chris_Hayes_001935.jpg</field>
+<field name="snippet">four americans, congressman smith's committee is spend 'ing its time hounding scientists advancing our understanding of climate change, a group he's never had much regard for. this is nothing new. they always make these kind of predictions and obviously, there</field>
+</doc>
+</add>

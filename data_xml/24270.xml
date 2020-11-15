@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201902.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190220_110000_Morning_Joe#start/10450/end/10485</field>
+<field name="datetime">2/20/2019 13:54:25</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20190220_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190220_110000_Morning_Joe/MSNBCW_20190220_110000_Morning_Joe.thumbs/MSNBCW_20190220_110000_Morning_Joe_010438.jpg</field>
+<field name="snippet">do you still think that climate change is a hoax? look, i think something's happening, something's changing. it will change back again. i don't think it's a hoax. i think there's probably a difference but i don't know that it's manmade.</field>
+</doc>
+</add>

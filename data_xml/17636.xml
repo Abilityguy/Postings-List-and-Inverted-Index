@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170127_080000_Red_Eye_With_Tom_Shillue#start/3341/end/3376</field>
+<field name="datetime">1/27/2017 8:55:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye With Tom Shillue</field>
+<field name="showid">FOXNEWSW_20170127_080000_Red_Eye_With_Tom_Shillue</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170127_080000_Red_Eye_With_Tom_Shillue/FOXNEWSW_20170127_080000_Red_Eye_With_Tom_Shillue.thumbs/FOXNEWSW_20170127_080000_Red_Eye_With_Tom_Shillue_003327.jpg</field>
+<field name="snippet">elephants. the only evidence against climate change. this picture, it's the only scientific evidence that global warming isn't real. 31100 year's ago you didn't see elephants with sweaters on. we didn't have at sea.</field>
+</doc>
+</add>

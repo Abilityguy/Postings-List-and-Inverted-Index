@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190924_040000_Tucker_Carlson_Tonight#start/593/end/628</field>
+<field name="datetime">9/24/2019 4:10:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190924_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190924_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190924_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190924_040000_Tucker_Carlson_Tonight_000569.jpg</field>
+<field name="snippet">both sides, there's a problem with global warming, but cuttine emissions also have costs. we need to find a place where we minimize both of these, that is we maximize the benefits and minimize the cost trying to do that. we don't have that conversation.</field>
+</doc>
+</add>

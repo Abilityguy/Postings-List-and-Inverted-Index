@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190805_160000_BBC_News_at_Five#start/3212/end/3247</field>
+<field name="datetime">8/5/2019 16:53:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190805_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190805_160000_BBC_News_at_Five/BBCNEWS_20190805_160000_BBC_News_at_Five.thumbs/BBCNEWS_20190805_160000_BBC_News_at_Five_003208.jpg</field>
+<field name="snippet">leading climate scientists are meeting in geneva, and will warn that human activity in the way we use land, must change, in order to prevent global warming. the un's intergovernmental panel on climate change, is preparing a report on how intensive farming, deforestation and drained peatlands, contribute to rising temperatures. it comes after early indications suggest last month was the hottest on record.</field>
+</doc>
+</add>

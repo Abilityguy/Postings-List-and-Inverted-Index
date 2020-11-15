@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201804.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180409_043000_Business_Briefing#start/0/end/33</field>
+<field name="datetime">4/9/2018 4:30:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Business Briefing</field>
+<field name="showid">BBCNEWS_20180409_043000_Business_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180409_043000_Business_Briefing/BBCNEWS_20180409_043000_Business_Briefing.thumbs/BBCNEWS_20180409_043000_Business_Briefing_000057.jpg</field>
+<field name="snippet">this is business briefing. i'm sally bundock. the marine industry meets to crack down on global warming. but can the sector's bosses really come up with a binding agreement?</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181202_060000_Breakfast#start/343/end/378</field>
+<field name="datetime">12/2/2018 6:05:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181202_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181202_060000_Breakfast/BBCNEWS_20181202_060000_Breakfast.thumbs/BBCNEWS_20181202_060000_Breakfast_000327.jpg</field>
+<field name="snippet">our environment correspondent matt mcgrath has more. scientists are more certain than ever that climate change is increasing the likelihood and severity of events like these -  _</field>
+</doc>
+</add>

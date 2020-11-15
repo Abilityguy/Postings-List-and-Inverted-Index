@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201812.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181231_000000_Kasie_DC#start/2480/end/2515</field>
+<field name="datetime">12/31/2018 0:41:35</field>
+<field name="station">MSNBC</field>
+<field name="show">Kasie DC</field>
+<field name="showid">MSNBCW_20181231_000000_Kasie_DC</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181231_000000_Kasie_DC/MSNBCW_20181231_000000_Kasie_DC.thumbs/MSNBCW_20181231_000000_Kasie_DC_002458.jpg</field>
+<field name="snippet">agencies published the day after thanksgiving by the white house. that report, the national climate assessment, comes out once every four years and it represents the best science that the u.s. government has on the state of climate change right now.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201012.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101229_200000_Studio_B_With_Shepard_Smith#start/2928/end/2963</field>
+<field name="datetime">12/29/2010 20:49:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Studio B With Shepard Smith</field>
+<field name="showid">FOXNEWS_20101229_200000_Studio_B_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101229_200000_Studio_B_With_Shepard_Smith/FOXNEWS_20101229_200000_Studio_B_With_Shepard_Smith.thumbs/FOXNEWS_20101229_200000_Studio_B_With_Shepard_Smith_002910.jpg</field>
+<field name="snippet">attention to reducing greenhouse gas emission. i hope he is wrong. but this is a very volatile energy market and we have not moved as fast as we should in america toward reducing our dependence on fossil fuel.</field>
+</doc>
+</add>

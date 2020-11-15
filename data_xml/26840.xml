@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100214_090000_Geraldo_at_Large#start/303/end/338</field>
+<field name="datetime">2/14/2010 9:05:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Geraldo at Large</field>
+<field name="showid">FOXNEWS_20100214_090000_Geraldo_at_Large</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100214_090000_Geraldo_at_Large/FOXNEWS_20100214_090000_Geraldo_at_Large.thumbs/FOXNEWS_20100214_090000_Geraldo_at_Large_000296.jpg</field>
+<field name="snippet">rain or snow. hot air from the gulf of mexico hits cold air from the arctic creating precipitation. now, global warming means more moisture in the atmosphere. if our theirry is correct and</field>
+</doc>
+</add>

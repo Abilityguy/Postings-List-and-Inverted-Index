@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190123_040000_BBC_News#start/1113/end/1148</field>
+<field name="datetime">1/23/2019 4:18:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190123_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190123_040000_BBC_News/BBCNEWS_20190123_040000_BBC_News.thumbs/BBCNEWS_20190123_040000_BBC_News_001108.jpg</field>
+<field name="snippet">that we look at arms, at armed actors, at conflict. maybe at under development, but we didn't look too much at the natural environment, but now we see that climate change, changing rain patterns, changing livelihoods of people, is leading to conflict</field>
+</doc>
+</add>

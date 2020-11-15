@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201207.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120703_150000_MSNBC_Live#start/3389/end/3424</field>
+<field name="datetime">7/3/2012 15:56:44</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20120703_150000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120703_150000_MSNBC_Live/MSNBCW_20120703_150000_MSNBC_Live.thumbs/MSNBCW_20120703_150000_MSNBC_Live_003390.jpg</field>
+<field name="snippet">we'll discuss the politics of climate change with environmentalist david de rothschild. what's your citizenship iq? in preparation for the fourth of july, tune in for our american history trivia test and our very own 'now' version of the romney</field>
+</doc>
+</add>

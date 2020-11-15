@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_140000_Afternoon_Live#start/108/end/143</field>
+<field name="datetime">1/16/2020 14:02:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20200116_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_140000_Afternoon_Live/BBCNEWS_20200116_140000_Afternoon_Live.thumbs/BBCNEWS_20200116_140000_Afternoon_Live_000087.jpg</field>
+<field name="snippet">hello, everyone - this is afternoon live. i'm simon mccoy. the naturalist and broadcaster sir david attenborough has told the bbc that 'the moment of crisis has come' in efforts to tackle climate change. he said governments can no longer delay taking urgent action to address global warming.</field>
+</doc>
+</add>

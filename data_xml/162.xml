@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201301.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130122_230000_Special_Report_With_Bret_Baier#start/377/end/412</field>
+<field name="datetime">1/22/2013 23:06:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20130122_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130122_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20130122_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20130122_230000_Special_Report_With_Bret_Baier_000375.jpg</field>
+<field name="snippet">this will be the first big test of the new commitment to deal with climate change.</field>
+</doc>
+</add>

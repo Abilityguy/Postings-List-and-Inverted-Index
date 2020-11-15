@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190908_093000_Inside_Out_West#start/1097/end/1132</field>
+<field name="datetime">9/8/2019 9:48:32</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Inside Out West</field>
+<field name="showid">BBCNEWS_20190908_093000_Inside_Out_West</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190908_093000_Inside_Out_West/BBCNEWS_20190908_093000_Inside_Out_West.thumbs/BBCNEWS_20190908_093000_Inside_Out_West_001079.jpg</field>
+<field name="snippet">now in ourfinalfilm we're exploring the impact of climate change on wildlife where you live. using exclusive data, nick baker can reveal the latest picture. a classic bristol suburb.</field>
+</doc>
+</add>

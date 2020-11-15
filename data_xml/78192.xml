@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191111_210000_Outside_Source#start/2140/end/2175</field>
+<field name="datetime">11/11/2019 21:35:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20191111_210000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191111_210000_Outside_Source/BBCNEWS_20191111_210000_Outside_Source.thumbs/BBCNEWS_20191111_210000_Outside_Source_002128.jpg</field>
+<field name="snippet">degrees, this is well above the average this time of year. it should be in the mid-20s. and of course, the question you are getting asked all the time at the moment is how do we connect this with the broader climate change situation? we can't really attribute one</field>
+</doc>
+</add>

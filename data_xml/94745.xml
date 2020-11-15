@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201004.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100416_100000_Morning_Joe#start/4380/end/4415</field>
+<field name="datetime">4/16/2010 11:13:15</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20100416_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20100416_100000_Morning_Joe/MSNBC_20100416_100000_Morning_Joe.thumbs/MSNBC_20100416_100000_Morning_Joe_004373.jpg</field>
+<field name="snippet">washington, d.c. you have the senate. and i'm wondering if you could sort of -- we're in washington so we have to ask political questions, but if you can give a commentary about how important issues like climate change legislation get caught up in the inertia of congress. you know, i think that's one</field>
+</doc>
+</add>

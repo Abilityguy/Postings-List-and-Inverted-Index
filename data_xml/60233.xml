@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181005_100000_BBC_Newsroom_Live#start/6190/end/6225</field>
+<field name="datetime">10/5/2018 11:43:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20181005_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181005_100000_BBC_Newsroom_Live/BBCNEWS_20181005_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20181005_100000_BBC_Newsroom_Live_006177.jpg</field>
+<field name="snippet">many thanks for that. professor steve derby there of the university of southampton. we're waiting for reports from the un climate panel looking into the implication of trying to limit global warming in the way vietnam and other countries want. we will see if that is going to be possible.</field>
+</doc>
+</add>

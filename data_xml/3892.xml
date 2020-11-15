@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201710.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171030_180000_BBC_News_at_Six#start/1023/end/1058</field>
+<field name="datetime">10/30/2017 18:17:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20171030_180000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171030_180000_BBC_News_at_Six/BBCNEWS_20171030_180000_BBC_News_at_Six.thumbs/BBCNEWS_20171030_180000_BBC_News_at_Six_001017.jpg</field>
+<field name="snippet">of the greenhouse gas into the atmosphere. so, how significant are today's findings? 0ver hundreds and thousands of years, carbon dioxide levels have fluctuated, but from 1950, levels have surged. today's figures are the highest</field>
+</doc>
+</add>

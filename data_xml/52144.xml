@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181209_023000_Dateline_London#start/846/end/881</field>
+<field name="datetime">12/9/2018 2:44:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Dateline London</field>
+<field name="showid">BBCNEWS_20181209_023000_Dateline_London</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181209_023000_Dateline_London/BBCNEWS_20181209_023000_Dateline_London.thumbs/BBCNEWS_20181209_023000_Dateline_London_000838.jpg</field>
+<field name="snippet">where does the spread? it is hard tojudge. i don't see much of a comparison to the united states at this point, where the president doesn't believe in climate change. we'll talk about that in a bit.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_020000_BBC_News#start/9/end/44</field>
+<field name="datetime">9/20/2019 2:00:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190920_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_020000_BBC_News/BBCNEWS_20190920_020000_BBC_News.thumbs/BBCNEWS_20190920_020000_BBC_News_000028.jpg</field>
+<field name="snippet">welcome to bbc news, i'm mike embley. our top stories: walkouts expected around the world. protestors prepare for global climate change strikes and demonstrations. we're live in sydney. trudeau under pressure. the canadian prime minister</field>
+</doc>
+</add>

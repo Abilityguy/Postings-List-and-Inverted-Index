@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201305.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130522_000000_All_In_With_Chris_Hayes#start/724/end/759</field>
+<field name="datetime">5/22/2013 0:12:19</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20130522_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130522_000000_All_In_With_Chris_Hayes/MSNBCW_20130522_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20130522_000000_All_In_With_Chris_Hayes_000705.jpg</field>
+<field name="snippet">illinois, kentucky, parts of ohio have seen incredible tornadoes in recent years. we don't know if that's a manifestation of climate change as we discussed yesterday. no sound science yet that a warmer atmosphere necessarily</field>
+</doc>
+</add>

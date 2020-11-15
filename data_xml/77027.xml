@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190519_120000_BBC_News#start/683/end/718</field>
+<field name="datetime">5/19/2019 12:11:38</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190519_120000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190519_120000_BBC_News/BBCNEWS_20190519_120000_BBC_News.thumbs/BBCNEWS_20190519_120000_BBC_News_000658.jpg</field>
+<field name="snippet">co-leader of the green party sian berry spoke tojohn pienaar earlier this morning about what the greens aim to achieve in next week's european parliament elections. we're standing in the european elections on a very clear platform of yes to europe and no to climate change and those are the big issues that people are talking about.</field>
+</doc>
+</add>

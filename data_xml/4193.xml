@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201102.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110215_220000_Glenn_Beck#start/3303/end/3338</field>
+<field name="datetime">2/15/2011 22:55:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20110215_220000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110215_220000_Glenn_Beck/FOXNEWS_20110215_220000_Glenn_Beck.thumbs/FOXNEWS_20110215_220000_Glenn_Beck_003293.jpg</field>
+<field name="snippet">ecosystem, stand up for climate change. i'm for climate change. climates is always changing. it will continue to change. stand up for jobs, stand up for health care. stand up for peace and hope.</field>
+</doc>
+</add>

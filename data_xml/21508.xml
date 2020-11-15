@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100129_230000_Special_Report_With_Bret_Baier#start/1544/end/1579</field>
+<field name="datetime">1/29/2010 23:25:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100129_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100129_230000_Special_Report_With_Bret_Baier/FOXNEWS_20100129_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100129_230000_Special_Report_With_Bret_Baier_001524.jpg</field>
+<field name="snippet">on electricity and fuel in 2008. osama bin laden is blaming the u.s. and other industrialized countries for global warming. a new audiotape features bin laden denouncing the west for hunger, desertification and flooding across the globe.</field>
+</doc>
+</add>

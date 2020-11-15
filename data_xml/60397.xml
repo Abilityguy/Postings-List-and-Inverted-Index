@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_210000_BBC_News_at_Ten#start/359/end/394</field>
+<field name="datetime">10/8/2018 21:06:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20181008_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_210000_BBC_News_at_Ten/BBCNEWS_20181008_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20181008_210000_BBC_News_at_Ten_000358.jpg</field>
+<field name="snippet">as alarming as the message about climate change is, modern life keeps moving. so in the midst of an issue that's truly global, how can any one of us make choices to help the now urgent fight</field>
+</doc>
+</add>

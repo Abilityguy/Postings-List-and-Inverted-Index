@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091130_140000_Americas_Newsroom#start/5806/end/5841</field>
+<field name="datetime">11/30/2009 15:37:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20091130_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091130_140000_Americas_Newsroom/FOXNEWS_20091130_140000_Americas_Newsroom.thumbs/FOXNEWS_20091130_140000_Americas_Newsroom_005790.jpg</field>
+<field name="snippet">bill: that is a lot. 1.9 million jobs. what about that, nancy? i helped launch the chicago climate change years ago in cap and trade. here's what happens.</field>
+</doc>
+</add>

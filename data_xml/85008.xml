@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201211.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121102_100000_Morning_Joe#start/4321/end/4356</field>
+<field name="datetime">11/2/2012 11:12:16</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20121102_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121102_100000_Morning_Joe/MSNBCW_20121102_100000_Morning_Joe.thumbs/MSNBCW_20121102_100000_Morning_Joe_004318.jpg</field>
+<field name="snippet">us for two decades or more that one of the impacts of climate change is going to be to make the weather less predictable, more volatile, and we're going to see storms of the size we haven't seen before and in</field>
+</doc>
+</add>

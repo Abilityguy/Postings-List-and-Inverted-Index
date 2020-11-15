@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170707_184500_Newswatch#start/854/end/889</field>
+<field name="datetime">7/7/2017 18:59:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newswatch</field>
+<field name="showid">BBCNEWS_20170707_184500_Newswatch</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170707_184500_Newswatch/BBCNEWS_20170707_184500_Newswatch.thumbs/BBCNEWS_20170707_184500_Newswatch_000838.jpg</field>
+<field name="snippet">of 26. this is bbc news. i'm martine croxall. the headlines at 8pm: the first day of the g20 summit in hamburg has come to a close, with climate change, international trade, and terrorism at the top of the agenda. but all eyes were on the first meeting of donald trump and vladmir putin - the pair spent nearly two and a half</field>
+</doc>
+</add>

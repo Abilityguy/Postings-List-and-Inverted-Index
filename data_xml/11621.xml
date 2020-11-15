@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190826_050000_Breakfast#start/3025/end/3060</field>
+<field name="datetime">8/26/2019 5:50:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190826_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190826_050000_Breakfast/BBCNEWS_20190826_050000_Breakfast.thumbs/BBCNEWS_20190826_050000_Breakfast_003027.jpg</field>
+<field name="snippet">rejections weakened, more destruction to this really important tropical forest happens. we can't afford that, we can't afford a situation where a forest which is so critical to mitigating climate change is being destroyed in this</field>
+</doc>
+</add>

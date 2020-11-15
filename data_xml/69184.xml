@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201109.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20110915_170000_America_Live#start/3284/end/3319</field>
+<field name="datetime">9/15/2011 17:54:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWSW_20110915_170000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20110915_170000_America_Live/FOXNEWSW_20110915_170000_America_Live.thumbs/FOXNEWSW_20110915_170000_America_Live_003267.jpg</field>
+<field name="snippet">it's okay to discuss whether the mass of the proton changes over time and how multi universe behave, but the evidence of global warming is incontrovertible. the claim is the temperature has</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201804.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180413_040000_Tucker_Carlson_Tonight#start/3007/end/3042</field>
+<field name="datetime">4/13/2018 4:50:22</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20180413_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180413_040000_Tucker_Carlson_Tonight/FOXNEWSW_20180413_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20180413_040000_Tucker_Carlson_Tonight_002998.jpg</field>
+<field name="snippet">it will take 20 years to complete, costing the city nearly $40000 per mile. tucker: dude. did i get it right? tucker: you just made that up on the fly. you should be a global warming</field>
+</doc>
+</add>

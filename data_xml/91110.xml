@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190611_210000_The_Five#start/210/end/245</field>
+<field name="datetime">6/11/2019 21:03:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20190611_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190611_210000_The_Five/FOXNEWSW_20190611_210000_The_Five.thumbs/FOXNEWSW_20190611_210000_The_Five_000208.jpg</field>
+<field name="snippet">which is b.s. of course you can. and he believes calling somebody an existential threat is not as bad as saying fake news. but if you call somebody existential threat, you are putting them among hitler, isis, and climate change.</field>
+</doc>
+</add>

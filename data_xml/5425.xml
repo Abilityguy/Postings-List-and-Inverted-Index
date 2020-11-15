@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171206_130000_BBC_News_at_One#start/1111/end/1146</field>
+<field name="datetime">12/6/2017 13:18:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20171206_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171206_130000_BBC_News_at_One/BBCNEWS_20171206_130000_BBC_News_at_One.thumbs/BBCNEWS_20171206_130000_BBC_News_at_One_001107.jpg</field>
+<field name="snippet">good, more intense winds are forecast in the coming days. it has barely rained here in la for six months and you can tell. many scientists say climate change is driving more frequent and more destructive wildfires.</field>
+</doc>
+</add>

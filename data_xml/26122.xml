@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201003.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100323_170000_America_Live#start/5754/end/5789</field>
+<field name="datetime">3/23/2010 18:36:09</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWS_20100323_170000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100323_170000_America_Live/FOXNEWS_20100323_170000_America_Live.thumbs/FOXNEWS_20100323_170000_America_Live_005730.jpg</field>
+<field name="snippet">we simply do not have time on the legislative calendar or the political will necessary to push through what will likely be a long and devisive fight over climate change and energy.</field>
+</doc>
+</add>

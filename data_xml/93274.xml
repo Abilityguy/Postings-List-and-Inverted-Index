@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190726_230000_BBC_News#start/42/end/77</field>
+<field name="datetime">7/26/2019 23:00:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190726_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190726_230000_BBC_News/BBCNEWS_20190726_230000_BBC_News.thumbs/BBCNEWS_20190726_230000_BBC_News_000028.jpg</field>
+<field name="snippet">an agreement with guatemala to help stem the flow of migrants reaching its southern border. walking free - the british man who helped stop a cyber attack-against the national health service - only to stand trial for hacking in the usa. hundreds of wildfires are burning in the arctic circle - it's unprecedented, say scientists. climate change is driving</field>
+</doc>
+</add>

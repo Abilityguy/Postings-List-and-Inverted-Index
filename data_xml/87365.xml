@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191222_060000_Breakfast#start/8044/end/8079</field>
+<field name="datetime">12/22/2019 8:14:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191222_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191222_060000_Breakfast/BBCNEWS_20191222_060000_Breakfast.thumbs/BBCNEWS_20191222_060000_Breakfast_008038.jpg</field>
+<field name="snippet">joining us now from our cambridge studio is michael grubb, professor of energy and climate change at university college london. a very good morning to you. just explain to us, why has this heatwave</field>
+</doc>
+</add>

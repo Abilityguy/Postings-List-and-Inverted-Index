@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191125_133000_BBC_News#start/1461/end/1496</field>
+<field name="datetime">11/25/2019 13:54:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191125_133000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191125_133000_BBC_News/BBCNEWS_20191125_133000_BBC_News.thumbs/BBCNEWS_20191125_133000_BBC_News_001438.jpg</field>
+<field name="snippet">this here is the farmland, so all of that that we're seeing that's underwater now is usually farmers' fields. this is what the future of climate change looks like for a town like doncaster. you know, we're in a floodplain at the moment and as air pressures rise because of carbon releases and things like that, we're just</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190927_000000_Newsday#start/1828/end/1863</field>
+<field name="datetime">9/27/2019 0:30:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190927_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190927_000000_Newsday/BBCNEWS_20190927_000000_Newsday.thumbs/BBCNEWS_20190927_000000_Newsday_001827.jpg</field>
+<field name="snippet">and this video is trending on bbc.com: prince harry has praised the swedish campaigner, greta thunberg, and said the world will be a 'very, very troubling' place if people continue to deny climate change. he was speaking during a visit to botswana on his tour</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191122_010000_Tucker_Carlson_Tonight#start/514/end/549</field>
+<field name="datetime">11/22/2019 1:08:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20191122_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191122_010000_Tucker_Carlson_Tonight/FOXNEWSW_20191122_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20191122_010000_Tucker_Carlson_Tonight_000508.jpg</field>
+<field name="snippet">passing the first climate change bill, my friend was um, introducing more coal mines and produced more coal around the world, according to the press, than all of great britain produces.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201904.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190422_100000_Morning_Joe#start/10308/end/10343</field>
+<field name="datetime">4/22/2019 12:52:03</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20190422_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190422_100000_Morning_Joe/MSNBCW_20190422_100000_Morning_Joe.thumbs/MSNBCW_20190422_100000_Morning_Joe_010288.jpg</field>
+<field name="snippet">in new york city over the past five years, we have proven time and time again you can take on the big issues like income and equality and public safety and global warming. it can be done.</field>
+</doc>
+</add>

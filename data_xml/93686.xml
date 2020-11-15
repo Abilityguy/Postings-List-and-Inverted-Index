@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190710_180000_Beyond_100_Days#start/2784/end/2819</field>
+<field name="datetime">7/10/2019 18:46:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20190710_180000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190710_180000_Beyond_100_Days/BBCNEWS_20190710_180000_Beyond_100_Days.thumbs/BBCNEWS_20190710_180000_Beyond_100_Days_002759.jpg</field>
+<field name="snippet">this is beyond one hundred days. still to come - the uk government looked to be taking a bold step on tackling climate change but now some of its own advisors says it's not enough. now if you're feeling unwell and haven't got</field>
+</doc>
+</add>

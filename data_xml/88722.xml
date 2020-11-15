@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190612_120000_BBC_News_at_One#start/1176/end/1211</field>
+<field name="datetime">6/12/2019 12:19:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190612_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190612_120000_BBC_News_at_One/BBCNEWS_20190612_120000_BBC_News_at_One.thumbs/BBCNEWS_20190612_120000_BBC_News_at_One_001168.jpg</field>
+<field name="snippet">the government plans to cut net zero emissions by almost zero by 2050 to tackle global warming. a former gang member meets the police chief who put him behind bars to thank him. coming up on bbc news. the weather</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201004.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100426_100000_Morning_Joe#start/9241/end/9276</field>
+<field name="datetime">4/26/2010 12:34:16</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20100426_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20100426_100000_Morning_Joe/MSNBC_20100426_100000_Morning_Joe.thumbs/MSNBC_20100426_100000_Morning_Joe_009235.jpg</field>
+<field name="snippet">disaster can be declared. a climate change bill scheduled to be unveiled at a news conference later today is now up in the air after lindsey graham pulled out of the talks. on saturday graham declared that he couldn't support the legislation if democrats decided to priorize immigration reform.</field>
+</doc>
+</add>

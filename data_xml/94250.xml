@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170810_050000_Breakfast#start/5155/end/5190</field>
+<field name="datetime">8/10/2017 6:26:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20170810_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170810_050000_Breakfast/BBCNEWS_20170810_050000_Breakfast.thumbs/BBCNEWS_20170810_050000_Breakfast_005158.jpg</field>
+<field name="snippet">in a couple of minutes, we'll be speaking to former us vice president, al gore, about everything from current tensions with north korea, to donald trump pulling the us out of the paris climate change accord. that is coming up in around ten</field>
+</doc>
+</add>

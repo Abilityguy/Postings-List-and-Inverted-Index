@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200102_170000_BBC_News_at_Five#start/433/end/468</field>
+<field name="datetime">1/2/2020 17:07:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20200102_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200102_170000_BBC_News_at_Five/BBCNEWS_20200102_170000_BBC_News_at_Five.thumbs/BBCNEWS_20200102_170000_BBC_News_at_Five_000419.jpg</field>
+<field name="snippet">awkward squad who don't want to take action on climate change. they came out of it heavily criticised, on one example of double counting, trying to argue that if they sold gas to developing countries then those</field>
+</doc>
+</add>

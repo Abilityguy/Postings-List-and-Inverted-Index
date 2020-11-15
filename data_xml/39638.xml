@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091126_090000_Special_Report_With_Bret_Baier#start/81/end/116</field>
+<field name="datetime">11/26/2009 9:01:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091126_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091126_090000_Special_Report_With_Bret_Baier/FOXNEWS_20091126_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091126_090000_Special_Report_With_Bret_Baier_000056.jpg</field>
+<field name="snippet">before going to oslo, norway to receive the nobel peace prize. environmentalists will be watching. we're looking for a signal that climate and clean energy are going to be the next legislative priority after healthcare. mr. obama will promise to cut america's greenhouse gas</field>
+</doc>
+</add>

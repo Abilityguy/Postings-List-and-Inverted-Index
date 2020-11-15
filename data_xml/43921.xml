@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151201_180000_MSNBC_Live_With_Thomas_Roberts#start/3347/end/3382</field>
+<field name="datetime">12/1/2015 18:56:02</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Thomas Roberts</field>
+<field name="showid">MSNBCW_20151201_180000_MSNBC_Live_With_Thomas_Roberts</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151201_180000_MSNBC_Live_With_Thomas_Roberts/MSNBCW_20151201_180000_MSNBC_Live_With_Thomas_Roberts.thumbs/MSNBCW_20151201_180000_MSNBC_Live_With_Thomas_Roberts_003346.jpg</field>
+<field name="snippet">force? and as president obama wraps up his time in paris for the global climate change summit, we check in with the science guy for his thoughts on what can be done to slow the warming of the planet. this is the one place we're not afraid to fail.</field>
+</doc>
+</add>

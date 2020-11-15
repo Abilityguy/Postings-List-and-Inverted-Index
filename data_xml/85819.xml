@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201709.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170902_040000_BBC_News#start/934/end/969</field>
+<field name="datetime">9/2/2017 4:15:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170902_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170902_040000_BBC_News/BBCNEWS_20170902_040000_BBC_News.thumbs/BBCNEWS_20170902_040000_BBC_News_000927.jpg</field>
+<field name="snippet">events in the future? there are two interesting questions. one is easy, one is hard. the easy one is how much more rain there was because it was warmer. the difficult question is did climate change have any influence</field>
+</doc>
+</add>

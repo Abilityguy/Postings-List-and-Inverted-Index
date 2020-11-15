@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191118_050000_The_Briefing#start/1057/end/1092</field>
+<field name="datetime">11/18/2019 5:17:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20191118_050000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191118_050000_The_Briefing/BBCNEWS_20191118_050000_The_Briefing.thumbs/BBCNEWS_20191118_050000_The_Briefing_001048.jpg</field>
+<field name="snippet">it's been seen as deeply damaging. the burning of coal is a huge driver of climate change, producing around 40% of global carbon dioxide emissions.</field>
+</doc>
+</add>

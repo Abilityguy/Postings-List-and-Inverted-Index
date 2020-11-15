@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201909.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190923_130000_MSNBC_Live_With_Stephanie_Ruhle#start/1023/end/1058</field>
+<field name="datetime">9/23/2019 13:17:18</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Stephanie Ruhle</field>
+<field name="showid">MSNBCW_20190923_130000_MSNBC_Live_With_Stephanie_Ruhle</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190923_130000_MSNBC_Live_With_Stephanie_Ruhle/MSNBCW_20190923_130000_MSNBC_Live_With_Stephanie_Ruhle.thumbs/MSNBCW_20190923_130000_MSNBC_Live_With_Stephanie_Ruhle_001018.jpg</field>
+<field name="snippet">foreign policy will be on full display all week long. the rest of the world is talking about the climate crisis. e cris, little things can be a big deal.</field>
+</doc>
+</add>

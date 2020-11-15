@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201305.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130529_070000_All_In_With_Chris_Hayes#start/253/end/288</field>
+<field name="datetime">5/29/2013 7:04:28</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20130529_070000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130529_070000_All_In_With_Chris_Hayes/MSNBCW_20130529_070000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20130529_070000_All_In_With_Chris_Hayes_000226.jpg</field>
+<field name="snippet">here's chris christie answering nbc's matt lauer's question about the role of climate change in sandy. i haven't shown any definitive proof yet that's what caused it. and listen, this is distraction. i've got a place to rebuild here and people want to talk to me about esoteric theorys.</field>
+</doc>
+</add>

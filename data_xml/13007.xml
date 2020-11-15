@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201303.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130322_200000_Your_World_With_Neil_Cavuto#start/255/end/290</field>
+<field name="datetime">3/22/2013 20:04:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20130322_200000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130322_200000_Your_World_With_Neil_Cavuto/FOXNEWSW_20130322_200000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20130322_200000_Your_World_With_Neil_Cavuto_000255.jpg</field>
+<field name="snippet">issues, and these are headlines over the last year about whether it's global warming and winter is getting warmer and spring turning into summer, and summer turning into lava. how did we get this so wrong?</field>
+</doc>
+</add>

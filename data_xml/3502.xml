@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201506.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150607_230000_FOX_Report#start/328/end/363</field>
+<field name="datetime">6/7/2015 23:05:43</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report</field>
+<field name="showid">FOXNEWSW_20150607_230000_FOX_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150607_230000_FOX_Report/FOXNEWSW_20150607_230000_FOX_Report.thumbs/FOXNEWSW_20150607_230000_FOX_Report_000315.jpg</field>
+<field name="snippet">ukraine, combatting threats from violent extremism to climate change. kevin corke is in austria traveling with the white house press corps. kevin?</field>
+</doc>
+</add>

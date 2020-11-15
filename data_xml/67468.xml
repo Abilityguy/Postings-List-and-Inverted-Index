@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140524_110000_Weekends_With_Alex_Witt#start/2570/end/2605</field>
+<field name="datetime">5/24/2014 11:43:05</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20140524_110000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140524_110000_Weekends_With_Alex_Witt/MSNBCW_20140524_110000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20140524_110000_Weekends_With_Alex_Witt_002565.jpg</field>
+<field name="snippet">a lot of scientific debate and research happening not the fact that the storm is affected by climate change, whether that made the storm bigger or changed the way it happened, but what we do know is that the sea levels</field>
+</doc>
+</add>

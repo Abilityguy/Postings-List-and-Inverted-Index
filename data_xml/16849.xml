@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201811.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181124_170000_Weekends_With_Alex_Witt#start/833/end/868</field>
+<field name="datetime">11/24/2018 17:14:08</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20181124_170000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181124_170000_Weekends_With_Alex_Witt/MSNBCW_20181124_170000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20181124_170000_Weekends_With_Alex_Witt_000808.jpg</field>
+<field name="snippet">whatever happened with global warming? the white house did issue a statement when this report came out, and basically to reporters like myself, they said a couple things. one, thankfully the u.s. is leading the world in trying to</field>
+</doc>
+</add>

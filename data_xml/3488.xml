@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201506.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150619_220000_Special_Report_With_Bret_Baier#start/967/end/1002</field>
+<field name="datetime">6/19/2015 22:16:22</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20150619_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150619_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20150619_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20150619_220000_Special_Report_With_Bret_Baier_000945.jpg</field>
+<field name="snippet">year for the average household by 2030. all a part of the zrag's effort to cut pollution linked to global warming. but opponents say it will be virtually ineffective. these regulations will result in a savings of .003 of a degree</field>
+</doc>
+</add>

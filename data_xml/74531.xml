@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200115_220000_BBC_News_at_Ten#start/47/end/82</field>
+<field name="datetime">1/15/2020 22:01:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20200115_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200115_220000_BBC_News_at_Ten/BBCNEWS_20200115_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20200115_220000_BBC_News_at_Ten_000028.jpg</field>
+<field name="snippet">unless urgent action is taken, the rate of global warming is set to increase with drastic effects on our lives. it's going to impact on food supply and food security. it's going to impact on infrastructure. so we talk about critical infrastructure, the impact on electricity, the impact on schools, the impact on hospitals.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191102_000000_BBC_News#start/350/end/385</field>
+<field name="datetime">11/2/2019 0:06:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191102_000000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191102_000000_BBC_News/BBCNEWS_20191102_000000_BBC_News.thumbs/BBCNEWS_20191102_000000_BBC_News_000328.jpg</field>
+<field name="snippet">he talked about how he was born to be in this presidential race. but he struggled a bit during the campaign. there have been moments, there have been moments when he has really struck out, talking about climate change, particularly gun control after that shooting in the summer in</field>
+</doc>
+</add>

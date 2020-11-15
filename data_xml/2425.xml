@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200909.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20090921_100000_Morning_Joe#start/7681/end/7716</field>
+<field name="datetime">9/21/2009 12:08:16</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20090921_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20090921_100000_Morning_Joe/MSNBC_20090921_100000_Morning_Joe.thumbs/MSNBC_20090921_100000_Morning_Joe_007676.jpg</field>
+<field name="snippet">back and say, you were warned with the consequences. if you are a political leader it would be great if you could deal with the issues. tomorrow it will be climate change.</field>
+</doc>
+</add>

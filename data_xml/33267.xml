@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091203_050000_Hannity#start/1472/end/1507</field>
+<field name="datetime">12/3/2009 5:24:47</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20091203_050000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091203_050000_Hannity/FOXNEWS_20091203_050000_Hannity.thumbs/FOXNEWS_20091203_050000_Hannity_001470.jpg</field>
+<field name="snippet">now, -- scandal is growing tonight. it was shown that scientists attempted to hide evidence disproving man-made global warming, and now the director of the climate research unit at the</field>
+</doc>
+</add>

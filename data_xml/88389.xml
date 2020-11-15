@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190612_123000_BBC_News#start/205/end/240</field>
+<field name="datetime">6/12/2019 12:33:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190612_123000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190612_123000_BBC_News/BBCNEWS_20190612_123000_BBC_News.thumbs/BBCNEWS_20190612_123000_BBC_News_000177.jpg</field>
+<field name="snippet">to cut britain's net greenhouse gas emissions to almost zero by 2050 in order to tackle global warming. that's all from the bbc news at one, so it's goodbye from me, and on bbc one we nowjoin the bbc's news teams where you are.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190726_180000_BBC_News#start/2753/end/2788</field>
+<field name="datetime">7/26/2019 18:46:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190726_180000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190726_180000_BBC_News/BBCNEWS_20190726_180000_BBC_News.thumbs/BBCNEWS_20190726_180000_BBC_News_002727.jpg</field>
+<field name="snippet">we are joined via webcam by mark parrington, senior scientist at the copernicus atmosphere monitoring service, who provide data related to air pollution and greenhouse gases.</field>
+</doc>
+</add>

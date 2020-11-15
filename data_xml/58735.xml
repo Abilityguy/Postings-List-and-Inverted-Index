@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181130_140000_Afternoon_Live#start/4065/end/4100</field>
+<field name="datetime">11/30/2018 15:08:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20181130_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181130_140000_Afternoon_Live/BBCNEWS_20181130_140000_Afternoon_Live.thumbs/BBCNEWS_20181130_140000_Afternoon_Live_004047.jpg</field>
+<field name="snippet">security and global warming. but it's a summit marked by tensions and divisions among major powers, with the us and china locked in an escalating trade dispute, and western allies alarmed at russia's seizure of ukrainian ships. there's also tension with saudi arabia over the murder of the journalist jamal hashoggjee.</field>
+</doc>
+</add>

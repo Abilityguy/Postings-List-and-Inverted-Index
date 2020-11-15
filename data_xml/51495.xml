@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181207_110000_BBC_Newsroom_Live#start/3101/end/3136</field>
+<field name="datetime">12/7/2018 11:51:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20181207_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181207_110000_BBC_Newsroom_Live/BBCNEWS_20181207_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20181207_110000_BBC_Newsroom_Live_003087.jpg</field>
+<field name="snippet">if it ends up in landfill, its carbon footprint will be higher. because organic matter, which decomposes away from oxygen, produces methane, a greenhouse gas contributes to global warming.</field>
+</doc>
+</add>

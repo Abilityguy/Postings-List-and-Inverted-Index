@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201804.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180415_200000_World_News_Today#start/609/end/644</field>
+<field name="datetime">4/15/2018 20:10:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20180415_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180415_200000_World_News_Today/BBCNEWS_20180415_200000_World_News_Today.thumbs/BBCNEWS_20180415_200000_World_News_Today_000598.jpg</field>
+<field name="snippet">experts say that australia's annual bushfire season is starting earlier and ending later. they believe that climate change is making the threat worse. phil mercer, bbc news, sydney. let's take a look at some of the other</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201005.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100506_100000_Morning_Joe#start/7837/end/7872</field>
+<field name="datetime">5/6/2010 12:10:52</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20100506_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20100506_100000_Morning_Joe/MSNBC_20100506_100000_Morning_Joe.thumbs/MSNBC_20100506_100000_Morning_Joe_007830.jpg</field>
+<field name="snippet">right now of what we do with our energy policy. and the other thing we don't talk about is does there need to be some kind of carbon tax that would fund research into solar and greej energy? we're behind. as you know, maria, the chinese</field>
+</doc>
+</add>

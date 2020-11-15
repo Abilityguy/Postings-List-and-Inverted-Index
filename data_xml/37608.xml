@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091009_150000_Happening_Now#start/3953/end/3988</field>
+<field name="datetime">10/9/2009 16:06:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091009_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091009_150000_Happening_Now/FOXNEWS_20091009_150000_Happening_Now.thumbs/FOXNEWS_20091009_150000_Happening_Now_003953.jpg</field>
+<field name="snippet">he shared the prize in 2007 for his work on global warming. desmond tutu says it speaks to obama's vision of hope.</field>
+</doc>
+</add>

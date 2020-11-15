@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170430_090000_BBC_News#start/1301/end/1336</field>
+<field name="datetime">4/30/2017 9:21:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170430_090000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170430_090000_BBC_News/BBCNEWS_20170430_090000_BBC_News.thumbs/BBCNEWS_20170430_090000_BBC_News_001287.jpg</field>
+<field name="snippet">thousands of people across the united states took part in protests to express their concern about climate change. much of their anger was directed at president trump who has previously called climate change a hoax. 0rganisers said they wanted to put the debate firmly on the agenda for next year's midterm elections.</field>
+</doc>
+</add>

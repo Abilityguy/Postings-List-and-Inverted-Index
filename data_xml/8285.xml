@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190913_210000_The_Five#start/840/end/875</field>
+<field name="datetime">9/13/2019 21:14:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20190913_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190913_210000_The_Five/FOXNEWSW_20190913_210000_The_Five.thumbs/FOXNEWSW_20190913_210000_The_Five_000840.jpg</field>
+<field name="snippet">universal healthcare unleashing millions of new jobs in the clean energy economy. we will address the catastrophic crisis of climate change and transform our energy system away from fossil fuel.</field>
+</doc>
+</add>

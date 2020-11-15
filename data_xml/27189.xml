@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100218_160000_Happening_Now#start/353/end/388</field>
+<field name="datetime">2/18/2010 16:06:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20100218_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100218_160000_Happening_Now/FOXNEWS_20100218_160000_Happening_Now.thumbs/FOXNEWS_20100218_160000_Happening_Now_000330.jpg</field>
+<field name="snippet">place behind closed doors, prance in an effort to appease china, which doesn't like the meeting, their feelings matter because the administration needs beijing's help on a range of issues from nuclear standoffs in iran and north korea to climate change and the world economy.</field>
+</doc>
+</add>

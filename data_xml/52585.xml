@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181202_213000_Our_World#start/0/end/34</field>
+<field name="datetime">12/2/2018 21:30:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Our World</field>
+<field name="showid">BBCNEWS_20181202_213000_Our_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181202_213000_Our_World/BBCNEWS_20181202_213000_Our_World.thumbs/BBCNEWS_20181202_213000_Our_World_000058.jpg</field>
+<field name="snippet">this is bbc world news, the headlines: a conference aimed at securing new commmitments to cutting carbon emissions has opened in the polish city of katowice. the united nations climate chief told delegates the threat posed to humanity from climate change has 'never been worse'. president macron's government has promised tough action against anyone who resorted to violence</field>
+</doc>
+</add>

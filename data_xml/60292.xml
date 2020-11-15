@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181011_160000_BBC_News_at_Five#start/2907/end/2942</field>
+<field name="datetime">10/11/2018 16:48:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20181011_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181011_160000_BBC_News_at_Five/BBCNEWS_20181011_160000_BBC_News_at_Five.thumbs/BBCNEWS_20181011_160000_BBC_News_at_Five_002907.jpg</field>
+<field name="snippet">is the new advice from some scientists who say a flexitarian diet can tackle climate change, water scarcity and pollution. flexitarian means eating mainly pla nt-based foods,</field>
+</doc>
+</add>

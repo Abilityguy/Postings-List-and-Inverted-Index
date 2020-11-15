@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201303.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130328_150000_Happening_Now#start/5745/end/5780</field>
+<field name="datetime">3/28/2013 16:36:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20130328_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130328_150000_Happening_Now/FOXNEWSW_20130328_150000_Happening_Now.thumbs/FOXNEWSW_20130328_150000_Happening_Now_005745.jpg</field>
+<field name="snippet">in the last few years so i don't think this is going to happen any time soon. jon: are they pushing this for every country or just for the united states? reporter: for the developed countries they say that they should raise taxes to try to address climate change and all</field>
+</doc>
+</add>

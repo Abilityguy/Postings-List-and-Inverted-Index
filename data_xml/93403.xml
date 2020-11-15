@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190702_030000_BBC_News#start/1290/end/1325</field>
+<field name="datetime">7/2/2019 3:21:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190702_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190702_030000_BBC_News/BBCNEWS_20190702_030000_BBC_News.thumbs/BBCNEWS_20190702_030000_BBC_News_001289.jpg</field>
+<field name="snippet">the rich greens of the most vibrant habitat on earth. the billions of trees store so much carbon, they help to slow down global warming. they're also home to an amazing tenth of all species in the natural world, some unnerving.</field>
+</doc>
+</add>

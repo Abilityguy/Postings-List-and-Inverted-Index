@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201710.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20171017_200000_Your_World_With_Neil_Cavuto#start/2240/end/2275</field>
+<field name="datetime">10/17/2017 20:37:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20171017_200000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20171017_200000_Your_World_With_Neil_Cavuto/FOXNEWSW_20171017_200000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20171017_200000_Your_World_With_Neil_Cavuto_002218.jpg</field>
+<field name="snippet">day trying to peg you on climate change, sir. i know you tried to address it in the past. i want to know for the record, you said that you believe in climate change. you believe it in a large part could be contributing to it. but you don't take the leap</field>
+</doc>
+</add>

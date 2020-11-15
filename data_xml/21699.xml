@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100120_110000_FOX_and_Friends#start/361/end/396</field>
+<field name="datetime">1/20/2010 11:06:16</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100120_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100120_110000_FOX_and_Friends/FOXNEWS_20100120_110000_FOX_and_Friends.thumbs/FOXNEWS_20100120_110000_FOX_and_Friends_000353.jpg</field>
+<field name="snippet">regulation, climate change and even job packages. steve, gretchen and brian, back to you. a lot of people are asking this morning who is scott brown? he's sort of the underdog that came from nowhere to win an election that nobody thought he could do and everyone wants to</field>
+</doc>
+</add>

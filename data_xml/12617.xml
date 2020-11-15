@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170706_160000_BBC_News_at_Five#start/112/end/147</field>
+<field name="datetime">7/6/2017 16:02:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20170706_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170706_160000_BBC_News_at_Five/BBCNEWS_20170706_160000_BBC_News_at_Five.thumbs/BBCNEWS_20170706_160000_BBC_News_at_Five_000087.jpg</field>
+<field name="snippet">this summit could shape how the world responds to its most pressing issues for years to come. this is why, on the issue of climate change which angela merkel has chosen as the central theme, well, the united</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091207_210000_Your_World_With_Neil_Cavuto#start/408/end/443</field>
+<field name="datetime">12/7/2009 21:07:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWS_20091207_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091207_210000_Your_World_With_Neil_Cavuto/FOXNEWS_20091207_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWS_20091207_210000_Your_World_With_Neil_Cavuto_000386.jpg</field>
+<field name="snippet">geologically speaking, it was about time. every 50000 or seven a dozen years, you have an ice age, which makes it all the more surprising we are seeing global warming at this point. eric: i'm questioning the data,</field>
+</doc>
+</add>

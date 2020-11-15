@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201406.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140624_210000_The_Five#start/0/end/35</field>
+<field name="datetime">6/24/2014 21:00:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20140624_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140624_210000_The_Five/FOXNEWSW_20140624_210000_The_Five.thumbs/FOXNEWSW_20140624_210000_The_Five_000045.jpg</field>
+<field name="snippet">environmentalist, the same guy pumping $50 million to help democrats get elected on climate change. that's tomorrow on varny and company and we start promptly, dead shortstop 11:00 a.m. eastern. 'the five' is next.</field>
+</doc>
+</add>

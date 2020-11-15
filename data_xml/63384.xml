@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190307_130000_BBC_News_at_One#start/1180/end/1215</field>
+<field name="datetime">3/7/2019 13:19:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190307_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190307_130000_BBC_News_at_One/BBCNEWS_20190307_130000_BBC_News_at_One.thumbs/BBCNEWS_20190307_130000_BBC_News_at_One_001168.jpg</field>
+<field name="snippet">our top story. the eu has urged the uk to table new acceptable proposals on brexit by tomorrow, to break the negotiating deadlock. and coming up. back to the bucket. while climate change scientists have looking at this most basic of</field>
+</doc>
+</add>

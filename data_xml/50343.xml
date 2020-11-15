@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181206_050000_Tucker_Carlson_Tonight#start/2301/end/2336</field>
+<field name="datetime">12/6/2018 5:38:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20181206_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181206_050000_Tucker_Carlson_Tonight/FOXNEWSW_20181206_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20181206_050000_Tucker_Carlson_Tonight_002277.jpg</field>
+<field name="snippet">tucker: well, for decades now elites have told the rest of us that they are deeply, deeply concerned about climate change. much more concerned than we are because they are deeper and more thoughtful and compassionate people. bernie sanders, for example, deeply concerned. donald trump spoke last</field>
+</doc>
+</add>

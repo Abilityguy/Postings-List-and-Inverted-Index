@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201401.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140121_110000_FOX_and_Friends#start/5546/end/5581</field>
+<field name="datetime">1/21/2014 12:32:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20140121_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140121_110000_FOX_and_Friends/FOXNEWSW_20140121_110000_FOX_and_Friends.thumbs/FOXNEWSW_20140121_110000_FOX_and_Friends_005535.jpg</field>
+<field name="snippet">in america is right now? come on. this is what you're going to ask me? the biggest problem? well, inequality. global warming. i can't feel my toes right now. this is not a perfect example</field>
+</doc>
+</add>

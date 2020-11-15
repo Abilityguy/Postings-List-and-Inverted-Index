@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201502.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150224_100000_FOX_and_Friends_First#start/1187/end/1222</field>
+<field name="datetime">2/24/2015 10:20:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends First</field>
+<field name="showid">FOXNEWSW_20150224_100000_FOX_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150224_100000_FOX_and_Friends_First/FOXNEWSW_20150224_100000_FOX_and_Friends_First.thumbs/FOXNEWSW_20150224_100000_FOX_and_Friends_First_001185.jpg</field>
+<field name="snippet">millions of americans this morning. what do they have to say about climate change? this morning's edition of</field>
+</doc>
+</add>

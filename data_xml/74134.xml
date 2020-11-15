@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_043000_HARDtalk#start/1825/end/1860</field>
+<field name="datetime">1/16/2020 5:00:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">HARDtalk</field>
+<field name="showid">BBCNEWS_20200116_043000_HARDtalk</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_043000_HARDtalk/BBCNEWS_20200116_043000_HARDtalk.thumbs/BBCNEWS_20200116_043000_HARDtalk_001798.jpg</field>
+<field name="snippet">as president putin unveils plans that could prolong his stay in power? at the start of a special season on the climate crisis, sir david attenborough tells the bbc more needs to be done to tackle global warming.</field>
+</doc>
+</add>

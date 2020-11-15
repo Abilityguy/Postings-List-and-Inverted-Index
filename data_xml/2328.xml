@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170401_150000_Forbes_on_Fox#start/42/end/77</field>
+<field name="datetime">4/1/2017 15:00:57</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Forbes on Fox</field>
+<field name="showid">FOXNEWSW_20170401_150000_Forbes_on_Fox</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170401_150000_Forbes_on_Fox/FOXNEWSW_20170401_150000_Forbes_on_Fox.thumbs/FOXNEWSW_20170401_150000_Forbes_on_Fox_000057.jpg</field>
+<field name="snippet">war on president trump's executive order rolling back climate change regulations. new calls for a massive climate march later this month to accusing him of being, quote, an exstenstial threat.</field>
+</doc>
+</add>

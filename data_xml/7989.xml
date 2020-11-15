@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190923_230000_The_Story_With_Martha_MacCallum#start/3016/end/3051</field>
+<field name="datetime">9/23/2019 23:50:31</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Story With Martha MacCallum</field>
+<field name="showid">FOXNEWSW_20190923_230000_The_Story_With_Martha_MacCallum</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190923_230000_The_Story_With_Martha_MacCallum/FOXNEWSW_20190923_230000_The_Story_With_Martha_MacCallum.thumbs/FOXNEWSW_20190923_230000_The_Story_With_Martha_MacCallum_002998.jpg</field>
+<field name="snippet">a bloomberg editorial suggests meatless mondays. 'cattle are responsible for vastly more emissions than chickens and pigs in part because their digestive systems produce methane, a potent greenhouse gas.'</field>
+</doc>
+</add>

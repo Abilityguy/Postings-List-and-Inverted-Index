@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201002.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100211_170000_MSNBC_News_Live#start/1344/end/1379</field>
+<field name="datetime">2/11/2010 17:22:39</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100211_170000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100211_170000_MSNBC_News_Live/MSNBC_20100211_170000_MSNBC_News_Live.thumbs/MSNBC_20100211_170000_MSNBC_News_Live_001316.jpg</field>
+<field name="snippet">there is such a thing as too much snow. all right. i know, there are those out there, questioning. yeah, what about global warming? the climate fight, because of all this snow, heating up. we've got more to come here on msnbc.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201612.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161206_110000_FOX__Friends#start/7955/end/7990</field>
+<field name="datetime">12/6/2016 13:12:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20161206_110000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161206_110000_FOX__Friends/FOXNEWSW_20161206_110000_FOX__Friends.thumbs/FOXNEWSW_20161206_110000_FOX__Friends_007948.jpg</field>
+<field name="snippet">visited with ivanka and wound up meeting with donald trump. what is going on there? is he suddenly all about global warming? i'll leave it to the president-elect for his opinion.</field>
+</doc>
+</add>

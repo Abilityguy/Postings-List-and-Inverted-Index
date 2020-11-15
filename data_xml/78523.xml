@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201508.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150802_100000_Fox_and_Friends_Sunday#start/7774/end/7809</field>
+<field name="datetime">8/2/2015 12:09:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20150802_100000_Fox_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150802_100000_Fox_and_Friends_Sunday/FOXNEWSW_20150802_100000_Fox_and_Friends_Sunday.thumbs/FOXNEWSW_20150802_100000_Fox_and_Friends_Sunday_007755.jpg</field>
+<field name="snippet">morning. president obama calling it the biggest step yet to combat climate change. tomorrow he unveils tough new rules for coal-powered power plants. the goal is to gcut 32% of</field>
+</doc>
+</add>

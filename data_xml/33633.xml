@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_180000_The_Live_Desk#start/94/end/129</field>
+<field name="datetime">12/18/2009 18:01:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Live Desk</field>
+<field name="showid">FOXNEWS_20091218_180000_The_Live_Desk</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_180000_The_Live_Desk/FOXNEWS_20091218_180000_The_Live_Desk.thumbs/FOXNEWS_20091218_180000_The_Live_Desk_000053.jpg</field>
+<field name="snippet">some of the data is accurate. now 44% say they do not believe that there is a man-made impact on global warming. that is up 8 percentage points from may. i major garrett joins us live from copenhagen. the president is holding its</field>
+</doc>
+</add>

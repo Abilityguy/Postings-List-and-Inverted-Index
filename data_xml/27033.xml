@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100213_193000_FOX_News_Watch#start/1734/end/1769</field>
+<field name="datetime">2/13/2010 19:59:09</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Watch</field>
+<field name="showid">FOXNEWS_20100213_193000_FOX_News_Watch</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100213_193000_FOX_News_Watch/FOXNEWS_20100213_193000_FOX_News_Watch.thumbs/FOXNEWS_20100213_193000_FOX_News_Watch_001735.jpg</field>
+<field name="snippet">while i believe that global warming is man made and there is a real problem, i do have an issue with reporters. there are a lot of issues not be skeptical enough and not asking enough questions and not allowing for debate on issues</field>
+</doc>
+</add>

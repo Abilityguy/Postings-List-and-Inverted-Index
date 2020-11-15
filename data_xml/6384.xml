@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190906_203000_Inside_Out_West#start/1241/end/1276</field>
+<field name="datetime">9/6/2019 20:50:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Inside Out West</field>
+<field name="showid">BBCNEWS_20190906_203000_Inside_Out_West</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190906_203000_Inside_Out_West/BBCNEWS_20190906_203000_Inside_Out_West.thumbs/BBCNEWS_20190906_203000_Inside_Out_West_001228.jpg</field>
+<field name="snippet">climate change might be affecting the natural world. they analysed 50 yea rs of the natural world. they analysed 50 years of data, and found in the west, some long distance birds, like the swift were especially vulnerable</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170726_160000_BBC_News_at_Five#start/3565/end/3600</field>
+<field name="datetime">7/26/2017 16:59:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20170726_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170726_160000_BBC_News_at_Five/BBCNEWS_20170726_160000_BBC_News_at_Five.thumbs/BBCNEWS_20170726_160000_BBC_News_at_Five_003567.jpg</field>
+<field name="snippet">more needed to be done to tackle air pollution. we have to get rid of petrol and diesel cars off our roads if we're going to make sure that not only do we deal with the health problems that air pollution causes, but also that we meet our climate change targets.</field>
+</doc>
+</add>

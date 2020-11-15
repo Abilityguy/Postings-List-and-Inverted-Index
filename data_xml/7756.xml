@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170611_090000_Fox_Report_Saturday#start/1488/end/1523</field>
+<field name="datetime">6/11/2017 9:25:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox Report Saturday</field>
+<field name="showid">FOXNEWSW_20170611_090000_Fox_Report_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170611_090000_Fox_Report_Saturday/FOXNEWSW_20170611_090000_Fox_Report_Saturday.thumbs/FOXNEWSW_20170611_090000_Fox_Report_Saturday_001467.jpg</field>
+<field name="snippet">president trump taking such an outlandish position, he's actually heightened the focus on climate change. anita vogel has the story from los angeles. so anita, what does governor jerry brown plan to do here?</field>
+</doc>
+</add>

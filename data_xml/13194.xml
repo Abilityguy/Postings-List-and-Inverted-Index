@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201101.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110128_210000_Your_World_With_Neil_Cavuto#start/2936/end/2971</field>
+<field name="datetime">1/28/2011 21:49:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWS_20110128_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110128_210000_Your_World_With_Neil_Cavuto/FOXNEWS_20110128_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWS_20110128_210000_Your_World_With_Neil_Cavuto_002933.jpg</field>
+<field name="snippet">energy policy that puts us on the track to energy security deals with climate change and a serious conservation move to natural gas and move away from coal and build if the green</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180610_040000_BBC_News#start/1170/end/1205</field>
+<field name="datetime">6/10/2018 4:19:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180610_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180610_040000_BBC_News/BBCNEWS_20180610_040000_BBC_News.thumbs/BBCNEWS_20180610_040000_BBC_News_001167.jpg</field>
+<field name="snippet">pope francis has told oil executives that climate change is a challenge of huge proportions. he said that while society had a 'thirst' for energy, its use must not destroy civilisation, and urged the executives gathered at the vatican to help the world move to clean energy. danny aeberhard has more.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190910_090000_Victoria_Derbyshire#start/351/end/386</field>
+<field name="datetime">9/10/2019 9:06:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20190910_090000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190910_090000_Victoria_Derbyshire/BBCNEWS_20190910_090000_Victoria_Derbyshire.thumbs/BBCNEWS_20190910_090000_Victoria_Derbyshire_000328.jpg</field>
+<field name="snippet">investment in five areas, including agriculture, water supplies and infrastructure, could help the planet become more resilient in the face of climate change, according to a study by leaders in politics, business and science.</field>
+</doc>
+</add>

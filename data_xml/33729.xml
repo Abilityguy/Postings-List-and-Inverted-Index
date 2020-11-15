@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091219_120000_FOX_and_Friends_Saturday#start/8186/end/8221</field>
+<field name="datetime">12/19/2009 14:16:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWS_20091219_120000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091219_120000_FOX_and_Friends_Saturday/FOXNEWS_20091219_120000_FOX_and_Friends_Saturday.thumbs/FOXNEWS_20091219_120000_FOX_and_Friends_Saturday_008160.jpg</field>
+<field name="snippet">speaking now. go ahead, dan. the environmental protection agency looked at impact on gasoline prices of a clean energy and global warming bill and said the price of gasoline would go up about two cents a year and that's less volatility than a typical month and second looked at utility prices.</field>
+</doc>
+</add>

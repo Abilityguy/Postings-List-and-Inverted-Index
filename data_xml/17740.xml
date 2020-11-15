@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170112_090000_Special_Report_With_Bret_Baier#start/954/end/989</field>
+<field name="datetime">1/12/2017 9:16:09</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20170112_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170112_090000_Special_Report_With_Bret_Baier/FOXNEWSW_20170112_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20170112_090000_Special_Report_With_Bret_Baier_000927.jpg</field>
+<field name="snippet">this hearing ended 2 minutes ago. before it concluded, they moved beyond exxon and russia. tillerson says he does not see climate change as an imminent national security threats. he says he opposes fully lifting</field>
+</doc>
+</add>

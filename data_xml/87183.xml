@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191211_040000_BBC_News#start/45/end/80</field>
+<field name="datetime">12/11/2019 4:01:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191211_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191211_040000_BBC_News/BBCNEWS_20191211_040000_BBC_News.thumbs/BBCNEWS_20191211_040000_BBC_News_000029.jpg</field>
+<field name="snippet">further eruptions keep recovery teams away from the volcanic island in new zealand where 8 more people are feared dead. and new evidence says climate change is causing greenland's ice</field>
+</doc>
+</add>

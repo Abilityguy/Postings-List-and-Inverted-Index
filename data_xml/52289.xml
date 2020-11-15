@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181209_230000_BBC_News#start/1714/end/1749</field>
+<field name="datetime">12/9/2018 23:28:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181209_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181209_230000_BBC_News/BBCNEWS_20181209_230000_BBC_News.thumbs/BBCNEWS_20181209_230000_BBC_News_001708.jpg</field>
+<field name="snippet">of the british backpacker, grace millane. police investigating her disappearance say they have found a body on the outskirts of aukland. and the us, russia and saudi arabia have angered other countries at the un climate change conference in poland by blocking the adoption</field>
+</doc>
+</add>

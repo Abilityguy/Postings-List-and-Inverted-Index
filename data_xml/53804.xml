@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201807.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180724_100000_BBC_Newsroom_Live#start/4852/end/4887</field>
+<field name="datetime">7/24/2018 11:21:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20180724_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180724_100000_BBC_Newsroom_Live/BBCNEWS_20180724_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20180724_100000_BBC_Newsroom_Live_004827.jpg</field>
+<field name="snippet">the immediate cause for the dam to break was the monsoon rains in the last few days. but also this is not climate change. all those factors actually contributed to that disaster.</field>
+</doc>
+</add>

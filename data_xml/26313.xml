@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201109.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20110908_100000_Morning_Joe#start/550/end/585</field>
+<field name="datetime">9/8/2011 10:09:25</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20110908_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20110908_100000_Morning_Joe/MSNBCW_20110908_100000_Morning_Joe.thumbs/MSNBCW_20110908_100000_Morning_Joe_000537.jpg</field>
+<field name="snippet">what was your take away? similar to what's been said around the table. last night, rick perry questioned global warming. the comment about ben bernanke.</field>
+</doc>
+</add>

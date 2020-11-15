@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181117_210000_World_News_Today#start/644/end/679</field>
+<field name="datetime">11/17/2018 21:10:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20181117_210000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181117_210000_World_News_Today/BBCNEWS_20181117_210000_World_News_Today.thumbs/BBCNEWS_20181117_210000_World_News_Today_000628.jpg</field>
+<field name="snippet">on climate change. it followed a week of action by the campaign group extinction rebellion. the group said 6000 people had joined the demonstrations and there'd been 45 arrests. a war crimes suspect in the central african republic has been detained and handed over</field>
+</doc>
+</add>

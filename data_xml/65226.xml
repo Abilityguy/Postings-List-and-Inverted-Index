@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190320_030000_Fox_News__Night_With_Shannon_Bream#start/1801/end/1836</field>
+<field name="datetime">3/20/2019 3:30:16</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News  Night With Shannon Bream</field>
+<field name="showid">FOXNEWSW_20190320_030000_Fox_News__Night_With_Shannon_Bream</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190320_030000_Fox_News__Night_With_Shannon_Bream/FOXNEWSW_20190320_030000_Fox_News__Night_With_Shannon_Bream.thumbs/FOXNEWSW_20190320_030000_Fox_News__Night_With_Shannon_Bream_001798.jpg</field>
+<field name="snippet">anti-fracking stance, tweeting, 'fracking pollutes water, degrade air quality, and worsens climate change.' sanders is now second in most polls just beneath former vice president joe biden, who has yet to announce a run,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201002.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100218_110000_Morning_Joe#start/10192/end/10227</field>
+<field name="datetime">2/18/2010 13:50:07</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20100218_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20100218_110000_Morning_Joe/MSNBC_20100218_110000_Morning_Joe.thumbs/MSNBC_20100218_110000_Morning_Joe_010106.jpg</field>
+<field name="snippet">somewhere in america. the slightest breeze harbors immense power. the tallest buildings leave the lightest footprints. a fifty-ton train makes barely a mark on the environment. and a country facing climate change</field>
+</doc>
+</add>

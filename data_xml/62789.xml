@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201308.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130816_170000_America_Live#start/6514/end/6549</field>
+<field name="datetime">8/16/2013 18:48:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWSW_20130816_170000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130816_170000_America_Live/FOXNEWSW_20130816_170000_America_Live.thumbs/FOXNEWSW_20130816_170000_America_Live_006495.jpg</field>
+<field name="snippet">says 97% of global climate change experts are in agreement that climate change is created by humans and that it has potentially catastrophic effects and we need to act now. that's point one. point two is i would disagree with the setup piece that says</field>
+</doc>
+</add>

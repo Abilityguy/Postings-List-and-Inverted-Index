@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190617_120000_BBC_News_at_One#start/1558/end/1593</field>
+<field name="datetime">6/17/2019 12:26:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190617_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190617_120000_BBC_News_at_One/BBCNEWS_20190617_120000_BBC_News_at_One.thumbs/BBCNEWS_20190617_120000_BBC_News_at_One_001558.jpg</field>
+<field name="snippet">last week, it was build targets to tackle climate change. today theresa may has announced how she wants to overhaul mental health support in schools before she leaves number ten. we are pledging that every new teacher will be trained in how to spot the signs of a mental health</field>
+</doc>
+</add>

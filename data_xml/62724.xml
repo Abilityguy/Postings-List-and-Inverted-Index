@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201202.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120206_160000_MSNBC_Live#start/2855/end/2890</field>
+<field name="datetime">2/6/2012 16:47:50</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20120206_160000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120206_160000_MSNBC_Live/MSNBCW_20120206_160000_MSNBC_Live.thumbs/MSNBCW_20120206_160000_MSNBC_Live_002846.jpg</field>
+<field name="snippet">thinking about the world we're leaving behind for our children. we're watching as our children are having trouble with a tough economy, as they are having trouble getting jobs, we're watching air pollution, global warming issues, and we're thinking we're what kind of</field>
+</doc>
+</add>

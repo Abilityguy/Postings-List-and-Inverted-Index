@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201306.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130625_160000_NOW_With_Alex_Wagner#start/2284/end/2319</field>
+<field name="datetime">6/25/2013 16:38:19</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20130625_160000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130625_160000_NOW_With_Alex_Wagner/MSNBCW_20130625_160000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20130625_160000_NOW_With_Alex_Wagner_002265.jpg</field>
+<field name="snippet">in today's speech president obama will use executive action to call for tougher efficiency standards for home eappliances and prepare the country for the impacts of climate change.</field>
+</doc>
+</add>

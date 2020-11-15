@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171214_130000_BBC_News_at_One#start/806/end/841</field>
+<field name="datetime">12/14/2017 13:13:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20171214_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171214_130000_BBC_News_at_One/BBCNEWS_20171214_130000_BBC_News_at_One.thumbs/BBCNEWS_20171214_130000_BBC_News_at_One_000807.jpg</field>
+<field name="snippet">whether they approve the blueprint for the second phase of the negotiations, opening the way for a discussion about an implementation period of about two years starting in 2019 although they will probably say they don't want to talk about the shape of the future relationship and cooperation on trade, climate</field>
+</doc>
+</add>

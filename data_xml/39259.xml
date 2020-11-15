@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201212.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121204_210000_Your_World_With_Neil_Cavuto#start/2057/end/2092</field>
+<field name="datetime">12/4/2012 21:34:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20121204_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121204_210000_Your_World_With_Neil_Cavuto/FOXNEWSW_20121204_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20121204_210000_Your_World_With_Neil_Cavuto_002038.jpg</field>
+<field name="snippet">the bank is setting the same for a carbon tax here in washington, dc. that is what they are trying, the treasury, is trying to do and there is fear that even republicans are going to do it as a revenue neutral part of tax reform.</field>
+</doc>
+</add>

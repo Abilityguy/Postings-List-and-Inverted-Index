@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201505.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150524_100000_FOX_and_Friends_Sunday#start/13548/end/13583</field>
+<field name="datetime">5/24/2015 13:46:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20150524_100000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150524_100000_FOX_and_Friends_Sunday/FOXNEWSW_20150524_100000_FOX_and_Friends_Sunday.thumbs/FOXNEWSW_20150524_100000_FOX_and_Friends_Sunday_013545.jpg</field>
+<field name="snippet">good morning thanks for having me. let's talk about vice president joe biden doubling down on president obama's speech about how climate change is integral for global security and that's being the headline of a speech. do you think their priorities are in the right place on that? i think it's probably not</field>
+</doc>
+</add>

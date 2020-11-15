@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190307_130000_BBC_News_at_One#start/1811/end/1846</field>
+<field name="datetime">3/7/2019 13:30:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190307_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190307_130000_BBC_News_at_One/BBCNEWS_20190307_130000_BBC_News_at_One.thumbs/BBCNEWS_20190307_130000_BBC_News_at_One_001798.jpg</field>
+<field name="snippet">so generations on, the temperatures taken by old sailors and their buckets are helping to shape global decisions on climate change. richard wescott, bbc news, southampton. the queen has passed something</field>
+</doc>
+</add>

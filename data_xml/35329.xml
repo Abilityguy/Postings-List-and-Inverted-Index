@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201910.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191022_210000_MTP_Daily#start/2555/end/2590</field>
+<field name="datetime">10/22/2019 21:42:50</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20191022_210000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191022_210000_MTP_Daily/MSNBCW_20191022_210000_MTP_Daily.thumbs/MSNBCW_20191022_210000_MTP_Daily_002549.jpg</field>
+<field name="snippet">we resist the encroachment of climate change, trying to deal with the homelessness crisis for instance here in los angeles without the interference of washington. but i think that what we see here is more crimes every day by</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201804.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180420_190000_BBC_News#start/2016/end/2051</field>
+<field name="datetime">4/20/2018 19:33:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180420_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180420_190000_BBC_News/BBCNEWS_20180420_190000_BBC_News.thumbs/BBCNEWS_20180420_190000_BBC_News_002007.jpg</field>
+<field name="snippet">one of the key announcements was the agreement to protect oceans from the effects of climate change, pollution and over-fishing. last year , several caribbean islands were battered by tropical storms , leaving devastation in their wake. the prime minister of grenada said that agreement to tackle climate change was vital to region. witnessing the level of disaster</field>
+</doc>
+</add>

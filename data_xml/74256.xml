@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_140000_Afternoon_Live#start/176/end/211</field>
+<field name="datetime">1/17/2020 14:03:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20200117_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_140000_Afternoon_Live/BBCNEWS_20200117_140000_Afternoon_Live.thumbs/BBCNEWS_20200117_140000_Afternoon_Live_000177.jpg</field>
+<field name="snippet">good afternoon from the glasgow science centre. collaboration, cooperation, getting people in the room together at the same time, the right people, those are the recurring ideas i've been hearing so far today in glasgow when it comes to tackling climate change in</field>
+</doc>
+</add>

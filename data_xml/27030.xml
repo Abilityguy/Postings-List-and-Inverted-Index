@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100213_040000_The_OReilly_Factor#start/2349/end/2384</field>
+<field name="datetime">2/13/2010 4:39:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20100213_040000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100213_040000_The_OReilly_Factor/FOXNEWS_20100213_040000_The_OReilly_Factor.thumbs/FOXNEWS_20100213_040000_The_OReilly_Factor_002334.jpg</field>
+<field name="snippet">should be seen because it doesn't look like that whole global warming thick is working out the way they predicted. bill: okay. earlier this week. i'm watching your program and you know you pay me now to do that and i really appreciate it.</field>
+</doc>
+</add>

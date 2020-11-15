@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200911.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091125_110000_Morning_Joe#start/2338/end/2373</field>
+<field name="datetime">11/25/2009 11:39:13</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20091125_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20091125_110000_Morning_Joe/MSNBC_20091125_110000_Morning_Joe.thumbs/MSNBC_20091125_110000_Morning_Joe_002340.jpg</field>
+<field name="snippet">'washington post'/abc news poll. 72% of americans believe in global warming, a drop from 80% last year. but a majority supports a cap on greenhouse gas emissions with 53% backing a cap and trade bill</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091115_030000_Geraldo_at_Large#start/1930/end/1965</field>
+<field name="datetime">11/15/2009 3:32:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Geraldo at Large</field>
+<field name="showid">FOXNEWS_20091115_030000_Geraldo_at_Large</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091115_030000_Geraldo_at_Large/FOXNEWS_20091115_030000_Geraldo_at_Large.thumbs/FOXNEWS_20091115_030000_Geraldo_at_Large_001920.jpg</field>
+<field name="snippet">bounty hunter, let's catch up on the president's first official trip to asia. we have been talking about everything from north korea's belligerence to china's economic muscle and tossing in climate change and hints of</field>
+</doc>
+</add>

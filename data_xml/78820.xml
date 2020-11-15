@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20200102_010000_Tucker_Carlson_Tonight#start/3330/end/3365</field>
+<field name="datetime">1/2/2020 1:55:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20200102_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20200102_010000_Tucker_Carlson_Tonight/FOXNEWSW_20200102_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20200102_010000_Tucker_Carlson_Tonight_003329.jpg</field>
+<field name="snippet">it's working people who are working hard every single day. tried to make and beat. they can afford their health care. they can't get treatment. what is the media focused on? whether cows contribute to climate change.</field>
+</doc>
+</add>

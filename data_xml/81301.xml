@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091208_200000_MSNBC_News_Live#start/1511/end/1546</field>
+<field name="datetime">12/8/2009 20:25:26</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091208_200000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091208_200000_MSNBC_News_Live/MSNBC_20091208_200000_MSNBC_News_Live.thumbs/MSNBC_20091208_200000_MSNBC_News_Live_001500.jpg</field>
+<field name="snippet">proce protesters. the protesters were demanding meaningful action in the fight against global warming. the environmental group green peace helped plaster the copenhagen airport with head-turning ads world leaders,</field>
+</doc>
+</add>

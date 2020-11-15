@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091209_140000_Americas_Newsroom#start/321/end/356</field>
+<field name="datetime">12/9/2009 14:05:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20091209_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091209_140000_Americas_Newsroom/FOXNEWS_20091209_140000_Americas_Newsroom.thumbs/FOXNEWS_20091209_140000_Americas_Newsroom_000293.jpg</field>
+<field name="snippet">well-received by stock traders. we will find out about 25 minutes when the opening bell sounds on wall street. martha: the u.n. climate change summit is going on in</field>
+</doc>
+</add>

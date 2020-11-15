@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201409.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140923_220000_Special_Report_With_Bret_Baier#start/1062/end/1097</field>
+<field name="datetime">9/23/2014 22:17:57</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20140923_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140923_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20140923_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20140923_220000_Special_Report_With_Bret_Baier_001035.jpg</field>
+<field name="snippet">century. reporter: at the united nations summit on climate change, a promise to combat a warming climate. president obama vowed the u.s. would help other nations avert a coming crisis. climate is changing falser than our efforts to address it.</field>
+</doc>
+</add>

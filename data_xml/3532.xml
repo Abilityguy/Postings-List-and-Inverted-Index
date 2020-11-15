@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201506.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150622_080000_FOX_Report#start/970/end/1005</field>
+<field name="datetime">6/22/2015 8:16:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report</field>
+<field name="showid">FOXNEWSW_20150622_080000_FOX_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150622_080000_FOX_Report/FOXNEWSW_20150622_080000_FOX_Report.thumbs/FOXNEWSW_20150622_080000_FOX_Report_000945.jpg</field>
+<field name="snippet">reporter: the catholic church's focus on the environment. pope francis said we should do more to address what he calls the human caused climate change that's threatening all of us especially the poor.</field>
+</doc>
+</add>

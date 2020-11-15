@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201106.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110610_230000_Hardball_With_Chris_Matthews#start/17/end/52</field>
+<field name="datetime">6/10/2011 23:00:32</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball With Chris Matthews</field>
+<field name="showid">MSNBC_20110610_230000_Hardball_With_Chris_Matthews</field>
+<field name="preview">https://archive.org/download/MSNBC_20110610_230000_Hardball_With_Chris_Matthews/MSNBC_20110610_230000_Hardball_With_Chris_Matthews.thumbs/MSNBC_20110610_230000_Hardball_With_Chris_Matthews_000030.jpg</field>
+<field name="snippet">temperature rose .7 degrees celsius or 1.3 degrees fahrenhe fahrenheit. rush, global warming is real. it's pronounced cenk uygur.</field>
+</doc>
+</add>

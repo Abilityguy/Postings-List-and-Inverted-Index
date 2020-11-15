@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091220_190000_FOX_News_Sunday_With_Chris_Wallace#start/47/end/82</field>
+<field name="datetime">12/20/2009 19:01:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Sunday With Chris Wallace</field>
+<field name="showid">FOXNEWS_20091220_190000_FOX_News_Sunday_With_Chris_Wallace</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091220_190000_FOX_News_Sunday_With_Chris_Wallace/FOXNEWS_20091220_190000_FOX_News_Sunday_With_Chris_Wallace.thumbs/FOXNEWS_20091220_190000_FOX_News_Sunday_With_Chris_Wallace_000030.jpg</field>
+<field name="snippet">and amy klobuchar. plus, the copenhagen compromise. a meaningful deal or empty rhetoric. we will ask what it means for global warming and president obama's image.</field>
+</doc>
+</add>

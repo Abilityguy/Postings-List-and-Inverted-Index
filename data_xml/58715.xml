@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181130_210000_BBC_News#start/576/end/611</field>
+<field name="datetime">11/30/2018 21:09:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181130_210000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181130_210000_BBC_News/BBCNEWS_20181130_210000_BBC_News.thumbs/BBCNEWS_20181130_210000_BBC_News_000567.jpg</field>
+<field name="snippet">across france against increases in fuel prices. france's president marcon has raised fuel duties as part of an effort to reduce emissions which cause global warming. reports from the us say president trump has put in a request to extend the deployment of troops</field>
+</doc>
+</add>

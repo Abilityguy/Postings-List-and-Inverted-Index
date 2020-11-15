@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190419_190000_BBC_News#start/1127/end/1162</field>
+<field name="datetime">4/19/2019 19:19:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190419_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190419_190000_BBC_News/BBCNEWS_20190419_190000_BBC_News.thumbs/BBCNEWS_20190419_190000_BBC_News_001108.jpg</field>
+<field name="snippet">so far, nearly 700 people have been arrested. protestors want to raise awareness of climate change - and are demanding a drastic speeding up of the government's plan to cut carbon emissions. but many argue their target is unrealistic. 0ur correspondent</field>
+</doc>
+</add>

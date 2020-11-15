@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201103.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110312_020000_The_Rachel_Maddow_Show#start/710/end/745</field>
+<field name="datetime">3/12/2011 2:12:05</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBC_20110312_020000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20110312_020000_The_Rachel_Maddow_Show/MSNBC_20110312_020000_The_Rachel_Maddow_Show.thumbs/MSNBC_20110312_020000_The_Rachel_Maddow_Show_000685.jpg</field>
+<field name="snippet">mitigate climate change. our organization you see is not opposed to nuclear power, per se. we worry about climate change and understand nuclear power is one option, but we shouldn't take that option off the table by running nuclear power plants</field>
+</doc>
+</add>

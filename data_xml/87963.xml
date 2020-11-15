@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191227_123000_The_Travel_Show#start/46/end/81</field>
+<field name="datetime">12/27/2019 12:31:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Travel Show</field>
+<field name="showid">BBCNEWS_20191227_123000_The_Travel_Show</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191227_123000_The_Travel_Show/BBCNEWS_20191227_123000_The_Travel_Show.thumbs/BBCNEWS_20191227_123000_The_Travel_Show_000028.jpg</field>
+<field name="snippet">very much. the national trust says that there's been an increase in wildlife migrating to the uk because of climate change. it's also warning that some of the country's native species were harmed by the varied weather during 2019. fiona lamdin reports from ebworth estate in gloucestershire.</field>
+</doc>
+</add>

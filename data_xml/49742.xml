@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201609.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160918_100000_Fox_and_Friends_Sunday#start/5199/end/5234</field>
+<field name="datetime">9/18/2016 11:26:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20160918_100000_Fox_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160918_100000_Fox_and_Friends_Sunday/FOXNEWSW_20160918_100000_Fox_and_Friends_Sunday.thumbs/FOXNEWSW_20160918_100000_Fox_and_Friends_Sunday_005187.jpg</field>
+<field name="snippet">i hope we're not going to talk about climate change. we're going to talk about how do we defeat this enemy. you go back to the last presidential campaign in 2012, president obama was saying al qaeda was on the run. after that, told a new yorker</field>
+</doc>
+</add>

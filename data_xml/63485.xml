@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190302_210000_World_News_Today#start/25/end/60</field>
+<field name="datetime">3/2/2019 21:00:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190302_210000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190302_210000_World_News_Today/BBCNEWS_20190302_210000_World_News_Today.thumbs/BBCNEWS_20190302_210000_World_News_Today_001708.jpg</field>
+<field name="snippet">protests about climate change. she said students might be frustrated at the time taken to move away from coal-based energy but asked them to understand it was a challenge. the us-backed syrian democratic forces say they're making a final push on the last village held by islamic state</field>
+</doc>
+</add>

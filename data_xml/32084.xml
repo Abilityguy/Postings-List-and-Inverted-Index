@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201012.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101205_120000_FOX_and_Friends_Sunday#start/2510/end/2545</field>
+<field name="datetime">12/5/2010 12:42:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWS_20101205_120000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101205_120000_FOX_and_Friends_Sunday/FOXNEWS_20101205_120000_FOX_and_Friends_Sunday.thumbs/FOXNEWS_20101205_120000_FOX_and_Friends_Sunday_002490.jpg</field>
+<field name="snippet">up, mental health professionals are dropping personality disorders like narssism. why some people say it's not about people, it's about money. and the united nations delegates meeting to discuss climate change and the u.s. is</field>
+</doc>
+</add>

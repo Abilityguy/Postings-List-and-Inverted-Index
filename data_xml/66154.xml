@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201808.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20180823_210000_MTP_Daily#start/1933/end/1968</field>
+<field name="datetime">8/23/2018 21:32:28</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20180823_210000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20180823_210000_MTP_Daily/MSNBCW_20180823_210000_MTP_Daily.thumbs/MSNBCW_20180823_210000_MTP_Daily_001917.jpg</field>
+<field name="snippet">it used to not be climate change, it used to be global warming. that wasn't working too well because it was getting too cold all over the place. we have some bad hombres here and we're to get him out.</field>
+</doc>
+</add>

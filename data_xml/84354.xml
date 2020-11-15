@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190422_093000_Victoria_Derbyshire#start/70/end/105</field>
+<field name="datetime">4/22/2019 9:31:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20190422_093000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190422_093000_Victoria_Derbyshire/BBCNEWS_20190422_093000_Victoria_Derbyshire.thumbs/BBCNEWS_20190422_093000_Victoria_Derbyshire_000057.jpg</field>
+<field name="snippet">a week of climate change protests on waterloo bridge in london are brought to an end by police, who removed the final activists from the site late last night. and now on bbc news victoria derbyshire takes a look back at some of the highlights</field>
+</doc>
+</add>

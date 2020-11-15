@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201401.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140127_030000_Stossel#start/3480/end/3515</field>
+<field name="datetime">1/27/2014 3:58:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Stossel</field>
+<field name="showid">FOXNEWSW_20140127_030000_Stossel</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140127_030000_Stossel/FOXNEWSW_20140127_030000_Stossel.thumbs/FOXNEWSW_20140127_030000_Stossel_003465.jpg</field>
+<field name="snippet">every week. it will be years before we know whether global warming is a threat. possibly by then if we haven't crushed our economy with soup and regulation we will invent good enough technology to do something about it. we don't have in now.</field>
+</doc>
+</add>

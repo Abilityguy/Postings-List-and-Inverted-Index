@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190910_080000_BBC_News_at_Nine#start/1196/end/1231</field>
+<field name="datetime">9/10/2019 8:20:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190910_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190910_080000_BBC_News_at_Nine/BBCNEWS_20190910_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190910_080000_BBC_News_at_Nine_001198.jpg</field>
+<field name="snippet">victoria gill to explain more. from record-breaking heat waves, to more violent storms, scientists agree that the impacts of climate change are playing out around the</field>
+</doc>
+</add>

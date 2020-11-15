@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190503_130000_Election_2019#start/3037/end/3072</field>
+<field name="datetime">5/3/2019 13:50:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Election 2019</field>
+<field name="showid">BBCNEWS_20190503_130000_Election_2019</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190503_130000_Election_2019/BBCNEWS_20190503_130000_Election_2019.thumbs/BBCNEWS_20190503_130000_Election_2019_003028.jpg</field>
+<field name="snippet">like climate change, where we are leading the debate, and on whole areas on crime, where we have been arguing for more police, there is bread and butter issues, i think we have got very strong positions.</field>
+</doc>
+</add>

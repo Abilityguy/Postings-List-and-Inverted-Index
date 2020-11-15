@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200907.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20090714_180000_MSNBC_News_Live#start/2004/end/2039</field>
+<field name="datetime">7/14/2009 18:33:39</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20090714_180000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20090714_180000_MSNBC_News_Live/MSNBC_20090714_180000_MSNBC_News_Live.thumbs/MSNBC_20090714_180000_MSNBC_News_Live_001976.jpg</field>
+<field name="snippet">that greenhouse gases are an environmental nuisance. your panel in connecticut versus american electric power has sat on that case for 45 months or nearly three times the average of the second circuit. why, after four years, have you</field>
+</doc>
+</add>

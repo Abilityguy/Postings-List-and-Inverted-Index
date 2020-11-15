@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181124_210000_Americas_News_HQ#start/5746/end/5781</field>
+<field name="datetime">11/24/2018 22:36:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20181124_210000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181124_210000_Americas_News_HQ/FOXNEWSW_20181124_210000_Americas_News_HQ.thumbs/FOXNEWSW_20181124_210000_Americas_News_HQ_005727.jpg</field>
+<field name="snippet">of economic growth. ellison barber has more. reporter: climate change is negatively impacting the united states now more than ever. that is according to the latest national climate assessment. the report found many extreme weather and climate -related events have already become more</field>
+</doc>
+</add>

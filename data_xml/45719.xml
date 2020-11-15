@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201909.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190923_190000_MSNBC_Live_With_Ali_Velshi#start/1212/end/1247</field>
+<field name="datetime">9/23/2019 19:20:27</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190923_190000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190923_190000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190923_190000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190923_190000_MSNBC_Live_With_Ali_Velshi_001197.jpg</field>
+<field name="snippet">candidate took part in climate forum 2020 at georgetown university in washington. they answered questions from chris hays and me and from college students from around the country about what they would do to fight climate change if they were in the white house.</field>
+</doc>
+</add>

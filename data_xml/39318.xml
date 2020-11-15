@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201206.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120617_230000_FOX_Report#start/436/end/471</field>
+<field name="datetime">6/17/2012 23:07:31</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report</field>
+<field name="showid">FOXNEWSW_20120617_230000_FOX_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120617_230000_FOX_Report/FOXNEWSW_20120617_230000_FOX_Report.thumbs/FOXNEWSW_20120617_230000_FOX_Report_000420.jpg</field>
+<field name="snippet">security, to sustaining the fight against climate change. what's not on the agenda may get more discussion, a lot of thoughts on the sidelines, the first time that president obama and russian president putin will talk, since mr. putin returned to the helm</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170110_030000_BBC_News#start/946/end/981</field>
+<field name="datetime">1/10/2017 3:16:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170110_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170110_030000_BBC_News/BBCNEWS_20170110_030000_BBC_News.thumbs/BBCNEWS_20170110_030000_BBC_News_000927.jpg</field>
+<field name="snippet">deforestation and global warming. wyre davies has visited the first of the mega-dams, called belo monte, and reports on the potential impact. from the heart of the planet's greatest rainforest emerges one of the world's biggest civil engineering projects. a monolithic monument to progress.</field>
+</doc>
+</add>

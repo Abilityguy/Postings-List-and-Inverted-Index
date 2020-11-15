@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190420_103000_Dateline_London#start/1814/end/1849</field>
+<field name="datetime">4/20/2019 11:00:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Dateline London</field>
+<field name="showid">BBCNEWS_20190420_103000_Dateline_London</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190420_103000_Dateline_London/BBCNEWS_20190420_103000_Dateline_London.thumbs/BBCNEWS_20190420_103000_Dateline_London_001737.jpg</field>
+<field name="snippet">i'm shaun ley. the headlines at 12: police in londonderry investigating the murder of thejournalist, leera mckie have arrested two teenagers. this is the scene in oxford circus where climate change protests contiune into their sixth day. police in london say they've now</field>
+</doc>
+</add>

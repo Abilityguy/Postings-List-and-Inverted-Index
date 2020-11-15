@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201311.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20131112_010000_All_In_With_Chris_Hayes#start/1365/end/1400</field>
+<field name="datetime">11/12/2013 1:23:00</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20131112_010000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20131112_010000_All_In_With_Chris_Hayes/MSNBCW_20131112_010000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20131112_010000_All_In_With_Chris_Hayes_001365.jpg</field>
+<field name="snippet">we are excreting pollution that is equivalent to 40000 hiroshima bombs every 24 hours. that's 19 million tons of global warming pollution every day, and this accumulated climate change</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201503.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150302_220000_The_Ed_Show#start/3359/end/3394</field>
+<field name="datetime">3/2/2015 22:56:14</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20150302_220000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150302_220000_The_Ed_Show/MSNBCW_20150302_220000_The_Ed_Show.thumbs/MSNBCW_20150302_220000_The_Ed_Show_003345.jpg</field>
+<field name="snippet">show' will be titled 'florida: the front line on climate change.' that's why i'm traveling down to the sunshine state and we'll have that series for you in the next couple of weeks. there is a governor there who isn't even willing to</field>
+</doc>
+</add>

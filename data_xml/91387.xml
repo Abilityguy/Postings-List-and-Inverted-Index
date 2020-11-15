@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190621_100000_Judge_Judy#start/1457/end/1492</field>
+<field name="datetime">6/21/2019 10:24:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Judge Judy</field>
+<field name="showid">FOXNEWSW_20190621_100000_Judge_Judy</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190621_100000_Judge_Judy/FOXNEWSW_20190621_100000_Judge_Judy.thumbs/FOXNEWSW_20190621_100000_Judge_Judy_001438.jpg</field>
+<field name="snippet">ainsley: quick headlines, the governor of florida dispatches police to find 11 republican senators who left the state to avoid a vote on climate change. democrats are furious. this is the saddest day of my legislative life. there is no joy in my heart</field>
+</doc>
+</add>

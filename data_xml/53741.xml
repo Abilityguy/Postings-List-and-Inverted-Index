@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201807.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180711_100000_BBC_Newsroom_Live#start/6379/end/6414</field>
+<field name="datetime">7/11/2018 11:46:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20180711_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180711_100000_BBC_Newsroom_Live/BBCNEWS_20180711_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20180711_100000_BBC_Newsroom_Live_006357.jpg</field>
+<field name="snippet">and when we think we are in a plume, we hit a button and that takes a sample of air from outside the aircraft, which we collect for analysis way down the line. onboard instruments show some of the chemicals in the smoke, including methane, an important greenhouse gas, and the air pollutant carbon monoxide. only back on the ground</field>
+</doc>
+</add>

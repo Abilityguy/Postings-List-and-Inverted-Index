@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091218_110000_Morning_Joe#start/714/end/749</field>
+<field name="datetime">12/18/2009 11:12:09</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20091218_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20091218_110000_Morning_Joe/MSNBC_20091218_110000_Morning_Joe.thumbs/MSNBC_20091218_110000_Morning_Joe_000680.jpg</field>
+<field name="snippet">obama on climate change. up to 61% in april. and now down to 45%. trusting scientists, that has collapsed. obviously this memogate or whatever they call it.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201401.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140128_140000_The_Daily_Rundown#start/710/end/745</field>
+<field name="datetime">1/28/2014 14:12:05</field>
+<field name="station">MSNBC</field>
+<field name="show">The Daily Rundown</field>
+<field name="showid">MSNBCW_20140128_140000_The_Daily_Rundown</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140128_140000_The_Daily_Rundown/MSNBCW_20140128_140000_The_Daily_Rundown.thumbs/MSNBCW_20140128_140000_The_Daily_Rundown_000705.jpg</field>
+<field name="snippet">why wait? reporter: there are some actions that he has taken, you know, in the past year. for example, we did a big proposal that wires 99% of our schools. he took a lot of action on clean energy and on climate change,</field>
+</doc>
+</add>

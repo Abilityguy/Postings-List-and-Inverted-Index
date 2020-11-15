@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201004.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100402_160000_MSNBC_News_Live#start/1581/end/1616</field>
+<field name="datetime">4/2/2010 16:26:36</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100402_160000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100402_160000_MSNBC_News_Live/MSNBC_20100402_160000_MSNBC_News_Live.thumbs/MSNBC_20100402_160000_MSNBC_News_Live_001556.jpg</field>
+<field name="snippet">countries have a safe, secure, reliable and effective nuclear civilian energy. we stopped 30 years ago. for those of you concerned about climate change, nuclear energy</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201603.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160310_160000_MSNBC_Live_With_Tamron_Hall#start/2388/end/2423</field>
+<field name="datetime">3/10/2016 16:40:03</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Tamron Hall</field>
+<field name="showid">MSNBCW_20160310_160000_MSNBC_Live_With_Tamron_Hall</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160310_160000_MSNBC_Live_With_Tamron_Hall/MSNBCW_20160310_160000_MSNBC_Live_With_Tamron_Hall.thumbs/MSNBCW_20160310_160000_MSNBC_Live_With_Tamron_Hall_002367.jpg</field>
+<field name="snippet">the carbon pollution that is causing climate change. if we don't agree, if we're not aggressive, if we're not farsighted and pool our resources around the research and development and clean energy agenda that's required to solve</field>
+</doc>
+</add>

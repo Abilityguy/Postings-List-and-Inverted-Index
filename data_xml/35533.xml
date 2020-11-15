@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201904.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190414_100000_MSNBC_Live#start/1389/end/1424</field>
+<field name="datetime">4/14/2019 10:23:24</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20190414_100000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190414_100000_MSNBC_Live/MSNBCW_20190414_100000_MSNBC_Live.thumbs/MSNBCW_20190414_100000_MSNBC_Live_001378.jpg</field>
+<field name="snippet">critics say bannon is weaponizing the crisis to target pope francis for his liberal views on homosexually, climate change and immigration. the pope last week kissing the feet of rival leaders of south</field>
+</doc>
+</add>

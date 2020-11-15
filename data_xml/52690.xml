@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180623_143000_Click#start/1521/end/1556</field>
+<field name="datetime">6/23/2018 14:55:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Click</field>
+<field name="showid">BBCNEWS_20180623_143000_Click</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180623_143000_Click/BBCNEWS_20180623_143000_Click.thumbs/BBCNEWS_20180623_143000_Click_001527.jpg</field>
+<field name="snippet">on climate change. that was nick in queensland.</field>
+</doc>
+</add>

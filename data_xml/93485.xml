@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190706_010000_BBC_News#start/914/end/949</field>
+<field name="datetime">7/6/2019 1:15:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190706_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190706_010000_BBC_News/BBCNEWS_20190706_010000_BBC_News.thumbs/BBCNEWS_20190706_010000_BBC_News_000899.jpg</field>
+<field name="snippet">unchecked climate change, or is this worse or better than you thought it might be? well, i know, you know, there are are a number of temperatures projections and 50- 100</field>
+</doc>
+</add>

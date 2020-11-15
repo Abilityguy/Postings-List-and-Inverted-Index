@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190511_123000_Coastal_Britain#start/17/end/52</field>
+<field name="datetime">5/11/2019 12:30:32</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Coastal Britain</field>
+<field name="showid">BBCNEWS_20190511_123000_Coastal_Britain</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190511_123000_Coastal_Britain/BBCNEWS_20190511_123000_Coastal_Britain.thumbs/BBCNEWS_20190511_123000_Coastal_Britain_000028.jpg</field>
+<field name="snippet">hello this is bbc news with shaun ley. the headlines: concerns over climate change might restrict the growth of flying in the uk, according to a senior civil servant. the un says houthi rebels in yemen appear to be honouring a pledge to withdraw troops from key ports,</field>
+</doc>
+</add>

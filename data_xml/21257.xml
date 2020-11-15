@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180909_040000_BBC_News#start/1094/end/1129</field>
+<field name="datetime">9/9/2018 4:18:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180909_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180909_040000_BBC_News/BBCNEWS_20180909_040000_BBC_News.thumbs/BBCNEWS_20180909_040000_BBC_News_001077.jpg</field>
+<field name="snippet">to highlight climate change sailed into sydney harbour on saturday. the event was just one of hundreds of protests being planned across the world by the us-campaign group, 350.org. here's david campanale.</field>
+</doc>
+</add>

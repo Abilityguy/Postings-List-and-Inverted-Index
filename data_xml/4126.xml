@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201008.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100818_100000_Morning_Joe#start/1497/end/1532</field>
+<field name="datetime">8/18/2010 10:25:12</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20100818_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20100818_100000_Morning_Joe/MSNBC_20100818_100000_Morning_Joe.thumbs/MSNBC_20100818_100000_Morning_Joe_001495.jpg</field>
+<field name="snippet">talking about global warming or the mosque controversy. instead writing about the economy saying almost every action the president has taken has deepened and lending lengthened the downtourn.</field>
+</doc>
+</add>

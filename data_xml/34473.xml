@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201403.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140311_100000_FOX_and_Friends#start/4254/end/4289</field>
+<field name="datetime">3/11/2014 11:11:09</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20140311_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140311_100000_FOX_and_Friends/FOXNEWSW_20140311_100000_FOX_and_Friends.thumbs/FOXNEWSW_20140311_100000_FOX_and_Friends_004245.jpg</field>
+<field name="snippet">talking about this issue, even though there are no plans to bring climate change to the floor this year. what do you think of that? the patients and staff at joe dimaggio children's hospital dancing to the hit song 'happy.'</field>
+</doc>
+</add>

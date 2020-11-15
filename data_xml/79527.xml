@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201402.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140221_080000_All_In_With_Chris_Hayes#start/3061/end/3096</field>
+<field name="datetime">2/21/2014 8:51:16</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20140221_080000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140221_080000_All_In_With_Chris_Hayes/MSNBCW_20140221_080000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20140221_080000_All_In_With_Chris_Hayes_003045.jpg</field>
+<field name="snippet">the national rifle association, i don't want to talk to you about climate change, whether or not it's happening, but i know this pipeline is going to ruin my water supply if it leaks. i'm against it, my neighbors are against it. that's a winning coalition in that state. it's a winning coalition that</field>
+</doc>
+</add>

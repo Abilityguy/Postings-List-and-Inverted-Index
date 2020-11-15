@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181118_080000_Breakfast#start/1711/end/1746</field>
+<field name="datetime">11/18/2018 8:28:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181118_080000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181118_080000_Breakfast/BBCNEWS_20181118_080000_Breakfast.thumbs/BBCNEWS_20181118_080000_Breakfast_001707.jpg</field>
+<field name="snippet">stories from bbc news. president trump has visited northern california to see the devastation caused by the worst ever wildfires in the state. this morning, officials said five more bodies have been recovered, bringing the total number of deaths to 76. mr trump said the fires had not changed his views about climate change,</field>
+</doc>
+</add>

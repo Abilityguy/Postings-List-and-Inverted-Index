@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151215_050000_The_Rachel_Maddow_Show#start/2868/end/2903</field>
+<field name="datetime">12/15/2015 5:48:03</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBCW_20151215_050000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151215_050000_The_Rachel_Maddow_Show/MSNBCW_20151215_050000_The_Rachel_Maddow_Show.thumbs/MSNBCW_20151215_050000_The_Rachel_Maddow_Show_002865.jpg</field>
+<field name="snippet">southern california, the scale of this thing is nuts. state air quality regulators estimate the leak is releasing so much methane per hour that this one leak basically accounts for 25% of all the daily greenhouse gas emissions in the</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091207_230000_Special_Report_With_Bret_Baier#start/0/end/35</field>
+<field name="datetime">12/7/2009 23:00:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091207_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091207_230000_Special_Report_With_Bret_Baier/FOXNEWS_20091207_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091207_230000_Special_Report_With_Bret_Baier_000026.jpg</field>
+<field name="snippet">go to glennbeck.com to find a theater near you. from new york, good night, news channel] bret: next on 'special report' a major federal ruling on greenhouse gases comes as the world gathers in denmark for a</field>
+</doc>
+</add>

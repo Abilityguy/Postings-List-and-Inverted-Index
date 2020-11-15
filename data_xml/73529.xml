@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201108.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20110825_150000_Happening_Now#start/6548/end/6583</field>
+<field name="datetime">8/25/2011 16:49:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20110825_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20110825_150000_Happening_Now/FOXNEWSW_20110825_150000_Happening_Now.thumbs/FOXNEWSW_20110825_150000_Happening_Now_006536.jpg</field>
+<field name="snippet">huntsman tweeted this. to be clear i believe in evolution and trust scientists on global warming. call me crazy. according to the numbers from gallop huntsman may have been a roundabout a whole lot of americans crazy. 40% say god created humans</field>
+</doc>
+</add>

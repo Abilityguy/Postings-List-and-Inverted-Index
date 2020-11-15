@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190910_080000_BBC_News_at_Nine#start/1179/end/1214</field>
+<field name="datetime">9/10/2019 8:19:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190910_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190910_080000_BBC_News_at_Nine/BBCNEWS_20190910_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190910_080000_BBC_News_at_Nine_001168.jpg</field>
+<field name="snippet">investment in five areas, including agriculture, water supplies and infrastructure, could help the planet become more resilient in the face of climate change, according to a study by leaders in politics, business and science. they recommend investing £1.5 trillion over the next decade on things like early-warning systems for flooding and high tides. here's our science correspondent</field>
+</doc>
+</add>

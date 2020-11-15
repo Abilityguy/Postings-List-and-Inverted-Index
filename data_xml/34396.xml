@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201403.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140312_080000_The_Five#start/1096/end/1131</field>
+<field name="datetime">3/12/2014 8:18:31</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20140312_080000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140312_080000_The_Five/FOXNEWSW_20140312_080000_The_Five.thumbs/FOXNEWSW_20140312_080000_The_Five_001095.jpg</field>
+<field name="snippet">climate crisis. a point of no return. this is not just a question of morality or ethics but a question of our survival. maine is having a bounty because they have all of connecticut's lobsters.</field>
+</doc>
+</add>

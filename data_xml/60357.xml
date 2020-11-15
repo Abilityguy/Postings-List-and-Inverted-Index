@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181026_120000_BBC_News_at_One#start/871/end/906</field>
+<field name="datetime">10/26/2018 12:14:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20181026_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181026_120000_BBC_News_at_One/BBCNEWS_20181026_120000_BBC_News_at_One.thumbs/BBCNEWS_20181026_120000_BBC_News_at_One_000868.jpg</field>
+<field name="snippet">train tracks destroyed. today's report says more of this will happen as sea levels are pushed higher by man-made climate change. here is another problem that the committee warns will get worse. these homes at hemsby in norfolk</field>
+</doc>
+</add>

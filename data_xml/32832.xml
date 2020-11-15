@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091204_110000_FOX_and_Friends#start/4192/end/4227</field>
+<field name="datetime">12/4/2009 12:10:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091204_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091204_110000_FOX_and_Friends/FOXNEWS_20091204_110000_FOX_and_Friends.thumbs/FOXNEWS_20091204_110000_FOX_and_Friends_004189.jpg</field>
+<field name="snippet">data about global warming. and the research that the world community has been doing over the last number of 10 or 20 years or something like that. all the numbers and stuff like that. as it turns out, it looks as if there is a concerted effort on the part of some of these global</field>
+</doc>
+</add>

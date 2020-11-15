@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091219_000000_The_FOX_Report_With_Shepard_Smith#start/3579/end/3614</field>
+<field name="datetime">12/19/2009 0:59:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The FOX Report With Shepard Smith</field>
+<field name="showid">FOXNEWS_20091219_000000_The_FOX_Report_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091219_000000_The_FOX_Report_With_Shepard_Smith/FOXNEWS_20091219_000000_The_FOX_Report_With_Shepard_Smith.thumbs/FOXNEWS_20091219_000000_The_FOX_Report_With_Shepard_Smith_003562.jpg</field>
+<field name="snippet">thanks for having us in tonight. a programming note before we go, a fox news investigation the climate change debate. our bret baier hosting a special this weekend you can see it sunday night 8:00 eastern, 9 central here on fox news. hope you have a merry christmas</field>
+</doc>
+</add>

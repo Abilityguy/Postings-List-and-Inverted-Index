@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090806_130000_Americas_Newsroom#start/5550/end/5585</field>
+<field name="datetime">8/6/2009 14:32:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20090806_130000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090806_130000_Americas_Newsroom/FOXNEWS_20090806_130000_Americas_Newsroom.thumbs/FOXNEWS_20090806_130000_Americas_Newsroom_005547.jpg</field>
+<field name="snippet">megyn: welcome back. the battle over climate change is heating up. a live look at a hearing in the senate, the environment and public works committee, where they are debating cap and trade. is this going to need to assess</field>
+</doc>
+</add>

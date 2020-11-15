@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190622_200000_Americas_News_HQ#start/5356/end/5391</field>
+<field name="datetime">6/22/2019 21:29:31</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20190622_200000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190622_200000_Americas_News_HQ/FOXNEWSW_20190622_200000_Americas_News_HQ.thumbs/FOXNEWSW_20190622_200000_Americas_News_HQ_005338.jpg</field>
+<field name="snippet">eric: new jersey senator cory booker -- standing up to make sure we don't stick our head in the ground on climate change. but this is a nation that leads us out of this crisis.</field>
+</doc>
+</add>

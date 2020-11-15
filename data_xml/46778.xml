@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201110.csv</field>
+<field name="url">https://archive.org/details/CNNW_20111012_080000_World_Business_Today#start/804/end/839</field>
+<field name="datetime">10/12/2011 8:13:39</field>
+<field name="station">CNN</field>
+<field name="show">World Business Today</field>
+<field name="showid">CNNW_20111012_080000_World_Business_Today</field>
+<field name="preview">https://archive.org/download/CNNW_20111012_080000_World_Business_Today/CNNW_20111012_080000_World_Business_Today.thumbs/CNNW_20111012_080000_World_Business_Today_000777.jpg</field>
+<field name="snippet">at its heart, it's simple getting big polluters to pay and using the money to help out families and pensioners and to protect australian jobs. this carbon tax is the central element to the australian government's strategy to combat climate change.</field>
+</doc>
+</add>

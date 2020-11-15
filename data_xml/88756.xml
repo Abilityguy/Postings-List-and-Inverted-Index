@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190612_130000_Afternoon_Live#start/5415/end/5450</field>
+<field name="datetime">6/12/2019 14:30:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190612_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190612_130000_Afternoon_Live/BBCNEWS_20190612_130000_Afternoon_Live.thumbs/BBCNEWS_20190612_130000_Afternoon_Live_005398.jpg</field>
+<field name="snippet">this is the scene live in the house of commons, where mps are debating a labour motion to try to block a no-deal brexit. 'a moral duty to leave the world in a better condition than we inherited' - the uk commits to cut greenhouse gas emissions to net zero by 2050. this puts us on the path to become the first major economy to set a net</field>
+</doc>
+</add>

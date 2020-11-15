@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091221_110000_FOX_and_Friends#start/8577/end/8612</field>
+<field name="datetime">12/21/2009 13:23:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091221_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091221_110000_FOX_and_Friends/FOXNEWS_20091221_110000_FOX_and_Friends.thumbs/FOXNEWS_20091221_110000_FOX_and_Friends_008385.jpg</field>
+<field name="snippet">christmas, and her holiday message to you. brian: who mean to copenhagen? scientists said a giant squids may hold the secret to global warming.</field>
+</doc>
+</add>

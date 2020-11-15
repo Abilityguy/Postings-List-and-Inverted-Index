@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201204.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120405_170000_America_Live#start/5747/end/5782</field>
+<field name="datetime">4/5/2012 18:36:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWSW_20120405_170000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120405_170000_America_Live/FOXNEWSW_20120405_170000_America_Live.thumbs/FOXNEWSW_20120405_170000_America_Live_005725.jpg</field>
+<field name="snippet">written more than 30 years ago to primarily address local and regional environmental effects and applying them to global climate change. under a supreme court decision last year, the clean air act could be applied to regulate</field>
+</doc>
+</add>

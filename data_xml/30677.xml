@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140217_230000_Special_Report_With_Bret_Baier#start/2364/end/2399</field>
+<field name="datetime">2/17/2014 23:39:39</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20140217_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140217_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20140217_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20140217_230000_Special_Report_With_Bret_Baier_002355.jpg</field>
+<field name="snippet">on the things that are most important to americans. unemployment and jobs. economy in general, dissatisfaction with the government. climate change or global warming doesn't get into the top ten. a recent pew poll has it 19 out of 20 of issues of importance</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190612_190000_BBC_News#start/1104/end/1139</field>
+<field name="datetime">6/12/2019 19:18:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190612_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190612_190000_BBC_News/BBCNEWS_20190612_190000_BBC_News.thumbs/BBCNEWS_20190612_190000_BBC_News_001108.jpg</field>
+<field name="snippet">yesterday's news. in other news the uk government promises to cut carbon emissions to net zero by 2050 in a bid to tackle climate change.</field>
+</doc>
+</add>

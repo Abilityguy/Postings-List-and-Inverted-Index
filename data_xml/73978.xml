@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201002.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100217_150000_MSNBC_News_Live#start/3293/end/3328</field>
+<field name="datetime">2/17/2010 15:55:08</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100217_150000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100217_150000_MSNBC_News_Live/MSNBC_20100217_150000_MSNBC_News_Live.thumbs/MSNBC_20100217_150000_MSNBC_News_Live_003266.jpg</field>
+<field name="snippet">anything that would create new jobs. they sort of checked the box on stimulus and moved back on health care and climate change. now, they've gotten the message and jumped on the jobs thing. but they should have done that</field>
+</doc>
+</add>

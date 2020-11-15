@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201505.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150527_210000_The_Ed_Show#start/2792/end/2827</field>
+<field name="datetime">5/27/2015 21:46:47</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20150527_210000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150527_210000_The_Ed_Show/MSNBCW_20150527_210000_The_Ed_Show.thumbs/MSNBCW_20150527_210000_The_Ed_Show_002776.jpg</field>
+<field name="snippet">tonight's bing pulse poll. are climate change and increasing severe weather events connected? 83% of you say yes. 17% of you say no. more coming up on 'the ed show.' stay with us. we are right back.</field>
+</doc>
+</add>

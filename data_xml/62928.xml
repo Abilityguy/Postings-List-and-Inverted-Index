@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201010.csv</field>
+<field name="url">https://archive.org/details/CNN_20101005_230000_John_King_USA#start/46/end/81</field>
+<field name="datetime">10/5/2010 23:01:01</field>
+<field name="station">CNN</field>
+<field name="show">John King USA</field>
+<field name="showid">CNN_20101005_230000_John_King_USA</field>
+<field name="preview">https://archive.org/download/CNN_20101005_230000_John_King_USA/CNN_20101005_230000_John_King_USA.thumbs/CNN_20101005_230000_John_King_USA_000030.jpg</field>
+<field name="snippet">election, four weeks from today, how you vote will affect the debate over taxes and spending, over the new health care law, illegal immigration, climate change and more. one thing it is not about is whether democrats like putting people on food stamps. a very smart man who was once</field>
+</doc>
+</add>

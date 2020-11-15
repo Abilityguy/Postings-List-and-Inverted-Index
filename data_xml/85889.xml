@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201709.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170907_210000_BBC_News_at_Ten#start/490/end/525</field>
+<field name="datetime">9/7/2017 21:08:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20170907_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170907_210000_BBC_News_at_Ten/BBCNEWS_20170907_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20170907_210000_BBC_News_at_Ten_000477.jpg</field>
+<field name="snippet">on top of all this, the low pressure inside the hurricane creates a storm surge, a huge wave that strikes the coast and because climate change is raising the level of sea, the impact is all the greater. as the people of the caribbean</field>
+</doc>
+</add>

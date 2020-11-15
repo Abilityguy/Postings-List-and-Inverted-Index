@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100228_110000_The_OReilly_Factor#start/1209/end/1244</field>
+<field name="datetime">2/28/2010 11:20:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20100228_110000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100228_110000_The_OReilly_Factor/FOXNEWS_20100228_110000_The_OReilly_Factor.thumbs/FOXNEWS_20100228_110000_The_OReilly_Factor_001195.jpg</field>
+<field name="snippet">congress never deals with one issue at a time. that's a silly notion, i mean, yes, jobs are important and the president working on jobs. global warming, he's working on that. health care is important and this gang hasn't been working on it seven years. the reason it's alive since</field>
+</doc>
+</add>

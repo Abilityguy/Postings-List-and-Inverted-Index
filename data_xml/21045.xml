@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201308.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130821_100000_Morning_Joe#start/5801/end/5836</field>
+<field name="datetime">8/21/2013 11:36:56</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20130821_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130821_100000_Morning_Joe/MSNBCW_20130821_100000_Morning_Joe.thumbs/MSNBCW_20130821_100000_Morning_Joe_005775.jpg</field>
+<field name="snippet">we've overloaded the atmosphere with heat-trapping gases and the rest are just details. reporter: the new report from the intergovernmental panel on climate change seem to confirm what box and other scientists have been learning long before the draft was leaked.</field>
+</doc>
+</add>

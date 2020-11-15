@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191003_210000_BBC_News_at_Ten#start/1009/end/1044</field>
+<field name="datetime">10/3/2019 21:17:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20191003_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191003_210000_BBC_News_at_Ten/BBCNEWS_20191003_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20191003_210000_BBC_News_at_Ten_000988.jpg</field>
+<field name="snippet">a new report which outlines the rapid and widespread decline of the uk's plants and animals. the state of nature report, which examined data from more than 7000 species, said climate change and more intensive farming</field>
+</doc>
+</add>

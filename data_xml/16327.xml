@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201502.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150211_110000_FOX_and_Friends#start/2108/end/2143</field>
+<field name="datetime">2/11/2015 11:35:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20150211_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150211_110000_FOX_and_Friends/FOXNEWSW_20150211_110000_FOX_and_Friends.thumbs/FOXNEWSW_20150211_110000_FOX_and_Friends_002085.jpg</field>
+<field name="snippet">president thinks climate change is a greater threat than terrorism? that more people are directly affected by those things than by terrorism. climate change is more of a clear and present danger to the united states? i think even the department of defense has</field>
+</doc>
+</add>

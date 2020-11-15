@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201905.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190527_210000_MTP_Daily#start/3341/end/3376</field>
+<field name="datetime">5/27/2019 21:55:56</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20190527_210000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190527_210000_MTP_Daily/MSNBCW_20190527_210000_MTP_Daily.thumbs/MSNBCW_20190527_210000_MTP_Daily_003327.jpg</field>
+<field name="snippet">so caste, climate change. we saw australia and we saw a little voter backlash there. we saw france and the yellow vest movement. there is something -- there is a specific -- there is general consensus, even around democracy around the world about climate change and the concern for it.</field>
+</doc>
+</add>

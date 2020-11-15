@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190506_000000_Newsday#start/1209/end/1244</field>
+<field name="datetime">5/6/2019 0:20:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190506_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190506_000000_Newsday/BBCNEWS_20190506_000000_Newsday.thumbs/BBCNEWS_20190506_000000_Newsday_001198.jpg</field>
+<field name="snippet">a group of australian farmers and scientists say they've made an exciting breakthrough in the fight against climate change. the non-profit organisation soilcquest believes it's found a new way to reduce carbon in the atmosphere - and it's been invited to showcase the work in the us. mick wettenhall is the director of soilcquest - it wants farmers                 _</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190315_220000_Special_Report_With_Bret_Baier#start/30/end/65</field>
+<field name="datetime">3/15/2019 22:00:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20190315_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190315_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20190315_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20190315_220000_Special_Report_With_Bret_Baier_000028.jpg</field>
+<field name="snippet">world walk out of school over climate change we will examine how republicans are trying to weaponize out green new deal. and how the media seemed to have cralted the phenomenon known as beto mania. this is 'special report.'</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100215_110000_FOX_and_Friends#start/2053/end/2088</field>
+<field name="datetime">2/15/2010 11:34:28</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100215_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100215_110000_FOX_and_Friends/FOXNEWS_20100215_110000_FOX_and_Friends.thumbs/FOXNEWS_20100215_110000_FOX_and_Friends_002034.jpg</field>
+<field name="snippet">because, you know, every time we talk about global warming and in fact, during this -- the latest cold snap i said boy, that global warming is really kicking in. it took about an hour and a half before the blogs started attacking me but now, here you've got this guy who is one of the pre-eminent</field>
+</doc>
+</add>

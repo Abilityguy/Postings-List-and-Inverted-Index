@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190220_230000_Special_Report_With_Bret_Baier#start/1974/end/2009</field>
+<field name="datetime">2/20/2019 23:33:09</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20190220_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190220_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20190220_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20190220_230000_Special_Report_With_Bret_Baier_001948.jpg</field>
+<field name="snippet">ag, 9% in total omissions, less than 1.5, that's going to stop climate change. the green new deal also trends sustainable local farmer. like selling direct that a farmers' market or through community supported</field>
+</doc>
+</add>

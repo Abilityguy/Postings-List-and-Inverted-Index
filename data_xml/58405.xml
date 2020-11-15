@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181118_040000_BBC_News#start/583/end/618</field>
+<field name="datetime">11/18/2018 4:09:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181118_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181118_040000_BBC_News/BBCNEWS_20181118_040000_BBC_News.thumbs/BBCNEWS_20181118_040000_BBC_News_000568.jpg</field>
+<field name="snippet">it follows media reports that the cia believes crown prince mohammed ordered the killing. the murder and international outcry has frayed ties betwen washington and riyadh. protesters blocked five major bridges in central london, demanding that the uk government takes greater action on climate change.</field>
+</doc>
+</add>

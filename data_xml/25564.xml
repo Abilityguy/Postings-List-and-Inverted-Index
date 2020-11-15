@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201407.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140705_190000_Americas_News_Headquarters#start/1141/end/1176</field>
+<field name="datetime">7/5/2014 19:19:16</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20140705_190000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140705_190000_Americas_News_Headquarters/FOXNEWSW_20140705_190000_Americas_News_Headquarters.thumbs/FOXNEWSW_20140705_190000_Americas_News_Headquarters_001125.jpg</field>
+<field name="snippet">reporter: republicans say president obama is catering to a base that claims that the keystone pipeline would negatively affect climate change. a state department study claims that the pipeline would create more than $42000 direct and indirect jobs while house lawmakers passed a bill approving the pipeline without</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200910.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091024_110000_MSNBC_News_Live#start/2063/end/2098</field>
+<field name="datetime">10/24/2009 11:34:38</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091024_110000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091024_110000_MSNBC_News_Live/MSNBC_20091024_110000_MSNBC_News_Live.thumbs/MSNBC_20091024_110000_MSNBC_News_Live_002040.jpg</field>
+<field name="snippet">international day of protest over global warming. thousands gathered on the steps of the sydney opera house to promote the 350 movement, which demands steps be taken to lower emission by 350 parts per million. scientists say that is the level</field>
+</doc>
+</add>

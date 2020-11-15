@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190719_180000_BBC_News#start/318/end/353</field>
+<field name="datetime">7/19/2019 18:05:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190719_180000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190719_180000_BBC_News/BBCNEWS_20190719_180000_BBC_News.thumbs/BBCNEWS_20190719_180000_BBC_News_000297.jpg</field>
+<field name="snippet">he was secretary of state for energy and climate change in the coalition, and a close confidante of nick clegg, before also losing his seat in 2015, and regaining it two years later. he says his experience as climate secretary has inspired him to prioritise a green</field>
+</doc>
+</add>

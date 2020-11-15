@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140522_150000_NewsNation#start/2231/end/2266</field>
+<field name="datetime">5/22/2014 15:37:26</field>
+<field name="station">MSNBC</field>
+<field name="show">NewsNation</field>
+<field name="showid">MSNBCW_20140522_150000_NewsNation</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140522_150000_NewsNation/MSNBCW_20140522_150000_NewsNation.thumbs/MSNBCW_20140522_150000_NewsNation_002205.jpg</field>
+<field name="snippet">well, there is a new political fight brewing in washington and some say it could be bigger and more partisan than the battle over health care. our first political team writes today the new environmental regulations coming from the white house will set off a partisan clash over climate</field>
+</doc>
+</add>

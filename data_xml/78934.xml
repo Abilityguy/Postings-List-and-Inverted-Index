@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20200112_110000_FOX_and_Friends_Sunday#start/12839/end/12874</field>
+<field name="datetime">1/12/2020 14:34:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20200112_110000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20200112_110000_FOX_and_Friends_Sunday/FOXNEWSW_20200112_110000_FOX_and_Friends_Sunday.thumbs/FOXNEWSW_20200112_110000_FOX_and_Friends_Sunday_012838.jpg</field>
+<field name="snippet">morning. well, this is australia's war, that's what you will hear aussies say about these ongoing wildfires. it truly is a crisis, and we did hear from the embattled prime minister, scott morrison, today. he addressed climate change and also said his personal response</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190604_100000_BBC_Newsroom_Live#start/3625/end/3660</field>
+<field name="datetime">6/4/2019 11:00:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190604_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190604_100000_BBC_Newsroom_Live/BBCNEWS_20190604_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190604_100000_BBC_Newsroom_Live_003627.jpg</field>
+<field name="snippet">arrived a short while ago and is having a meeting inside. the president was welcomed on the steps of number 10 by theresa may and her husband philip. they're sitting down inside now to discuss some difficult issues including climate change and iran.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191011_170000_BBC_News_at_Six#start/1189/end/1224</field>
+<field name="datetime">10/11/2019 17:20:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20191011_170000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191011_170000_BBC_News_at_Six/BBCNEWS_20191011_170000_BBC_News_at_Six.thumbs/BBCNEWS_20191011_170000_BBC_News_at_Six_001169.jpg</field>
+<field name="snippet">the government needs to be frank, and to tell the public that small, easy changes won't be enough to tackle climate change, according to a new report. it's commissioned by the committee that advises ministers on cutting carbon emissions, and says that 'high impact' shifts in lifestyles are needed if the uk is to reach its target of zero net</field>
+</doc>
+</add>

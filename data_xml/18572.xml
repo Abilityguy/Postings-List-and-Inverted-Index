@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170127_030000_BBC_News#start/1186/end/1221</field>
+<field name="datetime">1/27/2017 3:20:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170127_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170127_030000_BBC_News/BBCNEWS_20170127_030000_BBC_News.thumbs/BBCNEWS_20170127_030000_BBC_News_001168.jpg</field>
+<field name="snippet">to pressing global challenges, including climate change. the ramifications of donald trump's orders on health issues are not limited to the us. in kenya, doctors are grapping</field>
+</doc>
+</add>

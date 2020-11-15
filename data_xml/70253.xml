@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.200912.csv</field>
+<field name="url">https://archive.org/details/CNN_20091210_110000_American_Morning#start/2266/end/2301</field>
+<field name="datetime">12/10/2009 11:38:01</field>
+<field name="station">CNN</field>
+<field name="show">American Morning</field>
+<field name="showid">CNN_20091210_110000_American_Morning</field>
+<field name="preview">https://archive.org/download/CNN_20091210_110000_American_Morning/CNN_20091210_110000_American_Morning.thumbs/CNN_20091210_110000_American_Morning_002213.jpg</field>
+<field name="snippet">this is nasa satellites, 15 of them rotating around the earth right now giving realtime data on climate vital statistics. it's a really cool application we'll be showing you a little bit more about as we explore where with we're facing some of the biggest problems when it comes to climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200102_210000_Outside_Source#start/2594/end/2629</field>
+<field name="datetime">1/2/2020 21:43:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20200102_210000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200102_210000_Outside_Source/BBCNEWS_20200102_210000_Outside_Source.thumbs/BBCNEWS_20200102_210000_Outside_Source_002579.jpg</field>
+<field name="snippet">firefighters and residents, more than 1000 homes destroyed and an estimated death toll among animals of 500 million. so what's behind these fires? scientists researching the fires say conditions have created a perfect storm, with climate change heating the planet and adding to the dangers.</field>
+</doc>
+</add>

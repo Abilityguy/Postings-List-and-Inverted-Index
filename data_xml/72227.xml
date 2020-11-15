@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201610.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161030_100000_In_Other_News#start/2236/end/2271</field>
+<field name="datetime">10/30/2016 10:37:31</field>
+<field name="station">MSNBC</field>
+<field name="show">In Other News</field>
+<field name="showid">MSNBCW_20161030_100000_In_Other_News</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161030_100000_In_Other_News/MSNBCW_20161030_100000_In_Other_News.thumbs/MSNBCW_20161030_100000_In_Other_News_002218.jpg</field>
+<field name="snippet">jackson, in washington, d.c., an important legislative battle barely registered with the public. the house expected to vote today on landmark climate change legislation. one of its aims, create a cap and trade system to cut greenhouse gas emissions, but</field>
+</doc>
+</add>

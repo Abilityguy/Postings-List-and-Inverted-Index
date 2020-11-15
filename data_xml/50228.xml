@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181211_110000_FOX__Friends#start/5086/end/5121</field>
+<field name="datetime">12/11/2018 12:25:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20181211_110000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181211_110000_FOX__Friends/FOXNEWSW_20181211_110000_FOX__Friends.thumbs/FOXNEWSW_20181211_110000_FOX__Friends_005067.jpg</field>
+<field name="snippet">a word of warning. first 138, how many people were arrested protesting climate change outside of nancy pelosi's office. capital cops say they were unlawfully demonstrating. finally zero dollars.</field>
+</doc>
+</add>

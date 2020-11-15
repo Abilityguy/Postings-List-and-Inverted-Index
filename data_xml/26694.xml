@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100218_110000_FOX_and_Friends#start/1903/end/1938</field>
+<field name="datetime">2/18/2010 11:31:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100218_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100218_110000_FOX_and_Friends/FOXNEWS_20100218_110000_FOX_and_Friends.thumbs/FOXNEWS_20100218_110000_FOX_and_Friends_001854.jpg</field>
+<field name="snippet">all-natural sweetener. two natural wonders. one sweet taste. if you're just waking up, half past the hour of 6:00 on the east coast. couple of headlines. start with the fox news alert. the top u.s. climate change</field>
+</doc>
+</add>

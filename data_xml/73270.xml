@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190125_050000_The_Briefing#start/762/end/797</field>
+<field name="datetime">1/25/2019 5:12:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20190125_050000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190125_050000_The_Briefing/BBCNEWS_20190125_050000_The_Briefing.thumbs/BBCNEWS_20190125_050000_The_Briefing_000749.jpg</field>
+<field name="snippet">meanwhile, the shutdown goes on and with each day it continues to break records as the longest in the us government history. scientists meeting in norway are warning that climate change is redrawing the map of the arctic. in what researchers claim is the first sign of a major modern climatic shift, they say</field>
+</doc>
+</add>

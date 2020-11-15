@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201110.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111029_100000_FOX_and_Friends_Saturday#start/7767/end/7802</field>
+<field name="datetime">10/29/2011 12:09:42</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20111029_100000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111029_100000_FOX_and_Friends_Saturday/FOXNEWSW_20111029_100000_FOX_and_Friends_Saturday.thumbs/FOXNEWSW_20111029_100000_FOX_and_Friends_Saturday_007740.jpg</field>
+<field name="snippet">coming out on the flip-flops. a major departure from what he has previously said. my view is we don't know what causing climate change on this</field>
+</doc>
+</add>

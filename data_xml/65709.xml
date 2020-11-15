@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190212_140000_Americas_Newsroom_With_Bill_Hemmer_and_Sandra_Smith#start/10137/end/10172</field>
+<field name="datetime">2/12/2019 16:49:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom With Bill Hemmer and Sandra Smith</field>
+<field name="showid">FOXNEWSW_20190212_140000_Americas_Newsroom_With_Bill_Hemmer_and_Sandra_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190212_140000_Americas_Newsroom_With_Bill_Hemmer_and_Sandra_Smith/FOXNEWSW_20190212_140000_Americas_Newsroom_With_Bill_Hemmer_and_Sandra_Smith.thumbs/FOXNEWSW_20190212_140000_Americas_Newsroom_With_Bill_Hemmer_and_Sandra_Smith_010138.jpg</field>
+<field name="snippet">sandra: as far as greenhouse gas emissions and those types of things. we'll see how it all continues. great to get your take on it this morning. bill: china stepping up plans for using artificial intelligence to strengthen its military. what are we doing?</field>
+</doc>
+</add>

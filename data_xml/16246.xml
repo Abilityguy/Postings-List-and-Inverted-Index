@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201408.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140807_210000_The_Ed_Show#start/618/end/653</field>
+<field name="datetime">8/7/2014 21:10:33</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20140807_210000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140807_210000_The_Ed_Show/MSNBCW_20140807_210000_The_Ed_Show.thumbs/MSNBCW_20140807_210000_The_Ed_Show_000616.jpg</field>
+<field name="snippet">tonight. hello, ed. how bad is the situation in california with the wildfires and the drought taking place, john? every year it gets worse, ed and it's been bad over the years before, and every year it's worse because there really is climate change. the state is drying out.</field>
+</doc>
+</add>

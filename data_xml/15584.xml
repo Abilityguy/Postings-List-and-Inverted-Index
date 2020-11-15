@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201104.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110419_220000_Special_Report_With_Bret_Baier#start/1956/end/1991</field>
+<field name="datetime">4/19/2011 22:32:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20110419_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110419_220000_Special_Report_With_Bret_Baier/FOXNEWS_20110419_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20110419_220000_Special_Report_With_Bret_Baier_001944.jpg</field>
+<field name="snippet">the state seems to doubt they're living up to the responsibility to regulate the greenhouse gases and argue companies they are suing cause devastating climate change. resulting in heat-related death and stunting crops.</field>
+</doc>
+</add>

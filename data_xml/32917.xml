@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091207_000000_FOX_Report#start/1286/end/1321</field>
+<field name="datetime">12/7/2009 0:21:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report</field>
+<field name="showid">FOXNEWS_20091207_000000_FOX_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091207_000000_FOX_Report/FOXNEWS_20091207_000000_FOX_Report.thumbs/FOXNEWS_20091207_000000_FOX_Report_001260.jpg</field>
+<field name="snippet">copenhagen. u.n.'s chief climate chief saying the fallout from e-mails stolen from a top climate change scientist at a british university may wind up fueling skepticism about global warming research. the e-mails appear to reveal some of the world's leading scientists talking about ways</field>
+</doc>
+</add>

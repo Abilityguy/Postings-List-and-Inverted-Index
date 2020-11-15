@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170426_140000_BBC_News#start/3255/end/3290</field>
+<field name="datetime">4/26/2017 14:54:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170426_140000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170426_140000_BBC_News/BBCNEWS_20170426_140000_BBC_News.thumbs/BBCNEWS_20170426_140000_BBC_News_003237.jpg</field>
+<field name="snippet">that our immaculate green lawns could become a thing of the past because of climate change. the royal horticultural society says drier summers and more frequent days of 'extreme rainfall' in the winter could also threaten gardens with new plant pests and diseases.</field>
+</doc>
+</add>

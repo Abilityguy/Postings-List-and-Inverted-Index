@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201111.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20111114_110000_Morning_Joe#start/6188/end/6223</field>
+<field name="datetime">11/14/2011 12:43:23</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20111114_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20111114_110000_Morning_Joe/MSNBCW_20111114_110000_Morning_Joe.thumbs/MSNBCW_20111114_110000_Morning_Joe_006177.jpg</field>
+<field name="snippet">of cities contributed unfairly to the estimate. cities do heat more. but that's not because of the greenhouse effects. so you don't want to include that in when you measure global warming. there are issues of whether they had treated the data fairly. they used only 20% of the data</field>
+</doc>
+</add>

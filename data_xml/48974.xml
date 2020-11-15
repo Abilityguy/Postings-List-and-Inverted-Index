@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201908.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190822_190000_MSNBC_Live_With_Ali_Velshi#start/40/end/75</field>
+<field name="datetime">8/22/2019 19:00:55</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190822_190000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190822_190000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190822_190000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190822_190000_MSNBC_Live_With_Ali_Velshi_000029.jpg</field>
+<field name="snippet">he was the only candidate who ran on a similar issue focusing on climate change and advancing that subject to the forefront of the 2020 competition. this weekend several 2020 candidates head to san francisco to speak with hundreds of members of the democratic national committee for the</field>
+</doc>
+</add>

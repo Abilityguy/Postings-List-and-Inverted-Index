@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201909.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190919_190000_MSNBC_Live_With_Ali_Velshi#start/2230/end/2265</field>
+<field name="datetime">9/19/2019 19:37:25</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190919_190000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190919_190000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190919_190000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190919_190000_MSNBC_Live_With_Ali_Velshi_002218.jpg</field>
+<field name="snippet">mainstream media debating whether climate change is real or not. do you think we're evolving, getting closer to something that sounds reasonable to you? undeniable in a way that's striking. i have been covering climate</field>
+</doc>
+</add>

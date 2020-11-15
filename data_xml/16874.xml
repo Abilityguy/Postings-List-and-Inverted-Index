@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201811.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181117_120000_MSNBC_Live#start/81/end/116</field>
+<field name="datetime">11/17/2018 12:01:36</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20181117_120000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181117_120000_MSNBC_Live/MSNBCW_20181117_120000_MSNBC_Live.thumbs/MSNBCW_20181117_120000_MSNBC_Live_000057.jpg</field>
+<field name="snippet">yesterday, president trump doubled down on the fires being a management issue. what about the argument it's climate change, that it's dryer, it's hotter, and it's</field>
+</doc>
+</add>

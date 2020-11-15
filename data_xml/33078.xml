@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091210_040000_The_OReilly_Factor#start/791/end/826</field>
+<field name="datetime">12/10/2009 4:13:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20091210_040000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091210_040000_The_OReilly_Factor/FOXNEWS_20091210_040000_The_OReilly_Factor.thumbs/FOXNEWS_20091210_040000_The_OReilly_Factor_000780.jpg</field>
+<field name="snippet">one professor says the business of global warming is a conspiracy.</field>
+</doc>
+</add>

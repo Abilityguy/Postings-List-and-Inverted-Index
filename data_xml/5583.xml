@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171213_020000_BBC_News#start/679/end/714</field>
+<field name="datetime">12/13/2017 2:11:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171213_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171213_020000_BBC_News/BBCNEWS_20171213_020000_BBC_News.thumbs/BBCNEWS_20171213_020000_BBC_News_000658.jpg</field>
+<field name="snippet">the french president, emmanuel macron, has warned that the world is losing the battle against climate change. he was speaking at the one planet summit in the french capital- two years after the historic paris agreement. mr macron said the rise in global temperatures had become a permanent emergency - and nobody could claim they did not know. the bbc's lucy williamson</field>
+</doc>
+</add>

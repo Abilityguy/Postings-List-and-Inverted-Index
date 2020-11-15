@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100211_160000_Happening_Now#start/4243/end/4278</field>
+<field name="datetime">2/11/2010 17:10:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20100211_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100211_160000_Happening_Now/FOXNEWS_20100211_160000_Happening_Now.thumbs/FOXNEWS_20100211_160000_Happening_Now_004230.jpg</field>
+<field name="snippet">global warming are not convinced the problem is as severe as we are told. for example, there's a lot of controversy over the united nations intergovernmental panel on climate change which can has spearheaded the allegations that they have knowingly used false</field>
+</doc>
+</add>

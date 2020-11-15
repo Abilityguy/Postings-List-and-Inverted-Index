@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091210_000000_The_FOX_Report_With_Shepard_Smith#start/2779/end/2814</field>
+<field name="datetime">12/10/2009 0:46:34</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The FOX Report With Shepard Smith</field>
+<field name="showid">FOXNEWS_20091210_000000_The_FOX_Report_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091210_000000_The_FOX_Report_With_Shepard_Smith/FOXNEWS_20091210_000000_The_FOX_Report_With_Shepard_Smith.thumbs/FOXNEWS_20091210_000000_The_FOX_Report_With_Shepard_Smith_002754.jpg</field>
+<field name="snippet">a new warning tonight about climate change and the american economy. just ahead, why the administration is now telling lawmakers they had better take action and soon. plus, can you believe it's been a year since we first landed on planet blago?.</field>
+</doc>
+</add>

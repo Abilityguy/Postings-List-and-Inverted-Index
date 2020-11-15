@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171104_190000_BBC_News#start/35/end/70</field>
+<field name="datetime">11/4/2017 19:00:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171104_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171104_190000_BBC_News/BBCNEWS_20171104_190000_BBC_News.thumbs/BBCNEWS_20171104_190000_BBC_News_000058.jpg</field>
+<field name="snippet">lebanese prime minister saad al-hariri resigns, saying that he fears for his life. the white house downplays a major report by us government scientists which is at odds with the president's stance on global warming.</field>
+</doc>
+</add>

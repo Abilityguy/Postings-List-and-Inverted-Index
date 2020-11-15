@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201201.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120107_110000_FOX_and_Friends_Saturday#start/729/end/764</field>
+<field name="datetime">1/7/2012 11:12:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20120107_110000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120107_110000_FOX_and_Friends_Saturday/FOXNEWSW_20120107_110000_FOX_and_Friends_Saturday.thumbs/FOXNEWSW_20120107_110000_FOX_and_Friends_Saturday_000720.jpg</field>
+<field name="snippet">dave: some are teaching the concept of global warming to middle schoolers and some argue it is not a perfect science. should your taxpayer dollars go to environmental justice. follow us on twitter. we need more followers.</field>
+</doc>
+</add>

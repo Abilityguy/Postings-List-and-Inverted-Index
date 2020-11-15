@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190122_200000_BBC_News#start/593/end/628</field>
+<field name="datetime">1/22/2019 20:10:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190122_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190122_200000_BBC_News/BBCNEWS_20190122_200000_BBC_News.thumbs/BBCNEWS_20190122_200000_BBC_News_000568.jpg</field>
+<field name="snippet">davos - playground for the rich and conference hall for the powerful. but look who's also here - a first-time visitor come to discuss climate change. a future monarch interviewing a man seen by many as broadcasting royalty. normally, i have to endure people asking me questions,</field>
+</doc>
+</add>

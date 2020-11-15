@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181124_190000_Americas_News_HQ#start/2110/end/2145</field>
+<field name="datetime">11/24/2018 19:35:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20181124_190000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181124_190000_Americas_News_HQ/FOXNEWSW_20181124_190000_Americas_News_HQ.thumbs/FOXNEWSW_20181124_190000_Americas_News_HQ_002098.jpg</field>
+<field name="snippet">widespread. the authors of the report say they expect many of those events to continue to increase or worsen. and the warming trend can only be explained by human activities, especially emissions of greenhouse gases into the atmosphere.</field>
+</doc>
+</add>

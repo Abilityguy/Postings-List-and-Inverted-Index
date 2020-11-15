@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151211_050000_The_Rachel_Maddow_Show#start/3163/end/3198</field>
+<field name="datetime">12/11/2015 5:52:58</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBCW_20151211_050000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151211_050000_The_Rachel_Maddow_Show/MSNBCW_20151211_050000_The_Rachel_Maddow_Show.thumbs/MSNBCW_20151211_050000_The_Rachel_Maddow_Show_003135.jpg</field>
+<field name="snippet">state air quality regulators estimate it's leaking so much it accounts for 25% of california's daily greenhouse gas emissions. this is like driving 160000 cars for a year. what's happening right now in</field>
+</doc>
+</add>

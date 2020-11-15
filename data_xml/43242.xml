@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090914_090000_Forbes_on_FOX#start/1347/end/1382</field>
+<field name="datetime">9/14/2009 9:22:42</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Forbes on FOX</field>
+<field name="showid">FOXNEWS_20090914_090000_Forbes_on_FOX</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090914_090000_Forbes_on_FOX/FOXNEWS_20090914_090000_Forbes_on_FOX.thumbs/FOXNEWS_20090914_090000_Forbes_on_FOX_001347.jpg</field>
+<field name="snippet">energy is going up because of taxes on coal, natural gas, et cetera. so, steve, this global warming bill will end up costing more than healthcare, according to itch are. that's why it is will have a hard time passing. if it does pass, it will be</field>
+</doc>
+</add>

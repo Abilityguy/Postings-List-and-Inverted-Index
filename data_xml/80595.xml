@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190402_100000_FOX__Friends#start/9221/end/9256</field>
+<field name="datetime">4/2/2019 12:33:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20190402_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190402_100000_FOX__Friends/FOXNEWSW_20190402_100000_FOX__Friends.thumbs/FOXNEWSW_20190402_100000_FOX__Friends_009208.jpg</field>
+<field name="snippet">climate change is no longer something that is just some esoteric scientific fact. it is something we have to do something about right now. we need to pass a green new deal. health care is right. it has to be publicly funded.</field>
+</doc>
+</add>

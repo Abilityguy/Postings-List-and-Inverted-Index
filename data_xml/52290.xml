@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181209_220000_BBC_News#start/398/end/433</field>
+<field name="datetime">12/9/2018 22:06:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181209_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181209_220000_BBC_News/BBCNEWS_20181209_220000_BBC_News.thumbs/BBCNEWS_20181209_220000_BBC_News_000387.jpg</field>
+<field name="snippet">by the world's leading climate change body, says in order to prevent drought, flooding and extreme poverty for millions of people, temperatures must not rise by more than 1.5 degrees this century. to do that, emissions must be cut in half over the next 12 years.</field>
+</doc>
+</add>

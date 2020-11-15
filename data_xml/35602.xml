@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201904.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190402_160000_Andrea_Mitchell_Reports#start/2495/end/2530</field>
+<field name="datetime">4/2/2019 16:41:50</field>
+<field name="station">MSNBC</field>
+<field name="show">Andrea Mitchell Reports</field>
+<field name="showid">MSNBCW_20190402_160000_Andrea_Mitchell_Reports</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190402_160000_Andrea_Mitchell_Reports/MSNBCW_20190402_160000_Andrea_Mitchell_Reports.thumbs/MSNBCW_20190402_160000_Andrea_Mitchell_Reports_002489.jpg</field>
+<field name="snippet">we need to know we are the first generation to feel the sting of climate change and the last generation to do something about it. we need to know that this is a matter of urgent peril as al just talked about.</field>
+</doc>
+</add>

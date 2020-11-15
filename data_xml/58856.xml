@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181122_140000_Afternoon_Live#start/3233/end/3268</field>
+<field name="datetime">11/22/2018 14:54:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20181122_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181122_140000_Afternoon_Live/BBCNEWS_20181122_140000_Afternoon_Live.thumbs/BBCNEWS_20181122_140000_Afternoon_Live_003207.jpg</field>
+<field name="snippet">at a time when china and india are growing their economies, the planet's net emissions of co2 will need to be zero by 2050 to prevent damaging climate change. a two degree rise will mean</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170527_100000_BBC_News#start/1122/end/1157</field>
+<field name="datetime">5/27/2017 10:18:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170527_100000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170527_100000_BBC_News/BBCNEWS_20170527_100000_BBC_News.thumbs/BBCNEWS_20170527_100000_BBC_News_001107.jpg</field>
+<field name="snippet">in particular, donald trump. and the overriding aim of the summit is to keep the president onside, convincing him that it is worth his while to be a member of this small club of large nations, so they may push him on climate</field>
+</doc>
+</add>

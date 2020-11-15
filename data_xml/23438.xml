@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201405.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140506_130000_Americas_Newsroom#start/4125/end/4160</field>
+<field name="datetime">5/6/2014 14:09:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWSW_20140506_130000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140506_130000_Americas_Newsroom/FOXNEWSW_20140506_130000_Americas_Newsroom.thumbs/FOXNEWSW_20140506_130000_Americas_Newsroom_004125.jpg</field>
+<field name="snippet">issues of climate change is important. so you have these various interest groups pings and this is a perfect example of that. michael warren, thank you for your time.</field>
+</doc>
+</add>

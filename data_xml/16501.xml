@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201502.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150212_220000_The_Five#start/30/end/65</field>
+<field name="datetime">2/12/2015 22:00:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20150212_220000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150212_220000_The_Five/FOXNEWSW_20150212_220000_The_Five.thumbs/FOXNEWSW_20150212_220000_The_Five_000045.jpg</field>
+<field name="snippet">the five. so last night, i had this nightmare. it was of a president who believes the media overstates the alarm people have about the threat of terrorism over threat of climate change. do you think the media sometimes overstates the sort of</field>
+</doc>
+</add>

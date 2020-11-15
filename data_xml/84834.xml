@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201211.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121103_110000_Weekends_With_Alex_Witt#start/3050/end/3085</field>
+<field name="datetime">11/3/2012 11:51:05</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20121103_110000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121103_110000_Weekends_With_Alex_Witt/MSNBCW_20121103_110000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20121103_110000_Weekends_With_Alex_Witt_003029.jpg</field>
+<field name="snippet">sciences have put out reports saying climate change will lead to increased flooding and storm surges in the northeast. that's been known. we often know that climate change will lead to increased drought in the midwest. we already got a preview of that</field>
+</doc>
+</add>

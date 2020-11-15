@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201502.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150212_030000_Hannity#start/624/end/659</field>
+<field name="datetime">2/12/2015 3:10:39</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20150212_030000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150212_030000_Hannity/FOXNEWSW_20150212_030000_Hannity.thumbs/FOXNEWSW_20150212_030000_Hannity_000615.jpg</field>
+<field name="snippet">random. i am trying to understand what's in the president's mind about this. because i don't fundamentally just don't understand what he's not seeing. do you agree with him? is the threat -- is climate change the greater threat? well, in the national</field>
+</doc>
+</add>

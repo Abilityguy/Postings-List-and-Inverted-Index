@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190923_030000_BBC_News#start/1090/end/1125</field>
+<field name="datetime">9/23/2019 3:18:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190923_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190923_030000_BBC_News/BBCNEWS_20190923_030000_BBC_News.thumbs/BBCNEWS_20190923_030000_BBC_News_001077.jpg</field>
+<field name="snippet">people have bookings in the future, it is a different situation. china is expected to face further pressure to reduce its carbon emissions when global leaders meet at the un on monday for a special summit on climate change. renewable energy sources have increased in china, but coal is still the largest source of electricity generation. with the un pushing for a commitment</field>
+</doc>
+</add>

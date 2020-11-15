@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191221_160000_BBC_News#start/45/end/80</field>
+<field name="datetime">12/21/2019 16:01:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191221_160000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191221_160000_BBC_News/BBCNEWS_20191221_160000_BBC_News.thumbs/BBCNEWS_20191221_160000_BBC_News_000028.jpg</field>
+<field name="snippet">to delay theirjourneys as record temperatures of more than a0 degrees and strong winds intensify the fires. australia's deputy prime minister, michael mccormack, has said his country must increase its efforts to tackle climate change. with more, here's our sydney correspondent, shaimaa khalil.</field>
+</doc>
+</add>

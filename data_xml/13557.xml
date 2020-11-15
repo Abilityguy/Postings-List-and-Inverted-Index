@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201703.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170329_043000_World_Business_Report#start/45/end/80</field>
+<field name="datetime">3/29/2017 4:31:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World Business Report</field>
+<field name="showid">BBCNEWS_20170329_043000_World_Business_Report</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170329_043000_World_Business_Report/BBCNEWS_20170329_043000_World_Business_Report.thumbs/BBCNEWS_20170329_043000_World_Business_Report_000058.jpg</field>
+<field name="snippet">us environmentalists say the move will hinder efforts to curb climate change, and have vowed to challenge it in the courts. now for the latest financial news with and world business report. with just hours to go before article</field>
+</doc>
+</add>

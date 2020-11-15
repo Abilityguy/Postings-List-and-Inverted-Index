@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180613_200000_Outside_Source#start/2325/end/2360</field>
+<field name="datetime">6/13/2018 20:39:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20180613_200000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180613_200000_Outside_Source/BBCNEWS_20180613_200000_Outside_Source.thumbs/BBCNEWS_20180613_200000_Outside_Source_002307.jpg</field>
+<field name="snippet">we're building houses, new roads, railways, agriculture is changing. so it is really important we have up-to-date information so we can plan how we will conserve british wildlife. in even more peril, the scottish wildcat. the report's authors placed the blame on climate change,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201105.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110511_220000_MSNBC_Live#start/127/end/162</field>
+<field name="datetime">5/11/2011 22:02:22</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBC_20110511_220000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20110511_220000_MSNBC_Live/MSNBC_20110511_220000_MSNBC_Live.thumbs/MSNBC_20110511_220000_MSNBC_Live_000120.jpg</field>
+<field name="snippet">tim pawlenty, of course, has flip flopped on climate change. donald trump has géipped flopped on, just about everything, and in a recent rare moment of clarity, mike huckabee admitted even ronald reagan couldn't win</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201404.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140423_050000_Hannity#start/2345/end/2380</field>
+<field name="datetime">4/23/2014 5:39:20</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20140423_050000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140423_050000_Hannity/FOXNEWSW_20140423_050000_Hannity.thumbs/FOXNEWSW_20140423_050000_Hannity_002325.jpg</field>
+<field name="snippet">all of upstate new york, you can't drill anywhere. a lot of times the developments come in -- first it was the next ice age is coming. now it's quote climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190922_040000_BBC_News#start/226/end/261</field>
+<field name="datetime">9/22/2019 4:04:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190922_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190922_040000_BBC_News/BBCNEWS_20190922_040000_BBC_News.thumbs/BBCNEWS_20190922_040000_BBC_News_000598.jpg</field>
+<field name="snippet">we showed that we are united and that we young people are unstoppable. the sentiment shared all around the world. here a demonstration in indonesia. climate change is a global problem</field>
+</doc>
+</add>

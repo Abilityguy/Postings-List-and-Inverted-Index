@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180111_090000_Victoria_Derbyshire#start/1359/end/1394</field>
+<field name="datetime">1/11/2018 9:22:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20180111_090000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180111_090000_Victoria_Derbyshire/BBCNEWS_20180111_090000_Victoria_Derbyshire.thumbs/BBCNEWS_20180111_090000_Victoria_Derbyshire_001347.jpg</field>
+<field name="snippet">theresa may will be 80 odd. we have had the green growth strategy before christmas. we have got the carbon plans every five years. we have to look at climate change targets. the government needs to look at itself</field>
+</doc>
+</add>

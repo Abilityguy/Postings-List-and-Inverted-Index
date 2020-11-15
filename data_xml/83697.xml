@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190427_060000_Breakfast#start/3265/end/3300</field>
+<field name="datetime">4/27/2019 6:54:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190427_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190427_060000_Breakfast/BBCNEWS_20190427_060000_Breakfast.thumbs/BBCNEWS_20190427_060000_Breakfast_003267.jpg</field>
+<field name="snippet">to be fair, though, editors have had some difficulty with climate change. a while ago, commissioning editors were saying that they wouldn't commission documentaries because it was a bit of a turn-off. now there is a massive interest in climate change, but that has not always been the case. the other problem with</field>
+</doc>
+</add>

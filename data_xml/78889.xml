@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20200111_050000_Tucker_Carlson_Tonight#start/2186/end/2221</field>
+<field name="datetime">1/11/2020 5:36:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20200111_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20200111_050000_Tucker_Carlson_Tonight/FOXNEWSW_20200111_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20200111_050000_Tucker_Carlson_Tonight_002159.jpg</field>
+<field name="snippet">threats to our food and water supplies. climate change is directly related to the growth of terrorism. more drought, floods, rising sea levels, more mass migrations of people. now is the time to save the planet.</field>
+</doc>
+</add>

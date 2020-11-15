@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201204.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120430_200000_Your_World_With_Neil_Cavuto#start/2510/end/2545</field>
+<field name="datetime">4/30/2012 20:42:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20120430_200000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120430_200000_Your_World_With_Neil_Cavuto/FOXNEWSW_20120430_200000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20120430_200000_Your_World_With_Neil_Cavuto_002487.jpg</field>
+<field name="snippet">addressing global warming and now they are contributing? guest: yes, this is a study published in nature climate change, the journal, by the university of new york scientists, 1.3 degrees increase in temperatures fahrenheit on the ground around all the wind</field>
+</doc>
+</add>

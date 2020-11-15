@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201008.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100809_150000_Happening_Now#start/6463/end/6498</field>
+<field name="datetime">8/9/2010 16:47:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20100809_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100809_150000_Happening_Now/FOXNEWS_20100809_150000_Happening_Now.thumbs/FOXNEWS_20100809_150000_Happening_Now_006440.jpg</field>
+<field name="snippet">global warming. is that the cause for this, or is this the kind of thing that happens every summer? this definitely does not happen every summer at all. and you're absolutely correct that a few interviews that we had before, they always want me</field>
+</doc>
+</add>

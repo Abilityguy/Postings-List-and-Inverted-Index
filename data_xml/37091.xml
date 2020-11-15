@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201401.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140106_110000_FOX_and_Friends#start/4192/end/4227</field>
+<field name="datetime">1/6/2014 12:10:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20140106_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140106_110000_FOX_and_Friends/FOXNEWSW_20140106_110000_FOX_and_Friends.thumbs/FOXNEWSW_20140106_110000_FOX_and_Friends_004185.jpg</field>
+<field name="snippet">and they were surrounded by it. they were global warming scientists. the media is not saying that. they're calling them tourists because it doesn't play well to say they're global warming scientists. they were going there to study global warming. this winter is brutal.</field>
+</doc>
+</add>

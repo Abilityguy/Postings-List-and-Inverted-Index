@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191010_070000_Fox_News__Night_With_Shannon_Bream#start/64/end/99</field>
+<field name="datetime">10/10/2019 7:01:19</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News  Night With Shannon Bream</field>
+<field name="showid">FOXNEWSW_20191010_070000_Fox_News__Night_With_Shannon_Bream</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191010_070000_Fox_News__Night_With_Shannon_Bream/FOXNEWSW_20191010_070000_Fox_News__Night_With_Shannon_Bream.thumbs/FOXNEWSW_20191010_070000_Fox_News__Night_With_Shannon_Bream_000058.jpg</field>
+<field name="snippet">we will explain why and climate change is partially to blame. welcome to fox news at night. we begin with trace gallagher.</field>
+</doc>
+</add>

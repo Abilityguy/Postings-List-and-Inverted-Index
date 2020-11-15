@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180909_040000_BBC_News#start/1148/end/1183</field>
+<field name="datetime">9/9/2018 4:19:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180909_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180909_040000_BBC_News/BBCNEWS_20180909_040000_BBC_News.thumbs/BBCNEWS_20180909_040000_BBC_News_001137.jpg</field>
+<field name="snippet">said they are thinking about pulling out of paris, which means no action on climate change. today, 350 and groups around the country, 50 events, are demanding that climate action as part of something called rise for climate.</field>
+</doc>
+</add>

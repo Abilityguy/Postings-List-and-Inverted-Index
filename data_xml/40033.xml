@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091115_080000_FOX_Report#start/403/end/438</field>
+<field name="datetime">11/15/2009 8:06:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report</field>
+<field name="showid">FOXNEWS_20091115_080000_FOX_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091115_080000_FOX_Report/FOXNEWS_20091115_080000_FOX_Report.thumbs/FOXNEWS_20091115_080000_FOX_Report_000390.jpg</field>
+<field name="snippet">though it's called by the australian prime minister kevin rud and mexican president felipe calderon, they'll probably just update member nations on how much more distance needs to be covered to achieve a global climate change treaty by mid-december. that's the u.n. deadline that</field>
+</doc>
+</add>

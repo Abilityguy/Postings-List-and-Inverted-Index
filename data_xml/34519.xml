@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201509.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150923_100000_Morning_Joe#start/4927/end/4962</field>
+<field name="datetime">9/23/2015 11:22:22</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20150923_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150923_100000_Morning_Joe/MSNBCW_20150923_100000_Morning_Joe.thumbs/MSNBCW_20150923_100000_Morning_Joe_004935.jpg</field>
+<field name="snippet">around climate change.</field>
+</doc>
+</add>

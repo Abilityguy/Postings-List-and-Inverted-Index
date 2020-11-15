@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190215_140000_Afternoon_Live#start/606/end/641</field>
+<field name="datetime">2/15/2019 14:10:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190215_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190215_140000_Afternoon_Live/BBCNEWS_20190215_140000_Afternoon_Live.thumbs/BBCNEWS_20190215_140000_Afternoon_Live_000598.jpg</field>
+<field name="snippet">from president trump 3pm our time from the rose garden in washington. thousands of children across the uk are on strike from school today - joining worldwide protests against climate change. they've denounced the government for what they call an alarming lack of leadership. downing street has criticised the children's action, saying the disruption 'increases teachers' workloads and wastes</field>
+</doc>
+</add>

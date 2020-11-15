@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191128_230000_BBC_News#start/1046/end/1081</field>
+<field name="datetime">11/28/2019 23:17:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191128_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191128_230000_BBC_News/BBCNEWS_20191128_230000_BBC_News.thumbs/BBCNEWS_20191128_230000_BBC_News_001019.jpg</field>
+<field name="snippet">100 million trees a year over the next two decades. it's the first time we have had a general election where climate change or any environmental question has featured so prominently. but ultimately what counts, whoever wins, is what they actually deliver. david shukman, bbc news.</field>
+</doc>
+</add>

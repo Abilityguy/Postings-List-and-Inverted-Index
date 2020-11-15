@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201805.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180506_150000_BBC_News#start/1722/end/1757</field>
+<field name="datetime">5/6/2018 15:28:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180506_150000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180506_150000_BBC_News/BBCNEWS_20180506_150000_BBC_News.thumbs/BBCNEWS_20180506_150000_BBC_News_001708.jpg</field>
+<field name="snippet">threat from deforestation and climate change. we followed four professors and eight biologists from the university of sao paolo, a world leading institute in zoology. the amazon forest has a huge</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201104.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110421_060000_Glenn_Beck#start/2444/end/2479</field>
+<field name="datetime">4/21/2011 6:40:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20110421_060000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110421_060000_Glenn_Beck/FOXNEWS_20110421_060000_Glenn_Beck.thumbs/FOXNEWS_20110421_060000_Glenn_Beck_002424.jpg</field>
+<field name="snippet">can i ask you a question? do you think there is any chance at all this might be the end of the line for all nukes? do you think? maybe? then we get the happy news today from the supreme court that they are about to turn over the global warming case to the epa</field>
+</doc>
+</add>

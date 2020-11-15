@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190627_175000_BBC_News#start/170/end/205</field>
+<field name="datetime">6/27/2019 17:53:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190627_175000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190627_175000_BBC_News/BBCNEWS_20190627_175000_BBC_News.thumbs/BBCNEWS_20190627_175000_BBC_News_000147.jpg</field>
+<field name="snippet">you're watching bbc news. world leaders have been arriving injapan ahead of the 620 summit. trade wars, climate change likely to dominate. on the us, china trade what it is</field>
+</doc>
+</add>

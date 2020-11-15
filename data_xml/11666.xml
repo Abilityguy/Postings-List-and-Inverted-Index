@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190812_080000_BBC_News_at_Nine#start/1382/end/1417</field>
+<field name="datetime">8/12/2019 8:23:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190812_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190812_080000_BBC_News_at_Nine/BBCNEWS_20190812_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190812_080000_BBC_News_at_Nine_001377.jpg</field>
+<field name="snippet">that the activities around driven grouse shooting are contributing to a degradation of natural habitats in moorland areas. it is contributing to climate change, due to the practice of burning moorland to provide regrowth of the heather that</field>
+</doc>
+</add>

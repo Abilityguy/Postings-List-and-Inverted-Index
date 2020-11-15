@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200102_060000_Breakfast#start/7380/end/7415</field>
+<field name="datetime">1/2/2020 8:03:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20200102_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200102_060000_Breakfast/BBCNEWS_20200102_060000_Breakfast.thumbs/BBCNEWS_20200102_060000_Breakfast_007378.jpg</field>
+<field name="snippet">the australian prime minister scott morrison has said climate change was one of many factors fuelling the blazes. he's rejected international criticism that his government, which is an ardent supporter of the nation's large coal industry, is not taking</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201612.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161208_200000_MSNBC_Live_With_Kate_Snow#start/1202/end/1237</field>
+<field name="datetime">12/8/2016 20:20:17</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Kate Snow</field>
+<field name="showid">MSNBCW_20161208_200000_MSNBC_Live_With_Kate_Snow</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161208_200000_MSNBC_Live_With_Kate_Snow/MSNBCW_20161208_200000_MSNBC_Live_With_Kate_Snow.thumbs/MSNBCW_20161208_200000_MSNBC_Live_With_Kate_Snow_001198.jpg</field>
+<field name="snippet">how many folks on capitol hill, especially democrats and some republicans believe climate change is a scientific threat, how do you see his confirmation playing out? will he make it through congress? well, democrat don't control the senate, so, you know, it could be a completely party line</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090718_190000_Americas_News_HQ#start/2098/end/2133</field>
+<field name="datetime">7/18/2009 19:35:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWS_20090718_190000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090718_190000_Americas_News_HQ/FOXNEWS_20090718_190000_Americas_News_HQ.thumbs/FOXNEWS_20090718_190000_Americas_News_HQ_002097.jpg</field>
+<field name="snippet">questions like, have you measured your corporate greenhouse gas emissions, or do you have a process for measuring social compliance? wal-mart, what are you doing? it's a private company, they can</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201306.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130625_220000_Special_Report_With_Bret_Baier#start/65/end/100</field>
+<field name="datetime">6/25/2013 22:01:20</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20130625_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130625_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20130625_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20130625_220000_Special_Report_With_Bret_Baier_000045.jpg</field>
+<field name="snippet">here is chief white house correspondent ed henry. reporter: repeatedly wiping sweat from his brow at a sweltering georgetown university, president obama flatly declared the planet is warming and issued a call to arms, unveiling a sweeping climate change plan that</field>
+</doc>
+</add>

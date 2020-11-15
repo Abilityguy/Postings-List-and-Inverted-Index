@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190902_050000_Breakfast#start/3319/end/3354</field>
+<field name="datetime">9/2/2019 5:55:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190902_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190902_050000_Breakfast/BBCNEWS_20190902_050000_Breakfast.thumbs/BBCNEWS_20190902_050000_Breakfast_003298.jpg</field>
+<field name="snippet">this is probably too hard. the drying out of the moors is partly down to farming practices, but conservationists say climate change may be making things worse. the curlew, the golden pullover, they are being negatively impacted by warmer temperatures, among other things.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190513_210000_The_Five#start/835/end/870</field>
+<field name="datetime">5/13/2019 21:14:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20190513_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190513_210000_The_Five/FOXNEWSW_20190513_210000_The_Five.thumbs/FOXNEWSW_20190513_210000_The_Five_000807.jpg</field>
+<field name="snippet">[crowd chanting] juan: democrats holding climate change rallies like this one where new york mayor bill de blasio was heckled inside trump tower. meanwhile bill nye the science guy taking a shot at republicans</field>
+</doc>
+</add>

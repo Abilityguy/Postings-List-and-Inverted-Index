@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170401_040000_Tucker_Carlson_Tonight#start/3030/end/3065</field>
+<field name="datetime">4/1/2017 4:50:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20170401_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170401_040000_Tucker_Carlson_Tonight/FOXNEWSW_20170401_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20170401_040000_Tucker_Carlson_Tonight_003028.jpg</field>
+<field name="snippet">tucker: i think all my neighbors are deeply stressed may be in hysterics almost by the prospect of global warming, ice melting and polar birthing. i'm no scientist but i am a skeptic. i'm also from florida, so i can</field>
+</doc>
+</add>

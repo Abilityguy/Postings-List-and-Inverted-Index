@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201007.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100703_120000_MSNBC_News_Live#start/3254/end/3289</field>
+<field name="datetime">7/3/2010 12:54:29</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100703_120000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100703_120000_MSNBC_News_Live/MSNBC_20100703_120000_MSNBC_News_Live.thumbs/MSNBC_20100703_120000_MSNBC_News_Live_003203.jpg</field>
+<field name="snippet">inner circle discussed the possibilities of global warming more than 30 years ago. nixon adviser daniel patrick moynahan urged the administration to issue a worldwide system of monitoring carbon dioxide in the atmosphere. his memo was from 1969, among</field>
+</doc>
+</add>

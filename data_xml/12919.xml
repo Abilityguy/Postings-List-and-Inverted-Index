@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170723_210000_BBC_News#start/1495/end/1530</field>
+<field name="datetime">7/23/2017 21:25:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170723_210000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170723_210000_BBC_News/BBCNEWS_20170723_210000_BBC_News.thumbs/BBCNEWS_20170723_210000_BBC_News_001468.jpg</field>
+<field name="snippet">scientists warn that far more investment in additional new technologies is needed to combat climate change. this monumental kit comes dear, but the price should fall. we think that this is a game changer, this project, for enabling us in the future to reduce the cost and develop wind farms without any subsidies. the first turbine is hauled</field>
+</doc>
+</add>

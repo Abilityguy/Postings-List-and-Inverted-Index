@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091109_230000_Special_Report_With_Bret_Baier#start/2006/end/2041</field>
+<field name="datetime">11/9/2009 23:33:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091109_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091109_230000_Special_Report_With_Bret_Baier/FOXNEWS_20091109_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091109_230000_Special_Report_With_Bret_Baier_002004.jpg</field>
+<field name="snippet">two days after receiving a epa report on how it would regulate greenhouse gases, white house officials say they would rather congress deal with the issue. the court ordered that this is an issue that has to be dealt w the president has said</field>
+</doc>
+</add>

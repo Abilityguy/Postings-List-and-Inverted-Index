@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201102.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110202_110000_FOX_and_Friends#start/0/end/35</field>
+<field name="datetime">2/2/2011 11:00:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20110202_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110202_110000_FOX_and_Friends/FOXNEWS_20110202_110000_FOX_and_Friends.thumbs/FOXNEWS_20110202_110000_FOX_and_Friends_000030.jpg</field>
+<field name="snippet">those questions answered. and 3/4 of the country being pelted by massive storms over the last 24 hours and for the next 24. you're looking live at chicago where it's hard to even walk outside. now, is this all natural? or is it global warming?</field>
+</doc>
+</add>

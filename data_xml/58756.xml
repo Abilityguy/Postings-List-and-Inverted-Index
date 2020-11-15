@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181122_010000_Newsday#start/39/end/74</field>
+<field name="datetime">11/22/2018 1:00:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20181122_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181122_010000_Newsday/BBCNEWS_20181122_010000_Newsday.thumbs/BBCNEWS_20181122_010000_Newsday_000058.jpg</field>
+<field name="snippet">leaders gather next week for a climate change conference. live from our studios in singapore and london, this is bbc world news. it's newsday. good morning.</field>
+</doc>
+</add>

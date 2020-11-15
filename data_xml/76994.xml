@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190502_013000_Wednesday_in_Parliament#start/845/end/880</field>
+<field name="datetime">5/2/2019 1:44:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Wednesday in Parliament</field>
+<field name="showid">BBCNEWS_20190502_013000_Wednesday_in_Parliament</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190502_013000_Wednesday_in_Parliament/BBCNEWS_20190502_013000_Wednesday_in_Parliament.thumbs/BBCNEWS_20190502_013000_Wednesday_in_Parliament_000838.jpg</field>
+<field name="snippet">will he demonstrate his new-found conversion to this emergency by agreeing that the expansion of heathrow airport is quite simply incompatible with our climate change commitments? if it goes ahead by 2050, aviation, if it is given a blank check, it could be using up two fifths of our total carbon budgets.</field>
+</doc>
+</add>

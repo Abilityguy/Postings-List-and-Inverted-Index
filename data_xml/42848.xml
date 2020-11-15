@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180123_040000_BBC_News#start/1070/end/1105</field>
+<field name="datetime">1/23/2018 4:18:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180123_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180123_040000_BBC_News/BBCNEWS_20180123_040000_BBC_News.thumbs/BBCNEWS_20180123_040000_BBC_News_001048.jpg</field>
+<field name="snippet">site was almost placed on the danger list, the organisation warning the australian government's plans to tackle water quality didn't go far enough. it's now hoped the new funding will start major research into preventing the impact of global warming and helping to repair the damage that's already occurred.</field>
+</doc>
+</add>

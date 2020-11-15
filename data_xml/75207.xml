@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200119_053000_The_Week_in_Parliament#start/1173/end/1208</field>
+<field name="datetime">1/19/2020 5:49:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Week in Parliament</field>
+<field name="showid">BBCNEWS_20200119_053000_The_Week_in_Parliament</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200119_053000_The_Week_in_Parliament/BBCNEWS_20200119_053000_The_Week_in_Parliament.thumbs/BBCNEWS_20200119_053000_The_Week_in_Parliament_001169.jpg</field>
+<field name="snippet">in this union, we're treated as equals with something to contribute. on many of the key issues that the european union's focusing on - climate change, just transition, the circular economy - scotland is a great contributor. we're leading in some of these areas and we have a huge amount to learn</field>
+</doc>
+</add>

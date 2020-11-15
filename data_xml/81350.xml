@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091207_140000_Morning_Meeting#start/270/end/305</field>
+<field name="datetime">12/7/2009 14:04:45</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Meeting</field>
+<field name="showid">MSNBC_20091207_140000_Morning_Meeting</field>
+<field name="preview">https://archive.org/download/MSNBC_20091207_140000_Morning_Meeting/MSNBC_20091207_140000_Morning_Meeting.thumbs/MSNBC_20091207_140000_Morning_Meeting_000121.jpg</field>
+<field name="snippet">the face of it, certainly, it may appear at first blush that these scientists were massaging data or trying to suppress other reports from other scientists questioning global warming. but here when you talk to people</field>
+</doc>
+</add>

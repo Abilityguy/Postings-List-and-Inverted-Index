@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091217_190000_MSNBC_News_Live#start/2526/end/2561</field>
+<field name="datetime">12/17/2009 19:42:21</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091217_190000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091217_190000_MSNBC_News_Live/MSNBC_20091217_190000_MSNBC_News_Live.thumbs/MSNBC_20091217_190000_MSNBC_News_Live_002513.jpg</field>
+<field name="snippet">president obama leaves in just a few hours to attend the end of the copenhagen climate summit. earlier secretary of state hillary clinton trying to give a boost to stalling talks. she announced the u.s. was ready to help poor countries fight global warming. the united states is prepared</field>
+</doc>
+</add>

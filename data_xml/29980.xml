@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191105_110000_Morning_Joe#start/4985/end/5020</field>
+<field name="datetime">11/5/2019 12:23:20</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20191105_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191105_110000_Morning_Joe/MSNBCW_20191105_110000_Morning_Joe.thumbs/MSNBCW_20191105_110000_Morning_Joe_004949.jpg</field>
+<field name="snippet">everywhere is going to get touched by climate change. every year, our analysts visit thousands of companies, in a multitude of countries, where we get to know the people that drive a company's growth and gain new perspectives. that's why we go beyond the numbers.</field>
+</doc>
+</add>

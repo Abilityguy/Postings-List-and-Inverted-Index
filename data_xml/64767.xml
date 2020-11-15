@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201809.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20180915_160000_MSNBC_Live_With_Alex_Witt#start/2047/end/2082</field>
+<field name="datetime">9/15/2018 16:34:22</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Alex Witt</field>
+<field name="showid">MSNBCW_20180915_160000_MSNBC_Live_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20180915_160000_MSNBC_Live_With_Alex_Witt/MSNBCW_20180915_160000_MSNBC_Live_With_Alex_Witt.thumbs/MSNBCW_20180915_160000_MSNBC_Live_With_Alex_Witt_002038.jpg</field>
+<field name="snippet">thank you, people are happy when it's a prop bit, when i have props to show. todays props are books, these are books written about climate change. these are written by scientists.</field>
+</doc>
+</add>

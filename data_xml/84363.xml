@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190429_080000_BBC_News_at_Nine#start/1563/end/1598</field>
+<field name="datetime">4/29/2019 8:26:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190429_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190429_080000_BBC_News_at_Nine/BBCNEWS_20190429_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190429_080000_BBC_News_at_Nine_001558.jpg</field>
+<field name="snippet">the simplest way of combating climate change and improving the soil is to turn all this farmland into woodland. but that wouldn't feed the people, would it? perhaps a form of farming like this can be gentler on the environment, while keeping milk on the table.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201804.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20180422_230000_Kasie_DC#start/28/end/63</field>
+<field name="datetime">4/22/2018 23:00:43</field>
+<field name="station">MSNBC</field>
+<field name="show">Kasie DC</field>
+<field name="showid">MSNBCW_20180422_230000_Kasie_DC</field>
+<field name="preview">https://archive.org/download/MSNBCW_20180422_230000_Kasie_DC/MSNBCW_20180422_230000_Kasie_DC.thumbs/MSNBCW_20180422_230000_Kasie_DC_000057.jpg</field>
+<field name="snippet">welcome to 'kasie d.c.' i'm kasie hunt. we are live from washington every sunday from 7:00 to 9:00 p.m. eastern. tonight it turns out the most consequential thing released from james comey this week was probably not his book. plus, climate change and the</field>
+</doc>
+</add>

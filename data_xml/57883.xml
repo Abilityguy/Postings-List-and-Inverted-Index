@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201502.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150216_110000_Morning_Joe#start/73/end/108</field>
+<field name="datetime">2/16/2015 11:01:28</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20150216_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150216_110000_Morning_Joe/MSNBCW_20150216_110000_Morning_Joe.thumbs/MSNBCW_20150216_110000_Morning_Joe_000045.jpg</field>
+<field name="snippet">coast. welcome to 'morning joe.' it is cold out there. a frigid morning on the east coast. at least we don't have the snow that new england has. global warming? i'm moving to boca. where is global warming. it is brutal. they don't know where to put it.</field>
+</doc>
+</add>

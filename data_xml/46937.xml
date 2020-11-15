@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201803.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180325_070000_Breakfast#start/629/end/664</field>
+<field name="datetime">3/25/2018 7:10:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20180325_070000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180325_070000_Breakfast/BBCNEWS_20180325_070000_Breakfast.thumbs/BBCNEWS_20180325_070000_Breakfast_000627.jpg</field>
+<field name="snippet">across the uk were plunged into darkness to mark earth hour. famous monuments and buildings including buckingham palace and tower bridge turned out their lights to raise awareness about climate change. countries around the world also went dark to show international unity for the environment. that is piccadilly circus in london.</field>
+</doc>
+</add>

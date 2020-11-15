@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090708_150000_Happening_Now#start/3819/end/3854</field>
+<field name="datetime">7/8/2009 16:03:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20090708_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090708_150000_Happening_Now/FOXNEWS_20090708_150000_Happening_Now.thumbs/FOXNEWS_20090708_150000_Happening_Now_003810.jpg</field>
+<field name="snippet">-- will be joining us in 30 minutes. jon: president obama is at the g8 in italy. climate change is topping the agenda. the italian town was ravaged by</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200104_103000_The_Travel_Show#start/119/end/154</field>
+<field name="datetime">1/4/2020 10:32:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Travel Show</field>
+<field name="showid">BBCNEWS_20200104_103000_The_Travel_Show</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200104_103000_The_Travel_Show/BBCNEWS_20200104_103000_The_Travel_Show.thumbs/BBCNEWS_20200104_103000_The_Travel_Show_000118.jpg</field>
+<field name="snippet">is a collection of speeches by a swedish climate change activist, what's her name? sharon? greta thunberg. well, this was how the climate</field>
+</doc>
+</add>

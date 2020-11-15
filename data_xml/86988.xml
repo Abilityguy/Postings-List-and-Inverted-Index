@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191216_003000_HardTalk#start/1817/end/1852</field>
+<field name="datetime">12/16/2019 1:00:32</field>
+<field name="station">BBCNEWS</field>
+<field name="show">HardTalk</field>
+<field name="showid">BBCNEWS_20191216_003000_HardTalk</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191216_003000_HardTalk/BBCNEWS_20191216_003000_HardTalk.thumbs/BBCNEWS_20191216_003000_HardTalk_001799.jpg</field>
+<field name="snippet">marathon talks on climate change close in madrid. but a compromise deal prompts scathing criticism. we will rise and unleash</field>
+</doc>
+</add>

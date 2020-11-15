@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201312.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20131211_220000_The_Five#start/171/end/206</field>
+<field name="datetime">12/11/2013 22:03:06</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20131211_220000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20131211_220000_The_Five/FOXNEWSW_20131211_220000_The_Five.thumbs/FOXNEWSW_20131211_220000_The_Five_000165.jpg</field>
+<field name="snippet">stuff. so it's not this santa we need to worry about. it's the santa in the white house. fresh from trashing one-sixth of the economy, he's now eyeing climate change. do you think he's actually read the science? i doubt it. like greenpeace's santa, he's being kept in the dark.</field>
+</doc>
+</add>

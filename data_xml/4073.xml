@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201710.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171028_060000_Breakfast#start/3208/end/3243</field>
+<field name="datetime">10/28/2017 6:53:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20171028_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171028_060000_Breakfast/BBCNEWS_20171028_060000_Breakfast.thumbs/BBCNEWS_20171028_060000_Breakfast_003208.jpg</field>
+<field name="snippet">the acidity of the oceans, the bleaching of the coral reef, climate change. i mean, there was actually a big report out about the increasing acidity of the oceans that day and this gave us an opportunity to get into that subject, on a major bit of output. it may have come out of it</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140512_100000_Morning_Joe#start/8057/end/8092</field>
+<field name="datetime">5/12/2014 12:14:32</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20140512_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140512_100000_Morning_Joe/MSNBCW_20140512_100000_Morning_Joe.thumbs/MSNBCW_20140512_100000_Morning_Joe_008055.jpg</field>
+<field name="snippet">if you look at where climate change falls in people's concerns, for all the attention it gets and it's important for the long term, voters don't really care about it. that's not going to hurt rubio</field>
+</doc>
+</add>

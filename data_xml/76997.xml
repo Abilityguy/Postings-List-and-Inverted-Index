@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190506_103000_Weather_World#start/929/end/964</field>
+<field name="datetime">5/6/2019 10:45:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20190506_103000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190506_103000_Weather_World/BBCNEWS_20190506_103000_Weather_World.thumbs/BBCNEWS_20190506_103000_Weather_World_000928.jpg</field>
+<field name="snippet">starting to spend the winter here, which is a new development, and we think is a result of climate change. i'm sure they face a lot of challenges with our unpredictable british weather. if we get a harsh winter, it is not great for their numbers. definitely not, that would cause a decline,</field>
+</doc>
+</add>

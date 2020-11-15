@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100211_160000_Happening_Now#start/4291/end/4326</field>
+<field name="datetime">2/11/2010 17:11:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20100211_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100211_160000_Happening_Now/FOXNEWS_20100211_160000_Happening_Now.thumbs/FOXNEWS_20100211_160000_Happening_Now_004290.jpg</field>
+<field name="snippet">ordinary as if it was caused by global warming, perhaps famously the flooding of new orleans which had nothing to do with global warming, it was a category three hurricane, not a category five. reporter: but for now he forecasts more intense rain and</field>
+</doc>
+</add>

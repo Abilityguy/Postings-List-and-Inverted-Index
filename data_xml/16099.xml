@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201304.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130414_160000_Americas_News_Headquarters#start/3484/end/3519</field>
+<field name="datetime">4/14/2013 16:58:19</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20130414_160000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130414_160000_Americas_News_Headquarters/FOXNEWSW_20130414_160000_Americas_News_Headquarters.thumbs/FOXNEWSW_20130414_160000_Americas_News_Headquarters_003465.jpg</field>
+<field name="snippet">the temperature lull casts doubt on how the atmosphere mae be responding. they had a study blaming chinese coal use for the lack of global warming. in an ironic twist proponents are claiming that coal use is save us from dangerous global</field>
+</doc>
+</add>

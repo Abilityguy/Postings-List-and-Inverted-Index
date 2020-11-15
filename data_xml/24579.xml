@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201607.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160724_160000_Americas_Election_HQ#start/5032/end/5067</field>
+<field name="datetime">7/24/2016 17:24:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Election HQ</field>
+<field name="showid">FOXNEWSW_20160724_160000_Americas_Election_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160724_160000_Americas_Election_HQ/FOXNEWSW_20160724_160000_Americas_Election_HQ.thumbs/FOXNEWSW_20160724_160000_Americas_Election_HQ_005007.jpg</field>
+<field name="snippet">people marching down market street from city hall to independence hall about climate change. interesting on a day when it could hit 100 degrees. officials are predicting 35000 to 55000 protestors every</field>
+</doc>
+</add>

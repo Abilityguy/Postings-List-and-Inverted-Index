@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170527_100000_Fox_and_Friends_Saturday#start/263/end/298</field>
+<field name="datetime">5/27/2017 10:04:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20170527_100000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170527_100000_Fox_and_Friends_Saturday/FOXNEWSW_20170527_100000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20170527_100000_Fox_and_Friends_Saturday_000237.jpg</field>
+<field name="snippet">headline is that the president's thinking on climate change and paris climate accord is quote evolving according to aides closest to him. he has had a chance to listen to g-7 leaders. he has come to a broader and</field>
+</doc>
+</add>

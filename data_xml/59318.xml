@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201106.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110610_060000_Hardball_With_Chris_Matthews#start/2206/end/2241</field>
+<field name="datetime">6/10/2011 6:37:01</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball With Chris Matthews</field>
+<field name="showid">MSNBC_20110610_060000_Hardball_With_Chris_Matthews</field>
+<field name="preview">https://archive.org/download/MSNBC_20110610_060000_Hardball_With_Chris_Matthews/MSNBC_20110610_060000_Hardball_With_Chris_Matthews.thumbs/MSNBC_20110610_060000_Hardball_With_Chris_Matthews_001950.jpg</field>
+<field name="snippet">welcome back to 'hardball.' at a town meeting in new hampshire just last week, mitt romney was asked by a voter about his stance on global warming. here is what the former governor of massachusetts had to say.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201510.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151012_210000_The_Five#start/3611/end/3646</field>
+<field name="datetime">10/12/2015 22:00:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20151012_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151012_210000_The_Five/FOXNEWSW_20151012_210000_The_Five.thumbs/FOXNEWSW_20151012_210000_The_Five_003615.jpg</field>
+<field name="snippet">president obama said he never did like his own plan to train rebels in syria and cites climate change as an example of his global leadership. this is 'special report.'</field>
+</doc>
+</add>

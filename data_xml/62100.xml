@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201804.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180413_000000_Tucker_Carlson_Tonight#start/3019/end/3054</field>
+<field name="datetime">4/13/2018 0:50:34</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20180413_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180413_000000_Tucker_Carlson_Tonight/FOXNEWSW_20180413_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20180413_000000_Tucker_Carlson_Tonight_002997.jpg</field>
+<field name="snippet">tucker: you just made that up on the fly. you should be a global warming engineer. i'm impressed that you got it. maybe she'll make up this one</field>
+</doc>
+</add>

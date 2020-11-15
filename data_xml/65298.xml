@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190309_110000_Fox_and_Friends_Saturday#start/6839/end/6874</field>
+<field name="datetime">3/9/2019 12:54:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20190309_110000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190309_110000_Fox_and_Friends_Saturday/FOXNEWSW_20190309_110000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20190309_110000_Fox_and_Friends_Saturday_006838.jpg</field>
+<field name="snippet">we are on a seriously, seriously different path. pete: okay. a group of ecoactivists in the u.k. believe climate change poses such a dire threat to humanity they are pledging that they will not have kids. it's all part of a movement</field>
+</doc>
+</add>

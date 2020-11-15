@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181122_230000_BBC_News#start/1381/end/1416</field>
+<field name="datetime">11/22/2018 23:23:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181122_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181122_230000_BBC_News/BBCNEWS_20181122_230000_BBC_News.thumbs/BBCNEWS_20181122_230000_BBC_News_001377.jpg</field>
+<field name="snippet">they account for one-third of all greenhouse gases produced worldwide. environmental groups say chinese companies are building dozens more of these plants. one of the latest is in serbia, from where our science editor david shukman reports. a dark winter afternoon in serbia, and one of the country's largest power stations is working</field>
+</doc>
+</add>

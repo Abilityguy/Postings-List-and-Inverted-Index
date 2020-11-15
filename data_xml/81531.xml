@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091218_110000_Morning_Joe#start/1836/end/1871</field>
+<field name="datetime">12/18/2009 11:30:51</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20091218_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20091218_110000_Morning_Joe/MSNBC_20091218_110000_Morning_Joe.thumbs/MSNBC_20091218_110000_Morning_Joe_001832.jpg</field>
+<field name="snippet">leaders from around the world. climate change opposes a great and growing concern to our people. all of you would not be here unless you, like me, were convinced that this danger is</field>
+</doc>
+</add>

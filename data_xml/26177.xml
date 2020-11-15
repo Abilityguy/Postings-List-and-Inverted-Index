@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201003.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100329_083000_Cavuto_on_Business#start/87/end/122</field>
+<field name="datetime">3/29/2010 8:31:42</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Cavuto on Business</field>
+<field name="showid">FOXNEWS_20100329_083000_Cavuto_on_Business</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100329_083000_Cavuto_on_Business/FOXNEWS_20100329_083000_Cavuto_on_Business.thumbs/FOXNEWS_20100329_083000_Cavuto_on_Business_000056.jpg</field>
+<field name="snippet">raise awareness for climate change. i'm julie banderas. now have back to 'huckabee.' mike: my next guest has</field>
+</doc>
+</add>

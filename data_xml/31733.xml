@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201210.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121015_080000_FOX_News_Sunday_With_Chris_Wallace#start/3323/end/3358</field>
+<field name="datetime">10/15/2012 8:55:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Sunday With Chris Wallace</field>
+<field name="showid">FOXNEWSW_20121015_080000_FOX_News_Sunday_With_Chris_Wallace</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121015_080000_FOX_News_Sunday_With_Chris_Wallace/FOXNEWSW_20121015_080000_FOX_News_Sunday_With_Chris_Wallace.thumbs/FOXNEWSW_20121015_080000_FOX_News_Sunday_With_Chris_Wallace_003298.jpg</field>
+<field name="snippet">he has a history of speaking out about global warming. he was the first governor to sign cap and trade. do you think his support for coal is sincere? that's a tough question. i talk to a lot of coal miners.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190725_013000_Wednesday_in_Parliament#start/37/end/72</field>
+<field name="datetime">7/25/2019 1:30:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Wednesday in Parliament</field>
+<field name="showid">BBCNEWS_20190725_013000_Wednesday_in_Parliament</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190725_013000_Wednesday_in_Parliament/BBCNEWS_20190725_013000_Wednesday_in_Parliament.thumbs/BBCNEWS_20190725_013000_Wednesday_in_Parliament_000029.jpg</field>
+<field name="snippet">it's reported they were fired more than 20 minutes apart. it comes after kim jong un was pictured alongside a newly-built submarine. scientists in the united states say the speed and extent of the current period of global warming exceeds any similar event in the past 2000 years. the warning comes as western europe swelters in the second heatwave</field>
+</doc>
+</add>

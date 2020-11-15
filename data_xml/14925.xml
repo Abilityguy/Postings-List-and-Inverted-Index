@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201312.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20131211_220000_The_Five#start/280/end/315</field>
+<field name="datetime">12/11/2013 22:04:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20131211_220000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20131211_220000_The_Five/FOXNEWSW_20131211_220000_The_Five.thumbs/FOXNEWSW_20131211_220000_The_Five_000255.jpg</field>
+<field name="snippet">degrees windchill. which is, if i remember right, back in the day of soldier field, the toilets used to freeze. and guess what, they still freeze 25 years later. 75% of the country is blanketed in below-normal temperatures right now. the problem is that greenpeace went with global warming again.</field>
+</doc>
+</add>

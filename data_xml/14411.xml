@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201812.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181202_150000_AM_Joy#start/6566/end/6601</field>
+<field name="datetime">12/2/2018 16:49:41</field>
+<field name="station">MSNBC</field>
+<field name="show">AM Joy</field>
+<field name="showid">MSNBCW_20181202_150000_AM_Joy</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181202_150000_AM_Joy/MSNBCW_20181202_150000_AM_Joy.thumbs/MSNBCW_20181202_150000_AM_Joy_006567.jpg</field>
+<field name="snippet">warming's going to shrink the climate by 10% if we don't adapt to the risks of climate change. scientists warn of worsening droughts, devastating wildfires and things people are already</field>
+</doc>
+</add>

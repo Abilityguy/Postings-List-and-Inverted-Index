@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191008_040000_Tucker_Carlson_Tonight#start/2440/end/2475</field>
+<field name="datetime">10/8/2019 4:40:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20191008_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191008_040000_Tucker_Carlson_Tonight/FOXNEWSW_20191008_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20191008_040000_Tucker_Carlson_Tonight_002429.jpg</field>
+<field name="snippet">if the target of criticism, but when the chinese do it, people seem to be okay with the violation of core values and of course, as you probably know, the most egregious hypocrisy on this front is climate change. if you actually buy the argument</field>
+</doc>
+</add>

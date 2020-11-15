@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201211.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121103_110000_Weekends_With_Alex_Witt#start/3035/end/3070</field>
+<field name="datetime">11/3/2012 11:50:50</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20121103_110000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121103_110000_Weekends_With_Alex_Witt/MSNBCW_20121103_110000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20121103_110000_Weekends_With_Alex_Witt_003029.jpg</field>
+<field name="snippet">focused on climate change. is this a wake-up call and could it end the debate? the problem is you can't ever say any one specific weather event is caused by climate change but you can look at the growing stack of reports saying we know we're going to see more of this. the national academies of</field>
+</doc>
+</add>

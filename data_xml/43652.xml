@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151211_110000_Morning_Joe#start/3489/end/3524</field>
+<field name="datetime">12/11/2015 11:58:24</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20151211_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151211_110000_Morning_Joe/MSNBCW_20151211_110000_Morning_Joe.thumbs/MSNBCW_20151211_110000_Morning_Joe_003495.jpg</field>
+<field name="snippet">when people talk about global warming i'm like okay, why are we missing out on it in the northeast? you can look at the planets</field>
+</doc>
+</add>

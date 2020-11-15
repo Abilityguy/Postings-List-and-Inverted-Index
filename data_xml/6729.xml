@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190910_170000_BBC_News_at_Six#start/1506/end/1541</field>
+<field name="datetime">9/10/2019 17:25:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20190910_170000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190910_170000_BBC_News_at_Six/BBCNEWS_20190910_170000_BBC_News_at_Six.thumbs/BBCNEWS_20190910_170000_BBC_News_at_Six_001498.jpg</field>
+<field name="snippet">scotland's wind turbines in the first half of this year produced enough energy to power all of the country's homes. but in a low carbon future, in the fight against climate change, it is the ground beneath, acres of peat land, that may be a vital and overlooked resource.</field>
+</doc>
+</add>

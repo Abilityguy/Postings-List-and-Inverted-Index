@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190929_000000_Watters_World#start/1759/end/1794</field>
+<field name="datetime">9/29/2019 0:29:34</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Watters World</field>
+<field name="showid">FOXNEWSW_20190929_000000_Watters_World</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190929_000000_Watters_World/FOXNEWSW_20190929_000000_Watters_World.thumbs/FOXNEWSW_20190929_000000_Watters_World_001737.jpg</field>
+<field name="snippet">'watters world' for your headlines, log on to foxnews.com. you are watching the powerful name in news fox news network. the democratic party all about global warming these days and many times blaming cow you know what on rising temperatures throughout the world so it's</field>
+</doc>
+</add>

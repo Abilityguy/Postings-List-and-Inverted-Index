@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201904.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190414_180000_MSNBC_Live_with_Kendis_Gibson#start/799/end/834</field>
+<field name="datetime">4/14/2019 18:13:34</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live with Kendis Gibson</field>
+<field name="showid">MSNBCW_20190414_180000_MSNBC_Live_with_Kendis_Gibson</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190414_180000_MSNBC_Live_with_Kendis_Gibson/MSNBCW_20190414_180000_MSNBC_Live_with_Kendis_Gibson.thumbs/MSNBCW_20190414_180000_MSNBC_Live_with_Kendis_Gibson_000778.jpg</field>
+<field name="snippet">it's a commitment to dealing with climate change. it's a resolution people have voted for or against. it's a grand vision at this point. it's a real thing. they wish it wasn't what it ma</field>
+</doc>
+</add>

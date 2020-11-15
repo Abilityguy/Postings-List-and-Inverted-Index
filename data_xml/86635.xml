@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191215_090000_BBC_News#start/1842/end/1877</field>
+<field name="datetime">12/15/2019 9:30:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191215_090000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191215_090000_BBC_News/BBCNEWS_20191215_090000_BBC_News.thumbs/BBCNEWS_20191215_090000_BBC_News_001827.jpg</field>
+<field name="snippet">dies in hospital. 20 survivors remain in critical condition. negotiators have worked through the night at un climate talks in madrid, in a bid to salvage efforts on tackling global warming.</field>
+</doc>
+</add>

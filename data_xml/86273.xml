@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191215_023000_Dateline_London#start/1809/end/1844</field>
+<field name="datetime">12/15/2019 3:00:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Dateline London</field>
+<field name="showid">BBCNEWS_20191215_023000_Dateline_London</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191215_023000_Dateline_London/BBCNEWS_20191215_023000_Dateline_London.thumbs/BBCNEWS_20191215_023000_Dateline_London_001768.jpg</field>
+<field name="snippet">welcome to bbc news, i'm james reynolds. our top stories: extra time for climate talks in madrid, as delegates struggle to agree on crucial measures to tackle global warming.</field>
+</doc>
+</add>

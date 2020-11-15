@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100226_230000_Special_Report_With_Bret_Baier#start/1809/end/1844</field>
+<field name="datetime">2/26/2010 23:30:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100226_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100226_230000_Special_Report_With_Bret_Baier/FOXNEWS_20100226_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100226_230000_Special_Report_With_Bret_Baier_001704.jpg</field>
+<field name="snippet">pickings from the political grapevine. we begin with a friday follow-up to an earlier story. it is back to the drawing board for the world's climate scientists. in the wake of mistakes, errors and apparent coverups surround go ahead global warming</field>
+</doc>
+</add>

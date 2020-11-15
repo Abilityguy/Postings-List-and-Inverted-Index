@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201710.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171031_050000_The_Briefing#start/1248/end/1283</field>
+<field name="datetime">10/31/2017 5:21:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20171031_050000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171031_050000_The_Briefing/BBCNEWS_20171031_050000_The_Briefing.thumbs/BBCNEWS_20171031_050000_The_Briefing_001227.jpg</field>
+<field name="snippet">of australia and new zealand. it's to mark the centenary of a famous cavalry charge that helped take the city of beersheba from turkish forces. at 10:30 gmt in geneva, we'll learn from the un environment programme about global efforts to fight greenhouse gas</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_130000_BBC_News_at_One#start/389/end/424</field>
+<field name="datetime">1/16/2020 13:06:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20200116_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_130000_BBC_News_at_One/BBCNEWS_20200116_130000_BBC_News_at_One.thumbs/BBCNEWS_20200116_130000_BBC_News_at_One_000388.jpg</field>
+<field name="snippet">are ferocious, out-of-control, and far worse than usual. they've made headlines around the world, and scientists have warned that climate change has made them more severe. now sir david attenborough agrees with them. as i speak, south-east</field>
+</doc>
+</add>

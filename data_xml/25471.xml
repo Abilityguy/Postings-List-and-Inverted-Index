@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201407.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140714_050000_Stossel#start/2166/end/2201</field>
+<field name="datetime">7/14/2014 5:36:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Stossel</field>
+<field name="showid">FOXNEWSW_20140714_050000_Stossel</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140714_050000_Stossel/FOXNEWSW_20140714_050000_Stossel.thumbs/FOXNEWSW_20140714_050000_Stossel_002115.jpg</field>
+<field name="snippet">what happened today. what building burned down, what army invaded, the damage from a tornado. but when it come to news that happens slowly, the media often get it utterly wrong, and i suspect they're getting it wrong about things like global</field>
+</doc>
+</add>

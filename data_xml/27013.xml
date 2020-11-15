@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100224_090000_Special_Report_With_Bret_Baier#start/631/end/666</field>
+<field name="datetime">2/24/2010 9:10:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100224_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100224_090000_Special_Report_With_Bret_Baier/FOXNEWS_20100224_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100224_090000_Special_Report_With_Bret_Baier_000625.jpg</field>
+<field name="snippet">so far, reid has said no. climate scientists who insist there is no debate about manmade global warming, debate going back to basics to fix flawed research. and we'll get a live update on the condition of former vice president dick cheney.</field>
+</doc>
+</add>

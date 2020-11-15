@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_110000_BBC_Newsroom_Live#start/3629/end/3664</field>
+<field name="datetime">1/16/2020 12:00:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20200116_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_110000_BBC_Newsroom_Live/BBCNEWS_20200116_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20200116_110000_BBC_Newsroom_Live_003629.jpg</field>
+<field name="snippet">since he and his wife meghan announced they'll be stepping back from their roles as senior royals. 'the moment of crisis has come' - david attenborough tells the bbc efforts to tackle climate change need to happen now as global temperatures reach the second highest on record. this is an urgent problem</field>
+</doc>
+</add>

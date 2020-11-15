@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190419_153000_We_are_Bradford#start/1816/end/1851</field>
+<field name="datetime">4/19/2019 16:00:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">We are Bradford</field>
+<field name="showid">BBCNEWS_20190419_153000_We_are_Bradford</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190419_153000_We_are_Bradford/BBCNEWS_20190419_153000_We_are_Bradford.thumbs/BBCNEWS_20190419_153000_We_are_Bradford_001798.jpg</field>
+<field name="snippet">the prime minister has described the killing ofjournalist lyra mckee in londonderry as 'shocking and truly senseless'. it's also been condemned by political leaders in northern ireland and the irish taoiseach. hundreds of police have begun removing climate change protesters</field>
+</doc>
+</add>

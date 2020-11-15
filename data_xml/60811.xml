@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201804.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180410_010000_BBC_News#start/1410/end/1445</field>
+<field name="datetime">4/10/2018 1:23:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180410_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180410_010000_BBC_News/BBCNEWS_20180410_010000_BBC_News.thumbs/BBCNEWS_20180410_010000_BBC_News_001408.jpg</field>
+<field name="snippet">in london today, more than 100 countries started to talk about cutting emissions from shipping. for some, like the small island states, vulnerable to climate change, this is a vital chance to head off the most damaging</field>
+</doc>
+</add>

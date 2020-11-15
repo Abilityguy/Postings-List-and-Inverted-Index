@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201303.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130310_193000_FOX_News_Watch#start/95/end/130</field>
+<field name="datetime">3/10/2013 19:31:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Watch</field>
+<field name="showid">FOXNEWSW_20130310_193000_FOX_News_Watch</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130310_193000_FOX_News_Watch/FOXNEWSW_20130310_193000_FOX_News_Watch.thumbs/FOXNEWSW_20130310_193000_FOX_News_Watch_000075.jpg</field>
+<field name="snippet">they found bone fragments that suggested the north pole was populated by giant camels. giant camels on the north pole. and this is simply fantastic. now, there's a global warming aspect because it had to be warm for the camels to live there. so if this is going to happen</field>
+</doc>
+</add>

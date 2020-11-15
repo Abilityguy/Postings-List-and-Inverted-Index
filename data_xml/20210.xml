@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201404.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140419_203000_Americas_News_Headquarters#start/1823/end/1858</field>
+<field name="datetime">4/19/2014 21:00:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20140419_203000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140419_203000_Americas_News_Headquarters/FOXNEWSW_20140419_203000_Americas_News_Headquarters.thumbs/FOXNEWSW_20140419_203000_Americas_News_Headquarters_001815.jpg</field>
+<field name="snippet">global warming. and overwhelming science. overwhelming? this is a huge, huge, planetary crisis. what should we do about it? um, i'm not sure.</field>
+</doc>
+</add>

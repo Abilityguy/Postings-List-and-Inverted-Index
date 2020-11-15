@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201107.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20110727_150000_Happening_Now#start/1677/end/1712</field>
+<field name="datetime">7/27/2011 15:28:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20110727_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20110727_150000_Happening_Now/FOXNEWSW_20110727_150000_Happening_Now.thumbs/FOXNEWSW_20110727_150000_Happening_Now_001676.jpg</field>
+<field name="snippet">jon: does it go anywhere close to the climate change debate that's underway here on earth? you know, if moon had erupting volcanos a few years -- well, a few million years ago, however you want to put it, you know, it's not like we've been up</field>
+</doc>
+</add>

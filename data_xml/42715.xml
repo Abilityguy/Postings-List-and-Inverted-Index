@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201304.csv</field>
+<field name="url">https://archive.org/details/CNNW_20130412_090000_EarlyStart#start/7078/end/7113</field>
+<field name="datetime">4/12/2013 10:58:13</field>
+<field name="station">CNN</field>
+<field name="show">EarlyStart</field>
+<field name="showid">CNNW_20130412_090000_EarlyStart</field>
+<field name="preview">https://archive.org/download/CNNW_20130412_090000_EarlyStart/CNNW_20130412_090000_EarlyStart.thumbs/CNNW_20130412_090000_EarlyStart_007065.jpg</field>
+<field name="snippet">trees will talk to networks will talk to scientists about climate change. cars will talk to road sensors will talk to stoplights about traffic efficiency. the ambulance will talk to patient records will talk to doctors about saving lives.</field>
+</doc>
+</add>

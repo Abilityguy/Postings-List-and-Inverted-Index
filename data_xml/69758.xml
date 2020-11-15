@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201611.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161115_200000_MSNBC_Live_With_Kate_Snow#start/2498/end/2533</field>
+<field name="datetime">11/15/2016 20:41:53</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Kate Snow</field>
+<field name="showid">MSNBCW_20161115_200000_MSNBC_Live_With_Kate_Snow</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161115_200000_MSNBC_Live_With_Kate_Snow/MSNBCW_20161115_200000_MSNBC_Live_With_Kate_Snow.thumbs/MSNBCW_20161115_200000_MSNBC_Live_With_Kate_Snow_002488.jpg</field>
+<field name="snippet">well, you know, for one thing, the president led off at the press conference with, i think what you'd call, an everything is awesome kind of presentation of how well the economy's doing and climate change and international affairs, just sort of ticking off the achievements of his administration.</field>
+</doc>
+</add>

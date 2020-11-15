@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151201_100000_First_Look#start/16/end/51</field>
+<field name="datetime">12/1/2015 10:00:31</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20151201_100000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151201_100000_First_Look/MSNBCW_20151201_100000_First_Look.thumbs/MSNBCW_20151201_100000_First_Look_000046.jpg</field>
+<field name="snippet">right now on 'first look,' in paris, president obama pledges action on climate change. the united states of america not only recognizes our role in creating this problem we embrace our responsibility to do</field>
+</doc>
+</add>

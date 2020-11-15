@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091111_000000_The_FOX_Report_With_Shepard_Smith#start/2680/end/2715</field>
+<field name="datetime">11/11/2009 0:44:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The FOX Report With Shepard Smith</field>
+<field name="showid">FOXNEWS_20091111_000000_The_FOX_Report_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091111_000000_The_FOX_Report_With_Shepard_Smith/FOXNEWS_20091111_000000_The_FOX_Report_With_Shepard_Smith.thumbs/FOXNEWS_20091111_000000_The_FOX_Report_With_Shepard_Smith_002664.jpg</field>
+<field name="snippet">estimated 20000 a decade ago. a team for eight people looking for four days couldn't find a single one this year. researchers blame development, plus wildfires and climate change for the declining numbers and that's a wrap on this fox trip around the world in 80 seconds.</field>
+</doc>
+</add>

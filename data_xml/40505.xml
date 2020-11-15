@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201907.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190722_100000_Morning_Joe#start/10546/end/10581</field>
+<field name="datetime">7/22/2019 12:56:01</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20190722_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190722_100000_Morning_Joe/MSNBCW_20190722_100000_Morning_Joe.thumbs/MSNBCW_20190722_100000_Morning_Joe_010530.jpg</field>
+<field name="snippet">focused on things like how are you going to pay for your health care plan? how are you going to address climate change? then of course there is always the question of how are you going to defeat donald trump? but that is almost universally an answer of, you know, we got to unify the nation and stand up</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170104_010000_The_OReilly_Factor#start/3415/end/3450</field>
+<field name="datetime">1/4/2017 1:57:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20170104_010000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170104_010000_The_OReilly_Factor/FOXNEWSW_20170104_010000_The_OReilly_Factor.thumbs/FOXNEWSW_20170104_010000_The_OReilly_Factor_003387.jpg</field>
+<field name="snippet">you support global warning, two of my least favorite subjects. an educational issue, one i cannot possibly define with any accuracy. global warming is real but no one knows whether it's a natural</field>
+</doc>
+</add>

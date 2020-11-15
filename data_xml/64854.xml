@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190315_220000_Special_Report_With_Bret_Baier#start/625/end/660</field>
+<field name="datetime">3/15/2019 22:10:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20190315_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190315_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20190315_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20190315_220000_Special_Report_With_Bret_Baier_000598.jpg</field>
+<field name="snippet">inenvironmental manifesto. meanwhile young people are demanding action on climate change that some view as an existential threat to their futures. correspondent peter doocy shows us tonight. [chanting] today students worried about global warming staged</field>
+</doc>
+</add>

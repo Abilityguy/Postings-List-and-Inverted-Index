@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201503.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150319_100000_Morning_Joe#start/1405/end/1440</field>
+<field name="datetime">3/19/2015 10:23:40</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20150319_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150319_100000_Morning_Joe/MSNBCW_20150319_100000_Morning_Joe.thumbs/MSNBCW_20150319_100000_Morning_Joe_001395.jpg</field>
+<field name="snippet">nice. we want to use the power and voice of the company to take on bigger issues. and we feel lucky to be able to do it. ben and jerry's says if you tweet them about your work on climate change the tesla could make a stop in your city.</field>
+</doc>
+</add>

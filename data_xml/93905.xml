@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190731_130000_Afternoon_Live#start/8809/end/8844</field>
+<field name="datetime">7/31/2019 15:27:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190731_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190731_130000_Afternoon_Live/BBCNEWS_20190731_130000_Afternoon_Live.thumbs/BBCNEWS_20190731_130000_Afternoon_Live_008788.jpg</field>
+<field name="snippet">despite a sizzling summer in 2018, the year was only the seventh warmest thanks to cold spells and increased snowfall. the last time the uk had a top-ten cold year was 1963 when arctic conditions saw the seas freeze in some places. climate change, says experts, has significantly increased the difference between the hottest and the coldest years.</field>
+</doc>
+</add>

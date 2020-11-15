@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090708_220000_Special_Report_With_Bret_Baier#start/310/end/345</field>
+<field name="datetime">7/8/2009 22:05:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20090708_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090708_220000_Special_Report_With_Bret_Baier/FOXNEWS_20090708_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20090708_220000_Special_Report_With_Bret_Baier_000300.jpg</field>
+<field name="snippet">2050. these are non-binding goals with no enforcement mechanism. what's more, developing nations like china and india are not onboard. their pollution, if left unchecked, could cancel out g8 greenhouse gas reductions.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181201_010000_BBC_News#start/0/end/34</field>
+<field name="datetime">12/1/2018 1:00:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181201_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181201_010000_BBC_News/BBCNEWS_20181201_010000_BBC_News.thumbs/BBCNEWS_20181201_010000_BBC_News_000027.jpg</field>
+<field name="snippet">welcome to bbc news, broadcasting to viewers in north america and around the globe. my name is ben bland. our top stories: world leaders gather in buenos aires for the 620 summit, but there is tension over trade, climate change and the situation in ukraine. a 7.0-magnitude earthquake hits alaska, near the city of anchorage,</field>
+</doc>
+</add>

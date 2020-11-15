@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190818_200000_World_News_Today#start/1206/end/1241</field>
+<field name="datetime">8/18/2019 20:20:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190818_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190818_200000_World_News_Today/BBCNEWS_20190818_200000_World_News_Today.thumbs/BBCNEWS_20190818_200000_World_News_Today_001197.jpg</field>
+<field name="snippet">glaciers, ok is the first to lose its glacier status, but scientists warned all of the island's glaciers could be lost within 200 years, due to climate change. a plaque unveiled at the site titled, a letter to the future, reads- this monument</field>
+</doc>
+</add>

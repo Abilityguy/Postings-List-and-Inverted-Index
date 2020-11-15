@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201411.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141116_060000_Hannity#start/1766/end/1801</field>
+<field name="datetime">11/16/2014 6:29:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20141116_060000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141116_060000_Hannity/FOXNEWSW_20141116_060000_Hannity.thumbs/FOXNEWSW_20141116_060000_Hannity_001755.jpg</field>
+<field name="snippet">not the united states, is does it contribute to the greenhouse gases that are causing climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190611_120000_BBC_News_at_One#start/1136/end/1171</field>
+<field name="datetime">6/11/2019 12:19:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190611_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190611_120000_BBC_News_at_One/BBCNEWS_20190611_120000_BBC_News_at_One.thumbs/BBCNEWS_20190611_120000_BBC_News_at_One_001108.jpg</field>
+<field name="snippet">fuelling climate change. the local government want clean, renewable energy instead. but wind power and solar power ebb and flow. so they need a way of storing energy for use at night time.</field>
+</doc>
+</add>

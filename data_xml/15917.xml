@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201106.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110624_010000_Hannity#start/2536/end/2571</field>
+<field name="datetime">6/24/2011 1:42:31</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20110624_010000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110624_010000_Hannity/FOXNEWS_20110624_010000_Hannity.thumbs/FOXNEWS_20110624_010000_Hannity_002520.jpg</field>
+<field name="snippet">there's been no -- [ talking over each other ] you read me where it says the word climate change? sean: you have to read it to understand what it is.</field>
+</doc>
+</add>

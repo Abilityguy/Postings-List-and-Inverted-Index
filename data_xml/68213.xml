@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190222_140000_Afternoon_Live#start/2534/end/2569</field>
+<field name="datetime">2/22/2019 14:42:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190222_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190222_140000_Afternoon_Live/BBCNEWS_20190222_140000_Afternoon_Live.thumbs/BBCNEWS_20190222_140000_Afternoon_Live_002518.jpg</field>
+<field name="snippet">because anything can happen. you can have a new disease, you can have a problem with climate change, so it's very important to have available a wider range of species to feed the world. with the global population approaching 8 billion people, the un warns we need to rethink</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191126_230000_BBC_News#start/64/end/99</field>
+<field name="datetime">11/26/2019 23:01:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191126_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191126_230000_BBC_News/BBCNEWS_20191126_230000_BBC_News.thumbs/BBCNEWS_20191126_230000_BBC_News_000057.jpg</field>
+<field name="snippet">first ounce. -- first bounce. a bleak outlook on climate change. the united nations says the world has to act much faster to avoid dangerous levels of global warming. and a remarkable comeback from 2-0 down by spurs, as they book their place</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191125_030000_BBC_News#start/1069/end/1104</field>
+<field name="datetime">11/25/2019 3:18:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191125_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191125_030000_BBC_News/BBCNEWS_20191125_030000_BBC_News.thumbs/BBCNEWS_20191125_030000_BBC_News_001048.jpg</field>
+<field name="snippet">with a $30 million ad campaign that focuses on some of the issues he's most concerned with, including tackling gun violence and climate change. now, that would be very expensive for some candidates, but it's just a drop in the ocean</field>
+</doc>
+</add>

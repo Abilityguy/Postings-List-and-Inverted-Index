@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191113_230000_Special_Report_With_Bret_Baier#start/1386/end/1421</field>
+<field name="datetime">11/13/2019 23:23:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20191113_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191113_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20191113_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20191113_230000_Special_Report_With_Bret_Baier_001378.jpg</field>
+<field name="snippet">up next, the troubled relationship between nato and turkey as the turkish president is at the white house. first, beyond our borders tonight. the mayor of venice is blaming climate change for flooding the historic italian canal city that has reached the second highest level ever recorded.</field>
+</doc>
+</add>

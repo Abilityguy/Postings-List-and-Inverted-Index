@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201204.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120414_120000_Up_W_Chris_Hayes#start/6457/end/6492</field>
+<field name="datetime">4/14/2012 13:47:52</field>
+<field name="station">MSNBC</field>
+<field name="show">Up W Chris Hayes</field>
+<field name="showid">MSNBCW_20120414_120000_Up_W_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120414_120000_Up_W_Chris_Hayes/MSNBCW_20120414_120000_Up_W_Chris_Hayes.thumbs/MSNBCW_20120414_120000_Up_W_Chris_Hayes_006446.jpg</field>
+<field name="snippet">distinct all-time temperature records were set across the country and thanks to the environmental visualization lab we just know what climate change actually looks like. we now know that the president will not be signing an executive order that will require those</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190222_110000_BBC_Newsroom_Live#start/45/end/80</field>
+<field name="datetime">2/22/2019 11:01:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190222_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190222_110000_BBC_Newsroom_Live/BBCNEWS_20190222_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190222_110000_BBC_Newsroom_Live_001708.jpg</field>
+<field name="snippet">this is unbelievable to me. a stark warning from the un, climate change could affect our ability to feed the world. and coming up - we'll be looking at the impact that fashion is having on our planet.</field>
+</doc>
+</add>

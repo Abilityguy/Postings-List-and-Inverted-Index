@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191115_220000_BBC_News_at_Ten#start/419/end/454</field>
+<field name="datetime">11/15/2019 22:07:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20191115_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191115_220000_BBC_News_at_Ten/BBCNEWS_20191115_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20191115_220000_BBC_News_at_Ten_000418.jpg</field>
+<field name="snippet">let's take a look at some of today's other election news. the liberal democrats say they would invest heavily in tackling climate change if they're elected to power. they want to spend £100 billion over five years in areas such as clean energy and transport, and home insulation.</field>
+</doc>
+</add>

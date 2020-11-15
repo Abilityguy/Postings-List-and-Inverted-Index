@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190409_130000_Afternoon_Live#start/1472/end/1507</field>
+<field name="datetime">4/9/2019 13:24:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190409_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190409_130000_Afternoon_Live/BBCNEWS_20190409_130000_Afternoon_Live.thumbs/BBCNEWS_20190409_130000_Afternoon_Live_001827.jpg</field>
+<field name="snippet">researchers believe it'll give them a record of the climate going back around one-point-five million years, which could help with future predictions about climate change. here's our science correspondentjonathan amos. it's a never-ending expanse of white. this is one of the most remote places on earth, high in the</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201910.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191008_100000_Morning_Joe#start/4759/end/4794</field>
+<field name="datetime">10/8/2019 11:19:34</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20191008_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191008_100000_Morning_Joe/MSNBCW_20191008_100000_Morning_Joe.thumbs/MSNBCW_20191008_100000_Morning_Joe_004737.jpg</field>
+<field name="snippet">will say this is donald trump pulling back america's traditional role in the world, pulling back the idea of america as a leader on climate change, on a number of issues, on equality. all sorts of issues that america used to be looked at to say this</field>
+</doc>
+</add>

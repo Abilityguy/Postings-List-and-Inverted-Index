@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_123000_BBC_News#start/897/end/932</field>
+<field name="datetime">9/20/2019 12:45:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190920_123000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_123000_BBC_News/BBCNEWS_20190920_123000_BBC_News.thumbs/BBCNEWS_20190920_123000_BBC_News_000867.jpg</field>
+<field name="snippet">today, where tens of thousands of children took to the streets. they were calling for australia, which is the world's largest exporter of coal, to take more drastic action to reduce greenhouse gas emissions. these people explained why</field>
+</doc>
+</add>

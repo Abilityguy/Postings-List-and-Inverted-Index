@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201610.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161012_170600_Happening_Now#start/2371/end/2406</field>
+<field name="datetime">10/12/2016 17:45:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20161012_170600_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161012_170600_Happening_Now/FOXNEWSW_20161012_170600_Happening_Now.thumbs/FOXNEWSW_20161012_170600_Happening_Now_002367.jpg</field>
+<field name="snippet">and yesterday, hillary had gore for climate change. you know that i have won numerous environmental awards. i believe in the environment. i am a believer and within</field>
+</doc>
+</add>

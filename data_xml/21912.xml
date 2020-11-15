@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180825_123000_Weather_World#start/795/end/830</field>
+<field name="datetime">8/25/2018 12:43:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20180825_123000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180825_123000_Weather_World/BBCNEWS_20180825_123000_Weather_World.thumbs/BBCNEWS_20180825_123000_Weather_World_000778.jpg</field>
+<field name="snippet">at a vineyard in west sussex finding out how climate change is shaping the english wine industry. we are looking at how weather and climate impact the world -famous whisky industry in scotland. earlier we saw how maintaining the quantity and</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191106_010000_Newsday#start/27/end/62</field>
+<field name="datetime">11/6/2019 1:00:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191106_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191106_010000_Newsday/BBCNEWS_20191106_010000_Newsday.thumbs/BBCNEWS_20191106_010000_Newsday_000028.jpg</field>
+<field name="snippet">catastrophic climate change. the smog crisis engulfing india's capital. how the youngest and poorest residents are most at risk. it's killing our children. it's</field>
+</doc>
+</add>

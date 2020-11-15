@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201504.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150423_070000_All_In_With_Chris_Hayes#start/275/end/310</field>
+<field name="datetime">4/23/2015 7:04:50</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20150423_070000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150423_070000_All_In_With_Chris_Hayes/MSNBCW_20150423_070000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20150423_070000_All_In_With_Chris_Hayes_000255.jpg</field>
+<field name="snippet">polling over the past five years, only 37% of conservative republicans agree that the effects of global warming will happen in their lifetime. even among independents, the number is much higher. 66%, believing the effects will happen in their lifetime. most people recognize it's real.</field>
+</doc>
+</add>

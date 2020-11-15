@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190215_110000_BBC_Newsroom_Live#start/4974/end/5009</field>
+<field name="datetime">2/15/2019 12:23:09</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190215_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190215_110000_BBC_Newsroom_Live/BBCNEWS_20190215_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190215_110000_BBC_Newsroom_Live_004977.jpg</field>
+<field name="snippet">by youth strike for climate. it coincides with similar action in sweden, belgium, germany and australia. we need to help with global warming</field>
+</doc>
+</add>

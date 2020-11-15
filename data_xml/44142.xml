@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180125_050000_Tucker_Carlson_Tonight#start/2463/end/2498</field>
+<field name="datetime">1/25/2018 5:41:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20180125_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180125_050000_Tucker_Carlson_Tonight/FOXNEWSW_20180125_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20180125_050000_Tucker_Carlson_Tonight_002457.jpg</field>
+<field name="snippet">humanity, life on earth, you probably wouldn't be flying around on a private plane, would you? i'm glad we are in agreement that climate change is an existential threat to humanity. tucker: i'm not sure thate it is, but the people in davos are sure of it, so why are they</field>
+</doc>
+</add>

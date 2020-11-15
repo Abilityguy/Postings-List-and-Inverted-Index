@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201612.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161202_190000_Americas_News_HQ#start/1682/end/1717</field>
+<field name="datetime">12/2/2016 19:28:17</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20161202_190000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161202_190000_Americas_News_HQ/FOXNEWSW_20161202_190000_Americas_News_HQ.thumbs/FOXNEWSW_20161202_190000_Americas_News_HQ_001678.jpg</field>
+<field name="snippet">daughter ivanka trump could take on climate change. reopening the wounds of a very bitter campaign fight.</field>
+</doc>
+</add>

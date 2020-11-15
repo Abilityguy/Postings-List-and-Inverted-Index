@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201805.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180507_080000_BBC_News#start/1796/end/1831</field>
+<field name="datetime">5/7/2018 8:30:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180507_080000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180507_080000_BBC_News/BBCNEWS_20180507_080000_BBC_News.thumbs/BBCNEWS_20180507_080000_BBC_News_001797.jpg</field>
+<field name="snippet">threat from deforestation and climate change. we follow four professors and eight biologists from the university of sao paolo, a world leading institute in zoology.</field>
+</doc>
+</add>

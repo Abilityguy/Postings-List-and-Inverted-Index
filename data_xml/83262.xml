@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191015_120000_BBC_News_at_One#start/1738/end/1773</field>
+<field name="datetime">10/15/2019 12:29:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20191015_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191015_120000_BBC_News_at_One/BBCNEWS_20191015_120000_BBC_News_at_One.thumbs/BBCNEWS_20191015_120000_BBC_News_at_One_001737.jpg</field>
+<field name="snippet">the royal trip kicked off with a visit to a school in islamabad. education, along with climate change, are understood to be the issues the duke and duchess of cambridge want to focus on in particular whilst in pakistan. they also met the country's</field>
+</doc>
+</add>

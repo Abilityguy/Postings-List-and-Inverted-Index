@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191126_040000_BBC_News#start/398/end/433</field>
+<field name="datetime">11/26/2019 4:06:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191126_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191126_040000_BBC_News/BBCNEWS_20191126_040000_BBC_News.thumbs/BBCNEWS_20191126_040000_BBC_News_000388.jpg</field>
+<field name="snippet">to withdraw from the paris agreement, you're actually seeing some extraordinary action at the state level, particularly in places like california and new york, also at the city level and in other countries around the world. i do believe that as some countries really move into the front of this and demonstrate that you can bring down your greenhouse gas emissions</field>
+</doc>
+</add>

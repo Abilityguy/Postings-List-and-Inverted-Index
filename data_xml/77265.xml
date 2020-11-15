@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191119_140000_Afternoon_Live#start/2388/end/2423</field>
+<field name="datetime">11/19/2019 14:40:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20191119_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191119_140000_Afternoon_Live/BBCNEWS_20191119_140000_Afternoon_Live.thumbs/BBCNEWS_20191119_140000_Afternoon_Live_002368.jpg</field>
+<field name="snippet">he returned to racing earlier this year in a car with specially adapted hand controls. the extreme e series is a new, environment-focused racing series. 12 teams will race off-road in fully electric suvs in five remote locations around the world to highlight the effects of climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170708_000000_Tucker_Carlson_Tonight#start/187/end/222</field>
+<field name="datetime">7/8/2017 0:03:22</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20170708_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170708_000000_Tucker_Carlson_Tonight/FOXNEWSW_20170708_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20170708_000000_Tucker_Carlson_Tonight_000177.jpg</field>
+<field name="snippet">believe it or not. a2015 survey found that only 42% of europeans were very worried about global warming. meaning most people there share the president's lack of all-consuming urgency on that question. in other words, europe is much</field>
+</doc>
+</add>

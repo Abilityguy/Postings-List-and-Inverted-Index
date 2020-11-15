@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201503.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150305_110000_FOX_and_Friends#start/5411/end/5446</field>
+<field name="datetime">3/5/2015 12:30:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20150305_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150305_110000_FOX_and_Friends/FOXNEWSW_20150305_110000_FOX_and_Friends.thumbs/FOXNEWSW_20150305_110000_FOX_and_Friends_005385.jpg</field>
+<field name="snippet">answer that question. it's a very complicated issue. land and water, huge difference. the expert on climate change cannot talk hurricanesism stuart varney can, but he does it with an english accent.</field>
+</doc>
+</add>

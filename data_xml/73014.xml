@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190124_140000_Afternoon_Live#start/3549/end/3584</field>
+<field name="datetime">1/24/2019 14:59:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190124_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190124_140000_Afternoon_Live/BBCNEWS_20190124_140000_Afternoon_Live.thumbs/BBCNEWS_20190124_140000_Afternoon_Live_003538.jpg</field>
+<field name="snippet">alina has all the weather. it is all been about the ice and the snow but things will be turning a bit milder, more in half an hour. also coming up - re-drawing the map of the arctic - fears an entire sea is being swallowed up by the atlantic ocean - because of climate change.</field>
+</doc>
+</add>

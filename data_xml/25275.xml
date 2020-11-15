@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201611.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161120_000000_Fox_Report_Saturday#start/1614/end/1649</field>
+<field name="datetime">11/20/2016 0:27:09</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox Report Saturday</field>
+<field name="showid">FOXNEWSW_20161120_000000_Fox_Report_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161120_000000_Fox_Report_Saturday/FOXNEWSW_20161120_000000_Fox_Report_Saturday.thumbs/FOXNEWSW_20161120_000000_Fox_Report_Saturday_001588.jpg</field>
+<field name="snippet">pipe lines cross beneath the rivers. it is going to make people rich. and aggravate global warming.</field>
+</doc>
+</add>

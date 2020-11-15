@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190215_210000_World_News_Today#start/1398/end/1433</field>
+<field name="datetime">2/15/2019 21:23:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190215_210000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190215_210000_World_News_Today/BBCNEWS_20190215_210000_World_News_Today.thumbs/BBCNEWS_20190215_210000_World_News_Today_001377.jpg</field>
+<field name="snippet">in a day of protests, calling for action on climate change. frankie mccamley reports from manchester, where children have been out in force. we are angry that the government's not doing anything, but we also see it as important to fight for our futures. to all the politicians,</field>
+</doc>
+</add>

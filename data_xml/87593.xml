@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191230_213000_Our_World#start/45/end/80</field>
+<field name="datetime">12/30/2019 21:31:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Our World</field>
+<field name="showid">BBCNEWS_20191230_213000_Our_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191230_213000_Our_World/BBCNEWS_20191230_213000_Our_World.thumbs/BBCNEWS_20191230_213000_Our_World_000058.jpg</field>
+<field name="snippet">the swedish climate change activist greta thunberg says she wants to go back to school as soon as possible. in a bbc interview she also thanked the british broadcaster sir david attenborough for spurring her into action.</field>
+</doc>
+</add>

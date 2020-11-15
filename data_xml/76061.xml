@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190513_010000_BBC_News#start/705/end/740</field>
+<field name="datetime">5/13/2019 1:12:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190513_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190513_010000_BBC_News/BBCNEWS_20190513_010000_BBC_News.thumbs/BBCNEWS_20190513_010000_BBC_News_000687.jpg</field>
+<field name="snippet">methane, to zero, by 2050. climate change is not just about humans. it's also about wildlife. take polar bears, for example. global warming means there's less sea ice for them to hunt seals on, limiting their access to food, and threatening their survival. then you have african elephants.</field>
+</doc>
+</add>

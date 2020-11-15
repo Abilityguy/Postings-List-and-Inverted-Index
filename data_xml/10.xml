@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201103.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110315_150000_Happening_Now#start/651/end/686</field>
+<field name="datetime">3/15/2011 15:11:06</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20110315_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110315_150000_Happening_Now/FOXNEWS_20110315_150000_Happening_Now.thumbs/FOXNEWS_20110315_150000_Happening_Now_000625.jpg</field>
+<field name="snippet">forward. greg: i suppose worth pointing out that if you had generated the same amount of electricity from say coal that this fukushima plant has generated over the last 20 or 30 years you'd be talking about a whole lot of greenhouse gas,</field>
+</doc>
+</add>

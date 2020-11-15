@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_100000_BBC_Newsroom_Live#start/4171/end/4206</field>
+<field name="datetime">9/20/2019 11:09:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190920_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_100000_BBC_Newsroom_Live/BBCNEWS_20190920_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190920_100000_BBC_Newsroom_Live_004168.jpg</field>
+<field name="snippet">recent research, it shows that one of the main concern is for people across multiple countries is climate change, more than migration and more than crime even in some countries. we are very close to having a political tipping point. following</field>
+</doc>
+</add>

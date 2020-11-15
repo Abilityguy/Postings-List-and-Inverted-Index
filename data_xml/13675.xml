@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201307.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130725_100000_FOX_and_Friends#start/2964/end/2999</field>
+<field name="datetime">7/25/2013 10:49:39</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20130725_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130725_100000_FOX_and_Friends/FOXNEWSW_20130725_100000_FOX_and_Friends.thumbs/FOXNEWSW_20130725_100000_FOX_and_Friends_002955.jpg</field>
+<field name="snippet">think they're thinking of it from a national security standpoint. they want to have a lot of tools in the arsenal in case climate change is as bad as some scientists believe it is, they want to have a way of mitigating it. they're thinking if sea levels are going to rise,</field>
+</doc>
+</add>

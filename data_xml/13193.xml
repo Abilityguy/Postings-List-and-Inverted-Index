@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201101.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110102_230000_FOX_News_Sunday_With_Chris_Wallace#start/497/end/532</field>
+<field name="datetime">1/2/2011 23:08:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Sunday With Chris Wallace</field>
+<field name="showid">FOXNEWS_20110102_230000_FOX_News_Sunday_With_Chris_Wallace</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110102_230000_FOX_News_Sunday_With_Chris_Wallace/FOXNEWS_20110102_230000_FOX_News_Sunday_With_Chris_Wallace.thumbs/FOXNEWS_20110102_230000_FOX_News_Sunday_With_Chris_Wallace_000480.jpg</field>
+<field name="snippet">strongly believe that everything must be on the table as we seek to reduce carbon emissions and climate change necessitates serious solutions, is or isn't carbon a problem, and if it is,</field>
+</doc>
+</add>

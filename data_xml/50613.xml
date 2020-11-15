@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201501.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150126_220000_The_Ed_Show#start/1042/end/1077</field>
+<field name="datetime">1/26/2015 22:17:37</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20150126_220000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150126_220000_The_Ed_Show/MSNBCW_20150126_220000_The_Ed_Show.thumbs/MSNBCW_20150126_220000_The_Ed_Show_001036.jpg</field>
+<field name="snippet">up to two feet of snow is now expected in the new york city metro area. there's little doubt severe weather events are becoming more frequent in the united states. many scientists think that there is a direct link between severe weather and climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201003.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100325_010000_Hannity#start/1630/end/1665</field>
+<field name="datetime">3/25/2010 1:27:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20100325_010000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100325_010000_Hannity/FOXNEWS_20100325_010000_Hannity.thumbs/FOXNEWS_20100325_010000_Hannity_001615.jpg</field>
+<field name="snippet">decided to claim that global warming is to blame for violent crime. calling their research, irrefutable the group alleges an 8% increase in the earth's temperature would lead to approximately 100000 more assaults or murders each year</field>
+</doc>
+</add>

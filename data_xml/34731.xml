@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201509.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150925_090000_First_Look#start/997/end/1032</field>
+<field name="datetime">9/25/2015 9:16:52</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20150925_090000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150925_090000_First_Look/MSNBCW_20150925_090000_First_Look.thumbs/MSNBCW_20150925_090000_First_Look_000976.jpg</field>
+<field name="snippet">worried about surprisingly cold blob in the north atlantic ocean. all right so check out this map. the area in blue, you see it right toward the top, right, is bucking the global warming trend. some scientists believe it's being caused by a slowing of the atlantic ocean circulation, which could lead to rising seas</field>
+</doc>
+</add>

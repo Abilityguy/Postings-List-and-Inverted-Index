@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201002.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100211_170000_MSNBC_News_Live#start/2209/end/2244</field>
+<field name="datetime">2/11/2010 17:37:04</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100211_170000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100211_170000_MSNBC_News_Live/MSNBC_20100211_170000_MSNBC_News_Live.thumbs/MSNBC_20100211_170000_MSNBC_News_Live_002186.jpg</field>
+<field name="snippet">on the environmental front using it to make their case. sure. 'new york times' in 2000 said the record warm in new york city was consistent with global warming, the record cool in the summer of 2009 was consistent with natural variability. the media tries to have it both</field>
+</doc>
+</add>

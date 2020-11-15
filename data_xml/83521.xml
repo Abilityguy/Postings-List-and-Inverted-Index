@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190418_080000_BBC_News_at_Nine#start/2976/end/3011</field>
+<field name="datetime">4/18/2019 8:49:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190418_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190418_080000_BBC_News_at_Nine/BBCNEWS_20190418_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190418_080000_BBC_News_at_Nine_002967.jpg</field>
+<field name="snippet">a reminder you can get all the latest sport news on sportsday at half past six tonight on the bbc news channel that's all the sport for now. back at 11:15am. the headlines on bbc news. climate change protestors</field>
+</doc>
+</add>

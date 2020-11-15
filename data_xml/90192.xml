@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200910.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091024_120000_MSNBC_News_Live#start/3401/end/3436</field>
+<field name="datetime">10/24/2009 12:56:56</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091024_120000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091024_120000_MSNBC_News_Live/MSNBC_20091024_120000_MSNBC_News_Live.thumbs/MSNBC_20091024_120000_MSNBC_News_Live_003390.jpg</field>
+<field name="snippet">from president obama when it comes to health care. should he speak out more forcibly on the public option? ls now is energy. the energy to get the economy humming again. the energy to tackle challenges like climate change. what if that energy, came from an energy company.</field>
+</doc>
+</add>

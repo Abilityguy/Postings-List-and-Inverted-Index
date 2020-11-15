@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201907.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190704_130000_MSNBC_Live#start/10475/end/10510</field>
+<field name="datetime">7/4/2019 15:54:50</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20190704_130000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190704_130000_MSNBC_Live/MSNBCW_20190704_130000_MSNBC_Live.thumbs/MSNBCW_20190704_130000_MSNBC_Live_010469.jpg</field>
+<field name="snippet">today 86, friday 86. saturday 85. sunday 87 degrees. and one thing that we have learned from all the scientists about our changing weather on our planet, climate change, it happens faster the further north</field>
+</doc>
+</add>

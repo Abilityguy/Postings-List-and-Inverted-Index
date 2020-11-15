@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201008.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100812_010000_Hannity#start/1815/end/1850</field>
+<field name="datetime">8/12/2010 1:30:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20100812_010000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100812_010000_Hannity/FOXNEWS_20100812_010000_Hannity.thumbs/FOXNEWS_20100812_010000_Hannity_001795.jpg</field>
+<field name="snippet">break either one. sean: stand-up on top of the new oprah on daytime tv. good to see you governor. coming up al gore down in the dumps over his efforts to sound the climate crisis alarms. why he thinks he's losing the</field>
+</doc>
+</add>

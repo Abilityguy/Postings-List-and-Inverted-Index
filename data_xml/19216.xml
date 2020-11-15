@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180912_210000_The_Five#start/888/end/923</field>
+<field name="datetime">9/12/2018 21:15:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20180912_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180912_210000_The_Five/FOXNEWSW_20180912_210000_The_Five.thumbs/FOXNEWSW_20180912_210000_The_Five_000868.jpg</field>
+<field name="snippet">if there's rising climate change and fewer major hurricanes, there goes your theory. there is an increasing damage over time with these hurricanes. that is not due to the storm intensity, it's because we are increasing infrastructure in</field>
+</doc>
+</add>

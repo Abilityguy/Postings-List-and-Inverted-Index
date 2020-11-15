@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100129_200000_Studio_B_With_Shepard_Smith#start/565/end/600</field>
+<field name="datetime">1/29/2010 20:09:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Studio B With Shepard Smith</field>
+<field name="showid">FOXNEWS_20100129_200000_Studio_B_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100129_200000_Studio_B_With_Shepard_Smith/FOXNEWS_20100129_200000_Studio_B_With_Shepard_Smith.thumbs/FOXNEWS_20100129_200000_Studio_B_With_Shepard_Smith_000540.jpg</field>
+<field name="snippet">that incident was so great that they couldn't get a handle on the cause intoz new reports from the pentagon expected to link climate change with future of national security.</field>
+</doc>
+</add>

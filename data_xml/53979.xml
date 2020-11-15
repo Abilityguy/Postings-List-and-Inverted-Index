@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201807.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180704_030000_BBC_News#start/777/end/812</field>
+<field name="datetime">7/4/2018 3:13:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180704_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180704_030000_BBC_News/BBCNEWS_20180704_030000_BBC_News.thumbs/BBCNEWS_20180704_030000_BBC_News_000778.jpg</field>
+<field name="snippet">downstairs in the classroom, these science students monitor how much energy the solar panels have saved. their studies have left them with a sense of urgency about tackling climate change. just being with my classmates, all of us now make jokes about turning off the lights because we want to save energy, stuff like that, just recycling everything. you become more conscious</field>
+</doc>
+</add>

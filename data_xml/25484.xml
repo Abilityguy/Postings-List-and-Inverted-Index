@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201407.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140705_170000_Americas_News_Headquarters#start/721/end/756</field>
+<field name="datetime">7/5/2014 17:12:16</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20140705_170000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140705_170000_Americas_News_Headquarters/FOXNEWSW_20140705_170000_Americas_News_Headquarters.thumbs/FOXNEWSW_20140705_170000_Americas_News_Headquarters_000705.jpg</field>
+<field name="snippet">hi, julie. the energy department is announcing plans to allocate $4 billion in loans from renewable energy to reduce greenhouse gas emissions. now the gop is weighing in saying energy independence begins with more immediate means. it starts by building the</field>
+</doc>
+</add>

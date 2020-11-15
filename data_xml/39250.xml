@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201212.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121220_050000_Hannity#start/587/end/622</field>
+<field name="datetime">12/20/2012 5:10:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20121220_050000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121220_050000_Hannity/FOXNEWSW_20121220_050000_Hannity.thumbs/FOXNEWSW_20121220_050000_Hannity_000585.jpg</field>
+<field name="snippet">they claim the tax increes have no impact. why are they in favor of a cigarette tax? a carbon tax? lowering the corporate tax? they recognize, if you tax cigarettes, people will smoke less. if you tax carbon, people will</field>
+</doc>
+</add>

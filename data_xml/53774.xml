@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201807.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180711_030000_BBC_News#start/684/end/719</field>
+<field name="datetime">7/11/2018 3:11:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180711_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180711_030000_BBC_News/BBCNEWS_20180711_030000_BBC_News.thumbs/BBCNEWS_20180711_030000_BBC_News_000657.jpg</field>
+<field name="snippet">long awaited but also kind of dreaded by his allies here, who wonder, after the iran deal and the climate change accord, will nato be the next transatlantic</field>
+</doc>
+</add>

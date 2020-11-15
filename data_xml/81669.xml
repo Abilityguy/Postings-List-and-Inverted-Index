@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091211_140000_Morning_Meeting#start/3917/end/3952</field>
+<field name="datetime">12/11/2009 15:05:32</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Meeting</field>
+<field name="showid">MSNBC_20091211_140000_Morning_Meeting</field>
+<field name="preview">https://archive.org/download/MSNBC_20091211_140000_Morning_Meeting/MSNBC_20091211_140000_Morning_Meeting.thumbs/MSNBC_20091211_140000_Morning_Meeting_003894.jpg</field>
+<field name="snippet">what they say is big business' role in climate change. the protesters said, look, big business create this had problem by burning fossil fuels and now is trying to hijack the solution by controlling the solution to warming the planet.</field>
+</doc>
+</add>

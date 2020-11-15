@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201211.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121114_180000_America_Live#start/4596/end/4631</field>
+<field name="datetime">11/14/2012 19:16:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWSW_20121114_180000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121114_180000_America_Live/FOXNEWSW_20121114_180000_America_Live.thumbs/FOXNEWSW_20121114_180000_America_Live_004588.jpg</field>
+<field name="snippet">thank you, mr. president. in his endorsement of you a few weeks ago mayor bloomberg said he was motivated by the belief that you would do more to confront the threat of climate change than your oh point.</field>
+</doc>
+</add>

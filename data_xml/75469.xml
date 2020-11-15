@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201012.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101227_190000_News_Nation#start/1006/end/1041</field>
+<field name="datetime">12/27/2010 19:17:01</field>
+<field name="station">MSNBC</field>
+<field name="show">News Nation</field>
+<field name="showid">MSNBC_20101227_190000_News_Nation</field>
+<field name="preview">https://archive.org/download/MSNBC_20101227_190000_News_Nation/MSNBC_20101227_190000_News_Nation.thumbs/MSNBC_20101227_190000_News_Nation_000985.jpg</field>
+<field name="snippet">rule for the house of representatives. plus, 2010 was one of the most active hurricane seasons on record. add to that record-breaking cold and heat and powerful storms on both coasts. are we looking at evidence of climate change? 'news nation' is back in 30 minutes. rs.</field>
+</doc>
+</add>

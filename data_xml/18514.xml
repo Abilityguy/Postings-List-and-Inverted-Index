@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170111_043000_HARDtalk#start/1233/end/1268</field>
+<field name="datetime">1/11/2017 4:50:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">HARDtalk</field>
+<field name="showid">BBCNEWS_20170111_043000_HARDtalk</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170111_043000_HARDtalk/BBCNEWS_20170111_043000_HARDtalk.thumbs/BBCNEWS_20170111_043000_HARDtalk_001228.jpg</field>
+<field name="snippet">is a model of an international agreement, where countries retain the ability to decide for themselves what it is they want to do or don't want to do when it comes to greenhouse gas emissions, and they simply pledge to do their best, but they set their standards for themselves.</field>
+</doc>
+</add>

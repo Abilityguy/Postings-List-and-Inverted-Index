@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190327_090000_Fox_and_Friends_First#start/3156/end/3191</field>
+<field name="datetime">3/27/2019 9:52:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190327_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190327_090000_Fox_and_Friends_First/FOXNEWSW_20190327_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190327_090000_Fox_and_Friends_First_003147.jpg</field>
+<field name="snippet">jillian: we want your take on another topic, let's listen to what alexandria ocasio cortez had to say when she asked if it was okay to have kids because of climate change. there is scientific consensus the lives of children are going to be very difficult and it does lead young people to have a</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201203.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120330_130000_Americas_Newsroom#start/6039/end/6074</field>
+<field name="datetime">3/30/2012 14:40:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWSW_20120330_130000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120330_130000_Americas_Newsroom/FOXNEWSW_20120330_130000_Americas_Newsroom.thumbs/FOXNEWSW_20120330_130000_Americas_Newsroom_006026.jpg</field>
+<field name="snippet">reporter: there is lack of any concerted action between the countries of the world on this issue in any other forum. quote, faced with the urgent need to address climate change the eu chose to go forward by bringing the aviation sector into our emissions trading</field>
+</doc>
+</add>

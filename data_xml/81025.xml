@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201601.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160114_220000_MTP_Daily#start/3179/end/3214</field>
+<field name="datetime">1/14/2016 22:53:14</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20160114_220000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160114_220000_MTP_Daily/MSNBCW_20160114_220000_MTP_Daily.thumbs/MSNBCW_20160114_220000_MTP_Daily_003166.jpg</field>
+<field name="snippet">noaa says it's the first hurricane to form in january since 1938. here's what the weather channel and the national hurricane center tell us. it is likely just a flake, not climate change. they said alex formed because we haven't had the cold air this</field>
+</doc>
+</add>

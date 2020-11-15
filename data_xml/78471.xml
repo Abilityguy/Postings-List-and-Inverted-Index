@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201508.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150820_210000_The_Five#start/106/end/141</field>
+<field name="datetime">8/20/2015 21:02:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20150820_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150820_210000_The_Five/FOXNEWSW_20150820_210000_The_Five.thumbs/FOXNEWSW_20150820_210000_The_Five_000105.jpg</field>
+<field name="snippet">it's time to fix america's broken immigration system. both of those headlines were from september 10th, 2001, the day before 9/11. there were no headlines on islamic terror but lots on immigration and global warming.</field>
+</doc>
+</add>

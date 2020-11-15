@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170512_040000_BBC_News#start/1733/end/1768</field>
+<field name="datetime">5/12/2017 4:29:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170512_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170512_040000_BBC_News/BBCNEWS_20170512_040000_BBC_News.thumbs/BBCNEWS_20170512_040000_BBC_News_001708.jpg</field>
+<field name="snippet">global action to reduce greenhouse gases. however, the us secretary of state, rex tillerson told the ministers, that his country would not rush to make a decision. in football, manchester united and ajax will contest the final of the europa league.man united beat celta vigo 2-1 on aggregate while the dutch side beat lyon 5-4 over the two legs.</field>
+</doc>
+</add>

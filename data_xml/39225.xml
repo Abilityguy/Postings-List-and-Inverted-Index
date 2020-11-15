@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201212.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121206_230000_Special_Report_With_Bret_Baier#start/1435/end/1470</field>
+<field name="datetime">12/6/2012 23:24:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20121206_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121206_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20121206_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20121206_230000_Special_Report_With_Bret_Baier_001408.jpg</field>
+<field name="snippet">in washington is on the looming fiscal cliff. president obama administration is quietly handing over billions of dollars to the united nations in the name of global warming. that was the opening salvo of a recorded message that was</field>
+</doc>
+</add>

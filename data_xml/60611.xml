@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181005_100000_BBC_Newsroom_Live#start/1647/end/1682</field>
+<field name="datetime">10/5/2018 10:27:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20181005_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181005_100000_BBC_Newsroom_Live/BBCNEWS_20181005_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20181005_100000_BBC_Newsroom_Live_001647.jpg</field>
+<field name="snippet">our science editor david shukman has travelled to the mekong delta in vietnam -- one of the areas most vulnerable to the effects of climate change -- and sent us this report. i'm in the incredibly hot mekong delta in the south of vietnam. this region is one of the most vulnerable</field>
+</doc>
+</add>

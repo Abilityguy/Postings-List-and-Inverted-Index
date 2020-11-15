@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190311_100000_Victoria_Derbyshire#start/1450/end/1485</field>
+<field name="datetime">3/11/2019 10:24:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20190311_100000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190311_100000_Victoria_Derbyshire/BBCNEWS_20190311_100000_Victoria_Derbyshire.thumbs/BBCNEWS_20190311_100000_Victoria_Derbyshire_001438.jpg</field>
+<field name="snippet">some people have expressed issues with extinction rebellion's tactics, for getting in the way of people and causing traffic jams and taking up police systems. but the fact of the matter is climate change is going to cause us a lot more inconvenience than that. so i would rather these things happen now and we try to tackle</field>
+</doc>
+</add>

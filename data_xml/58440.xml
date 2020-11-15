@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181128_010000_Newsday#start/1664/end/1699</field>
+<field name="datetime">11/28/2018 1:27:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20181128_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181128_010000_Newsday/BBCNEWS_20181128_010000_Newsday.thumbs/BBCNEWS_20181128_010000_Newsday_001647.jpg</field>
+<field name="snippet">as we head on in towards the weekend, we maintain an unsettled theme, quite blustery, strong south-westerly winds. again, fairly mild across england and wales. turning a bit cooler, though, for scotland and northern ireland. you're watching bbc news. our top story: greenhouse gas emissions reached a record high last year. a new un report says efforts to tackle climate change are way off track.</field>
+</doc>
+</add>

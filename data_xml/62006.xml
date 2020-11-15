@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201409.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140923_130000_Americas_Newsroom#start/5113/end/5148</field>
+<field name="datetime">9/23/2014 14:25:28</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWSW_20140923_130000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140923_130000_Americas_Newsroom/FOXNEWSW_20140923_130000_Americas_Newsroom.thumbs/FOXNEWSW_20140923_130000_Americas_Newsroom_005115.jpg</field>
+<field name="snippet">today what is the president doing in new york, talking about climate change, another big priority. he would rather much talk about the big legacy items for him, immigration reform, you name it, it is being crowded out because national security crises is</field>
+</doc>
+</add>

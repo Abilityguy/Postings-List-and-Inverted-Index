@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201901.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190124_110000_Morning_Joe#start/10476/end/10511</field>
+<field name="datetime">1/24/2019 13:54:51</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20190124_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190124_110000_Morning_Joe/MSNBCW_20190124_110000_Morning_Joe.thumbs/MSNBCW_20190124_110000_Morning_Joe_010468.jpg</field>
+<field name="snippet">today, 98 reactors at 59 commercial sites in the u.s. provide power across the country. using a technology heralded by proponents as a savior from climate change and the key to solving the world's growing energy needs. but our next guest says that</field>
+</doc>
+</add>

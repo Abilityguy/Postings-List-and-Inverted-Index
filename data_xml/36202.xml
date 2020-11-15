@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201912.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191205_110000_Morning_Joe#start/9752/end/9787</field>
+<field name="datetime">12/5/2019 13:42:47</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20191205_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191205_110000_Morning_Joe/MSNBCW_20191205_110000_Morning_Joe.thumbs/MSNBCW_20191205_110000_Morning_Joe_009749.jpg</field>
+<field name="snippet">climate change. i was in iceland the other day. they developed a technology on deep drilling for geothermal. they're able to tap in to 400-degrees lava and use the heat now.</field>
+</doc>
+</add>

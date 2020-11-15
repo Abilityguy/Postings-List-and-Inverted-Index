@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190607_100000_BBC_Newsroom_Live#start/1496/end/1531</field>
+<field name="datetime">6/7/2019 10:25:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190607_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190607_100000_BBC_Newsroom_Live/BBCNEWS_20190607_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190607_100000_BBC_Newsroom_Live_001497.jpg</field>
+<field name="snippet">it says greater effort needs to be made to prepare for epidemics, made more likely by climate change, conflict and large, mobile populations. the two largest ever outbreaks of ebola have taken place in africa in the past five years.</field>
+</doc>
+</add>

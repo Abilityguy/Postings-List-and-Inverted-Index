@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200907.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20090715_200000_MSNBC_News_Live#start/2405/end/2440</field>
+<field name="datetime">7/15/2009 20:40:20</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20090715_200000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20090715_200000_MSNBC_News_Live/MSNBC_20090715_200000_MSNBC_News_Live.thumbs/MSNBC_20090715_200000_MSNBC_News_Live_002396.jpg</field>
+<field name="snippet">op-ed, and i had to tell you, there were two words that did not appear in it, climate change or another two words, global warming. she wrote a whole piece about cap and trade without talking about the reason people want to put it in change. climate change, you'll remember</field>
+</doc>
+</add>

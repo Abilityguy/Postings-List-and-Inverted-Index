@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190306_180000_BBC_News_at_Six#start/1051/end/1086</field>
+<field name="datetime">3/6/2019 18:17:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20190306_180000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190306_180000_BBC_News_at_Six/BBCNEWS_20190306_180000_BBC_News_at_Six.thumbs/BBCNEWS_20190306_180000_BBC_News_at_Six_001048.jpg</field>
+<field name="snippet">we're often told about the threat of rising sea levels as a result of climate change. but now, scientists are discovering how rising sea levels could actually help capture harmful carbon. that's because vegetation in coastal wetlands across the world absorb carbon from the atmosphere</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200119_050000_BBC_News#start/621/end/656</field>
+<field name="datetime">1/19/2020 5:10:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200119_050000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200119_050000_BBC_News/BBCNEWS_20200119_050000_BBC_News.thumbs/BBCNEWS_20200119_050000_BBC_News_000598.jpg</field>
+<field name="snippet">but for the fourth year running, women marched through american cities. on the agenda, climate change, reproductive rights, immigration reform and, of course, donald trump. hey, hey! ho, ho! donald trump has got to go! the numbers have declined since the first march, which was held a day after president trump was inaugurated in 2017.</field>
+</doc>
+</add>

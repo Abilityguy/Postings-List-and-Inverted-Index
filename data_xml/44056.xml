@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180125_050000_Tucker_Carlson_Tonight#start/2515/end/2550</field>
+<field name="datetime">1/25/2018 5:42:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20180125_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180125_050000_Tucker_Carlson_Tonight/FOXNEWSW_20180125_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20180125_050000_Tucker_Carlson_Tonight_002487.jpg</field>
+<field name="snippet">how is that justifiable if you believe that global warming is real and a present danger? do you believe that global d warming is real and a present danger? if you don't, what is the point of discussing?</field>
+</doc>
+</add>

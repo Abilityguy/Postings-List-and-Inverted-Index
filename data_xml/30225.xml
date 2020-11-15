@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201508.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150802_160000_Weekends_With_Alex_Witt#start/3866/end/3901</field>
+<field name="datetime">8/2/2015 17:04:41</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20150802_160000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150802_160000_Weekends_With_Alex_Witt/MSNBCW_20150802_160000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20150802_160000_Weekends_With_Alex_Witt_003856.jpg</field>
+<field name="snippet">announce rmt on the power plant emissions. what has been the reaction in congress? reporter: this could potentially be the strongest action taken to combat climate change. but there's a big 'if.'</field>
+</doc>
+</add>

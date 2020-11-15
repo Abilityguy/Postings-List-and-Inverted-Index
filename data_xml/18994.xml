@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201612.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161212_180000_Happening_Now#start/1680/end/1715</field>
+<field name="datetime">12/12/2016 18:28:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20161212_180000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161212_180000_Happening_Now/FOXNEWSW_20161212_180000_Happening_Now.thumbs/FOXNEWSW_20161212_180000_Happening_Now_001677.jpg</field>
+<field name="snippet">look, i am some body that gets it and no one really knows. it is not so hard-and-fast. he said no one really knows the facts about climate change and what does it mean for the</field>
+</doc>
+</add>

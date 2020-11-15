@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181001_190000_BBC_News#start/2832/end/2867</field>
+<field name="datetime">10/1/2018 19:47:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181001_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181001_190000_BBC_News/BBCNEWS_20181001_190000_BBC_News.thumbs/BBCNEWS_20181001_190000_BBC_News_002817.jpg</field>
+<field name="snippet">the world will sail past this target by 2040. the authors say that every possible option to control emissions must be considered. the thing with climate change is, you don't always necessarily fall off a cliff at a particular level of warming.</field>
+</doc>
+</add>

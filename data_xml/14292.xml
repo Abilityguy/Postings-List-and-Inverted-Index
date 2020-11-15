@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201703.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170317_220000_Special_Report_With_Bret_Baier#start/1026/end/1061</field>
+<field name="datetime">3/17/2017 22:17:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20170317_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170317_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20170317_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20170317_220000_Special_Report_With_Bret_Baier_001018.jpg</field>
+<field name="snippet">defense plays an appropriate role by addressing the national security aspects. by saying it's a waste of taxpayers money, does that send a difference message than the defense secretary was saying about climate change? i think you just heard him say at the end that he's going</field>
+</doc>
+</add>

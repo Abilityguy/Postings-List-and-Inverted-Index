@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201106.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110609_230000_Hardball_With_Chris_Matthews#start/2364/end/2399</field>
+<field name="datetime">6/9/2011 23:39:39</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball With Chris Matthews</field>
+<field name="showid">MSNBC_20110609_230000_Hardball_With_Chris_Matthews</field>
+<field name="preview">https://archive.org/download/MSNBC_20110609_230000_Hardball_With_Chris_Matthews/MSNBC_20110609_230000_Hardball_With_Chris_Matthews.thumbs/MSNBC_20110609_230000_Hardball_With_Chris_Matthews_002340.jpg</field>
+<field name="snippet">the overwhelming body of science says that human activity is contributing to climate change. what i don't respect though, chris, and you know mitt romney was here in michigan today, is that he continues to flip-flop on other issues. for example, the auto bailout.</field>
+</doc>
+</add>

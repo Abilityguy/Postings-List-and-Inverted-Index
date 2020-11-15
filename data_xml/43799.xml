@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151228_100000_First_Look#start/1085/end/1120</field>
+<field name="datetime">12/28/2015 10:18:20</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20151228_100000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151228_100000_First_Look/MSNBCW_20151228_100000_First_Look.thumbs/MSNBCW_20151228_100000_First_Look_001065.jpg</field>
+<field name="snippet">reporter: but republicans will try to blunt the president's ambitions on climate change and on closing the guantanamo bay prison. still, obama says he will lay out a plan to move some detainees to u.s. prisons. his overall goal?</field>
+</doc>
+</add>

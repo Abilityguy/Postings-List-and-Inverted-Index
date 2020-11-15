@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201509.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150924_180000_The_Real_Story_With_Gretchen_Carlson#start/27/end/62</field>
+<field name="datetime">9/24/2015 18:00:42</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Real Story With Gretchen Carlson</field>
+<field name="showid">FOXNEWSW_20150924_180000_The_Real_Story_With_Gretchen_Carlson</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150924_180000_The_Real_Story_With_Gretchen_Carlson/FOXNEWSW_20150924_180000_The_Real_Story_With_Gretchen_Carlson.thumbs/FOXNEWSW_20150924_180000_The_Real_Story_With_Gretchen_Carlson_000045.jpg</field>
+<field name="snippet">it was quite a moment. this is the real story today. the pope touching on climate change, immigration, the death penalty and the family. i'mgrateful for</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201710.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171008_010000_BBC_News#start/59/end/94</field>
+<field name="datetime">10/8/2017 1:01:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171008_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171008_010000_BBC_News/BBCNEWS_20171008_010000_BBC_News.thumbs/BBCNEWS_20171008_010000_BBC_News_000058.jpg</field>
+<field name="snippet">we are facing the consequences of climate change. we're hearing the most appalling stories of people who are homeless, they're without clean water, hospitals are without electricity.</field>
+</doc>
+</add>

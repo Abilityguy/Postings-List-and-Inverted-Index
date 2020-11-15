@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201901.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190124_110000_Morning_Joe#start/10540/end/10575</field>
+<field name="datetime">1/24/2019 13:55:55</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20190124_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190124_110000_Morning_Joe/MSNBCW_20190124_110000_Morning_Joe.thumbs/MSNBCW_20190124_110000_Morning_Joe_010528.jpg</field>
+<field name="snippet">hazardous. it's a technology that at any moment really could lead to the kind of catastrophic accident we saw at fukushima. i thought people should understand that. as you said, people are talking about nuclear power as the savior to climate change.</field>
+</doc>
+</add>

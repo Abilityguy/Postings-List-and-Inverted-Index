@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140217_210000_Your_World_With_Neil_Cavuto#start/2787/end/2822</field>
+<field name="datetime">2/17/2014 21:46:42</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20140217_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140217_210000_Your_World_With_Neil_Cavuto/FOXNEWSW_20140217_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20140217_210000_Your_World_With_Neil_Cavuto_002775.jpg</field>
+<field name="snippet">$1.6 billion of your tax money on one solar project in the name of global warming. how is that paying off? william is in our l.a. bureau with the latest. how is our 1.6 billion? well, let me say the latest controversial plant opened last</field>
+</doc>
+</add>

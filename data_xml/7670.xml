@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170602_030000_Tucker_Carlson_Tonight#start/404/end/439</field>
+<field name="datetime">6/2/2017 3:06:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20170602_030000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170602_030000_Tucker_Carlson_Tonight/FOXNEWSW_20170602_030000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20170602_030000_Tucker_Carlson_Tonight_000387.jpg</field>
+<field name="snippet">rising sea levels. i'm agnostic about it. i'm wondering how this specific agreement, sending $3 billion a year to countries like india and china who don't have to lower their emissions rates is going to fix that global warming problem in miami beach.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201301.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130121_230000_Special_Report_With_Bret_Baier#start/635/end/670</field>
+<field name="datetime">1/21/2013 23:10:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20130121_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130121_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20130121_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20130121_230000_Special_Report_With_Bret_Baier_000615.jpg</field>
+<field name="snippet">medicare, medicaid and social security. he did call it, fiction, that all societies' ills could be cured through government alone. but it was a prelude to wonders of the collection action by which he meant government action. on gay rights, climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171104_100000_BBC_News#start/1053/end/1088</field>
+<field name="datetime">11/4/2017 10:17:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171104_100000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171104_100000_BBC_News/BBCNEWS_20171104_100000_BBC_News.thumbs/BBCNEWS_20171104_100000_BBC_News_001048.jpg</field>
+<field name="snippet">the headlines on bbc news: the conservative mp charlie elphicke denies any wrongdoing after being suspended by the party over serious allegations. police in new york say they have a viable case against film producer harvey weinstein after an actress accused him of raping her seven years ago. the white house downplays a major report on climate change compiled by us government scientists.</field>
+</doc>
+</add>

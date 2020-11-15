@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201811.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181124_190000_MSNBC_Live_With_David_Gura#start/1125/end/1160</field>
+<field name="datetime">11/24/2018 19:19:00</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With David Gura</field>
+<field name="showid">MSNBCW_20181124_190000_MSNBC_Live_With_David_Gura</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181124_190000_MSNBC_Live_With_David_Gura/MSNBCW_20181124_190000_MSNBC_Live_With_David_Gura.thumbs/MSNBCW_20181124_190000_MSNBC_Live_With_David_Gura_001107.jpg</field>
+<field name="snippet">california wildfires which have now claimed the lives of 87 people, the trump administration has released a 1600 page report warning about the impacts of climate change. among the predictions, that damage from extreme weather could slash the u.s. economy by about 10% by the end of this</field>
+</doc>
+</add>

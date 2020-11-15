@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201211.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121114_180000_America_Live#start/4626/end/4661</field>
+<field name="datetime">11/14/2012 19:17:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWSW_20121114_180000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121114_180000_America_Live/FOXNEWSW_20121114_180000_America_Live.thumbs/FOXNEWSW_20121114_180000_America_Live_004618.jpg</field>
+<field name="snippet">what do you plan to do in a second term to tackle the issue of climate change and do you think the political will exists in washington to pass legislation that could include some kind of a tax on carbon?</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091207_140000_Morning_Meeting#start/1169/end/1204</field>
+<field name="datetime">12/7/2009 14:19:44</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Meeting</field>
+<field name="showid">MSNBC_20091207_140000_Morning_Meeting</field>
+<field name="preview">https://archive.org/download/MSNBC_20091207_140000_Morning_Meeting/MSNBC_20091207_140000_Morning_Meeting.thumbs/MSNBC_20091207_140000_Morning_Meeting_000121.jpg</field>
+<field name="snippet">but i have to say, i'm not a climate scientist either. but over the last decade or so, we have seen report after report after report come out saying that climate change is a problem and is becoming more severe. i don't think the revelation of</field>
+</doc>
+</add>

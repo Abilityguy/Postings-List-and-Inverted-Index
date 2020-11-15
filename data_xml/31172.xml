@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090728_170000_The_Live_Desk#start/4158/end/4193</field>
+<field name="datetime">7/28/2009 18:09:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Live Desk</field>
+<field name="showid">FOXNEWS_20090728_170000_The_Live_Desk</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090728_170000_The_Live_Desk/FOXNEWS_20090728_170000_The_Live_Desk.thumbs/FOXNEWS_20090728_170000_The_Live_Desk_004135.jpg</field>
+<field name="snippet">one politician said that he believes nancy pelosi should have changed her strategy. i think it was a mistake to do climate change first. climate change is a long-term</field>
+</doc>
+</add>

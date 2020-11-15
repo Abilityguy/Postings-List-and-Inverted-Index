@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190201_000000_Newsday#start/997/end/1032</field>
+<field name="datetime">2/1/2019 0:16:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190201_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190201_000000_Newsday/BBCNEWS_20190201_000000_Newsday.thumbs/BBCNEWS_20190201_000000_Newsday_000987.jpg</field>
+<field name="snippet">and environment at melbourne's monash university. i asked her whether these extreme weather conditions are connected as a result of climate change. look, there has certainly been some weird and strange weather happening.</field>
+</doc>
+</add>

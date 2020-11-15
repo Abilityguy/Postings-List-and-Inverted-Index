@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190709_130000_Afternoon_Live#start/127/end/162</field>
+<field name="datetime">7/9/2019 13:02:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190709_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190709_130000_Afternoon_Live/BBCNEWS_20190709_130000_Afternoon_Live.thumbs/BBCNEWS_20190709_130000_Afternoon_Live_000118.jpg</field>
+<field name="snippet">upping the heat - sir david attenborough criticises world leaders who he says are not doing enough to address climate change.</field>
+</doc>
+</add>

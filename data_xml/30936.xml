@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140215_230000_Americas_News_Headquarters#start/2528/end/2563</field>
+<field name="datetime">2/15/2014 23:42:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20140215_230000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140215_230000_Americas_News_Headquarters/FOXNEWSW_20140215_230000_Americas_News_Headquarters.thumbs/FOXNEWSW_20140215_230000_Americas_News_Headquarters_002505.jpg</field>
+<field name="snippet">officials say they're taking action on climate change. secretary of state john kerry meeting with his chinese counterpart in beijing and the two agreeing to take steps to reduce vehicle emissions and increase energy efficiency.</field>
+</doc>
+</add>

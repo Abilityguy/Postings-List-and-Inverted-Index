@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180610_030000_BBC_News#start/1211/end/1246</field>
+<field name="datetime">6/10/2018 3:20:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180610_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180610_030000_BBC_News/BBCNEWS_20180610_030000_BBC_News.thumbs/BBCNEWS_20180610_030000_BBC_News_001197.jpg</field>
+<field name="snippet">for urgent action on climate change. in 2015, months ahead of the paris climate conference, he published an encyclical. in it, he said that global warming was largely due to human activity, exacerbated by what he called a collective selfishness.</field>
+</doc>
+</add>

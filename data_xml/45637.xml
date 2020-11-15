@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201909.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190906_000000_All_In_With_Chris_Hayes#start/1514/end/1549</field>
+<field name="datetime">9/6/2019 0:25:29</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20190906_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190906_000000_All_In_With_Chris_Hayes/MSNBCW_20190906_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20190906_000000_All_In_With_Chris_Hayes_001497.jpg</field>
+<field name="snippet">disaster preparedness and rescue and rebuilding? nope. we're not? no. we tend to build back the way it was. we tend to plan for what we're capable of and then we hope it's not that bad. climate change, you can talk</field>
+</doc>
+</add>

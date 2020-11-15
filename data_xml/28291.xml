@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201901.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190103_010000_All_In_With_Chris_Hayes#start/3095/end/3130</field>
+<field name="datetime">1/3/2019 1:51:50</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20190103_010000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190103_010000_All_In_With_Chris_Hayes/MSNBCW_20190103_010000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20190103_010000_All_In_With_Chris_Hayes_003088.jpg</field>
+<field name="snippet">why center climate? well, to govern is to choose. and right now, we know to a scientific certainty that we are the first generation to feel the sting of climate change. and we are the last generation</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190112_150000_Cavuto_Live#start/533/end/568</field>
+<field name="datetime">1/12/2019 15:09:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Cavuto Live</field>
+<field name="showid">FOXNEWSW_20190112_150000_Cavuto_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190112_150000_Cavuto_Live/FOXNEWSW_20190112_150000_Cavuto_Live.thumbs/FOXNEWSW_20190112_150000_Cavuto_Live_000507.jpg</field>
+<field name="snippet">senator rubio, said just could as easily champion climate change and force the government shutdown based on that, so what do you think of using an emergency to get what you want? let's just speak at a practical matter. if the president sneezes,</field>
+</doc>
+</add>

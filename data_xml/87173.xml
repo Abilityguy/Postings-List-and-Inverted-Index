@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191202_203000_Electioncast#start/1814/end/1849</field>
+<field name="datetime">12/2/2019 21:00:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Electioncast</field>
+<field name="showid">BBCNEWS_20191202_203000_Electioncast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191202_203000_Electioncast/BBCNEWS_20191202_203000_Electioncast.thumbs/BBCNEWS_20191202_203000_Electioncast_001798.jpg</field>
+<field name="snippet">hello, i'm ros atkins, this is outside source. experts warn the point of no return on climate change is hurtling towards us as political leaders gather at a summit to tackle</field>
+</doc>
+</add>

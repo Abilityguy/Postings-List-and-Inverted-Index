@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140217_070000_FOX_News_Sunday_With_Chris_Wallace#start/2370/end/2405</field>
+<field name="datetime">2/17/2014 7:39:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Sunday With Chris Wallace</field>
+<field name="showid">FOXNEWSW_20140217_070000_FOX_News_Sunday_With_Chris_Wallace</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140217_070000_FOX_News_Sunday_With_Chris_Wallace/FOXNEWSW_20140217_070000_FOX_News_Sunday_With_Chris_Wallace.thumbs/FOXNEWSW_20140217_070000_FOX_News_Sunday_With_Chris_Wallace_002355.jpg</field>
+<field name="snippet">we'll stay on top of all this story and i suspect we'll have you both to continue the debate. thank you, both. president obama left snowy washington friday for drought-ridden california where he linked the weather on both coasts to climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180608_080000_Victoria_Derbyshire#start/367/end/402</field>
+<field name="datetime">6/8/2018 8:06:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20180608_080000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180608_080000_Victoria_Derbyshire/BBCNEWS_20180608_080000_Victoria_Derbyshire.thumbs/BBCNEWS_20180608_080000_Victoria_Derbyshire_000357.jpg</field>
+<field name="snippet">is expected to focus on themes including future growth, issues of equality and climate change. concerns surrounding international trade and the potential summit between the north korean leader kim jong un and president trump are also expected to dominate talks.</field>
+</doc>
+</add>

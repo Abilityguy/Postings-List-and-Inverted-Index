@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190227_010000_Tucker_Carlson_Tonight#start/370/end/405</field>
+<field name="datetime">2/27/2019 1:06:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190227_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190227_010000_Tucker_Carlson_Tonight/FOXNEWSW_20190227_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190227_010000_Tucker_Carlson_Tonight_000360.jpg</field>
+<field name="snippet">say, that is the northstar. let's be realistic. there is no question we have to be practical, but being practical also recognizes that climate change is an existential threat to the human being. can we afford it? of course we can afford it.</field>
+</doc>
+</add>

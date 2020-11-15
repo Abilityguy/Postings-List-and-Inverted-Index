@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_200000_Outside_Source#start/3599/end/3634</field>
+<field name="datetime">8/8/2019 21:00:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20190808_200000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_200000_Outside_Source/BBCNEWS_20190808_200000_Outside_Source.thumbs/BBCNEWS_20190808_200000_Outside_Source_003507.jpg</field>
+<field name="snippet">rather cool, but no sign of any august weather for the ten days. the united nations says we need to eat less meat to help tackle climate change.</field>
+</doc>
+</add>

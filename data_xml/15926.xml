@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201106.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110623_100000_FOX_and_Friends#start/1650/end/1685</field>
+<field name="datetime">6/23/2011 10:27:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20110623_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110623_100000_FOX_and_Friends/FOXNEWS_20110623_100000_FOX_and_Friends.thumbs/FOXNEWS_20110623_100000_FOX_and_Friends_001650.jpg</field>
+<field name="snippet">president obama has a pretty good track record on the environment as far as the environmental activists are concerned but al gore says no, he's not done enough. let him down on global warming. we'll be watching three hours from right now on the fox business network. you'll be talking about?</field>
+</doc>
+</add>

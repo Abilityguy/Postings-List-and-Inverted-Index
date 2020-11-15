@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190410_090000_Victoria_Derbyshire#start/516/end/551</field>
+<field name="datetime">4/10/2019 9:08:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20190410_090000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190410_090000_Victoria_Derbyshire/BBCNEWS_20190410_090000_Victoria_Derbyshire.thumbs/BBCNEWS_20190410_090000_Victoria_Derbyshire_000507.jpg</field>
+<field name="snippet">that the government, as they put it, tell the truth about climate change, reduce carbon emissions to zero by 2025, and create something called a citizens' assembly to oversee doing this. how did you get this building? oh, that's an interesting</field>
+</doc>
+</add>

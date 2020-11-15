@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100210_230000_Special_Report_With_Bret_Baier#start/3054/end/3089</field>
+<field name="datetime">2/10/2010 23:51:09</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100210_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100210_230000_Special_Report_With_Bret_Baier/FOXNEWS_20100210_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100210_230000_Special_Report_With_Bret_Baier_003053.jpg</field>
+<field name="snippet">the past couple of weeks, really the most in the last four days. in that environment, you have massachusetts democratic senator john kerry saying if anybody thinks that because of the winter weather that we have been seeing that climate change legislation is dead, they are</field>
+</doc>
+</add>

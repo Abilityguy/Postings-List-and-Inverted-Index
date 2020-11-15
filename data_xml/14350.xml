@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201812.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181230_230000_Meet_the_Press#start/3022/end/3057</field>
+<field name="datetime">12/30/2018 23:50:37</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20181230_230000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181230_230000_Meet_the_Press/MSNBCW_20181230_230000_Meet_the_Press.thumbs/MSNBCW_20181230_230000_Meet_the_Press_002998.jpg</field>
+<field name="snippet">paralysis. carlos, you wanted to introduce a carbon tax. but as we're watching what's unfolding in france and the pushback there, is a carbon tax doable? is this the way to do it?</field>
+</doc>
+</add>

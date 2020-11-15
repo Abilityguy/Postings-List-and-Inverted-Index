@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091003_230000_FOX_Report#start/3264/end/3299</field>
+<field name="datetime">10/3/2009 23:54:39</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report</field>
+<field name="showid">FOXNEWS_20091003_230000_FOX_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091003_230000_FOX_Report/FOXNEWS_20091003_230000_FOX_Report.thumbs/FOXNEWS_20091003_230000_FOX_Report_003240.jpg</field>
+<field name="snippet">in greenhouse gases, no. but it means that the building is better engineered, better designed, than it could possibly be. reporter: critics say truly green buildings can be built only if the public and the</field>
+</doc>
+</add>

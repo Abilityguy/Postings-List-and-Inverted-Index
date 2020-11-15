@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191108_010000_Tucker_Carlson_Tonight#start/1513/end/1548</field>
+<field name="datetime">11/8/2019 1:25:28</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20191108_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191108_010000_Tucker_Carlson_Tonight/FOXNEWSW_20191108_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20191108_010000_Tucker_Carlson_Tonight_001497.jpg</field>
+<field name="snippet">attorney general, and now senate candidate jeff sessions, thank you for coming on tonight. thank you, tucker. tucker: presidential candidates crisscrossing the country in private demand private jets to lecture you about global warming and your</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201503.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150319_100000_Morning_Joe#start/1392/end/1427</field>
+<field name="datetime">3/19/2015 10:23:27</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20150319_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150319_100000_Morning_Joe/MSNBCW_20150319_100000_Morning_Joe.thumbs/MSNBCW_20150319_100000_Morning_Joe_001365.jpg</field>
+<field name="snippet">ice cream trauk trucks to the curb. it's taking its products across the country this summer in a luxury $80000 tesla that will double as an ice cream serving station. ben and jerry's also the sedan to spark a conversation about climate change.</field>
+</doc>
+</add>

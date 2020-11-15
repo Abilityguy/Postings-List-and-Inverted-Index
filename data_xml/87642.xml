@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191202_010000_Newsday#start/207/end/242</field>
+<field name="datetime">12/2/2019 1:03:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191202_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191202_010000_Newsday/BBCNEWS_20191202_010000_Newsday.thumbs/BBCNEWS_20191202_010000_Newsday_000208.jpg</field>
+<field name="snippet">outspoken about how the trends are going in the wrong direction. this is why we need to put a lot of pressure in order to increase ambition, and in order to reverse the present trend, in which, unfortunately, climate change is running faster</field>
+</doc>
+</add>

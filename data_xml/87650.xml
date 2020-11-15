@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191202_050000_The_Briefing#start/435/end/470</field>
+<field name="datetime">12/2/2019 5:07:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20191202_050000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191202_050000_The_Briefing/BBCNEWS_20191202_050000_The_Briefing.thumbs/BBCNEWS_20191202_050000_The_Briefing_000419.jpg</field>
+<field name="snippet">bbc news, madrid. we'll have more on climate change in our business briefing, including a close look at the world's dependence on fossil fuels and what's being done to move away from them. cornelia meyer is chief executive of business consultancy mrl corporation.</field>
+</doc>
+</add>

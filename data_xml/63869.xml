@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201404.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140405_160000_Weekends_With_Alex_Witt#start/5448/end/5483</field>
+<field name="datetime">4/5/2014 17:31:03</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20140405_160000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140405_160000_Weekends_With_Alex_Witt/MSNBCW_20140405_160000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20140405_160000_Weekends_With_Alex_Witt_005445.jpg</field>
+<field name="snippet">policy conversation about climate change. from the 'new york times' carl davenport, good to talk with you and get a reality check. great to be here. thank you. a showcase of this country's fight for civil rights. we take you inside this historic american treasure. and new reports from the</field>
+</doc>
+</add>

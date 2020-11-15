@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100124_020000_Glenn_Beck#start/2518/end/2553</field>
+<field name="datetime">1/24/2010 2:42:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20100124_020000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100124_020000_Glenn_Beck/FOXNEWS_20100124_020000_Glenn_Beck.thumbs/FOXNEWS_20100124_020000_Glenn_Beck_002451.jpg</field>
+<field name="snippet">on a costly global warming plan. wellbeing. we're all striving for it. purina cat chow helps you nuture it in your cat. with a full family of excellent nutrition. and helpful resources. purina cat chow.</field>
+</doc>
+</add>

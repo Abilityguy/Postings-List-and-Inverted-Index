@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201509.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150901_070000_All_In_With_Chris_Hayes#start/2236/end/2271</field>
+<field name="datetime">9/1/2015 7:37:31</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20150901_070000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150901_070000_All_In_With_Chris_Hayes/MSNBCW_20150901_070000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20150901_070000_All_In_With_Chris_Hayes_002055.jpg</field>
+<field name="snippet">today president obama embarked on the first leg of a historic three-day trip to alaska. he'll become the first u.s. president to go north of the arctic circle and call for dramatic action on climate change from the part of the world where its effects are the most readily visible and alarming.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091002_141144_Americas_Newsroom#start/1269/end/1304</field>
+<field name="datetime">10/2/2009 14:33:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20091002_141144_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091002_141144_Americas_Newsroom/FOXNEWS_20091002_141144_Americas_Newsroom.thumbs/FOXNEWS_20091002_141144_Americas_Newsroom_001255.jpg</field>
+<field name="snippet">washington, d.c. speaker pelosi has push for votes on the $787 billion stimulus bill and the climate change bill and possibly on health care reform. it has put these fiscally</field>
+</doc>
+</add>

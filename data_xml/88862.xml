@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190604_080000_BBC_News_at_Nine#start/42/end/77</field>
+<field name="datetime">6/4/2019 8:00:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190604_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190604_080000_BBC_News_at_Nine/BBCNEWS_20190604_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190604_080000_BBC_News_at_Nine_000058.jpg</field>
+<field name="snippet">climate change, huawei and iran. i'm joanna gosling at buckingham palace, where president trump is due to arrive shortly to begin the second day of his visit. but not everyone</field>
+</doc>
+</add>

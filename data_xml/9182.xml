@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190823_220000_Special_Report_With_Bret_Baier#start/564/end/599</field>
+<field name="datetime">8/23/2019 22:09:39</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20190823_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190823_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20190823_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20190823_220000_Special_Report_With_Bret_Baier_000539.jpg</field>
+<field name="snippet">followers, billionaires who buy their way on the debate stage, and candidates who have been running for president for years. what the remaining candidates will be doing, having a debate based solely on climate change. the dnc saying there are at</field>
+</doc>
+</add>

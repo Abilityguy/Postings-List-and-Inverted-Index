@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180824_203000_Weather_World#start/110/end/145</field>
+<field name="datetime">8/24/2018 20:32:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20180824_203000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180824_203000_Weather_World/BBCNEWS_20180824_203000_Weather_World.thumbs/BBCNEWS_20180824_203000_Weather_World_000087.jpg</field>
+<field name="snippet">and flash floods so ferocious they are hard to believe, we will bring you images from the world's biggest weather stories and storms. plus, out for the count. tracking puffins as they face up to climate change in a fight for survival. whisky, a core part of scotland's</field>
+</doc>
+</add>

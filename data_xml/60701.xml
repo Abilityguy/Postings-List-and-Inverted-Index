@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181011_050000_Breakfast#start/1082/end/1117</field>
+<field name="datetime">10/11/2018 5:18:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181011_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181011_050000_Breakfast/BBCNEWS_20181011_050000_Breakfast.thumbs/BBCNEWS_20181011_050000_Breakfast_001077.jpg</field>
+<field name="snippet">the guardian reports that beef consumption in the west needs to fall by 90% to avoid dangerous climate change. the front-page picture features the late professor stephen hawking, as his latest scientific paper is published. the daily mail reports on the ethnic salary gap, claiming plans to tackle racial inequality mirror the rules that were introduced earlier this year to expose the gender pay gap.</field>
+</doc>
+</add>

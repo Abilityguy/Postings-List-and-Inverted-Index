@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200101_033000_Review_2019#start/718/end/753</field>
+<field name="datetime">1/1/2020 3:42:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Review 2019</field>
+<field name="showid">BBCNEWS_20200101_033000_Review_2019</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200101_033000_Review_2019/BBCNEWS_20200101_033000_Review_2019.thumbs/BBCNEWS_20200101_033000_Review_2019_000718.jpg</field>
+<field name="snippet">that even sharp reductions in emissions won't, on their own, be enough to halt irreversible damage. so researchers here at cambridge university are looking at ideas, however crazy, to try and take global warming gases out</field>
+</doc>
+</add>

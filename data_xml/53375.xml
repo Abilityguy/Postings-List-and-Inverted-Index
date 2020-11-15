@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201110.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20111009_150000_Weekends_With_Alex_Witt#start/2226/end/2261</field>
+<field name="datetime">10/9/2011 15:37:21</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20111009_150000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20111009_150000_Weekends_With_Alex_Witt/MSNBCW_20111009_150000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20111009_150000_Weekends_With_Alex_Witt_002217.jpg</field>
+<field name="snippet">and leona lewis. fall is running behind. climate change may be to blame for it. scientists in europe say global warming may not only be keeping leaves on the trees longer but also delaying the bursts of beautiful color that we normally see this time of year.</field>
+</doc>
+</add>

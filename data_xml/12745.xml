@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170707_000000_Newsday#start/1692/end/1727</field>
+<field name="datetime">7/7/2017 0:28:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20170707_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170707_000000_Newsday/BBCNEWS_20170707_000000_Newsday.thumbs/BBCNEWS_20170707_000000_Newsday_001677.jpg</field>
+<field name="snippet">warm in the south-east. i'm kasia madera with bbc world news. our top stories: police in germany have clashed with protestors as world leaders gather in hamburg ahead of the g20 summit. climate change and global terrorism will be the major issues on the agenda.</field>
+</doc>
+</add>

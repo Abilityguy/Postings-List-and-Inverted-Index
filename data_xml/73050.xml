@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190118_010000_Newsday#start/858/end/893</field>
+<field name="datetime">1/18/2019 1:14:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190118_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190118_010000_Newsday/BBCNEWS_20190118_010000_Newsday.thumbs/BBCNEWS_20190118_010000_Newsday_000837.jpg</field>
+<field name="snippet">really pushing them up to the extremes. when you speak to the weather bureau here in australia, they say that no individual heatwave can be directly attributed to climate change, but what they do say more broadly speaking is that climate change will make heatwaves</field>
+</doc>
+</add>

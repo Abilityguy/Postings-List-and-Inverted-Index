@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190922_230000_Newsday#start/101/end/136</field>
+<field name="datetime">9/22/2019 23:01:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190922_230000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190922_230000_Newsday/BBCNEWS_20190922_230000_Newsday.thumbs/BBCNEWS_20190922_230000_Newsday_000087.jpg</field>
+<field name="snippet">later on monday global leaders will gather at the united nations in new york for a special summit on climate change. whilst china has been investing heavily in sources of renewable energy, like wind and solar, coal still remains the largest power source. with the un pushing for a commitment to end coal power by 2030, john sudworth examines</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190405_040000_Tucker_Carlson_Tonight#start/1432/end/1467</field>
+<field name="datetime">4/5/2019 4:24:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190405_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190405_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190405_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190405_040000_Tucker_Carlson_Tonight_001408.jpg</field>
+<field name="snippet">question. climate change is bad, very bad. as bad as world war ii. in fact, existentially bad. we will all die from it. thehe singular crisis that we face, a crisis that could, at its worse, lead to</field>
+</doc>
+</add>

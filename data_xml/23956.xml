@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201411.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141116_230000_FOX_News_Sunday_With_Chris_Wallace#start/14/end/49</field>
+<field name="datetime">11/16/2014 23:00:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Sunday With Chris Wallace</field>
+<field name="showid">FOXNEWSW_20141116_230000_FOX_News_Sunday_With_Chris_Wallace</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141116_230000_FOX_News_Sunday_With_Chris_Wallace/FOXNEWSW_20141116_230000_FOX_News_Sunday_With_Chris_Wallace.thumbs/FOXNEWSW_20141116_230000_FOX_News_Sunday_With_Chris_Wallace_000045.jpg</field>
+<field name="snippet">i'm chris wallace. congress gets back to work with balesrewing over im congress gets back to work over immigration, climate change and obamacare. i would welcome the president moving to the middle.</field>
+</doc>
+</add>

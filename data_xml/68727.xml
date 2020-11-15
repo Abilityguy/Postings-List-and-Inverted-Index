@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201001.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100128_020000_State_of_the_Union#start/2305/end/2340</field>
+<field name="datetime">1/28/2010 2:38:40</field>
+<field name="station">MSNBC</field>
+<field name="show">State of the Union</field>
+<field name="showid">MSNBC_20100128_020000_State_of_the_Union</field>
+<field name="preview">https://archive.org/download/MSNBC_20100128_020000_State_of_the_Union/MSNBC_20100128_020000_State_of_the_Union.thumbs/MSNBC_20100128_020000_State_of_the_Union_002280.jpg</field>
+<field name="snippet">changes in a tough economy. i know that there are those who disagree with the overwhelming scientific evidence on climate change. but -- but here's the thing,</field>
+</doc>
+</add>

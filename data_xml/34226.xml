@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_000000_The_FOX_Report_With_Shepard_Smith#start/3558/end/3593</field>
+<field name="datetime">12/18/2009 0:59:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The FOX Report With Shepard Smith</field>
+<field name="showid">FOXNEWS_20091218_000000_The_FOX_Report_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_000000_The_FOX_Report_With_Shepard_Smith/FOXNEWS_20091218_000000_The_FOX_Report_With_Shepard_Smith.thumbs/FOXNEWS_20091218_000000_The_FOX_Report_With_Shepard_Smith_003532.jpg</field>
+<field name="snippet">a programming note before we go. we have a special fox news investigation on the climate change debate. our own brett bayer hosts this special. you can see it sunday december the 20th at 9:00 eastern, 8:00 p.m. central time in oxford. and now you know the news for</field>
+</doc>
+</add>

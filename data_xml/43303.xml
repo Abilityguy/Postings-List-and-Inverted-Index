@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090922_150000_Happening_Now#start/995/end/1030</field>
+<field name="datetime">9/22/2009 15:16:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20090922_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090922_150000_Happening_Now/FOXNEWS_20090922_150000_Happening_Now.thumbs/FOXNEWS_20090922_150000_Happening_Now_000985.jpg</field>
+<field name="snippet">any indication that there may be some deals made and an opportunity for further talks to happen. jane: i want to ask you about the president's remarks this morning about climate change. how were his comments received?</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170106_130000_BBC_News_at_One#start/1189/end/1224</field>
+<field name="datetime">1/6/2017 13:20:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20170106_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170106_130000_BBC_News_at_One/BBCNEWS_20170106_130000_BBC_News_at_One.thumbs/BBCNEWS_20170106_130000_BBC_News_at_One_001167.jpg</field>
+<field name="snippet">researchers said they have no evidence that climate change is playing any significant role in the new iceberg's formation. four people have been charged with hate crimes in connection with the assault on a teenager with special needs, that was streamed live on facebook. the two men and two women are due to appear in court</field>
+</doc>
+</add>

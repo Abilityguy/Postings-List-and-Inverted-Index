@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190420_093000_The_Travel_Show#start/1809/end/1844</field>
+<field name="datetime">4/20/2019 10:00:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Travel Show</field>
+<field name="showid">BBCNEWS_20190420_093000_The_Travel_Show</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190420_093000_The_Travel_Show/BBCNEWS_20190420_093000_The_Travel_Show.thumbs/BBCNEWS_20190420_093000_The_Travel_Show_001737.jpg</field>
+<field name="snippet">this is bbc news. the headlines at 11: police in londonderry investigating the murder of thejournalist, lyra mckee, have arrested two teenagers. police in london say they've now arrested more than 680 people since climate change protests</field>
+</doc>
+</add>

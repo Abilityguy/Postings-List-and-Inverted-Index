@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201309.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130906_130000_The_Daily_Rundown#start/3431/end/3466</field>
+<field name="datetime">9/6/2013 13:57:26</field>
+<field name="station">MSNBC</field>
+<field name="show">The Daily Rundown</field>
+<field name="showid">MSNBCW_20130906_130000_The_Daily_Rundown</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130906_130000_The_Daily_Rundown/MSNBCW_20130906_130000_The_Daily_Rundown.thumbs/MSNBCW_20130906_130000_The_Daily_Rundown_003406.jpg</field>
+<field name="snippet">we are moving ahead with our development agenda, with the focus on issues like food security and combating corruption and i'm very pleased that the g-20 nations agreed to make faster progress on phasing down certain greenhouse gases a priority. that is an important step in our</field>
+</doc>
+</add>

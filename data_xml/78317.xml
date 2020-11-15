@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191119_033000_The_Travel_Show#start/188/end/223</field>
+<field name="datetime">11/19/2019 3:33:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Travel Show</field>
+<field name="showid">BBCNEWS_20191119_033000_The_Travel_Show</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191119_033000_The_Travel_Show/BBCNEWS_20191119_033000_The_Travel_Show.thumbs/BBCNEWS_20191119_033000_The_Travel_Show_000177.jpg</field>
+<field name="snippet">we don't know what's around the corner for our woodland. there are threats from climate change and from plant health threats, pests and diseases and land use change. but the hope is that this new research could preserve woodlands for future generations. rebecca morelle, bbc news. now on bbc news: the travel show.</field>
+</doc>
+</add>

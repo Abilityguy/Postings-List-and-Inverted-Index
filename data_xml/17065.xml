@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201811.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181102_210000_MTP_Daily#start/2201/end/2236</field>
+<field name="datetime">11/2/2018 21:36:56</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20181102_210000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181102_210000_MTP_Daily/MSNBCW_20181102_210000_MTP_Daily.thumbs/MSNBCW_20181102_210000_MTP_Daily_002187.jpg</field>
+<field name="snippet">as a centrist, trying to speak out against his party on issues like climate change and immigration. but he's voted for both of the republican tax reform proposals and the obamacare repeals which democrats are trying to turn into liabilities. will it be enough to turn the</field>
+</doc>
+</add>

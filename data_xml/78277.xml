@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191124_090000_BBC_News#start/434/end/469</field>
+<field name="datetime">11/24/2019 9:07:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191124_090000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191124_090000_BBC_News/BBCNEWS_20191124_090000_BBC_News.thumbs/BBCNEWS_20191124_090000_BBC_News_000418.jpg</field>
+<field name="snippet">on the scottish government's spending powers. the party claim it will unlock almost three billion pounds over the course of the next parliament, which they plan to use to boost the economy and tackle climate change. in hong kong voters are taking to the polls in local elections today.</field>
+</doc>
+</add>

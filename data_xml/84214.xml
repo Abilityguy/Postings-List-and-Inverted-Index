@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190420_140000_BBC_News#start/24/end/59</field>
+<field name="datetime">4/20/2019 14:00:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190420_140000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190420_140000_BBC_News/BBCNEWS_20190420_140000_BBC_News.thumbs/BBCNEWS_20190420_140000_BBC_News_000058.jpg</field>
+<field name="snippet">where climate change protests contiune into their sixth day. police say they've now arrested more than 700 people. nearly one in ten heart attacks and strokes in england and wales could be prevented - according to new research. much of britain basks</field>
+</doc>
+</add>

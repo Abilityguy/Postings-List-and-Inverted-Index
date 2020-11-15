@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191122_010000_Tucker_Carlson_Tonight#start/2127/end/2162</field>
+<field name="datetime">11/22/2019 1:35:42</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20191122_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191122_010000_Tucker_Carlson_Tonight/FOXNEWSW_20191122_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20191122_010000_Tucker_Carlson_Tonight_001948.jpg</field>
+<field name="snippet">tucker: well, one topic that did not come up quite as much in last night's debate is climate change. that's weird because as you know watching the democrats the past 10 or 15 years you know that climate change is existential threat meaning all of us will be dead very soon, thanks to climate</field>
+</doc>
+</add>

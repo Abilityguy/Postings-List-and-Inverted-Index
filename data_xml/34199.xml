@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_180000_The_Live_Desk#start/5913/end/5948</field>
+<field name="datetime">12/18/2009 19:38:48</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Live Desk</field>
+<field name="showid">FOXNEWS_20091218_180000_The_Live_Desk</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_180000_The_Live_Desk/FOXNEWS_20091218_180000_The_Live_Desk.thumbs/FOXNEWS_20091218_180000_The_Live_Desk_005867.jpg</field>
+<field name="snippet">we are told that 2010 has been taken out of the document. it could be six hours, six days, or six months before they're done. back to you. martha: thank you very much. we will have more on the big climate change debate this weekend with bret baier.</field>
+</doc>
+</add>

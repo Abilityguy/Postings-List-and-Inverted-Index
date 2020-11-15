@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201610.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161031_050000_Special_Report_With_Bret_Baier#start/2116/end/2151</field>
+<field name="datetime">10/31/2016 5:35:31</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20161031_050000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161031_050000_Special_Report_With_Bret_Baier/FOXNEWSW_20161031_050000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20161031_050000_Special_Report_With_Bret_Baier_002097.jpg</field>
+<field name="snippet">the world in addressing it. reporter: clinton features it prominently on her campaign website. she says climate change is, quote, a defining challenge of our time. adding it threatens our economy, our national security, and our children's health and futures.</field>
+</doc>
+</add>

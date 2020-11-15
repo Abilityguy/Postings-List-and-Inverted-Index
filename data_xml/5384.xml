@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171231_050000_BBC_News#start/842/end/877</field>
+<field name="datetime">12/31/2017 5:14:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171231_050000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171231_050000_BBC_News/BBCNEWS_20171231_050000_BBC_News.thumbs/BBCNEWS_20171231_050000_BBC_News_000837.jpg</field>
+<field name="snippet">excuse me. we often say don't confuse weather and climate but we are reaching the point where individual weather events have a climate change component. stay with us on bbc</field>
+</doc>
+</add>

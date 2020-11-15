@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190910_080000_BBC_News_at_Nine#start/96/end/131</field>
+<field name="datetime">9/10/2019 8:01:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190910_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190910_080000_BBC_News_at_Nine/BBCNEWS_20190910_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190910_080000_BBC_News_at_Nine_000087.jpg</field>
+<field name="snippet">trillion pound investment to help stem climate change. in sport, scotland's hopes of reaching euro 2020 via their qualification group are all but over after they fall to a heavy defeat against belgium.</field>
+</doc>
+</add>

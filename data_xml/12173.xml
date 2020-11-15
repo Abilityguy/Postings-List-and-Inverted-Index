@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190814_050000_Breakfast#start/4975/end/5010</field>
+<field name="datetime">8/14/2019 6:23:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190814_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190814_050000_Breakfast/BBCNEWS_20190814_050000_Breakfast.thumbs/BBCNEWS_20190814_050000_Breakfast_004947.jpg</field>
+<field name="snippet">wednesday morning on bbc breakfast. shall we call it when wednesday? climate change activist greta thunberg is about to set off from the uk to spend two weeks sailing over the north atlantic in a boat with no toilet, kitchen or privacy. the 16-year-old is due to attend a crucial climate conference in new york, but has stopped flying</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191129_013000_Asia_Business_Report#start/703/end/738</field>
+<field name="datetime">11/29/2019 1:41:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Asia Business Report</field>
+<field name="showid">BBCNEWS_20191129_013000_Asia_Business_Report</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191129_013000_Asia_Business_Report/BBCNEWS_20191129_013000_Asia_Business_Report.thumbs/BBCNEWS_20191129_013000_Asia_Business_Report_000688.jpg</field>
+<field name="snippet">this is bbc news. the top stories this hour: president trump has made an unannounced trip to afghanistan, telling us troops he believes the taliban are open to ceasefire. as australia's bushfire crisis continues, protestors in sydney have demanded the government takes climate change seriously.</field>
+</doc>
+</add>

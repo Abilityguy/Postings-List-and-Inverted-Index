@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201006.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100616_150000_Happening_Now#start/5725/end/5760</field>
+<field name="datetime">6/16/2010 16:35:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20100616_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100616_150000_Happening_Now/FOXNEWS_20100616_150000_Happening_Now.thumbs/FOXNEWS_20100616_150000_Happening_Now_005721.jpg</field>
+<field name="snippet">what do you say? no, i don't think the president is jumping the gun. heck, we did the climate change legislation approximately -- more than a year ago in the house of representatives, we're still waiting on the senate. i think this spill just exech plifies why we have to</field>
+</doc>
+</add>

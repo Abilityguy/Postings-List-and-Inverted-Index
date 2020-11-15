@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201002.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100213_150000_MSNBC_News_Live#start/2372/end/2407</field>
+<field name="datetime">2/13/2010 15:39:47</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100213_150000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100213_150000_MSNBC_News_Live/MSNBC_20100213_150000_MSNBC_News_Live.thumbs/MSNBC_20100213_150000_MSNBC_News_Live_002365.jpg</field>
+<field name="snippet">snowstorms hitting the northeast and they think what happened to climate change, i thought it was going to get warmer, we didn't see any major snow events like this. it's important to remember first that any single weather event really doesn't tell us a lot about the long-term trends of climate. weather is what happens over the</field>
+</doc>
+</add>

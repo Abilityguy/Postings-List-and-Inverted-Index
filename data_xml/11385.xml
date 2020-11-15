@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_040000_The_Briefing#start/7/end/42</field>
+<field name="datetime">8/8/2019 4:00:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20190808_040000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_040000_The_Briefing/BBCNEWS_20190808_040000_The_Briefing.thumbs/BBCNEWS_20190808_040000_The_Briefing_000028.jpg</field>
+<field name="snippet">this is the briefing. i'm sally bundock. our top stories: how to combat climate change - scientists say it's time to cut meat and dairy from our diets.</field>
+</doc>
+</add>

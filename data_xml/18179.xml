@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201409.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140918_030000_All_In_With_Chris_Hayes#start/3585/end/3620</field>
+<field name="datetime">9/18/2014 4:00:00</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20140918_030000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140918_030000_All_In_With_Chris_Hayes/MSNBCW_20140918_030000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20140918_030000_All_In_With_Chris_Hayes_003585.jpg</field>
+<field name="snippet">speaking of climate change, in just over two weeks we'll premiere our brand new series 'all in america coal country' from north carolina, to kentucky to georgia, to mississippi, coal's impact on politics and health to what the future of american energy could look like. that starts right here at 8:00 p.m. on october 6th.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201006.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100613_160000_Americas_News_HQ#start/5044/end/5079</field>
+<field name="datetime">6/13/2010 17:24:19</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWS_20100613_160000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100613_160000_Americas_News_HQ/FOXNEWS_20100613_160000_Americas_News_HQ.thumbs/FOXNEWS_20100613_160000_Americas_News_HQ_005032.jpg</field>
+<field name="snippet">priorities, one was stimulus obviously, health care, this wall street reregulation. there was a rewrite of higher education aid, and then there was the climate change bill. he was going to get four out of five. that's pretty good. but that fifth one, climate</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201112.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20111209_110000_Morning_Joe#start/5567/end/5602</field>
+<field name="datetime">12/9/2011 12:33:02</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20111209_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20111209_110000_Morning_Joe/MSNBCW_20111209_110000_Morning_Joe.thumbs/MSNBCW_20111209_110000_Morning_Joe_005546.jpg</field>
+<field name="snippet">economic meltdown. then there's the $37 million gingrich took from health care and industry groups. on the issues? newt has been on all sides. he supports amnesty for millions of immigrants. he teamed up with nancy pelosi and al gore on global warming.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201105.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110517_080000_The_Rachel_Maddow_Show#start/234/end/269</field>
+<field name="datetime">5/17/2011 8:04:09</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBC_20110517_080000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20110517_080000_The_Rachel_Maddow_Show/MSNBC_20110517_080000_The_Rachel_Maddow_Show.thumbs/MSNBC_20110517_080000_The_Rachel_Maddow_Show_000236.jpg</field>
+<field name="snippet">this morning he put out a web video denouncing the individual mandate in health care reform. newt gingrich has come out against his own advocacy as cap and trade for global warming. he's voted against his own position on intervening in</field>
+</doc>
+</add>

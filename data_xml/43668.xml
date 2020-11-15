@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151214_220000_MTP_Daily#start/1214/end/1249</field>
+<field name="datetime">12/14/2015 22:20:29</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20151214_220000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151214_220000_MTP_Daily/MSNBCW_20151214_220000_MTP_Daily.thumbs/MSNBCW_20151214_220000_MTP_Daily_001186.jpg</field>
+<field name="snippet">warming of the earth to less than 3.6 degrees fahrenheit. the agreement seeks to limit the amount of greenhouse gas emissions from humans across the world and asks cub countries to come up with their own plans to make it happen. but that deal has already</field>
+</doc>
+</add>

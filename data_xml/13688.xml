@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201501.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150128_060000_Hannity#start/3066/end/3101</field>
+<field name="datetime">1/28/2015 6:51:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20150128_060000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150128_060000_Hannity/FOXNEWSW_20150128_060000_Hannity.thumbs/FOXNEWSW_20150128_060000_Hannity_003045.jpg</field>
+<field name="snippet">magazine said the next ice age is coming. then, became global warming. now, climate change so snow, this global warming. if it doesn't, there is climate change. if there is a hurricane, not a hurricane.</field>
+</doc>
+</add>

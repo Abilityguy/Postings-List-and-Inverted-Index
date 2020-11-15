@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091126_090000_Special_Report_With_Bret_Baier#start/2317/end/2352</field>
+<field name="datetime">11/26/2009 9:38:52</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091126_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091126_090000_Special_Report_With_Bret_Baier/FOXNEWS_20091126_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091126_090000_Special_Report_With_Bret_Baier_002184.jpg</field>
+<field name="snippet">conference as questions continue about the legitimacy of global warming science. our panel weighs in when we come right back. so i can avoid catching or spreading the flu this year, it's smart to get a flu shot,</field>
+</doc>
+</add>

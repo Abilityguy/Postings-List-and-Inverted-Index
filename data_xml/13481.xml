@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201703.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170316_190000_100_Days#start/1200/end/1235</field>
+<field name="datetime">3/16/2017 19:20:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">100 Days</field>
+<field name="showid">BBCNEWS_20170316_190000_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170316_190000_100_Days/BBCNEWS_20170316_190000_100_Days.thumbs/BBCNEWS_20170316_190000_100_Days_001197.jpg</field>
+<field name="snippet">a gorgeous front line in the fight against global warming. rising sea waters and recurring flooding risks turning miami beach into a modern-day atlantis, a city submerged by water. even on sunny days it can get inundated because seasonal</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190210_203000_The_Travel_Show#start/673/end/708</field>
+<field name="datetime">2/10/2019 20:41:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Travel Show</field>
+<field name="showid">BBCNEWS_20190210_203000_The_Travel_Show</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190210_203000_The_Travel_Show/BBCNEWS_20190210_203000_The_Travel_Show.thumbs/BBCNEWS_20190210_203000_The_Travel_Show_000660.jpg</field>
+<field name="snippet">butterflies will start their long flight north as they prepare to spend the spring and summer months over the border in the us and canada. but climate change is having a real effect on butterfly numbers, and some scientists fear that within 20 years, they could be extinct.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170725_030000_BBC_News#start/38/end/73</field>
+<field name="datetime">7/25/2017 3:00:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170725_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170725_030000_BBC_News/BBCNEWS_20170725_030000_BBC_News.thumbs/BBCNEWS_20170725_030000_BBC_News_000001.jpg</field>
+<field name="snippet">from islamic state. and greenland's melting ice fuels fears of catastrophic climate change. we have a special report. only a very small portion of this ice sheet has to melt to raise sea levels and put people in danger. president trump's son-in-law</field>
+</doc>
+</add>

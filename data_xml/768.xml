@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171107_180000_BBC_News_at_Six#start/1735/end/1770</field>
+<field name="datetime">11/7/2017 18:29:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20171107_180000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171107_180000_BBC_News_at_Six/BBCNEWS_20171107_180000_BBC_News_at_Six.thumbs/BBCNEWS_20171107_180000_BBC_News_at_Six_001708.jpg</field>
+<field name="snippet">leaked financial documents have revealed that prince charles campaigned for climate-change agreements to be altered - without disclosing that his private estate had a financial interest in the reforms. the investment, by the duchy of cornwall in a bermuda-based firm,</field>
+</doc>
+</add>

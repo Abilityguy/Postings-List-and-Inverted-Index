@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201412.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20141231_210000_NOW_With_Alex_Wagner#start/3626/end/3661</field>
+<field name="datetime">12/31/2014 22:00:41</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20141231_210000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20141231_210000_NOW_With_Alex_Wagner/MSNBCW_20141231_210000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20141231_210000_NOW_With_Alex_Wagner_003615.jpg</field>
+<field name="snippet">this is the punch out for 2014. we've been talking a lot about kitchen table issues and stories that effect the hard working families of this country. our top story tonight global climate change and the keystone xl pipeline, it impacts your</field>
+</doc>
+</add>

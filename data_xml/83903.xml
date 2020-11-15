@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190420_190000_BBC_News#start/266/end/301</field>
+<field name="datetime">4/20/2019 19:04:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190420_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190420_190000_BBC_News/BBCNEWS_20190420_190000_BBC_News.thumbs/BBCNEWS_20190420_190000_BBC_News_000268.jpg</field>
+<field name="snippet">jon donnison reports. the extinction rebellion has life in it yet. for a sixth day, climate change protesters targeted central london. yesterday's pink boat at oxford circus was replaced by a green hammock.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181015_170000_BBC_News_at_Six#start/1081/end/1116</field>
+<field name="datetime">10/15/2018 17:18:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20181015_170000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181015_170000_BBC_News_at_Six/BBCNEWS_20181015_170000_BBC_News_at_Six.thumbs/BBCNEWS_20181015_170000_BBC_News_at_Six_001077.jpg</field>
+<field name="snippet">and that is a very good signal. here, the government is considering a much tougher target for cutting greenhouse gases, as we've heard, but it's also reducing the subsidies for electric cars and allowing fracking to start for shale gas. tackling climate change is never going to be easy. david shukman, bbc news.</field>
+</doc>
+</add>

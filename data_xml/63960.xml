@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201410.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20141014_030000_All_In_With_Chris_Hayes#start/1128/end/1163</field>
+<field name="datetime">10/14/2014 3:19:03</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20141014_030000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20141014_030000_All_In_With_Chris_Hayes/MSNBCW_20141014_030000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20141014_030000_All_In_With_Chris_Hayes_001125.jpg</field>
+<field name="snippet">trivial statement that's going to get spit back in his face and called a gaffe. speaks of gaffes, here's mitch mcconnell on climate change, which i think is a bigger gaffe. take a listen. if climate change is a problem, and, do you believe it is or not? i'm not a scientist.</field>
+</doc>
+</add>

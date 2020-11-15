@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_130000_BBC_News_at_One#start/603/end/638</field>
+<field name="datetime">1/16/2020 13:10:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20200116_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_130000_BBC_News_at_One/BBCNEWS_20200116_130000_BBC_News_at_One.thumbs/BBCNEWS_20200116_130000_BBC_News_at_One_000599.jpg</field>
+<field name="snippet">climate change, we havejust climate change, we have just found out we finished the warmest decade on record, scientists are publishing ever more worrying research about the impact of global warming, people are taking to the streets to protest, and now sir david attenborough adding his voice, but in 2020 countries around the world</field>
+</doc>
+</add>

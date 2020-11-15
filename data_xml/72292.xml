@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201610.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161031_160000_MSNBC_Live_With_Andrea_Mitchell#start/959/end/994</field>
+<field name="datetime">10/31/2016 16:16:14</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Andrea Mitchell</field>
+<field name="showid">MSNBCW_20161031_160000_MSNBC_Live_With_Andrea_Mitchell</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161031_160000_MSNBC_Live_With_Andrea_Mitchell/MSNBCW_20161031_160000_MSNBC_Live_With_Andrea_Mitchell.thumbs/MSNBCW_20161031_160000_MSNBC_Live_With_Andrea_Mitchell_000957.jpg</field>
+<field name="snippet">friends in the united states senate? i just give the people a lot more credit. this election is about them. it's not about somebody's e-mails in a server. it's about their life. it's about whether or not we're going to have runaway climate</field>
+</doc>
+</add>

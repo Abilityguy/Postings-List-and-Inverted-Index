@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201112.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111208_160000_Happening_Now#start/1198/end/1233</field>
+<field name="datetime">12/8/2011 16:20:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20111208_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111208_160000_Happening_Now/FOXNEWSW_20111208_160000_Happening_Now.thumbs/FOXNEWSW_20111208_160000_Happening_Now_001196.jpg</field>
+<field name="snippet">our clean energy. jon: doesn't contribute to greenhouse gases. it doesn't contribute to greenhouse gases or other regulated pollutants. it is a huge jobs producer. it is something should be maintained i believe as the overall energy portfolio.</field>
+</doc>
+</add>

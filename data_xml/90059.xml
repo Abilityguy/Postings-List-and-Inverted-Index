@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200910.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091009_200000_MSNBC_News_Live#start/3087/end/3122</field>
+<field name="datetime">10/9/2009 20:51:42</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091009_200000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091009_200000_MSNBC_News_Live/MSNBC_20091009_200000_MSNBC_News_Live.thumbs/MSNBC_20091009_200000_MSNBC_News_Live_003086.jpg</field>
+<field name="snippet">and former vice president al gore is calling the president's win extremely well deserved. gore was awarded the nobel peace prize in 2007 for his work on global warming. i think it is thrilling that</field>
+</doc>
+</add>

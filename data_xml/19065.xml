@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201612.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161215_070000_Tucker_Carlson_Tonight#start/255/end/290</field>
+<field name="datetime">12/15/2016 7:04:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20161215_070000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161215_070000_Tucker_Carlson_Tonight/FOXNEWSW_20161215_070000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20161215_070000_Tucker_Carlson_Tonight_000237.jpg</field>
+<field name="snippet">ignore because it's not serving your interest in fundraising. no. actually, tucker, we don't make judgments on the basis of fundraising. i will tell you right now i appreciate the fact that mr. tillerson has acknowledged that climate change is a real problem. i appreciate the fact that he has voiced support for</field>
+</doc>
+</add>

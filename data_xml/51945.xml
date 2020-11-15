@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181216_120000_BBC_News#start/540/end/575</field>
+<field name="datetime">12/16/2018 12:09:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181216_120000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181216_120000_BBC_News/BBCNEWS_20181216_120000_BBC_News.thumbs/BBCNEWS_20181216_120000_BBC_News_000538.jpg</field>
+<field name="snippet">the world is responding to the threat of global warming, but not nearly with the speed that scientists scientists say is needed. david shukman, bbc news. 0ur correspondent matt mcgrath was at the conference in poland - he gave us his assessment of the talks. negotiators went down to the wire, really, on trying to get</field>
+</doc>
+</add>

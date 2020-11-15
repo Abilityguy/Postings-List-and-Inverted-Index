@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190117_130000_BBC_News_at_One#start/1193/end/1228</field>
+<field name="datetime">1/17/2019 13:20:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190117_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190117_130000_BBC_News_at_One/BBCNEWS_20190117_130000_BBC_News_at_One.thumbs/BBCNEWS_20190117_130000_BBC_News_at_One_001168.jpg</field>
+<field name="snippet">a group of scientists are calling for radical change to global eating habits to improve health and prevent potentially catastrophic damage to the world. agriculture is one of the main contributors to greenhouse gas emissions.</field>
+</doc>
+</add>

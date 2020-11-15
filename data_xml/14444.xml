@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201812.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181230_230000_Meet_the_Press#start/79/end/114</field>
+<field name="datetime">12/30/2018 23:01:34</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20181230_230000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181230_230000_Meet_the_Press/MSNBCW_20181230_230000_Meet_the_Press.thumbs/MSNBCW_20181230_230000_Meet_the_Press_000058.jpg</field>
+<field name="snippet">this morning we report on climate change, the science, the damage to our environment, the cost and the politics. welcome to sunday and this special edition of 'meet the press.' l edition of 'meet the press.</field>
+</doc>
+</add>

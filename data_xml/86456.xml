@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191230_113000_Weather_World#start/197/end/232</field>
+<field name="datetime">12/30/2019 11:33:32</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20191230_113000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191230_113000_Weather_World/BBCNEWS_20191230_113000_Weather_World.thumbs/BBCNEWS_20191230_113000_Weather_World_000177.jpg</field>
+<field name="snippet">its punting on the river, and now its heat - because of this. this weather station, which onjuly the 25th 2019 recorded a new national high temperature for the uk of 38.7 degrees celsius. now, in a year when climate change</field>
+</doc>
+</add>

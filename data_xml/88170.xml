@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191220_053000_Business_Briefing#start/864/end/899</field>
+<field name="datetime">12/20/2019 5:44:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Business Briefing</field>
+<field name="showid">BBCNEWS_20191220_053000_Business_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191220_053000_Business_Briefing/BBCNEWS_20191220_053000_Business_Briefing.thumbs/BBCNEWS_20191220_053000_Business_Briefing_000838.jpg</field>
+<field name="snippet">little is being done to combat climate change, and that it would take a revolution for the world to meet the target of limiting a rise in global temperatures to 1.5 degrees. it is not all bad news, though. as reported here in the independent, electricity produced by renewables has surpassed fossil fuel power</field>
+</doc>
+</add>

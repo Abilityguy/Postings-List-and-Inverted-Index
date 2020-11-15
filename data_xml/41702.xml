@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201301.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130109_180000_Andrea_Mitchell_Reports#start/1687/end/1722</field>
+<field name="datetime">1/9/2013 18:28:22</field>
+<field name="station">MSNBC</field>
+<field name="show">Andrea Mitchell Reports</field>
+<field name="showid">MSNBCW_20130109_180000_Andrea_Mitchell_Reports</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130109_180000_Andrea_Mitchell_Reports/MSNBCW_20130109_180000_Andrea_Mitchell_Reports.thumbs/MSNBCW_20130109_180000_Andrea_Mitchell_Reports_001665.jpg</field>
+<field name="snippet">when they break records, it's by a tenth of a degree or hundredth of a degree, this was a full degree. it should be a wakeup about climate change, because climate change played a role in this, according to the noaa scientists. yes, there are natural</field>
+</doc>
+</add>

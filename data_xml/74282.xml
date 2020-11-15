@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_023000_Wednesday_in_Parliament#start/920/end/955</field>
+<field name="datetime">1/16/2020 2:45:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Wednesday in Parliament</field>
+<field name="showid">BBCNEWS_20200116_023000_Wednesday_in_Parliament</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_023000_Wednesday_in_Parliament/BBCNEWS_20200116_023000_Wednesday_in_Parliament.thumbs/BBCNEWS_20200116_023000_Wednesday_in_Parliament_000898.jpg</field>
+<field name="snippet">going to get to where we need to be and get our emissions down. the queen's speech references the government's commitment to achieving net zero greenhouse gas emissions by 2050, but the ipcc, the world's leading scientific body on climate change, says that the entire world needs to reach net zero by 2050 to avoid</field>
+</doc>
+</add>

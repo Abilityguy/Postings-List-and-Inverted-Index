@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201302.csv</field>
+<field name="url">https://archive.org/details/CNNW_20130210_050000_Piers_Morgan_Tonight#start/1835/end/1870</field>
+<field name="datetime">2/10/2013 5:30:50</field>
+<field name="station">CNN</field>
+<field name="show">Piers Morgan Tonight</field>
+<field name="showid">CNNW_20130210_050000_Piers_Morgan_Tonight</field>
+<field name="preview">https://archive.org/download/CNNW_20130210_050000_Piers_Morgan_Tonight/CNNW_20130210_050000_Piers_Morgan_Tonight.thumbs/CNNW_20130210_050000_Piers_Morgan_Tonight_001815.jpg</field>
+<field name="snippet">i'm trained as an astronaut. i'm not satisfied until we're back home and the mission is a success. a crucial mission as climate change threatens to intensify the storms ahead. next, what the polar icecap is telling us about how damaging</field>
+</doc>
+</add>

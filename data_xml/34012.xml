@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091203_110000_FOX_and_Friends#start/618/end/653</field>
+<field name="datetime">12/3/2009 11:10:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091203_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091203_110000_FOX_and_Friends/FOXNEWS_20091203_110000_FOX_and_Friends.thumbs/FOXNEWS_20091203_110000_FOX_and_Friends_000592.jpg</field>
+<field name="snippet">summit with business leaders. the u.s. chamber of commerce apparently not invited. the u.s. battled with that group over health care and climate change policies, labor leaders, ceos and not for profit groups will be in attendance. in a few minutes a vice</field>
+</doc>
+</add>

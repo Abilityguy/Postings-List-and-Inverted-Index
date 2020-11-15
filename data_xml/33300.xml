@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091215_160000_Happening_Now#start/4191/end/4226</field>
+<field name="datetime">12/15/2009 17:10:06</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091215_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091215_160000_Happening_Now/FOXNEWS_20091215_160000_Happening_Now.thumbs/FOXNEWS_20091215_160000_Happening_Now_004192.jpg</field>
+<field name="snippet">the action network says obama's targets are not low enough to stop global warming. he have a -- has a cut of 4%. in the eyes of the world, that is not enough.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191126_170000_BBC_News_at_Five#start/56/end/91</field>
+<field name="datetime">11/26/2019 17:01:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20191126_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191126_170000_BBC_News_at_Five/BBCNEWS_20191126_170000_BBC_News_at_Five.thumbs/BBCNEWS_20191126_170000_BBC_News_at_Five_000058.jpg</field>
+<field name="snippet">islamophobia in the party. we'll have the latest from the election campiagn trail, hours before the final deadline to register to vote. the other main stories on bbc news at 5pm. a bleak outlook on climate change, the united nations says the world has to act much faster, to avoid dangerous levels of global warming.</field>
+</doc>
+</add>

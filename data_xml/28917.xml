@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201610.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161031_030000_Special_Report_With_Bret_Baier#start/1990/end/2025</field>
+<field name="datetime">10/31/2016 3:33:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20161031_030000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161031_030000_Special_Report_With_Bret_Baier/FOXNEWSW_20161031_030000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20161031_030000_Special_Report_With_Bret_Baier_001827.jpg</field>
+<field name="snippet">welcome back to welcome back to our special sunday prime time 'special report.' during the final days of this campaign, we're counting down the issues that matter most to you. tonight, number seven in the top ten: climate change. remember, the top ten are taken</field>
+</doc>
+</add>

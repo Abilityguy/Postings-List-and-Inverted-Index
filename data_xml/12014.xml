@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190802_100000_BBC_Newsroom_Live#start/2371/end/2406</field>
+<field name="datetime">8/2/2019 10:39:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190802_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190802_100000_BBC_Newsroom_Live/BBCNEWS_20190802_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190802_100000_BBC_Newsroom_Live_002368.jpg</field>
+<field name="snippet">the results are based on billions of measurements from satellites, ships, aircraft and weather stations all across the world. these latest figures are part of a long-term trend in rising global temperatures. and computer models of the impact of climate change predict that more summer temperature records are likely to be broken,</field>
+</doc>
+</add>

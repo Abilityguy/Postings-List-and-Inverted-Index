@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191014_050000_Breakfast#start/5625/end/5660</field>
+<field name="datetime">10/14/2019 6:34:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191014_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191014_050000_Breakfast/BBCNEWS_20191014_050000_Breakfast.thumbs/BBCNEWS_20191014_050000_Breakfast_005607.jpg</field>
+<field name="snippet">communities are responding to the effects of climate change. those are some of the main stories. if we sort out those issues, carol will have the weather in about ten</field>
+</doc>
+</add>

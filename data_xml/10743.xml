@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190802_120000_BBC_News_at_One#start/946/end/981</field>
+<field name="datetime">8/2/2019 12:16:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190802_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190802_120000_BBC_News_at_One/BBCNEWS_20190802_120000_BBC_News_at_One.thumbs/BBCNEWS_20190802_120000_BBC_News_at_One_000928.jpg</field>
+<field name="snippet">attribution group shows the fingerprint of climate change on the current heatwave in western europe. temperatures are up to three degrees hotter than they otherwise would have been, because of greenhouse gases created by human activities. this record shows that the average</field>
+</doc>
+</add>

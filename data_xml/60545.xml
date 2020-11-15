@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_170000_BBC_News_at_Six#start/97/end/132</field>
+<field name="datetime">10/8/2018 17:01:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20181008_170000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_170000_BBC_News_at_Six/BBCNEWS_20181008_170000_BBC_News_at_Six.thumbs/BBCNEWS_20181008_170000_BBC_News_at_Six_000087.jpg</field>
+<field name="snippet">the world's top climate scientists say dramatic changes need to be made quickly to our lifestyles to avoid catastrophic climate change in the future. they say we should give up meat, throw less away, drive electric cars, walk more, fly less. and governments must make</field>
+</doc>
+</add>

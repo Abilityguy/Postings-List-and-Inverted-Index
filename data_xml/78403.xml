@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191129_110000_BBC_Newsroom_Live#start/5029/end/5064</field>
+<field name="datetime">11/29/2019 12:24:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20191129_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191129_110000_BBC_Newsroom_Live/BBCNEWS_20191129_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20191129_110000_BBC_Newsroom_Live_005008.jpg</field>
+<field name="snippet">on the bbc news channel. young people across the uk arejoining global climate protests today. with events already under way in australia, students from across the uk will be striking as part of the worldwide movement against what they say is governmental inaction on climate change. from st albans to st andrews, the strikers will be joining some</field>
+</doc>
+</add>

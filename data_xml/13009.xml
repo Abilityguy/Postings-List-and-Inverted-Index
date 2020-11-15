@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201303.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130316_180000_The_Journal_Editorial_Report#start/1483/end/1518</field>
+<field name="datetime">3/16/2013 18:24:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Journal Editorial Report</field>
+<field name="showid">FOXNEWSW_20130316_180000_The_Journal_Editorial_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130316_180000_The_Journal_Editorial_Report/FOXNEWSW_20130316_180000_The_Journal_Editorial_Report.thumbs/FOXNEWSW_20130316_180000_The_Journal_Editorial_Report_001455.jpg</field>
+<field name="snippet">this is a tiny addition to tackling global warming. paul: so batteries have to be replaced like in your cell phone, for example, what's the environmental impact of getting rid of the electric batteries. they have to go somewhere.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_220000_BBC_News_at_Ten#start/122/end/157</field>
+<field name="datetime">1/16/2020 22:02:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20200116_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_220000_BBC_News_at_Ten/BBCNEWS_20200116_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20200116_220000_BBC_News_at_Ten_000118.jpg</field>
+<field name="snippet">world over climate change. in some of his strongest comments yet, sir david said that countries have been dodging their commitments for too long and that every year that passed made it more and more difficult to achieve the necessary change. he added that it was nonsense to</field>
+</doc>
+</add>

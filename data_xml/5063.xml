@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170603_030000_BBC_News#start/750/end/785</field>
+<field name="datetime">6/3/2017 3:12:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170603_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170603_030000_BBC_News/BBCNEWS_20170603_030000_BBC_News.thumbs/BBCNEWS_20170603_030000_BBC_News_000747.jpg</field>
+<field name="snippet">but we all have the same view, that we remain committed to the paris agreement. in brussels, the eu and china have been prompted to take a stand because they share the belief that fighting climate change makes both environmental and economic sense, and, the eu says, puts it on the right side of history.</field>
+</doc>
+</add>

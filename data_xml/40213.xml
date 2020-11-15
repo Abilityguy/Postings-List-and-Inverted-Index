@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201907.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190730_190000_MSNBC_Live_With_Ali_Velshi#start/433/end/468</field>
+<field name="datetime">7/30/2019 19:07:28</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190730_190000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190730_190000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190730_190000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190730_190000_MSNBC_Live_With_Ali_Velshi_000420.jpg</field>
+<field name="snippet">right. we're going to have a vigorous discussion of where the candidates are. there's big differences between the candidates. i am the candidate who is saying we need to make defeating climate crisis the number one priority of the united states.</field>
+</doc>
+</add>

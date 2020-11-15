@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200114_050000_The_Briefing#start/110/end/145</field>
+<field name="datetime">1/14/2020 5:02:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20200114_050000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200114_050000_The_Briefing/BBCNEWS_20200114_050000_The_Briefing.thumbs/BBCNEWS_20200114_050000_The_Briefing_000088.jpg</field>
+<field name="snippet">uk scientists have issued a stark new warning about the fires in australia and climate change. they say the fires are a taste of what the world will experience as temperatures rise. at three degrees above 19th century levels, which some believe</field>
+</doc>
+</add>

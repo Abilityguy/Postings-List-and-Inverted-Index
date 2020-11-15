@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190104_050000_Tucker_Carlson_Tonight#start/2384/end/2419</field>
+<field name="datetime">1/4/2019 5:39:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190104_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190104_050000_Tucker_Carlson_Tonight/FOXNEWSW_20190104_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190104_050000_Tucker_Carlson_Tonight_002368.jpg</field>
+<field name="snippet">will only affect people who like burgers. for all the problems people in that income range have, why hassle them? is global warming really their fault? if we didn't eat burgers, we</field>
+</doc>
+</add>

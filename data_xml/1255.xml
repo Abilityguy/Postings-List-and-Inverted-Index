@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170512_020000_BBC_News#start/433/end/468</field>
+<field name="datetime">5/12/2017 2:07:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170512_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170512_020000_BBC_News/BBCNEWS_20170512_020000_BBC_News.thumbs/BBCNEWS_20170512_020000_BBC_News_000417.jpg</field>
+<field name="snippet">nations with territory in the arctic circle have signed an agreement accepting the urgent need to tackle climate change. the fairbanks declaration accepts that activities in the member states are the main contributors to rising temperatures, but it does not commit the us to implementing the 2015 paris deal on reducing emissions.</field>
+</doc>
+</add>

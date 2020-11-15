@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201601.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160101_110000_Morning_Joe#start/5637/end/5672</field>
+<field name="datetime">1/1/2016 12:34:12</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20160101_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160101_110000_Morning_Joe/MSNBCW_20160101_110000_Morning_Joe.thumbs/MSNBCW_20160101_110000_Morning_Joe_005625.jpg</field>
+<field name="snippet">said i'm going to wait and see what france does. following up on the climate change question, do you believe in climate change? is it occurring? climates always changing and we cannot say that our activity</field>
+</doc>
+</add>

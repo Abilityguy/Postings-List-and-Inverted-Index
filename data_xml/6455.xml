@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_200000_World_News_Today#start/1009/end/1044</field>
+<field name="datetime">9/20/2019 20:17:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190920_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_200000_World_News_Today/BBCNEWS_20190920_200000_World_News_Today.thumbs/BBCNEWS_20190920_200000_World_News_Today_000987.jpg</field>
+<field name="snippet">returning now to our lead story. millions of people have been taking to the streets around the world, demanding tougher action on climate change. sweta chakraborty is a risk and behavioural scientist. shejoins me now. thank you very much for your time.</field>
+</doc>
+</add>

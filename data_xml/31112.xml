@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090720_210000_Glenn_Beck#start/1948/end/1983</field>
+<field name="datetime">7/20/2009 21:32:43</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20090720_210000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090720_210000_Glenn_Beck/FOXNEWS_20090720_210000_Glenn_Beck.thumbs/FOXNEWS_20090720_210000_Glenn_Beck_001946.jpg</field>
+<field name="snippet">trillion. hey, and i have got great environmental news for you. remember that hole in the ozone layer? we did fix it. but what we used to fix it is now making global warming worse.</field>
+</doc>
+</add>

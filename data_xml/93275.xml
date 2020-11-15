@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190727_040000_BBC_News#start/27/end/62</field>
+<field name="datetime">7/27/2019 4:00:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190727_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190727_040000_BBC_News/BBCNEWS_20190727_040000_BBC_News.thumbs/BBCNEWS_20190727_040000_BBC_News_000028.jpg</field>
+<field name="snippet">the world of turning its back on syria - after more than 100 people are killed in just ten days. air strikes kill and maim significant numbers of civilians several times a week and the response seems to be a collective shrug. hundreds of wildfires are burning in the arctic circle - scientists say it's unprecedented as climate change</field>
+</doc>
+</add>

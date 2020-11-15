@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091219_000000_The_FOX_Report_With_Shepard_Smith#start/2/end/37</field>
+<field name="datetime">12/19/2009 0:00:17</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The FOX Report With Shepard Smith</field>
+<field name="showid">FOXNEWS_20091219_000000_The_FOX_Report_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091219_000000_The_FOX_Report_With_Shepard_Smith/FOXNEWS_20091219_000000_The_FOX_Report_With_Shepard_Smith.thumbs/FOXNEWS_20091219_000000_The_FOX_Report_With_Shepard_Smith_000026.jpg</field>
+<field name="snippet">shepard: a final-hour break through at the climate-change summit, but what does it mean as a snowstorm barrels to the se? i am shepard smith. the news starts now. the majority know this bill</field>
+</doc>
+</add>

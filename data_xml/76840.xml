@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190509_100000_BBC_Newsroom_Live#start/396/end/431</field>
+<field name="datetime">5/9/2019 10:06:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190509_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190509_100000_BBC_Newsroom_Live/BBCNEWS_20190509_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190509_100000_BBC_Newsroom_Live_000387.jpg</field>
+<field name="snippet">from the effects of climate change, according to the environment agency. it says more than five million people in england could be affected, with some communities having to move elsewhere. 0ur environment analyst, roger harrabin, explains. floods have wreaked havoc in the uk in recent years.</field>
+</doc>
+</add>

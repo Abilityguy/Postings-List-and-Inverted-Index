@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140217_230000_Special_Report_With_Bret_Baier#start/398/end/433</field>
+<field name="datetime">2/17/2014 23:06:53</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20140217_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140217_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20140217_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20140217_230000_Special_Report_With_Bret_Baier_000375.jpg</field>
+<field name="snippet">country. that's according to a new gallup poll. 23% of those surveyed felt that way. the economy next at 20%. dissatisfaction with government, politicians, and leaders slips from first to third. concerns over climate change did</field>
+</doc>
+</add>

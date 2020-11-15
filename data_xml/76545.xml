@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190519_000000_BBC_News#start/491/end/526</field>
+<field name="datetime">5/19/2019 0:08:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190519_000000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190519_000000_BBC_News/BBCNEWS_20190519_000000_BBC_News.thumbs/BBCNEWS_20190519_000000_BBC_News_000478.jpg</field>
+<field name="snippet">moderate conservative voices who believe in very strong action on climate change and see it as one of their core missions in parliament and they have demanded to hold the government to account on this. thank</field>
+</doc>
+</add>

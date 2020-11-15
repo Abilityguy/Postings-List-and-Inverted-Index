@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191220_203000_Review_2019#start/312/end/347</field>
+<field name="datetime">12/20/2019 20:35:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Review 2019</field>
+<field name="showid">BBCNEWS_20191220_203000_Review_2019</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191220_203000_Review_2019/BBCNEWS_20191220_203000_Review_2019.thumbs/BBCNEWS_20191220_203000_Review_2019_000298.jpg</field>
+<field name="snippet">the city's mayor said he believes the flooding is a direct result of climate change. there was a similar concern with the recent floods in the uk, in south yorkshire. there were scorching heat waves across europe, with unusually high temperatures in the arctic circle as well.</field>
+</doc>
+</add>

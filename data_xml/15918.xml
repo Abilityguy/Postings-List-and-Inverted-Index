@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201106.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110628_100000_FOX_and_Friends#start/2087/end/2122</field>
+<field name="datetime">6/28/2011 10:35:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20110628_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110628_100000_FOX_and_Friends/FOXNEWS_20110628_100000_FOX_and_Friends.thumbs/FOXNEWS_20110628_100000_FOX_and_Friends_002070.jpg</field>
+<field name="snippet">thing as global warming? do you think that's trumped up by people who want to get on the green agenda? i'm old enough to remember when people were predicting there was going to be the next ice age. until recently people were worried as much about global</field>
+</doc>
+</add>

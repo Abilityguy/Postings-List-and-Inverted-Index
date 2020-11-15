@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201509.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150918_080000_The_Rachel_Maddow_Show#start/2090/end/2125</field>
+<field name="datetime">9/18/2015 8:35:05</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBCW_20150918_080000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150918_080000_The_Rachel_Maddow_Show/MSNBCW_20150918_080000_The_Rachel_Maddow_Show.thumbs/MSNBCW_20150918_080000_The_Rachel_Maddow_Show_002086.jpg</field>
+<field name="snippet">well, you know, climate change is a real threat to the planet we need bold action? no. did you hear one person say well, the real value of the minimum wage has declined significantly over the years. we need to raise the minimum</field>
+</doc>
+</add>

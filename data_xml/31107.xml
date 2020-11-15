@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090709_150000_Happening_Now#start/6698/end/6733</field>
+<field name="datetime">7/9/2009 16:51:53</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20090709_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090709_150000_Happening_Now/FOXNEWS_20090709_150000_Happening_Now.thumbs/FOXNEWS_20090709_150000_Happening_Now_006686.jpg</field>
+<field name="snippet">president obama talking about the challenge of climate change and agreeing on working toward reducing greenhouse gases. heather: vice-president joe</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190616_043000_The_Week_in_Parliament#start/1080/end/1115</field>
+<field name="datetime">6/16/2019 4:48:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Week in Parliament</field>
+<field name="showid">BBCNEWS_20190616_043000_The_Week_in_Parliament</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190616_043000_The_Week_in_Parliament/BBCNEWS_20190616_043000_The_Week_in_Parliament.thumbs/BBCNEWS_20190616_043000_The_Week_in_Parliament_001077.jpg</field>
+<field name="snippet">of the vote in the european elections. greenhouse gas emissions in the uk are to be cut to almost zero by 2050, under a new plan</field>
+</doc>
+</add>

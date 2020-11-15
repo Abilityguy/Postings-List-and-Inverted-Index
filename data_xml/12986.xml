@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201303.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130306_010000_The_OReilly_Factor#start/2202/end/2237</field>
+<field name="datetime">3/6/2013 1:36:57</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20130306_010000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130306_010000_The_OReilly_Factor/FOXNEWSW_20130306_010000_The_OReilly_Factor.thumbs/FOXNEWSW_20130306_010000_The_OReilly_Factor_002175.jpg</field>
+<field name="snippet">my house. it's ethanol. it's the same fuel that gets all these subsidies that any environmental groups have now turned against because it turns out to produce just as much greenhouse gas to make it it's the same stuff?</field>
+</doc>
+</add>

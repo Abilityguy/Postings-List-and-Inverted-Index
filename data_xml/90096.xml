@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200910.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091011_130000_MSNBC_News_Live#start/1155/end/1190</field>
+<field name="datetime">10/11/2009 13:19:30</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091011_130000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091011_130000_MSNBC_News_Live/MSNBC_20091011_130000_MSNBC_News_Live.thumbs/MSNBC_20091011_130000_MSNBC_News_Live_001133.jpg</field>
+<field name="snippet">that is 'a' affordable and, 'b' really accomplishes anything. let me ask you this, new information a bipartisan show of support on climate change legislation. democratic senator john kerry</field>
+</doc>
+</add>

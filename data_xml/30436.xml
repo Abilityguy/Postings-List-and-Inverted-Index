@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.202001.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20200119_120000_MSNBC_Live#start/3046/end/3081</field>
+<field name="datetime">1/19/2020 12:51:01</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20200119_120000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20200119_120000_MSNBC_Live/MSNBCW_20200119_120000_MSNBC_Live.thumbs/MSNBCW_20200119_120000_MSNBC_Live_003028.jpg</field>
+<field name="snippet">researchers when it comes to ocean warming? yeah, the biggest concern is we don't know how much heat the ocean can take. so far the ocean absorbed 93% of the heat we released because of greenhouse gas emissions and we're worried that at some point the ocean is going to start</field>
+</doc>
+</add>

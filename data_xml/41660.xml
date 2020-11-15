@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201301.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130122_230000_PoliticsNation#start/1828/end/1863</field>
+<field name="datetime">1/22/2013 23:30:43</field>
+<field name="station">MSNBC</field>
+<field name="show">PoliticsNation</field>
+<field name="showid">MSNBCW_20130122_230000_PoliticsNation</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130122_230000_PoliticsNation/MSNBCW_20130122_230000_PoliticsNation.thumbs/MSNBCW_20130122_230000_PoliticsNation_001815.jpg</field>
+<field name="snippet">intergovernmental panel on climate change found a 90% probability that the humans are the main cause of global warming. and more than 97% of climate researchers, yes real researchers, surveyed by the</field>
+</doc>
+</add>

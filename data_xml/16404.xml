@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201502.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150226_110000_FOX_and_Friends#start/555/end/590</field>
+<field name="datetime">2/26/2015 11:09:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20150226_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150226_110000_FOX_and_Friends/FOXNEWSW_20150226_110000_FOX_and_Friends.thumbs/FOXNEWSW_20150226_110000_FOX_and_Friends_000555.jpg</field>
+<field name="snippet">the president of the united states when he says the real threat is global warming. i'm not sure if that's true but heather nauert is prepared to tell us something we need to know. if you talk to friend in the south they will tell you this is a big problem down there.</field>
+</doc>
+</add>

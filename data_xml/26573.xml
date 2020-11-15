@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201108.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20110822_100000_Morning_Joe#start/10377/end/10412</field>
+<field name="datetime">8/22/2011 12:53:12</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20110822_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20110822_100000_Morning_Joe/MSNBCW_20110822_100000_Morning_Joe.thumbs/MSNBCW_20110822_100000_Morning_Joe_010376.jpg</field>
+<field name="snippet">what 98 of 100 climate scientists say, what the national academy of science has said about what is causing climate change and man's contribution to it, i think we find ourselves on the wrong side</field>
+</doc>
+</add>

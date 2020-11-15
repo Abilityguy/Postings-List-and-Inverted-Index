@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181126_230000_BBC_News#start/955/end/990</field>
+<field name="datetime">11/26/2018 23:16:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181126_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181126_230000_BBC_News/BBCNEWS_20181126_230000_BBC_News.thumbs/BBCNEWS_20181126_230000_BBC_News_000958.jpg</field>
+<field name="snippet">a day after striking the deal in brussels, theresa may goes to parliament to face critics from all sides of the house of commons. british summers could be five degrees hotter by 2070 if greenhouse gas emissions aren't cut, according to new met office projections. an inquest into the death</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190831_020000_BBC_News#start/520/end/555</field>
+<field name="datetime">8/31/2019 2:08:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190831_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190831_020000_BBC_News/BBCNEWS_20190831_020000_BBC_News.thumbs/BBCNEWS_20190831_020000_BBC_News_000509.jpg</field>
+<field name="snippet">the long-term outlook for the great barrier reef has been downgraded from 'poor' to 'very poor' by the australian government agency that manages the world's largest coral system. a new report says rising sea temperatures, caused by global warming, have caused two major events of coral bleaching. fertilisers and pesticides getting in the water have also had an impact.</field>
+</doc>
+</add>

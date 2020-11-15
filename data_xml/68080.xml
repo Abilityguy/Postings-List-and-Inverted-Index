@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190215_130000_BBC_News_at_One#start/1019/end/1054</field>
+<field name="datetime">2/15/2019 13:17:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190215_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190215_130000_BBC_News_at_One/BBCNEWS_20190215_130000_BBC_News_at_One.thumbs/BBCNEWS_20190215_130000_BBC_News_at_One_001017.jpg</field>
+<field name="snippet">ambassadors who hope to recommend a revised deal soon to avoid thousands of children across the uk are on strike from school today, joining worldwide protests against climate change. they've denounced the government for what they call an alarming lack of leadership.</field>
+</doc>
+</add>

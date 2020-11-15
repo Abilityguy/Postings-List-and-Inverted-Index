@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201301.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130123_180000_America_Live#start/6444/end/6479</field>
+<field name="datetime">1/23/2013 19:47:39</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWSW_20130123_180000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130123_180000_America_Live/FOXNEWSW_20130123_180000_America_Live.thumbs/FOXNEWSW_20130123_180000_America_Live_006435.jpg</field>
+<field name="snippet">do you think is a higher priority and a better use of taxpayers' money, national security or global climate change? this money could have been used for embassy construction, for hiring more diplomacy</field>
+</doc>
+</add>

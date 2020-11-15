@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201612.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161209_070000_Tucker_Carlson_Tonight#start/723/end/758</field>
+<field name="datetime">12/9/2016 7:12:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20161209_070000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161209_070000_Tucker_Carlson_Tonight/FOXNEWSW_20161209_070000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20161209_070000_Tucker_Carlson_Tonight_000717.jpg</field>
+<field name="snippet">fact that he believes x, y or z about climate change, as if we have a religious test for office in the country, because as we just heard, climate change is a kind of religion. the fact is, we don't care if</field>
+</doc>
+</add>

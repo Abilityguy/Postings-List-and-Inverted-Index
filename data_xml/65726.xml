@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190209_110000_Fox_and_Friends_Saturday#start/9969/end/10004</field>
+<field name="datetime">2/9/2019 13:46:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20190209_110000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190209_110000_Fox_and_Friends_Saturday/FOXNEWSW_20190209_110000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20190209_110000_Fox_and_Friends_Saturday_009957.jpg</field>
+<field name="snippet">this week. jed jet the lawmakers explaining in relation to greenhouse gas,s quote: we set a goal to get to net zero rather than zero emissions in 10 years because we are not sure we will be able to fully get rid of emissions from cows and airplanes that fast.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201605.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160523_160000_Outnumbered#start/3128/end/3163</field>
+<field name="datetime">5/23/2016 16:52:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Outnumbered</field>
+<field name="showid">FOXNEWSW_20160523_160000_Outnumbered</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160523_160000_Outnumbered/FOXNEWSW_20160523_160000_Outnumbered.thumbs/FOXNEWSW_20160523_160000_Outnumbered_003117.jpg</field>
+<field name="snippet">the board in portland, oregon, unanimously approving a resolution calls for removing books and course materials that suggest climate change doesn't exist, or that people are not at fault for it. here's a teacher who helped come up with the policy.</field>
+</doc>
+</add>

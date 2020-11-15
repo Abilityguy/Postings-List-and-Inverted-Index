@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181202_210000_World_News_Today#start/51/end/86</field>
+<field name="datetime">12/2/2018 21:01:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20181202_210000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181202_210000_World_News_Today/BBCNEWS_20181202_210000_World_News_Today.thumbs/BBCNEWS_20181202_210000_World_News_Today_000027.jpg</field>
+<field name="snippet">to world news today. crucial talks on climate change have begun at a united nations conference in poland.? they're hoping to agree on rules to implement the paris agreement of 2015, scientists say that,</field>
+</doc>
+</add>

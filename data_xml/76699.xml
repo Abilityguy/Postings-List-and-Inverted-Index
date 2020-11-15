@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190502_050000_Breakfast#start/3640/end/3675</field>
+<field name="datetime">5/2/2019 6:00:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190502_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190502_050000_Breakfast/BBCNEWS_20190502_050000_Breakfast.thumbs/BBCNEWS_20190502_050000_Breakfast_003628.jpg</field>
+<field name="snippet">eating less meat, taking fewer flights, and giving up our cars - how the uk could become a world leader in tackling climate change. wake up and smell the coffee. our morning cuppa is now worth £9 billion to the economy, up 7%.</field>
+</doc>
+</add>

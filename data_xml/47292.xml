@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201802.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180216_133000_BBC_News#start/1305/end/1340</field>
+<field name="datetime">2/16/2018 13:52:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180216_133000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180216_133000_BBC_News/BBCNEWS_20180216_133000_BBC_News.thumbs/BBCNEWS_20180216_133000_BBC_News_001287.jpg</field>
+<field name="snippet">the encouragement of the arts, manufactures and commerce said it could pave the way to everyone getting a basic state wage and would compensate workers for the wayjobs are changing in light of automation and climate change. french car-maker renault posted record sales and profits last year, with operating profit surging more than 17%.</field>
+</doc>
+</add>

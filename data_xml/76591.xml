@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190504_203000_Iraqs_Poisoned_Rivers#start/150/end/185</field>
+<field name="datetime">5/4/2019 20:32:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Iraqs Poisoned Rivers</field>
+<field name="showid">BBCNEWS_20190504_203000_Iraqs_Poisoned_Rivers</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190504_203000_Iraqs_Poisoned_Rivers/BBCNEWS_20190504_203000_Iraqs_Poisoned_Rivers.thumbs/BBCNEWS_20190504_203000_Iraqs_Poisoned_Rivers_000149.jpg</field>
+<field name="snippet">the marshes had been drained but in 2003, they were brought back to life. the threats now are very different - they're pollution, a lack of water as well as climate change. if people keep dumping raw</field>
+</doc>
+</add>

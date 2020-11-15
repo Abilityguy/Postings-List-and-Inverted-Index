@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201310.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20131003_100000_FOX_and_Friends#start/2008/end/2043</field>
+<field name="datetime">10/3/2013 10:33:43</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20131003_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20131003_100000_FOX_and_Friends/FOXNEWSW_20131003_100000_FOX_and_Friends.thumbs/FOXNEWSW_20131003_100000_FOX_and_Friends_001995.jpg</field>
+<field name="snippet">are they doing? let's take a look at some of the stuff they've accomplished in the last year or so. for instance, free climate change lessons. that was something they were promoting, as you can see right there. plans to bypass congress on global warming. did you miss this one?</field>
+</doc>
+</add>

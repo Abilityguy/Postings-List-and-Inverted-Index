@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190914_020000_BBC_News#start/259/end/294</field>
+<field name="datetime">9/14/2019 2:04:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190914_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190914_020000_BBC_News/BBCNEWS_20190914_020000_BBC_News.thumbs/BBCNEWS_20190914_020000_BBC_News_000239.jpg</field>
+<field name="snippet">the swedish teenage climate activist, greta thunberg, has joined hundreds of young protesters outside the white house to demand action against climate change. the demonstration marked the first high-profile event of greta's six-day visit to washington. the idea was to pressure a sceptical trump administration to tackle climate change.</field>
+</doc>
+</add>

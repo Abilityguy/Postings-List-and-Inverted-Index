@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_113000_BBC_Newsroom_Live#start/1741/end/1776</field>
+<field name="datetime">12/3/2018 11:59:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20181203_113000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_113000_BBC_Newsroom_Live/BBCNEWS_20181203_113000_BBC_Newsroom_Live.thumbs/BBCNEWS_20181203_113000_BBC_Newsroom_Live_001737.jpg</field>
+<field name="snippet">as they strengthen on friday they could be disruptive, so it is well worth staying attuned to the forecast. that is all from me. bye. you're watching bbc newsroom live - these are today's main stories: at a key summit - sir david attenborough calls on world leaders to combat climate</field>
+</doc>
+</add>

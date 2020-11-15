@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170401_010000_Tucker_Carlson_Tonight#start/2958/end/2993</field>
+<field name="datetime">4/1/2017 1:49:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20170401_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170401_010000_Tucker_Carlson_Tonight/FOXNEWSW_20170401_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20170401_010000_Tucker_Carlson_Tonight_002847.jpg</field>
+<field name="snippet">tucker: america's academics have been producing pretty weird reports this week. america warns that global warming may not just melt the ice caps and hurt the polar bears, it can give people ptsd by causing a surge in stressful weather events.</field>
+</doc>
+</add>

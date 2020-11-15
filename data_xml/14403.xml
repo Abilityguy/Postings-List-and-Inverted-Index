@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201812.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181231_100000_Meet_the_Press#start/2725/end/2760</field>
+<field name="datetime">12/31/2018 10:45:40</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20181231_100000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181231_100000_Meet_the_Press/MSNBCW_20181231_100000_Meet_the_Press.thumbs/MSNBCW_20181231_100000_Meet_the_Press_002728.jpg</field>
+<field name="snippet">this issue. more people are willing to accept that it's happening and that humans are responsible, but there still is a serious political divide. according to a study from yale and george mason university, 70% of americans say global warming is happening, and 57% believe it's mostly caused by human activity.</field>
+</doc>
+</add>

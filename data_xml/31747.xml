@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201210.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121005_010000_Hannity#start/2580/end/2615</field>
+<field name="datetime">10/5/2012 1:43:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20121005_010000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121005_010000_Hannity/FOXNEWSW_20121005_010000_Hannity.thumbs/FOXNEWSW_20121005_010000_Hannity_002577.jpg</field>
+<field name="snippet">reporter: ya. sean: i love the al gore excuse, it was the altitude. hua great line. climate change. sean: he didn't have a problem at the field in 2008. the media has protected him has done him disservice.</field>
+</doc>
+</add>

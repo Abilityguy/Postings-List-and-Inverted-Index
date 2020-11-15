@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201605.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160521_110000_MSNBC_Live#start/3238/end/3273</field>
+<field name="datetime">5/21/2016 11:54:13</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20160521_110000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160521_110000_MSNBC_Live/MSNBCW_20160521_110000_MSNBC_Live.thumbs/MSNBCW_20160521_110000_MSNBC_Live_003238.jpg</field>
+<field name="snippet">. despite warnings about climate change and economic and environmental costs of fossil fuels, americans consume energy at a high rate. in fact, the government shows the u.s., 5% of the world's population, consumes 20% of the</field>
+</doc>
+</add>

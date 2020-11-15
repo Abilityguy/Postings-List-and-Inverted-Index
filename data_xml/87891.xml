@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191215_190000_BBC_News#start/588/end/623</field>
+<field name="datetime">12/15/2019 19:10:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191215_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191215_190000_BBC_News/BBCNEWS_20191215_190000_BBC_News.thumbs/BBCNEWS_20191215_190000_BBC_News_000568.jpg</field>
+<field name="snippet">degrees is regarded as the maximum safe limit. but even with all the pledges that countries have made on climate change, we are still heading for an increase of at least three degrees despite all these conferences. so, what happens now? the world's biggest polluter china</field>
+</doc>
+</add>

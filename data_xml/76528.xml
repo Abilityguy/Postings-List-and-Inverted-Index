@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190510_200000_World_News_Today#start/902/end/937</field>
+<field name="datetime">5/10/2019 20:15:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190510_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190510_200000_World_News_Today/BBCNEWS_20190510_200000_World_News_Today.thumbs/BBCNEWS_20190510_200000_World_News_Today_000897.jpg</field>
+<field name="snippet">the man who's led efforts at the heart of government to combat climate change for 20 years is helping to set up a new research centre to develop ways of repairing the damage that's already been done.</field>
+</doc>
+</add>

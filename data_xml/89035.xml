@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190627_120000_BBC_News_at_One#start/26/end/61</field>
+<field name="datetime">6/27/2019 12:00:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190627_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190627_120000_BBC_News_at_One/BBCNEWS_20190627_120000_BBC_News_at_One.thumbs/BBCNEWS_20190627_120000_BBC_News_at_One_000057.jpg</field>
+<field name="snippet">from our correspondent in paris, and we'll be asking how far this heatwave can be blamed on man-made climate change. also this lunchtime: as the race is on to find her replacement, theresa may says</field>
+</doc>
+</add>

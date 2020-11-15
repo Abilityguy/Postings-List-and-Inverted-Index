@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201311.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20131130_110000_FOX_and_Friends_Saturday#start/7844/end/7879</field>
+<field name="datetime">11/30/2013 13:10:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20131130_110000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20131130_110000_FOX_and_Friends_Saturday/FOXNEWSW_20131130_110000_FOX_and_Friends_Saturday.thumbs/FOXNEWSW_20131130_110000_FOX_and_Friends_Saturday_007845.jpg</field>
+<field name="snippet">temps around 303, 5 degrees below where they should typically be this time of year. temps maybe at nighttime minus 25 or so. crazy cold. that global warming is killing us. thank you, rick. maybe you don't want to</field>
+</doc>
+</add>

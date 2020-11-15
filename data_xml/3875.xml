@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201710.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171031_020000_BBC_News#start/1031/end/1066</field>
+<field name="datetime">10/31/2017 2:17:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171031_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171031_020000_BBC_News/BBCNEWS_20171031_020000_BBC_News.thumbs/BBCNEWS_20171031_020000_BBC_News_001018.jpg</field>
+<field name="snippet">rebecca morelle has been taking a closer look at the findings. keeping track of our atmosphere. for decades, research stations like this one on the swiss alps have been monitoring levels of carbon dioxide. and their latest findings show that the greenhouse</field>
+</doc>
+</add>

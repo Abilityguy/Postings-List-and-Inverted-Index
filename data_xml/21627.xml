@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100109_080000_Red_Eye#start/511/end/546</field>
+<field name="datetime">1/9/2010 8:08:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20100109_080000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100109_080000_Red_Eye/FOXNEWS_20100109_080000_Red_Eye.thumbs/FOXNEWS_20100109_080000_Red_Eye_000510.jpg</field>
+<field name="snippet">one that missed the greatest threat to america in recent times, and another that missed the biggest threat to his own presidency. any idiot, and i mean myself specifically, could have told him even if healthcare reform or global warming ranks as priorities in your life, they slide off the front pages when</field>
+</doc>
+</add>

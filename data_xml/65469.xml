@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190303_110000_Fox_and_Friends_Sunday#start/10055/end/10090</field>
+<field name="datetime">3/3/2019 13:47:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20190303_110000_Fox_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190303_110000_Fox_and_Friends_Sunday/FOXNEWSW_20190303_110000_Fox_and_Friends_Sunday.thumbs/FOXNEWSW_20190303_110000_Fox_and_Friends_Sunday_010047.jpg</field>
+<field name="snippet">i don't care. he's just for the people. griff: the one issue that matters most to you for the bernie platform, what is it? i think it has to be college for all. i would say climate change. i think everyone has a right to a job and to health care and to education. we can pay for this.</field>
+</doc>
+</add>

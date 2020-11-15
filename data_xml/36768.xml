@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201906.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190605_140000_MSNBC_Live_With_Hallie_Jackson#start/2248/end/2283</field>
+<field name="datetime">6/5/2019 14:37:43</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Hallie Jackson</field>
+<field name="showid">MSNBCW_20190605_140000_MSNBC_Live_With_Hallie_Jackson</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190605_140000_MSNBC_Live_With_Hallie_Jackson/MSNBCW_20190605_140000_MSNBC_Live_With_Hallie_Jackson.thumbs/MSNBCW_20190605_140000_MSNBC_Live_With_Hallie_Jackson_002069.jpg</field>
+<field name="snippet">a new campaign controversy this morning involving frontrunner joe biden and his climate change plan. it is a hot topic on the campaign trail. a live look at indiana where elizabeth warren will be coming out any minute selling her new</field>
+</doc>
+</add>

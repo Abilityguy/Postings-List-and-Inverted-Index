@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201809.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20180912_180000_MSNBC_Live_With_Katy_Tur#start/2209/end/2244</field>
+<field name="datetime">9/12/2018 18:37:04</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Katy Tur</field>
+<field name="showid">MSNBCW_20180912_180000_MSNBC_Live_With_Katy_Tur</field>
+<field name="preview">https://archive.org/download/MSNBCW_20180912_180000_MSNBC_Live_With_Katy_Tur/MSNBCW_20180912_180000_MSNBC_Live_With_Katy_Tur.thumbs/MSNBCW_20180912_180000_MSNBC_Live_With_Katy_Tur_002187.jpg</field>
+<field name="snippet">produce fast storms like hurricane harvey. noaa is suggesting it's 3 degrees fahrenheit above average. where does the trump administration stand on climate change?</field>
+</doc>
+</add>

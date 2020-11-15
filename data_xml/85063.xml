@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201211.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121101_100000_Morning_Joe#start/6100/end/6135</field>
+<field name="datetime">11/1/2012 11:41:55</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20121101_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121101_100000_Morning_Joe/MSNBCW_20121101_100000_Morning_Joe.thumbs/MSNBCW_20121101_100000_Morning_Joe_006088.jpg</field>
+<field name="snippet">things that the candidates should be talking about. nobody is talking about infrastructure. climate change wasn't even mentioned at any of the debates. these are vast, you know, historical issues that are not being addressed by either party. the politics cover, as you said, e.j. dionne makes the case</field>
+</doc>
+</add>

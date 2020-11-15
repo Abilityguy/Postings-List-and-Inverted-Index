@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191207_200000_BBC_News#start/700/end/735</field>
+<field name="datetime">12/7/2019 20:11:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191207_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191207_200000_BBC_News/BBCNEWS_20191207_200000_BBC_News.thumbs/BBCNEWS_20191207_200000_BBC_News_000687.jpg</field>
+<field name="snippet">news, delhi. there's fresh warning that climate change and nutrient pollution are diminishing oxygen levels in our oceans. that's the conclusion of the biggest study of its kind, undertaken by the group 'the international union for the conservation of nature'.</field>
+</doc>
+</add>

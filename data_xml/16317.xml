@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201502.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150210_060000_Hannity#start/3017/end/3052</field>
+<field name="datetime">2/10/2015 6:50:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20150210_060000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150210_060000_Hannity/FOXNEWSW_20150210_060000_Hannity.thumbs/FOXNEWSW_20150210_060000_Hannity_003015.jpg</field>
+<field name="snippet">well, he won't. he seems to be in denial. he said, you know, the media overstates the risk of terrorism because things like climate change aren't very sexy. is he suggesting climate change is more important? and why won't he say those</field>
+</doc>
+</add>

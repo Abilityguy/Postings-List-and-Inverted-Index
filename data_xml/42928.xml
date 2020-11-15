@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180111_090000_Victoria_Derbyshire#start/7067/end/7102</field>
+<field name="datetime">1/11/2018 10:58:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20180111_090000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180111_090000_Victoria_Derbyshire/BBCNEWS_20180111_090000_Victoria_Derbyshire.thumbs/BBCNEWS_20180111_090000_Victoria_Derbyshire_007047.jpg</field>
+<field name="snippet">they face the effects of rising sea waters and the extreme weather events associated with climate change. last month i attended the one planet summit in paris where i announced new support for countries in the caribbean, asia and africa, to help them build resilience</field>
+</doc>
+</add>

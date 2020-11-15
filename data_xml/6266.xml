@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190910_100000_BBC_Newsroom_Live#start/2378/end/2413</field>
+<field name="datetime">9/10/2019 10:39:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190910_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190910_100000_BBC_Newsroom_Live/BBCNEWS_20190910_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190910_100000_BBC_Newsroom_Live_002368.jpg</field>
+<field name="snippet">the help of their gp. dominic hughes, bbc news. investment in five areas - including agriculture, water supplies and infrastructure - could help the planet become more resilient in the face of climate change, according to a study</field>
+</doc>
+</add>

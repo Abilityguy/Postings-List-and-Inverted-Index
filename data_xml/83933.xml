@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190417_090000_Victoria_Derbyshire#start/245/end/280</field>
+<field name="datetime">4/17/2019 9:04:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20190417_090000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190417_090000_Victoria_Derbyshire/BBCNEWS_20190417_090000_Victoria_Derbyshire.thumbs/BBCNEWS_20190417_090000_Victoria_Derbyshire_000238.jpg</field>
+<field name="snippet">the metropolitan police say they've now arrested nearly 300 people involved in climate change protests in london. the demonstrations have led to road closures, trafficjams and disruption to bus services, affecting more than 500000 commuters.</field>
+</doc>
+</add>

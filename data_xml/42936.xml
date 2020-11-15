@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180118_220000_BBC_News_at_Ten#start/965/end/1000</field>
+<field name="datetime">1/18/2018 22:16:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20180118_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180118_220000_BBC_News_at_Ten/BBCNEWS_20180118_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20180118_220000_BBC_News_at_Ten_000958.jpg</field>
+<field name="snippet">the planet keeps on warming. today's report has been a real wake-up call. it really shows that climate change is happening and it's happening now. you know, it shows that we can't keep burning coal, oil and gas, and that politicians need to stop</field>
+</doc>
+</add>

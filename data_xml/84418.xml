@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190419_160000_BBC_News#start/1800/end/1835</field>
+<field name="datetime">4/19/2019 16:30:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190419_160000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190419_160000_BBC_News/BBCNEWS_20190419_160000_BBC_News.thumbs/BBCNEWS_20190419_160000_BBC_News_001798.jpg</field>
+<field name="snippet">the killing ofjournalist lyra mckee in londonderry as 'shocking and truly senseless'. it's also been condemned by political leaders in northern ireland and the irish taoiseach. hundreds of police have begun removing climate change protesters who've been blocking london's main shopping street all week.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190819_130000_Afternoon_Live#start/2535/end/2570</field>
+<field name="datetime">8/19/2019 13:42:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190819_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190819_130000_Afternoon_Live/BBCNEWS_20190819_130000_Afternoon_Live.thumbs/BBCNEWS_20190819_130000_Afternoon_Live_002517.jpg</field>
+<field name="snippet">future-proof cities. we have a climate change going on, so we are looking for what we call a climate-adaptive location, so no matter how much rain falls, no matter how high the sea level</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190430_030000_Fox_News__Night_With_Shannon_Bream#start/491/end/526</field>
+<field name="datetime">4/30/2019 3:08:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News  Night With Shannon Bream</field>
+<field name="showid">FOXNEWSW_20190430_030000_Fox_News__Night_With_Shannon_Bream</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190430_030000_Fox_News__Night_With_Shannon_Bream/FOXNEWSW_20190430_030000_Fox_News__Night_With_Shannon_Bream.thumbs/FOXNEWSW_20190430_030000_Fox_News__Night_With_Shannon_Bream_000479.jpg</field>
+<field name="snippet">beto o'rourke visited yosemite valley and announced a plan to reach net zero carbon emissions by 2050. overlooks idea comes with a $5 trillion price tag paid for mostly with new taxes on corporations and rich americans. now he waits to see if climate</field>
+</doc>
+</add>

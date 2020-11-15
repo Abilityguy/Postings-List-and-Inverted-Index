@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091216_160000_MSNBC_News_Live#start/1186/end/1221</field>
+<field name="datetime">12/16/2009 16:20:01</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091216_160000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091216_160000_MSNBC_News_Live/MSNBC_20091216_160000_MSNBC_News_Live.thumbs/MSNBC_20091216_160000_MSNBC_News_Live_001170.jpg</field>
+<field name="snippet">far about 260 people have been arrested after trying to break through police lines and police expect that number to grow. meanwhile, inside the conference there's still no climate change agreement. let's get right to nbc's chief environmental affairs correspondent, anne thompson, live on the phone from</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201509.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150917_100000_Morning_Joe#start/2687/end/2722</field>
+<field name="datetime">9/17/2015 10:45:02</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20150917_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150917_100000_Morning_Joe/MSNBCW_20150917_100000_Morning_Joe.thumbs/MSNBCW_20150917_100000_Morning_Joe_002686.jpg</field>
+<field name="snippet">where do you come out? how seriously do you take it and what do you think the united states should be doing about it? i consider climate change to be not one of our big problems. i consider it to be not a big problem at all.</field>
+</doc>
+</add>

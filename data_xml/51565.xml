@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181208_210000_World_News_Today#start/1138/end/1173</field>
+<field name="datetime">12/8/2018 21:19:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20181208_210000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181208_210000_World_News_Today/BBCNEWS_20181208_210000_World_News_Today.thumbs/BBCNEWS_20181208_210000_World_News_Today_001137.jpg</field>
+<field name="snippet">we need to make sure adani doesn't go ahead, because we have 12 years to become carbon neutral. if we don't, it's going to be basically irreversible to stop dramatic climate change.</field>
+</doc>
+</add>

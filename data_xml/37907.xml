@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091019_000000_Huckabee#start/880/end/915</field>
+<field name="datetime">10/19/2009 0:14:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Huckabee</field>
+<field name="showid">FOXNEWS_20091019_000000_Huckabee</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091019_000000_Huckabee/FOXNEWS_20091019_000000_Huckabee.thumbs/FOXNEWS_20091019_000000_Huckabee_000870.jpg</field>
+<field name="snippet">not asking you so much as a scientist, but are we jumping the gun to make these major policy changes? we're talking about huge policy changes on the basis of something about which we're as uncertain as to whether climate change is being pushed by really man and his</field>
+</doc>
+</add>

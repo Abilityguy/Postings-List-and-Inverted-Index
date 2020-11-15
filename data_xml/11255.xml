@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_100000_BBC_Newsroom_Live#start/5823/end/5858</field>
+<field name="datetime">8/8/2019 11:37:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190808_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_100000_BBC_Newsroom_Live/BBCNEWS_20190808_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190808_100000_BBC_Newsroom_Live_005818.jpg</field>
+<field name="snippet">with me is professor louise fresco, who runs this institution here. how important is getting food production right if we want to tackle climate change? it's very important to get because there will be more people in the world, and agriculture needs to be helping to change the effects of climate change by having better agricultural systems that can deal with drought, that can deal with floods,</field>
+</doc>
+</add>

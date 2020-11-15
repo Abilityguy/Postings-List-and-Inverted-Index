@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201301.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130110_080000_Red_Eye#start/34/end/69</field>
+<field name="datetime">1/10/2013 8:00:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWSW_20130110_080000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130110_080000_Red_Eye/FOXNEWSW_20130110_080000_Red_Eye.thumbs/FOXNEWSW_20130110_080000_Red_Eye_000045.jpg</field>
+<field name="snippet">bob: for the global warming deniers, 2012 was the hottest year on record. greg: lies! united states, not the world. bob: don't interrupt me. greg: you can't do this. global warming is not the united states warning.</field>
+</doc>
+</add>

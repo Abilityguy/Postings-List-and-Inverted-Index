@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190222_023000_Thursday_in_Parliament#start/1354/end/1389</field>
+<field name="datetime">2/22/2019 2:52:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Thursday in Parliament</field>
+<field name="showid">BBCNEWS_20190222_023000_Thursday_in_Parliament</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190222_023000_Thursday_in_Parliament/BBCNEWS_20190222_023000_Thursday_in_Parliament.thumbs/BBCNEWS_20190222_023000_Thursday_in_Parliament_001348.jpg</field>
+<field name="snippet">did the secretary of state see those wonderful people campaigning for the environment against climate change last week, last friday? some of them are in the gallery today. can't we harness those young</field>
+</doc>
+</add>

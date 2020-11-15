@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170531_170000_Happening_Now#start/2371/end/2406</field>
+<field name="datetime">5/31/2017 17:39:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20170531_170000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170531_170000_Happening_Now/FOXNEWSW_20170531_170000_Happening_Now.thumbs/FOXNEWSW_20170531_170000_Happening_Now_002367.jpg</field>
+<field name="snippet">jon: breaking now, u.n. ambassador nikki haley speaks to fox exclusively on climate change and what a u.s. withdrawal from the paris climate accord with mean. eric shawn, life at the united nations in new york city.</field>
+</doc>
+</add>

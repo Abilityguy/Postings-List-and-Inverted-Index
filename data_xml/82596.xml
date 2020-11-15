@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201509.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150906_090000_Fox_Report_Saturday#start/2342/end/2377</field>
+<field name="datetime">9/6/2015 9:39:17</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox Report Saturday</field>
+<field name="showid">FOXNEWSW_20150906_090000_Fox_Report_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150906_090000_Fox_Report_Saturday/FOXNEWSW_20150906_090000_Fox_Report_Saturday.thumbs/FOXNEWSW_20150906_090000_Fox_Report_Saturday_002325.jpg</field>
+<field name="snippet">kinds of fossils. they hope it will shed light on the type of climate change they lived through. a dog lost in yellowstone national park safe at home with her family after an adventure.</field>
+</doc>
+</add>

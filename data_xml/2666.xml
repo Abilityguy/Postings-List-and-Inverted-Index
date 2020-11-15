@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201811.csv</field>
+<field name="url">https://archive.org/details/CNNW_20181124_100000_CNN_Newsroom_Live#start/184/end/219</field>
+<field name="datetime">11/24/2018 10:03:19</field>
+<field name="station">CNN</field>
+<field name="show">CNN Newsroom Live</field>
+<field name="showid">CNNW_20181124_100000_CNN_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/CNNW_20181124_100000_CNN_Newsroom_Live/CNNW_20181124_100000_CNN_Newsroom_Live.thumbs/CNNW_20181124_100000_CNN_Newsroom_Live_000177.jpg</field>
+<field name="snippet">whatever happened to global warming? this ilstrauts his increased skepticism and directly contradicts the finding in this government report and illustrates the president's lackf ounderstanding.</field>
+</doc>
+</add>

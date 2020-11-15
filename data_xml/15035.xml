@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201306.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130625_150000_Happening_Now#start/383/end/418</field>
+<field name="datetime">6/25/2013 15:06:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20130625_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130625_150000_Happening_Now/FOXNEWSW_20130625_150000_Happening_Now.thumbs/FOXNEWSW_20130625_150000_Happening_Now_000375.jpg</field>
+<field name="snippet">seeing if we have anything knew on it. the russian president is speaking about this during a news conference on a visit to finland, we can follow the bouncing ball on that one. that's what the russian president is doing today. our president is making a speech about global warming and climate</field>
+</doc>
+</add>

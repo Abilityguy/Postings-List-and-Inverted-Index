@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170621_023000_London_Tower_Fire#start/186/end/221</field>
+<field name="datetime">6/21/2017 2:33:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">London Tower Fire</field>
+<field name="showid">BBCNEWS_20170621_023000_London_Tower_Fire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170621_023000_London_Tower_Fire/BBCNEWS_20170621_023000_London_Tower_Fire.thumbs/BBCNEWS_20170621_023000_London_Tower_Fire_000177.jpg</field>
+<field name="snippet">and more of this may be on the way. global temperatures are rising, largely due to our emissions of carbon dioxide and other greenhouse gases into the atmosphere. that means that our average temperatures in the uk, for example, are also rising. which means that when we get the weather conditions for causing</field>
+</doc>
+</add>

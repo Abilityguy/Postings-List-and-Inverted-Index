@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190207_030000_BBC_News#start/1705/end/1740</field>
+<field name="datetime">2/7/2019 3:28:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190207_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190207_030000_BBC_News/BBCNEWS_20190207_030000_BBC_News.thumbs/BBCNEWS_20190207_030000_BBC_News_001708.jpg</field>
+<field name="snippet">next week, though, high-pressure returns. it's looking quieter once again. this is bbc news, the headlines: scientists have warned that global warming may be about to hit a tipping point, a level of temperature rise that could bring rapid and far-reaching changes for our planet.</field>
+</doc>
+</add>

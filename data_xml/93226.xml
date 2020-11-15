@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190710_050000_Breakfast#start/7608/end/7643</field>
+<field name="datetime">7/10/2019 7:07:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190710_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190710_050000_Breakfast/BBCNEWS_20190710_050000_Breakfast.thumbs/BBCNEWS_20190710_050000_Breakfast_007587.jpg</field>
+<field name="snippet">to reduce the greenhouse gas emissions, but actually, we are seeing the climate change. even if we are on the 1.5 degrees path, the climate is going to go on changing. we are going to see more severe weather.</field>
+</doc>
+</add>

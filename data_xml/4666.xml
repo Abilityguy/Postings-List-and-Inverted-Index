@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170602_221500_Newsnight#start/1461/end/1496</field>
+<field name="datetime">6/2/2017 22:39:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsnight</field>
+<field name="showid">BBCNEWS_20170602_221500_Newsnight</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170602_221500_Newsnight/BBCNEWS_20170602_221500_Newsnight.thumbs/BBCNEWS_20170602_221500_Newsnight_001438.jpg</field>
+<field name="snippet">it's bad for the world and for climate change. in diplomacy, a country's reputation and standing and credibility matter above all.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190625_200000_Outside_Source#start/2560/end/2595</field>
+<field name="datetime">6/25/2019 20:42:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20190625_200000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190625_200000_Outside_Source/BBCNEWS_20190625_200000_Outside_Source.thumbs/BBCNEWS_20190625_200000_Outside_Source_002547.jpg</field>
+<field name="snippet">his report is available online. it says developing nations will suffer at least 75% of the costs of climate change - despite the fact that the poorer half of the world's population generates 10% of emissions. and despite this being a un report,</field>
+</doc>
+</add>

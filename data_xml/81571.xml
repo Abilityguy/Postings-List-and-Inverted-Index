@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091211_210000_MSNBC_News_Live#start/1138/end/1173</field>
+<field name="datetime">12/11/2009 21:19:13</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091211_210000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091211_210000_MSNBC_News_Live/MSNBC_20091211_210000_MSNBC_News_Live.thumbs/MSNBC_20091211_210000_MSNBC_News_Live_001110.jpg</field>
+<field name="snippet">response to al gore calling palin a climate change denier, she told mora ingram that she might consider debating gore on the issue but said something very different about it being man-made. well, palin also told 'usa</field>
+</doc>
+</add>

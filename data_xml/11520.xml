@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190818_200000_World_News_Today#start/1114/end/1149</field>
+<field name="datetime">8/18/2019 20:18:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190818_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190818_200000_World_News_Today/BBCNEWS_20190818_200000_World_News_Today.thumbs/BBCNEWS_20190818_200000_World_News_Today_001108.jpg</field>
+<field name="snippet">at a ceremony highlighting the effects of climate change. it's the island's first glacier to disappear - but scientists warn it won't be the last, unless immediate action is taken. courtney bembridge reports. (tx sot)</field>
+</doc>
+</add>

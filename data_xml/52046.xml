@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181209_140000_BBC_News#start/1679/end/1714</field>
+<field name="datetime">12/9/2018 14:28:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181209_140000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181209_140000_BBC_News/BBCNEWS_20181209_140000_BBC_News.thumbs/BBCNEWS_20181209_140000_BBC_News_001678.jpg</field>
+<field name="snippet">calls for unity. the us, russia, and others criticise an ipcc study into the impact of a 1.5-degree rise in global temperatures, as the un climate change conference continues. now on bbc news - it's time            _</field>
+</doc>
+</add>

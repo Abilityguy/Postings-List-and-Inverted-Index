@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201609.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160918_100000_Fox_and_Friends_Sunday#start/5151/end/5186</field>
+<field name="datetime">9/18/2016 11:26:06</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20160918_100000_Fox_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160918_100000_Fox_and_Friends_Sunday/FOXNEWSW_20160918_100000_Fox_and_Friends_Sunday.thumbs/FOXNEWSW_20160918_100000_Fox_and_Friends_Sunday_005127.jpg</field>
+<field name="snippet">mean, this week we have the u.n. general assembly in town. they're all arriving, all the presidents, prime ministers, kings are all arriving this weekend for a major set of speeches this particular week at the u.n. are they going to talk about climate change and global</field>
+</doc>
+</add>

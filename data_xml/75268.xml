@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200121_140000_Afternoon_Live#start/9119/end/9154</field>
+<field name="datetime">1/21/2020 16:32:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20200121_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200121_140000_Afternoon_Live/BBCNEWS_20200121_140000_Afternoon_Live.thumbs/BBCNEWS_20200121_140000_Afternoon_Live_009118.jpg</field>
+<field name="snippet">this is bbc news, our latest headlines: backing an initiative to plant a trillion trees to offset climate change, president trump launches a stinging attack on climate activities as he says it is time for optimism. this is a time for tremendous hope and joy and optimism and action. but to embrace the possibilities</field>
+</doc>
+</add>

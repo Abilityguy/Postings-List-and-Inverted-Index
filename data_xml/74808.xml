@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_090000_BBC_News_at_9#start/1027/end/1062</field>
+<field name="datetime">1/17/2020 9:17:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20200117_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_090000_BBC_News_at_9/BBCNEWS_20200117_090000_BBC_News_at_9.thumbs/BBCNEWS_20200117_090000_BBC_News_at_9_001018.jpg</field>
+<field name="snippet">children in the background are enjoying the exhibits here at the glasgow science centre from cuthbertson primary school in govanhill in glasgow. at 9:30am we will be answering your questions on climate change and what glasgow</field>
+</doc>
+</add>

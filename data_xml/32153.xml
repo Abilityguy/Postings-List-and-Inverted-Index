@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201006.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100630_060000_Glenn_Beck#start/509/end/544</field>
+<field name="datetime">6/30/2010 6:08:44</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20100630_060000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100630_060000_Glenn_Beck/FOXNEWS_20100630_060000_Glenn_Beck.thumbs/FOXNEWS_20100630_060000_Glenn_Beck_000506.jpg</field>
+<field name="snippet">remember al gore's hockey stick chart? this is the one that changed the world, and helped move national consensus to believe global warming was a hoax. earth has a temperature. it goes up.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201511.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151130_160000_Happening_Now#start/101/end/136</field>
+<field name="datetime">11/30/2015 16:01:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20151130_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151130_160000_Happening_Now/FOXNEWSW_20151130_160000_Happening_Now.thumbs/FOXNEWSW_20151130_160000_Happening_Now_000075.jpg</field>
+<field name="snippet">folks taking to the streets of paris. and while i cannot report any seriously injuries, obviously, there were some arrests. meanwhile, president obama has met with the leaders of two of the world's leading greenhouse gas emitters, china and india, as you see there alongside</field>
+</doc>
+</add>

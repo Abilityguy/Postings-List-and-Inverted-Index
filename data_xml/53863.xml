@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201807.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180731_160000_BBC_News_at_Five#start/1602/end/1637</field>
+<field name="datetime">7/31/2018 16:26:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20180731_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180731_160000_BBC_News_at_Five/BBCNEWS_20180731_160000_BBC_News_at_Five.thumbs/BBCNEWS_20180731_160000_BBC_News_at_Five_001588.jpg</field>
+<field name="snippet">carbon emissions and what is being done to the planet by mankind? climate change is caused by human emissions from our activity. this is beyond a reasonable doubt. if we continue to go like we are doing,</field>
+</doc>
+</add>

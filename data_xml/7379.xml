@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20171228_110000_FOX__Friends#start/453/end/488</field>
+<field name="datetime">12/28/2017 11:07:48</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20171228_110000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20171228_110000_FOX__Friends/FOXNEWSW_20171228_110000_FOX__Friends.thumbs/FOXNEWSW_20171228_110000_FOX__Friends_000448.jpg</field>
+<field name="snippet">about what top concerns for this year, i'm fascinated to see that healthcare, number one, amongst americans, according to this poll, second is taxes, which, of course, was just addressed. now, immigration 27%. climate change 18%.</field>
+</doc>
+</add>

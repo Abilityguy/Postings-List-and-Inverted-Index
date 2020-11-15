@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201203.csv</field>
+<field name="url">https://archive.org/details/CNNW_20120312_080000_World_Business_Today#start/1575/end/1610</field>
+<field name="datetime">3/12/2012 8:26:30</field>
+<field name="station">CNN</field>
+<field name="show">World Business Today</field>
+<field name="showid">CNNW_20120312_080000_World_Business_Today</field>
+<field name="preview">https://archive.org/download/CNNW_20120312_080000_World_Business_Today/CNNW_20120312_080000_World_Business_Today.thumbs/CNNW_20120312_080000_World_Business_Today_000021.jpg</field>
+<field name="snippet">combat global warming. airbus says it's already feeling the impact of that. the planemaker says three chinese airlines are refusing to finalize orders for 45 airbus long haul jets worth $12 billion.</field>
+</doc>
+</add>

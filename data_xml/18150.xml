@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201409.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140923_210000_The_Ed_Show#start/1856/end/1891</field>
+<field name="datetime">9/23/2014 21:31:11</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20140923_210000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140923_210000_The_Ed_Show/MSNBCW_20140923_210000_The_Ed_Show.thumbs/MSNBCW_20140923_210000_The_Ed_Show_001846.jpg</field>
+<field name="snippet">welcome back to 'the ed show.' appreciate your questions in our ask ed live segment. we have time for one. the question is from jimmy. he says what is a bigger threat to america, isis or climate change? i think they're both a huge</field>
+</doc>
+</add>

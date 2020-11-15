@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201511.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151130_140000_Americas_Newsroom_With_Bill_Hemmer_and_Martha_MacCallum#start/6713/end/6748</field>
+<field name="datetime">11/30/2015 15:52:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom With Bill Hemmer and Martha MacCallum</field>
+<field name="showid">FOXNEWSW_20151130_140000_Americas_Newsroom_With_Bill_Hemmer_and_Martha_MacCallum</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151130_140000_Americas_Newsroom_With_Bill_Hemmer_and_Martha_MacCallum/FOXNEWSW_20151130_140000_Americas_Newsroom_With_Bill_Hemmer_and_Martha_MacCallum.thumbs/FOXNEWSW_20151130_140000_Americas_Newsroom_With_Bill_Hemmer_and_Martha_MacCallum_006705.jpg</field>
+<field name="snippet">i'm jon scott with 'happening now' nine minutes away. we're talking politics of climate change as 150 world leaders gather in paris under very tight security. the race for the white house heating up again with campaign stops from several top candidates.</field>
+</doc>
+</add>

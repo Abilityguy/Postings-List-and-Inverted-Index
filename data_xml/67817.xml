@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190219_110000_BBC_Newsroom_Live#start/1250/end/1285</field>
+<field name="datetime">2/19/2019 11:21:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190219_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190219_110000_BBC_Newsroom_Live/BBCNEWS_20190219_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190219_110000_BBC_Newsroom_Live_001228.jpg</field>
+<field name="snippet">for every new item of clothes they make, to help improve collection and recycling rates. that's the view of mps, who say 'fast fashion' - where clothes are made cheaply and quickly in response to trends - is a major contributor to greenhouse gases, pollution and over-use of water.</field>
+</doc>
+</add>

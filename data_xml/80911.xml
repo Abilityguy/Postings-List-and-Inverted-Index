@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191020_160000_Americas_News_HQ#start/1714/end/1749</field>
+<field name="datetime">10/20/2019 16:28:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20191020_160000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191020_160000_Americas_News_HQ/FOXNEWSW_20191020_160000_Americas_News_HQ.thumbs/FOXNEWSW_20191020_160000_Americas_News_HQ_001708.jpg</field>
+<field name="snippet">do you think that some of the solutions that are being offered whether it's on climate change, medicare for all by senators warren and sanders are too drastic? look, take the example of in the medicare question. i'm proposing medicare for all who want it.</field>
+</doc>
+</add>

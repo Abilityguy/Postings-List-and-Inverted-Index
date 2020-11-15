@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170714_040000_BBC_News#start/859/end/894</field>
+<field name="datetime">7/14/2017 4:14:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170714_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170714_040000_BBC_News/BBCNEWS_20170714_040000_BBC_News.thumbs/BBCNEWS_20170714_040000_BBC_News_000838.jpg</field>
+<field name="snippet">the latest headlines: president emmanuel macron will host donald trump at france's annual bastille day celebration in paris today. earlier, donald trump had hinted he could review his position on climate change after mr macron argued in defence of the paris accord.</field>
+</doc>
+</add>

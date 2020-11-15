@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170702_190000_BBC_News#start/30/end/65</field>
+<field name="datetime">7/2/2017 19:00:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170702_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170702_190000_BBC_News/BBCNEWS_20170702_190000_BBC_News.thumbs/BBCNEWS_20170702_190000_BBC_News_000058.jpg</field>
+<field name="snippet">this evening by a drone in the area. also in the next hour, stephen hawking takes donald trump to task over climate change. he warns the president's decision to pull out of the paris accord</field>
+</doc>
+</add>

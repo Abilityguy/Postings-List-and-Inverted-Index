@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140514_090000_First_Look#start/1233/end/1268</field>
+<field name="datetime">5/14/2014 9:20:48</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20140514_090000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140514_090000_First_Look/MSNBCW_20140514_090000_First_Look.thumbs/MSNBCW_20140514_090000_First_Look_001215.jpg</field>
+<field name="snippet">politics on money, former vice president al gore shared his view on what future generations might think of inaction toward climate change today, saying this -- they would be justified in looking back at us and asking, what were you thinking here?</field>
+</doc>
+</add>

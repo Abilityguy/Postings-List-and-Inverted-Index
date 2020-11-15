@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190731_040000_The_Briefing#start/28/end/63</field>
+<field name="datetime">7/31/2019 4:00:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20190731_040000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190731_040000_The_Briefing/BBCNEWS_20190731_040000_The_Briefing.thumbs/BBCNEWS_20190731_040000_The_Briefing_000028.jpg</field>
+<field name="snippet">the democratic party's 2020 presidential hopefuls have gone head to head in a second round of debates on the road to the white house. a climate change warning - the latest uk figures reveal the ten hottest days on record, have all taken place since 2002. the us federal reserve is expected</field>
+</doc>
+</add>

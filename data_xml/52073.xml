@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181209_030000_BBC_News#start/231/end/266</field>
+<field name="datetime">12/9/2018 3:04:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181209_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181209_030000_BBC_News/BBCNEWS_20181209_030000_BBC_News.thumbs/BBCNEWS_20181209_030000_BBC_News_000207.jpg</field>
+<field name="snippet">in october, the un's intergovernmental panel on climate change detailed the importance of keeping global temperature rise to under 1.5 celsius. in a major report, it warns we have just 12 years to halve carbon</field>
+</doc>
+</add>

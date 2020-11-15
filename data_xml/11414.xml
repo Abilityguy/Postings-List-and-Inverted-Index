@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190830_120000_BBC_News_at_One#start/1829/end/1864</field>
+<field name="datetime">8/30/2019 12:30:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190830_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190830_120000_BBC_News_at_One/BBCNEWS_20190830_120000_BBC_News_at_One.thumbs/BBCNEWS_20190830_120000_BBC_News_at_One_001827.jpg</field>
+<field name="snippet">country's politics. jenny hill, bbc news, goerlitz. the australian government says the great barrier reef is continuing to suffer because of climate change. a new report says rising sea</field>
+</doc>
+</add>

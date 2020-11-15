@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201205.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120519_220000_Americas_News_Headquarters#start/604/end/639</field>
+<field name="datetime">5/19/2012 22:10:19</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20120519_220000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120519_220000_Americas_News_Headquarters/FOXNEWSW_20120519_220000_Americas_News_Headquarters.thumbs/FOXNEWSW_20120519_220000_Americas_News_Headquarters_000600.jpg</field>
+<field name="snippet">a safe and sustainable way. leaders agreed to join a new u.s.-led coalition to address climate change in part by reducing short-lived pollutants and in the face of increasing disruptions in the supply of oil, we agreed that we must</field>
+</doc>
+</add>

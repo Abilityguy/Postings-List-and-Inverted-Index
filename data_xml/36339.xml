@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201912.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191220_100000_First_Look#start/1964/end/1999</field>
+<field name="datetime">12/20/2019 10:32:59</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20191220_100000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191220_100000_First_Look/MSNBCW_20191220_100000_First_Look.thumbs/MSNBCW_20191220_100000_First_Look_001948.jpg</field>
+<field name="snippet">question to you, senator sanders, what message do you think? i wanted to get back to the issue of climate change for a moment, because i do believe this is the existential issue. with all respect, this question is about race. can you answer the question as it was asked?</field>
+</doc>
+</add>

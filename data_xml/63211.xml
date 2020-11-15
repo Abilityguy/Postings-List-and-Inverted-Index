@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190308_040000_BBC_News#start/1276/end/1311</field>
+<field name="datetime">3/8/2019 4:21:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190308_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190308_040000_BBC_News/BBCNEWS_20190308_040000_BBC_News.thumbs/BBCNEWS_20190308_040000_BBC_News_001257.jpg</field>
+<field name="snippet">and these are happening more frequently. so after five days of clear sky conditions we have this rain. this scientist, jason box, needed shelter from the rain on the ice sheet. and he says that global warming will make rainfall more</field>
+</doc>
+</add>

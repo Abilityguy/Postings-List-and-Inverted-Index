@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191022_040000_Tucker_Carlson_Tonight#start/1920/end/1955</field>
+<field name="datetime">10/22/2019 4:32:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20191022_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191022_040000_Tucker_Carlson_Tonight/FOXNEWSW_20191022_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20191022_040000_Tucker_Carlson_Tonight_001917.jpg</field>
+<field name="snippet">greatest existential threat that we face. we are facing a climate crisis. it represents an existential threat to who we are as human beings. tucker: the greatest existential threat, says beto.</field>
+</doc>
+</add>

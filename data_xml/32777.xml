@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091202_230000_Special_Report_With_Bret_Baier#start/1330/end/1365</field>
+<field name="datetime">12/2/2009 23:22:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091202_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091202_230000_Special_Report_With_Bret_Baier/FOXNEWS_20091202_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091202_230000_Special_Report_With_Bret_Baier_001314.jpg</field>
+<field name="snippet">the lee e-mails, which one called the elephant in the room. that elephant is the credibility of the entire scientific community, which has told us that the science behind man-made global warming is</field>
+</doc>
+</add>

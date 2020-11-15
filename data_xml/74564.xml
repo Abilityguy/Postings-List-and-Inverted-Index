@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200121_010000_Newsday#start/1534/end/1569</field>
+<field name="datetime">1/21/2020 1:25:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20200121_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200121_010000_Newsday/BBCNEWS_20200121_010000_Newsday.thumbs/BBCNEWS_20200121_010000_Newsday_001528.jpg</field>
+<field name="snippet">which is set to be dominated by talks on climate change. and rico, let's end the programe with video of some unusual neighbours.</field>
+</doc>
+</add>

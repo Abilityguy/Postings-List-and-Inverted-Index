@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201602.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160211_090000_The_Kelly_File#start/649/end/684</field>
+<field name="datetime">2/11/2016 9:11:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Kelly File</field>
+<field name="showid">FOXNEWSW_20160211_090000_The_Kelly_File</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160211_090000_The_Kelly_File/FOXNEWSW_20160211_090000_The_Kelly_File.thumbs/FOXNEWSW_20160211_090000_The_Kelly_File_000627.jpg</field>
+<field name="snippet">key legacy items. including executive actions on climate change, immigration, and attempts on strengthen obamacare. over the last seven years, this president has pushed some of the costliest regulations in the history of the republic.</field>
+</doc>
+</add>

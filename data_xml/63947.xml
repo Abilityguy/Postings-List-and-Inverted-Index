@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201410.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20141029_200000_NOW_With_Alex_Wagner#start/1919/end/1954</field>
+<field name="datetime">10/29/2014 20:32:14</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20141029_200000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20141029_200000_NOW_With_Alex_Wagner/MSNBCW_20141029_200000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20141029_200000_NOW_With_Alex_Wagner_001906.jpg</field>
+<field name="snippet">there's no convincing scientific evidence for manmade climate change. the climate has always been changing. climate change is to this century what eugenics was last century. it's hysteria and junk science.</field>
+</doc>
+</add>

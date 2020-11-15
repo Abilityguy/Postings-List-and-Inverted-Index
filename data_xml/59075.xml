@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181118_110000_BBC_News#start/1680/end/1715</field>
+<field name="datetime">11/18/2018 11:28:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181118_110000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181118_110000_BBC_News/BBCNEWS_20181118_110000_BBC_News.thumbs/BBCNEWS_20181118_110000_BBC_News_001677.jpg</field>
+<field name="snippet">theo leggett, bbc news, sellafield. thousands of young people have found a rather unique way to make sure their climate change message is heard, by trying to set a record for the world's biggest postcard. it's on a glacier high up in the swiss alps and features 125000 drawings from children</field>
+</doc>
+</add>

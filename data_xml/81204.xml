@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091219_140000_MSNBC_News_Live#start/1911/end/1946</field>
+<field name="datetime">12/19/2009 14:32:06</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091219_140000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091219_140000_MSNBC_News_Live/MSNBC_20091219_140000_MSNBC_News_Live.thumbs/MSNBC_20091219_140000_MSNBC_News_Live_001853.jpg</field>
+<field name="snippet">benefits and now on to the final changes to the health care reform bill. the united nations climate conference reached a deal brokered by president obama. it sets targets for reductions in greenhouse gases but some developing nations oppose the amendment because it's</field>
+</doc>
+</add>

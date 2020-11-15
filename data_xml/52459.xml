@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181210_110000_BBC_Newsroom_Live#start/6450/end/6485</field>
+<field name="datetime">12/10/2018 12:47:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20181210_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181210_110000_BBC_Newsroom_Live/BBCNEWS_20181210_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20181210_110000_BBC_Newsroom_Live_006447.jpg</field>
+<field name="snippet">unpredictably, it is hard to say exactly what we will see later but any sharp moves or changes, we will update you. thank you. delegates from nearly 200 nations have been attending the un's climate change summit in poland over the past week, but one of the people to generate the most interest</field>
+</doc>
+</add>

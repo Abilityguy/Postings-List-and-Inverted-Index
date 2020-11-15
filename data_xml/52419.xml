@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181209_040000_BBC_News#start/156/end/191</field>
+<field name="datetime">12/9/2018 4:02:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181209_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181209_040000_BBC_News/BBCNEWS_20181209_040000_BBC_News.thumbs/BBCNEWS_20181209_040000_BBC_News_000147.jpg</field>
+<field name="snippet">compromise ahead of ministers arriving tomorrow. calen rigby has more. chanting: wake up! wake up! as delegates met inside the conference centre, thousands marched outside, demanding politicians wake up to the threat of climate change, voicing concerns that time is running out. we need to do something now,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201905.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190528_100000_Morning_Joe#start/3188/end/3223</field>
+<field name="datetime">5/28/2019 10:53:23</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20190528_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190528_100000_Morning_Joe/MSNBCW_20190528_100000_Morning_Joe.thumbs/MSNBCW_20190528_100000_Morning_Joe_003177.jpg</field>
+<field name="snippet">accords, the trump administration will complete its rollback of the most significant federal effort to curb greenhouse gas emissions. the 'new york times' reports the federal government no longer will fulfill what scientists say is one of the most urgent jobs</field>
+</doc>
+</add>

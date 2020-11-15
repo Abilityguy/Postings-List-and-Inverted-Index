@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200115_170000_BBC_News_at_Five#start/327/end/362</field>
+<field name="datetime">1/15/2020 17:05:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20200115_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200115_170000_BBC_News_at_Five/BBCNEWS_20200115_170000_BBC_News_at_Five.thumbs/BBCNEWS_20200115_170000_BBC_News_at_Five_000329.jpg</field>
+<field name="snippet">ignorance out there about the extent of this problem? i don't know there's a lot of ignorance but i think it's probably starting to dawn on us that these are happening now, climate change is not something in the future and the sooner we act the</field>
+</doc>
+</add>

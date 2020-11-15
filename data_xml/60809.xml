@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201804.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180412_100000_BBC_Newsroom_Live#start/3155/end/3190</field>
+<field name="datetime">4/12/2018 10:52:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20180412_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180412_100000_BBC_Newsroom_Live/BBCNEWS_20180412_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20180412_100000_BBC_Newsroom_Live_003147.jpg</field>
+<field name="snippet">threat from deforestation and climate change. this is the first expedition to an area that is absolutely unexplored in the amazon. miguel trefaut rodrigues is heading the exposition, made possible with the help of indigenous guides</field>
+</doc>
+</add>

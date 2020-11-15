@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190423_170000_BBC_News_at_Six#start/1296/end/1331</field>
+<field name="datetime">4/23/2019 17:21:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20190423_170000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190423_170000_BBC_News_at_Six/BBCNEWS_20190423_170000_BBC_News_at_Six.thumbs/BBCNEWS_20190423_170000_BBC_News_at_Six_001288.jpg</field>
+<field name="snippet">.got a standing ovation at the european parliament in brussels, before travelling to london - all by train, of course - to be hailed as a hero. we love you, we love you! .by climate change protesters</field>
+</doc>
+</add>

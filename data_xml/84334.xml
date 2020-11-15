@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190406_060000_Breakfast#start/3215/end/3250</field>
+<field name="datetime">4/6/2019 6:53:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190406_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190406_060000_Breakfast/BBCNEWS_20190406_060000_Breakfast.thumbs/BBCNEWS_20190406_060000_Breakfast_003209.jpg</field>
+<field name="snippet">on monday evening we had this protest that briefly disrupted proceedings, the seminaked climate change campaigners who appeared in the press gallery. mps were reacting to that, making some weak jokes, perhaps, but it was clearly part of the event that night. yet the viewers bbc parliament</field>
+</doc>
+</add>

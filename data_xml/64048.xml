@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201410.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20141014_200000_NOW_With_Alex_Wagner#start/1754/end/1789</field>
+<field name="datetime">10/14/2014 20:29:29</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20141014_200000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20141014_200000_NOW_With_Alex_Wagner/MSNBCW_20141014_200000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20141014_200000_NOW_With_Alex_Wagner_001726.jpg</field>
+<field name="snippet">here's what he had to say in a debate last night when asked if humans are warming the planet. i don't know the answer to that question. i don't think science does either. he added we've had climate change forever. for those who still don't</field>
+</doc>
+</add>

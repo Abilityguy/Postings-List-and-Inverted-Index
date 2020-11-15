@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181130_110000_BBC_Newsroom_Live#start/2560/end/2595</field>
+<field name="datetime">11/30/2018 11:42:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20181130_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181130_110000_BBC_Newsroom_Live/BBCNEWS_20181130_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20181130_110000_BBC_Newsroom_Live_002547.jpg</field>
+<field name="snippet">actually voted to leave. thank you very much. thousands of schoolchildren in australia have taken part in a day of rallies to demand action on climate change. the students, who marched in sydney, melbourne and brisbane, say they're disappointed by the way adults have tackled climate change and they want australia's government to halt all new coal</field>
+</doc>
+</add>

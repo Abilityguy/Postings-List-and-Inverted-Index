@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201302.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130217_200000_MSNBC_Live#start/3477/end/3512</field>
+<field name="datetime">2/17/2013 20:58:12</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20130217_200000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130217_200000_MSNBC_Live/MSNBCW_20130217_200000_MSNBC_Live.thumbs/MSNBCW_20130217_200000_MSNBC_Live_003465.jpg</field>
+<field name="snippet">more on climate change. thanks, christina and ryan grimm, thank you also for the numbers you just gave us. you gave us some numbers from washington that we haven't been able to get so we appreciate you reporting from the ground there.</field>
+</doc>
+</add>

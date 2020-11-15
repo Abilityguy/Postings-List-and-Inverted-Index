@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201505.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150520_210000_The_Five#start/1411/end/1446</field>
+<field name="datetime">5/20/2015 21:23:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20150520_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150520_210000_The_Five/FOXNEWSW_20150520_210000_The_Five.thumbs/FOXNEWSW_20150520_210000_The_Five_001395.jpg</field>
+<field name="snippet">news sent this to me. did you know osama bin laden was a climate change -- he was concerned about the climate change? he too, was concerned about the climate. amazing.</field>
+</doc>
+</add>

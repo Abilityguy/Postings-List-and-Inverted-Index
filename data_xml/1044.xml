@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170526_080000_Victoria_Derbyshire#start/5520/end/5555</field>
+<field name="datetime">5/26/2017 9:32:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20170526_080000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170526_080000_Victoria_Derbyshire/BBCNEWS_20170526_080000_Victoria_Derbyshire.thumbs/BBCNEWS_20170526_080000_Victoria_Derbyshire_005518.jpg</field>
+<field name="snippet">and germany's chancellor merkel, will discuss a range of issues including global security, trade and climate change. gatwick airport says the major problems it suffered with baggage this morning are now over and the issueis</field>
+</doc>
+</add>

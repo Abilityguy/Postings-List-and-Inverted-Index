@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190418_040000_The_Briefing#start/949/end/984</field>
+<field name="datetime">4/18/2019 4:16:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20190418_040000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190418_040000_The_Briefing/BBCNEWS_20190418_040000_The_Briefing.thumbs/BBCNEWS_20190418_040000_The_Briefing_000929.jpg</field>
+<field name="snippet">and potential solutions to the global threat. 'climate change: the facts' reveals the already devastating impact of climate change on our planet and what could happen next, with interviews from some of the world's leading climate scientists. here's a taste.</field>
+</doc>
+</add>

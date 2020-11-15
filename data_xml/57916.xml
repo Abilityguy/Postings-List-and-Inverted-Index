@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201502.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150227_210000_NOW_With_Alex_Wagner#start/1152/end/1187</field>
+<field name="datetime">2/27/2015 21:19:27</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20150227_210000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150227_210000_NOW_With_Alex_Wagner/MSNBCW_20150227_210000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20150227_210000_NOW_With_Alex_Wagner_001125.jpg</field>
+<field name="snippet">works, two, climate change is real, three, that dress is gold and white. california representative mark drafted a house resolution about the dress being black and blue.</field>
+</doc>
+</add>

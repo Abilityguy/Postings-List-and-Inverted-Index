@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201411.csv</field>
+<field name="url">https://archive.org/details/CNNW_20141112_110000_New_Day#start/45/end/80</field>
+<field name="datetime">11/12/2014 11:01:00</field>
+<field name="station">CNN</field>
+<field name="show">New Day</field>
+<field name="showid">CNNW_20141112_110000_New_Day</field>
+<field name="preview">https://archive.org/download/CNNW_20141112_110000_New_Day/CNNW_20141112_110000_New_Day.thumbs/CNNW_20141112_110000_New_Day_000045.jpg</field>
+<field name="snippet">good morning, president obama is wrapping up his visit in china with a big surprise splash on two fronts. first, cutting an historic climate change deal with china's president xi before both leaders took questions from the press, something that hardly ever</field>
+</doc>
+</add>

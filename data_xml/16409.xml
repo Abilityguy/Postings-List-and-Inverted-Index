@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201502.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150206_230000_Special_Report_With_Bret_Baier#start/109/end/144</field>
+<field name="datetime">2/6/2015 23:02:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20150206_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150206_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20150206_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20150206_230000_Special_Report_With_Bret_Baier_000105.jpg</field>
+<field name="snippet">unspecified number of hostages being held abroad as susan rice unveiled a new national security blueprint that classified climate change as a threat. while the dangers we face may</field>
+</doc>
+</add>

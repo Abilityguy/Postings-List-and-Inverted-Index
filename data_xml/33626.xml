@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091210_110000_FOX_and_Friends#start/3735/end/3770</field>
+<field name="datetime">12/10/2009 12:02:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091210_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091210_110000_FOX_and_Friends/FOXNEWS_20091210_110000_FOX_and_Friends.thumbs/FOXNEWS_20091210_110000_FOX_and_Friends_003710.jpg</field>
+<field name="snippet">steve: give him five years or four years. brian: a lot of people think that that's why al gore won, because he lost to george bush and they felt bad in what he has done for global warming there will be a few music pal perform</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190422_083000_Weather_World#start/787/end/822</field>
+<field name="datetime">4/22/2019 8:43:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20190422_083000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190422_083000_Weather_World/BBCNEWS_20190422_083000_Weather_World.thumbs/BBCNEWS_20190422_083000_Weather_World_000778.jpg</field>
+<field name="snippet">it suggests the warming trend will continue, with a small chance temperatures could temporarily exceed 1.5 degrees. the main driver for all this is the greenhouse gas emissions we are producing. we're still too reliant on fossil fuels like coal,</field>
+</doc>
+</add>

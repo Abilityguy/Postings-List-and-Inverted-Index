@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201812.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181231_100000_Meet_the_Press#start/766/end/801</field>
+<field name="datetime">12/31/2018 10:13:01</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20181231_100000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181231_100000_Meet_the_Press/MSNBCW_20181231_100000_Meet_the_Press.thumbs/MSNBCW_20181231_100000_Meet_the_Press_000748.jpg</field>
+<field name="snippet">let's talk about how a presidential campaign and a sort of presidential focus, there's some people who say climate change is a policy paper you put out. and there's others that say, every proposal that you do now in washington has to be through</field>
+</doc>
+</add>

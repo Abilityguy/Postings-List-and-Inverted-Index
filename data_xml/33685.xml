@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091214_140000_Americas_Newsroom#start/5704/end/5739</field>
+<field name="datetime">12/14/2009 15:35:19</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20091214_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091214_140000_Americas_Newsroom/FOXNEWS_20091214_140000_Americas_Newsroom.thumbs/FOXNEWS_20091214_140000_Americas_Newsroom_005700.jpg</field>
+<field name="snippet">bill: let's not give them any ideas. new poll numbers as to what americans think today about climate change. the author, frank luntz, is in</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091117_110000_FOX_and_Friends#start/3717/end/3752</field>
+<field name="datetime">11/17/2009 12:02:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091117_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091117_110000_FOX_and_Friends/FOXNEWS_20091117_110000_FOX_and_Friends.thumbs/FOXNEWS_20091117_110000_FOX_and_Friends_003709.jpg</field>
+<field name="snippet">honor touring the forbidden city talking about chinese leaders about the global economy, climate change and nuclear threats from iran and north korea. the president leaves beijing for south korea. the final leg of his 8 day trip to south asia.</field>
+</doc>
+</add>

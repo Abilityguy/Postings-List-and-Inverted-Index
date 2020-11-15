@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181102_140000_Afternoon_Live#start/131/end/166</field>
+<field name="datetime">11/2/2018 14:02:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20181102_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181102_140000_Afternoon_Live/BBCNEWS_20181102_140000_Afternoon_Live.thumbs/BBCNEWS_20181102_140000_Afternoon_Live_000117.jpg</field>
+<field name="snippet">when the mercury stays above 20 celsius. this year, there were two nights in london that went above that mark, but in the 30 years between 1961 and 1990 there were just eight nights that exceeded that temperature. climate scientists say the changes in weather we are seeing the uk are down to global warming,</field>
+</doc>
+</add>

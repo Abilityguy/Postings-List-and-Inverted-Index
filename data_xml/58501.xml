@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181130_030000_BBC_News#start/481/end/516</field>
+<field name="datetime">11/30/2018 3:08:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181130_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181130_030000_BBC_News/BBCNEWS_20181130_030000_BBC_News.thumbs/BBCNEWS_20181130_030000_BBC_News_000477.jpg</field>
+<field name="snippet">of greenhouse gases will not be enough, removing the gases will become ever more important. 0ur science editor david shukman investigates. every hour, all over the world, more and more carbon dioxide is being pumped into the air. and scientists say we've got to find a way of doing this. pulling the carbon</field>
+</doc>
+</add>

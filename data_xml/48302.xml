@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201908.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190823_060000_The_11th_Hour_With_Brian_Williams#start/3634/end/3669</field>
+<field name="datetime">8/23/2019 7:00:49</field>
+<field name="station">MSNBC</field>
+<field name="show">The 11th Hour With Brian Williams</field>
+<field name="showid">MSNBCW_20190823_060000_The_11th_Hour_With_Brian_Williams</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190823_060000_The_11th_Hour_With_Brian_Williams/MSNBCW_20190823_060000_The_11th_Hour_With_Brian_Williams.thumbs/MSNBCW_20190823_060000_The_11th_Hour_With_Brian_Williams_003629.jpg</field>
+<field name="snippet">i'm not going to be able to stay here long because this fire is spreading. as the catastrophic fires in the amazon burn, the unmistakable political roots of the world's climate crisis.</field>
+</doc>
+</add>

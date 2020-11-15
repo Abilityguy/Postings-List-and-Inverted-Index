@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201408.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140804_200000_NOW_With_Alex_Wagner#start/1970/end/2005</field>
+<field name="datetime">8/4/2014 20:33:05</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20140804_200000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140804_200000_NOW_With_Alex_Wagner/MSNBCW_20140804_200000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20140804_200000_NOW_With_Alex_Wagner_001966.jpg</field>
+<field name="snippet">climate change meets deregulation. the answer begins in toledo and stretches across the country. more on a crisis in the making coming up next. vo: this is the summer.</field>
+</doc>
+</add>

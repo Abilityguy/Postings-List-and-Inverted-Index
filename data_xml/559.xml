@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171106_190000_Beyond_100_Days#start/1721/end/1756</field>
+<field name="datetime">11/6/2017 19:28:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20171106_190000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171106_190000_Beyond_100_Days/BBCNEWS_20171106_190000_Beyond_100_Days.thumbs/BBCNEWS_20171106_190000_Beyond_100_Days_001708.jpg</field>
+<field name="snippet">coming up in the next half hour - president trump continues his tour of asia and tells tokyo to buy more american weapons, to shoot down north korean missiles. we report live from the fijian island where climate</field>
+</doc>
+</add>

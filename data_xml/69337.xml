@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201201.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120119_200000_Martin_Bashir#start/3528/end/3563</field>
+<field name="datetime">1/19/2012 20:59:03</field>
+<field name="station">MSNBC</field>
+<field name="show">Martin Bashir</field>
+<field name="showid">MSNBCW_20120119_200000_Martin_Bashir</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120119_200000_Martin_Bashir/MSNBCW_20120119_200000_Martin_Bashir.thumbs/MSNBCW_20120119_200000_Martin_Bashir_003510.jpg</field>
+<field name="snippet">i know that many of the candidates believe that climate change is the biggest hoax ever expedited by scientists, but do you have any idea how many trees had to be chopped down so that these candidates could publish their musings? i made the mistake of reading</field>
+</doc>
+</add>

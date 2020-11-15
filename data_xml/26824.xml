@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100203_110000_FOX_and_Friends#start/5503/end/5538</field>
+<field name="datetime">2/3/2010 12:31:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100203_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100203_110000_FOX_and_Friends/FOXNEWS_20100203_110000_FOX_and_Friends.thumbs/FOXNEWS_20100203_110000_FOX_and_Friends_005480.jpg</field>
+<field name="snippet">we all know we need caffeine, at least some of us do early in the morning and we need it to do some of the headlines, don't we? the u.s. climate chief is refusing to apologize for a big mistake. he says he will not resign over a mistake in a key climate</field>
+</doc>
+</add>

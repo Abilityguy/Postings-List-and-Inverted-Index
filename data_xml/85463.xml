@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201011.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101104_090000_First_Look#start/150/end/185</field>
+<field name="datetime">11/4/2010 9:02:45</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBC_20101104_090000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBC_20101104_090000_First_Look/MSNBC_20101104_090000_First_Look.thumbs/MSNBC_20101104_090000_First_Look_000146.jpg</field>
+<field name="snippet">we did the right thing and we worked very hard in our campaigns to convey that to the american people. president obama says he's ready to compromise on global warming. and he made no mention of his pre-election promise to hike taxes on the rich.</field>
+</doc>
+</add>

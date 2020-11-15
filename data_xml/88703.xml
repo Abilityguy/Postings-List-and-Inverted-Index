@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190622_200000_World_News_Today#start/745/end/780</field>
+<field name="datetime">6/22/2019 20:12:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190622_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190622_200000_World_News_Today/BBCNEWS_20190622_200000_World_News_Today.thumbs/BBCNEWS_20190622_200000_World_News_Today_000718.jpg</field>
+<field name="snippet">a 20000-strong african union force helping to support the government in somalia. hundreds of climate activists have entered a huge coal mine in northwest germany as part of a protest against global warming. 20000 campaigners from 17 countries</field>
+</doc>
+</add>

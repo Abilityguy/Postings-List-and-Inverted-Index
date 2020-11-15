@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091205_100000_The_OReilly_Factor#start/2717/end/2752</field>
+<field name="datetime">12/5/2009 10:45:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20091205_100000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091205_100000_The_OReilly_Factor/FOXNEWS_20091205_100000_The_OReilly_Factor.thumbs/FOXNEWS_20091205_100000_The_OReilly_Factor_002690.jpg</field>
+<field name="snippet">sean: how about drill, baby, drill? that's one of the problems. global warming is used as a trojan horse to sneak in all of these other arguments about things. and foreign oil should not actually have anything to do with the global warming argument. but the global warming guys, what they want to do is say it's good for all of these</field>
+</doc>
+</add>

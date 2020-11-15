@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201612.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161215_070000_Tucker_Carlson_Tonight#start/224/end/259</field>
+<field name="datetime">12/15/2016 7:03:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20161215_070000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161215_070000_Tucker_Carlson_Tonight/FOXNEWSW_20161215_070000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20161215_070000_Tucker_Carlson_Tonight_000207.jpg</field>
+<field name="snippet">the audio right now. the point is, look, if you can hear me, mr. krupp, that rex tillerson is not on the opposite side of you on these issues. the guy is for carbon tax. he has been on the bunch of sides of the carbon issues.</field>
+</doc>
+</add>

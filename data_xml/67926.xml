@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190215_170000_BBC_News_at_Five#start/46/end/81</field>
+<field name="datetime">2/15/2019 17:01:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190215_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190215_170000_BBC_News_at_Five/BBCNEWS_20190215_170000_BBC_News_at_Five.thumbs/BBCNEWS_20190215_170000_BBC_News_at_Five_000029.jpg</field>
+<field name="snippet">skipping school - thousands of pupils take to the streets in protest over climate change. award-winning author, andrea levy, whose works chronicled</field>
+</doc>
+</add>

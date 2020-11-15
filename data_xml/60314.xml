@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181015_030000_BBC_News#start/1253/end/1288</field>
+<field name="datetime">10/15/2018 3:21:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181015_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181015_030000_BBC_News/BBCNEWS_20181015_030000_BBC_News.thumbs/BBCNEWS_20181015_030000_BBC_News_001228.jpg</field>
+<field name="snippet">population is rapidly declining. conservationsists say their habitat is being hit by rising tides caused by climate change. now campaigners are looking at new ways to protect the birds. eliza philippidis reports.</field>
+</doc>
+</add>

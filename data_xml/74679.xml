@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_130000_BBC_News_at_One#start/1254/end/1289</field>
+<field name="datetime">1/16/2020 13:21:09</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20200116_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_130000_BBC_News_at_One/BBCNEWS_20200116_130000_BBC_News_at_One.thumbs/BBCNEWS_20200116_130000_BBC_News_at_One_001228.jpg</field>
+<field name="snippet">that come before the courts. clive coleman, bbc news. the government is revealing proposed new laws under which farmers will be rewarded for protecting the environment, tackling climate change and boosting wildlife.</field>
+</doc>
+</add>

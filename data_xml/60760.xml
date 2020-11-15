@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201804.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180410_010000_BBC_News#start/1424/end/1459</field>
+<field name="datetime">4/10/2018 1:23:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180410_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180410_010000_BBC_News/BBCNEWS_20180410_010000_BBC_News.thumbs/BBCNEWS_20180410_010000_BBC_News_001408.jpg</field>
+<field name="snippet">effects of global warming. we can talk about the bottom line. we can talk about profit, corporate profit. we can talk about economic development and prosperity, but if your very survival is really at stake, nothing else matters, right?</field>
+</doc>
+</add>

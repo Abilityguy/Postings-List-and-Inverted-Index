@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190513_080000_Fox_and_Friends_First#start/684/end/719</field>
+<field name="datetime">5/13/2019 8:11:39</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190513_080000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190513_080000_Fox_and_Friends_First/FOXNEWSW_20190513_080000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190513_080000_Fox_and_Friends_First_000659.jpg</field>
+<field name="snippet">climate change. last week sanders and alexandria ocasio-cortez introduced their lone shark prevention act together to combat predatory lending practices.</field>
+</doc>
+</add>

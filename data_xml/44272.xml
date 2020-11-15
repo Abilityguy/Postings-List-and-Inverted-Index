@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201704.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170429_160000_MSNBC_Live#start/3229/end/3264</field>
+<field name="datetime">4/29/2017 16:54:04</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170429_160000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170429_160000_MSNBC_Live/MSNBCW_20170429_160000_MSNBC_Live.thumbs/MSNBCW_20170429_160000_MSNBC_Live_003207.jpg</field>
+<field name="snippet">organizers say that people's climate march is aimed to voice concern about climate change on the 100th day of donald trump's presidency. a live report on this at the top of the hour. let's bring in republican strategist noelle and peter</field>
+</doc>
+</add>

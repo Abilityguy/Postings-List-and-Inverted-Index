@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_000000_The_FOX_Report_With_Shepard_Smith#start/66/end/101</field>
+<field name="datetime">12/18/2009 0:01:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The FOX Report With Shepard Smith</field>
+<field name="showid">FOXNEWS_20091218_000000_The_FOX_Report_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_000000_The_FOX_Report_With_Shepard_Smith/FOXNEWS_20091218_000000_The_FOX_Report_With_Shepard_Smith.thumbs/FOXNEWS_20091218_000000_The_FOX_Report_With_Shepard_Smith_000056.jpg</field>
+<field name="snippet">andrews air force base for the flight to denmark. reporters earlier questioned whether he had even bother going since there is no deal in sight. remember, world leaders have been aiming to sign an agreement by tomorrow on how to deal with greenhouse gas emissions around the world. but the talks hit serious snags.</field>
+</doc>
+</add>

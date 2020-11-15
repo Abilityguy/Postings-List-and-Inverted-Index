@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170118_180000_BBC_News_at_Six#start/975/end/1010</field>
+<field name="datetime">1/18/2017 18:16:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20170118_180000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170118_180000_BBC_News_at_Six/BBCNEWS_20170118_180000_BBC_News_at_Six.thumbs/BBCNEWS_20170118_180000_BBC_News_at_Six_000957.jpg</field>
+<field name="snippet">part of this rise was caused by an el nino event, a warm ocean current that disrupts the world's weather. but scientists say greenhouse gases were the main driver. this shows how global temperatures have increased since the industrial revolution.</field>
+</doc>
+</add>

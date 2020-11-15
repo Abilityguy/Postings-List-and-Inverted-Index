@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091216_110000_FOX_and_Friends#start/7077/end/7112</field>
+<field name="datetime">12/16/2009 12:58:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091216_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091216_110000_FOX_and_Friends/FOXNEWS_20091216_110000_FOX_and_Friends.thumbs/FOXNEWS_20091216_110000_FOX_and_Friends_007044.jpg</field>
+<field name="snippet">because i am on 'fox & friends.' thank you for having me. brian: tried to get that arena vote for the nets. thank you. we just learned that the president -- president of the climate change conference quit.</field>
+</doc>
+</add>

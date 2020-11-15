@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091022_220000_Special_Report_With_Bret_Baier#start/1864/end/1899</field>
+<field name="datetime">10/22/2009 22:31:19</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091022_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091022_220000_Special_Report_With_Bret_Baier/FOXNEWS_20091022_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091022_220000_Special_Report_With_Bret_Baier_001854.jpg</field>
+<field name="snippet">concerns over proposed climate change legislation, quote 'the more americans learn about cap and trade, the more they oppose cap and trade.' a new book states if you want to save the planet, it is time to swap the pet cat or dog for a rabbit or a chicken.</field>
+</doc>
+</add>

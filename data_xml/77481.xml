@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191128_090000_BBC_News_at_9#start/1559/end/1594</field>
+<field name="datetime">11/28/2019 9:26:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20191128_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191128_090000_BBC_News_at_9/BBCNEWS_20191128_090000_BBC_News_at_9.thumbs/BBCNEWS_20191128_090000_BBC_News_at_9_001558.jpg</field>
+<field name="snippet">british scientists are creating a blueprint for bands and pop stars so they can continue to perform live music without contributing to climate change. the tyndall centre for climate change research is using tour data donated by the group massive attack - after the band said they wanted to help find solutions</field>
+</doc>
+</add>

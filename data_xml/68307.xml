@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190225_060000_Breakfast#start/5546/end/5581</field>
+<field name="datetime">2/25/2019 7:32:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190225_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190225_060000_Breakfast/BBCNEWS_20190225_060000_Breakfast.thumbs/BBCNEWS_20190225_060000_Breakfast_005547.jpg</field>
+<field name="snippet">researchers in antarctica are searching for the world's oldest ice - to help them better understand climate change. norwegian scientists are the latest team to join the search and will spend up to four years looking for a site to extract an ice core, which was formed 1.5 million years ago. it will then be studied to help experts predict future variations</field>
+</doc>
+</add>

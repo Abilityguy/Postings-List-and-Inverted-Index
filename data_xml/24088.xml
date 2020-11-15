@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201902.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190220_110000_Morning_Joe#start/6904/end/6939</field>
+<field name="datetime">2/20/2019 12:55:19</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20190220_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190220_110000_Morning_Joe/MSNBCW_20190220_110000_Morning_Joe.thumbs/MSNBCW_20190220_110000_Morning_Joe_006898.jpg</field>
+<field name="snippet">this? you sound like nancy. it's an aspiration. it's a resolution. we're going to ask the republican leader what's your position on global warming while we're at it.</field>
+</doc>
+</add>

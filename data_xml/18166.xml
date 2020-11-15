@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201409.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140921_160000_Weekends_With_Alex_Witt#start/3794/end/3829</field>
+<field name="datetime">9/21/2014 17:03:29</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20140921_160000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140921_160000_Weekends_With_Alex_Witt/MSNBCW_20140921_160000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20140921_160000_Weekends_With_Alex_Witt_003795.jpg</field>
+<field name="snippet">climate change is taking center stage around the globe today. in fact, over 2000 rallies in the 162 countries are taking part in what's being called the people's climate march. the largest one right here in new york city was over 100000 people taken to the streets of</field>
+</doc>
+</add>

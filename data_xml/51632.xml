@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181202_190000_BBC_News#start/1012/end/1047</field>
+<field name="datetime">12/2/2018 19:17:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181202_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181202_190000_BBC_News/BBCNEWS_20181202_190000_BBC_News.thumbs/BBCNEWS_20181202_190000_BBC_News_000987.jpg</field>
+<field name="snippet">from global warming has never been worse', that's that's the warning given to over 200 countries attending crucial climate change talks at a united nations conference in poland. they're hoping to agree on rules to implement the paris agreement of 2015 - the international treaty designed</field>
+</doc>
+</add>

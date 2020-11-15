@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201010.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101002_070000_Red_Eye#start/557/end/592</field>
+<field name="datetime">10/2/2010 7:09:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20101002_070000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101002_070000_Red_Eye/FOXNEWS_20101002_070000_Red_Eye.thumbs/FOXNEWS_20101002_070000_Red_Eye_000536.jpg</field>
+<field name="snippet">scientific group has little confidence in climate predictions. i am not worried about global warming. i feel like i will be dead when it happens. i can't wrap my brain around having concern for this if i won't be around. you are absolutely right.</field>
+</doc>
+</add>

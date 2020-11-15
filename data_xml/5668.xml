@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_050000_Breakfast#start/2807/end/2842</field>
+<field name="datetime">9/20/2019 5:47:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190920_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_050000_Breakfast/BBCNEWS_20190920_050000_Breakfast.thumbs/BBCNEWS_20190920_050000_Breakfast_002788.jpg</field>
+<field name="snippet">warmth of the next few days, it's going to feel much more autumnal. stronger winds and rain at times but many a gardener in the south will be looking forward to that stop certainly will be. climate change</field>
+</doc>
+</add>

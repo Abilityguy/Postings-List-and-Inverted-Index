@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170112_220000_The_Five#start/1387/end/1422</field>
+<field name="datetime">1/12/2017 22:23:22</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20170112_220000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170112_220000_The_Five/FOXNEWSW_20170112_220000_The_Five.thumbs/FOXNEWSW_20170112_220000_The_Five_001378.jpg</field>
+<field name="snippet">but it's not as pressing and urgent as isis. i see. i will leave it alone. we report. you decide. juan, are you making a commercial. write a letter to your editor if you're upset about climate</field>
+</doc>
+</add>

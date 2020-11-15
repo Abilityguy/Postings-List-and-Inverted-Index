@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190724_190000_BBC_News#start/3372/end/3407</field>
+<field name="datetime">7/24/2019 19:56:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190724_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190724_190000_BBC_News/BBCNEWS_20190724_190000_BBC_News.thumbs/BBCNEWS_20190724_190000_BBC_News_003357.jpg</field>
+<field name="snippet">possibly breaking all-time records. research just published shows the current rate of global heating is higher than has ever been recorded before, and climate change is set to make heatwaves more frequent. dealing with them is something we are going to have to get used to.</field>
+</doc>
+</add>

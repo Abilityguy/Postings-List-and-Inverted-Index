@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201908.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190823_100000_Morning_Joe#start/10819/end/10854</field>
+<field name="datetime">8/23/2019 13:00:34</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20190823_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190823_100000_Morning_Joe/MSNBCW_20190823_100000_Morning_Joe.thumbs/MSNBCW_20190823_100000_Morning_Joe_010800.jpg</field>
+<field name="snippet">some deep, philosophical differences. global trade agreements, nato spending obligations, and iran. and then there's climate change. france's prime minister macron asking the leaders to address the fires blazing through the</field>
+</doc>
+</add>

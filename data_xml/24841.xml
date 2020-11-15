@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201509.csv</field>
+<field name="url">https://archive.org/details/CNNW_20150901_040000_CNN_Newsroom_Live#start/474/end/509</field>
+<field name="datetime">9/1/2015 4:08:09</field>
+<field name="station">CNN</field>
+<field name="show">CNN Newsroom Live</field>
+<field name="showid">CNNW_20150901_040000_CNN_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/CNNW_20150901_040000_CNN_Newsroom_Live/CNNW_20150901_040000_CNN_Newsroom_Live.thumbs/CNNW_20150901_040000_CNN_Newsroom_Live_000465.jpg</field>
+<field name="snippet">anchorage, alaska. this is part of a three-day visit to highlight the impact of climate change, which he called the defining threat of the century. the point is that climate change is no longer some far-off problem. it is happening here. it is happening now.</field>
+</doc>
+</add>

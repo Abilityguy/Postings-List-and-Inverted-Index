@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091219_090000_Special_Report_With_Bret_Baier#start/385/end/420</field>
+<field name="datetime">12/19/2009 9:06:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091219_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091219_090000_Special_Report_With_Bret_Baier/FOXNEWS_20091219_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091219_090000_Special_Report_With_Bret_Baier_000386.jpg</field>
+<field name="snippet">industry. now insurance companies suggest government subsidies for people who can't afford their premiums but it is not at all clear that will lower healthcare costs. brian: thank you, wendell. there is word of what is called a meaningful agreement at u.n. climate change summit.</field>
+</doc>
+</add>

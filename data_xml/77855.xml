@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191127_130000_BBC_News_at_One#start/1423/end/1458</field>
+<field name="datetime">11/27/2019 13:23:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20191127_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191127_130000_BBC_News_at_One/BBCNEWS_20191127_130000_BBC_News_at_One.thumbs/BBCNEWS_20191127_130000_BBC_News_at_One_001407.jpg</field>
+<field name="snippet">if i wasn't playing football. back now to the election - and discussions about climate change and the environment have played a bigger part in the campaign so far than ever before. so how do the main parties</field>
+</doc>
+</add>

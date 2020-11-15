@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180130_040000_BBC_News#start/1101/end/1136</field>
+<field name="datetime">1/30/2018 4:18:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180130_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180130_040000_BBC_News/BBCNEWS_20180130_040000_BBC_News.thumbs/BBCNEWS_20180130_040000_BBC_News_001077.jpg</field>
+<field name="snippet">the canary in the cage at the moment. so all of these predictions that are being made about the impacts of climate change are happening. they' re happening now, to us here, before our eyes, all around the world.</field>
+</doc>
+</add>

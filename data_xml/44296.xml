@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201704.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170429_180000_MSNBC_Live#start/229/end/264</field>
+<field name="datetime">4/29/2017 18:04:04</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170429_180000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170429_180000_MSNBC_Live/MSNBCW_20170429_180000_MSNBC_Live.thumbs/MSNBCW_20170429_180000_MSNBC_Live_000207.jpg</field>
+<field name="snippet">in my real life, i like to walk the life. i drive an electric car. i cut down on water consumption and just became a vegetarian last year, which is really hard but it saves climate change in a lot of different ways. thank you very much.</field>
+</doc>
+</add>

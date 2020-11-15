@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170426_100000_BBC_Newsroom_Live#start/3194/end/3229</field>
+<field name="datetime">4/26/2017 10:53:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20170426_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170426_100000_BBC_Newsroom_Live/BBCNEWS_20170426_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20170426_100000_BBC_Newsroom_Live_003177.jpg</field>
+<field name="snippet">that's it from me. more throughout the afternoon. gardeners will have to adapt to new plants and new techniques, as a report suggests climate change will transform the traditional british garden. the rhs says that warmer temperatures will allow a wider variety of plants to be grown. but the study also warns of a sharp divide across the country. here's our science</field>
+</doc>
+</add>

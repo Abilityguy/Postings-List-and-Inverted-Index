@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201803.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180330_170000_BBC_News#start/2700/end/2735</field>
+<field name="datetime">3/30/2018 17:45:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180330_170000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180330_170000_BBC_News/BBCNEWS_20180330_170000_BBC_News.thumbs/BBCNEWS_20180330_170000_BBC_News_002698.jpg</field>
+<field name="snippet">here is it can be both one and zero at the same time. the switch can be both on and off. this supercharges any computer programme, making impossible problems easy to solve. we could find answers to climate change, make rapid progress</field>
+</doc>
+</add>

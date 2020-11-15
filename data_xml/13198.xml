@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201101.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110102_110000_FOX_and_Friends_Sunday#start/10171/end/10206</field>
+<field name="datetime">1/2/2011 13:49:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWS_20110102_110000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110102_110000_FOX_and_Friends_Sunday/FOXNEWS_20110102_110000_FOX_and_Friends_Sunday.thumbs/FOXNEWS_20110102_110000_FOX_and_Friends_Sunday_010170.jpg</field>
+<field name="snippet">quite a hot topic and scientists and lawmakers, and this alike is global warming. we told you about a businessman who lost his job, but started helping others, including veterans get back in the work force. he's back with an update now on life since he appeared on</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201101.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110124_110000_FOX_and_Friends#start/4231/end/4266</field>
+<field name="datetime">1/24/2011 12:10:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20110124_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110124_110000_FOX_and_Friends/FOXNEWS_20110124_110000_FOX_and_Friends.thumbs/FOXNEWS_20110124_110000_FOX_and_Friends_004230.jpg</field>
+<field name="snippet">an issue that's very important to them, that's climate change and global warming. they could not be more different. it would be interesting to see them sit together. put up another odd couple. representative christie noem of south dakota and senator barbara</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190503_233000_Weather_World#start/921/end/956</field>
+<field name="datetime">5/3/2019 23:45:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20190503_233000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190503_233000_Weather_World/BBCNEWS_20190503_233000_Weather_World.thumbs/BBCNEWS_20190503_233000_Weather_World_000899.jpg</field>
+<field name="snippet">it is notjust to do with changing weather and climate here, but along their routes and in their wintering grounds. yes, climate change is an international problem, if birds are starting off and reaching what was formerly</field>
+</doc>
+</add>

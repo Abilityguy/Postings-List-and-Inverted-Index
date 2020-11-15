@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190509_100000_BBC_Newsroom_Live#start/5906/end/5941</field>
+<field name="datetime">5/9/2019 11:38:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190509_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190509_100000_BBC_Newsroom_Live/BBCNEWS_20190509_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190509_100000_BBC_Newsroom_Live_005907.jpg</field>
+<field name="snippet">for resilience measures, bringing in a range of different methods for better protecting communities against flooding and climate change. house-building on flood plains to cope with the uk's growing population will mean properties built</field>
+</doc>
+</add>

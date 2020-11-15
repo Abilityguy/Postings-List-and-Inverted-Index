@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201705.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170524_080000_The_11th_Hour_With_Brian_Williams#start/2036/end/2071</field>
+<field name="datetime">5/24/2017 8:34:11</field>
+<field name="station">MSNBC</field>
+<field name="show">The 11th Hour With Brian Williams</field>
+<field name="showid">MSNBCW_20170524_080000_The_11th_Hour_With_Brian_Williams</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170524_080000_The_11th_Hour_With_Brian_Williams/MSNBCW_20170524_080000_The_11th_Hour_With_Brian_Williams.thumbs/MSNBCW_20170524_080000_The_11th_Hour_With_Brian_Williams_002008.jpg</field>
+<field name="snippet">great to have you with us live from rome. despite not having officially met before, the pope and president trump had issues on policies like climate change and immigration.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190107_110000_BBC_Newsroom_Live#start/6817/end/6852</field>
+<field name="datetime">1/7/2019 12:53:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190107_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190107_110000_BBC_Newsroom_Live/BBCNEWS_20190107_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190107_110000_BBC_Newsroom_Live_006807.jpg</field>
+<field name="snippet">it's thought between 6 and 7 million trees just end up in landfill. compared to the leaves of other trees, pine needles take a long time to decompose. so, as christmas trees rot, they comparatively give off huge amounts of greenhouse gases such as methane. but at the university</field>
+</doc>
+</add>

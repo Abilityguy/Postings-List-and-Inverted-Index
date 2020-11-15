@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201104.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110413_070000_The_Last_Word#start/1199/end/1234</field>
+<field name="datetime">4/13/2011 7:20:14</field>
+<field name="station">MSNBC</field>
+<field name="show">The Last Word</field>
+<field name="showid">MSNBC_20110413_070000_The_Last_Word</field>
+<field name="preview">https://archive.org/download/MSNBC_20110413_070000_The_Last_Word/MSNBC_20110413_070000_The_Last_Word.thumbs/MSNBC_20110413_070000_The_Last_Word_001194.jpg</field>
+<field name="snippet">about climate change, the environmental protection agency. in the 2011 budget bill the epa's budget is cut by 1.6 billion, a 16% decrease from fiscal year 2010. not only did republicans go after the agency that protects</field>
+</doc>
+</add>

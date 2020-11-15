@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201009.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100908_220000_Special_Report_With_Bret_Baier#start/1852/end/1887</field>
+<field name="datetime">9/8/2010 22:31:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100908_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100908_220000_Special_Report_With_Bret_Baier/FOXNEWS_20100908_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100908_220000_Special_Report_With_Bret_Baier_001824.jpg</field>
+<field name="snippet">it's a good time to call up barney fife.' despite continued dire warnings from global warming groups, the old farmer's almanac is predicting most of the country will see colder than usual winter. while summer and spring will be relatively cool and dry.</field>
+</doc>
+</add>

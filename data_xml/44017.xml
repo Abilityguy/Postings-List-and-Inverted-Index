@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180118_050000_Tucker_Carlson_Tonight#start/2593/end/2628</field>
+<field name="datetime">1/18/2018 5:43:28</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20180118_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180118_050000_Tucker_Carlson_Tonight/FOXNEWSW_20180118_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20180118_050000_Tucker_Carlson_Tonight_002577.jpg</field>
+<field name="snippet">tucker: wow. we may be living in different worlds. christy, thank you for joining us. bill de blasio's regime and new york is suing oil companies over climate change. we'll talk to an activist who says it is okay to break the law to fight climate change.</field>
+</doc>
+</add>

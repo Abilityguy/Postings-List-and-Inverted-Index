@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201602.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160213_160000_Forbes_on_Fox#start/797/end/832</field>
+<field name="datetime">2/13/2016 16:13:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Forbes on Fox</field>
+<field name="showid">FOXNEWSW_20160213_160000_Forbes_on_Fox</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160213_160000_Forbes_on_Fox/FOXNEWSW_20160213_160000_Forbes_on_Fox.thumbs/FOXNEWSW_20160213_160000_Forbes_on_Fox_000777.jpg</field>
+<field name="snippet">looks like a heated battle. in the supreme court. the epa chief just sayinging this week the high court slamming the brakes on its new climate change rules will not slow it down.</field>
+</doc>
+</add>

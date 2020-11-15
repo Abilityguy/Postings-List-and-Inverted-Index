@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170601_100000_BBC_Newsroom_Live#start/758/end/793</field>
+<field name="datetime">6/1/2017 10:12:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20170601_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170601_100000_BBC_Newsroom_Live/BBCNEWS_20170601_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20170601_100000_BBC_Newsroom_Live_000748.jpg</field>
+<field name="snippet">the us deals with climate change on a federal level and on a state level, how important are the individual states in tackling emissions? they're critical. you have california and new york and</field>
+</doc>
+</add>

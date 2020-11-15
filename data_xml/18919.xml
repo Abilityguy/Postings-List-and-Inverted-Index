@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201612.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161209_090000_Special_Report_With_Bret_Baier#start/2379/end/2414</field>
+<field name="datetime">12/9/2016 9:39:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20161209_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161209_090000_Special_Report_With_Bret_Baier/FOXNEWSW_20161209_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20161209_090000_Special_Report_With_Bret_Baier_002368.jpg</field>
+<field name="snippet">haze, laura ingram and charles lane. start with the nomination of pruitt as epa administrator. he says the debate over climate change is far from settled.</field>
+</doc>
+</add>

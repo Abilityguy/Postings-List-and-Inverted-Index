@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_183000_Sportsday#start/17/end/52</field>
+<field name="datetime">1/16/2020 18:30:32</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Sportsday</field>
+<field name="showid">BBCNEWS_20200116_183000_Sportsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_183000_Sportsday/BBCNEWS_20200116_183000_Sportsday.thumbs/BBCNEWS_20200116_183000_Sportsday_000028.jpg</field>
+<field name="snippet">hello. this is bbc news. the headlines. we are out of time, as world leaders need to make lyford let billy make that the decision on climate change andi and i possibly one from sir david attenborough. we have been putting</field>
+</doc>
+</add>

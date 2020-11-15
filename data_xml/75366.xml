@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201012.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101227_190000_News_Nation#start/624/end/659</field>
+<field name="datetime">12/27/2010 19:10:39</field>
+<field name="station">MSNBC</field>
+<field name="show">News Nation</field>
+<field name="showid">MSNBC_20101227_190000_News_Nation</field>
+<field name="preview">https://archive.org/download/MSNBC_20101227_190000_News_Nation/MSNBC_20101227_190000_News_Nation.thumbs/MSNBC_20101227_190000_News_Nation_000596.jpg</field>
+<field name="snippet">pictures. upload or e-mail them in to msnbc.com. we're looking to share them with our viewers. 2010 had the hottest summer on record in 11 states. are we looking at climate change</field>
+</doc>
+</add>

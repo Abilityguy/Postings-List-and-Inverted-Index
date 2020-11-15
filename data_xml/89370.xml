@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190603_170000_BBC_News_at_Six#start/449/end/484</field>
+<field name="datetime">6/3/2019 17:07:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20190603_170000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190603_170000_BBC_News_at_Six/BBCNEWS_20190603_170000_BBC_News_at_Six.thumbs/BBCNEWS_20190603_170000_BBC_News_at_Six_000449.jpg</field>
+<field name="snippet">there are also calls for the prime minister to raise climate change with president trump, after his decision to pull the us out of the 2017 paris agreement, that pledged global emissions cuts. and then there's the issue of a post brexit trade deal between the uk and the us,</field>
+</doc>
+</add>

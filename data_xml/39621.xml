@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091126_090000_Special_Report_With_Bret_Baier#start/48/end/83</field>
+<field name="datetime">11/26/2009 9:01:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091126_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091126_090000_Special_Report_With_Bret_Baier/FOXNEWS_20091126_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091126_090000_Special_Report_With_Bret_Baier_000026.jpg</field>
+<field name="snippet">welcome to washington. i'm chris wallace in for bret baier. the white house is characterizing president obama's decision to go to next month's u.n. climate change conference as a sign of his commitment to find a solution to global warming, but</field>
+</doc>
+</add>

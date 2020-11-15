@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201005.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100512_060000_Glenn_Beck#start/1723/end/1758</field>
+<field name="datetime">5/12/2010 6:28:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20100512_060000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100512_060000_Glenn_Beck/FOXNEWS_20100512_060000_Glenn_Beck.thumbs/FOXNEWS_20100512_060000_Glenn_Beck_001704.jpg</field>
+<field name="snippet">one year after lamenting my crazy stand on global warming it's become crystal clear that scientists fudged the data, lied about the numbers, gone out of their way to exaggerate the problem. yet, tomorrow, they will introduce the cap-and-trade bill in congress. also from 'time' in the cover</field>
+</doc>
+</add>

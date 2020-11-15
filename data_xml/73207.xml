@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190125_053000_Business_Briefing#start/908/end/943</field>
+<field name="datetime">1/25/2019 5:45:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Business Briefing</field>
+<field name="showid">BBCNEWS_20190125_053000_Business_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190125_053000_Business_Briefing/BBCNEWS_20190125_053000_Business_Briefing.thumbs/BBCNEWS_20190125_053000_Business_Briefing_000899.jpg</field>
+<field name="snippet">according to scientists in charge of the world's doomsday clock. the clock is a measure of threats to humanity, including nuclear risk and climate change. it's the closest the clock has been to doom since 1953. it's been keeping track of our</field>
+</doc>
+</add>

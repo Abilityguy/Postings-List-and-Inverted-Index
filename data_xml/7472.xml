@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20171223_050000_Tucker_Carlson_Tonight#start/2885/end/2920</field>
+<field name="datetime">12/23/2017 5:48:20</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20171223_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20171223_050000_Tucker_Carlson_Tonight/FOXNEWSW_20171223_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20171223_050000_Tucker_Carlson_Tonight_002878.jpg</field>
+<field name="snippet">could sum it up for us? i think it's climate change. it's hard to say, tucker. this is california. this is where the governor just signed hike up the wages to $15 an hour after admitting that minimum wage measures don't make much economic sense closed</field>
+</doc>
+</add>

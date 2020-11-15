@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201006.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100617_030000_The_OReilly_Factor#start/733/end/768</field>
+<field name="datetime">6/17/2010 3:12:28</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20100617_030000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100617_030000_The_OReilly_Factor/FOXNEWS_20100617_030000_The_OReilly_Factor.thumbs/FOXNEWS_20100617_030000_The_OReilly_Factor_000715.jpg</field>
+<field name="snippet">spill. joining us from los angeles is in politics at the college. leslie marshall, we'll begin with you. am i wrong by saying it's global warming that's generating the angst on the far left?</field>
+</doc>
+</add>

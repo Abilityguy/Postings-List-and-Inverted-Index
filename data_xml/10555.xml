@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201511.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151122_110000_Fox_and_Friends_Sunday#start/12996/end/13031</field>
+<field name="datetime">11/22/2015 14:36:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20151122_110000_Fox_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151122_110000_Fox_and_Friends_Sunday/FOXNEWSW_20151122_110000_Fox_and_Friends_Sunday.thumbs/FOXNEWSW_20151122_110000_Fox_and_Friends_Sunday_012975.jpg</field>
+<field name="snippet">remember in a couple weeks time paris will play host to a massive climate change, environmental conference, more than 100 heads of state planning to attend. they're still planning. imagine what the security is going to be like for that. back to you.</field>
+</doc>
+</add>

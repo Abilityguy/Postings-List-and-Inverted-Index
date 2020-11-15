@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190911_000000_Newsday#start/609/end/644</field>
+<field name="datetime">9/11/2019 0:10:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190911_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190911_000000_Newsday/BBCNEWS_20190911_000000_Newsday.thumbs/BBCNEWS_20190911_000000_Newsday_000598.jpg</field>
+<field name="snippet">womenomics cabinet. when tackling climate change we need to adapt the way we live to deal with higher temperatures, rising seas and fiercer storms. a new report compiled by political, business and science leaders, including the microsoft founder bill gates, says that wealthy countries need to invest 1.8 trillion dollars in the next decade on safeguarding food and water in poorer countries.</field>
+</doc>
+</add>

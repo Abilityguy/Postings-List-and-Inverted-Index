@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090927_033000_FOX_News_Watch#start/617/end/652</field>
+<field name="datetime">9/27/2009 3:40:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Watch</field>
+<field name="showid">FOXNEWS_20090927_033000_FOX_News_Watch</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090927_033000_FOX_News_Watch/FOXNEWS_20090927_033000_FOX_News_Watch.thumbs/FOXNEWS_20090927_033000_FOX_News_Watch_000596.jpg</field>
+<field name="snippet">speech where he tackled issues like climate change. on thursday the president headed the security council chairman delivering a stern speech to the group about nuclear proliferation. then off to pittsburgh for the g 20 summit to focus on world</field>
+</doc>
+</add>

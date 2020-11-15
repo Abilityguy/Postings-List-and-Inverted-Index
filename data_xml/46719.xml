@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201302.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130201_070000_Hardball_With_Chris_Matthews#start/445/end/480</field>
+<field name="datetime">2/1/2013 7:07:40</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball With Chris Matthews</field>
+<field name="showid">MSNBCW_20130201_070000_Hardball_With_Chris_Matthews</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130201_070000_Hardball_With_Chris_Matthews/MSNBCW_20130201_070000_Hardball_With_Chris_Matthews.thumbs/MSNBCW_20130201_070000_Hardball_With_Chris_Matthews_000435.jpg</field>
+<field name="snippet">comes along, you're not to be trusted, and the other guy said i served in vietnam as a grunt, i know what it's like. i know the grunts are the ones who take it. the big shots take them into war, the big shots talk about climate change two weeks later, they're still in the ditch fighting the war. your thoughts.</field>
+</doc>
+</add>

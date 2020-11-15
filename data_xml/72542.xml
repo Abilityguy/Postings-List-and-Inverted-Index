@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201406.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140624_100000_Morning_Joe#start/8642/end/8677</field>
+<field name="datetime">6/24/2014 12:24:17</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20140624_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140624_100000_Morning_Joe/MSNBCW_20140624_100000_Morning_Joe.thumbs/MSNBCW_20140624_100000_Morning_Joe_008625.jpg</field>
+<field name="snippet">scientist, man. but, yes, there's global warming. and, yes, there's climate change. yes, there is. and, yes, 8 gazillion humans and carbon being pumped into the air has something to do with it.</field>
+</doc>
+</add>

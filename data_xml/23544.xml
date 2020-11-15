@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201405.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140515_220000_Special_Report_With_Bret_Baier#start/1850/end/1885</field>
+<field name="datetime">5/15/2014 22:31:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20140515_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140515_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20140515_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20140515_220000_Special_Report_With_Bret_Baier_001845.jpg</field>
+<field name="snippet">above sea level. even at its lowest point. the spokesman for the democratic governor told 'the los angeles times' that brown misspoke but stands by the larger point about needing to prepare for the impact of climate change. well, summer is almost here</field>
+</doc>
+</add>

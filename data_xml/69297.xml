@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201201.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120103_110000_Morning_Joe#start/8456/end/8491</field>
+<field name="datetime">1/3/2012 13:21:11</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20120103_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120103_110000_Morning_Joe/MSNBCW_20120103_110000_Morning_Joe.thumbs/MSNBCW_20120103_110000_Morning_Joe_008456.jpg</field>
+<field name="snippet">cuts an ad in favor of global warming legislation? do you think he regrets that? there may be some regret there. it's interesting, a lot of folks decide when they get into a presidential campaign regret what they did before. but deathbed repentance is not</field>
+</doc>
+</add>

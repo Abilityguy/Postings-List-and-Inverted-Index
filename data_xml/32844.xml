@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091210_160000_Happening_Now#start/1355/end/1390</field>
+<field name="datetime">12/10/2009 16:22:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091210_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091210_160000_Happening_Now/FOXNEWS_20091210_160000_Happening_Now.thumbs/FOXNEWS_20091210_160000_Happening_Now_001312.jpg</field>
+<field name="snippet">what happened with 1700 british scientist weighing in in support not of dodgy scientific practices or faulty research, but in terms of a whole series the climate change is man-made,</field>
+</doc>
+</add>

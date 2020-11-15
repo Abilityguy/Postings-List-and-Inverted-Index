@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100129_180000_The_Live_Desk#start/2539/end/2574</field>
+<field name="datetime">1/29/2010 18:42:34</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Live Desk</field>
+<field name="showid">FOXNEWS_20100129_180000_The_Live_Desk</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100129_180000_The_Live_Desk/FOXNEWS_20100129_180000_The_Live_Desk.thumbs/FOXNEWS_20100129_180000_The_Live_Desk_002370.jpg</field>
+<field name="snippet">taking a look at some of the remote feeds we're following in the top box. a new video reportedly from osama bin laden. in it the al-qaeda leader blames the united states and other industrialized countries for global warming. it calls for the world to</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201501.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150127_030000_The_Last_Word_With_Lawrence_ODonnell#start/2408/end/2443</field>
+<field name="datetime">1/27/2015 3:40:23</field>
+<field name="station">MSNBC</field>
+<field name="show">The Last Word With Lawrence ODonnell</field>
+<field name="showid">MSNBCW_20150127_030000_The_Last_Word_With_Lawrence_ODonnell</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150127_030000_The_Last_Word_With_Lawrence_ODonnell/MSNBCW_20150127_030000_The_Last_Word_With_Lawrence_ODonnell.thumbs/MSNBCW_20150127_030000_The_Last_Word_With_Lawrence_ODonnell_002385.jpg</field>
+<field name="snippet">storm is intensifying very rapidly, and you don't see this except in the most intense storms over the north atlantaic off the east coast during the winter months. and professor, we hear a lot about extreme weather. we know that climate change can</field>
+</doc>
+</add>

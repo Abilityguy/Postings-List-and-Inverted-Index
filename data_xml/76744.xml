@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190530_033000_HARDtalk#start/1389/end/1424</field>
+<field name="datetime">5/30/2019 3:53:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">HARDtalk</field>
+<field name="showid">BBCNEWS_20190530_033000_HARDtalk</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190530_033000_HARDtalk/BBCNEWS_20190530_033000_HARDtalk.thumbs/BBCNEWS_20190530_033000_HARDtalk_001379.jpg</field>
+<field name="snippet">are not threatened by an unstoppable asteroid coming towards us, we are threatened by things that we are doing. climate change caused by fossil fuels, unsustainable resource use, inequality, and so on. since we are causing the problems, it is within our power to stop causing</field>
+</doc>
+</add>

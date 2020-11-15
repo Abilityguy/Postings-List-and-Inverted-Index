@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201010.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101015_210000_Glenn_Beck#start/556/end/591</field>
+<field name="datetime">10/15/2010 21:09:31</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20101015_210000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101015_210000_Glenn_Beck/FOXNEWS_20101015_210000_Glenn_Beck.thumbs/FOXNEWS_20101015_210000_Glenn_Beck_000536.jpg</field>
+<field name="snippet">another example of the alarm that they're trying to use. they refer in chapter three again to massive climate changes. now, you've looked at this enough. when we first met at the first international conference on climate change. glenn: yep.</field>
+</doc>
+</add>

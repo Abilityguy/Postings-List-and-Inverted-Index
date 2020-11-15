@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_110000_BBC_Newsroom_Live#start/126/end/161</field>
+<field name="datetime">1/16/2020 11:02:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20200116_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_110000_BBC_Newsroom_Live/BBCNEWS_20200116_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20200116_110000_BBC_Newsroom_Live_000118.jpg</field>
+<field name="snippet">a new warning about climate change, telling the bbc, 'the moment of crisis has come.' in an exclusive interview to mark the start of the bbc's our planet matters series, sir david called on governments to do more to tackle the threat before it's too late. here's our science editor, david shuckman. the moment of crisis has come.</field>
+</doc>
+</add>

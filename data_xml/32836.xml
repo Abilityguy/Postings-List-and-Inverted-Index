@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_140000_Americas_Newsroom#start/5567/end/5602</field>
+<field name="datetime">12/18/2009 15:33:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20091218_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_140000_Americas_Newsroom/FOXNEWS_20091218_140000_Americas_Newsroom.thumbs/FOXNEWS_20091218_140000_Americas_Newsroom_005550.jpg</field>
+<field name="snippet">at the copenhagen climate change earlier today. his voice was frustrated, the global warming is not fiction. this is science, he said. but there's still debate over the impact of climate change and what we do because of it. what are we learning from this</field>
+</doc>
+</add>

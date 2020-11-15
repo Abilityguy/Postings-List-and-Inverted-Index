@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201710.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171030_220000_BBC_News_at_Ten#start/1318/end/1353</field>
+<field name="datetime">10/30/2017 22:22:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20171030_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171030_220000_BBC_News_at_Ten/BBCNEWS_20171030_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20171030_220000_BBC_News_at_Ten_001318.jpg</field>
+<field name="snippet">stopping vegetation growing and preventing plants and trees from soaking up carbon dioxide. it's also led to forest fires, which have injected more of the greenhouse gas into the atmosphere.</field>
+</doc>
+</add>

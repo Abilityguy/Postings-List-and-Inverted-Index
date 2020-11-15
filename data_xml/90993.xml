@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201603.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160310_160000_MSNBC_Live_With_Tamron_Hall#start/1995/end/2030</field>
+<field name="datetime">3/10/2016 16:33:30</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Tamron Hall</field>
+<field name="showid">MSNBCW_20160310_160000_MSNBC_Live_With_Tamron_Hall</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160310_160000_MSNBC_Live_With_Tamron_Hall/MSNBCW_20160310_160000_MSNBC_Live_With_Tamron_Hall.thumbs/MSNBCW_20160310_160000_MSNBC_Live_With_Tamron_Hall_001977.jpg</field>
+<field name="snippet">together as individual countries and as a planet to address the issues of climate change, how we continue to seek to ensure security for our citizens here at home but also create</field>
+</doc>
+</add>

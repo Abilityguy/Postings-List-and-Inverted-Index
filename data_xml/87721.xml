@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191215_040000_BBC_News#start/300/end/335</field>
+<field name="datetime">12/15/2019 4:05:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191215_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191215_040000_BBC_News/BBCNEWS_20191215_040000_BBC_News.thumbs/BBCNEWS_20191215_040000_BBC_News_000298.jpg</field>
+<field name="snippet">the urgency of the science that we see, the science of climate change is more clear than ever that we need to act now and the calls from people on the street who asked for more action. the small world country, the</field>
+</doc>
+</add>

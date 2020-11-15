@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191215_040000_BBC_News#start/25/end/60</field>
+<field name="datetime">12/15/2019 4:00:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191215_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191215_040000_BBC_News/BBCNEWS_20191215_040000_BBC_News.thumbs/BBCNEWS_20191215_040000_BBC_News_000028.jpg</field>
+<field name="snippet">as delegates struggle to agree on crucial measures to tackle global warming. if we cannot agree an ambitious decision, we would have failed to address the hopes of the people that are waiting for us in our countries. borisjohnson promises to repay the trust of former labour supporters whose votes helped him to victory in thursday's election.</field>
+</doc>
+</add>

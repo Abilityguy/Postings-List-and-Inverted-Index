@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201905.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190527_210000_MTP_Daily#start/40/end/75</field>
+<field name="datetime">5/27/2019 21:00:55</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20190527_210000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190527_210000_MTP_Daily/MSNBCW_20190527_210000_MTP_Daily.thumbs/MSNBCW_20190527_210000_MTP_Daily_000028.jpg</field>
+<field name="snippet">climate change is vaulted to become a top issue with democratic voters. but the general election voters, are they warming to the issue? if it is monday, it is a special edition of 'mtp daily.'</field>
+</doc>
+</add>

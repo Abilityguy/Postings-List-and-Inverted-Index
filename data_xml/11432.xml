@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190819_170000_BBC_News_at_Six#start/1030/end/1065</field>
+<field name="datetime">8/19/2019 17:17:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20190819_170000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190819_170000_BBC_News_at_Six/BBCNEWS_20190819_170000_BBC_News_at_Six.thumbs/BBCNEWS_20190819_170000_BBC_News_at_Six_001019.jpg</field>
+<field name="snippet">on farming here's our environment and rural affairs correspondent, claire marshall. she examines how uk farmers are coping with the climate change challenge. the rich produce of the fertile fens.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201912.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191223_000000_Kasie_DC#start/4308/end/4343</field>
+<field name="datetime">12/23/2019 1:12:03</field>
+<field name="station">MSNBC</field>
+<field name="show">Kasie DC</field>
+<field name="showid">MSNBCW_20191223_000000_Kasie_DC</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191223_000000_Kasie_DC/MSNBCW_20191223_000000_Kasie_DC.thumbs/MSNBCW_20191223_000000_Kasie_DC_004287.jpg</field>
+<field name="snippet">we hear from voters on the campaign trail time and time again. the number of times i've seen a voter raise their hand and ask a president about impeachment is zero compared to a number of times i've seen it happen with health care, climate change, or any number of things.</field>
+</doc>
+</add>

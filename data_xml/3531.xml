@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201506.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150616_210000_The_Five#start/2205/end/2240</field>
+<field name="datetime">6/16/2015 21:37:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20150616_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150616_210000_The_Five/FOXNEWSW_20150616_210000_The_Five.thumbs/FOXNEWSW_20150616_210000_The_Five_002175.jpg</field>
+<field name="snippet">to issue a controversial message on climate change. it's concerning some conservatives in the catholic community and beyond. we've got it. details next. now? can i at least put my shoes on?</field>
+</doc>
+</add>

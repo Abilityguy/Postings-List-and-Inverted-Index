@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190518_000000_Tucker_Carlson_Tonight#start/1947/end/1982</field>
+<field name="datetime">5/18/2019 0:32:42</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190518_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190518_000000_Tucker_Carlson_Tonight/FOXNEWSW_20190518_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190518_000000_Tucker_Carlson_Tonight_001948.jpg</field>
+<field name="snippet">scientific arguments. i mean, this is just nonsense, really. tucker: so tell us how the sober climatologist views climate change as of right now may 2019.</field>
+</doc>
+</add>

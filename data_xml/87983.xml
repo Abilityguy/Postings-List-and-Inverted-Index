@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191203_010000_Newsday#start/54/end/89</field>
+<field name="datetime">12/3/2019 1:01:09</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191203_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191203_010000_Newsday/BBCNEWS_20191203_010000_Newsday.thumbs/BBCNEWS_20191203_010000_Newsday_000027.jpg</field>
+<field name="snippet">i'm kasia madera in london. also in the programme: the madrid meeting hears how some countries fear they are in a fight to the death as they try to tackle climate change. and top of the class. just how does one of europe's smallest nations outperform its richer neighbours?</field>
+</doc>
+</add>

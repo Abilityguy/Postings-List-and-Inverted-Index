@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171115_210000_Outside_Source#start/2843/end/2878</field>
+<field name="datetime">11/15/2017 21:47:38</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20171115_210000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171115_210000_Outside_Source/BBCNEWS_20171115_210000_Outside_Source.thumbs/BBCNEWS_20171115_210000_Outside_Source_002818.jpg</field>
+<field name="snippet">to hold the world's temperature rise as close as possible to 1.5 celsius. that is thought to be a danger point. that would mean very steep cuts in greenhouse gases.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190222_130000_BBC_News_at_One#start/964/end/999</field>
+<field name="datetime">2/22/2019 13:16:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190222_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190222_130000_BBC_News_at_One/BBCNEWS_20190222_130000_BBC_News_at_One.thumbs/BBCNEWS_20190222_130000_BBC_News_at_One_000958.jpg</field>
+<field name="snippet">you can have a problem with climate change, so it's very important to have available a wider range of species to feed the world. with the global population approaching 8 billion people, the un warns we need to rethink the way we produce our food and we need to act fast.</field>
+</doc>
+</add>

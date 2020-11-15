@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201605.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160515_170000_Americas_Election_HQ#start/2627/end/2662</field>
+<field name="datetime">5/15/2016 17:44:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Election HQ</field>
+<field name="showid">FOXNEWSW_20160515_170000_Americas_Election_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160515_170000_Americas_Election_HQ/FOXNEWSW_20160515_170000_Americas_Election_HQ.thumbs/FOXNEWSW_20160515_170000_Americas_Election_HQ_002607.jpg</field>
+<field name="snippet">the president also spoke about policies in his own administration that includes his thoughts on climate change and green energy. this fall will, of course, mark the 15th anniversary of</field>
+</doc>
+</add>

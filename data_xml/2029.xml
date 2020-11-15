@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20171122_050000_Tucker_Carlson_Tonight#start/1415/end/1450</field>
+<field name="datetime">11/22/2017 5:23:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20171122_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20171122_050000_Tucker_Carlson_Tonight/FOXNEWSW_20171122_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20171122_050000_Tucker_Carlson_Tonight_001407.jpg</field>
+<field name="snippet">migrated to the united states because of change of climate. apparently 130 years ago, donald trump's grandfather left germany, just like eddie murphy coming to america, and went to queens because he was trying to escape the climate change that</field>
+</doc>
+</add>

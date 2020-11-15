@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190923_100000_FOX__Friends#start/2364/end/2399</field>
+<field name="datetime">9/23/2019 10:39:39</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20190923_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190923_100000_FOX__Friends/FOXNEWSW_20190923_100000_FOX__Friends.thumbs/FOXNEWSW_20190923_100000_FOX__Friends_002340.jpg</field>
+<field name="snippet">brian: see you later. steve: jillian joins us with a fox news alert. jillian: that's right. good morning. let's start with this alert. climate change protesters hope to bring d.c. to a stand still this morning. just moments ago activists started blocking streets in an attempt to stop rush hour</field>
+</doc>
+</add>

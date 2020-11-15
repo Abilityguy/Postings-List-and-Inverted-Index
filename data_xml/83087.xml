@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191011_184500_Newswatch#start/669/end/704</field>
+<field name="datetime">10/11/2019 18:56:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newswatch</field>
+<field name="showid">BBCNEWS_20191011_184500_Newswatch</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191011_184500_Newswatch/BBCNEWS_20191011_184500_Newswatch.thumbs/BBCNEWS_20191011_184500_Newswatch_000659.jpg</field>
+<field name="snippet">should be careful about pollution we put into the atmosphere. thank you. justin rowlatt speaking to me earlier. finally, for some people the big talking point of the week wasn't based climate change protests, the latest twists and</field>
+</doc>
+</add>

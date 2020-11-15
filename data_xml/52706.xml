@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180619_130000_Afternoon_Live#start/1462/end/1497</field>
+<field name="datetime">6/19/2018 13:24:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20180619_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180619_130000_Afternoon_Live/BBCNEWS_20180619_130000_Afternoon_Live.thumbs/BBCNEWS_20180619_130000_Afternoon_Live_001437.jpg</field>
+<field name="snippet">taken to the skies over norway - as part of the nation's bid to tackle climate change and air pollution. the country is planning to run all its transport</field>
+</doc>
+</add>

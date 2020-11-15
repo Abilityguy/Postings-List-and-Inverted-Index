@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100128_160000_Happening_Now#start/5609/end/5644</field>
+<field name="datetime">1/28/2010 17:33:44</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20100128_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100128_160000_Happening_Now/FOXNEWS_20100128_160000_Happening_Now.thumbs/FOXNEWS_20100128_160000_Happening_Now_005567.jpg</field>
+<field name="snippet">quite getting how angry the american public is. the president said he understands that people are angry and maybe some even think he may not be able to deliver the hope and change he promised last year, but in keeping the agenda going on so much of things like health care and climate change legislation which the country is at this point</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190419_103000_The_Travel_Show#start/1841/end/1876</field>
+<field name="datetime">4/19/2019 11:00:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Travel Show</field>
+<field name="showid">BBCNEWS_20190419_103000_The_Travel_Show</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190419_103000_The_Travel_Show/BBCNEWS_20190419_103000_The_Travel_Show.thumbs/BBCNEWS_20190419_103000_The_Travel_Show_001828.jpg</field>
+<field name="snippet">climate change protests in london are entering their fifth day. thousands of police officers are deployed to try to clear the demonstrators. local authorities are acused of the 'social cleansing' of people who rough sleep, beg or loiter</field>
+</doc>
+</add>

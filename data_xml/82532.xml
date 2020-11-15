@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201509.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150902_050000_Hannity#start/763/end/798</field>
+<field name="datetime">9/2/2015 5:12:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20150902_050000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150902_050000_Hannity/FOXNEWSW_20150902_050000_Hannity.thumbs/FOXNEWSW_20150902_050000_Hannity_000765.jpg</field>
+<field name="snippet">climate change and the president up in the arctic today was making his own contribution to that.</field>
+</doc>
+</add>

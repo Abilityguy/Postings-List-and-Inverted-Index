@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201202.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120228_110000_FOX_and_Friends#start/1387/end/1422</field>
+<field name="datetime">2/28/2012 11:23:22</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20120228_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120228_110000_FOX_and_Friends/FOXNEWSW_20120228_110000_FOX_and_Friends.thumbs/FOXNEWSW_20120228_110000_FOX_and_Friends_001376.jpg</field>
+<field name="snippet">and counterprotesters and new epa limits on greenhouse gas emissions face a challenge in court today from more than 150 industry groups. they claim climate rules are based on bad science. let's go over to brian.</field>
+</doc>
+</add>

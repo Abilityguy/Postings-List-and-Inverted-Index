@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091204_160000_Happening_Now#start/6176/end/6211</field>
+<field name="datetime">12/4/2009 17:43:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091204_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091204_160000_Happening_Now/FOXNEWS_20091204_160000_Happening_Now.thumbs/FOXNEWS_20091204_160000_Happening_Now_006150.jpg</field>
+<field name="snippet">we do not know what the health- care bill will look like. you do not know whether to invest or not. you did not know how much the carbon tax will be increased on energy. you are not sure if there is going to be a surtax or not. all of that affects the</field>
+</doc>
+</add>

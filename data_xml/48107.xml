@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201505.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150521_090000_First_Look#start/1166/end/1201</field>
+<field name="datetime">5/21/2015 9:19:41</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20150521_090000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150521_090000_First_Look/MSNBCW_20150521_090000_First_Look.thumbs/MSNBCW_20150521_090000_First_Look_001155.jpg</field>
+<field name="snippet">charity. and president obama gave the commencement address at the coast guard academy yesterday. he took the opportunity to talk about climate change. this is not just a problem for countries on the coasts. or for certain regions of the world.</field>
+</doc>
+</add>

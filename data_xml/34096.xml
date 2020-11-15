@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091204_090000_Special_Report_With_Bret_Baier#start/1882/end/1917</field>
+<field name="datetime">12/4/2009 9:31:37</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091204_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091204_090000_Special_Report_With_Bret_Baier/FOXNEWS_20091204_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091204_090000_Special_Report_With_Bret_Baier_001734.jpg</field>
+<field name="snippet">an american researcher is threatening to sue nasa over its alleged distortion of climate change data, following revelations that scientists at a brittish university have changed or destroyed similar information. christopher horner, a senior fellow at competitive enterprise institute believes</field>
+</doc>
+</add>

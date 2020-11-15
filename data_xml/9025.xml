@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190829_010000_Hannity#start/2930/end/2965</field>
+<field name="datetime">8/29/2019 1:49:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20190829_010000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190829_010000_Hannity/FOXNEWSW_20190829_010000_Hannity.thumbs/FOXNEWSW_20190829_010000_Hannity_002908.jpg</field>
+<field name="snippet">the night at 3:30 in the mornin morning, just concerned about climate change. i'm scared about disease.</field>
+</doc>
+</add>

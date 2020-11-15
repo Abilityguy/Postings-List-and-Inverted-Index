@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091206_230000_FOX_News_Sunday_With_Chris_Wallace#start/832/end/867</field>
+<field name="datetime">12/6/2009 23:14:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Sunday With Chris Wallace</field>
+<field name="showid">FOXNEWS_20091206_230000_FOX_News_Sunday_With_Chris_Wallace</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091206_230000_FOX_News_Sunday_With_Chris_Wallace/FOXNEWS_20091206_230000_FOX_News_Sunday_With_Chris_Wallace.thumbs/FOXNEWS_20091206_230000_FOX_News_Sunday_With_Chris_Wallace_000810.jpg</field>
+<field name="snippet">we want to thank you so much for joining us today. and, sir, the best of luck with your new mission. thanks very much, chris. good to be with you. chris: up next we'll discuss the battle over health care, and the economy and climate change with two of the senate's top leaders.</field>
+</doc>
+</add>

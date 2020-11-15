@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201001.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100107_110000_Morning_Joe#start/10538/end/10573</field>
+<field name="datetime">1/7/2010 13:55:53</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20100107_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20100107_110000_Morning_Joe/MSNBC_20100107_110000_Morning_Joe.thumbs/MSNBC_20100107_110000_Morning_Joe_010525.jpg</field>
+<field name="snippet">but when you look at the polls, every single poll shows americans are moving away. is it just because the economy is bad and they don't want to think about it? give us clean jobs or dirty jobs. 1 in 3 americans think climate change legislation will impact jobs. 3 in 4 americans want some kind</field>
+</doc>
+</add>

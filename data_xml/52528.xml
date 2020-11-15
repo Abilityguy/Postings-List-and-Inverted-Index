@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181209_113000_Dateline_London#start/1241/end/1276</field>
+<field name="datetime">12/9/2018 11:50:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Dateline London</field>
+<field name="showid">BBCNEWS_20181209_113000_Dateline_London</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181209_113000_Dateline_London/BBCNEWS_20181209_113000_Dateline_London.thumbs/BBCNEWS_20181209_113000_Dateline_London_001227.jpg</field>
+<field name="snippet">welcoming delegates to a global conference intended to draw up rules for curbing man's contribution to climate change in katowice, poland's head of state, andrzej duda, pointed to coal waiting to be extracted that could heat homes and feed industry, he said, for another 200 years. it would be hard not to use them. hard indeed.</field>
+</doc>
+</add>

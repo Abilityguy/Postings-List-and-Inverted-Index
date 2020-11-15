@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170101_123000_Review_2016#start/921/end/956</field>
+<field name="datetime">1/1/2017 12:45:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Review 2016</field>
+<field name="showid">BBCNEWS_20170101_123000_Review_2016</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170101_123000_Review_2016/BBCNEWS_20170101_123000_Review_2016.thumbs/BBCNEWS_20170101_123000_Review_2016_000897.jpg</field>
+<field name="snippet">our focus has also been very much on our own planet. 2016 has been declared the hottest year on record, putting climate change and how to tackle it in the spotlight once again. this year, our planet united, at least for a while.</field>
+</doc>
+</add>

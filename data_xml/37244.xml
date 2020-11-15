@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201401.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140110_110000_FOX_and_Friends#start/2722/end/2757</field>
+<field name="datetime">1/10/2014 11:45:37</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20140110_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140110_110000_FOX_and_Friends/FOXNEWSW_20140110_110000_FOX_and_Friends.thumbs/FOXNEWSW_20140110_110000_FOX_and_Friends_002715.jpg</field>
+<field name="snippet">francisco wants to put stickers on gas pumps to remind people that filling up their car can lead to, wait for it, global warming. the group says the proposed stickers are similar to putting warning labels on tobacco products.</field>
+</doc>
+</add>

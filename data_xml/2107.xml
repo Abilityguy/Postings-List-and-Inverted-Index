@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201801.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20180129_150000_MSNBC_Live_With_Hallie_Jackson#start/1823/end/1858</field>
+<field name="datetime">1/29/2018 15:30:38</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Hallie Jackson</field>
+<field name="showid">MSNBCW_20180129_150000_MSNBC_Live_With_Hallie_Jackson</field>
+<field name="preview">https://archive.org/download/MSNBCW_20180129_150000_MSNBC_Live_With_Hallie_Jackson/MSNBCW_20180129_150000_MSNBC_Live_With_Hallie_Jackson.thumbs/MSNBCW_20180129_150000_MSNBC_Live_With_Hallie_Jackson_001797.jpg</field>
+<field name="snippet">morgan asked whether the president believes climate change is real. he made eyebrow raising remarks saying the world is cooling and warming at the same time and icecaps are record levels,</field>
+</doc>
+</add>

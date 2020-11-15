@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190804_100000_Fox_and_Friends_Sunday#start/13424/end/13459</field>
+<field name="datetime">8/4/2019 13:43:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20190804_100000_Fox_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190804_100000_Fox_and_Friends_Sunday/FOXNEWSW_20190804_100000_Fox_and_Friends_Sunday.thumbs/FOXNEWSW_20190804_100000_Fox_and_Friends_Sunday_013409.jpg</field>
+<field name="snippet">talking about the most important issues facing the country, 21% said immigration, 10% said the economy, 9% said healthcare, 6% climate change and 5% race relations, so healthcare is right up there and this has been an issue that i've held</field>
+</doc>
+</add>

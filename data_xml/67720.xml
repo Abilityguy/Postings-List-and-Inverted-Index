@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190226_030000_BBC_News#start/28/end/63</field>
+<field name="datetime">2/26/2019 3:00:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190226_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190226_030000_BBC_News/BBCNEWS_20190226_030000_BBC_News.thumbs/BBCNEWS_20190226_030000_BBC_News_000029.jpg</field>
+<field name="snippet">the colorado hermit who's produced decades of data to help combat climate change.</field>
+</doc>
+</add>

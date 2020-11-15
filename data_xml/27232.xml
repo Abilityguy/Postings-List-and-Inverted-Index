@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100202_140000_Americas_Newsroom#start/6309/end/6344</field>
+<field name="datetime">2/2/2010 15:45:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20100202_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100202_140000_Americas_Newsroom/FOXNEWS_20100202_140000_Americas_Newsroom.thumbs/FOXNEWS_20100202_140000_Americas_Newsroom_006300.jpg</field>
+<field name="snippet">the american people. i mean, you know, to fly this many people to copenhagen for a climate change summit which produced absolutely nothing in terms of -- i mean, anything meaningful. it is pretty astonishing in the current climate, if you will, economic climate i'm talking about. it is amazing they would even</field>
+</doc>
+</add>

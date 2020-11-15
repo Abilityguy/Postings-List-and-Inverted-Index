@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190923_003000_Asia_Business_Report#start/1/end/36</field>
+<field name="datetime">9/23/2019 0:30:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Asia Business Report</field>
+<field name="showid">BBCNEWS_20190923_003000_Asia_Business_Report</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190923_003000_Asia_Business_Report/BBCNEWS_20190923_003000_Asia_Business_Report.thumbs/BBCNEWS_20190923_003000_Asia_Business_Report_000028.jpg</field>
+<field name="snippet">our top story: un scientists have issued a new report warning that global warming is speeding up. the report was issued a day before the latest un climate summit in new york, where world leaders will discuss ways to control global warming. the future of the british-based, but partly-chinese-owned, tour operator thomas cook</field>
+</doc>
+</add>

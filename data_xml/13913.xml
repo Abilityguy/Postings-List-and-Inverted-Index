@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201501.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150115_210000_Your_World_With_Neil_Cavuto#start/2125/end/2160</field>
+<field name="datetime">1/15/2015 21:35:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20150115_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150115_210000_Your_World_With_Neil_Cavuto/FOXNEWSW_20150115_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20150115_210000_Your_World_With_Neil_Cavuto_002115.jpg</field>
+<field name="snippet">global climate change. you say what? look, neil there's $185 billion in the last 20 years poured into this thing. this is a self-sustaining industry now. what possible value do i have by denying climate extremes?</field>
+</doc>
+</add>

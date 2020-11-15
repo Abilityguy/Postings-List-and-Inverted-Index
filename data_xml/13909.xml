@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201501.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150114_230000_Special_Report_With_Bret_Baier#start/1407/end/1442</field>
+<field name="datetime">1/14/2015 23:23:42</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20150114_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150114_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20150114_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20150114_230000_Special_Report_With_Bret_Baier_001395.jpg</field>
+<field name="snippet">environmental defense fund released this video to show that methane has a huge impact on the environment because its 20 times stronger than carbon dioxide. addressing the issue of climate change but this also represents waste.</field>
+</doc>
+</add>

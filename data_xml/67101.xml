@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140515_000000_All_In_With_Chris_Hayes#start/115/end/150</field>
+<field name="datetime">5/15/2014 0:02:10</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20140515_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140515_000000_All_In_With_Chris_Hayes/MSNBCW_20140515_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20140515_000000_All_In_With_Chris_Hayes_000106.jpg</field>
+<field name="snippet">after question on his comments on climate change. of course the climate is changing, because the climate is always changing. and that's immeasurable, you can see. there is climate change, the issue is not whether the climate is changing, as it always is</field>
+</doc>
+</add>

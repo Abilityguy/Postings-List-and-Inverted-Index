@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190403_020000_BBC_News#start/807/end/842</field>
+<field name="datetime">4/3/2019 2:13:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190403_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190403_020000_BBC_News/BBCNEWS_20190403_020000_BBC_News.thumbs/BBCNEWS_20190403_020000_BBC_News_000808.jpg</field>
+<field name="snippet">by human activities. nathan gillet is a research scientist with environment and climate change canada: we are seeing warmer temperatures but also more heat waves, few extreme cold temperatures, we are seeing melting of the ice in the, big reductions of the arctic sea ice area, a shorter snow over season,</field>
+</doc>
+</add>

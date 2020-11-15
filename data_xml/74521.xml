@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_130000_BBC_News_at_One#start/374/end/409</field>
+<field name="datetime">1/16/2020 13:06:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20200116_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_130000_BBC_News_at_One/BBCNEWS_20200116_130000_BBC_News_at_One.thumbs/BBCNEWS_20200116_130000_BBC_News_at_One_000358.jpg</field>
+<field name="snippet">he says governments can no longer put off taking urgent action to reduce global warming. sir david says the current wildfires in australia are clear evidence of the consequences of rising temperatures. he's been speaking to our science editor, david shukman. the fires in australia</field>
+</doc>
+</add>

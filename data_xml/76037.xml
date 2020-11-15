@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190509_160000_BBC_News_at_Five#start/2174/end/2209</field>
+<field name="datetime">5/9/2019 16:36:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190509_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190509_160000_BBC_News_at_Five/BBCNEWS_20190509_160000_BBC_News_at_Five.thumbs/BBCNEWS_20190509_160000_BBC_News_at_Five_002158.jpg</field>
+<field name="snippet">sportsday, see you then. thanks very much. see you then. more than £1 billion a year will have to be invested in flood defences in england and in some cases entire communities will have to move to protect homes and infrastructure from the effects of climate change.</field>
+</doc>
+</add>

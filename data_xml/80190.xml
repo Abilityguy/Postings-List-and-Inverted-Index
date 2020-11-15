@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190525_100000_Fox_and_Friends_Saturday#start/3009/end/3044</field>
+<field name="datetime">5/25/2019 10:50:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20190525_100000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190525_100000_Fox_and_Friends_Saturday/FOXNEWSW_20190525_100000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20190525_100000_Fox_and_Friends_Saturday_002997.jpg</field>
+<field name="snippet">change. griff: now millennials are blaming climate change for their declining 401(k). michael brings them back to reality. that's coming up. we're carvana, the company who invented</field>
+</doc>
+</add>

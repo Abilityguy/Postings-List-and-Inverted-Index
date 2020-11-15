@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191223_000000_Newsday#start/1188/end/1223</field>
+<field name="datetime">12/23/2019 0:20:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191223_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191223_000000_Newsday/BBCNEWS_20191223_000000_Newsday.thumbs/BBCNEWS_20191223_000000_Newsday_001168.jpg</field>
+<field name="snippet">morrison, the prime minister, says that australians say that he expects -- australian say he they expect him to keep his promises. australians, if they're hoping for the government to embark on ambitious new climate change policies, under the current government, i think they will be</field>
+</doc>
+</add>

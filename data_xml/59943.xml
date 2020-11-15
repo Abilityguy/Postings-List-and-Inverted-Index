@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181015_050000_Breakfast#start/2026/end/2061</field>
+<field name="datetime">10/15/2018 5:34:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181015_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181015_050000_Breakfast/BBCNEWS_20181015_050000_Breakfast.thumbs/BBCNEWS_20181015_050000_Breakfast_002007.jpg</field>
+<field name="snippet">of greenhouse gases fall to zero. the government is seeking guidance from its advisors, the climate change committee about how and when this leap can be made. if it happens it would mark a dramatic change of an economy built on the burning of fossil fuels. here's our environment</field>
+</doc>
+</add>

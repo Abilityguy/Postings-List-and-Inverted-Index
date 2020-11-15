@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190511_193000_Lula#start/163/end/198</field>
+<field name="datetime">5/11/2019 19:32:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Lula</field>
+<field name="showid">BBCNEWS_20190511_193000_Lula</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190511_193000_Lula/BBCNEWS_20190511_193000_Lula.thumbs/BBCNEWS_20190511_193000_Lula_000149.jpg</field>
+<field name="snippet">hello, this is bbc news. the headlines. the un says houthi rebels in yemen appear to be honouring a pledge to withdraw troops from key ports, opening a lifeline for millions of people facing famine. concerns over climate change</field>
+</doc>
+</add>

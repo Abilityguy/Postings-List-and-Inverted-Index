@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201010.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101024_110000_Hardball_Weekend#start/1314/end/1349</field>
+<field name="datetime">10/24/2010 11:22:09</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball Weekend</field>
+<field name="showid">MSNBC_20101024_110000_Hardball_Weekend</field>
+<field name="preview">https://archive.org/download/MSNBC_20101024_110000_Hardball_Weekend/MSNBC_20101024_110000_Hardball_Weekend.thumbs/MSNBC_20101024_110000_Hardball_Weekend_001314.jpg</field>
+<field name="snippet">up next, the republican party continues to celebrate its contention that global warming is a hoax. i tell you, these people are unbelievable. you are watching 'hardball' on msnbc. so, get this --  _</field>
+</doc>
+</add>

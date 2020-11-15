@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201304.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130409_090000_First_Look#start/888/end/923</field>
+<field name="datetime">4/9/2013 9:15:03</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20130409_090000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130409_090000_First_Look/MSNBCW_20130409_090000_First_Look.thumbs/MSNBCW_20130409_090000_First_Look_000886.jpg</field>
+<field name="snippet">getting bumpier thanks to global warming changes. that's according to the international energy agency, which also says carbon dioxide emissions will require longer flights and require more jet fuel by 2050. sequester budget cuts could delay the federal terrorism trial of osama bin laden's</field>
+</doc>
+</add>

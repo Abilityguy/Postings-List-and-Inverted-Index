@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200101_070000_Breakfast#start/1185/end/1220</field>
+<field name="datetime">1/1/2020 7:20:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20200101_070000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200101_070000_Breakfast/BBCNEWS_20200101_070000_Breakfast.thumbs/BBCNEWS_20200101_070000_Breakfast_001167.jpg</field>
+<field name="snippet">for the next decade. prince william, planning and award with regards to trying to get the conversation about climate change happening.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201611.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161123_160000_MSNBC_Live_With_Tamron_Hall#start/3621/end/3656</field>
+<field name="datetime">11/23/2016 17:00:36</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Tamron Hall</field>
+<field name="showid">MSNBCW_20161123_160000_MSNBC_Live_With_Tamron_Hall</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161123_160000_MSNBC_Live_With_Tamron_Hall/MSNBCW_20161123_160000_MSNBC_Live_With_Tamron_Hall.thumbs/MSNBCW_20161123_160000_MSNBC_Live_With_Tamron_Hall_003597.jpg</field>
+<field name="snippet">the president-elect says he's now open to the international agreement on climate change and a total shift on a key campaign threat to prosecute hillary clinton. she should be in prison. she has to go to jail.</field>
+</doc>
+</add>

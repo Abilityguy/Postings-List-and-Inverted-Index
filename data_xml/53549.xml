@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201302.csv</field>
+<field name="url">https://archive.org/details/CNNW_20130210_100000_Piers_Morgan_Tonight#start/1834/end/1869</field>
+<field name="datetime">2/10/2013 10:30:49</field>
+<field name="station">CNN</field>
+<field name="show">Piers Morgan Tonight</field>
+<field name="showid">CNNW_20130210_100000_Piers_Morgan_Tonight</field>
+<field name="preview">https://archive.org/download/CNNW_20130210_100000_Piers_Morgan_Tonight/CNNW_20130210_100000_Piers_Morgan_Tonight.thumbs/CNNW_20130210_100000_Piers_Morgan_Tonight_001815.jpg</field>
+<field name="snippet">a crucial mission as climate change threatens to intensify the storms ahead. next, what the polar icecap is telling us about how damaging those storms could be. next, what the polar icecap is</field>
+</doc>
+</add>

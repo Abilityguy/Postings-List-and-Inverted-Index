@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190612_180000_Beyond_100_Days#start/2063/end/2098</field>
+<field name="datetime">6/12/2019 18:34:38</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20190612_180000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190612_180000_Beyond_100_Days/BBCNEWS_20190612_180000_Beyond_100_Days.thumbs/BBCNEWS_20190612_180000_Beyond_100_Days_002039.jpg</field>
+<field name="snippet">well, china is the biggest emitter of greenhouse gases, dwarfing whatever we produce. but it's also investing the most in clean technologies, with the world's biggest fleets of electric buses. even so, the chinese economy and others are set to quadruple in size.</field>
+</doc>
+</add>

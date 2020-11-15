@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201306.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130621_220000_Special_Report_With_Bret_Baier#start/1034/end/1069</field>
+<field name="datetime">6/21/2013 22:17:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20130621_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130621_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20130621_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20130621_220000_Special_Report_With_Bret_Baier_001035.jpg</field>
+<field name="snippet">approaching, the debate rages on about whether obama care will work and how much it will cost. chris? jim, thank you. we're expecting to learn soon what president obama's latest moves will be to fight what he considers the serious threat of climate change.</field>
+</doc>
+</add>

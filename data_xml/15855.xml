@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201106.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110630_070000_Red_Eye#start/226/end/261</field>
+<field name="datetime">6/30/2011 7:04:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20110630_070000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110630_070000_Red_Eye/FOXNEWS_20110630_070000_Red_Eye.thumbs/FOXNEWS_20110630_070000_Red_Eye_000210.jpg</field>
+<field name="snippet">one concern is what type of education will it be? will it be fact based or theory based. it is usually politically driven. it is going to be about global warming or climate change. that will never happen.</field>
+</doc>
+</add>

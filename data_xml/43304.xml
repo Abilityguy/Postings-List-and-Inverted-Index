@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090925_100000_FOX_and_Friends#start/699/end/734</field>
+<field name="datetime">9/25/2009 10:11:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20090925_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090925_100000_FOX_and_Friends/FOXNEWS_20090925_100000_FOX_and_Friends.thumbs/FOXNEWS_20090925_100000_FOX_and_Friends_000688.jpg</field>
+<field name="snippet">he is expanding the number of countries tackling global economic issues. 19 countries will join the european union to join a new global forum. the g-2 owill focus on climate change. the g-8 will continue to focus</field>
+</doc>
+</add>

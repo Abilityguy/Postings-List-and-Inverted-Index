@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151228_070000_Meet_the_Press#start/313/end/348</field>
+<field name="datetime">12/28/2015 7:05:28</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20151228_070000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151228_070000_Meet_the_Press/MSNBCW_20151228_070000_Meet_the_Press.thumbs/MSNBCW_20151228_070000_Meet_the_Press_000286.jpg</field>
+<field name="snippet">why is it that we're not effectively addressing the fact that climate change is absolutely real? i am in burlington, vermont, right now. nobody can recall a christmas eve the likes of which we have seen where the temperature was 65 degrees.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100108_090000_Special_Report_With_Bret_Baier#start/30/end/65</field>
+<field name="datetime">1/8/2010 9:00:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100108_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100108_090000_Special_Report_With_Bret_Baier/FOXNEWS_20100108_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100108_090000_Special_Report_With_Bret_Baier_000026.jpg</field>
+<field name="snippet">part four of jim angle's series. why some of the government's eyes in the skies are tracking global warming and not terrorism. all that plus the fox all-stars right here, right all-stars right here, right now. captioned by closed captioning services, inc</field>
+</doc>
+</add>

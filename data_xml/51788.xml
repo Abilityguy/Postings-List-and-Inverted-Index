@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181201_010000_BBC_News#start/410/end/445</field>
+<field name="datetime">12/1/2018 1:07:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181201_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181201_010000_BBC_News/BBCNEWS_20181201_010000_BBC_News.thumbs/BBCNEWS_20181201_010000_BBC_News_000387.jpg</field>
+<field name="snippet">global warming. the fbi and britain's national crime agency are investigating a mass data breach on the marriott hotel group which may have affected as many as 500 million people.</field>
+</doc>
+</add>

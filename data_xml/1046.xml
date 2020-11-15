@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170528_013000_Dateline_London#start/1683/end/1718</field>
+<field name="datetime">5/28/2017 1:58:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Dateline London</field>
+<field name="showid">BBCNEWS_20170528_013000_Dateline_London</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170528_013000_Dateline_London/BBCNEWS_20170528_013000_Dateline_London.thumbs/BBCNEWS_20170528_013000_Dateline_London_001677.jpg</field>
+<field name="snippet">caught on cctv. tens of thousands of passengers stranded around the world, but british airways says it will get services running again on sunday. no commitment on climate change. president trump refuses to say</field>
+</doc>
+</add>

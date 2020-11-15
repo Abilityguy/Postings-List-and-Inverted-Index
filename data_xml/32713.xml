@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091208_000000_The_FOX_Report_With_Shepard_Smith#start/1034/end/1069</field>
+<field name="datetime">12/8/2009 0:17:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The FOX Report With Shepard Smith</field>
+<field name="showid">FOXNEWS_20091208_000000_The_FOX_Report_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091208_000000_The_FOX_Report_With_Shepard_Smith/FOXNEWS_20091208_000000_The_FOX_Report_With_Shepard_Smith.thumbs/FOXNEWS_20091208_000000_The_FOX_Report_With_Shepard_Smith_001014.jpg</field>
+<field name="snippet">gibbs says the epa was simply complying with the ruling of the supreme court. this is part of a process that started more than two years ago with the supreme court finding that the epa should regulate greenhouse gases that</field>
+</doc>
+</add>

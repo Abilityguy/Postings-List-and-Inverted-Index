@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190923_100000_BBC_Newsroom_Live#start/5651/end/5686</field>
+<field name="datetime">9/23/2019 11:34:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190923_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190923_100000_BBC_Newsroom_Live/BBCNEWS_20190923_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190923_100000_BBC_Newsroom_Live_005638.jpg</field>
+<field name="snippet">asked you where you were when other people are left to sleep on the streets, when families queued at food banks to survive, when the tories try to sell our country out to trump, when climate change threatens our planet and our very</field>
+</doc>
+</add>

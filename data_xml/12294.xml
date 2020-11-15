@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170708_205000_BBC_News#start/66/end/101</field>
+<field name="datetime">7/8/2017 20:51:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170708_205000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170708_205000_BBC_News/BBCNEWS_20170708_205000_BBC_News.thumbs/BBCNEWS_20170708_205000_BBC_News_000027.jpg</field>
+<field name="snippet">share the spoils as they draw the test series in new zealand. good evening. the 620 summit has drawn to a close in germany, with donald trump claiming victories on trade and climate change.</field>
+</doc>
+</add>

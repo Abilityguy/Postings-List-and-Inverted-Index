@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201003.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100312_150000_MSNBC_News_Live#start/571/end/606</field>
+<field name="datetime">3/12/2010 15:09:46</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100312_150000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100312_150000_MSNBC_News_Live/MSNBC_20100312_150000_MSNBC_News_Live.thumbs/MSNBC_20100312_150000_MSNBC_News_Live_000567.jpg</field>
+<field name="snippet">david, after almost a year, okay, is can the mayor of baltimore's daughter, nancy pelosi, who has been one of the most amazing vote getters in her tenure here, climate change, stimulus, health care one, can</field>
+</doc>
+</add>

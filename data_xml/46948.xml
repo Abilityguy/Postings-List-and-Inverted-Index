@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201803.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180325_000000_BBC_News#start/1483/end/1518</field>
+<field name="datetime">3/25/2018 0:24:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180325_000000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180325_000000_BBC_News/BBCNEWS_20180325_000000_BBC_News.thumbs/BBCNEWS_20180325_000000_BBC_News_001467.jpg</field>
+<field name="snippet">it is the peaktime broster tried to push through. it is my time, it is now or never, and i will do everything i can to try to do it. cities around the world have been marking earth hour - an environmental campaign which invites people to come together to make a contribution to tackling climate change. one of the ways that's being done</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200102_180000_BBC_News_at_Six#start/1130/end/1165</field>
+<field name="datetime">1/2/2020 18:19:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20200102_180000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200102_180000_BBC_News_at_Six/BBCNEWS_20200102_180000_BBC_News_at_Six.thumbs/BBCNEWS_20200102_180000_BBC_News_at_Six_001107.jpg</field>
+<field name="snippet">earlier, we saw how climate change is playing its part in the australian emergency. thousands of miles away, in southern africa, the people of zambia are in the midst of a devastating drought that experts say is caused by a dramatic shift in weather patterns. temperatures in the region</field>
+</doc>
+</add>

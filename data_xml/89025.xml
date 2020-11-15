@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190620_130000_Afternoon_Live#start/2991/end/3026</field>
+<field name="datetime">6/20/2019 13:50:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190620_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190620_130000_Afternoon_Live/BBCNEWS_20190620_130000_Afternoon_Live.thumbs/BBCNEWS_20190620_130000_Afternoon_Live_002968.jpg</field>
+<field name="snippet">scientists say that climate change is the main cause of this rapid melt. temperatures have risen by one celsius compared with the end of the last century, leaving the area dramatically altered, and this could have a major</field>
+</doc>
+</add>

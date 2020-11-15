@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191209_133000_BBC_News#start/1282/end/1317</field>
+<field name="datetime">12/9/2019 13:51:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191209_133000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191209_133000_BBC_News/BBCNEWS_20191209_133000_BBC_News.thumbs/BBCNEWS_20191209_133000_BBC_News_001258.jpg</field>
+<field name="snippet">the most polluting firms are likely to lose 43% of their value by 2025 thanks to policies designed to combat climate change, a report says. meanwhile, the most progressive companies will see an uplift of 33% in their value. the forecast was commissioned by the un-backed principles for responsible investment, which comes as world leaders gather in madrid for the un's cop 25 conference on climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201612.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161208_160000_MSNBC_Live_With_Tamron_Hall#start/325/end/360</field>
+<field name="datetime">12/8/2016 16:05:40</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Tamron Hall</field>
+<field name="showid">MSNBCW_20161208_160000_MSNBC_Live_With_Tamron_Hall</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161208_160000_MSNBC_Live_With_Tamron_Hall/MSNBCW_20161208_160000_MSNBC_Live_With_Tamron_Hall.thumbs/MSNBCW_20161208_160000_MSNBC_Live_With_Tamron_Hall_000297.jpg</field>
+<field name="snippet">you read, tamron. one more from ed markey who said denying the science of climate change and carrying water for big oil make him unsuitable to lead the epa. i think some will not pick a fight on every nominee certainly</field>
+</doc>
+</add>

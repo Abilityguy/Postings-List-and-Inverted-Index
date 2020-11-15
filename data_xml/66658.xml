@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201411.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20141113_080000_All_In_With_Chris_Hayes#start/62/end/97</field>
+<field name="datetime">11/13/2014 8:01:17</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20141113_080000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20141113_080000_All_In_With_Chris_Hayes/MSNBCW_20141113_080000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20141113_080000_All_In_With_Chris_Hayes_000046.jpg</field>
+<field name="snippet">and he joins me tonight. plus human beings have landed a spaceship on a comet. [ cheers ] we'll tell you how they did it. back here on planet earth -- we have a special responsibility to lead the global effort against climate</field>
+</doc>
+</add>

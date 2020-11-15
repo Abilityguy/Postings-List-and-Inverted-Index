@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201111.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111130_140000_Americas_Newsroom#start/5745/end/5780</field>
+<field name="datetime">11/30/2011 15:36:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWSW_20111130_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111130_140000_Americas_Newsroom/FOXNEWSW_20111130_140000_Americas_Newsroom.thumbs/FOXNEWSW_20111130_140000_Americas_Newsroom_005726.jpg</field>
+<field name="snippet">that global warming ad, where governor romney essentially took a shot back at newt gingrich. this is a different moment. i think we are entering a different stepped up intensity of this campaign as we close in on the iowa caucuses.</field>
+</doc>
+</add>

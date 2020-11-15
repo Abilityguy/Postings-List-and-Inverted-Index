@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190502_050000_Breakfast#start/7646/end/7681</field>
+<field name="datetime">5/2/2019 7:07:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190502_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190502_050000_Breakfast/BBCNEWS_20190502_050000_Breakfast.thumbs/BBCNEWS_20190502_050000_Breakfast_007647.jpg</field>
+<field name="snippet">the uk should lead the world away from dangerous climate change, by cutting greenhouse gases to virtually zero by 2050, according to a new report. the committee on climate change, which is the government's official</field>
+</doc>
+</add>

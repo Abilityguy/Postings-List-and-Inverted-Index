@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190922_100000_Fox_and_Friends_Sunday#start/5101/end/5136</field>
+<field name="datetime">9/22/2019 11:25:16</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20190922_100000_Fox_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190922_100000_Fox_and_Friends_Sunday/FOXNEWSW_20190922_100000_Fox_and_Friends_Sunday.thumbs/FOXNEWSW_20190922_100000_Fox_and_Friends_Sunday_005098.jpg</field>
+<field name="snippet">the box office. we've been telling you about millions across the country demanding action on climate change on friday. and apparently it's causing real stress for the protesters now joining climate anxiety support groups.</field>
+</doc>
+</add>

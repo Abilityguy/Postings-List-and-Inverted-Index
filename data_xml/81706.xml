@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091209_160000_MSNBC_News_Live#start/1165/end/1200</field>
+<field name="datetime">12/9/2009 16:19:40</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091209_160000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091209_160000_MSNBC_News_Live/MSNBC_20091209_160000_MSNBC_News_Live.thumbs/MSNBC_20091209_160000_MSNBC_News_Live_001134.jpg</field>
+<field name="snippet">someone who says climate change is not happening. she's not clear how much is man made and how much is the cycle. at the same time she is one of the harshest critics of those who want to implement restrictions. alaska a big oil producing state</field>
+</doc>
+</add>

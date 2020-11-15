@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201912.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191205_150000_MSNBC_Live_With_Hallie_Jackson#start/3148/end/3183</field>
+<field name="datetime">12/5/2019 15:52:43</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Hallie Jackson</field>
+<field name="showid">MSNBCW_20191205_150000_MSNBC_Live_With_Hallie_Jackson</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191205_150000_MSNBC_Live_With_Hallie_Jackson/MSNBCW_20191205_150000_MSNBC_Live_With_Hallie_Jackson.thumbs/MSNBCW_20191205_150000_MSNBC_Live_With_Hallie_Jackson_003148.jpg</field>
+<field name="snippet">the country, in the private sector and in the public sector, americans are still in. our children know better because some of the leaders in washington, d.c., the urgency of the climate crisis is a public</field>
+</doc>
+</add>

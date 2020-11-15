@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201807.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180729_030000_BBC_News#start/198/end/233</field>
+<field name="datetime">7/29/2018 3:03:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180729_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180729_030000_BBC_News/BBCNEWS_20180729_030000_BBC_News.thumbs/BBCNEWS_20180729_030000_BBC_News_000207.jpg</field>
+<field name="snippet">and man-made climate change are to blame, and the immediate forecast is worrying too - more hot, dry, dangerous weather is on the way. james cook, bbc news, los angeles.</field>
+</doc>
+</add>

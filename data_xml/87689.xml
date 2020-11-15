@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191207_010000_BBC_News#start/1287/end/1322</field>
+<field name="datetime">12/7/2019 1:21:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191207_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191207_010000_BBC_News/BBCNEWS_20191207_010000_BBC_News.thumbs/BBCNEWS_20191207_010000_BBC_News_001287.jpg</field>
+<field name="snippet">believe there will be a sudden or significant breakthrough. climate change is being cited as making wildfires in australia more common. officials are warning they can't put out a 'mega blaze' raging across a 60 kilometre front, just an hour's drive from sydney.</field>
+</doc>
+</add>

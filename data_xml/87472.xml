@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191214_100000_BBC_News#start/2280/end/2315</field>
+<field name="datetime">12/14/2019 10:38:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191214_100000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191214_100000_BBC_News/BBCNEWS_20191214_100000_BBC_News.thumbs/BBCNEWS_20191214_100000_BBC_News_002277.jpg</field>
+<field name="snippet">embracing ambitious new climate change targets. some progress has been made, more than 80 countries promising bolder cuts in carbon emissions by the end of next year, but they only represent 10% of the global picture.</field>
+</doc>
+</add>

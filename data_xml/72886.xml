@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201412.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20141218_010000_All_In_With_Chris_Hayes#start/3291/end/3326</field>
+<field name="datetime">12/18/2014 1:55:06</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20141218_010000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20141218_010000_All_In_With_Chris_Hayes/MSNBCW_20141218_010000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20141218_010000_All_In_With_Chris_Hayes_003285.jpg</field>
+<field name="snippet">republican refrain on climate change. i've always been pretty consistent. i'm not a scientist. i'm not a scientist. i'm not a scientist. well, listen, i'm not qualified to debate the science over climate change. i'm not a scientist. it's true.</field>
+</doc>
+</add>

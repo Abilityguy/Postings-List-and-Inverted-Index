@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201607.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160701_150000_MSNBC_Live#start/3321/end/3356</field>
+<field name="datetime">7/1/2016 15:55:36</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20160701_150000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160701_150000_MSNBC_Live/MSNBCW_20160701_150000_MSNBC_Live.thumbs/MSNBCW_20160701_150000_MSNBC_Live_003297.jpg</field>
+<field name="snippet">scientists have been trying to figure out why so many of the country's honey bees have been dying. honey bees are a crucial part of our food chain, but the population in the u.s. has been declining at an alarming rate. some believe climate change partly to blame, but scientists and bee farmers are now pointing</field>
+</doc>
+</add>

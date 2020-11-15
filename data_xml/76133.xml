@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190502_220000_BBC_News#start/9/end/44</field>
+<field name="datetime">5/2/2019 22:00:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190502_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190502_220000_BBC_News/BBCNEWS_20190502_220000_BBC_News.thumbs/BBCNEWS_20190502_220000_BBC_News_000029.jpg</field>
+<field name="snippet">a this is bbc news. the headlines. turn down the heating, eat less meat, switch to electric cars, fly less - what we all need to do to slash greenhouse gas emissions by 2050. the prime minister says the case is closed after</field>
+</doc>
+</add>

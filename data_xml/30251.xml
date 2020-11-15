@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201508.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150803_170000_MSNBC_Live_With_Thomas_Roberts#start/4629/end/4664</field>
+<field name="datetime">8/3/2015 18:17:24</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Thomas Roberts</field>
+<field name="showid">MSNBCW_20150803_170000_MSNBC_Live_With_Thomas_Roberts</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150803_170000_MSNBC_Live_With_Thomas_Roberts/MSNBCW_20150803_170000_MSNBC_Live_With_Thomas_Roberts.thumbs/MSNBCW_20150803_170000_MSNBC_Live_With_Thomas_Roberts_004606.jpg</field>
+<field name="snippet">about the future that we're predicting for our children or our grandchildren. it is about the reality we're living with every day right now. the pentagon says that climate change poses immediate risks to our national security.</field>
+</doc>
+</add>

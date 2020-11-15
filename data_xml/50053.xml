@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181205_110000_FOX__Friends#start/1060/end/1095</field>
+<field name="datetime">12/5/2018 11:17:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20181205_110000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181205_110000_FOX__Friends/FOXNEWSW_20181205_110000_FOX__Friends.thumbs/FOXNEWSW_20181205_110000_FOX__Friends_001048.jpg</field>
+<field name="snippet">brain brian this is the one of the biggest stories happening this week. after weeks of violent protest the french governor is suspending a carbon tax designed to fight climate change. the working and middle class protesters are accused of president macron's policies</field>
+</doc>
+</add>

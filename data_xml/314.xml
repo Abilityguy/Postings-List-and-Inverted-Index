@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201301.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130121_160000_Presidential_Inauguration_2013#start/3839/end/3874</field>
+<field name="datetime">1/21/2013 17:04:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Presidential Inauguration 2013</field>
+<field name="showid">FOXNEWSW_20130121_160000_Presidential_Inauguration_2013</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130121_160000_Presidential_Inauguration_2013/FOXNEWSW_20130121_160000_Presidential_Inauguration_2013.thumbs/FOXNEWSW_20130121_160000_Presidential_Inauguration_2013_003825.jpg</field>
+<field name="snippet">we will respond to the threat of climate change. knowing to do so would affect our children in the future. some deny the overwhelming judgment of science.</field>
+</doc>
+</add>

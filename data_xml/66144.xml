@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190201_010000_Tucker_Carlson_Tonight#start/50/end/85</field>
+<field name="datetime">2/1/2019 1:01:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190201_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190201_010000_Tucker_Carlson_Tonight/FOXNEWSW_20190201_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190201_010000_Tucker_Carlson_Tonight_000028.jpg</field>
+<field name="snippet">stay outside for any length of time and you will die and a number of people did in that region they were found froze to death in the last few days. meteorologists and this is the good news say it will warm up soon. climate change will continue as it always has. spring will come. but this is a good reminder of something.</field>
+</doc>
+</add>

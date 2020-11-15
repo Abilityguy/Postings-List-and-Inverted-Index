@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180912_210000_BBC_News_at_Ten#start/1223/end/1258</field>
+<field name="datetime">9/12/2018 21:20:38</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20180912_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180912_210000_BBC_News_at_Ten/BBCNEWS_20180912_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20180912_210000_BBC_News_at_Ten_001198.jpg</field>
+<field name="snippet">benefits the environment. for example, protecting wildlife, improving air and water quality, and tackling climate change. for any business to start losing 40% of its income is a huge hit. we are going to have</field>
+</doc>
+</add>

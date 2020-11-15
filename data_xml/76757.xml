@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190515_080000_BBC_News_at_Nine#start/1889/end/1924</field>
+<field name="datetime">5/15/2019 8:31:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190515_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190515_080000_BBC_News_at_Nine/BBCNEWS_20190515_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190515_080000_BBC_News_at_Nine_001888.jpg</field>
+<field name="snippet">on the stories people are watching, reading and sharing. bafta is calling for tv shows to have more plot lines and references to climate change, to help raise awareness of the issue. the academy analysed 40 uk channels and found that it was mentioned</field>
+</doc>
+</add>

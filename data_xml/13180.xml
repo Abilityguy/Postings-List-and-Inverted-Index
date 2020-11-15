@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201101.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110129_080000_Red_Eye#start/488/end/523</field>
+<field name="datetime">1/29/2011 8:08:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20110129_080000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110129_080000_Red_Eye/FOXNEWS_20110129_080000_Red_Eye.thumbs/FOXNEWS_20110129_080000_Red_Eye_000480.jpg</field>
+<field name="snippet">everybody. last word, bill? yeah, well gang -- gangis-kahn did it and affected climate change. if you want the power get out there and get horses together</field>
+</doc>
+</add>

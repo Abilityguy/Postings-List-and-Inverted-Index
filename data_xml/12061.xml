@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190824_100000_BBC_News#start/171/end/206</field>
+<field name="datetime">8/24/2019 10:03:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190824_100000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190824_100000_BBC_News/BBCNEWS_20190824_100000_BBC_News.thumbs/BBCNEWS_20190824_100000_BBC_News_000147.jpg</field>
+<field name="snippet">leaders, who are expected to discuss climate change, global trade tensions in the gulf and, yes, brexit. the prime minister will use the summit to try to reaffirm britain's international credentials, saying the uk will not retreat from the world after brexit, but will instead remain at the heart of international alliances.</field>
+</doc>
+</add>

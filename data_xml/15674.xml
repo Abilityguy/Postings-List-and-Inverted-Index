@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201104.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110422_100000_FOX_and_Friends#start/1491/end/1526</field>
+<field name="datetime">4/22/2011 10:25:06</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20110422_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110422_100000_FOX_and_Friends/FOXNEWS_20110422_100000_FOX_and_Friends.thumbs/FOXNEWS_20110422_100000_FOX_and_Friends_001470.jpg</field>
+<field name="snippet">so the scare tactics that we have seen in media or from the administration and the president talking about the green house gases and global warming and stuff like that, that's not the right approach. clearly it's not. we've been trying that approach for 20 years. all it's managed to do is two</field>
+</doc>
+</add>

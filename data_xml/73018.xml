@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190124_090000_BBC_News_at_9#start/2257/end/2292</field>
+<field name="datetime">1/24/2019 9:37:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20190124_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190124_090000_BBC_News_at_9/BBCNEWS_20190124_090000_BBC_News_at_9.thumbs/BBCNEWS_20190124_090000_BBC_News_at_9_002248.jpg</field>
+<field name="snippet">that the health secretary, matt hancock, is due to unveil a new five-year plan to tackle the problem of drug-resista nt superbugs. the chief executive of antibiotic research uk - professor colin garner - has been speaking to bbc radio 5 live, agreeing with mr hancock that our resistance to antibiotics is as big a risk as climate change.</field>
+</doc>
+</add>

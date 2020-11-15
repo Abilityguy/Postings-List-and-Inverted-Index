@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201005.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100513_100000_FOX_and_Friends#start/7226/end/7261</field>
+<field name="datetime">5/13/2010 12:00:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100513_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100513_100000_FOX_and_Friends/FOXNEWS_20100513_100000_FOX_and_Friends.thumbs/FOXNEWS_20100513_100000_FOX_and_Friends_007225.jpg</field>
+<field name="snippet">to release this video? it's going to take a big cork. al gore has a new $9 million house, so is all of his global warming talk really about his wallet and not saving the</field>
+</doc>
+</add>

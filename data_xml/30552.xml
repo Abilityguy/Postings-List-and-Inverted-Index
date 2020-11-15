@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.202001.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20200101_000000#start/1516/end/1551</field>
+<field name="datetime">1/1/2020 0:25:31</field>
+<field name="station">MSNBC</field>
+<field name="show"></field>
+<field name="showid">MSNBCW_20200101_000000</field>
+<field name="preview">https://archive.org/download/MSNBCW_20200101_000000/MSNBCW_20200101_000000.thumbs/MSNBCW_20200101_000000_000809.jpg</field>
+<field name="snippet">they are relying on adults to be adults, and i think it's critical for us to have a new discussion about health which is being affected by climate change, about our national security which will be hugely affected and finally about jobs and the possibilities of a very</field>
+</doc>
+</add>

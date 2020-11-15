@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201601.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160112_090000_The_Rachel_Maddow_Show#start/2590/end/2625</field>
+<field name="datetime">1/12/2016 9:43:25</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBCW_20160112_090000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160112_090000_The_Rachel_Maddow_Show/MSNBCW_20160112_090000_The_Rachel_Maddow_Show.thumbs/MSNBCW_20160112_090000_The_Rachel_Maddow_Show_002566.jpg</field>
+<field name="snippet">this is the greenhouse gas equivalent of driving 7 million cars every day. bloomberg news says that the leak is releasing enough methane to fill the entire empire state building every day. and it's been leaking like this since october.</field>
+</doc>
+</add>

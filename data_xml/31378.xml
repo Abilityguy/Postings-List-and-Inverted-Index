@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090709_150000_Happening_Now#start/6314/end/6349</field>
+<field name="datetime">7/9/2009 16:45:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20090709_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090709_150000_Happening_Now/FOXNEWS_20090709_150000_Happening_Now.thumbs/FOXNEWS_20090709_150000_Happening_Now_006296.jpg</field>
+<field name="snippet">in our house of representatives, we just passed the first climate change legislation that will cut carbon collusiopollution by 80%. these are very significant steps in the united states.</field>
+</doc>
+</add>

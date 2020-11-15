@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100217_230000_Special_Report_With_Bret_Baier#start/1400/end/1435</field>
+<field name="datetime">2/17/2010 23:23:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100217_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100217_230000_Special_Report_With_Bret_Baier/FOXNEWS_20100217_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100217_230000_Special_Report_With_Bret_Baier_001350.jpg</field>
+<field name="snippet">bret: there is of course heated debate whether man-made global warming is real and if it is, what should be done about it? the assault on the conventional wisdom continued 100 miles south of washington in richmond, virginia. correspondent molly henneberg reports an officer of the commonwealth is calling for</field>
+</doc>
+</add>

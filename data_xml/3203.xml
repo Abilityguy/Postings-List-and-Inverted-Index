@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201512.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151230_070000_On_the_Record_With_Greta_Van_Susteren#start/3624/end/3659</field>
+<field name="datetime">12/30/2015 8:00:39</field>
+<field name="station">FOXNEWS</field>
+<field name="show">On the Record With Greta Van Susteren</field>
+<field name="showid">FOXNEWSW_20151230_070000_On_the_Record_With_Greta_Van_Susteren</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151230_070000_On_the_Record_With_Greta_Van_Susteren/FOXNEWSW_20151230_070000_On_the_Record_With_Greta_Van_Susteren.thumbs/FOXNEWSW_20151230_070000_On_the_Record_With_Greta_Van_Susteren_003615.jpg</field>
+<field name="snippet">and global warming leads to terrorism. we will test to see if it leads to migraines. first, a news break.</field>
+</doc>
+</add>

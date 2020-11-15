@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201907.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190730_140000_MSNBC_Live_With_Hallie_Jackson#start/454/end/489</field>
+<field name="datetime">7/30/2019 14:07:49</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Hallie Jackson</field>
+<field name="showid">MSNBCW_20190730_140000_MSNBC_Live_With_Hallie_Jackson</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190730_140000_MSNBC_Live_With_Hallie_Jackson/MSNBCW_20190730_140000_MSNBC_Live_With_Hallie_Jackson.thumbs/MSNBCW_20190730_140000_MSNBC_Live_With_Hallie_Jackson_000447.jpg</field>
+<field name="snippet">voters, is impeachment an inch for them? yes. is it top of mind concern? no, it is not. there are issues from health care, climate change to this question about division. look, division and racism isn't</field>
+</doc>
+</add>

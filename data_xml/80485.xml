@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190402_040000_Tucker_Carlson_Tonight#start/786/end/821</field>
+<field name="datetime">4/2/2019 4:13:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190402_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190402_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190402_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190402_040000_Tucker_Carlson_Tonight_000778.jpg</field>
+<field name="snippet">rich and well-meaning, this is one of the things you can start worrying about. global warming is a real problem, but it's not anywhere near the size of what most people lead you to believe. tucker: so maybe it's an easy problem for the richest in</field>
+</doc>
+</add>

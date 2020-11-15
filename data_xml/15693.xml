@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201112.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111201_160000_Happening_Now#start/4091/end/4126</field>
+<field name="datetime">12/1/2011 17:08:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20111201_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111201_160000_Happening_Now/FOXNEWSW_20111201_160000_Happening_Now.thumbs/FOXNEWSW_20111201_160000_Happening_Now_004076.jpg</field>
+<field name="snippet">what they seem to be doing right now. here's a look at a jon huntsman ad that involves that bret baier interview with mitt romney that you just mentioned. take a look at this. different issues; climate change --  _</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200114_133000_BBC_News#start/1106/end/1141</field>
+<field name="datetime">1/14/2020 13:48:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200114_133000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200114_133000_BBC_News/BBCNEWS_20200114_133000_BBC_News.thumbs/BBCNEWS_20200114_133000_BBC_News_001108.jpg</field>
+<field name="snippet">plumes have changed the colour of skies in south america, and visibly darkened mountaintop snow in new zealand. rich preston has more. as australia burns, this new report draws a direct link between the fires and man-made climate change. experts at britain's met office say what we are seeing now will become the new normal.</field>
+</doc>
+</add>

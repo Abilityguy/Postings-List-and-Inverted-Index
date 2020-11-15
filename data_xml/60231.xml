@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_010000_BBC_News#start/1737/end/1772</field>
+<field name="datetime">10/8/2018 1:29:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181008_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_010000_BBC_News/BBCNEWS_20181008_010000_BBC_News.thumbs/BBCNEWS_20181008_010000_BBC_News_001737.jpg</field>
+<field name="snippet">must act rapidly to prevent a dangerous rise in its temperature. the intergovernmental panel says massive changes will be needed to keep global warming to below 1.5 degrees celsius. these include changes to the food we eat and the way energy is generated. police in turkey are continuing</field>
+</doc>
+</add>

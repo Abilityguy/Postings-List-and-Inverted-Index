@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201306.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130625_130000_The_Daily_Rundown#start/158/end/193</field>
+<field name="datetime">6/25/2013 13:02:53</field>
+<field name="station">MSNBC</field>
+<field name="show">The Daily Rundown</field>
+<field name="showid">MSNBCW_20130625_130000_The_Daily_Rundown</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130625_130000_The_Daily_Rundown/MSNBCW_20130625_130000_The_Daily_Rundown.thumbs/MSNBCW_20130625_130000_The_Daily_Rundown_000136.jpg</field>
+<field name="snippet">campaign, you might be convinced the president would make climate change a legislative priority in his first term. as president, i will place a cap on carbon emissions and require companies who can't meet the cap to buy credits from those who can. i'll put in place a low carbon</field>
+</doc>
+</add>

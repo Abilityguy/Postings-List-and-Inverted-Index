@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201211.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121125_200000_Up_W_Chris_Hayes#start/6606/end/6641</field>
+<field name="datetime">11/25/2012 21:50:21</field>
+<field name="station">MSNBC</field>
+<field name="show">Up W Chris Hayes</field>
+<field name="showid">MSNBCW_20121125_200000_Up_W_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121125_200000_Up_W_Chris_Hayes/MSNBCW_20121125_200000_Up_W_Chris_Hayes.thumbs/MSNBCW_20121125_200000_Up_W_Chris_Hayes_006598.jpg</field>
+<field name="snippet">the onset of global climate change. the government has less food to donate to food banks.</field>
+</doc>
+</add>

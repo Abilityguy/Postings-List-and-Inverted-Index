@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091210_180000_The_Live_Desk#start/3766/end/3801</field>
+<field name="datetime">12/10/2009 19:03:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Live Desk</field>
+<field name="showid">FOXNEWS_20091210_180000_The_Live_Desk</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091210_180000_The_Live_Desk/FOXNEWS_20091210_180000_The_Live_Desk.thumbs/FOXNEWS_20091210_180000_The_Live_Desk_003710.jpg</field>
+<field name="snippet">defending their research on global warming. amy kellogg is watching us from london. the scientists are digging their heels into the research coming to the defense of the scientists who were accused of cooking the</field>
+</doc>
+</add>

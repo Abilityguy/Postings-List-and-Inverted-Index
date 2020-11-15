@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190519_010000_BBC_News#start/133/end/168</field>
+<field name="datetime">5/19/2019 1:02:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190519_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190519_010000_BBC_News/BBCNEWS_20190519_010000_BBC_News.thumbs/BBCNEWS_20190519_010000_BBC_News_000808.jpg</field>
+<field name="snippet">about climate change action. and just briefly, the counting is still going on, are we going to see an outright majority in the lower house for the conservatives or might they have a bit of a hung parliament on their hands?</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190511_070000_Breakfast#start/0/end/30</field>
+<field name="datetime">5/11/2019 7:00:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190511_070000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190511_070000_Breakfast/BBCNEWS_20190511_070000_Breakfast.thumbs/BBCNEWS_20190511_070000_Breakfast_001769.jpg</field>
+<field name="snippet">come back in an hour? i will. 00:29:38722 --> 4294966103:13:29430 stay with us, headlines coming up. hello, this is breakfast with charlie stayt and tina daheley. time to get a summary of this morning's main news. concerns over climate change might restrict the growth of flying in the uk, the government has admitted.</field>
+</doc>
+</add>

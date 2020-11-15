@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201511.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151103_090000_The_Rachel_Maddow_Show#start/307/end/342</field>
+<field name="datetime">11/3/2015 9:05:22</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBCW_20151103_090000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151103_090000_The_Rachel_Maddow_Show/MSNBCW_20151103_090000_The_Rachel_Maddow_Show.thumbs/MSNBCW_20151103_090000_The_Rachel_Maddow_Show_000285.jpg</field>
+<field name="snippet">about climate change, it seems like that movement, at least as of tonight, has won. at least it's gotten the company behind keystone to stop asking for it. joining us now is elana schor, energy reporter for politico.com. ms. schor, thank you for being here.</field>
+</doc>
+</add>

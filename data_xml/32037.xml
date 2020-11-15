@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201012.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101227_110000_FOX_and_Friends#start/2237/end/2272</field>
+<field name="datetime">12/27/2010 11:37:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20101227_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101227_110000_FOX_and_Friends/FOXNEWS_20101227_110000_FOX_and_Friends.thumbs/FOXNEWS_20101227_110000_FOX_and_Friends_002220.jpg</field>
+<field name="snippet">in new york. very rare to see or read. that's right. nothing like a massive blizzard to revive the debate about global warming. i mean, it has been the snowiest, coldest winter thus far, i think, in europe, for a</field>
+</doc>
+</add>

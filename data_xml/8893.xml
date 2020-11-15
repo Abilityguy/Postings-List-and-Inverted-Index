@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190814_070000_Fox_News__Night_With_Shannon_Bream#start/1859/end/1894</field>
+<field name="datetime">8/14/2019 7:31:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News  Night With Shannon Bream</field>
+<field name="showid">FOXNEWSW_20190814_070000_Fox_News__Night_With_Shannon_Bream</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190814_070000_Fox_News__Night_With_Shannon_Bream/FOXNEWSW_20190814_070000_Fox_News__Night_With_Shannon_Bream.thumbs/FOXNEWSW_20190814_070000_Fox_News__Night_With_Shannon_Bream_001860.jpg</field>
+<field name="snippet">soapbox at the iowa state fair. his plan includes a $50 billion investment in agricultural research and development to, quote, empower farmers to confront climate change.</field>
+</doc>
+</add>

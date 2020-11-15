@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201007.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100712_220000_Special_Report_With_Bret_Baier#start/2352/end/2387</field>
+<field name="datetime">7/12/2010 22:39:27</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100712_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100712_220000_Special_Report_With_Bret_Baier/FOXNEWS_20100712_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100712_220000_Special_Report_With_Bret_Baier_002334.jpg</field>
+<field name="snippet">what we're talking about is a cascade of new regulations that are resulting from the financial reform bill, the healthcare bill, pending energy climate change bill. it's going to take years and that's where you get in to the complete uncertainty</field>
+</doc>
+</add>

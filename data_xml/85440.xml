@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201011.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101117_110000_Morning_Joe#start/4733/end/4768</field>
+<field name="datetime">11/17/2010 12:19:08</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20101117_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20101117_110000_Morning_Joe/MSNBC_20101117_110000_Morning_Joe.thumbs/MSNBC_20101117_110000_Morning_Joe_004710.jpg</field>
+<field name="snippet">up next we'll check in with chuck todd. later -- i don't know what happened there. environmentalists call clean coal an oxymoron. but is the only solution to global warming? we'll talk about that, too.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201405.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140531_010000_The_Kelly_File#start/2017/end/2052</field>
+<field name="datetime">5/31/2014 1:33:52</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Kelly File</field>
+<field name="showid">FOXNEWSW_20140531_010000_The_Kelly_File</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140531_010000_The_Kelly_File/FOXNEWSW_20140531_010000_The_Kelly_File.thumbs/FOXNEWSW_20140531_010000_The_Kelly_File_001995.jpg</field>
+<field name="snippet">well, this coming monday we're expecting big news from the president as the white house unveils climate change measures. they will be a historic step forward toward fighting global warming. the chamber of commerce says it comes at an annual cost of $50</field>
+</doc>
+</add>

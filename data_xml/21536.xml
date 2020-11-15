@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100111_230000_Special_Report_With_Bret_Baier#start/497/end/532</field>
+<field name="datetime">1/11/2010 23:08:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100111_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100111_230000_Special_Report_With_Bret_Baier/FOXNEWS_20100111_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100111_230000_Special_Report_With_Bret_Baier_000476.jpg</field>
+<field name="snippet">world have many other people rethinking the theory of manmade global warming. correspondent james rosen explains. reporter: in florida, frozen orange crop will deplete the year's harvest by up to 10%. in the u.k., weathering its most biting cold since 1981,</field>
+</doc>
+</add>

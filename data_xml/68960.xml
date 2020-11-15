@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201211.csv</field>
+<field name="url">https://archive.org/details/CNNW_20121125_210000_CNN_Newsroom#start/1427/end/1462</field>
+<field name="datetime">11/25/2012 21:24:02</field>
+<field name="station">CNN</field>
+<field name="show">CNN Newsroom</field>
+<field name="showid">CNNW_20121125_210000_CNN_Newsroom</field>
+<field name="preview">https://archive.org/download/CNNW_20121125_210000_CNN_Newsroom/CNNW_20121125_210000_CNN_Newsroom.thumbs/CNNW_20121125_210000_CNN_Newsroom_001408.jpg</field>
+<field name="snippet">our weather and what's in the atmosphere. will scenes like these become more frequent? are storms like these the new norm? a recent report from the world meteorological organization has some frightening statistics about greenhouse gases.</field>
+</doc>
+</add>

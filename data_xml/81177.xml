@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091218_110000_Morning_Joe#start/49/end/84</field>
+<field name="datetime">12/18/2009 11:01:04</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20091218_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20091218_110000_Morning_Joe/MSNBC_20091218_110000_Morning_Joe.thumbs/MSNBC_20091218_110000_Morning_Joe_000068.jpg</field>
+<field name="snippet">the president, global warming, scientists and global warming. bad news for those that believe the world is getting warmer for man-made reasons. we'll talk to dr. saks about that and talk to john meacham about tiger woods.</field>
+</doc>
+</add>

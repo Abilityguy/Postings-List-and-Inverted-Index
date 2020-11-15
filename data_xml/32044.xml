@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201012.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101228_110000_FOX_and_Friends#start/1193/end/1228</field>
+<field name="datetime">12/28/2010 11:20:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20101228_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101228_110000_FOX_and_Friends/FOXNEWS_20101228_110000_FOX_and_Friends.thumbs/FOXNEWS_20101228_110000_FOX_and_Friends_001170.jpg</field>
+<field name="snippet">named my book climate gate because those climate gate e-mails has said since 1994, there's been no significant global warming. we just passed the warmest decade on record and that temperature increase you point to is an average on the global</field>
+</doc>
+</add>

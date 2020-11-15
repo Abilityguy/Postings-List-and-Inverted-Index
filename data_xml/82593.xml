@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201509.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150929_100000_FOX__Friends#start/7790/end/7825</field>
+<field name="datetime">9/29/2015 12:10:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20150929_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150929_100000_FOX__Friends/FOXNEWSW_20150929_100000_FOX__Friends.thumbs/FOXNEWSW_20150929_100000_FOX__Friends_007785.jpg</field>
+<field name="snippet">something but everybody should have an opportunity. do you think there are things that speaker boehner could have done to some of the executive orders and some of the things the president is doing and about to do especially when it comes to this global warming situation, the epa and some of his -- some of his environmental decisions? well, there's some things we</field>
+</doc>
+</add>

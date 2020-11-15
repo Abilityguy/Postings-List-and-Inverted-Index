@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201007.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100720_180000_MSNBC_News_Live#start/29/end/64</field>
+<field name="datetime">7/20/2010 18:00:44</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100720_180000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100720_180000_MSNBC_News_Live/MSNBC_20100720_180000_MSNBC_News_Live.thumbs/MSNBC_20100720_180000_MSNBC_News_Live_000027.jpg</field>
+<field name="snippet">above all, our alliance thrives because it advances our common interests, whether it's preventing the spread of nuclear weapons or securing vulnerable nuclear materials, thwarting terrorist attacks or confronting climate change or promoting</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201504.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150418_120000_Up_WSteve_Kornacki#start/1367/end/1402</field>
+<field name="datetime">4/18/2015 12:23:02</field>
+<field name="station">MSNBC</field>
+<field name="show">Up WSteve Kornacki</field>
+<field name="showid">MSNBCW_20150418_120000_Up_WSteve_Kornacki</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150418_120000_Up_WSteve_Kornacki/MSNBCW_20150418_120000_Up_WSteve_Kornacki.thumbs/MSNBCW_20150418_120000_Up_WSteve_Kornacki_001305.jpg</field>
+<field name="snippet">it's a big day in washington, d.c. for reasons that have nothing to do with the capitol or the white house. thousands expected to converge on the national maul today in celebration of earth day. not your average climate change rally but an event that will</field>
+</doc>
+</add>

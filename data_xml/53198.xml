@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201105.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110523_180000_News_Nation#start/2098/end/2133</field>
+<field name="datetime">5/23/2011 18:35:13</field>
+<field name="station">MSNBC</field>
+<field name="show">News Nation</field>
+<field name="showid">MSNBC_20110523_180000_News_Nation</field>
+<field name="preview">https://archive.org/download/MSNBC_20110523_180000_News_Nation/MSNBC_20110523_180000_News_Nation.thumbs/MSNBC_20110523_180000_News_Nation_000020.jpg</field>
+<field name="snippet">we're getting hail and high winds right now from texas, i believe, all the way through the midwest. is this a result of climate change or an effect of climate change? well, i can't speak for hurricanes, but for tornadoes and super cells, i don't think we can prove whether or not the</field>
+</doc>
+</add>

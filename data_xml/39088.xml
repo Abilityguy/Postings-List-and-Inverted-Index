@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100416_130000_Americas_Newsroom#start/1530/end/1565</field>
+<field name="datetime">4/16/2010 13:25:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20100416_130000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100416_130000_Americas_Newsroom/FOXNEWS_20100416_130000_Americas_Newsroom.thumbs/FOXNEWS_20100416_130000_Americas_Newsroom_001524.jpg</field>
+<field name="snippet">over $250000, top wage earners are going to pay $7500 for this bill. now, two more programs that we're looking at today, martha. one is the so-called carbon tax, the cap and trade bill passed under the house, under consideration in the</field>
+</doc>
+</add>

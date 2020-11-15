@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191205_000000_Newsday#start/898/end/933</field>
+<field name="datetime">12/5/2019 0:15:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191205_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191205_000000_Newsday/BBCNEWS_20191205_000000_Newsday.thumbs/BBCNEWS_20191205_000000_Newsday_000898.jpg</field>
+<field name="snippet">about the us president. climate change is causing birds to shrink and their wingspan is to grow. american scientist who analysed 40000 specimens of migratory birds found almost all</field>
+</doc>
+</add>

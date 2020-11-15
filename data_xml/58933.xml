@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181108_170000_BBC_News_at_Five#start/760/end/795</field>
+<field name="datetime">11/8/2018 17:12:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20181108_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181108_170000_BBC_News_at_Five/BBCNEWS_20181108_170000_BBC_News_at_Five.thumbs/BBCNEWS_20181108_170000_BBC_News_at_Five_000748.jpg</field>
+<field name="snippet">climate change through to matters of global food security and sustainable agriculture, the conservation of the tropical rainforests, how we can avoid a mass extinction of wildlife on planet earth in the coming decades. he has helped to lay the</field>
+</doc>
+</add>

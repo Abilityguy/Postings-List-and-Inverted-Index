@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190921_200000_Americas_News_HQ#start/1915/end/1950</field>
+<field name="datetime">9/21/2019 20:32:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20190921_200000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190921_200000_Americas_News_HQ/FOXNEWSW_20190921_200000_Americas_News_HQ.thumbs/FOXNEWSW_20190921_200000_Americas_News_HQ_001889.jpg</field>
+<field name="snippet">eric. eric: the united nations hosting first ever youth climate summit in new york city, comes one day after mass climate change protests occurred throughout the world. the summit today giving the young people a chance to present their solutions and engage with discussion makers and start here</field>
+</doc>
+</add>

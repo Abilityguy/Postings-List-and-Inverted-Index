@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190527_050000_Breakfast#start/2269/end/2304</field>
+<field name="datetime">5/27/2019 5:38:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190527_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190527_050000_Breakfast/BBCNEWS_20190527_050000_Breakfast.thumbs/BBCNEWS_20190527_050000_Breakfast_002248.jpg</field>
+<field name="snippet">the whole of europe. what is clear to me is that people want action and not words. that's on issues such as climate change where we are told we have 11 years to take positive</field>
+</doc>
+</add>

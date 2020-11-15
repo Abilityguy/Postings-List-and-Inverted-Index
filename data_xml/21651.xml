@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100111_230000_Special_Report_With_Bret_Baier#start/634/end/669</field>
+<field name="datetime">1/11/2010 23:10:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100111_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100111_230000_Special_Report_With_Bret_Baier/FOXNEWS_20100111_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100111_230000_Special_Report_With_Bret_Baier_000626.jpg</field>
+<field name="snippet">this surge in american skepticism came as the world leaders failed last month at a u.n. climate change conference in copenhagen to agree on legally binding cap for carbon emissions. pollster scott rasmussen told us americans traditionally</field>
+</doc>
+</add>

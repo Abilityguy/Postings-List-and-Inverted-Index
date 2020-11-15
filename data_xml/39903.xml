@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091129_110000_The_OReilly_Factor#start/1729/end/1764</field>
+<field name="datetime">11/29/2009 11:29:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20091129_110000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091129_110000_The_OReilly_Factor/FOXNEWS_20091129_110000_The_OReilly_Factor.thumbs/FOXNEWS_20091129_110000_The_OReilly_Factor_001710.jpg</field>
+<field name="snippet">all right, kim. this is a hit to the leaker or hacker who put some 3000 e-mails from england's climate research unit on the internet. crew is the spiritual home of the theory of man made global warming and these e-mails and documents have shown what many long suspected this is about</field>
+</doc>
+</add>

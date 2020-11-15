@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190813_000000_Tucker_Carlson_Tonight#start/2081/end/2116</field>
+<field name="datetime">8/13/2019 0:34:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190813_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190813_000000_Tucker_Carlson_Tonight/FOXNEWSW_20190813_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190813_000000_Tucker_Carlson_Tonight_001828.jpg</field>
+<field name="snippet">and then, tucker carlson puts down the fishing rod and joins us for a special segment. more coming up. mark: in 2006, al gore made a lot of bold predictions about what climate change could do to the world. in fact, he said that it could kill the world if we do not stop global warming by 2016.</field>
+</doc>
+</add>

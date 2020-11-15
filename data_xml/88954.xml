@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190627_100000_BBC_Newsroom_Live#start/4266/end/4301</field>
+<field name="datetime">6/27/2019 11:11:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190627_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190627_100000_BBC_Newsroom_Live/BBCNEWS_20190627_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190627_100000_BBC_Newsroom_Live_004258.jpg</field>
+<field name="snippet">anyone whojumps in, will be fined. earlier i spoke to our environment correspondent matt mcgrath from a climate change conference in bonn - he said the current heatwave was focusing the minds of delegates attending.</field>
+</doc>
+</add>

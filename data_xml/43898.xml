@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151212_170000_Weekends_With_Alex_Witt#start/84/end/119</field>
+<field name="datetime">12/12/2015 17:01:39</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20151212_170000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151212_170000_Weekends_With_Alex_Witt/MSNBCW_20151212_170000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20151212_170000_Weekends_With_Alex_Witt_000077.jpg</field>
+<field name="snippet">hey, there, everyone. high noon here in the east, and 9:00 a.m. in the west, and welcome to weekends with alex wi witt. in paris, negotiators are preparing for a final vote to adopt new rules on climate change, and the most wide</field>
+</doc>
+</add>

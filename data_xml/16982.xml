@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201811.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181122_100000_MTP_Daily#start/2250/end/2285</field>
+<field name="datetime">11/22/2018 10:37:45</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20181122_100000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181122_100000_MTP_Daily/MSNBCW_20181122_100000_MTP_Daily.thumbs/MSNBCW_20181122_100000_MTP_Daily_002037.jpg</field>
+<field name="snippet">smaller and smaller. explain. well, look, 30 years ago when i wrote the first book about climate change, it was still an abstraction, a theoretical threat. now it's a fierce reality for people all over the world.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201003.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100325_170000_America_Live#start/5889/end/5924</field>
+<field name="datetime">3/25/2010 18:38:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWS_20100325_170000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100325_170000_America_Live/FOXNEWS_20100325_170000_America_Live.thumbs/FOXNEWS_20100325_170000_America_Live_005871.jpg</field>
+<field name="snippet">unlikely place. a new million dollar polar bear exhibit opening this weekend at the san diego zoo. but when the kids come to see the animals they will get a lesson blaming global warming for destroying the bear's</field>
+</doc>
+</add>

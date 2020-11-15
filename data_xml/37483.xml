@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201401.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140129_050000_State_of_the_Union_2014#start/528/end/563</field>
+<field name="datetime">1/29/2014 5:09:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">State of the Union 2014</field>
+<field name="showid">FOXNEWSW_20140129_050000_State_of_the_Union_2014</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140129_050000_State_of_the_Union_2014/FOXNEWSW_20140129_050000_State_of_the_Union_2014.thumbs/FOXNEWSW_20140129_050000_State_of_the_Union_2014_000525.jpg</field>
+<field name="snippet">executive orders that are going to happen, nobody really knows what they are. and to the extent i've been able to pin any of them down, they seem fairly minor in terms of setting up some sort of working route to look at climate change or something like that, but it</field>
+</doc>
+</add>

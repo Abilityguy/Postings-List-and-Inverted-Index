@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201610.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161011_200000_Your_World_With_Neil_Cavuto#start/1228/end/1263</field>
+<field name="datetime">10/11/2016 20:20:43</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20161011_200000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161011_200000_Your_World_With_Neil_Cavuto/FOXNEWSW_20161011_200000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20161011_200000_Your_World_With_Neil_Cavuto_001228.jpg</field>
+<field name="snippet">this is their one and only event together. here's what hillary clinton said about climate change just moments ago. likely more destructive</field>
+</doc>
+</add>

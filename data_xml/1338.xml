@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201507.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150728_220000_Special_Report_With_Bret_Baier#start/1901/end/1936</field>
+<field name="datetime">7/28/2015 22:31:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20150728_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150728_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20150728_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20150728_220000_Special_Report_With_Bret_Baier_001875.jpg</field>
+<field name="snippet">private jet. the daily mail reports the french-made aircraft burns 347 gallons of fuel per hour. the 19-seater jet flew clinton to new hampshire from iowa where she characterized climate change as one of the most urgent</field>
+</doc>
+</add>

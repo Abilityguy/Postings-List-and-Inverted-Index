@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180111_110000_BBC_Newsroom_Live#start/1582/end/1617</field>
+<field name="datetime">1/11/2018 11:26:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20180111_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180111_110000_BBC_Newsroom_Live/BBCNEWS_20180111_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20180111_110000_BBC_Newsroom_Live_001557.jpg</field>
+<field name="snippet">of vagaries. nothing new in there. and not tackling the climate crisis we face. we no that we're going to miss the fourth and fifth carbon target to keep our carbon emissions</field>
+</doc>
+</add>

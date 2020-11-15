@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190512_170000_BBC_News#start/1086/end/1121</field>
+<field name="datetime">5/12/2019 17:18:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190512_170000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190512_170000_BBC_News/BBCNEWS_20190512_170000_BBC_News.thumbs/BBCNEWS_20190512_170000_BBC_News_001078.jpg</field>
+<field name="snippet">climate change is not just about humans. it's also about wildlife. take polar bears, for example. global warming means there's less sea ice for them to hunt seals on, limiting their access to food, and threatening their survival.</field>
+</doc>
+</add>

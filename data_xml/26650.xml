@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100216_070000_Glenn_Beck#start/1420/end/1455</field>
+<field name="datetime">2/16/2010 7:23:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20100216_070000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100216_070000_Glenn_Beck/FOXNEWS_20100216_070000_Glenn_Beck.thumbs/FOXNEWS_20100216_070000_Glenn_Beck_001404.jpg</field>
+<field name="snippet">well, show you in a couple of minutes here, one of the leading global warming scientist admitted we haven't had any warming in 15 years. gee, that sounds like breaking news. maybe we should slow dun on the global warming thing.</field>
+</doc>
+</add>

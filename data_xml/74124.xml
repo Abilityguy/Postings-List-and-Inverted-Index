@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201006.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100619_010000_The_Rachel_Maddow_Show#start/734/end/769</field>
+<field name="datetime">6/19/2010 1:12:29</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBC_20100619_010000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20100619_010000_The_Rachel_Maddow_Show/MSNBC_20100619_010000_The_Rachel_Maddow_Show.thumbs/MSNBC_20100619_010000_The_Rachel_Maddow_Show_000716.jpg</field>
+<field name="snippet">if you don't do it right the first time come back the next year, the year after that, ten years after that, 20 years after that. then there are things like the gulf oil spill and if you get it wrong you don't have the technical capacity to undo it. climate change is one of those. if we let it happen, if the earth's temperature raises seven</field>
+</doc>
+</add>

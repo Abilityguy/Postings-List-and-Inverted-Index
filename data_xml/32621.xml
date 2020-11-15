@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201211.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121101_210000_The_Five#start/1101/end/1136</field>
+<field name="datetime">11/1/2012 21:18:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20121101_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121101_210000_The_Five/FOXNEWSW_20121101_210000_The_Five.thumbs/FOXNEWSW_20121101_210000_The_Five_001078.jpg</field>
+<field name="snippet">bob: because of a hurricane. it's a god given phenomena. greg: i thought it was climate change. bob: it is. eric: greg points something out, the timing of this enforcement of president</field>
+</doc>
+</add>

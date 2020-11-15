@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201308.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130801_070000_All_In_With_Chris_Hayes#start/2055/end/2090</field>
+<field name="datetime">8/1/2013 7:34:30</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20130801_070000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130801_070000_All_In_With_Chris_Hayes/MSNBCW_20130801_070000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20130801_070000_All_In_With_Chris_Hayes_002056.jpg</field>
+<field name="snippet">comes to the issue of climate change, and the need to do something about it, unfortunately, whether you like it or not, whether you're a climate scientist, you're going to be attacked by special interests who want to discredit you, who want to kill the messenger in an effort to try to discredit the case for concern over climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.200912.csv</field>
+<field name="url">https://archive.org/details/CNN_20091208_000000_CNN_Tonight#start/90/end/125</field>
+<field name="datetime">12/8/2009 0:01:45</field>
+<field name="station">CNN</field>
+<field name="show">CNN Tonight</field>
+<field name="showid">CNN_20091208_000000_CNN_Tonight</field>
+<field name="preview">https://archive.org/download/CNN_20091208_000000_CNN_Tonight/CNN_20091208_000000_CNN_Tonight.thumbs/CNN_20091208_000000_CNN_Tonight_000090.jpg</field>
+<field name="snippet">from new york. here now erica hill. tonight in copenhagen the biggest discussion on climate change in history. nearly 200 nations are on hand for the two-weeks conference which kicked off today. the goal there -- a plan to save</field>
+</doc>
+</add>

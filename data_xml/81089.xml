@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091211_140000_Morning_Meeting#start/6018/end/6053</field>
+<field name="datetime">12/11/2009 15:40:33</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Meeting</field>
+<field name="showid">MSNBC_20091211_140000_Morning_Meeting</field>
+<field name="preview">https://archive.org/download/MSNBC_20091211_140000_Morning_Meeting/MSNBC_20091211_140000_Morning_Meeting.thumbs/MSNBC_20091211_140000_Morning_Meeting_005993.jpg</field>
+<field name="snippet">something back and still suffering from all of this. yeah, trying to rebuild their lives, a lot of them very desperately. scott cohn, thanks for the update. and another salvo fired in the sarah palin/al gore climate change feud. have you heard the latest? sarah palin now says for al gore the fight against global warming</field>
+</doc>
+</add>

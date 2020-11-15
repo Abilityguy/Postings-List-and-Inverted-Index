@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_030000_BBC_News#start/1104/end/1139</field>
+<field name="datetime">9/20/2019 3:18:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190920_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_030000_BBC_News/BBCNEWS_20190920_030000_BBC_News.thumbs/BBCNEWS_20190920_030000_BBC_News_001078.jpg</field>
+<field name="snippet">amazon's impact on climate change goes well beyond its own goals and sustainability. if amazon truly wants to be a climate leader, we absolutely cannot be in bed with fossil fuel companies. currently we are selling our artificial intelligence to big oil and gas to help them extract oil more quickly and that's the exact opposite of what we need right now.</field>
+</doc>
+</add>

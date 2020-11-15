@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201003.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100306_030000_Countdown_With_Keith_Olbermann#start/2985/end/3020</field>
+<field name="datetime">3/6/2010 3:50:00</field>
+<field name="station">MSNBC</field>
+<field name="show">Countdown With Keith Olbermann</field>
+<field name="showid">MSNBC_20100306_030000_Countdown_With_Keith_Olbermann</field>
+<field name="preview">https://archive.org/download/MSNBC_20100306_030000_Countdown_With_Keith_Olbermann/MSNBC_20100306_030000_Countdown_With_Keith_Olbermann.thumbs/MSNBC_20100306_030000_Countdown_With_Keith_Olbermann_002966.jpg</field>
+<field name="snippet">a fifty-ton train makes barely a mark on the environment. and a country facing climate change finds climate solutions. somewhere in america, we've already answered some of the nation's toughest questions. and the over sixty thousand people of siemens</field>
+</doc>
+</add>

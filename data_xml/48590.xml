@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201908.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190812_190000_MSNBC_Live_With_Ali_Velshi#start/1476/end/1511</field>
+<field name="datetime">8/12/2019 19:24:51</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190812_190000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190812_190000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190812_190000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190812_190000_MSNBC_Live_With_Ali_Velshi_001468.jpg</field>
+<field name="snippet">jay inslee is running on a platform of climate change. he joins me after the break to react. memory support brand. you can find it in the vitamin aisle in stores everywhere.</field>
+</doc>
+</add>

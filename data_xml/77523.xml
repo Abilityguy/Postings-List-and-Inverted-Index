@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191102_120000_BBC_News#start/1631/end/1666</field>
+<field name="datetime">11/2/2019 12:27:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191102_120000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191102_120000_BBC_News/BBCNEWS_20191102_120000_BBC_News.thumbs/BBCNEWS_20191102_120000_BBC_News_001618.jpg</field>
+<field name="snippet">the labour leaderjeremy corbyn has promised to lead a government that's tough on environmental protection, if he wins the election on december 12th. speaking at a campaign speech in swindon, mr corbyn said there was no greater issue facing the world than climate change. there is one way of looking at climate change is a catastrophe</field>
+</doc>
+</add>

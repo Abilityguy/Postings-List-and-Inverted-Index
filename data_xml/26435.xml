@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201108.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20110819_070000_The_Last_Word#start/2216/end/2251</field>
+<field name="datetime">8/19/2011 7:37:11</field>
+<field name="station">MSNBC</field>
+<field name="show">The Last Word</field>
+<field name="showid">MSNBCW_20110819_070000_The_Last_Word</field>
+<field name="preview">https://archive.org/download/MSNBCW_20110819_070000_The_Last_Word/MSNBCW_20110819_070000_The_Last_Word.thumbs/MSNBCW_20110819_070000_The_Last_Word_002217.jpg</field>
+<field name="snippet">i hear you on science. but i'm not quite sure that it takes science to recognize, for example, that texas is suffering through its worst-ever drought, and that rick perry as you've pointed out is not only sort of refusing to carry out greenhouse</field>
+</doc>
+</add>

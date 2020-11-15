@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190422_210000_BBC_News_at_Ten#start/1361/end/1396</field>
+<field name="datetime">4/22/2019 21:22:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20190422_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190422_210000_BBC_News_at_Ten/BBCNEWS_20190422_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20190422_210000_BBC_News_at_Ten_001348.jpg</field>
+<field name="snippet">after the bank holiday break will still face disruption with climate change protestors continuing to block roads around marble arch. whilst other locations have been cleared, the police are aware of plans to demonstrate again at parliament square and say a robust policing</field>
+</doc>
+</add>

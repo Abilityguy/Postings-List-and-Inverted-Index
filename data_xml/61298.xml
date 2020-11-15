@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201503.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150324_000000_All_In_With_Chris_Hayes#start/1481/end/1516</field>
+<field name="datetime">3/24/2015 0:24:56</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20150324_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150324_000000_All_In_With_Chris_Hayes/MSNBCW_20150324_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20150324_000000_All_In_With_Chris_Hayes_001455.jpg</field>
+<field name="snippet">you listen to how a speech changes. now right now this is a republican primary. there are base republican voters who have questions about climate change. this will get very complex as</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181122_130000_BBC_News_at_One#start/1233/end/1268</field>
+<field name="datetime">11/22/2018 13:20:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20181122_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181122_130000_BBC_News_at_One/BBCNEWS_20181122_130000_BBC_News_at_One.thumbs/BBCNEWS_20181122_130000_BBC_News_at_One_001227.jpg</field>
+<field name="snippet">amount of some gases in the earth's atmosphere have been steadily increasing since the industrial revolution. these so-called greenhouse gases are now at record levels, higher than they've been for 3 million years will stop it's</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201405.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140506_220000_Special_Report_With_Bret_Baier#start/2392/end/2427</field>
+<field name="datetime">5/6/2014 22:40:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20140506_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140506_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20140506_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20140506_220000_Special_Report_With_Bret_Baier_002385.jpg</field>
+<field name="snippet">every scientific theory that explains everything explains nothing and no matters what happens in climate is unpleasant, it's weather. it's attributed to global warming. if we continue global warming up here in the northeast we're going to freeze to death.</field>
+</doc>
+</add>

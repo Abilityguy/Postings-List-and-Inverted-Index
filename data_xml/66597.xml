@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201411.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20141120_090000_The_Rachel_Maddow_Show#start/2765/end/2800</field>
+<field name="datetime">11/20/2014 9:46:20</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBCW_20141120_090000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20141120_090000_The_Rachel_Maddow_Show/MSNBCW_20141120_090000_The_Rachel_Maddow_Show.thumbs/MSNBCW_20141120_090000_The_Rachel_Maddow_Show_002745.jpg</field>
+<field name="snippet">the top five most popular policies the american people want this congress to pursue are, number one, lowering the cost of student loans, also increase spending on infrastructure, raising the federal minimum wage, approving more money to fight ebola and limiting carbon emissions to fight climate change.</field>
+</doc>
+</add>

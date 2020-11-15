@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201406.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140624_100000_FOX_and_Friends#start/3355/end/3390</field>
+<field name="datetime">6/24/2014 10:56:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20140624_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140624_100000_FOX_and_Friends/FOXNEWSW_20140624_100000_FOX_and_Friends.thumbs/FOXNEWSW_20140624_100000_FOX_and_Friends_003345.jpg</field>
+<field name="snippet">stewart harris, thank you for your time and hopefully people are listening. thank you for having me on. five minutes before the top of the hour. forget global warming, the u.s. has been cooling since the 1930 the. but you wouldn't have known that because someone's faking the numbers. that report next.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191208_023000_Dateline_London#start/833/end/868</field>
+<field name="datetime">12/8/2019 2:44:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Dateline London</field>
+<field name="showid">BBCNEWS_20191208_023000_Dateline_London</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191208_023000_Dateline_London/BBCNEWS_20191208_023000_Dateline_London.thumbs/BBCNEWS_20191208_023000_Dateline_London_000808.jpg</field>
+<field name="snippet">well, the other issues, linked in fact with climate change, like immigration, unemployment, like populism,</field>
+</doc>
+</add>

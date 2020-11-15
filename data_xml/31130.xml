@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090709_100000_FOX_and_Friends#start/3737/end/3772</field>
+<field name="datetime">7/9/2009 11:02:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20090709_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090709_100000_FOX_and_Friends/FOXNEWS_20090709_100000_FOX_and_Friends.thumbs/FOXNEWS_20090709_100000_FOX_and_Friends_003716.jpg</field>
+<field name="snippet">greenhouse gases. a global deal on climate change. so far however these countries have resisted signing on to some kind of big plan. they worry that aggressive targets for reducing carbon emissions could hurt their economies, among other things. they want money and technology from developed countries from</field>
+</doc>
+</add>

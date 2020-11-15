@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190627_100000_FOX__Friends#start/1730/end/1765</field>
+<field name="datetime">6/27/2019 10:29:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20190627_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190627_100000_FOX__Friends/FOXNEWSW_20190627_100000_FOX__Friends.thumbs/FOXNEWSW_20190627_100000_FOX__Friends_001707.jpg</field>
+<field name="snippet">things like climate change or name checking donald trump. steve: donald trump really kind of changed the metric when it comes to debates because in 2016 so many people tuned in because did you not know what he was going to say. right. steve: there were so many sound bites the next day</field>
+</doc>
+</add>

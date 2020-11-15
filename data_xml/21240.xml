@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180905_050000_Breakfast#start/5188/end/5223</field>
+<field name="datetime">9/5/2018 6:26:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20180905_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180905_050000_Breakfast/BBCNEWS_20180905_050000_Breakfast.thumbs/BBCNEWS_20180905_050000_Breakfast_005187.jpg</field>
+<field name="snippet">looking at climate change, and there will also be more on renewables, with ben live at the world's largest offshore windfarm. we have some great guests coming up</field>
+</doc>
+</add>

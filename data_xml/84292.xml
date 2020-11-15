@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190426_210000_BBC_News_at_Ten#start/1055/end/1090</field>
+<field name="datetime">4/26/2019 21:17:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20190426_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190426_210000_BBC_News_at_Ten/BBCNEWS_20190426_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20190426_210000_BBC_News_at_Ten_001048.jpg</field>
+<field name="snippet">the main events and come in doing so, launching a scathing attack on the us president for his record on international treaties, on climate change for what mr corbyn calls racist and misogynist rhetoric. at the moment the guest list</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190502_130000_Afternoon_Live#start/3292/end/3327</field>
+<field name="datetime">5/2/2019 13:55:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190502_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190502_130000_Afternoon_Live/BBCNEWS_20190502_130000_Afternoon_Live.thumbs/BBCNEWS_20190502_130000_Afternoon_Live_003267.jpg</field>
+<field name="snippet">by 2050, sets different targets for different parts of the uk. the targets slightly less stringent for wales because of its reliance on agriculture, and a slightly tougher target for scotland because of its potential for planting trees. our environment correspondent kevin keane has spent the day with one family in aberdeenshire who are doing their bit to fight climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201003.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100325_070000_Red_Eye#start/488/end/523</field>
+<field name="datetime">3/25/2010 7:08:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20100325_070000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100325_070000_Red_Eye/FOXNEWS_20100325_070000_Red_Eye.thumbs/FOXNEWS_20100325_070000_Red_Eye_000476.jpg</field>
+<field name="snippet">i make movies. i know what i'm talking about. yes. that is how it works in america. people who deny global warming are bad people and should probably die. it is like denying the awesomeness of james cameron.</field>
+</doc>
+</add>

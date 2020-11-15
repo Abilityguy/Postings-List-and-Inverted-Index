@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201301.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130122_170000_NOW_With_Alex_Wagner#start/3207/end/3242</field>
+<field name="datetime">1/22/2013 17:53:42</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20130122_170000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130122_170000_NOW_With_Alex_Wagner/MSNBCW_20130122_170000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20130122_170000_NOW_With_Alex_Wagner_003195.jpg</field>
+<field name="snippet">your take on what the president moves forward on first, which is to say a lot of things were outlined yesterday. is it climate change? is it immigration? is it -- immigration and guns. i think you're going to see real movement on immigration in the next two weeks, and i think they want to get the gun thing done</field>
+</doc>
+</add>

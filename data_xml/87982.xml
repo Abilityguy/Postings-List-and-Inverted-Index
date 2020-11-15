@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191231_180000_BBC_News#start/3333/end/3368</field>
+<field name="datetime">12/31/2019 18:55:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191231_180000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191231_180000_BBC_News/BBCNEWS_20191231_180000_BBC_News.thumbs/BBCNEWS_20191231_180000_BBC_News_003329.jpg</field>
+<field name="snippet">more people watching. i suspect it's a little of both, to be honest. we've got more eyes and ears on the coastline during the watching for us, which is fantastic. as a result, you do get more sightings and recordings. climate change means the marine environment</field>
+</doc>
+</add>

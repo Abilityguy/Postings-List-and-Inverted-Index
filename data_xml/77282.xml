@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191112_053000_Business_Briefing#start/88/end/123</field>
+<field name="datetime">11/12/2019 5:31:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Business Briefing</field>
+<field name="showid">BBCNEWS_20191112_053000_Business_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191112_053000_Business_Briefing/BBCNEWS_20191112_053000_Business_Briefing.thumbs/BBCNEWS_20191112_053000_Business_Briefing_000088.jpg</field>
+<field name="snippet">but the industry wasn't included in the paris climate agreement, which the us is pulling out of. however, it is signifcant because it creates about 3% of the global greenhouse gas emissions that are causing climate change, and that is why governments want to reduce them. one answer is to slow ships down. it means it would take goods longer</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170601_190000_Shepard_Smith_Reporting#start/81/end/116</field>
+<field name="datetime">6/1/2017 19:01:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20170601_190000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170601_190000_Shepard_Smith_Reporting/FOXNEWSW_20170601_190000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20170601_190000_Shepard_Smith_Reporting_000058.jpg</field>
+<field name="snippet">rose garden where fox news has learned that president trump will pull the united states out of the global climate change deal known as the paris accord, putting our nation at odds with almost every other nation on the planet. the white house communications team putting in talking points earlier this hour, calling the</field>
+</doc>
+</add>

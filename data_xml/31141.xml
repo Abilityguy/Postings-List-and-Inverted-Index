@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090708_230000_The_FOX_Report_With_Shepard_Smith#start/335/end/370</field>
+<field name="datetime">7/8/2009 23:05:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The FOX Report With Shepard Smith</field>
+<field name="showid">FOXNEWS_20090708_230000_The_FOX_Report_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090708_230000_The_FOX_Report_With_Shepard_Smith/FOXNEWS_20090708_230000_The_FOX_Report_With_Shepard_Smith.thumbs/FOXNEWS_20090708_230000_The_FOX_Report_With_Shepard_Smith_000330.jpg</field>
+<field name="snippet">other world leaders. the called group of eight industrialized countries agreeing now to take steps to try to control the earth's temperature. canada, the u.s., the united kingdom, france, germany, italy, russia, and japan. the leaders of those countries agreeing to limit greenhouse</field>
+</doc>
+</add>

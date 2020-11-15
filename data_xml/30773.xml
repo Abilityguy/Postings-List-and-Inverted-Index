@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140217_220000_The_Five#start/1966/end/2001</field>
+<field name="datetime">2/17/2014 22:33:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20140217_220000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140217_220000_The_Five/FOXNEWSW_20140217_220000_The_Five.thumbs/FOXNEWSW_20140217_220000_The_Five_001965.jpg</field>
+<field name="snippet">scientists in the world agree there's global warming. let's leave that aside. you don't agree with that. these guys see a cataclysmic situation developing if this continues. if it does, what kerry is</field>
+</doc>
+</add>

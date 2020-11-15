@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190406_160000_Americas_News_HQ#start/703/end/738</field>
+<field name="datetime">4/6/2019 16:11:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20190406_160000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190406_160000_Americas_News_HQ/FOXNEWSW_20190406_160000_Americas_News_HQ.thumbs/FOXNEWSW_20190406_160000_Americas_News_HQ_000688.jpg</field>
+<field name="snippet">the big ideas we're hearing from the progressives on the trail. you're more moderate. is there a place for that? i think voters are looking to get these things done. i think i have the right plan to deal with climate change.</field>
+</doc>
+</add>

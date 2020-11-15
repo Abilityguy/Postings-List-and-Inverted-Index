@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191113_033000_Can_Flying_Go_Green_-_Panorama#start/581/end/616</field>
+<field name="datetime">11/13/2019 3:39:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Can Flying Go Green - Panorama</field>
+<field name="showid">BBCNEWS_20191113_033000_Can_Flying_Go_Green_-_Panorama</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191113_033000_Can_Flying_Go_Green_-_Panorama/BBCNEWS_20191113_033000_Can_Flying_Go_Green_-_Panorama.thumbs/BBCNEWS_20191113_033000_Can_Flying_Go_Green_-_Panorama_000567.jpg</field>
+<field name="snippet">from a sustainable source. so over the lifecycle you've actually got a genuine carbon dioxide reduction. sounds good. but it still contributes to climate change. not least because emissions of c02 from the engine will stay the same.</field>
+</doc>
+</add>

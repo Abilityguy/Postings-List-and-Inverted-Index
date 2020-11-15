@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140216_230000_FOX_News_Sunday_With_Chris_Wallace#start/2374/end/2409</field>
+<field name="datetime">2/16/2014 23:39:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Sunday With Chris Wallace</field>
+<field name="showid">FOXNEWSW_20140216_230000_FOX_News_Sunday_With_Chris_Wallace</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140216_230000_FOX_News_Sunday_With_Chris_Wallace/FOXNEWSW_20140216_230000_FOX_News_Sunday_With_Chris_Wallace.thumbs/FOXNEWSW_20140216_230000_FOX_News_Sunday_With_Chris_Wallace_002355.jpg</field>
+<field name="snippet">thank you, both. president obama left snowy washington friday for drought-ridden california where he linked the weather on both coasts to climate change. the panel returns after the break to take on that issue. good job!</field>
+</doc>
+</add>

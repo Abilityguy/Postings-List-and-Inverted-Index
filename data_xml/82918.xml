@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191011_180000_BBC_News#start/80/end/115</field>
+<field name="datetime">10/11/2019 18:01:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191011_180000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191011_180000_BBC_News/BBCNEWS_20191011_180000_BBC_News.thumbs/BBCNEWS_20191011_180000_BBC_News_000088.jpg</field>
+<field name="snippet">climate change right? join us tonight at 7:45pm here on bbc news.</field>
+</doc>
+</add>

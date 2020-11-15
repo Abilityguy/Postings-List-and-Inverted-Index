@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090803_221652_Special_Report_With_Bret_Baier#start/2172/end/2207</field>
+<field name="datetime">8/3/2009 22:53:19</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20090803_221652_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090803_221652_Special_Report_With_Bret_Baier/FOXNEWS_20090803_221652_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20090803_221652_Special_Report_With_Bret_Baier_002156.jpg</field>
+<field name="snippet">sunshine. bret: it's not just republicans. it is claire mccaskill from missouri. she wants to up the fuel standards. these are trivial games on fuel efficiency and global warming and middle east</field>
+</doc>
+</add>

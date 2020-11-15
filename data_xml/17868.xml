@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201503.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150322_180000_FOX_News_Sunday_With_Chris_Wallace#start/3632/end/3667</field>
+<field name="datetime">3/22/2015 19:00:47</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Sunday With Chris Wallace</field>
+<field name="showid">FOXNEWSW_20150322_180000_FOX_News_Sunday_With_Chris_Wallace</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150322_180000_FOX_News_Sunday_With_Chris_Wallace/FOXNEWSW_20150322_180000_FOX_News_Sunday_With_Chris_Wallace.thumbs/FOXNEWSW_20150322_180000_FOX_News_Sunday_With_Chris_Wallace_003645.jpg</field>
+<field name="snippet">their climate change agenda.</field>
+</doc>
+</add>

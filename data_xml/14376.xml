@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201812.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181207_200000_MSNBC_Live_With_Ali_Velshi#start/3109/end/3144</field>
+<field name="datetime">12/7/2018 20:52:04</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20181207_200000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181207_200000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20181207_200000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20181207_200000_MSNBC_Live_With_Ali_Velshi_003088.jpg</field>
+<field name="snippet">how have you encountered this resistance to the scientific evidence of global warming? i think it is the ongoing industry of doubt. we've seen it used in cigarettes. we've seen it used in all sorts</field>
+</doc>
+</add>

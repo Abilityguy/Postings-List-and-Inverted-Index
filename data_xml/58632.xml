@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181101_213000_BBC_World_News_America#start/980/end/1015</field>
+<field name="datetime">11/1/2018 21:46:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC World News America</field>
+<field name="showid">BBCNEWS_20181101_213000_BBC_World_News_America</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181101_213000_BBC_World_News_America/BBCNEWS_20181101_213000_BBC_World_News_America.thumbs/BBCNEWS_20181101_213000_BBC_World_News_America_000957.jpg</field>
+<field name="snippet">that the amount of heat absorbed by the oceans over the past 25 years has been seriously underestimated. the revelation means it could be harder to combat global warming, as the bbc's matt mcgrath explains.</field>
+</doc>
+</add>

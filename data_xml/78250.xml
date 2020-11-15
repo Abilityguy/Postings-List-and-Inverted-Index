@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191125_220000_BBC_News_at_Ten#start/170/end/205</field>
+<field name="datetime">11/25/2019 22:03:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20191125_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191125_220000_BBC_News_at_Ten/BBCNEWS_20191125_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20191125_220000_BBC_News_at_Ten_000147.jpg</field>
+<field name="snippet">on climate change says he's now scared for the future of the planet, following the latest report by the world meteorological organization. sir david king, the former chief scientific adviser to the uk government, says there is a lack of political leadership to tackle the scale of the problem.</field>
+</doc>
+</add>

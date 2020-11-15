@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201301.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130122_060000_Greta_Van_Susteren#start/1099/end/1134</field>
+<field name="datetime">1/22/2013 6:18:34</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Greta Van Susteren</field>
+<field name="showid">FOXNEWSW_20130122_060000_Greta_Van_Susteren</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130122_060000_Greta_Van_Susteren/FOXNEWSW_20130122_060000_Greta_Van_Susteren.thumbs/FOXNEWSW_20130122_060000_Greta_Van_Susteren_001095.jpg</field>
+<field name="snippet">another, global warming, gun control, you name it and i'm going to do battle with them. if i lose at least history will say i fought these battles and history is on my side and going to win one day</field>
+</doc>
+</add>

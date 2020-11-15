@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180903_190000_BBC_News#start/14/end/49</field>
+<field name="datetime">9/3/2018 19:00:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180903_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180903_190000_BBC_News/BBCNEWS_20180903_190000_BBC_News.thumbs/BBCNEWS_20180903_190000_BBC_News_000057.jpg</field>
+<field name="snippet">going forward into the future, it's expected that because of greenhouse gas emissions and global warming, these kinds of heatwaves will occur more regularly. and when they occur, we'll have higher temperatures as a result. the home secretary issues a stark</field>
+</doc>
+</add>

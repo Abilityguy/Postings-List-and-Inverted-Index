@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190518_110000_BBC_News#start/450/end/485</field>
+<field name="datetime">5/18/2019 11:07:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190518_110000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190518_110000_BBC_News/BBCNEWS_20190518_110000_BBC_News.thumbs/BBCNEWS_20190518_110000_BBC_News_000448.jpg</field>
+<field name="snippet">had labour ahead, but as the results come through the liberals have a very small lead. the issue of climate change seems to have been key but played out differently in different parts of australia. in metropolitan places like sydney,</field>
+</doc>
+</add>

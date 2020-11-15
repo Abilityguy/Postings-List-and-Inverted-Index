@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090723_100000_FOX_and_Friends#start/852/end/887</field>
+<field name="datetime">7/23/2009 10:14:27</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20090723_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090723_100000_FOX_and_Friends/FOXNEWS_20090723_100000_FOX_and_Friends.thumbs/FOXNEWS_20090723_100000_FOX_and_Friends_000836.jpg</field>
+<field name="snippet">some may have printed copies of his death certificate before they went public. yes. you can imagine the curiosity. it's illegal. brian: climate change, it's ugly.</field>
+</doc>
+</add>

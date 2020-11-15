@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190809_000000_Newsday#start/1808/end/1843</field>
+<field name="datetime">8/9/2019 0:30:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190809_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190809_000000_Newsday/BBCNEWS_20190809_000000_Newsday.thumbs/BBCNEWS_20190809_000000_Newsday_001799.jpg</field>
+<field name="snippet">scientists say altering our diets to become more plant-based could dramatically reduce emissions - with one quarter of greenhouse gases coming from food production. india's prime minister has defended his decision to revoke kashmir's special status. in an address to the nation</field>
+</doc>
+</add>

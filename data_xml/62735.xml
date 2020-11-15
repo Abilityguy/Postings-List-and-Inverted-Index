@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201202.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120210_170000_NOW_With_Alex_Wagner#start/2231/end/2266</field>
+<field name="datetime">2/10/2012 17:37:26</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20120210_170000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120210_170000_NOW_With_Alex_Wagner/MSNBCW_20120210_170000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20120210_170000_NOW_With_Alex_Wagner_002220.jpg</field>
+<field name="snippet">-- relatively conservative. is there anything that romney can say that will win over this crowd, i mean, he cannot undo the flip flops that he did on abortion and global warming, what is it? there's all this pressure on him to deliver a great speech, but can he do it?</field>
+</doc>
+</add>

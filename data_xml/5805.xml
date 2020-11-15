@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190923_000000_Newsday#start/41/end/76</field>
+<field name="datetime">9/23/2019 0:00:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190923_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190923_000000_Newsday/BBCNEWS_20190923_000000_Newsday.thumbs/BBCNEWS_20190923_000000_Newsday_000029.jpg</field>
+<field name="snippet">greenhouse gas levels in the atmosphere have reached new records. i'm kasia madera in london. also in the programme: crisis talks continue at travel company thomas cook, the british-based but partly chinese-owned firm could collapse within hours.</field>
+</doc>
+</add>

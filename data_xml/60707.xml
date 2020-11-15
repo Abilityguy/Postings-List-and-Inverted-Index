@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181005_000000_Newsday#start/53/end/88</field>
+<field name="datetime">10/5/2018 0:01:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20181005_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181005_000000_Newsday/BBCNEWS_20181005_000000_Newsday.thumbs/BBCNEWS_20181005_000000_Newsday_000058.jpg</field>
+<field name="snippet">western nations accuse russian cyber spies of hacking into governments and institutions around the world. and we visit vietnam to find out why it's so vulnerable to climate change and rising sea levels. it's iam in london, 8am here in singapore and also in palu in indonesia, where the death toll from last weeks 7.5 magnitude earthquake and tsunami currently stands at 1424. most of the dead accounted for have</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200108_020000_BBC_News#start/1328/end/1363</field>
+<field name="datetime">1/8/2020 2:22:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200108_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200108_020000_BBC_News/BBCNEWS_20200108_020000_BBC_News.thumbs/BBCNEWS_20200108_020000_BBC_News_001318.jpg</field>
+<field name="snippet">we met nikki and steve, one couple doing their best to make a small difference. nikki, tell me about these lovely baby bats. so these bats have really been struggling with climate change and the extreme heat temperatures we've been having. their mothers haven't been able to feed them enough so they've been abandoned.</field>
+</doc>
+</add>

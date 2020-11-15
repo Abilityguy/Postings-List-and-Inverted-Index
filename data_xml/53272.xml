@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201104.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110418_140000_Jansing_and_Co.#start/312/end/347</field>
+<field name="datetime">4/18/2011 14:05:27</field>
+<field name="station">MSNBC</field>
+<field name="show">Jansing and Co.</field>
+<field name="showid">MSNBC_20110418_140000_Jansing_and_Co.</field>
+<field name="preview">https://archive.org/download/MSNBC_20110418_140000_Jansing_and_Co./MSNBC_20110418_140000_Jansing_and_Co..thumbs/MSNBC_20110418_140000_Jansing_and_Co._000296.jpg</field>
+<field name="snippet">a heat wave, this must be proof of global warming, but that's not a good way of looking at it. a better way of thinking about it is that global warming produces long-term trends that will appear progressively over</field>
+</doc>
+</add>

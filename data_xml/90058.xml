@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200910.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091021_130000_Morning_Meeting#start/4857/end/4892</field>
+<field name="datetime">10/21/2009 14:21:12</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Meeting</field>
+<field name="showid">MSNBC_20091021_130000_Morning_Meeting</field>
+<field name="preview">https://archive.org/download/MSNBC_20091021_130000_Morning_Meeting/MSNBC_20091021_130000_Morning_Meeting.thumbs/MSNBC_20091021_130000_Morning_Meeting_004853.jpg</field>
+<field name="snippet">ball. it's a mock self-contained unit to protect you from the effects of global warming. take a look. we're promoting an alternate solution to a senate climate bill which is a survival ball.</field>
+</doc>
+</add>

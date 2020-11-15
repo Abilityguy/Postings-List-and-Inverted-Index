@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190415_210000_BBC_News_at_Ten#start/623/end/658</field>
+<field name="datetime">4/15/2019 21:10:38</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20190415_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190415_210000_BBC_News_at_Ten/BBCNEWS_20190415_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20190415_210000_BBC_News_at_Ten_000597.jpg</field>
+<field name="snippet">demonstrators have blocked major road junctions in central london and disrupted traffic in a protest over climate change. the campaign group extinction rebellion parked a boat across oxford circus and blocked marble arch and piccadilly circus. three men have been arrested</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201301.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130112_200000_Stossel#start/983/end/1018</field>
+<field name="datetime">1/12/2013 20:16:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Stossel</field>
+<field name="showid">FOXNEWSW_20130112_200000_Stossel</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130112_200000_Stossel/FOXNEWSW_20130112_200000_Stossel.thumbs/FOXNEWSW_20130112_200000_Stossel_000795.jpg</field>
+<field name="snippet">john: 100 million people will die because of global warming. according to a recent study of an environmental group. for 18 years of low-cost over $100 trillion. the report got plenty of news coverage. 100 million deaths should. are we going to die? yes.</field>
+</doc>
+</add>

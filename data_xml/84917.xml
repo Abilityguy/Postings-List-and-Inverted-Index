@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201211.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121121_230000_PoliticsNation#start/3022/end/3057</field>
+<field name="datetime">11/21/2012 23:50:37</field>
+<field name="station">MSNBC</field>
+<field name="show">PoliticsNation</field>
+<field name="showid">MSNBCW_20121121_230000_PoliticsNation</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121121_230000_PoliticsNation/MSNBCW_20121121_230000_PoliticsNation.thumbs/MSNBCW_20121121_230000_PoliticsNation_002998.jpg</field>
+<field name="snippet">example, 51% support guy marriage, 57% support a path to citizenship for illegal immigrants, 67% favor raising tax, 68% say climate change in a problem. should he go at issues that most</field>
+</doc>
+</add>

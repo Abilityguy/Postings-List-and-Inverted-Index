@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190418_090000_Victoria_Derbyshire#start/250/end/285</field>
+<field name="datetime">4/18/2019 9:04:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20190418_090000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190418_090000_Victoria_Derbyshire/BBCNEWS_20190418_090000_Victoria_Derbyshire.thumbs/BBCNEWS_20190418_090000_Victoria_Derbyshire_000237.jpg</field>
+<field name="snippet">after climbing on top of a dlr train in east london yesterday, are expected to appear in court later today. protests on climate change which have brought parts of central london and other cities to a standstill have entered their fourth day.</field>
+</doc>
+</add>

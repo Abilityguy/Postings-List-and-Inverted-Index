@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201501.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150127_010000_All_In_With_Chris_Hayes#start/2073/end/2108</field>
+<field name="datetime">1/27/2015 1:34:48</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20150127_010000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150127_010000_All_In_With_Chris_Hayes/MSNBCW_20150127_010000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20150127_010000_All_In_With_Chris_Hayes_002055.jpg</field>
+<field name="snippet">a year later sandy came and overwhelmed our capacity. it might not be this one, it might be juno in boston. i think the problem with global warming is that we can expect to see more extreme weather systems</field>
+</doc>
+</add>

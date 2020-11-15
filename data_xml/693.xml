@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171116_040000_BBC_News#start/157/end/192</field>
+<field name="datetime">11/16/2017 4:02:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171116_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171116_040000_BBC_News/BBCNEWS_20171116_040000_BBC_News.thumbs/BBCNEWS_20171116_040000_BBC_News_000147.jpg</field>
+<field name="snippet">and other european countries will step in to cover any funding shortfall for the main climate science body caused by president trump's plans to withdraw us contributions. he said climate change was the most</field>
+</doc>
+</add>

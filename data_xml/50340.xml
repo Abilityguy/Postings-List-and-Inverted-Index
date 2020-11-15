@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181204_050000_Tucker_Carlson_Tonight#start/3184/end/3219</field>
+<field name="datetime">12/4/2018 5:53:19</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20181204_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181204_050000_Tucker_Carlson_Tonight/FOXNEWSW_20181204_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20181204_050000_Tucker_Carlson_Tonight_003178.jpg</field>
+<field name="snippet">tucker: here's what i'm confused by -- i understand that those. people who are sincerely concerned about climate change. i get it, i'm not denying its existence come up with the solutions baffle me. why tax gas, which only hurts the middle class, why not tax, i</field>
+</doc>
+</add>

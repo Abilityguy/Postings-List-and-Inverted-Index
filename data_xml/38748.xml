@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201010.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101004_100000_FOX_and_Friends#start/530/end/565</field>
+<field name="datetime">10/4/2010 10:09:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20101004_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101004_100000_FOX_and_Friends/FOXNEWS_20101004_100000_FOX_and_Friends.thumbs/FOXNEWS_20101004_100000_FOX_and_Friends_000510.jpg</field>
+<field name="snippet">i don't know how that's going to work out, though. you know how you build your first impression. they say that the minute the person walks in the door, you kind of develop what you're going to think about that person. i'm not so sure he's going to be able to change the minds of even moderate democrats with some of these issues like climate</field>
+</doc>
+</add>

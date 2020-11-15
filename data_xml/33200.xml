@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091206_230000_FOX_News_Sunday_With_Chris_Wallace#start/1566/end/1601</field>
+<field name="datetime">12/6/2009 23:26:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Sunday With Chris Wallace</field>
+<field name="showid">FOXNEWS_20091206_230000_FOX_News_Sunday_With_Chris_Wallace</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091206_230000_FOX_News_Sunday_With_Chris_Wallace/FOXNEWS_20091206_230000_FOX_News_Sunday_With_Chris_Wallace.thumbs/FOXNEWS_20091206_230000_FOX_News_Sunday_With_Chris_Wallace_001560.jpg</field>
+<field name="snippet">chris: i'm going to let the two of you because are debating it on the senate floor and obviously won't settle it here. let's turn to climate change, the president announced he's changing his schedule and will attend not the beginning but the end of the climate change summit in copenhagen, on december 18th.</field>
+</doc>
+</add>

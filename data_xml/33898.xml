@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091219_193000_FOX_News_Watch#start/767/end/802</field>
+<field name="datetime">12/19/2009 19:43:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Watch</field>
+<field name="showid">FOXNEWS_20091219_193000_FOX_News_Watch</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091219_193000_FOX_News_Watch/FOXNEWS_20091219_193000_FOX_News_Watch.thumbs/FOXNEWS_20091219_193000_FOX_News_Watch_000745.jpg</field>
+<field name="snippet">news week's blog on tuesday, elliss, highlighted this week in conservative media, climate change denier in the spotlight and went on to describe mark morano, a former spokesman or senator inhofe who created the</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201305.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130529_000000_All_In_With_Chris_Hayes#start/631/end/666</field>
+<field name="datetime">5/29/2013 0:10:46</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20130529_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130529_000000_All_In_With_Chris_Hayes/MSNBCW_20130529_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20130529_000000_All_In_With_Chris_Hayes_000615.jpg</field>
+<field name="snippet">that climate change is real and it's impacting our state. decade average temperatures have been rising and temperature changes are affecting weather patterns in our climate. chris christie's problem is the newt gingrich problem.</field>
+</doc>
+</add>

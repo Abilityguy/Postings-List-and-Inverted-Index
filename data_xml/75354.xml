@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200120_130000_BBC_News_at_One#start/1429/end/1464</field>
+<field name="datetime">1/20/2020 13:24:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20200120_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200120_130000_BBC_News_at_One/BBCNEWS_20200120_130000_BBC_News_at_One.thumbs/BBCNEWS_20200120_130000_BBC_News_at_One_001407.jpg</field>
+<field name="snippet">phasing out the use of fossil fuels is one of the key ways of tackling climate change. the uk has pledged to be carbon neutral by 2050 - and is aiming to drastically cut its harmful co2 emssions. but china - which uses almost as much coal as the rest of the world combined - is now increasing its number of coal-fired power stations,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180619_130000_Afternoon_Live#start/6761/end/6796</field>
+<field name="datetime">6/19/2018 14:52:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20180619_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180619_130000_Afternoon_Live/BBCNEWS_20180619_130000_Afternoon_Live.thumbs/BBCNEWS_20180619_130000_Afternoon_Live_006747.jpg</field>
+<field name="snippet">norway's boats are going electric too as part of the battle against climate change. this battery-powered boat is faster than a normal ferry with two big advantages. no exhaust, no noise.</field>
+</doc>
+</add>

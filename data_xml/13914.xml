@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201501.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150128_060000_Hannity#start/2968/end/3003</field>
+<field name="datetime">1/28/2015 6:49:43</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20150128_060000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150128_060000_Hannity/FOXNEWSW_20150128_060000_Hannity.thumbs/FOXNEWSW_20150128_060000_Hannity_002955.jpg</field>
+<field name="snippet">will be associated with this storm in the next couple days, these could be connected to climate change. there's little doubt severe weather events are becoming more frequent in the united states. many scientists think there a</field>
+</doc>
+</add>

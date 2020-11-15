@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170422_160000_Americas_News_HQ#start/164/end/199</field>
+<field name="datetime">4/22/2017 16:02:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20170422_160000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170422_160000_Americas_News_HQ/FOXNEWSW_20170422_160000_Americas_News_HQ.thumbs/FOXNEWSW_20170422_160000_Americas_News_HQ_000147.jpg</field>
+<field name="snippet">science and what they see increasing attacks on science, whether it's in the debate over climate change or the debate over vaccines and so forth. the organizers of the washington events were quoted as telling the associated press that this is not a</field>
+</doc>
+</add>

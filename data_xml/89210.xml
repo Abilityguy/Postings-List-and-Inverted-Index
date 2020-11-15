@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190612_080000_BBC_News_at_Nine#start/119/end/154</field>
+<field name="datetime">6/12/2019 8:02:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190612_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190612_080000_BBC_News_at_Nine/BBCNEWS_20190612_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190612_080000_BBC_News_at_Nine_000118.jpg</field>
+<field name="snippet">the first major nation to put forward such legislation - which will amend the 2008 climate change act. the move is being hailed as historic by campaigners, but critics say the action is being taken too late, and fear the target will never be met. here's our environment</field>
+</doc>
+</add>

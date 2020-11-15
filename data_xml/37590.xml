@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091024_210000_Glenn_Beck#start/1090/end/1125</field>
+<field name="datetime">10/24/2009 21:18:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20091024_210000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091024_210000_Glenn_Beck/FOXNEWS_20091024_210000_Glenn_Beck.thumbs/FOXNEWS_20091024_210000_Glenn_Beck_001072.jpg</field>
+<field name="snippet">i can't lose. you're a new yorker now. i'm ambivalent. oh, please. you're pathetic. allallall right. white house officials say president obama will likely skip a u.n. conference on climate</field>
+</doc>
+</add>

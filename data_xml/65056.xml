@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190309_110000_Fox_and_Friends_Saturday#start/7010/end/7045</field>
+<field name="datetime">3/9/2019 12:57:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20190309_110000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190309_110000_Fox_and_Friends_Saturday/FOXNEWSW_20190309_110000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20190309_110000_Fox_and_Friends_Saturday_006989.jpg</field>
+<field name="snippet">convincing me there is global warming. pete: thank you, rachel, great stuff. rachel: have a great day. enjoy your eighth. emily: may you have a ninth. pete: we all want to take care of our kids but are we doing more harm than good</field>
+</doc>
+</add>

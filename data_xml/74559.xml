@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200112_230000_BBC_News#start/830/end/865</field>
+<field name="datetime">1/12/2020 23:14:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200112_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200112_230000_BBC_News/BBCNEWS_20200112_230000_BBC_News.thumbs/BBCNEWS_20200112_230000_BBC_News_000809.jpg</field>
+<field name="snippet">crisis is the result of climate change and the government is doing too little about it. is this australia's future? the new normal?</field>
+</doc>
+</add>

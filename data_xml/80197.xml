@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190518_160000_Americas_News_HQ#start/3710/end/3745</field>
+<field name="datetime">5/18/2019 17:02:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20190518_160000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190518_160000_Americas_News_HQ/FOXNEWSW_20190518_160000_Americas_News_HQ.thumbs/FOXNEWSW_20190518_160000_Americas_News_HQ_003687.jpg</field>
+<field name="snippet">this week sanders criticized biden for taking middle-ground approach for climate change that isn't progressive enough and sanders campaign, biden doesn't want to speak ill of democratic</field>
+</doc>
+</add>

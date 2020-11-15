@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191117_033000_Our_World#start/183/end/218</field>
+<field name="datetime">11/17/2019 3:33:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Our World</field>
+<field name="showid">BBCNEWS_20191117_033000_Our_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191117_033000_Our_World/BBCNEWS_20191117_033000_Our_World.thumbs/BBCNEWS_20191117_033000_Our_World_000178.jpg</field>
+<field name="snippet">now on bbc news, our world. as australia wrestles with the effects of climate change, nick lazaredes meets those who are fighting to preserve the reef and those being blamed for its sudden decline.</field>
+</doc>
+</add>

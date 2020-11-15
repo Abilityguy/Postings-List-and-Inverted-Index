@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201411.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20141118_230000_PoliticsNation#start/92/end/127</field>
+<field name="datetime">11/18/2014 23:01:47</field>
+<field name="station">MSNBC</field>
+<field name="show">PoliticsNation</field>
+<field name="showid">MSNBCW_20141118_230000_PoliticsNation</field>
+<field name="preview">https://archive.org/download/MSNBCW_20141118_230000_PoliticsNation/MSNBCW_20141118_230000_PoliticsNation.thumbs/MSNBCW_20141118_230000_PoliticsNation_000076.jpg</field>
+<field name="snippet">contributing to climate change. they also say we could see more spills like this one in arkansas last year and even if the senate approves tonight's vote it is not clear if president obama would sign it.</field>
+</doc>
+</add>

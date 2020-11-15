@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190819_050000_Breakfast#start/3141/end/3176</field>
+<field name="datetime">8/19/2019 5:52:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190819_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190819_050000_Breakfast/BBCNEWS_20190819_050000_Breakfast.thumbs/BBCNEWS_20190819_050000_Breakfast_003118.jpg</field>
+<field name="snippet">for how much they are contributing to climate change, so today we're looking at one where they may be able to mitigate that in the future with the help of a very unusual plant, maybe the most important plant you've probably never heard</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201712.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20171229_110000_Morning_Joe#start/10340/end/10375</field>
+<field name="datetime">12/29/2017 13:52:35</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20171229_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20171229_110000_Morning_Joe/MSNBCW_20171229_110000_Morning_Joe.thumbs/MSNBCW_20171229_110000_Morning_Joe_010317.jpg</field>
+<field name="snippet">do together. on issues ranging from net neutrality to climate change. more rural broadband. you can't -- becky, you can't go wrong with rural broadband.</field>
+</doc>
+</add>

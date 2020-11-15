@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191004_130000_Afternoon_Live#start/1608/end/1643</field>
+<field name="datetime">10/4/2019 13:27:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20191004_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191004_130000_Afternoon_Live/BBCNEWS_20191004_130000_Afternoon_Live.thumbs/BBCNEWS_20191004_130000_Afternoon_Live_001588.jpg</field>
+<field name="snippet">crops are failing, sea levels are rising, the sixth extinction is gripping the globe. and the impacts are not evenly felt. the poorest are hit hardest, those who contributed least to the climate crisis are</field>
+</doc>
+</add>

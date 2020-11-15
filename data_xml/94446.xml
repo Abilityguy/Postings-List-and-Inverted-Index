@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201004.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100416_100000_Morning_Joe#start/4581/end/4616</field>
+<field name="datetime">4/16/2010 11:16:36</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20100416_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20100416_100000_Morning_Joe/MSNBC_20100416_100000_Morning_Joe.thumbs/MSNBC_20100416_100000_Morning_Joe_004553.jpg</field>
+<field name="snippet">david gregory of 'meet the press' will be here. i want to get into maybe a more effective way to sell the issue of climate change and the environment. it goes along the line of what tom freeman says when he comes on this show. that is, we make the arguments that even if climate change</field>
+</doc>
+</add>

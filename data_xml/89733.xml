@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201401.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140107_160000_MSNBC_Live#start/2124/end/2159</field>
+<field name="datetime">1/7/2014 16:35:39</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20140107_160000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140107_160000_MSNBC_Live/MSNBCW_20140107_160000_MSNBC_Live.thumbs/MSNBCW_20140107_160000_MSNBC_Live_002116.jpg</field>
+<field name="snippet">woods-plaquey. thanks for coming on, bernadette. i guess all the people who think climate change is hoeky are saying, see, there's no global warming, what are you guys talking about? what do you say to them? that has been a big question this week, but we have to step back and look at the big</field>
+</doc>
+</add>

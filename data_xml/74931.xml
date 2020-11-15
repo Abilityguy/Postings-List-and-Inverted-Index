@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_060000_Breakfast#start/1107/end/1142</field>
+<field name="datetime">1/17/2020 6:18:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20200117_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_060000_Breakfast/BBCNEWS_20200117_060000_Breakfast.thumbs/BBCNEWS_20200117_060000_Breakfast_001107.jpg</field>
+<field name="snippet">a little later on. we all heard sir david attenborough's comments on breakfast yesterday. 'the moment of crisis has come'. but how can we really tackle climate change and cut emissions? glasgow thinks it might have the answer. nina's there for us.</field>
+</doc>
+</add>

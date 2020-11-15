@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140515_070000_All_In_With_Chris_Hayes#start/336/end/371</field>
+<field name="datetime">5/15/2014 7:05:51</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20140515_070000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140515_070000_All_In_With_Chris_Hayes/MSNBCW_20140515_070000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20140515_070000_All_In_With_Chris_Hayes_000316.jpg</field>
+<field name="snippet">joining me now is former congressman bob english, republican from south carolina, now executive director of the energy and enterprise initiative. and bob, you've been fighting a lonely battle to kind of get republicans to accept the science on climate change. what do you make of rubio's week, the last few days?</field>
+</doc>
+</add>

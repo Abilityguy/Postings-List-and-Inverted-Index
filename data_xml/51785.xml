@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181214_060000_Breakfast#start/630/end/665</field>
+<field name="datetime">12/14/2018 6:10:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181214_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181214_060000_Breakfast/BBCNEWS_20181214_060000_Breakfast.thumbs/BBCNEWS_20181214_060000_Breakfast_000627.jpg</field>
+<field name="snippet">during the solo, round-the-world, 'golden globe' race. scientists are calling for mandatory food labels that spell out the environmental impact of the production process. food production is responsible for a quarter of all greenhouse gas emissions, according to an oxford university study. they also found that meat and other animal products are responsible</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201210.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121016_150000_Happening_Now#start/2123/end/2158</field>
+<field name="datetime">10/16/2012 15:35:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20121016_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121016_150000_Happening_Now/FOXNEWSW_20121016_150000_Happening_Now.thumbs/FOXNEWSW_20121016_150000_Happening_Now_002097.jpg</field>
+<field name="snippet">to develop a musical about climate change and biodiversity. the great immensity, opened in kansas city this year. along with the song one reviewer described as sounding like a wikipedia entry set to music the audience was able to</field>
+</doc>
+</add>

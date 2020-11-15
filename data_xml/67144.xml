@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140515_070000_All_In_With_Chris_Hayes#start/286/end/321</field>
+<field name="datetime">5/15/2014 7:05:01</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20140515_070000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140515_070000_All_In_With_Chris_Hayes/MSNBCW_20140515_070000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20140515_070000_All_In_With_Chris_Hayes_000286.jpg</field>
+<field name="snippet">with climate change comes at a cost. finding the most recent two-year delay has added nearly $4 trillion to the cost of a burning climate catastrophe. right now, we have reached something of a consensus moment on the threat of climate change. scientific establishment, the military establishment, even much of the business</field>
+</doc>
+</add>

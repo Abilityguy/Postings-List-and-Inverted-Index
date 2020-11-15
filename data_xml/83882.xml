@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190417_170000_BBC_News_at_Six#start/1823/end/1858</field>
+<field name="datetime">4/17/2019 17:30:38</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20190417_170000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190417_170000_BBC_News_at_Six/BBCNEWS_20190417_170000_BBC_News_at_Six.thumbs/BBCNEWS_20190417_170000_BBC_News_at_Six_001798.jpg</field>
+<field name="snippet">london, activists say being arrested as part of their campaign to highlight climate change. the royal house loses its claim over hearing damage caused to a viola player at one of its rehearsals.</field>
+</doc>
+</add>

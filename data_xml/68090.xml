@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190211_200000_BBC_News#start/1736/end/1771</field>
+<field name="datetime">2/11/2019 20:29:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190211_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190211_200000_BBC_News/BBCNEWS_20190211_200000_BBC_News.thumbs/BBCNEWS_20190211_200000_BBC_News_001708.jpg</field>
+<field name="snippet">absolutely, moths and bees and beetles are all massively in trouble right now. those losses, scientitsts say, could jeopardise our way of life. so much of our atmospheric carbon which is linked to climate change, that is stored in the soil,</field>
+</doc>
+</add>

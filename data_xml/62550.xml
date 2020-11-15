@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201212.csv</field>
+<field name="url">https://archive.org/details/CNNW_20121210_210000_The_Situation_Room#start/9452/end/9487</field>
+<field name="datetime">12/10/2012 23:37:47</field>
+<field name="station">CNN</field>
+<field name="show">The Situation Room</field>
+<field name="showid">CNNW_20121210_210000_The_Situation_Room</field>
+<field name="preview">https://archive.org/download/CNNW_20121210_210000_The_Situation_Room/CNNW_20121210_210000_The_Situation_Room.thumbs/CNNW_20121210_210000_The_Situation_Room_009448.jpg</field>
+<field name="snippet">trees will talk to networks will talk to scientists about climate change. cars will talk to road sensors will talk to stoplights about traffic efficiency. the ambulance will talk to patient records will talk to doctors about saving lives.</field>
+</doc>
+</add>

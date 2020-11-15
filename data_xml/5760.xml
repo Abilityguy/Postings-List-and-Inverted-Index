@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190918_123000_BBC_News#start/476/end/511</field>
+<field name="datetime">9/18/2019 12:38:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190918_123000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190918_123000_BBC_News/BBCNEWS_20190918_123000_BBC_News.thumbs/BBCNEWS_20190918_123000_BBC_News_000478.jpg</field>
+<field name="snippet">the briefing starts with the new reality that energy policy in the uk is based on the need to get greenhouse gases down to zero by 2050. you can see back in 1990 the uk was emitting nearly</field>
+</doc>
+</add>

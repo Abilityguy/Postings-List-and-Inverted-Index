@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190510_200000_World_News_Today#start/983/end/1018</field>
+<field name="datetime">5/10/2019 20:16:38</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190510_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190510_200000_World_News_Today/BBCNEWS_20190510_200000_World_News_Today.thumbs/BBCNEWS_20190510_200000_World_News_Today_000957.jpg</field>
+<field name="snippet">programme at the university of oxford, who's involved in exploring techniques to combat climate change. do these techniques, seem familiar to you? are they effective? welcome</field>
+</doc>
+</add>

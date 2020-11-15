@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201102.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110222_110000_Morning_Joe#start/9924/end/9959</field>
+<field name="datetime">2/22/2011 13:45:39</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20110222_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20110222_110000_Morning_Joe/MSNBC_20110222_110000_Morning_Joe.thumbs/MSNBC_20110222_110000_Morning_Joe_009900.jpg</field>
+<field name="snippet">the past 30 years, free trade has not been an economic theory. it's been a religion. much like global warming was five years ago. if you even questioned it, from any side, then you're a heratic</field>
+</doc>
+</add>

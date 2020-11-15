@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190214_130000_BBC_News_at_One#start/1620/end/1655</field>
+<field name="datetime">2/14/2019 13:27:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190214_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190214_130000_BBC_News_at_One/BBCNEWS_20190214_130000_BBC_News_at_One.thumbs/BBCNEWS_20190214_130000_BBC_News_at_One_001617.jpg</field>
+<field name="snippet">because it's my future and it's pretty bleak if we don't do anything about climate change. for more than a century, our planet has been getting warmer. and the row over what global leaders should do about it isn't exactly cooling off.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_100000_BBC_Newsroom_Live#start/7004/end/7039</field>
+<field name="datetime">10/8/2018 11:56:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20181008_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_100000_BBC_Newsroom_Live/BBCNEWS_20181008_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20181008_100000_BBC_Newsroom_Live_006987.jpg</field>
+<field name="snippet">now with climate change action, if we're going to keep 1.5 degrees within reach. we'll have the latest from our science editor in south korea, where the un report's been published. also this lunchtime. four sisters are feared dead after a limousine crash in america that's killed 20 people.</field>
+</doc>
+</add>

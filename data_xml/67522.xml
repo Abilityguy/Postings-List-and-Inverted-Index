@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140515_070000_All_In_With_Chris_Hayes#start/1879/end/1914</field>
+<field name="datetime">5/15/2014 7:31:34</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20140515_070000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140515_070000_All_In_With_Chris_Hayes/MSNBCW_20140515_070000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20140515_070000_All_In_With_Chris_Hayes_001876.jpg</field>
+<field name="snippet">amount of money in this year's election. more than $125 million in the midterm, and a 50-state effort to get their candidates elected and their agenda enacted. the koch brother's mission to gin up climate change denialism is facing some resistance in their own backyard.</field>
+</doc>
+</add>

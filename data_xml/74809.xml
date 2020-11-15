@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_090000_BBC_News_at_9#start/3384/end/3419</field>
+<field name="datetime">1/17/2020 9:56:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20200117_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_090000_BBC_News_at_9/BBCNEWS_20200117_090000_BBC_News_at_9.thumbs/BBCNEWS_20200117_090000_BBC_News_at_9_003359.jpg</field>
+<field name="snippet">here. we will look at the subject of climate change throughout the year, building up to that key summit in glasgow in november. right now, let us get the weather forecast, and thatis that is with simon king.</field>
+</doc>
+</add>

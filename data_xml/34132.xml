@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_200000_Studio_B_With_Shepard_Smith#start/295/end/330</field>
+<field name="datetime">12/18/2009 20:05:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Studio B With Shepard Smith</field>
+<field name="showid">FOXNEWS_20091218_200000_Studio_B_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_200000_Studio_B_With_Shepard_Smith/FOXNEWS_20091218_200000_Studio_B_With_Shepard_Smith.thumbs/FOXNEWS_20091218_200000_Studio_B_With_Shepard_Smith_000270.jpg</field>
+<field name="snippet">there might be negotiations with ministers tomorrow, but this could go on. gregg: thank you. fox news as a special on global climate change this weekend. bret baier is hosting it. it is sunday at 9:00 p.m. eastern, 6:00 on the west coast.</field>
+</doc>
+</add>

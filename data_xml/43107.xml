@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090922_190000_Studio_B_With_Shepard_Smith#start/408/end/443</field>
+<field name="datetime">9/22/2009 19:07:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Studio B With Shepard Smith</field>
+<field name="showid">FOXNEWS_20090922_190000_Studio_B_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090922_190000_Studio_B_With_Shepard_Smith/FOXNEWS_20090922_190000_Studio_B_With_Shepard_Smith.thumbs/FOXNEWS_20090922_190000_Studio_B_With_Shepard_Smith_000390.jpg</field>
+<field name="snippet">israelis do not halt the settlements, the palestinians cannot do it. shepard: they started out talking about a global warming assessment.</field>
+</doc>
+</add>

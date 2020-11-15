@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201807.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180726_130000_Afternoon_Live#start/2393/end/2428</field>
+<field name="datetime">7/26/2018 13:40:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20180726_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180726_130000_Afternoon_Live/BBCNEWS_20180726_130000_Afternoon_Live.thumbs/BBCNEWS_20180726_130000_Afternoon_Live_002367.jpg</field>
+<field name="snippet">ago, we would have said, it's possible, but we can't say whether a particular weather event can be ascribed to climate change. now it is becoming much clearer that we can with quite a lot of confidence say that something like an extreme weather event is linked to climate change, or at least it would be very</field>
+</doc>
+</add>

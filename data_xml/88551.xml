@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190611_220000_BBC_News#start/952/end/987</field>
+<field name="datetime">6/11/2019 22:16:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190611_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190611_220000_BBC_News/BBCNEWS_20190611_220000_BBC_News.thumbs/BBCNEWS_20190611_220000_BBC_News_000927.jpg</field>
+<field name="snippet">the headlines on bbc news: the prime minister pledges the uk will cut greenhouse gases to zero by 2050, making britain one of the first major economy to do so, affecting all our daily lives. three more conservatives set out their stalls in the leadership contest - and brexit            _</field>
+</doc>
+</add>

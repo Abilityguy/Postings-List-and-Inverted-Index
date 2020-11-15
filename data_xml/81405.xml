@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091217_030000_Countdown_With_Keith_Olbermann#start/3541/end/3576</field>
+<field name="datetime">12/17/2009 3:59:16</field>
+<field name="station">MSNBC</field>
+<field name="show">Countdown With Keith Olbermann</field>
+<field name="showid">MSNBC_20091217_030000_Countdown_With_Keith_Olbermann</field>
+<field name="preview">https://archive.org/download/MSNBC_20091217_030000_Countdown_With_Keith_Olbermann/MSNBC_20091217_030000_Countdown_With_Keith_Olbermann.thumbs/MSNBC_20091217_030000_Countdown_With_Keith_Olbermann_003536.jpg</field>
+<field name="snippet">we've got two wars, we've got global warming, we have a $12 trillion national debt and the best the republicans can do is try to bring the united states government to a halt. by forcing a read of a 700-page</field>
+</doc>
+</add>

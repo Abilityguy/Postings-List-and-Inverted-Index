@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180909_030000_BBC_News#start/1150/end/1185</field>
+<field name="datetime">9/9/2018 3:19:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180909_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180909_030000_BBC_News/BBCNEWS_20180909_030000_BBC_News.thumbs/BBCNEWS_20180909_030000_BBC_News_001137.jpg</field>
+<field name="snippet">capital, bangkok, dozens of labourers and fishermen from the gulf assembled in front of the un regional headquarters. their livelihoods are threatened by rising sea levels and closed erosion caused by climate change. inside, delegates have in discussing how to implement</field>
+</doc>
+</add>

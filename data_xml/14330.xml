@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201812.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181205_100000_First_Look#start/1032/end/1067</field>
+<field name="datetime">12/5/2018 10:17:27</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20181205_100000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181205_100000_First_Look/MSNBCW_20181205_100000_First_Look.thumbs/MSNBCW_20181205_100000_First_Look_001017.jpg</field>
+<field name="snippet">protests, the french government announced it will suspend the fuel tax increase for six months. it's slated to take effect in january was designed to help curb climate change and wean</field>
+</doc>
+</add>

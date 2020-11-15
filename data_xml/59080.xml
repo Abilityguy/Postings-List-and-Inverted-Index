@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181118_210000_World_News_Today#start/1052/end/1087</field>
+<field name="datetime">11/18/2018 21:17:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20181118_210000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181118_210000_World_News_Today/BBCNEWS_20181118_210000_World_News_Today.thumbs/BBCNEWS_20181118_210000_World_News_Today_001047.jpg</field>
+<field name="snippet">and strongly disagreed with the president over what they consider to be the cause of these raging fires. president trump has blamed bad forest management but experts say it is a combination of factors, including climate change. as well as the many lives lost, many thousands more lives</field>
+</doc>
+</add>

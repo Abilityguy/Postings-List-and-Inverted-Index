@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201002.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100211_060000_Countdown_With_Keith_Olbermann#start/247/end/282</field>
+<field name="datetime">2/11/2010 6:04:22</field>
+<field name="station">MSNBC</field>
+<field name="show">Countdown With Keith Olbermann</field>
+<field name="showid">MSNBC_20100211_060000_Countdown_With_Keith_Olbermann</field>
+<field name="preview">https://archive.org/download/MSNBC_20100211_060000_Countdown_With_Keith_Olbermann/MSNBC_20100211_060000_Countdown_With_Keith_Olbermann.thumbs/MSNBC_20100211_060000_Countdown_With_Keith_Olbermann_000235.jpg</field>
+<field name="snippet">good evening from new york. a blizzard has buried much of the northeast. much of the nation's capital, and much of congress' sanity. what the record snowfall has exposed, however, is just how ignorant leading deniers are about what even the bush pentagon recognized as a threat, climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201905.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190513_080000_First_Look#start/2875/end/2910</field>
+<field name="datetime">5/13/2019 8:48:10</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20190513_080000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190513_080000_First_Look/MSNBCW_20190513_080000_First_Look.thumbs/MSNBCW_20190513_080000_First_Look_002848.jpg</field>
+<field name="snippet">but says the former vp takes climate change seriously and has in the past called it an existential threat. let's get a check on your weather. i can't wait for the debates.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171212_110000_BBC_Newsroom_Live#start/4998/end/5033</field>
+<field name="datetime">12/12/2017 12:23:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20171212_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171212_110000_BBC_Newsroom_Live/BBCNEWS_20171212_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20171212_110000_BBC_Newsroom_Live_005007.jpg</field>
+<field name="snippet">on combating global warming. mr macron was speaking to the american network, cbs, ahead of a climate change summit in the french capital today. it is two years since the government</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201901.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190102_110000_Morning_Joe#start/5573/end/5608</field>
+<field name="datetime">1/2/2019 12:33:08</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20190102_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190102_110000_Morning_Joe/MSNBCW_20190102_110000_Morning_Joe.thumbs/MSNBCW_20190102_110000_Morning_Joe_005548.jpg</field>
+<field name="snippet">good morning. the issues that you're talking about, the economy and infrastructure, it seems that the issues at the top of the democratic agenda as i am hearing it focuses on things like voting rights, focuses on gun control and climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201007.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100705_110000_MSNBC_News_Live#start/2808/end/2843</field>
+<field name="datetime">7/5/2010 11:47:03</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100705_110000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100705_110000_MSNBC_News_Live/MSNBC_20100705_110000_MSNBC_News_Live.thumbs/MSNBC_20100705_110000_MSNBC_News_Live_002784.jpg</field>
+<field name="snippet">some help! what happened in 1803? kate arnold teaches eighth grade history. after showing her class inconvenient truth, the documentary about climate change, her students were immediately inspired to act. climate change is an urgent issue that we all need to be air</field>
+</doc>
+</add>

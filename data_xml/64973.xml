@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190321_040000_Tucker_Carlson_Tonight#start/1157/end/1192</field>
+<field name="datetime">3/21/2019 4:19:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190321_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190321_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190321_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190321_040000_Tucker_Carlson_Tonight_001139.jpg</field>
+<field name="snippet">the biggest threat to our prosperity in this 21st century is climate change. a crisis that could, at its worst, lead to extinction. that climate change is real is an existential threat to our country and the entiree planet.</field>
+</doc>
+</add>

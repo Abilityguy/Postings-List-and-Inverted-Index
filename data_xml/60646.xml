@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_160000_BBC_News_at_Five#start/0/end/31</field>
+<field name="datetime">10/8/2018 16:00:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20181008_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_160000_BBC_News_at_Five/BBCNEWS_20181008_160000_BBC_News_at_Five.thumbs/BBCNEWS_20181008_160000_BBC_News_at_Five_000058.jpg</field>
+<field name="snippet">today at five: a plea to save the planet before its too late - scientists issue their starkest warning yet on the risks of climate change. they warn that huge changes are needed to government policies and individual lifestyles - in order to avoid a catastrophic rise in global temperatures. countries need to up their ambition</field>
+</doc>
+</add>

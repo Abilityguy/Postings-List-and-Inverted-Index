@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191202_083000_Worklife#start/57/end/92</field>
+<field name="datetime">12/2/2019 8:31:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Worklife</field>
+<field name="showid">BBCNEWS_20191202_083000_Worklife</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191202_083000_Worklife/BBCNEWS_20191202_083000_Worklife.thumbs/BBCNEWS_20191202_083000_Worklife_000028.jpg</field>
+<field name="snippet">bye. this is worklife from bbc news, with sally bundock and david eades. climate change - or no change? international talks open in spain</field>
+</doc>
+</add>

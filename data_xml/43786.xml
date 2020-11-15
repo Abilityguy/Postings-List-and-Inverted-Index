@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151211_040000_All_In_With_Chris_Hayes#start/2945/end/2980</field>
+<field name="datetime">12/11/2015 4:49:20</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20151211_040000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151211_040000_All_In_With_Chris_Hayes/MSNBCW_20151211_040000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20151211_040000_All_In_With_Chris_Hayes_002925.jpg</field>
+<field name="snippet">the outlook is to continue to drop. the colorado river is ground zero for climate change. i think a modest projection suggests we'll have about 10% less flow in the river on average by 2050 than we have today.</field>
+</doc>
+</add>

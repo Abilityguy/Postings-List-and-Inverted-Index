@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201302.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130225_030000_Stossel#start/2955/end/2990</field>
+<field name="datetime">2/25/2013 3:49:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Stossel</field>
+<field name="showid">FOXNEWSW_20130225_030000_Stossel</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130225_030000_Stossel/FOXNEWSW_20130225_030000_Stossel.thumbs/FOXNEWSW_20130225_030000_Stossel_002955.jpg</field>
+<field name="snippet">will be $10.20. john: spend money to try to stop climate change. wait a minute. climate change is a fact. john: spend money to try to the reduced. we need to protect the global climate.</field>
+</doc>
+</add>

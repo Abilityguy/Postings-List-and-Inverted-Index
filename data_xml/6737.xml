@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190902_230000_Newsday#start/1329/end/1364</field>
+<field name="datetime">9/2/2019 23:22:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190902_230000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190902_230000_Newsday/BBCNEWS_20190902_230000_Newsday.thumbs/BBCNEWS_20190902_230000_Newsday_001318.jpg</field>
+<field name="snippet">this is now the fourth year in a row in which there has been a category 5 hurricane in the atlantic, a record in the modern era, with experts attributing the increased frequency of these weather events to climate change. and dorian now heads towards florida, with projections</field>
+</doc>
+</add>

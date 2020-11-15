@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201509.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150925_100000_FOX__Friends#start/7403/end/7438</field>
+<field name="datetime">9/25/2015 12:03:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20150925_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150925_100000_FOX__Friends/FOXNEWSW_20150925_100000_FOX__Friends.thumbs/FOXNEWSW_20150925_100000_FOX__Friends_007395.jpg</field>
+<field name="snippet">extreme poverty and hunger and deal with issues such as climate change. we expect the pontiff to expound on his encyclical on climate change, mentioning the situation that affects developing nations around the world. also we expect him to address the overwhelming humanitarian crisis of the syrian refugees,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201604.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160422_220000_Special_Report_With_Bret_Baier#start/1148/end/1183</field>
+<field name="datetime">4/22/2016 22:19:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20160422_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160422_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20160422_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20160422_220000_Special_Report_With_Bret_Baier_001137.jpg</field>
+<field name="snippet">the goal of the agreement is to lower the rate of global warming by reducing carbon emissions and other greenhouse gases, under the plan, each country sets its own targets, updating them every five years, the agreement also calls for</field>
+</doc>
+</add>

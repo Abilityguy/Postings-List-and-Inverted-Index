@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_230000_Newsday#start/943/end/978</field>
+<field name="datetime">8/8/2019 23:15:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190808_230000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_230000_Newsday/BBCNEWS_20190808_230000_Newsday.thumbs/BBCNEWS_20190808_230000_Newsday_000929.jpg</field>
+<field name="snippet">produce is fuelling global warming. india's prime minister defends his decision to revoke kashmir's special status, saying the region will be freed from terrorism and separatism.</field>
+</doc>
+</add>

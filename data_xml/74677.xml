@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_170000_BBC_News_at_Five#start/520/end/555</field>
+<field name="datetime">1/16/2020 17:08:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20200116_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_170000_BBC_News_at_Five/BBCNEWS_20200116_170000_BBC_News_at_Five.thumbs/BBCNEWS_20200116_170000_BBC_News_at_Five_000507.jpg</field>
+<field name="snippet">general when it comes to climate change? how difficult is that proving, do you think was yellow. it is clear that public concern has reached an all-time high around</field>
+</doc>
+</add>

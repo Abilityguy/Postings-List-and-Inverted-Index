@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_180000_BBC_News_at_Six#start/7/end/42</field>
+<field name="datetime">1/16/2020 18:00:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20200116_180000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_180000_BBC_News_at_Six/BBCNEWS_20200116_180000_BBC_News_at_Six.thumbs/BBCNEWS_20200116_180000_BBC_News_at_Six_000028.jpg</field>
+<field name="snippet">the world is facing a moment of crisis over climate change - the warning from sir david attenborough. forest fires, melting ice, drought, flooding - sir david says the world can no longer wait. action is needed now. the moment of crisis has come.</field>
+</doc>
+</add>

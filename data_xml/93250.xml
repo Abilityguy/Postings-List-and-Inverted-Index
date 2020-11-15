@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190731_080000_BBC_News_at_Nine#start/1841/end/1876</field>
+<field name="datetime">7/31/2019 8:30:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190731_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190731_080000_BBC_News_at_Nine/BBCNEWS_20190731_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190731_080000_BBC_News_at_Nine_001828.jpg</field>
+<field name="snippet">how we set up, like infrastructure, thinking of how the railways buckled in the heat in the last few days. in order to get us ready, it's going to cost millions, billions. that's right. we can talk about how we mitigate against climate change but</field>
+</doc>
+</add>

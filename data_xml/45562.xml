@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201909.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190919_190000_MSNBC_Live_With_Ali_Velshi#start/30/end/65</field>
+<field name="datetime">9/19/2019 19:00:45</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190919_190000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190919_190000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190919_190000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190919_190000_MSNBC_Live_With_Ali_Velshi_000028.jpg</field>
+<field name="snippet">university campus in washington, d.c., and it has been a week of the network wide focus on the important issue of climate change. i have been listening to the presidential candidates who have been there already, ali velshi, a fascinating day.</field>
+</doc>
+</add>

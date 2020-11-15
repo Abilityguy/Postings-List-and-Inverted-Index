@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191011_210000_BBC_News_at_Ten#start/1370/end/1405</field>
+<field name="datetime">10/11/2019 21:23:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20191011_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191011_210000_BBC_News_at_Ten/BBCNEWS_20191011_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20191011_210000_BBC_News_at_Ten_001348.jpg</field>
+<field name="snippet">on this story on panorama: climate change: what can we do? that's on monday at 8.30pm on bbc one. football and england have been beaten by the czech republic in their european championships group game in prague. it's the first time defeat</field>
+</doc>
+</add>

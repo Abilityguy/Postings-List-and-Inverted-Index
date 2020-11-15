@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201511.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151130_120300_Morning_Joe#start/772/end/807</field>
+<field name="datetime">11/30/2015 12:16:07</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20151130_120300_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151130_120300_Morning_Joe/MSNBCW_20151130_120300_Morning_Joe.thumbs/MSNBCW_20151130_120300_Morning_Joe_000747.jpg</field>
+<field name="snippet">and climate change or whatever the new term is, now we have extreme weather, they have new terms because the old ones don't work anymore. they have climate change and now</field>
+</doc>
+</add>

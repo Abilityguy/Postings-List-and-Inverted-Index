@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_120000_BBC_News_at_One#start/92/end/127</field>
+<field name="datetime">10/8/2018 12:01:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20181008_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_120000_BBC_News_at_One/BBCNEWS_20181008_120000_BBC_News_at_One.thumbs/BBCNEWS_20181008_120000_BBC_News_at_One_000088.jpg</field>
+<field name="snippet">scientists have issued their starkest warning yet about the danger of climate change. in a dramatic report, the un's intergovernmental panel says the world is nowhere near its target of keeping the rise in average global temperatures to 1.5 degrees celsius. instead, it says we're heading for an increase of three degrees from</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201003.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100331_150000_Happening_Now#start/2100/end/2135</field>
+<field name="datetime">3/31/2010 15:35:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20100331_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100331_150000_Happening_Now/FOXNEWS_20100331_150000_Happening_Now.thumbs/FOXNEWS_20100331_150000_Happening_Now_002094.jpg</field>
+<field name="snippet">republicans. trace: what do you make of that, maria, brad says the president is throwing republicans a bone because he wants to go for this climate change bill and it's going to cost business big time and he knows republicans don't like it but if you give him a bit on nuclear and some of the off shore drilling, maybe</field>
+</doc>
+</add>

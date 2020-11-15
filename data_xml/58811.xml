@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181121_220000_BBC_News_at_Ten#start/79/end/114</field>
+<field name="datetime">11/21/2018 22:01:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20181121_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181121_220000_BBC_News_at_Ten/BBCNEWS_20181121_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20181121_220000_BBC_News_at_Ten_000058.jpg</field>
+<field name="snippet">for a climate change conference. they are dealing with real people's futures and the people are watching them and want action. and coming up on sportsday on bbc news: the republic of ireland</field>
+</doc>
+</add>

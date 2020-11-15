@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201610.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161011_200000_MSNBC_Live#start/78/end/113</field>
+<field name="datetime">10/11/2016 20:01:33</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20161011_200000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161011_200000_MSNBC_Live/MSNBCW_20161011_200000_MSNBC_Live.thumbs/MSNBCW_20161011_200000_MSNBC_Live_000057.jpg</field>
+<field name="snippet">casey, the message officially here, we heard hillary's speech about climate change. the message is about climate change, but also there is a lot of history with al gore in florida. a lot of history with al gore and the clintons.</field>
+</doc>
+</add>

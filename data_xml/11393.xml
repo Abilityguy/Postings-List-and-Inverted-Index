@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_050000_Breakfast#start/2031/end/2066</field>
+<field name="datetime">8/8/2019 5:34:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190808_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_050000_Breakfast/BBCNEWS_20190808_050000_Breakfast.thumbs/BBCNEWS_20190808_050000_Breakfast_002008.jpg</field>
+<field name="snippet">people must eat less red meat and more plant-based food to help combat global warming, scientists are expected to say today. they are meeting in geneva to discuss the results of a major report which is published this morning. it will say that current levels of meat and dairy consumption are damaging the planet. there are concerns that businesses in whaley bridge may face delays</field>
+</doc>
+</add>

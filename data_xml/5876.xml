@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190913_210000_BBC_News_at_Ten#start/1189/end/1224</field>
+<field name="datetime">9/13/2019 21:20:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20190913_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190913_210000_BBC_News_at_Ten/BBCNEWS_20190913_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20190913_210000_BBC_News_at_Ten_001168.jpg</field>
+<field name="snippet">it's leaking into the air faster than ever before. this is a very potent greenhouse gas, and it's very long-lived. so what we put up in the atmosphere will essentially stay there for hundreds or thousands of years. if we don't cut emissions, we'lljust continue to add</field>
+</doc>
+</add>

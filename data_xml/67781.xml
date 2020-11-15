@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190221_170000_BBC_News_at_Five#start/1416/end/1451</field>
+<field name="datetime">2/21/2019 17:23:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190221_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190221_170000_BBC_News_at_Five/BBCNEWS_20190221_170000_BBC_News_at_Five.thumbs/BBCNEWS_20190221_170000_BBC_News_at_Five_001408.jpg</field>
+<field name="snippet">roger harrabin reports. it's cars, planes and industry that normally get the blame for greenhouse gases, but 14% of uk emissions come from our homes, mostly from gas boilers.</field>
+</doc>
+</add>

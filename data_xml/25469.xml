@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201407.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140702_090000_FOX_and_Friends_First#start/3407/end/3442</field>
+<field name="datetime">7/2/2014 9:57:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends First</field>
+<field name="showid">FOXNEWSW_20140702_090000_FOX_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140702_090000_FOX_and_Friends_First/FOXNEWSW_20140702_090000_FOX_and_Friends_First.thumbs/FOXNEWSW_20140702_090000_FOX_and_Friends_First_003405.jpg</field>
+<field name="snippet">nasa about to launch a new satellite that will tell us where our greenhouse gases are going. lifting into space on a powerful delta 2 rocket. four minutes until the top of the hour. it is the video everybody is talking about.</field>
+</doc>
+</add>

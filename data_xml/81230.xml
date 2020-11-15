@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091210_060000_Countdown_With_Keith_Olbermann#start/2471/end/2506</field>
+<field name="datetime">12/10/2009 6:41:26</field>
+<field name="station">MSNBC</field>
+<field name="show">Countdown With Keith Olbermann</field>
+<field name="showid">MSNBC_20091210_060000_Countdown_With_Keith_Olbermann</field>
+<field name="preview">https://archive.org/download/MSNBC_20091210_060000_Countdown_With_Keith_Olbermann/MSNBC_20091210_060000_Countdown_With_Keith_Olbermann.thumbs/MSNBC_20091210_060000_Countdown_With_Keith_Olbermann_002456.jpg</field>
+<field name="snippet">washington university, as always, great thanks for making it intelligible to folks like me. thanks, keith. sarah palin admits climate change e-mails were stolen, admits there is climate change. proposes as its solution do nothing. not even an exorcism and stuff.</field>
+</doc>
+</add>

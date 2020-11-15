@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190922_070000_Breakfast#start/586/end/621</field>
+<field name="datetime">9/22/2019 7:10:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190922_070000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190922_070000_Breakfast/BBCNEWS_20190922_070000_Breakfast.thumbs/BBCNEWS_20190922_070000_Breakfast_000569.jpg</field>
+<field name="snippet">of switzerland's 1500 glaciers could disappear by the end of this century, if global warming continues. talking of frozen months, i think i</field>
+</doc>
+</add>

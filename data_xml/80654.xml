@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190410_200000_Your_World_With_Neil_Cavuto#start/1258/end/1293</field>
+<field name="datetime">4/10/2019 20:21:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20190410_200000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190410_200000_Your_World_With_Neil_Cavuto/FOXNEWSW_20190410_200000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20190410_200000_Your_World_With_Neil_Cavuto_001258.jpg</field>
+<field name="snippet">it's ridiculous that she offered a suggestion. think about it. people are risking their lives, putting their children's lives at risk because of the weather? i don't think so. the u.s. is such a huge threat to climate change. why would they flee here? we should be getting a ticket</field>
+</doc>
+</add>

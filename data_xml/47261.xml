@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201802.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180227_200000_BBC_News#start/3193/end/3228</field>
+<field name="datetime">2/27/2018 20:53:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180227_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180227_200000_BBC_News/BBCNEWS_20180227_200000_BBC_News.thumbs/BBCNEWS_20180227_200000_BBC_News_003177.jpg</field>
+<field name="snippet">researchers say climate change is shifting the ocean currents the penguins depend on forfood. 70% of them may be forced to move from their current nesting sites or die. here's our science correspondentjonathan amos. splashing ashore after another</field>
+</doc>
+</add>

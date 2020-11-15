@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191203_030000_BBC_News#start/612/end/647</field>
+<field name="datetime">12/3/2019 3:10:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191203_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191203_030000_BBC_News/BBCNEWS_20191203_030000_BBC_News.thumbs/BBCNEWS_20191203_030000_BBC_News_000598.jpg</field>
+<field name="snippet">hitting an area in the northern seaboard of the country. so lots of questions in this country about whether it is climate change or whether it has just been a bad run of storms in the last year or so. from this very dry and warm studio, i thank you. you and your crew get</field>
+</doc>
+</add>

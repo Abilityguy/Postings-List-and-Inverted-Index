@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_160000_BBC_News_at_Five#start/906/end/941</field>
+<field name="datetime">9/20/2019 16:15:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190920_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_160000_BBC_News_at_Five/BBCNEWS_20190920_160000_BBC_News_at_Five.thumbs/BBCNEWS_20190920_160000_BBC_News_at_Five_000898.jpg</field>
+<field name="snippet">do need everyone to be making a difference on this, don't we? thank you very much indeed. millions of people are protesting around the world to demand greater action on climate change.</field>
+</doc>
+</add>

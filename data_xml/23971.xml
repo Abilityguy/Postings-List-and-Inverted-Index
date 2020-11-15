@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201411.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141116_060000_Hannity#start/1449/end/1484</field>
+<field name="datetime">11/16/2014 6:24:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20141116_060000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141116_060000_Hannity/FOXNEWSW_20141116_060000_Hannity.thumbs/FOXNEWSW_20141116_060000_Hannity_001425.jpg</field>
+<field name="snippet">so from trade to climate change to the fight against ebola, this was a strong week for american leadership. the results will be more jobs for the american people, historic steps toward a cleaner, and healthier planet and</field>
+</doc>
+</add>

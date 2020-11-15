@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191223_040000_BBC_News#start/1825/end/1860</field>
+<field name="datetime">12/23/2019 4:30:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191223_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191223_040000_BBC_News/BBCNEWS_20191223_040000_BBC_News.thumbs/BBCNEWS_20191223_040000_BBC_News_001798.jpg</field>
+<field name="snippet">in new south wales in australia. as firefighters struggle to control blazes, prime minister scott morrison has acknowledged a link between global warming and extreme weather, but doubled down on his committment to the coal industry. in india, prime minister and hindu nationalist leader narendra modi has tried to calm anger over a controversial new citizenship law,</field>
+</doc>
+</add>

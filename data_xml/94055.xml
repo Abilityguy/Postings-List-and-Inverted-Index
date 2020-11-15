@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170803_100000_BBC_Newsroom_Live#start/1503/end/1538</field>
+<field name="datetime">8/3/2017 10:25:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20170803_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170803_100000_BBC_Newsroom_Live/BBCNEWS_20170803_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20170803_100000_BBC_Newsroom_Live_001498.jpg</field>
+<field name="snippet">change institute at oxford university and can give us some context about the heatwave in southern europe. is this part of global warming or a</field>
+</doc>
+</add>

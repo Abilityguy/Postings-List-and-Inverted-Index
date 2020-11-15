@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190124_060000_Breakfast#start/1955/end/1990</field>
+<field name="datetime">1/24/2019 6:32:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190124_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190124_060000_Breakfast/BBCNEWS_20190124_060000_Breakfast.thumbs/BBCNEWS_20190124_060000_Breakfast_001948.jpg</field>
+<field name="snippet">here's a summary of today's main stories from bbc news. antibiotic resistance is as big a threat as climate change, the health secretary will say today, as he unveils a new five-year plan to tackle the problem. matt hancock will say the overuse of antibiotics is making infections harder to treat and leading to thousands of deaths a year through drug-resistant superbugs.</field>
+</doc>
+</add>

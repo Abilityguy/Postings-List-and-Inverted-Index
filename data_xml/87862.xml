@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191209_220000_BBC_News_at_Ten#start/524/end/559</field>
+<field name="datetime">12/9/2019 22:08:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20191209_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191209_220000_BBC_News_at_Ten/BBCNEWS_20191209_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20191209_220000_BBC_News_at_Ten_000507.jpg</field>
+<field name="snippet">himself to be untrustworthy as a prime minister. representatives from all of the main political parties contesting the election have faced each other in a special bbc question time for the under 30s. they debated climate change, housing and mental health among other issues.</field>
+</doc>
+</add>

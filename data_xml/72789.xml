@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201406.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140630_130000_The_Daily_Rundown#start/249/end/284</field>
+<field name="datetime">6/30/2014 13:04:24</field>
+<field name="station">MSNBC</field>
+<field name="show">The Daily Rundown</field>
+<field name="showid">MSNBCW_20140630_130000_The_Daily_Rundown</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140630_130000_The_Daily_Rundown/MSNBCW_20140630_130000_The_Daily_Rundown.thumbs/MSNBCW_20140630_130000_The_Daily_Rundown_000225.jpg</field>
+<field name="snippet">health care. after botching the rollout, the white house managed to turn the problem around and ended up with more sign-ups than expected. and two, the epa has taken significant action on climate change issuing rules calling for cutting carbon emissions from</field>
+</doc>
+</add>

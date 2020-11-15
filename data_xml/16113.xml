@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201304.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130405_100000_FOX_and_Friends#start/6511/end/6546</field>
+<field name="datetime">4/5/2013 11:48:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20130405_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130405_100000_FOX_and_Friends/FOXNEWSW_20130405_100000_FOX_and_Friends.thumbs/FOXNEWSW_20130405_100000_FOX_and_Friends_006495.jpg</field>
+<field name="snippet">now he's writing a piece that says the reason we haven't had so much global warming recently is because of coal, fire power plants, they put these particlates in the air which is counteracting the global warming, which just goes to show</field>
+</doc>
+</add>

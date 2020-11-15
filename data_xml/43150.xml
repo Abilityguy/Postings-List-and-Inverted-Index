@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090928_100000_FOX_and_Friends#start/6183/end/6218</field>
+<field name="datetime">9/28/2009 11:43:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20090928_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090928_100000_FOX_and_Friends/FOXNEWS_20090928_100000_FOX_and_Friends.thumbs/FOXNEWS_20090928_100000_FOX_and_Friends_006175.jpg</field>
+<field name="snippet">gretchen: this is what the re frmt did. he took a pummelling after he released that ball. brian: should be a rule anyone 40 shouldn't be able to tackle. gretchen: it's not flag football, brian. 41% of americans say global</field>
+</doc>
+</add>

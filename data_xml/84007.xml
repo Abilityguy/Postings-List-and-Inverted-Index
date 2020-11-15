@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190423_130000_Afternoon_Live#start/1602/end/1637</field>
+<field name="datetime">4/23/2019 13:26:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190423_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190423_130000_Afternoon_Live/BBCNEWS_20190423_130000_Afternoon_Live.thumbs/BBCNEWS_20190423_130000_Afternoon_Live_001587.jpg</field>
+<field name="snippet">making headlines across the world and bringing climate change protests to the capital on a scale never seen before here. today they also went to westminster, according on the government to engage with them in discussions</field>
+</doc>
+</add>

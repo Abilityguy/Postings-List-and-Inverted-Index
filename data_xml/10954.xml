@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_180000_Beyond_100_Days#start/190/end/225</field>
+<field name="datetime">8/8/2019 18:03:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20190808_180000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_180000_Beyond_100_Days/BBCNEWS_20190808_180000_Beyond_100_Days.thumbs/BBCNEWS_20190808_180000_Beyond_100_Days_000178.jpg</field>
+<field name="snippet">a lot of methane, a warming gas, the report says that eating less meat and more plants would really help. so what we choose to put an our plate helps define what the carbon footprint on the level of greenhouse gases in the atmosphere,</field>
+</doc>
+</add>

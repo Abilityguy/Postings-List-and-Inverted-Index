@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190709_123000_BBC_News#start/630/end/665</field>
+<field name="datetime">7/9/2019 12:40:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190709_123000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190709_123000_BBC_News/BBCNEWS_20190709_123000_BBC_News.thumbs/BBCNEWS_20190709_123000_BBC_News_000627.jpg</field>
+<field name="snippet">addressing mental and physical health challenges and concerns about the environment and climate change. john maguire, bbc news, worcestershire.</field>
+</doc>
+</add>

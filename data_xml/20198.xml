@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201404.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140408_170000_Americas_News_Headquarters#start/3309/end/3344</field>
+<field name="datetime">4/8/2014 17:55:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20140408_170000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140408_170000_Americas_News_Headquarters/FOXNEWSW_20140408_170000_Americas_News_Headquarters.thumbs/FOXNEWSW_20140408_170000_Americas_News_Headquarters_003285.jpg</field>
+<field name="snippet">intergovernmental panel on climate change. the nongovernmental panel on climate change concludes there is more carbon in the atmosphere but it will not cause catastrophic deadly storms. the human impact, they say is small.</field>
+</doc>
+</add>

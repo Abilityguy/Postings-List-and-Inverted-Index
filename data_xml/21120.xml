@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201308.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130816_070000_All_In_With_Chris_Hayes#start/2862/end/2897</field>
+<field name="datetime">8/16/2013 7:47:57</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20130816_070000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130816_070000_All_In_With_Chris_Hayes/MSNBCW_20130816_070000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20130816_070000_All_In_With_Chris_Hayes_002836.jpg</field>
+<field name="snippet">some people see natural gas as a so-called bridge fuel to get us where we need to two, toward renewable sources of energy such as sun, wind and water. that implies that we have time to walk the bridge. that implies that climate change is not yet upon us, but it is</field>
+</doc>
+</add>

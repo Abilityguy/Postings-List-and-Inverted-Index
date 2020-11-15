@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201210.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121031_160000_NOW_With_Alex_Wagner#start/2725/end/2760</field>
+<field name="datetime">10/31/2012 16:45:40</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20121031_160000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121031_160000_NOW_With_Alex_Wagner/MSNBCW_20121031_160000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20121031_160000_NOW_With_Alex_Wagner_002698.jpg</field>
+<field name="snippet">. despite the fact that it has gone unmentioned by both candidates during this election cycle a few moments ago new york governor andrew cuomo boldly chose not to avoid the issue of climate change. for us to sit here today and say well this is once in a</field>
+</doc>
+</add>

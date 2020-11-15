@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190524_230000_BBC_News#start/33/end/68</field>
+<field name="datetime">5/24/2019 23:00:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190524_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190524_230000_BBC_News/BBCNEWS_20190524_230000_BBC_News.thumbs/BBCNEWS_20190524_230000_BBC_News_001709.jpg</field>
+<field name="snippet">an estimated one million young people are estimated to have joined the latest international protesst on climate change. school students joined coordinated marches in over a hundred countries from japan and the philippines to delhi, istanbul, and cities across europe. the strikes are thought</field>
+</doc>
+</add>

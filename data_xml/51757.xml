@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181202_153000_Click#start/1688/end/1723</field>
+<field name="datetime">12/2/2018 15:58:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Click</field>
+<field name="showid">BBCNEWS_20181202_153000_Click</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181202_153000_Click/BBCNEWS_20181202_153000_Click.thumbs/BBCNEWS_20181202_153000_Click_001677.jpg</field>
+<field name="snippet">representatives from almost 200 countries gather in poland for talks on climate change - and how to breathe new life into the paris agreement.</field>
+</doc>
+</add>

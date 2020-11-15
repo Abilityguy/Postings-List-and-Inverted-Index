@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190518_040000_Tucker_Carlson_Tonight#start/1785/end/1820</field>
+<field name="datetime">5/18/2019 4:30:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190518_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190518_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190518_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190518_040000_Tucker_Carlson_Tonight_001768.jpg</field>
+<field name="snippet">memorable segments this show has ever run. we debated engineer and tv personality bill nye falsely called the science guy about global warming. it'ss not an open question. it's a settled question. human activity is causing climate change.</field>
+</doc>
+</add>

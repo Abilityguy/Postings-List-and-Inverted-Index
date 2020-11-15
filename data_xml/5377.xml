@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171227_123000_Great_Explorations#start/245/end/280</field>
+<field name="datetime">12/27/2017 12:34:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Great Explorations</field>
+<field name="showid">BBCNEWS_20171227_123000_Great_Explorations</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171227_123000_Great_Explorations/BBCNEWS_20171227_123000_Great_Explorations.thumbs/BBCNEWS_20171227_123000_Great_Explorations_000238.jpg</field>
+<field name="snippet">never been seen before. the footage is also helping scientists today learn more about the impact of climate change. will you give me a hand with this strap? certainly!</field>
+</doc>
+</add>

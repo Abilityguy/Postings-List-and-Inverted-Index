@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201610.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161011_200000_MSNBC_Live#start/16/end/51</field>
+<field name="datetime">10/11/2016 20:00:31</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20161011_200000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161011_200000_MSNBC_Live/MSNBCW_20161011_200000_MSNBC_Live.thumbs/MSNBCW_20161011_200000_MSNBC_Live_000057.jpg</field>
+<field name="snippet">now on climate change at a rally for hillary clinton. you heard hillary clinton speaking. a lot of history that goes into this and we have been keeping an eye on this team.</field>
+</doc>
+</add>

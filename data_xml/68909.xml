@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201003.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100327_140000_MSNBC_News_Live#start/806/end/841</field>
+<field name="datetime">3/27/2010 14:13:41</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100327_140000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100327_140000_MSNBC_News_Live/MSNBC_20100327_140000_MSNBC_News_Live.thumbs/MSNBC_20100327_140000_MSNBC_News_Live_000806.jpg</field>
+<field name="snippet">hour. the goal is to draw attention to saving energy and the fight against climate change. the campaign is sponsored by the world wildlife fund. if you've been to the movie theater lately you may have noticed, boy, prices are going way up. nbc's ron allen has more on why</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201212.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121228_060000_The_Last_Word#start/2454/end/2489</field>
+<field name="datetime">12/28/2012 6:41:09</field>
+<field name="station">MSNBC</field>
+<field name="show">The Last Word</field>
+<field name="showid">MSNBCW_20121228_060000_The_Last_Word</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121228_060000_The_Last_Word/MSNBCW_20121228_060000_The_Last_Word.thumbs/MSNBCW_20121228_060000_The_Last_Word_002446.jpg</field>
+<field name="snippet">this will be his first statewide race. that might explain why a third of the people polled haven't heard of him. he is big on climate change.</field>
+</doc>
+</add>

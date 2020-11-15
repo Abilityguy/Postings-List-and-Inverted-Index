@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170711_013000_Monday_in_Parliament#start/294/end/329</field>
+<field name="datetime">7/11/2017 1:35:09</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Monday in Parliament</field>
+<field name="showid">BBCNEWS_20170711_013000_Monday_in_Parliament</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170711_013000_Monday_in_Parliament/BBCNEWS_20170711_013000_Monday_in_Parliament.thumbs/BBCNEWS_20170711_013000_Monday_in_Parliament_000268.jpg</field>
+<field name="snippet">has run out of steam, and at a pivotal moment in our country and the world amid uncertainty of brexit, conflict in the gulf states, nuclear sabre rattling over north korea, refugees continuing to flee war and destruction, ongoing pandemics, cross-border terrorism, poverty, inequality, and the impact of climate change, are the core global challenges of our time.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190927_080000_BBC_News_at_Nine#start/1608/end/1643</field>
+<field name="datetime">9/27/2019 8:27:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190927_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190927_080000_BBC_News_at_Nine/BBCNEWS_20190927_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190927_080000_BBC_News_at_Nine_001588.jpg</field>
+<field name="snippet">the centre-left government do much more to address the effects of climate change. these young protesters have five core demands. among them, urging the government of new zealand to declare a climate emergency. also, to start building</field>
+</doc>
+</add>

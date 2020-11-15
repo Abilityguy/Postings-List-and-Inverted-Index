@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181226_080000_Special_Report_With_Bret_Baier#start/1360/end/1395</field>
+<field name="datetime">12/26/2018 8:22:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20181226_080000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181226_080000_Special_Report_With_Bret_Baier/FOXNEWSW_20181226_080000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20181226_080000_Special_Report_With_Bret_Baier_001347.jpg</field>
+<field name="snippet">reporter: rather than fight every drilling permanent powerplant environmentalists battling climate change have a new strategy, stop fossil fuel production before it gets to market. the goal is to keep fossil fuels in the ground so we don't</field>
+</doc>
+</add>

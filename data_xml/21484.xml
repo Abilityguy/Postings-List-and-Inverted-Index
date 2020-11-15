@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100121_090000_Special_Report_With_Bret_Baier#start/1867/end/1902</field>
+<field name="datetime">1/21/2010 9:31:22</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100121_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100121_090000_Special_Report_With_Bret_Baier/FOXNEWS_20100121_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100121_090000_Special_Report_With_Bret_Baier_001855.jpg</field>
+<field name="snippet">presidential run. update on grapevine item we brought you monday. united nations climate scientist today admitted a warning including in the 2007 report that global warming will melt the himalayan glaciers by 2035 was not</field>
+</doc>
+</add>

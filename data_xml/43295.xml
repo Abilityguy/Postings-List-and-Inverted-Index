@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090919_160000_Americas_News_HQ#start/2981/end/3016</field>
+<field name="datetime">9/19/2009 16:49:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWS_20090919_160000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090919_160000_Americas_News_HQ/FOXNEWS_20090919_160000_Americas_News_HQ.thumbs/FOXNEWS_20090919_160000_Americas_News_HQ_002966.jpg</field>
+<field name="snippet">later in the day, he heads on to new york for an interview with david letterman. tuesday, obama delivers remarks to the u.n. climate change summit. wednesday, he'll address the u.n. general assembly and meet with the russian president</field>
+</doc>
+</add>

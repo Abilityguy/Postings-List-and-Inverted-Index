@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100211_160000_Happening_Now#start/4167/end/4202</field>
+<field name="datetime">2/11/2010 17:09:42</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20100211_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100211_160000_Happening_Now/FOXNEWS_20100211_160000_Happening_Now.thumbs/FOXNEWS_20100211_160000_Happening_Now_004140.jpg</field>
+<field name="snippet">third major snowstorm to hit the east coast in less than two months. you know what some people are asking, does climate change have smoog to do with it? eric shawn has the task of looking into that today. hey, eric. reporter: to some the snow is proof that global warming is a</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091105_140000_Americas_Newsroom#start/1583/end/1618</field>
+<field name="datetime">11/5/2009 14:26:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20091105_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091105_140000_Americas_Newsroom/FOXNEWS_20091105_140000_Americas_Newsroom.thumbs/FOXNEWS_20091105_140000_Americas_Newsroom_001552.jpg</field>
+<field name="snippet">worried, some of us are scared today. martha: and a new push on an energy bill that does not in a lot -- involve global warming or polar bears. we will talk about the issues</field>
+</doc>
+</add>

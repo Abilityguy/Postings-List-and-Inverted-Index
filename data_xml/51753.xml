@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181227_020000_BBC_News#start/1207/end/1242</field>
+<field name="datetime">12/27/2018 2:20:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181227_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181227_020000_BBC_News/BBCNEWS_20181227_020000_BBC_News.thumbs/BBCNEWS_20181227_020000_BBC_News_001198.jpg</field>
+<field name="snippet">it is climate change. literally, firefighters are on the front lines of climate change in california and really in other parts of the west we are seeing it, these changes in temperatures, these changes in weather patterns, all of that is having a direct</field>
+</doc>
+</add>

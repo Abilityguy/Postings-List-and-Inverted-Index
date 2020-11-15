@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201501.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150103_193000_Americas_News_Headquarters#start/3028/end/3063</field>
+<field name="datetime">1/3/2015 20:20:43</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20150103_193000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150103_193000_Americas_News_Headquarters/FOXNEWSW_20150103_193000_Americas_News_Headquarters.thumbs/FOXNEWSW_20150103_193000_Americas_News_Headquarters_003015.jpg</field>
+<field name="snippet">president obama however has voiced concerns of the keystone pipeline might contribute to global warming and says there are better ways to create jobs such as public works project. whether the president would set up a confrontation with the new</field>
+</doc>
+</add>

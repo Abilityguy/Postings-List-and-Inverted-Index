@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190529_180000_Beyond_100_Days#start/1216/end/1251</field>
+<field name="datetime">5/29/2019 18:20:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20190529_180000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190529_180000_Beyond_100_Days/BBCNEWS_20190529_180000_Beyond_100_Days.thumbs/BBCNEWS_20190529_180000_Beyond_100_Days_001198.jpg</field>
+<field name="snippet">joining us from cbs news. it's the fourth worst tornado season on record, so why is it so bad? should we blame climate change? let's talk to a man who knows - extreme weather expert dr victor gensini joins us from illinois. good to have you with us, victor.</field>
+</doc>
+</add>

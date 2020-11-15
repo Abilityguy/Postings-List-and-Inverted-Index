@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140217_110000_FOX_and_Friends#start/9585/end/9620</field>
+<field name="datetime">2/17/2014 13:40:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20140217_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140217_110000_FOX_and_Friends/FOXNEWSW_20140217_110000_FOX_and_Friends.thumbs/FOXNEWSW_20140217_110000_FOX_and_Friends_009585.jpg</field>
+<field name="snippet">so secretary of state john kerry was actually in indonesia talking about climate change and this is what he said. he said, when i think about an arepair of global climate, a global threat, think about this, terrorism, epidemics, poverty, the proliferation of weapons of mass destruction, all challenges</field>
+</doc>
+</add>

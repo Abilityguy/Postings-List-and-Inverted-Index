@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201601.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160102_130000_Up#start/1784/end/1819</field>
+<field name="datetime">1/2/2016 13:29:59</field>
+<field name="station">MSNBC</field>
+<field name="show">Up</field>
+<field name="showid">MSNBCW_20160102_130000_Up</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160102_130000_Up/MSNBCW_20160102_130000_Up.thumbs/MSNBCW_20160102_130000_Up_001785.jpg</field>
+<field name="snippet">some areas getting nearly 30 inches of snow. it's also with been the deadliest december for tornadoes in the u.s. since 1953. all this happening on the heels of a historic climate change agreement signed in paris by president obama and other world</field>
+</doc>
+</add>

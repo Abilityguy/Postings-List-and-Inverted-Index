@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201612.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161205_200000_Shepard_Smith_Reporting#start/65/end/100</field>
+<field name="datetime">12/5/2016 20:01:20</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20161205_200000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161205_200000_Shepard_Smith_Reporting/FOXNEWSW_20161205_200000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20161205_200000_Shepard_Smith_Reporting_000057.jpg</field>
+<field name="snippet">against global warming. donald trump long called manmade climate change a hoax and something created by china, which isn't true. this meeting may be another indication that the president-elect might be willing to change his position on climate change.</field>
+</doc>
+</add>

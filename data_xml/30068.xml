@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191101_210000_MTP_Daily#start/3280/end/3315</field>
+<field name="datetime">11/1/2019 21:54:55</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20191101_210000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191101_210000_MTP_Daily/MSNBCW_20191101_210000_MTP_Daily.thumbs/MSNBCW_20191101_210000_MTP_Daily_003207.jpg</field>
+<field name="snippet">welcome back. we've got some alarming new information about climate change to share with you, as wildfires continue to burn in california, forcing residents to evacuate and leaving both neighborhoods and farmlands scorched that hadn't been scorched before. a new article in the 'wall street journal' warns us, as devastating as these fires are</field>
+</doc>
+</add>

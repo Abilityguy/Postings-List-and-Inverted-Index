@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180807_120000_BBC_News_at_One#start/1019/end/1054</field>
+<field name="datetime">8/7/2018 12:17:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20180807_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180807_120000_BBC_News_at_One/BBCNEWS_20180807_120000_BBC_News_at_One.thumbs/BBCNEWS_20180807_120000_BBC_News_at_One_001017.jpg</field>
+<field name="snippet">easily for the heatwave across many parts of uk, and indeed, the world. but could this be a growing trend? scientists are warning today that the world could be decades away from uncontrollable climate change</field>
+</doc>
+</add>

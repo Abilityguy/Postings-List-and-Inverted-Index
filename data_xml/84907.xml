@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201211.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121123_110000_Morning_Joe#start/2301/end/2336</field>
+<field name="datetime">11/23/2012 11:38:36</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20121123_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121123_110000_Morning_Joe/MSNBCW_20121123_110000_Morning_Joe.thumbs/MSNBCW_20121123_110000_Morning_Joe_002278.jpg</field>
+<field name="snippet">hit by one hurricane after another after another, and we were talking in 2005, you and i, you know, global warming. we hear there are going to be these hurricanes every year in florida, we haven't had one since. it shifts around. my position on this is, can</field>
+</doc>
+</add>

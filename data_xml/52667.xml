@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180625_080000_Victoria_Derbyshire#start/6146/end/6181</field>
+<field name="datetime">6/25/2018 9:42:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20180625_080000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180625_080000_Victoria_Derbyshire/BBCNEWS_20180625_080000_Victoria_Derbyshire.thumbs/BBCNEWS_20180625_080000_Victoria_Derbyshire_004888.jpg</field>
+<field name="snippet">the reports i have read that do not talk about the climate impact of this. not only has it got a major climate impact from greenhouse gas emissions, as well as other air pollution, it benefits the richest</field>
+</doc>
+</add>

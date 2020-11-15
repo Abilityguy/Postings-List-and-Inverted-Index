@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181204_090000_Fox_and_Friends_First#start/1905/end/1940</field>
+<field name="datetime">12/4/2018 9:32:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20181204_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181204_090000_Fox_and_Friends_First/FOXNEWSW_20181204_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20181204_090000_Fox_and_Friends_First_001888.jpg</field>
+<field name="snippet">protests over the climate change agenda. he will announce the suspension later today after weeks of violent protests throughout the country as protesters pool out of a meeting with government officials. ambulance drivers joined the movement using dozens of</field>
+</doc>
+</add>

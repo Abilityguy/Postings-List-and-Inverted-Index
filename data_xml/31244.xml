@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090714_000000_The_OReilly_Factor#start/3483/end/3518</field>
+<field name="datetime">7/14/2009 0:58:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20090714_000000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090714_000000_The_OReilly_Factor/FOXNEWS_20090714_000000_The_OReilly_Factor.thumbs/FOXNEWS_20090714_000000_The_OReilly_Factor_003475.jpg</field>
+<field name="snippet">has temperature has decreased 1 degree. since 2007 seven of the hottest years ever recorded. so there is global warming. what is causing it is debatable. we'll break a major story on cap and trade tomorrow.</field>
+</doc>
+</add>

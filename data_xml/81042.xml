@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201601.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160101_130000_MSNBC_Live#start/21236/end/21271</field>
+<field name="datetime">1/1/2016 18:54:11</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20160101_130000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160101_130000_MSNBC_Live/MSNBCW_20160101_130000_MSNBC_Live.thumbs/MSNBCW_20160101_130000_MSNBC_Live_021225.jpg</field>
+<field name="snippet">i'm cautious by optimistic it signals the beginning of a comprehensive effort to tackle the problem of climate change. do you agroo with the people saying this could be the worst el nino we have ever had? yeah. in fact, if you just look at the raw numbers, the temperatures of</field>
+</doc>
+</add>

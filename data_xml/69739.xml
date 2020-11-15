@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201611.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161118_100000_First_Look#start/416/end/451</field>
+<field name="datetime">11/18/2016 10:07:11</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20161118_100000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161118_100000_First_Look/MSNBCW_20161118_100000_First_Look.thumbs/MSNBCW_20161118_100000_First_Look_000417.jpg</field>
+<field name="snippet">donald trump has certainly loomed large over the trip, hasn't he? reporter: no doubt. the official agenda is trade, it's syria, it's climate change, it's all about the issues you would expect the united states shares with europe, but i think</field>
+</doc>
+</add>

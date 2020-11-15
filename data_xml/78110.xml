@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191106_010000_Newsday#start/971/end/1006</field>
+<field name="datetime">11/6/2019 1:16:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191106_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191106_010000_Newsday/BBCNEWS_20191106_010000_Newsday.thumbs/BBCNEWS_20191106_010000_Newsday_000958.jpg</field>
+<field name="snippet">this is newsday on the bbc. i'm rico hizon in singapore. i'm kasia madera in london. our top stories: thousands of scientists have urged people, policy makers and industry to make deep and lasting changes to curb catastrophic climate change. a key witness in donald trump's</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201906.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190612_210000_MTP_Daily#start/1230/end/1265</field>
+<field name="datetime">6/12/2019 21:20:45</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20190612_210000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190612_210000_MTP_Daily/MSNBCW_20190612_210000_MTP_Daily.thumbs/MSNBCW_20190612_210000_MTP_Daily_001228.jpg</field>
+<field name="snippet">where we are the scientifically real party that knows the climate crisis is going to swallow us whole and that donald trump is wrong when he says wind turbines cause cancer. we know they cause jobs. i know we need now a president who can actually move the</field>
+</doc>
+</add>

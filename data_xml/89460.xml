@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190602_170000_BBC_News#start/1392/end/1427</field>
+<field name="datetime">6/2/2019 17:23:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190602_170000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190602_170000_BBC_News/BBCNEWS_20190602_170000_BBC_News.thumbs/BBCNEWS_20190602_170000_BBC_News_001379.jpg</field>
+<field name="snippet">drought could damage scotland's peat bogs, undermining efforts to tackle climate change. the flow country, in the far north of the nation, stores three times as much carbon as all the trees in the uk combined. now artists are trying to raise awareness of the area's importance by turning the scientific data</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201301.csv</field>
+<field name="url">https://archive.org/details/CNNW_20130124_080000_Piers_Morgan_Tonight#start/0/end/34</field>
+<field name="datetime">1/24/2013 8:00:14</field>
+<field name="station">CNN</field>
+<field name="show">Piers Morgan Tonight</field>
+<field name="showid">CNNW_20130124_080000_Piers_Morgan_Tonight</field>
+<field name="preview">https://archive.org/download/CNNW_20130124_080000_Piers_Morgan_Tonight/CNNW_20130124_080000_Piers_Morgan_Tonight.thumbs/CNNW_20130124_080000_Piers_Morgan_Tonight_000045.jpg</field>
+<field name="snippet">etworks will talk to scientists about climate change. cars will talk to road sensors will talk to stoplights about traffic efficiency. the ambulance will talk to patient records will talk to doctors about saving lives.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170528_030000_BBC_News#start/13/end/48</field>
+<field name="datetime">5/28/2017 3:00:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170528_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170528_030000_BBC_News/BBCNEWS_20170528_030000_BBC_News.thumbs/BBCNEWS_20170528_030000_BBC_News_000058.jpg</field>
+<field name="snippet">but british airways says it will get services running again on sunday. no commitment on climate change. president trump refuses to say whether he'll cut carbon emissions. and another fa cup win for arsenal, making manager, arsene wenger, the most successful in the competition's history. good to have you with us.</field>
+</doc>
+</add>

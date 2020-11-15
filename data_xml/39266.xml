@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201212.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121227_200000_Studio_B_With_Shepard_Smith#start/1129/end/1164</field>
+<field name="datetime">12/27/2012 20:19:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Studio B With Shepard Smith</field>
+<field name="showid">FOXNEWSW_20121227_200000_Studio_B_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121227_200000_Studio_B_With_Shepard_Smith/FOXNEWSW_20121227_200000_Studio_B_With_Shepard_Smith.thumbs/FOXNEWSW_20121227_200000_Studio_B_With_Shepard_Smith_001125.jpg</field>
+<field name="snippet">for taking steps to protect our air and water, helping to combat climate change and passing new fuel economy standards. republican lawmakers and industrial groups often accused her and the epa of killing jobs, making it harder for american</field>
+</doc>
+</add>

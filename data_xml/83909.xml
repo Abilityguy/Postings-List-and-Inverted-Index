@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190428_080000_BBC_News#start/540/end/575</field>
+<field name="datetime">4/28/2019 8:09:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190428_080000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190428_080000_BBC_News/BBCNEWS_20190428_080000_BBC_News.thumbs/BBCNEWS_20190428_080000_BBC_News_000537.jpg</field>
+<field name="snippet">those campaigners aren't just worried about tremors, they say climate change and fossil fuels should stay underground. in scotland, fracking remained under a moratorium. holyrood still has not decided how to proceed.</field>
+</doc>
+</add>

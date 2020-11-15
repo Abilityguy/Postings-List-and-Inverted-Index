@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201903.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190311_100000_Morning_Joe#start/9309/end/9344</field>
+<field name="datetime">3/11/2019 12:35:24</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20190311_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190311_100000_Morning_Joe/MSNBCW_20190311_100000_Morning_Joe.thumbs/MSNBCW_20190311_100000_Morning_Joe_009298.jpg</field>
+<field name="snippet">jay inslee -- a governor into a clean-energy leader with a bold vision for our future. we are the first generation to feel the sting of climate change, and we are the last generation that can do something about it. we need to break the stranglehold</field>
+</doc>
+</add>

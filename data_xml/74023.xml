@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201002.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100211_060000_Countdown_With_Keith_Olbermann#start/979/end/1014</field>
+<field name="datetime">2/11/2010 6:16:34</field>
+<field name="station">MSNBC</field>
+<field name="show">Countdown With Keith Olbermann</field>
+<field name="showid">MSNBC_20100211_060000_Countdown_With_Keith_Olbermann</field>
+<field name="preview">https://archive.org/download/MSNBC_20100211_060000_Countdown_With_Keith_Olbermann/MSNBC_20100211_060000_Countdown_With_Keith_Olbermann.thumbs/MSNBC_20100211_060000_Countdown_With_Keith_Olbermann_000955.jpg</field>
+<field name="snippet">the republicans want to kill medicare and social security and there's no climate change because it's snowing. can we turn this country back to the native americans? their real weather crisis and the startling numbers about what you did to alleviate it in one night.</field>
+</doc>
+</add>

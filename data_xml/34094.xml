@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091206_170000_Americas_News_HQ#start/1250/end/1285</field>
+<field name="datetime">12/6/2009 17:21:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWS_20091206_170000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091206_170000_Americas_News_HQ/FOXNEWS_20091206_170000_Americas_News_HQ.thumbs/FOXNEWS_20091206_170000_Americas_News_HQ_001252.jpg</field>
+<field name="snippet">when the climate change conference kicks off this week, thousands of heads of state, politicians and celebrities will fly in from all around the world. now between all the travel, housing, meals and the other activities is the amount of</field>
+</doc>
+</add>

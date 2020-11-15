@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201406.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140601_170000_Americas_News_Headquarters#start/2604/end/2639</field>
+<field name="datetime">6/1/2014 17:43:39</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20140601_170000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140601_170000_Americas_News_Headquarters/FOXNEWSW_20140601_170000_Americas_News_Headquarters.thumbs/FOXNEWSW_20140601_170000_Americas_News_Headquarters_002595.jpg</field>
+<field name="snippet">reporter: a study released last month by the non-governmental international panel on climate change looked at greenhouse gases and does not see catastrophe. it says the impact of modestly rising co2 levels has been mostly positive.</field>
+</doc>
+</add>

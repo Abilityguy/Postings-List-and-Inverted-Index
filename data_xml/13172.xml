@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201101.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110103_110000_FOX_and_Friends#start/3949/end/3984</field>
+<field name="datetime">1/3/2011 12:06:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20110103_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110103_110000_FOX_and_Friends/FOXNEWS_20110103_110000_FOX_and_Friends.thumbs/FOXNEWS_20110103_110000_FOX_and_Friends_003930.jpg</field>
+<field name="snippet">it was a ban of incandescent light bulbs, a way to cut greenhouse gas emissions and created jobs in america, these green jobs you keep hearing about and then -- i started panics because i thought i hate those new lights. i hate them. they look blue and drive me</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091215_180000_Andrea_Mitchell_Reports#start/1901/end/1936</field>
+<field name="datetime">12/15/2009 18:31:56</field>
+<field name="station">MSNBC</field>
+<field name="show">Andrea Mitchell Reports</field>
+<field name="showid">MSNBC_20091215_180000_Andrea_Mitchell_Reports</field>
+<field name="preview">https://archive.org/download/MSNBC_20091215_180000_Andrea_Mitchell_Reports/MSNBC_20091215_180000_Andrea_Mitchell_Reports.thumbs/MSNBC_20091215_180000_Andrea_Mitchell_Reports_001885.jpg</field>
+<field name="snippet">ask is climate change risking our national security. government reports say it could lead to war as natural resources</field>
+</doc>
+</add>

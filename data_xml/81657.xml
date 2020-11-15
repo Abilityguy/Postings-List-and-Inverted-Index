@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091215_160000_MSNBC_News_Live#start/1131/end/1166</field>
+<field name="datetime">12/15/2009 16:19:06</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091215_160000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091215_160000_MSNBC_News_Live/MSNBC_20091215_160000_MSNBC_News_Live.thumbs/MSNBC_20091215_160000_MSNBC_News_Live_001110.jpg</field>
+<field name="snippet">point. there's a lot of times there's an argument about economic growth versus the environment. and in the debate that's gone on about climate change right now a lot of people say we can't afford to deal with these emissions to the environment.</field>
+</doc>
+</add>

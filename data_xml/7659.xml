@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170602_200000_Your_World_With_Neil_Cavuto#start/22/end/57</field>
+<field name="datetime">6/2/2017 20:00:37</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20170602_200000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170602_200000_Your_World_With_Neil_Cavuto/FOXNEWSW_20170602_200000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20170602_200000_Your_World_With_Neil_Cavuto_000058.jpg</field>
+<field name="snippet">does the president believe in the climate change? would you have that conversation</field>
+</doc>
+</add>

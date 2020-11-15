@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191113_033000_Can_Flying_Go_Green_-_Panorama#start/62/end/97</field>
+<field name="datetime">11/13/2019 3:31:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Can Flying Go Green - Panorama</field>
+<field name="showid">BBCNEWS_20191113_033000_Can_Flying_Go_Green_-_Panorama</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191113_033000_Can_Flying_Go_Green_-_Panorama/BBCNEWS_20191113_033000_Can_Flying_Go_Green_-_Panorama.thumbs/BBCNEWS_20191113_033000_Can_Flying_Go_Green_-_Panorama_000057.jpg</field>
+<field name="snippet">during our trip we took around 20 flights. it was like 15 tonnes of carbon that we created. our passion for plane travel is warming the planet. climate change is a really pressing issue, and we're absolutely clear that we have to reach net zero</field>
+</doc>
+</add>

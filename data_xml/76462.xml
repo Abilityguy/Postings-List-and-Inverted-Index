@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190510_210000_BBC_News_at_Ten#start/1419/end/1454</field>
+<field name="datetime">5/10/2019 21:23:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20190510_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190510_210000_BBC_News_at_Ten/BBCNEWS_20190510_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20190510_210000_BBC_News_at_Ten_001409.jpg</field>
+<field name="snippet">to ensure poetry embraces major global issues, including climate change. the salary is £6000 a year, which the 55-year-old yorkshireman says he'll give away. he's been speaking to our arts editor, will gompertz.</field>
+</doc>
+</add>

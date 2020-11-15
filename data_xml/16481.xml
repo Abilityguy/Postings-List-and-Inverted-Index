@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201502.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150209_220000_The_Five#start/155/end/190</field>
+<field name="datetime">2/9/2015 22:02:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20150209_220000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150209_220000_The_Five/FOXNEWSW_20150209_220000_The_Five.thumbs/FOXNEWSW_20150209_220000_The_Five_000135.jpg</field>
+<field name="snippet">when it comes to covering international affairs. that was a highly produced interview. he went on to say that we don't cover stories like climate change because they aren't sexy but it is more important to cover that than terrorism.</field>
+</doc>
+</add>

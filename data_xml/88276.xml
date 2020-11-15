@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191203_023000_Electioncast#start/6/end/41</field>
+<field name="datetime">12/3/2019 2:30:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Electioncast</field>
+<field name="showid">BBCNEWS_20191203_023000_Electioncast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191203_023000_Electioncast/BBCNEWS_20191203_023000_Electioncast.thumbs/BBCNEWS_20191203_023000_Electioncast_001738.jpg</field>
+<field name="snippet">for all of us by friday, 00:29:09473 --> 2147483051:51:19451 but still quite windy 2147483051:51:19451 --> 4294966103:13:29430 with some rain at times. welcome to bbc news, i'm mike embley. our top stories: a fight to the death. the fears of smaller nations are heard at the madrid meeting on climate change. micronesia's president tells us</field>
+</doc>
+</add>

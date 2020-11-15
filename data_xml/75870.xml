@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190502_100000_BBC_Newsroom_Live#start/5604/end/5639</field>
+<field name="datetime">5/2/2019 11:33:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190502_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190502_100000_BBC_Newsroom_Live/BBCNEWS_20190502_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190502_100000_BBC_Newsroom_Live_005578.jpg</field>
+<field name="snippet">main stories today - a new report says the uk should lead the world away from dangerous climate change by cutting greenhouse gases to virtually zero by 2050. the committee on climate change, and joining me now,</field>
+</doc>
+</add>

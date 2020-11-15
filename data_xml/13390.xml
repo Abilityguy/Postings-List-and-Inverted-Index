@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201111.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111130_140000_Americas_Newsroom#start/5776/end/5811</field>
+<field name="datetime">11/30/2011 15:36:31</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWSW_20111130_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111130_140000_Americas_Newsroom/FOXNEWSW_20111130_140000_Americas_Newsroom.thumbs/FOXNEWSW_20111130_140000_Americas_Newsroom_005756.jpg</field>
+<field name="snippet">i've watched other people on the stage when they talk about cap and trade, they said oh, that was a mays take. when they say oh i did this ad on global warming that was a mistake. bill: what that tells you is he's going to run on his record for healthcare in massachusetts, he's not going to running away</field>
+</doc>
+</add>

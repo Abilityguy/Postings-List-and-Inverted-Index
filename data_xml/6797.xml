@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190907_200000_World_News_Today#start/595/end/630</field>
+<field name="datetime">9/7/2019 20:10:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190907_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190907_200000_World_News_Today/BBCNEWS_20190907_200000_World_News_Today.thumbs/BBCNEWS_20190907_200000_World_News_Today_000567.jpg</field>
+<field name="snippet">several hundred climate change activists have held a sit-in on the red carpet on the final day of the venice film festival, ending it before the closing ceremony to avoid a clash with security forces. it was in protest at the huge cruise ships they say are damaging the very foundations of the city.</field>
+</doc>
+</add>

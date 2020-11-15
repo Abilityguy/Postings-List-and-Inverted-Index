@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201306.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130623_100000_FOX_and_Friends_Sunday#start/7259/end/7294</field>
+<field name="datetime">6/23/2013 12:01:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20130623_100000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130623_100000_FOX_and_Friends_Sunday/FOXNEWSW_20130623_100000_FOX_and_Friends_Sunday.thumbs/FOXNEWSW_20130623_100000_FOX_and_Friends_Sunday_007245.jpg</field>
+<field name="snippet">scandal what will the president focus on this week? climate change of course. we'll take a closer look at the president's agenda this week. fox and friends hour three starts right now.</field>
+</doc>
+</add>

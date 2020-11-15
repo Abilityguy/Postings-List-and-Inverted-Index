@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201912.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191213_110000_Morning_Joe#start/8148/end/8183</field>
+<field name="datetime">12/13/2019 13:16:03</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20191213_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191213_110000_Morning_Joe/MSNBCW_20191213_110000_Morning_Joe.thumbs/MSNBCW_20191213_110000_Morning_Joe_008128.jpg</field>
+<field name="snippet">galápagos is a really challenging place to work. el niño is starting to go haywire. everywhere is going to get touched by climate change.</field>
+</doc>
+</add>

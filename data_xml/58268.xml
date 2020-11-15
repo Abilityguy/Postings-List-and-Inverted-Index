@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201805.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180507_210000_BBC_News#start/870/end/905</field>
+<field name="datetime">5/7/2018 21:14:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180507_210000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180507_210000_BBC_News/BBCNEWS_20180507_210000_BBC_News.thumbs/BBCNEWS_20180507_210000_BBC_News_000868.jpg</field>
+<field name="snippet">as they weigh up how to enjoy a break without adding too much to this problem of global warming? it's about everybody's lifestyle today, and we have to have the understanding</field>
+</doc>
+</add>

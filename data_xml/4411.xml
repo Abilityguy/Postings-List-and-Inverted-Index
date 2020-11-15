@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201302.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130204_180000_America_Live#start/2423/end/2458</field>
+<field name="datetime">2/4/2013 18:40:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWSW_20130204_180000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130204_180000_America_Live/FOXNEWSW_20130204_180000_America_Live.thumbs/FOXNEWSW_20130204_180000_America_Live_002415.jpg</field>
+<field name="snippet">is by rule of law. by legislation by agency or by the president's stroke of a pen by executive order. brand new secretary of state john kerry says that climate change is going to be one of his main focuses.</field>
+</doc>
+</add>

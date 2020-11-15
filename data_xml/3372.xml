@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201512.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151204_040000_The_OReilly_Factor#start/1810/end/1845</field>
+<field name="datetime">12/4/2015 4:30:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20151204_040000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151204_040000_The_OReilly_Factor/FOXNEWSW_20151204_040000_The_OReilly_Factor.thumbs/FOXNEWSW_20151204_040000_The_OReilly_Factor_001785.jpg</field>
+<field name="snippet">warming and climate change? do you think the world is going to change for the worse because it's getting warmer? . i think there will be little change here, it will go up, get cooler and warmer like it has for millions of years. it will get cooler, warmer, it's called weather.</field>
+</doc>
+</add>

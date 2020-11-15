@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171228_000000_BBC_World_News#start/1204/end/1239</field>
+<field name="datetime">12/28/2017 0:20:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC World News</field>
+<field name="showid">BBCNEWS_20171228_000000_BBC_World_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171228_000000_BBC_World_News/BBCNEWS_20171228_000000_BBC_World_News.thumbs/BBCNEWS_20171228_000000_BBC_World_News_001197.jpg</field>
+<field name="snippet">harry had also interviewed his father - the main focus had been on climate change. the issue prince charles has championed for decades and for which he was sometimes derided.</field>
+</doc>
+</add>

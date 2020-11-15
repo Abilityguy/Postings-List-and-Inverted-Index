@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190525_000000_BBC_News#start/37/end/72</field>
+<field name="datetime">5/25/2019 0:00:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190525_000000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190525_000000_BBC_News/BBCNEWS_20190525_000000_BBC_News.thumbs/BBCNEWS_20190525_000000_BBC_News_000028.jpg</field>
+<field name="snippet">in other news, bomb in the french city of lyon injures eight people. and an estimated one million school children in over 100 countries skip classes to demand action to stop climate change.</field>
+</doc>
+</add>

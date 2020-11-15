@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190206_200000_Shepard_Smith_Reporting#start/2038/end/2073</field>
+<field name="datetime">2/6/2019 20:34:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20190206_200000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190206_200000_Shepard_Smith_Reporting/FOXNEWSW_20190206_200000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20190206_200000_Shepard_Smith_Reporting_001948.jpg</field>
+<field name="snippet">shepard: new today, global warming shows no signs of stopping. that's according to the scientists at nasa who say last year was the fourth warmest year on record behind only the previous three years. nasa released this animation that shows how temperatures</field>
+</doc>
+</add>

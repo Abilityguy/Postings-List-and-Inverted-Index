@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090921_150000_Happening_Now#start/5813/end/5848</field>
+<field name="datetime">9/21/2009 16:37:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20090921_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090921_150000_Happening_Now/FOXNEWS_20090921_150000_Happening_Now.thumbs/FOXNEWS_20090921_150000_Happening_Now_005790.jpg</field>
+<field name="snippet">issue at the united nations tomorrow. he will be headed to its board for a major speech. what does this all mean for climate change?</field>
+</doc>
+</add>

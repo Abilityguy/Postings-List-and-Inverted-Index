@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201305.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130521_160000_NOW_With_Alex_Wagner#start/1737/end/1772</field>
+<field name="datetime">5/21/2013 16:29:12</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20130521_160000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130521_160000_NOW_With_Alex_Wagner/MSNBCW_20130521_160000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20130521_160000_NOW_With_Alex_Wagner_001725.jpg</field>
+<field name="snippet">event. christie said there's no proof that sandy was caused by climate change, which i think has disappointed a lot of folks that thought he was going it take a more moderate position on something like that. he's right. there's no proof that that particular storm was caused by climate change.</field>
+</doc>
+</add>

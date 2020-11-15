@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201103.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110303_080000_Red_Eye#start/2250/end/2285</field>
+<field name="datetime">3/3/2011 8:37:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20110303_080000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110303_080000_Red_Eye/FOXNEWS_20110303_080000_Red_Eye.thumbs/FOXNEWS_20110303_080000_Red_Eye_002250.jpg</field>
+<field name="snippet">about climate changing. it said when request questioned about climate change most believe the world is heading for a major disaster. but only half will pay more for echo friendly goods. i'm assuming the second half will welcome a disaster and it is the half that eats dinner</field>
+</doc>
+</add>

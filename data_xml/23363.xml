@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201405.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140512_080000_MediaBuzz#start/2728/end/2763</field>
+<field name="datetime">5/12/2014 8:45:43</field>
+<field name="station">FOXNEWS</field>
+<field name="show">MediaBuzz</field>
+<field name="showid">FOXNEWSW_20140512_080000_MediaBuzz</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140512_080000_MediaBuzz/FOXNEWSW_20140512_080000_MediaBuzz.thumbs/FOXNEWSW_20140512_080000_MediaBuzz_002685.jpg</field>
+<field name="snippet">a report detailing the impact of global warming, obama invited a select group he knew would agree with him that a crisis is brewing. eight national and local meteorologists. here's the 'today' show's al roker.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190721_200000_World_News_Today#start/1193/end/1228</field>
+<field name="datetime">7/21/2019 20:20:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190721_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190721_200000_World_News_Today/BBCNEWS_20190721_200000_World_News_Today.thumbs/BBCNEWS_20190721_200000_World_News_Today_001168.jpg</field>
+<field name="snippet">polluted city air is drawn in from the bottom of the curtain. the single-celled algae absorb the carbon, and oxygen is released at the top. the inventors say it's an effective way to cut down greenhouse gas emissions in cities. this is an effective and extremely efficient way to introduce photosynthesis within the built environment. in terms of air-cleaning power,</field>
+</doc>
+</add>

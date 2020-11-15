@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191225_050000_Tucker_Carlson_Tonight#start/3301/end/3336</field>
+<field name="datetime">12/25/2019 5:55:16</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20191225_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191225_050000_Tucker_Carlson_Tonight/FOXNEWSW_20191225_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20191225_050000_Tucker_Carlson_Tonight_003299.jpg</field>
+<field name="snippet">well, the damage is far more profound than anything caused by climate change. young people are broke. as a result, they are delaying the vital life transitions that were automatic for earlier generations. in 1990, a quarter of american adults lived with their parents. today, the number has risen to</field>
+</doc>
+</add>

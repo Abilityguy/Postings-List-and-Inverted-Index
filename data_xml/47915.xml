@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201511.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151127_120000_MSNBC_Live#start/25923/end/25958</field>
+<field name="datetime">11/27/2015 19:12:18</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20151127_120000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151127_120000_MSNBC_Live/MSNBCW_20151127_120000_MSNBC_Live.thumbs/MSNBCW_20151127_120000_MSNBC_Live_025905.jpg</field>
+<field name="snippet">don't miss a day of brilinta. paris is preparing the host a massive summit on climate change beginning on monday. world leaders including president obama will be in the french capital for the event. it comes just two weeks after that deadly terrorist attack.</field>
+</doc>
+</add>

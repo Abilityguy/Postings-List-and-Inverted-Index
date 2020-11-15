@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190913_073000_BBC_Business_Live#start/94/end/129</field>
+<field name="datetime">9/13/2019 7:31:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Business Live</field>
+<field name="showid">BBCNEWS_20190913_073000_BBC_Business_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190913_073000_BBC_Business_Live/BBCNEWS_20190913_073000_BBC_Business_Live.thumbs/BBCNEWS_20190913_073000_BBC_Business_Live_000088.jpg</field>
+<field name="snippet">the hashtag bbcbizlive. hello and welcome to business live. we start in the finnish capital helsinki, where climate change is top of the agenda for eu finance ministers as they meet over the next two days.</field>
+</doc>
+</add>

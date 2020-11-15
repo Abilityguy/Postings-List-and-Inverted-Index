@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091211_010000_Countdown_With_Keith_Olbermann#start/2127/end/2162</field>
+<field name="datetime">12/11/2009 1:35:42</field>
+<field name="station">MSNBC</field>
+<field name="show">Countdown With Keith Olbermann</field>
+<field name="showid">MSNBC_20091211_010000_Countdown_With_Keith_Olbermann</field>
+<field name="preview">https://archive.org/download/MSNBC_20091211_010000_Countdown_With_Keith_Olbermann/MSNBC_20091211_010000_Countdown_With_Keith_Olbermann.thumbs/MSNBC_20091211_010000_Countdown_With_Keith_Olbermann_002126.jpg</field>
+<field name="snippet">thank you, lawrence. good to be with you. coming up will the polar ice caps melt even faster as they get caught in the middle of a heated fight between sarah palin and al gore? the war of words over climate change, round two. and the latest round of</field>
+</doc>
+</add>

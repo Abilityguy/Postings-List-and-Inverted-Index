@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091207_200000_Studio_B_With_Shepard_Smith#start/467/end/502</field>
+<field name="datetime">12/7/2009 20:08:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Studio B With Shepard Smith</field>
+<field name="showid">FOXNEWS_20091207_200000_Studio_B_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091207_200000_Studio_B_With_Shepard_Smith/FOXNEWS_20091207_200000_Studio_B_With_Shepard_Smith.thumbs/FOXNEWS_20091207_200000_Studio_B_With_Shepard_Smith_000450.jpg</field>
+<field name="snippet">in denmark. one of the challenges is convincing one of the -- convincing the richest nations to pledge billions to help the developing world. while cutting their own greenhouse gases at the same time. conference organizers argue this may be the best chance to haul climate change, a contentious</field>
+</doc>
+</add>

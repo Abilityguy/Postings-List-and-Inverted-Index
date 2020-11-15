@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_000000_Newsday#start/923/end/958</field>
+<field name="datetime">12/3/2018 0:15:38</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20181203_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_000000_Newsday/BBCNEWS_20181203_000000_Newsday.thumbs/BBCNEWS_20181203_000000_Newsday_000897.jpg</field>
+<field name="snippet">i'm sharanjit leyl in singapore. i'm kasia madera in london. our top stories: the un warns the threat posed to all of us by climate change has never been this serious as a global climate summit opens with a push to cut emissions. there's been a ceasefire</field>
+</doc>
+</add>

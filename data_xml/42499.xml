@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201008.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100804_150000_Happening_Now#start/6902/end/6937</field>
+<field name="datetime">8/4/2010 16:55:17</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20100804_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100804_150000_Happening_Now/FOXNEWS_20100804_150000_Happening_Now.thumbs/FOXNEWS_20100804_150000_Happening_Now_006890.jpg</field>
+<field name="snippet">is this direct global warming when you get plasma from the sun bursting into our earth's atmosphere? reporter: this is not as far as we know a direct cause of global warming. we do see these effects come and go with the solar cycle. we are currently starting up the</field>
+</doc>
+</add>

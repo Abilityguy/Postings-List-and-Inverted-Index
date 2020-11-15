@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201111.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20111130_060000_The_Last_Word#start/2586/end/2621</field>
+<field name="datetime">11/30/2011 6:43:21</field>
+<field name="station">MSNBC</field>
+<field name="show">The Last Word</field>
+<field name="showid">MSNBCW_20111130_060000_The_Last_Word</field>
+<field name="preview">https://archive.org/download/MSNBCW_20111130_060000_The_Last_Word/MSNBCW_20111130_060000_The_Last_Word.thumbs/MSNBCW_20111130_060000_The_Last_Word_002580.jpg</field>
+<field name="snippet">you, sitting there talking about global warming on tv. what was that all about? what was that all about is the standard fox news question to republican presidential candidates who have a problem they need to deal with publicly. it's not a pointed question.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181101_110000_BBC_Newsroom_Live#start/1605/end/1640</field>
+<field name="datetime">11/1/2018 11:27:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20181101_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181101_110000_BBC_Newsroom_Live/BBCNEWS_20181101_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20181101_110000_BBC_Newsroom_Live_001587.jpg</field>
+<field name="snippet">than previously thought, which means it could be harder to keep global warming within safe levels this century. our environment correspondent is matt mcgrath. you have been taking a look at all</field>
+</doc>
+</add>

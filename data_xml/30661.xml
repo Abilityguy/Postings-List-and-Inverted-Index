@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140219_140000_Americas_Newsroom#start/5623/end/5658</field>
+<field name="datetime">2/19/2014 15:33:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWSW_20140219_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140219_140000_Americas_Newsroom/FOXNEWSW_20140219_140000_Americas_Newsroom.thumbs/FOXNEWSW_20140219_140000_Americas_Newsroom_005595.jpg</field>
+<field name="snippet">january. we asked the american people what is important to focus on. climate change isn't on the list. global warming isn't on the list. they are trying to take discreet weather events. whether it is the drought in</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201710.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171023_160000_BBC_News_at_Five#start/3213/end/3248</field>
+<field name="datetime">10/23/2017 16:53:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20171023_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171023_160000_BBC_News_at_Five/BBCNEWS_20171023_160000_BBC_News_at_Five.thumbs/BBCNEWS_20171023_160000_BBC_News_at_Five_003208.jpg</field>
+<field name="snippet">what's your sense about the scale and rate of change in, for example, the arctic. i think that any sceptics that there were ten years ago or 20 years ago about global warming</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091216_110000_FOX_and_Friends#start/1585/end/1620</field>
+<field name="datetime">12/16/2009 11:26:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091216_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091216_110000_FOX_and_Friends/FOXNEWS_20091216_110000_FOX_and_Friends.thumbs/FOXNEWS_20091216_110000_FOX_and_Friends_001578.jpg</field>
+<field name="snippet">now? don't we have bigger fish to fry? well, only about a quarter of the american public really buys in to the global warming construct, into that theory. i think a lot of people are very worried about the effects of the government regulation.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201511.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151130_160000_MSNBC_Live_With_Tamron_Hall#start/2016/end/2051</field>
+<field name="datetime">11/30/2015 16:33:51</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Tamron Hall</field>
+<field name="showid">MSNBCW_20151130_160000_MSNBC_Live_With_Tamron_Hall</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151130_160000_MSNBC_Live_With_Tamron_Hall/MSNBCW_20151130_160000_MSNBC_Live_With_Tamron_Hall.thumbs/MSNBCW_20151130_160000_MSNBC_Live_With_Tamron_Hall_001996.jpg</field>
+<field name="snippet">complexity of juggling the serious conversation of the future and climate change and the ongoing threat of isis seems to be an amazing balance happening with these world leaders, including president obama. absolutely, tamron.</field>
+</doc>
+</add>

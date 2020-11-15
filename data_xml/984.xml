@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170528_010000_BBC_News#start/728/end/763</field>
+<field name="datetime">5/28/2017 1:12:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170528_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170528_010000_BBC_News/BBCNEWS_20170528_010000_BBC_News.thumbs/BBCNEWS_20170528_010000_BBC_News_000718.jpg</field>
+<field name="snippet">translation: the entire discussion about climate was very difficult, if not to say very dissatisfying. we have a situation where six, and if you include the eu, seven, are against one. scientists believe that global warming is changing the world's</field>
+</doc>
+</add>

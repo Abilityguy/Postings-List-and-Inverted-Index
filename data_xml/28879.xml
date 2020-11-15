@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201610.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161011_190000_Shepard_Smith_Reporting#start/2270/end/2305</field>
+<field name="datetime">10/11/2016 19:38:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20161011_190000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161011_190000_Shepard_Smith_Reporting/FOXNEWSW_20161011_190000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20161011_190000_Shepard_Smith_Reporting_002248.jpg</field>
+<field name="snippet">families on the ground in haiti. now, some will say, you know, we've always had hurricanes. they've always been destruction. and that's true. but hurricane matthew was likely more destructive because of climate change. right now, the ocean is at or</field>
+</doc>
+</add>

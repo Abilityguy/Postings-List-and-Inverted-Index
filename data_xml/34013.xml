@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091207_220000_Glenn_Beck#start/1961/end/1996</field>
+<field name="datetime">12/7/2009 22:32:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20091207_220000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091207_220000_Glenn_Beck/FOXNEWS_20091207_220000_Glenn_Beck.thumbs/FOXNEWS_20091207_220000_Glenn_Beck_001912.jpg</field>
+<field name="snippet">the environment as the world's largest summit on climate change got underway in denmark. bret baier now previews 'special report.' coming up, we will show you what that epa finding means for you, and brit hume is here with analysis.</field>
+</doc>
+</add>

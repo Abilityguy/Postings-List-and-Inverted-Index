@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201112.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20111230_220000_Hardball_With_Chris_Matthews#start/3160/end/3195</field>
+<field name="datetime">12/30/2011 22:52:55</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball With Chris Matthews</field>
+<field name="showid">MSNBCW_20111230_220000_Hardball_With_Chris_Matthews</field>
+<field name="preview">https://archive.org/download/MSNBCW_20111230_220000_Hardball_With_Chris_Matthews/MSNBCW_20111230_220000_Hardball_With_Chris_Matthews.thumbs/MSNBCW_20111230_220000_Hardball_With_Chris_Matthews_003146.jpg</field>
+<field name="snippet">jon huntsman fired off this tweet -- to be clear, i believe in evolution and trust scientists on global warming. call me crazy. you know, this is part of the weird thing the republican candidates are engaming in.</field>
+</doc>
+</add>

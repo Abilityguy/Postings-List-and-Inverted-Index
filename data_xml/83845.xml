@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190418_073000_BBC_Business_Live#start/1803/end/1838</field>
+<field name="datetime">4/18/2019 8:00:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Business Live</field>
+<field name="showid">BBCNEWS_20190418_073000_BBC_Business_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190418_073000_BBC_Business_Live/BBCNEWS_20190418_073000_BBC_Business_Live.thumbs/BBCNEWS_20190418_073000_BBC_Business_Live_001710.jpg</field>
+<field name="snippet">easter monday, staying mainly dry, further spells of sunshine. goodbye. you're watching bbc news at 9am with me, annita mcveigh. the headlines. climate change protestors begin a fourth day of</field>
+</doc>
+</add>

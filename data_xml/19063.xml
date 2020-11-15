@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201612.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161205_230000_Special_Report_With_Bret_Baier#start/83/end/118</field>
+<field name="datetime">12/5/2016 23:01:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20161205_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161205_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20161205_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20161205_230000_Special_Report_With_Bret_Baier_000057.jpg</field>
+<field name="snippet">presidential nominee who won the popular vote but lost the election, and it may not be the one you think. former vice-president al gore came to trump tower today for a sit down about climate change with ivanka trump and possibly more. the bulk of the time was with</field>
+</doc>
+</add>

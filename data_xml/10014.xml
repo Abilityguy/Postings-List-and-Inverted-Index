@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201505.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150511_160000_Outnumbered#start/285/end/320</field>
+<field name="datetime">5/11/2015 16:05:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Outnumbered</field>
+<field name="showid">FOXNEWSW_20150511_160000_Outnumbered</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150511_160000_Outnumbered/FOXNEWSW_20150511_160000_Outnumbered.thumbs/FOXNEWSW_20150511_160000_Outnumbered_000285.jpg</field>
+<field name="snippet">very critical. we're laughing, sandra, but i mean if you listen to john kerry, the secretary of state, he says this is the biggest issue and crisis facing us right now, is climate change. most people would disagree. it is troubling the money we're</field>
+</doc>
+</add>

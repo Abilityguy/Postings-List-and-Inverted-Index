@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181001_120000_BBC_News_at_One#start/1479/end/1514</field>
+<field name="datetime">10/1/2018 12:24:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20181001_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181001_120000_BBC_News_at_One/BBCNEWS_20181001_120000_BBC_News_at_One.thumbs/BBCNEWS_20181001_120000_BBC_News_at_One_001467.jpg</field>
+<field name="snippet">the authors say that every possible option to control emissions must be considered. the thing with climate change is, you don't always necessarily fall off a cliff at a particular level of warming. but the warmer it gets globally, frankly the worse it gets</field>
+</doc>
+</add>

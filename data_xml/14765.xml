@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201702.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170212_040000_Watters_World#start/2231/end/2266</field>
+<field name="datetime">2/12/2017 4:37:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Watters World</field>
+<field name="showid">FOXNEWSW_20170212_040000_Watters_World</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170212_040000_Watters_World/FOXNEWSW_20170212_040000_Watters_World.thumbs/FOXNEWSW_20170212_040000_Watters_World_002217.jpg</field>
+<field name="snippet">what. jesse: what are we going to do about this global warming? i don't know, maybe your president could do something. jesse: he's your president, too. no, i'm from finland. jesse: i'm sorry to hear that.</field>
+</doc>
+</add>

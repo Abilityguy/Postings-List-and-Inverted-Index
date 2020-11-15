@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190814_070000_Fox_News__Night_With_Shannon_Bream#start/1827/end/1862</field>
+<field name="datetime">8/14/2019 7:30:42</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News  Night With Shannon Bream</field>
+<field name="showid">FOXNEWSW_20190814_070000_Fox_News__Night_With_Shannon_Bream</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190814_070000_Fox_News__Night_With_Shannon_Bream/FOXNEWSW_20190814_070000_Fox_News__Night_With_Shannon_Bream.thumbs/FOXNEWSW_20190814_070000_Fox_News__Night_With_Shannon_Bream_001799.jpg</field>
+<field name="snippet">climate change could hurt their livelihood. so i asked mayor pete buttigieg right after he stepped off the soapbox today what he thought, what his pitch was to these iowa voters who are worried that this could hurt their livelihood.</field>
+</doc>
+</add>

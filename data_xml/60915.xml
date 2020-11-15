@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201311.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20131106_170000_NOW_With_Alex_Wagner#start/1214/end/1249</field>
+<field name="datetime">11/6/2013 17:20:29</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20131106_170000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20131106_170000_NOW_With_Alex_Wagner/MSNBCW_20131106_170000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20131106_170000_NOW_With_Alex_Wagner_001215.jpg</field>
+<field name="snippet">income, 34% of the entire state's votes, voted for mcauliffe by a 20% margin. it was huge. it wasn't just women. it was also men in northern virginia. the social issues, abortion, gay rights, climate change.</field>
+</doc>
+</add>

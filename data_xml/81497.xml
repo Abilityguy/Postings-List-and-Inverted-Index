@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091211_140000_Morning_Meeting#start/1592/end/1627</field>
+<field name="datetime">12/11/2009 14:26:47</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Meeting</field>
+<field name="showid">MSNBC_20091211_140000_Morning_Meeting</field>
+<field name="preview">https://archive.org/download/MSNBC_20091211_140000_Morning_Meeting/MSNBC_20091211_140000_Morning_Meeting.thumbs/MSNBC_20091211_140000_Morning_Meeting_001554.jpg</field>
+<field name="snippet">trying to get to a meeting of businessmen that was sponsored by the international chamber of commerce. those businessmen were talking about climate change and how it would impact their businesses.</field>
+</doc>
+</add>

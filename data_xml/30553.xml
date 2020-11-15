@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.202001.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20200108_110000_Morning_Joe#start/8589/end/8624</field>
+<field name="datetime">1/8/2020 13:23:24</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20200108_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20200108_110000_Morning_Joe/MSNBCW_20200108_110000_Morning_Joe.thumbs/MSNBCW_20200108_110000_Morning_Joe_008578.jpg</field>
+<field name="snippet">we've got through our agencies. you know, climate change threatens every living thing on this planet. and what scares me is every time you go back to the scientists, they tell you two things. it's worse than we thought and we have less time. that means we've got to be</field>
+</doc>
+</add>

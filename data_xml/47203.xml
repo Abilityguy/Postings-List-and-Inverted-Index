@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201101.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110130_140000_MSNBC_News_Live#start/2918/end/2953</field>
+<field name="datetime">1/30/2011 14:48:53</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20110130_140000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20110130_140000_MSNBC_News_Live/MSNBC_20110130_140000_MSNBC_News_Live.thumbs/MSNBC_20110130_140000_MSNBC_News_Live_002904.jpg</field>
+<field name="snippet">snowstorms. in other words, climate change is creating a new normal of weather extremes, and we have to plan for this and prepare our snow removal budgets for such extremes. and brenda, this extends to even the temperature, because it seems like we're getting a lot more cold weather.</field>
+</doc>
+</add>

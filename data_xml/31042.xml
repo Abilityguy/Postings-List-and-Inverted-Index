@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140214_160000_Happening_Now#start/6145/end/6180</field>
+<field name="datetime">2/14/2014 17:42:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20140214_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140214_160000_Happening_Now/FOXNEWSW_20140214_160000_Happening_Now.thumbs/FOXNEWSW_20140214_160000_Happening_Now_006135.jpg</field>
+<field name="snippet">of something has doubled or tripled. reporter: later today the president is expected to announce $200 million in aid for the area. he's also expected to potentially politicize the issue by linking the drought to climate change. jon? jon: all right. will carr reporting live from</field>
+</doc>
+</add>

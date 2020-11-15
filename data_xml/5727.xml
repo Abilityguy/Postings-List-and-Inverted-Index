@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190924_010000_BBC_News#start/1805/end/1840</field>
+<field name="datetime">9/24/2019 1:30:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190924_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190924_010000_BBC_News/BBCNEWS_20190924_010000_BBC_News.thumbs/BBCNEWS_20190924_010000_BBC_News_001797.jpg</field>
+<field name="snippet">nations climate change summit in new york, where she accused world leaders of failing young people. she said that her generation will never forgive them if they fail to combat global warming. a huge two-week-long operation is under way to bring thousands</field>
+</doc>
+</add>

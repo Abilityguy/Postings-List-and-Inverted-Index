@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201612.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161208_200000_MSNBC_Live_With_Kate_Snow#start/1280/end/1315</field>
+<field name="datetime">12/8/2016 20:21:35</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Kate Snow</field>
+<field name="showid">MSNBCW_20161208_200000_MSNBC_Live_With_Kate_Snow</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161208_200000_MSNBC_Live_With_Kate_Snow/MSNBCW_20161208_200000_MSNBC_Live_With_Kate_Snow.thumbs/MSNBCW_20161208_200000_MSNBC_Live_With_Kate_Snow_001258.jpg</field>
+<field name="snippet">talk to people who disagree with him about climate change. we've reported if you look at the people in the transition even before the scott pruitt nomination, if you look at the people who are in the transition team for the environmental protection agency, department of energy, department of interior,</field>
+</doc>
+</add>

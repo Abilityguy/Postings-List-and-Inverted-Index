@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190226_140000_Afternoon_Live#start/3209/end/3244</field>
+<field name="datetime">2/26/2019 14:53:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190226_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190226_140000_Afternoon_Live/BBCNEWS_20190226_140000_Afternoon_Live.thumbs/BBCNEWS_20190226_140000_Afternoon_Live_003209.jpg</field>
+<field name="snippet">this is a blocking pattern. there is talk that if we see global warming, block patterns will become more of a thing. in the summertime, long periods of hot and sunny weather. what is block pattern?</field>
+</doc>
+</add>

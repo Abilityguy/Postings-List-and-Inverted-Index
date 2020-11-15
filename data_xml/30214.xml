@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201508.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150803_090000_First_Look#start/190/end/225</field>
+<field name="datetime">8/3/2015 9:03:25</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20150803_090000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150803_090000_First_Look/MSNBCW_20150803_090000_First_Look.thumbs/MSNBCW_20150803_090000_First_Look_000166.jpg</field>
+<field name="snippet">power plants are the biggest single source of the harmful pollution that contributes to climate change. but until now, there has been no limit to the amount of how much</field>
+</doc>
+</add>

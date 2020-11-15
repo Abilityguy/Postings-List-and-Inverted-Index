@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201408.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140811_100000_Morning_Joe#start/9731/end/9766</field>
+<field name="datetime">8/11/2014 12:42:26</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20140811_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140811_100000_Morning_Joe/MSNBCW_20140811_100000_Morning_Joe.thumbs/MSNBCW_20140811_100000_Morning_Joe_009706.jpg</field>
+<field name="snippet">we're not denying science, we're not denying climate change. we're not pretending that somehow having a whole bunch of uninsured people is the american</field>
+</doc>
+</add>

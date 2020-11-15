@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151212_170000_Weekends_With_Alex_Witt#start/6496/end/6531</field>
+<field name="datetime">12/12/2015 18:48:31</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20151212_170000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151212_170000_Weekends_With_Alex_Witt/MSNBCW_20151212_170000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20151212_170000_Weekends_With_Alex_Witt_006437.jpg</field>
+<field name="snippet">this break news out of paris where a few moments ago, negotiated between nearly 200 countries voted to adopt the most wide reaching guidelines for climate change to date. but after the historic vote, there is a lot of hurdles to clear before it is put into place.</field>
+</doc>
+</add>

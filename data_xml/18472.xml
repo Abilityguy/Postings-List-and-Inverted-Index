@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170103_110000_BBC_Newsroom_Live#start/3034/end/3069</field>
+<field name="datetime">1/3/2017 11:50:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20170103_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170103_110000_BBC_Newsroom_Live/BBCNEWS_20170103_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20170103_110000_BBC_Newsroom_Live_003027.jpg</field>
+<field name="snippet">administration and takes a tough line on china. we will bring you more on that as we get it. all this week, bbc news is focusing on what the big global stories might be in 2017. today, we look at science. what will donald trump's presidency mean for the battle against climate change?</field>
+</doc>
+</add>

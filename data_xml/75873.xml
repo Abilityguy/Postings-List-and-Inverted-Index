@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190510_050000_Breakfast#start/5469/end/5504</field>
+<field name="datetime">5/10/2019 6:31:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190510_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190510_050000_Breakfast/BBCNEWS_20190510_050000_Breakfast.thumbs/BBCNEWS_20190510_050000_Breakfast_005458.jpg</field>
+<field name="snippet">the climate and reverse global warming are being considered by scientists at the university of cambridge as part of a new research centre. among the ideas is a scheme to re-freeze polar regions, by reflecting sunlight away from the earth, and spraying water from ships into the atmosphere. it's feared that current approaches to tackle global warming won't go</field>
+</doc>
+</add>

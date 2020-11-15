@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100126_110000_FOX_and_Friends#start/7274/end/7309</field>
+<field name="datetime">1/26/2010 13:01:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100126_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100126_110000_FOX_and_Friends/FOXNEWS_20100126_110000_FOX_and_Friends.thumbs/FOXNEWS_20100126_110000_FOX_and_Friends_007246.jpg</field>
+<field name="snippet">measures.' one couple never giving up to save their kids' lives. they'll be here with their amazing true life story. global warming health care the victory of scott brown, 'fox & friends' fair and balanced tells what's going down.</field>
+</doc>
+</add>

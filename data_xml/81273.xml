@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091212_160000_MSNBC_News_Live#start/2380/end/2415</field>
+<field name="datetime">12/12/2009 16:39:55</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091212_160000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091212_160000_MSNBC_News_Live/MSNBC_20091212_160000_MSNBC_News_Live.thumbs/MSNBC_20091212_160000_MSNBC_News_Live_002333.jpg</field>
+<field name="snippet">overseas now where more protests are taking place this morning at the climate change summit in copenhagen, denmark. thousands are gathering for a march today throughout the city as we give you live looks right now. they are demanding that leaders take strong action to fight climate change. meanwhile, danish police confirm</field>
+</doc>
+</add>

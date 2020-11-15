@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201101.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110106_200000_MSNBC_News_Live#start/1640/end/1675</field>
+<field name="datetime">1/6/2011 20:27:35</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20110106_200000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20110106_200000_MSNBC_News_Live/MSNBC_20110106_200000_MSNBC_News_Live.thumbs/MSNBC_20110106_200000_MSNBC_News_Live_001615.jpg</field>
+<field name="snippet">obsess with facebook. that's true. thanks for coming in. bullying in the school yard. what you need to know about mao how to curtail it. is global warming a part of</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181228_050000_Tucker_Carlson_Tonight#start/2009/end/2044</field>
+<field name="datetime">12/28/2018 5:33:44</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20181228_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181228_050000_Tucker_Carlson_Tonight/FOXNEWSW_20181228_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20181228_050000_Tucker_Carlson_Tonight_002007.jpg</field>
+<field name="snippet">i think this bill creates enough incentive to create all the innovation that we know we need. but there's no carbon tax in china. they have the most polluted river in the world. what's coming down that stream</field>
+</doc>
+</add>

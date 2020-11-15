@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201511.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151124_230000_Special_Report_With_Bret_Baier#start/2693/end/2728</field>
+<field name="datetime">11/24/2015 23:45:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20151124_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151124_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20151124_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20151124_230000_Special_Report_With_Bret_Baier_002685.jpg</field>
+<field name="snippet">the climate change summit in paris. as you look at the latest fox news poll climate change is kind of down on the list there. and there you see it. 3% from 5%. terrorism obviously taking the</field>
+</doc>
+</add>

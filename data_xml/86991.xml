@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191207_000000_BBC_News#start/58/end/93</field>
+<field name="datetime">12/7/2019 0:01:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191207_000000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191207_000000_BBC_News/BBCNEWS_20191207_000000_BBC_News.thumbs/BBCNEWS_20191207_000000_BBC_News_000059.jpg</field>
+<field name="snippet">attends the un climate conference in madrid, warning that the climate crisis is still being ignored by those in power. we are stepping out of our comfort zone, telling the people in power</field>
+</doc>
+</add>

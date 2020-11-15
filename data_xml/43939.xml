@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151201_170000_Andrea_Mitchell_Reports#start/1240/end/1275</field>
+<field name="datetime">12/1/2015 17:20:55</field>
+<field name="station">MSNBC</field>
+<field name="show">Andrea Mitchell Reports</field>
+<field name="showid">MSNBCW_20151201_170000_Andrea_Mitchell_Reports</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151201_170000_Andrea_Mitchell_Reports/MSNBCW_20151201_170000_Andrea_Mitchell_Reports.thumbs/MSNBCW_20151201_170000_Andrea_Mitchell_Reports_001216.jpg</field>
+<field name="snippet">reporter: you planned to go, all week your staff has said you're going. have you changed your mind? obviously by the answer, it's a question i haven't answered yet. i have serious work here. i think the mission of climate change is serious work. i will weigh that.</field>
+</doc>
+</add>

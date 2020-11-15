@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201010.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101027_150000_Happening_Now#start/5405/end/5440</field>
+<field name="datetime">10/27/2010 16:30:20</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20101027_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101027_150000_Happening_Now/FOXNEWS_20101027_150000_Happening_Now.thumbs/FOXNEWS_20101027_150000_Happening_Now_005391.jpg</field>
+<field name="snippet">that is something the state cannot afford. california is outlining a clean energy future. that future is spelled out in the state's landmark global warming law, it forces companies to install costly new equipment to reduce emissions, which</field>
+</doc>
+</add>

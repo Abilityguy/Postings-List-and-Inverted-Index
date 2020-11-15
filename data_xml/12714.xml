@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170713_233000_BBC_News_NI_Special#start/13/end/48</field>
+<field name="datetime">7/13/2017 23:30:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News NI Special</field>
+<field name="showid">BBCNEWS_20170713_233000_BBC_News_NI_Special</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170713_233000_BBC_News_NI_Special/BBCNEWS_20170713_233000_BBC_News_NI_Special.thumbs/BBCNEWS_20170713_233000_BBC_News_NI_Special_000058.jpg</field>
+<field name="snippet">donald trump has hinted he might change his position on the climate change treaty. he's withdrawn the us from the agreement but said after meeting france's president macron in paris that 'something could happen'. and this video is trending on bbc.com it's an elephant, which was swept</field>
+</doc>
+</add>

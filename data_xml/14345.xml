@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201812.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181231_100000_Meet_the_Press#start/2775/end/2810</field>
+<field name="datetime">12/31/2018 10:46:30</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20181231_100000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181231_100000_Meet_the_Press/MSNBCW_20181231_100000_Meet_the_Press.thumbs/MSNBCW_20181231_100000_Meet_the_Press_002758.jpg</field>
+<field name="snippet">and 50% of those who live in cities, suburbs and rural america agree, but if the public has reached a consensus, why hasn't washington? well, we see the biggest disagreement on climate change when we look through the prism of political parties. 71% of democrats say climate</field>
+</doc>
+</add>

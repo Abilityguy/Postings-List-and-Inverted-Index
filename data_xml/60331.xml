@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_175000_BBC_News#start/320/end/355</field>
+<field name="datetime">10/8/2018 17:55:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181008_175000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_175000_BBC_News/BBCNEWS_20181008_175000_BBC_News.thumbs/BBCNEWS_20181008_175000_BBC_News_000297.jpg</field>
+<field name="snippet">programme at 8:30pm tonight, on the dramatic report of the intergovernmental panel on climate change, urging a need for change to avoid the worst effects of the temperature. e-mail and text as or</field>
+</doc>
+</add>

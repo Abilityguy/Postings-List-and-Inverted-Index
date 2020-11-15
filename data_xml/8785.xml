@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190914_100000_Fox_and_Friends_Saturday#start/8243/end/8278</field>
+<field name="datetime">9/14/2019 12:17:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20190914_100000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190914_100000_Fox_and_Friends_Saturday/FOXNEWSW_20190914_100000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20190914_100000_Fox_and_Friends_Saturday_008218.jpg</field>
+<field name="snippet">pete: students here in new york city are getting a hall pass all in an effort to rally for climate change. brian: here to react host of the michael knowles show. good to have you here in person. jedediah: welcome. ed: i guess can you tell kids to get out of school. i certainly would have</field>
+</doc>
+</add>

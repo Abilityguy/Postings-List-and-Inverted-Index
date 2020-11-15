@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201610.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161002_150000_MediaBuzz#start/2805/end/2840</field>
+<field name="datetime">10/2/2016 15:47:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">MediaBuzz</field>
+<field name="showid">FOXNEWSW_20161002_150000_MediaBuzz</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161002_150000_MediaBuzz/FOXNEWSW_20161002_150000_MediaBuzz.thumbs/FOXNEWSW_20161002_150000_MediaBuzz_002787.jpg</field>
+<field name="snippet">do we have a chance to hear it? let's try it one more time. live television. he started the birther movement. you did. he said climate change is a hoax in china.</field>
+</doc>
+</add>

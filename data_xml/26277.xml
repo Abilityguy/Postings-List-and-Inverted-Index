@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201003.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100316_010000_Hannity#start/1719/end/1754</field>
+<field name="datetime">3/16/2010 1:28:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20100316_010000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100316_010000_Hannity/FOXNEWS_20100316_010000_Hannity.thumbs/FOXNEWS_20100316_010000_Hannity_001705.jpg</field>
+<field name="snippet">sean: finally, the news about climate gate has yet to reach some in the british government. the u.k.'s department of energy and climate change was rebuked by the country's advertising standards authority for publishing misleading ads about</field>
+</doc>
+</add>

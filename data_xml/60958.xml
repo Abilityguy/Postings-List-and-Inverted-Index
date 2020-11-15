@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201311.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20131107_110000_Morning_Joe#start/614/end/649</field>
+<field name="datetime">11/7/2013 11:10:29</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20131107_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20131107_110000_Morning_Joe/MSNBCW_20131107_110000_Morning_Joe.thumbs/MSNBCW_20131107_110000_Morning_Joe_000615.jpg</field>
+<field name="snippet">he's so-so on climate change. he believes it's real and partially manmade. so if you're looking for a candidate 100% pure you're looking for a long time.</field>
+</doc>
+</add>

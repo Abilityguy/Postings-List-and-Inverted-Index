@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_230000_Special_Report_With_Bret_Baier#start/548/end/583</field>
+<field name="datetime">12/18/2009 23:09:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091218_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_230000_Special_Report_With_Bret_Baier/FOXNEWS_20091218_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091218_230000_Special_Report_With_Bret_Baier_000536.jpg</field>
+<field name="snippet">wasn't sure if this agreement needed to be signed. he thought probably not. that's because it's not legally binding and everyone here absolutely knows that. brian: thank you very much. please join bret baier for a special look at climate change, global warming or a lot of hot</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191122_170000_BBC_News_at_Five#start/1684/end/1719</field>
+<field name="datetime">11/22/2019 17:28:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20191122_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191122_170000_BBC_News_at_Five/BBCNEWS_20191122_170000_BBC_News_at_Five.thumbs/BBCNEWS_20191122_170000_BBC_News_at_Five_001678.jpg</field>
+<field name="snippet">environment and climate change. which party fits the bill for you? we have not seen the conservative ma nifesto we have not seen the conservative manifesto yet but there are interesting things in the labour party manifesto, particularly around how carbon is accounted for notjust on production basis but an import</field>
+</doc>
+</add>

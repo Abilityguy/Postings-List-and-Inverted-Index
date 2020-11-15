@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191216_010000_Newsday#start/1802/end/1837</field>
+<field name="datetime">12/16/2019 1:30:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191216_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191216_010000_Newsday/BBCNEWS_20191216_010000_Newsday.thumbs/BBCNEWS_20191216_010000_Newsday_001708.jpg</field>
+<field name="snippet">with more rain for many of you but, as i said, temperatures will be on the up. i'm kasia madera with bbc world news. our top story. the longest un climate talks ever held have finished with a compromise deal on tackling climate change.</field>
+</doc>
+</add>

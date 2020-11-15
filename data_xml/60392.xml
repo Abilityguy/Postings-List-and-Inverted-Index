@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_050000_Breakfast#start/1881/end/1916</field>
+<field name="datetime">10/8/2018 5:31:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181008_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_050000_Breakfast/BBCNEWS_20181008_050000_Breakfast.thumbs/BBCNEWS_20181008_050000_Breakfast_001857.jpg</field>
+<field name="snippet">regret, and family secrets. good morning. here's a summary of today's main stories from bbc news. scientists have given one of the starkest warnings yet about the changes needed to tackle climate change. the report by the</field>
+</doc>
+</add>

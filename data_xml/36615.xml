@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201906.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190621_100000_Morning_Joe#start/6496/end/6531</field>
+<field name="datetime">6/21/2019 11:48:31</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20190621_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190621_100000_Morning_Joe/MSNBCW_20190621_100000_Morning_Joe.thumbs/MSNBCW_20190621_100000_Morning_Joe_006478.jpg</field>
+<field name="snippet">still ahead, it's an issue sure to come up in next week's democrat debate. how climate change is affecting one state and is now impacting jobs. we're back in two minutes.</field>
+</doc>
+</add>

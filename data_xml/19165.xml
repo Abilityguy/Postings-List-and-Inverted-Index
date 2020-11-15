@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201606.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160619_090000_Fox_Report_Saturday#start/2448/end/2483</field>
+<field name="datetime">6/19/2016 9:41:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox Report Saturday</field>
+<field name="showid">FOXNEWSW_20160619_090000_Fox_Report_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160619_090000_Fox_Report_Saturday/FOXNEWSW_20160619_090000_Fox_Report_Saturday.thumbs/FOXNEWSW_20160619_090000_Fox_Report_Saturday_002427.jpg</field>
+<field name="snippet">president obama used the visit to put the national park in the highlight. we may not enjoy another hundred years of the park unless we address the dangers of climate change. the task of protecting our</field>
+</doc>
+</add>

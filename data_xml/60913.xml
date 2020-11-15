@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201311.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20131108_170000_NOW_With_Alex_Wagner#start/1368/end/1403</field>
+<field name="datetime">11/8/2013 17:23:03</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20131108_170000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20131108_170000_NOW_With_Alex_Wagner/MSNBCW_20131108_170000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20131108_170000_NOW_With_Alex_Wagner_001366.jpg</field>
+<field name="snippet">the current mood of the gop base. christie openly endorsed gun control, a path for citizenship for illegal immigrants, acknowledged legitimacy of climate change.</field>
+</doc>
+</add>

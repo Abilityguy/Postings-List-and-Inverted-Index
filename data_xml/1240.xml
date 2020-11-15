@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170514_020000_BBC_News#start/1189/end/1224</field>
+<field name="datetime">5/14/2017 2:20:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170514_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170514_020000_BBC_News/BBCNEWS_20170514_020000_BBC_News.thumbs/BBCNEWS_20170514_020000_BBC_News_001167.jpg</field>
+<field name="snippet">dying for a lack of food, it isn't visible, there aren't pictures highlighting the problem but we should be embarrassed about this. in many communities, acute malnutrition is being staved off by hand-outs. campaigners say climate change is here to stay, it may not be a case</field>
+</doc>
+</add>

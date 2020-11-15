@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201302.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130214_080000_Red_Eye#start/227/end/262</field>
+<field name="datetime">2/14/2013 8:04:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWSW_20130214_080000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130214_080000_Red_Eye/FOXNEWSW_20130214_080000_Red_Eye.thumbs/FOXNEWSW_20130214_080000_Red_Eye_000225.jpg</field>
+<field name="snippet">attacking climate change and pushing for an 'entourage' sequel. let it go. but then it seemed like he was throwing out ideas on the fly. we must do more to combat climate change. that idea is even worse.</field>
+</doc>
+</add>

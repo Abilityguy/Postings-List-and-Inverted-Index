@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201811.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181122_100000_MTP_Daily#start/2205/end/2240</field>
+<field name="datetime">11/22/2018 10:37:00</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20181122_100000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181122_100000_MTP_Daily/MSNBCW_20181122_100000_MTP_Daily.thumbs/MSNBCW_20181122_100000_MTP_Daily_002037.jpg</field>
+<field name="snippet">extreme weather is shrinking the planet by making less land hospitable to human life. bill mckibben wrote a new yorker story about what we then called the greenhouse gas effect. he is also an environmental activist and founder of 350.org, an online network of climate</field>
+</doc>
+</add>

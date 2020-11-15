@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201210.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121015_100000_FOX_and_Friends#start/1440/end/1475</field>
+<field name="datetime">10/15/2012 10:24:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20121015_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121015_100000_FOX_and_Friends/FOXNEWSW_20121015_100000_FOX_and_Friends.thumbs/FOXNEWSW_20121015_100000_FOX_and_Friends_001348.jpg</field>
+<field name="snippet">[ male announcer ] now you'll know when to stop. honk! ] the all-new nissan altima with easy fill tire alert. [ honk! ] it's our most innovative altima ever. nissan. innovation that excites. brian: global warming ended 16 years ago according to new</field>
+</doc>
+</add>

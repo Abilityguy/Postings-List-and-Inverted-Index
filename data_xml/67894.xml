@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190215_110000_BBC_Newsroom_Live#start/5672/end/5707</field>
+<field name="datetime">2/15/2019 12:34:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190215_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190215_110000_BBC_Newsroom_Live/BBCNEWS_20190215_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190215_110000_BBC_Newsroom_Live_005667.jpg</field>
+<field name="snippet">about climate change. i'm joined by one of them now, 18-year-olds sofia. why are you here today and why have you skipped school?” why are you here today and why have you skipped school? i think the complete ignorance about what climate change is really going to do to us. the met office predicts 130</field>
+</doc>
+</add>

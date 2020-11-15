@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200114_170000_BBC_News_at_Five#start/2263/end/2298</field>
+<field name="datetime">1/14/2020 17:37:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20200114_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200114_170000_BBC_News_at_Five/BBCNEWS_20200114_170000_BBC_News_at_Five.thumbs/BBCNEWS_20200114_170000_BBC_News_at_Five_002247.jpg</field>
+<field name="snippet">out a review of research linking climate change with the risk of wildfires and said it is 'common sense' that climate change has increased the risk of the dramatic events seen in recent weeks. nasa is tracking the smoke from australia's bushfires, which it says is travelling around</field>
+</doc>
+</add>

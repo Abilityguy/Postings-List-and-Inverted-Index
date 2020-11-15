@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191125_230000_BBC_News#start/19/end/54</field>
+<field name="datetime">11/25/2019 23:00:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191125_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191125_230000_BBC_News/BBCNEWS_20191125_230000_BBC_News.thumbs/BBCNEWS_20191125_230000_BBC_News_000029.jpg</field>
+<field name="snippet">levels of greenhouse gases break new records, as experts express their fears for the future of the planet.</field>
+</doc>
+</add>

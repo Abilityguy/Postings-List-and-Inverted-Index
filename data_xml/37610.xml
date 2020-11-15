@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091005_210000_Glenn_Beck#start/3233/end/3268</field>
+<field name="datetime">10/5/2009 21:54:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20091005_210000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091005_210000_Glenn_Beck/FOXNEWS_20091005_210000_Glenn_Beck.thumbs/FOXNEWS_20091005_210000_Glenn_Beck_003233.jpg</field>
+<field name="snippet">the following things by now -- global warming. nope. immigration reform. nope. gays in the military r no. limits on executive powers. nope.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20171122_010000_Tucker_Carlson_Tonight#start/1427/end/1462</field>
+<field name="datetime">11/22/2017 1:24:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20171122_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20171122_010000_Tucker_Carlson_Tonight/FOXNEWSW_20171122_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20171122_010000_Tucker_Carlson_Tonight_001408.jpg</field>
+<field name="snippet">escape the climate change that was going on over there. if you look at the weather in queens, it's basically the same. mark: it was great because we were coming out of a little ice age.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090929_230000_The_FOX_Report_With_Shepard_Smith#start/540/end/575</field>
+<field name="datetime">9/29/2009 23:09:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The FOX Report With Shepard Smith</field>
+<field name="showid">FOXNEWS_20090929_230000_The_FOX_Report_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090929_230000_The_FOX_Report_With_Shepard_Smith/FOXNEWS_20090929_230000_The_FOX_Report_With_Shepard_Smith.thumbs/FOXNEWS_20090929_230000_The_FOX_Report_With_Shepard_Smith_000536.jpg</field>
+<field name="snippet">leaders. this news comes a week after fidel castro praised president obama for his efforts a climate change. shannon bream is working this story for us in washington. shannon, after years of a very cold relationship, how did this all come together? well, shep, the state</field>
+</doc>
+</add>

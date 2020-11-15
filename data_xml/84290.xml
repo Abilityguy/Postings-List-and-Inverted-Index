@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190427_060000_Breakfast#start/3026/end/3061</field>
+<field name="datetime">4/27/2019 6:50:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190427_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190427_060000_Breakfast/BBCNEWS_20190427_060000_Breakfast.thumbs/BBCNEWS_20190427_060000_Breakfast_003028.jpg</field>
+<field name="snippet">for much of the past fortnight, climate change protesters have made their presence felt in locations across london. last wednesday, tom symonds caught up with some of them on waterloo bridge. this is normally one of the busiest bridges across the thames.</field>
+</doc>
+</add>

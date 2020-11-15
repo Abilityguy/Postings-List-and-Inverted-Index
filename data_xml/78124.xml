@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191108_190000_BBC_News#start/2379/end/2414</field>
+<field name="datetime">11/8/2019 19:39:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191108_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191108_190000_BBC_News/BBCNEWS_20191108_190000_BBC_News.thumbs/BBCNEWS_20191108_190000_BBC_News_002369.jpg</field>
+<field name="snippet">the defences will certainly be tested again in future. on this occasion, yes, they have held but next time, who is to know? every event, that is the one thing we do know, as we'll know because of climate change, we can expect more flooding events</field>
+</doc>
+</add>

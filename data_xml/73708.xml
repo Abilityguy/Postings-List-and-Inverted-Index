@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201002.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100208_200000_MSNBC_News_Live#start/2455/end/2490</field>
+<field name="datetime">2/8/2010 20:41:10</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100208_200000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100208_200000_MSNBC_News_Live/MSNBC_20100208_200000_MSNBC_News_Live.thumbs/MSNBC_20100208_200000_MSNBC_News_Live_002456.jpg</field>
+<field name="snippet">blitz blaming this on global warming. the playbook on the center for american progress which claimed the minneapolis bridge collapse and arsonist lit wildfires on global warming. they didn't blame that on global warming.</field>
+</doc>
+</add>

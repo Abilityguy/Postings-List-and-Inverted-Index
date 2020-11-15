@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190419_050000_Breakfast#start/3365/end/3400</field>
+<field name="datetime">4/19/2019 5:56:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190419_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190419_050000_Breakfast/BBCNEWS_20190419_050000_Breakfast.thumbs/BBCNEWS_20190419_050000_Breakfast_003568.jpg</field>
+<field name="snippet">time now to get the news, travel and weather where you are. good morning from bbc london news. i'm geeta pendse. the met police have described the disruption caused by climate change activists as 'beyond unacceptable'. more than 500 people</field>
+</doc>
+</add>

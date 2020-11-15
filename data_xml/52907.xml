@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180628_120000_BBC_News_at_One#start/1508/end/1543</field>
+<field name="datetime">6/28/2018 12:25:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20180628_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180628_120000_BBC_News_at_One/BBCNEWS_20180628_120000_BBC_News_at_One.thumbs/BBCNEWS_20180628_120000_BBC_News_at_One_001498.jpg</field>
+<field name="snippet">are avoiding the issue - that's according to a new report. the committee on climate change says the government must act quickly to cut co2 emissions from traffic, homes and farming in order to avoid future generations having to spend more to curb emissions. the government says it will meet its climate obligations. here's our environment analyst roger harrabin.</field>
+</doc>
+</add>

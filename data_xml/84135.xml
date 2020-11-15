@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190415_160000_BBC_News_at_Five#start/1347/end/1382</field>
+<field name="datetime">4/15/2019 16:22:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190415_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190415_160000_BBC_News_at_Five/BBCNEWS_20190415_160000_BBC_News_at_Five.thumbs/BBCNEWS_20190415_160000_BBC_News_at_Five_001318.jpg</field>
+<field name="snippet">action to combat climate change. there are police here this afternoon but apart from some arrests that have taken place at the shell building, we have seen no real action from the police to intervene or try to bring these protests to an</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201207.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120704_110000_MSNBC_Live#start/1302/end/1337</field>
+<field name="datetime">7/4/2012 11:21:57</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20120704_110000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120704_110000_MSNBC_Live/MSNBCW_20120704_110000_MSNBC_Live.thumbs/MSNBCW_20120704_110000_MSNBC_Live_001290.jpg</field>
+<field name="snippet">hydrated. and air conditioning. alex wallace, thank you so much. is this wild weather across the country just a fluke or a sign of climate change? that question's been asked. joining us now from london is environmentalist and author</field>
+</doc>
+</add>

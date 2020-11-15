@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201207.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120703_200000_Your_World_With_Neil_Cavuto#start/3137/end/3172</field>
+<field name="datetime">7/3/2012 20:52:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20120703_200000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120703_200000_Your_World_With_Neil_Cavuto/FOXNEWSW_20120703_200000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20120703_200000_Your_World_With_Neil_Cavuto_003120.jpg</field>
+<field name="snippet">because superstition has taken hold. neil: you're right, you hit on -- you hit on a brilliant point. you can make a point to always -- if it's cold, it's climate change. if it's warm, it's climate</field>
+</doc>
+</add>

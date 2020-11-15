@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_090000_BBC_News_at_9#start/2941/end/2976</field>
+<field name="datetime">12/3/2018 9:49:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20181203_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_090000_BBC_News_at_9/BBCNEWS_20181203_090000_BBC_News_at_9.thumbs/BBCNEWS_20181203_090000_BBC_News_at_9_002937.jpg</field>
+<field name="snippet">and the very important climate change conference that is officially starting today in the city of katowice. poland heavily relies on coal, and the government is refusing to reverse that - infact it has plans to start building a new coal mine next year.</field>
+</doc>
+</add>

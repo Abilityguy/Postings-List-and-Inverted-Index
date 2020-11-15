@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090710_030000_The_OReilly_Factor#start/81/end/116</field>
+<field name="datetime">7/10/2009 3:01:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20090710_030000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090710_030000_The_OReilly_Factor/FOXNEWS_20090710_030000_The_OReilly_Factor.thumbs/FOXNEWS_20090710_030000_The_OReilly_Factor_000055.jpg</field>
+<field name="snippet">bill: hi, i'm bill o'reilly. thanks for watching us tonight. god, global warming, and president obama, that is the subject of this evening's talking points memo. on friday president obama will meet with the pope in rome near where the president is attending thegate economic summit.</field>
+</doc>
+</add>

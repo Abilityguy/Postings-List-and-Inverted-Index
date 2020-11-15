@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181129_130000_BBC_News_at_One#start/1419/end/1454</field>
+<field name="datetime">11/29/2018 13:23:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20181129_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181129_130000_BBC_News_at_One/BBCNEWS_20181129_130000_BBC_News_at_One.thumbs/BBCNEWS_20181129_130000_BBC_News_at_One_001408.jpg</field>
+<field name="snippet">a punctual, decent service on a much busier network. many thanks. the world meteorological organisation has warned that countries are not on track to meet the climate change targets set at the paris summit in 2015. new united nations' figures show that global temperatures in 2018 are set to be the fourth highest on record. it comes as the un's</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_113000_BBC_Newsroom_Live#start/1820/end/1855</field>
+<field name="datetime">12/3/2018 12:00:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20181203_113000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_113000_BBC_Newsroom_Live/BBCNEWS_20181203_113000_BBC_Newsroom_Live.thumbs/BBCNEWS_20181203_113000_BBC_Newsroom_Live_001797.jpg</field>
+<field name="snippet">welcome to bbc newsroom live. sir david attenborough has called on world leaders to act now to combat climate change, which he says is the greatest threat to humanity in thousands of years. in a speech at the un climate talks in poland, he said if action wasn't taken</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_100000_BBC_Newsroom_Live#start/528/end/563</field>
+<field name="datetime">8/8/2019 10:09:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190808_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_100000_BBC_Newsroom_Live/BBCNEWS_20190808_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190808_100000_BBC_Newsroom_Live_000508.jpg</field>
+<field name="snippet">benefits, but it still creates more greenhouse gases than growing plant protein. scientists meeting here in the alps are not saying we've all got to go vegan to protect the climate. they are saying that we do need to cut down on red</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201709.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170909_140000_AM_Joy#start/1652/end/1687</field>
+<field name="datetime">9/9/2017 14:27:47</field>
+<field name="station">MSNBC</field>
+<field name="show">AM Joy</field>
+<field name="showid">MSNBCW_20170909_140000_AM_Joy</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170909_140000_AM_Joy/MSNBCW_20170909_140000_AM_Joy.thumbs/MSNBCW_20170909_140000_AM_Joy_001647.jpg</field>
+<field name="snippet">this should be a lesson for everybody in the united states. i think you're absolutely right, this is an opportunity to think about how we build, how we mitigate rising sea levels and climate change and it's not fake news but mayor you've got a lot</field>
+</doc>
+</add>

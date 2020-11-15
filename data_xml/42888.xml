@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180119_040000_BBC_News#start/261/end/296</field>
+<field name="datetime">1/19/2018 4:04:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180119_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180119_040000_BBC_News/BBCNEWS_20180119_040000_BBC_News.thumbs/BBCNEWS_20180119_040000_BBC_News_000237.jpg</field>
+<field name="snippet">not caused by man-made climate change, but influenced by high temperatures drying out parched land, followed by the deadly mudslides caused by an unsual combination of extreme rain and heat. scientists say the recent records</field>
+</doc>
+</add>

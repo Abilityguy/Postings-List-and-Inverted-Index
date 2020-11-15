@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090703_060000_Glenn_Beck#start/905/end/940</field>
+<field name="datetime">7/3/2009 6:15:20</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20090703_060000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090703_060000_Glenn_Beck/FOXNEWS_20090703_060000_Glenn_Beck.thumbs/FOXNEWS_20090703_060000_Glenn_Beck_000896.jpg</field>
+<field name="snippet">if you are worried about global warming, and i don't know why you would be, but if you are, then nuclear power is the perfect solution, because it is basically an endless energy supply. it is clean, no co2 emissions but the greens hate it. it is actually the cheapest</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201702.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170228_020000_Tucker_Carlson_Tonight#start/1016/end/1051</field>
+<field name="datetime">2/28/2017 2:17:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20170228_020000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170228_020000_Tucker_Carlson_Tonight/FOXNEWSW_20170228_020000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20170228_020000_Tucker_Carlson_Tonight_001018.jpg</field>
+<field name="snippet">climate change, the last ice age we had was tens of thousands of years ago. so bear in mind that in ancient dinosaur days there were more carbon dioxide, it was warmer than it is now. i understand you have a congress</field>
+</doc>
+</add>

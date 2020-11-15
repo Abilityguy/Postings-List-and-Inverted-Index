@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100201_160000_Happening_Now#start/1245/end/1280</field>
+<field name="datetime">2/1/2010 16:21:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20100201_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100201_160000_Happening_Now/FOXNEWS_20100201_160000_Happening_Now.thumbs/FOXNEWS_20100201_160000_Happening_Now_001225.jpg</field>
+<field name="snippet">tribunal that has no track record. jon: julie, thank you. jane: nuclear power is getting a boost from the white house, straight ahead, how the president plans to use clean nuclear energy in the battle against climate</field>
+</doc>
+</add>

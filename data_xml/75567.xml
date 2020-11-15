@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201204.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120409_160000_NOW_With_Alex_Wagner#start/3230/end/3265</field>
+<field name="datetime">4/9/2012 16:54:05</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20120409_160000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120409_160000_NOW_With_Alex_Wagner/MSNBCW_20120409_160000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20120409_160000_NOW_With_Alex_Wagner_003210.jpg</field>
+<field name="snippet">meteorologists sounding the warning bell again over climate change. we were talking about this over the break. it has been creepily warm. luke, we disagree on this. in some ways this is a setback for climate change because so many people are like, this is great. this is nice.</field>
+</doc>
+</add>

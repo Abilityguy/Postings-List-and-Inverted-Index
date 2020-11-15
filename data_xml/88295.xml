@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191216_040000_BBC_News#start/1812/end/1847</field>
+<field name="datetime">12/16/2019 4:30:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191216_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191216_040000_BBC_News/BBCNEWS_20191216_040000_BBC_News.thumbs/BBCNEWS_20191216_040000_BBC_News_001767.jpg</field>
+<field name="snippet">the longest un climate talks ever held have finished with a compromise deal on tackling climate change. delegates and environmental campaigners called it an utter failure, blaming some of the most polluting nations for holding back decisive action. discussions on several key issues were shelved until next year's climate talks in the uk. activists are continuing their protests in the indian capital</field>
+</doc>
+</add>

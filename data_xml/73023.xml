@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190107_060000_Breakfast#start/3214/end/3249</field>
+<field name="datetime">1/7/2019 6:53:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190107_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190107_060000_Breakfast/BBCNEWS_20190107_060000_Breakfast.thumbs/BBCNEWS_20190107_060000_Breakfast_003207.jpg</field>
+<field name="snippet">pine needles take a long time to decompose. so, as christmas trees rot, they comparatively give off huge amounts of greenhouse gases such as methane. but at the university of sheffield, cynthia has</field>
+</doc>
+</add>

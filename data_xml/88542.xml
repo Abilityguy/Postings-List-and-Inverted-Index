@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190611_220000_BBC_News#start/10/end/45</field>
+<field name="datetime">6/11/2019 22:00:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190611_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190611_220000_BBC_News/BBCNEWS_20190611_220000_BBC_News.thumbs/BBCNEWS_20190611_220000_BBC_News_000027.jpg</field>
+<field name="snippet">this is bbc news. i'm ben brown. the headlines at 11:00: the prime minister pledges the uk will cut greenhouse gases to zero by 2050, making britain one of the first major economy to do so, affecting all our daily lives.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091006_220000_Special_Report_With_Bret_Baier#start/3565/end/3600</field>
+<field name="datetime">10/6/2009 22:59:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091006_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091006_220000_Special_Report_With_Bret_Baier/FOXNEWS_20091006_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091006_220000_Special_Report_With_Bret_Baier_003562.jpg</field>
+<field name="snippet">jim: democrats in the senate recently introduced climate change legislation, and john stuart is having a little fun with it. cap and trade. cap and trade is a great plan with a great name.</field>
+</doc>
+</add>

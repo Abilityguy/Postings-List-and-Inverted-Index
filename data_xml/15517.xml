@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201110.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111002_100000_FOX_and_Friends_Sunday#start/8250/end/8285</field>
+<field name="datetime">10/2/2011 12:17:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20111002_100000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111002_100000_FOX_and_Friends_Sunday/FOXNEWSW_20111002_100000_FOX_and_Friends_Sunday.thumbs/FOXNEWSW_20111002_100000_FOX_and_Friends_Sunday_008250.jpg</field>
+<field name="snippet">he supports the assault weapons ban. he says that he believes that global warming is real and at least in part, man made. he supports civil unions for same sex couples. i suspect a lot of the people who are telling him now to get into the race don't know that</field>
+</doc>
+</add>

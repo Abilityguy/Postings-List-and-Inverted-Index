@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190221_130000_BBC_News_at_One#start/631/end/666</field>
+<field name="datetime">2/21/2019 13:10:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190221_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190221_130000_BBC_News_at_One/BBCNEWS_20190221_130000_BBC_News_at_One.thumbs/BBCNEWS_20190221_130000_BBC_News_at_One_000629.jpg</field>
+<field name="snippet">who also warn that the scandal of badly insulated homes must be tackled if targets for climate change have any hope of being reached. our environment analyst, roger harrabin reports.</field>
+</doc>
+</add>

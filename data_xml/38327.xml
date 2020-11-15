@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201207.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120729_100000_FOX_and_Friends_Sunday#start/11876/end/11911</field>
+<field name="datetime">7/29/2012 13:18:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20120729_100000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120729_100000_FOX_and_Friends_Sunday/FOXNEWSW_20120729_100000_FOX_and_Friends_Sunday.thumbs/FOXNEWSW_20120729_100000_FOX_and_Friends_Sunday_011850.jpg</field>
+<field name="snippet">global warming is, luke warm. and there are more and more people that agree with me. let's go back to nasa, again. and look at their forecast they made in the mid 1980s that got everybody all heated up. turns out they forecast about twice as much warming as is</field>
+</doc>
+</add>

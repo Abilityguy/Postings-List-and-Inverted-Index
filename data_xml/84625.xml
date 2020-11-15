@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190420_040000_BBC_News#start/606/end/641</field>
+<field name="datetime">4/20/2019 4:10:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190420_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190420_040000_BBC_News/BBCNEWS_20190420_040000_BBC_News.thumbs/BBCNEWS_20190420_040000_BBC_News_000599.jpg</field>
+<field name="snippet">it comes at a sensitive time. the anniversary of the tiananmen crackdown is only weeks way. police have arrested more than 680 people during five days of climate change protests in central london. a pink boat, that had been used by demonstrators to blockade oxford circus, was towed away on friday evening. protestors</field>
+</doc>
+</add>

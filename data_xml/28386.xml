@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201901.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190121_110000_Morning_Joe#start/10004/end/10039</field>
+<field name="datetime">1/21/2019 13:46:59</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20190121_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190121_110000_Morning_Joe/MSNBCW_20190121_110000_Morning_Joe.thumbs/MSNBCW_20190121_110000_Morning_Joe_009989.jpg</field>
+<field name="snippet">so it's a two-fer. we have a president right now who calls climate change a hoax and now isn't paying people to train how to fight forest fires to keep our towns from burning down. i was in paradise, california, a few weeks ago and it looked like dresden after world war ii.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201812.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181230_150000_AM_Joy#start/1817/end/1852</field>
+<field name="datetime">12/30/2018 15:30:32</field>
+<field name="station">MSNBC</field>
+<field name="show">AM Joy</field>
+<field name="showid">MSNBCW_20181230_150000_AM_Joy</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181230_150000_AM_Joy/MSNBCW_20181230_150000_AM_Joy.thumbs/MSNBCW_20181230_150000_AM_Joy_001798.jpg</field>
+<field name="snippet">their agenda, the question now is what will top their list. joining me is joel and joe watkins. let's start with you. there is immigration, gun control, health care, climate change. what item do you think will be</field>
+</doc>
+</add>

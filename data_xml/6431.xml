@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190923_220000_BBC_News#start/1158/end/1193</field>
+<field name="datetime">9/23/2019 22:19:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190923_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190923_220000_BBC_News/BBCNEWS_20190923_220000_BBC_News.thumbs/BBCNEWS_20190923_220000_BBC_News_001138.jpg</field>
+<field name="snippet">an urgent climate action summit. this global body, once more, sounding the alarm. the world is losing the race against climate change. applause in this air-conditioned auditorium, the heat came from the 16-year-old swedish</field>
+</doc>
+</add>

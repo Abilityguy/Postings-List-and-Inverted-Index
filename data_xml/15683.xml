@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201104.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110422_100000_FOX_and_Friends#start/1384/end/1419</field>
+<field name="datetime">4/22/2011 10:23:19</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20110422_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110422_100000_FOX_and_Friends/FOXNEWS_20110422_100000_FOX_and_Friends.thumbs/FOXNEWS_20110422_100000_FOX_and_Friends_001380.jpg</field>
+<field name="snippet">something is the wrong way to go. if you look at what we're doing with climate change, we're trying to say, oh, let's subsidize extra solar panels or windmills. that makes us feel good. that's not the solution to cut a few tons of co-2. it's about getting everybody to use these green technologies and</field>
+</doc>
+</add>

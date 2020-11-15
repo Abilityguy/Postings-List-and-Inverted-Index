@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190502_100000_BBC_Newsroom_Live#start/826/end/861</field>
+<field name="datetime">5/2/2019 10:14:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190502_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190502_100000_BBC_Newsroom_Live/BBCNEWS_20190502_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190502_100000_BBC_Newsroom_Live_000808.jpg</field>
+<field name="snippet">is the committee on climate change on the right track? how does its report mirror greenpeace's own set of actions? i think there are 130 or more of them, that you believe the planet needs to take. absolutely. i</field>
+</doc>
+</add>

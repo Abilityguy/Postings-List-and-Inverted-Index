@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151201_230000_MSNBC_Live#start/1878/end/1913</field>
+<field name="datetime">12/1/2015 23:31:33</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20151201_230000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151201_230000_MSNBC_Live/MSNBCW_20151201_230000_MSNBC_Live.thumbs/MSNBCW_20151201_230000_MSNBC_Live_001876.jpg</field>
+<field name="snippet">blake, thank you. still to come, climate change, as we have been talking about, now becoming a hot topic on the 2016 trail. how candidates are responding to president obama's comments out of paris. plus, this is an important anniversary today. a major milestone in the fight</field>
+</doc>
+</add>

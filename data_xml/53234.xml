@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201105.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110504_040000_The_Rachel_Maddow_Show#start/1487/end/1522</field>
+<field name="datetime">5/4/2011 4:25:02</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBC_20110504_040000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20110504_040000_The_Rachel_Maddow_Show/MSNBC_20110504_040000_The_Rachel_Maddow_Show.thumbs/MSNBC_20110504_040000_The_Rachel_Maddow_Show_001464.jpg</field>
+<field name="snippet">george w. bush or the presidency of barack obama or global warming or light rail or whatever, caution. think twice. think three times. whether it is the fog of war or sloppiness or we're just going to have to be patient about this, it is clear that we do not yet have the definitive account</field>
+</doc>
+</add>

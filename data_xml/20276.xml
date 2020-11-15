@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201404.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140423_050000_Hannity#start/2217/end/2252</field>
+<field name="datetime">4/23/2014 5:37:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20140423_050000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140423_050000_Hannity/FOXNEWSW_20140423_050000_Hannity.thumbs/FOXNEWSW_20140423_050000_Hannity_002205.jpg</field>
+<field name="snippet">i lost the poll against my assistant bailey on that one. i don't always win. you see these quotes and predictions, and then i hear the predictions about global warming today, they're not true either, but a lot of people believe them.</field>
+</doc>
+</add>

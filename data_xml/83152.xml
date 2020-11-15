@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191009_230000_Newsday#start/668/end/703</field>
+<field name="datetime">10/9/2019 23:11:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191009_230000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191009_230000_Newsday/BBCNEWS_20191009_230000_Newsday.thumbs/BBCNEWS_20191009_230000_Newsday_000659.jpg</field>
+<field name="snippet">live from singapore and london. still to come, as turkey attacks kurdish led forces in northern syria we will get reaction from washington. also coming up, australia 's arm is face unprecedented stress from climate change. we will talk to one of them</field>
+</doc>
+</add>

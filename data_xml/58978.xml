@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181122_130000_BBC_News_at_One#start/1805/end/1840</field>
+<field name="datetime">11/22/2018 13:30:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20181122_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181122_130000_BBC_News_at_One/BBCNEWS_20181122_130000_BBC_News_at_One.thumbs/BBCNEWS_20181122_130000_BBC_News_at_One_001797.jpg</field>
+<field name="snippet">the larvae get washed away. the oyster data could bring other benefits too. this estuary is experiencing climate change. it has changing temperature regimes so we've seen warmer coastal seas here, warmer than we had before, and warmer environments more often</field>
+</doc>
+</add>

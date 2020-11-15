@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170820_133000_Talking_Movies#start/538/end/573</field>
+<field name="datetime">8/20/2017 13:39:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Talking Movies</field>
+<field name="showid">BBCNEWS_20170820_133000_Talking_Movies</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170820_133000_Talking_Movies/BBCNEWS_20170820_133000_Talking_Movies.thumbs/BBCNEWS_20170820_133000_Talking_Movies_000537.jpg</field>
+<field name="snippet">inspired by real events, from director christopher nolan's dunkirk to al gore's documentary on climate change. then there was detroit, a film based on the 1967 detroit riots, directed by kathryn bigelow. it sparked a fair bit of debate, which is still ongoing. tristan daily reports.</field>
+</doc>
+</add>

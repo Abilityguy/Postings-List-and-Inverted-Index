@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201505.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150520_210000_The_Ed_Show#start/490/end/525</field>
+<field name="datetime">5/20/2015 21:08:25</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20150520_210000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150520_210000_The_Ed_Show/MSNBCW_20150520_210000_The_Ed_Show.thumbs/MSNBCW_20150520_210000_The_Ed_Show_000465.jpg</field>
+<field name="snippet">leaders agree climate change is here and it's already impacting the planet. on the flip side we have republicans in congress straight up denying science. it's kind of laughable right now. humans are not responsible</field>
+</doc>
+</add>

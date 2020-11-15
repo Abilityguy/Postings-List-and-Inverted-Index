@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201409.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140905_100000_FOX_and_Friends#start/8665/end/8700</field>
+<field name="datetime">9/5/2014 12:24:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20140905_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140905_100000_FOX_and_Friends/FOXNEWSW_20140905_100000_FOX_and_Friends.thumbs/FOXNEWSW_20140905_100000_FOX_and_Friends_008595.jpg</field>
+<field name="snippet">friends will say a final farewell to murdered journalist steven sotloff. a public memorial is being held this afternoon in pinecrest, florida. 1000 people at least are expected to attend. and forget isis, according to hillary clinton. climate change is our biggest</field>
+</doc>
+</add>

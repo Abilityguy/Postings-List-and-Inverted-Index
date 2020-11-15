@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201012.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101227_110000_Morning_Joe#start/3008/end/3043</field>
+<field name="datetime">12/27/2010 11:50:23</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20101227_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20101227_110000_Morning_Joe/MSNBC_20101227_110000_Morning_Joe.thumbs/MSNBC_20101227_110000_Morning_Joe_003000.jpg</field>
+<field name="snippet">recent poll. and as you went to senators yesterday talking about the importance of climate change, you heard from just about everybody, don't use that word. can't use that word. it's a dirty word, yeah. how did that happen the past</field>
+</doc>
+</add>

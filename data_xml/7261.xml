@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201504.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150418_100000_FOX_and_Friends_Saturday#start/5107/end/5142</field>
+<field name="datetime">4/18/2015 11:25:22</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20150418_100000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150418_100000_FOX_and_Friends_Saturday/FOXNEWSW_20150418_100000_FOX_and_Friends_Saturday.thumbs/FOXNEWSW_20150418_100000_FOX_and_Friends_Saturday_005085.jpg</field>
+<field name="snippet">pictures reveal that's how many round trip flights from new york to los angeles actor leonardo decaprio took last year even though is he a climate change activist. that sounds like a lot of carbon emissions.</field>
+</doc>
+</add>

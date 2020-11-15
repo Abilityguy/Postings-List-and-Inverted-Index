@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091218_140000_Morning_Meeting#start/3343/end/3378</field>
+<field name="datetime">12/18/2009 14:55:58</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Meeting</field>
+<field name="showid">MSNBC_20091218_140000_Morning_Meeting</field>
+<field name="preview">https://archive.org/download/MSNBC_20091218_140000_Morning_Meeting/MSNBC_20091218_140000_Morning_Meeting.thumbs/MSNBC_20091218_140000_Morning_Meeting_003330.jpg</field>
+<field name="snippet">makes a call to the world on climate change saying the time for talk is over but did his fiery speech influence anyone? we'll have a live report from copenhagen. wild weather in florida -- homes overrun by water, cars stranded in flooded streets. even a fire truck stopped in its</field>
+</doc>
+</add>

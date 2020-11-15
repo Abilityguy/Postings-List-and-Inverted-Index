@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190409_050000_Breakfast#start/4103/end/4138</field>
+<field name="datetime">4/9/2019 6:08:38</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190409_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190409_050000_Breakfast/BBCNEWS_20190409_050000_Breakfast.thumbs/BBCNEWS_20190409_050000_Breakfast_004078.jpg</field>
+<field name="snippet">if the project is successful, researchers believe it'll give them a record of the climate going back around 1.5 million years, which could help with future predictions about climate change. here's our science correspondentjonathan amos.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201407.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140729_220000_Special_Report_With_Bret_Baier#start/1583/end/1618</field>
+<field name="datetime">7/29/2014 22:26:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20140729_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140729_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20140729_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20140729_220000_Special_Report_With_Bret_Baier_001575.jpg</field>
+<field name="snippet">including former secretary of state hillary clinton. they are meeting with the families of some of the victims behind closed doors this week. one cross comes down another stays up. and fact checking one of john kerry's predictions about global warming a few years later next</field>
+</doc>
+</add>

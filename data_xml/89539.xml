@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190611_100000_BBC_Newsroom_Live#start/3726/end/3761</field>
+<field name="datetime">6/11/2019 11:02:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190611_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190611_100000_BBC_Newsroom_Live/BBCNEWS_20190611_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190611_100000_BBC_Newsroom_Live_003718.jpg</field>
+<field name="snippet">will be whittled down to two by a series of mp votes over the next few weeks. the final pair will then face a ballot of the wider party membership. we should know the winner of the contest towards the end ofjuly. this morning, andrea leadsom launched her campaign by pledging action on climate change. mark harper called for tax cuts</field>
+</doc>
+</add>

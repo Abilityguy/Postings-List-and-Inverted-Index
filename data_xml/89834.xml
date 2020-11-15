@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201401.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140108_090000_The_Rachel_Maddow_Show#start/3517/end/3552</field>
+<field name="datetime">1/8/2014 9:58:52</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBCW_20140108_090000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140108_090000_The_Rachel_Maddow_Show/MSNBCW_20140108_090000_The_Rachel_Maddow_Show.thumbs/MSNBCW_20140108_090000_The_Rachel_Maddow_Show_003495.jpg</field>
+<field name="snippet">i'm the lieutenant governor of the state of texas. you incarcerated my sister-in-law. that's the number two guy in texas. this is the number two in wisconsin. she's amazing. hi, rebecca clayfish here. i'm out in the global warming today poisoning the world with my breath.</field>
+</doc>
+</add>

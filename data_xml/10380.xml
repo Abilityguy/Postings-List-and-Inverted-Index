@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201511.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151130_160000_Happening_Now#start/150/end/185</field>
+<field name="datetime">11/30/2015 16:02:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20151130_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151130_160000_Happening_Now/FOXNEWSW_20151130_160000_Happening_Now.thumbs/FOXNEWSW_20151130_160000_Happening_Now_000135.jpg</field>
+<field name="snippet">reporter: but, of course, critics would argue is this really a concurrent fight? you know, the one that puts the battle against terror alongside the battle against global warming? they would simply say, at least the skeptics would, that it's not really a concurrent battle</field>
+</doc>
+</add>

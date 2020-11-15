@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20171216_000000_The_Story_With_Martha_MacCallum#start/2012/end/2047</field>
+<field name="datetime">12/16/2017 0:33:47</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Story With Martha MacCallum</field>
+<field name="showid">FOXNEWSW_20171216_000000_The_Story_With_Martha_MacCallum</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20171216_000000_The_Story_With_Martha_MacCallum/FOXNEWSW_20171216_000000_The_Story_With_Martha_MacCallum.thumbs/FOXNEWSW_20171216_000000_The_Story_With_Martha_MacCallum_002007.jpg</field>
+<field name="snippet">security strategy document is coming out on monday. h.r. mcmaster gave us a bit of a preview to it. during the obama administration, it was focused a lot on cybersecurity and climate change and this document i believe is going to be focus like a laser on north korea.</field>
+</doc>
+</add>

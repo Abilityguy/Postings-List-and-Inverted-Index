@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180609_140000_BBC_News#start/222/end/257</field>
+<field name="datetime">6/9/2018 14:03:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180609_140000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180609_140000_BBC_News/BBCNEWS_20180609_140000_BBC_News.thumbs/BBCNEWS_20180609_140000_BBC_News_000207.jpg</field>
+<field name="snippet">which isolates president trump from the other six nations. there are big divides over climate change, iran</field>
+</doc>
+</add>

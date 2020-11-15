@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091212_150000_MSNBC_News_Live#start/2421/end/2456</field>
+<field name="datetime">12/12/2009 15:40:36</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091212_150000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091212_150000_MSNBC_News_Live/MSNBC_20091212_150000_MSNBC_News_Live.thumbs/MSNBC_20091212_150000_MSNBC_News_Live_002400.jpg</field>
+<field name="snippet">of greenhouse gas emissions over the next decade and the overall goal for all nations to aim for elimination of those emissions by 2050. that sounds ambitious and perhaps unrealistic but that is the plan for next week. okay. we'll see what happens with that plan. mike taibbi, thank you.</field>
+</doc>
+</add>

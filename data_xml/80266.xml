@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190512_100000_Fox_and_Friends_Sunday#start/7655/end/7690</field>
+<field name="datetime">5/12/2019 12:07:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20190512_100000_Fox_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190512_100000_Fox_and_Friends_Sunday/FOXNEWSW_20190512_100000_Fox_and_Friends_Sunday.thumbs/FOXNEWSW_20190512_100000_Fox_and_Friends_Sunday_007648.jpg</field>
+<field name="snippet">biden has a moderate record that might not appeal to where moderate voters are. griff: we had a poll yesterday 82% of likely democrat voters put the top issue of climate change out there in the new -- the green new deal is certainly</field>
+</doc>
+</add>

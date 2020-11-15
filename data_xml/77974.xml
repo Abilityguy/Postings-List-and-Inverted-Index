@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191107_053000_Business_Briefing#start/97/end/132</field>
+<field name="datetime">11/7/2019 5:31:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Business Briefing</field>
+<field name="showid">BBCNEWS_20191107_053000_Business_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191107_053000_Business_Briefing/BBCNEWS_20191107_053000_Business_Briefing.thumbs/BBCNEWS_20191107_053000_Business_Briefing_000088.jpg</field>
+<field name="snippet">the world's population will be approaching 10 billion - sending demand for food soaring. researchers say changing our diet is the biggest single thing we can do to combat climate change. switching to a plant-based diet would cut land use by over three</field>
+</doc>
+</add>

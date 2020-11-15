@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200907.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20090727_180000_MSNBC_News_Live#start/661/end/696</field>
+<field name="datetime">7/27/2009 18:11:16</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20090727_180000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20090727_180000_MSNBC_News_Live/MSNBC_20090727_180000_MSNBC_News_Live.thumbs/MSNBC_20090727_180000_MSNBC_News_Live_000656.jpg</field>
+<field name="snippet">tonight, 9:00 eastern. president obama says the u.s.-china relationship will mold the 21st century. two days after talks are underway on issues like the economy and climate change and nuclear weapons.</field>
+</doc>
+</add>

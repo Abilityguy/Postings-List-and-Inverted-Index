@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190221_130000_BBC_News_at_One#start/649/end/684</field>
+<field name="datetime">2/21/2019 13:11:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190221_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190221_130000_BBC_News_at_One/BBCNEWS_20190221_130000_BBC_News_at_One.thumbs/BBCNEWS_20190221_130000_BBC_News_at_One_000629.jpg</field>
+<field name="snippet">it's cars, planes and industry that normally get the blame for greenhouse gases, but 14% of uk emissions come from our homes, mostly from gas boilers. houses must be much better insulated so they need less heating, the report says.</field>
+</doc>
+</add>

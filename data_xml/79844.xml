@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191123_230000_FOX_Report_With_Jon_Scott#start/2791/end/2826</field>
+<field name="datetime">11/23/2019 23:46:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report With Jon Scott</field>
+<field name="showid">FOXNEWSW_20191123_230000_FOX_Report_With_Jon_Scott</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191123_230000_FOX_Report_With_Jon_Scott/FOXNEWSW_20191123_230000_FOX_Report_With_Jon_Scott.thumbs/FOXNEWSW_20191123_230000_FOX_Report_With_Jon_Scott_002790.jpg</field>
+<field name="snippet">that could one day power planes, propel ships, and fuel trucks. and cut their greenhouse gas emissions in half. algae.</field>
+</doc>
+</add>

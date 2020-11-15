@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_060000_Breakfast#start/4460/end/4495</field>
+<field name="datetime">1/17/2020 7:14:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20200117_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_060000_Breakfast/BBCNEWS_20200117_060000_Breakfast.thumbs/BBCNEWS_20200117_060000_Breakfast_004438.jpg</field>
+<field name="snippet">summit on climate change that is due to ta ke to take place here in november is billed as what could be the largest gathering of world leaders ever on british soil. it will be a key moment when the world faces decisions about how to respond to climate change and it will serve as</field>
+</doc>
+</add>

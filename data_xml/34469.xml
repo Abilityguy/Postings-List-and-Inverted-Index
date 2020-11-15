@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201403.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140310_220000_Special_Report_With_Bret_Baier#start/986/end/1021</field>
+<field name="datetime">3/10/2014 22:16:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20140310_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140310_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20140310_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20140310_220000_Special_Report_With_Bret_Baier_000975.jpg</field>
+<field name="snippet">of various vegas hotels will decide whether or not to go on strike. ed, thank you. senate democrats, meantime, are going to burn the midnight oil tonight in an effort to highlight climate change. this symbolic talk athon aimed at pleasing progressives eager</field>
+</doc>
+</add>

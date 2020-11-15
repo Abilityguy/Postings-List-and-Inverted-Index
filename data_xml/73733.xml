@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201002.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100213_130000_MSNBC_News_Live#start/2170/end/2205</field>
+<field name="datetime">2/13/2010 13:36:25</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100213_130000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100213_130000_MSNBC_News_Live/MSNBC_20100213_130000_MSNBC_News_Live.thumbs/MSNBC_20100213_130000_MSNBC_News_Live_002156.jpg</field>
+<field name="snippet">i'm sitting outside of the thing bruised, i'm in so much pain and there's nobody there to help me. the lawyer for the teen says it's likely a lawsuit will be filed. all this winter weather has brought a renewed skepticism from the biggest global warming</field>
+</doc>
+</add>

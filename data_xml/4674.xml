@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170602_123000_BBC_News#start/539/end/574</field>
+<field name="datetime">6/2/2017 12:39:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170602_123000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170602_123000_BBC_News/BBCNEWS_20170602_123000_BBC_News.thumbs/BBCNEWS_20170602_123000_BBC_News_000537.jpg</field>
+<field name="snippet">we remain committed to the paris agreement. it is an important international agreement on climate change. i made my position clear to</field>
+</doc>
+</add>

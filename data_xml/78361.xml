@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191112_010000_Newsday#start/1183/end/1218</field>
+<field name="datetime">11/12/2019 1:19:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191112_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191112_010000_Newsday/BBCNEWS_20191112_010000_Newsday.thumbs/BBCNEWS_20191112_010000_Newsday_001167.jpg</field>
+<field name="snippet">you very much for your time. next month, the world will gather in madrid for an annual assessment, of how climate change is affecting the globe. 25 thousand people will be at the conference - to look at the latest data and what action can be taken. here on bbc world news we're looking</field>
+</doc>
+</add>

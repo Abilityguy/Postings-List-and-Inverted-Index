@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190713_040000_Tucker_Carlson_Tonight#start/529/end/564</field>
+<field name="datetime">7/13/2019 4:09:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190713_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190713_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190713_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190713_040000_Tucker_Carlson_Tonight_000510.jpg</field>
+<field name="snippet">tucker: i appreciate you making the case tonight.y aoc's team say they saw global warming is a pretext for taking over the economy, that doesn't mean their plan is based on evidence of an actual problem.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100427_060000_Glenn_Beck#start/556/end/591</field>
+<field name="datetime">4/27/2010 6:09:31</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20100427_060000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100427_060000_Glenn_Beck/FOXNEWS_20100427_060000_Glenn_Beck.thumbs/FOXNEWS_20100427_060000_Glenn_Beck_000540.jpg</field>
+<field name="snippet">the climate exchange is, ccx, chicago climate exchange. you didn't know it existed, it does. it started trading in 2003. it's billed as north america's only cap-and-trade system for all six greenhouse</field>
+</doc>
+</add>

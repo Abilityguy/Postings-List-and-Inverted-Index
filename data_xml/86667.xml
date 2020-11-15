@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191215_003000_Black_Sea_Blues#start/1842/end/1877</field>
+<field name="datetime">12/15/2019 1:00:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Black Sea Blues</field>
+<field name="showid">BBCNEWS_20191215_003000_Black_Sea_Blues</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191215_003000_Black_Sea_Blues/BBCNEWS_20191215_003000_Black_Sea_Blues.thumbs/BBCNEWS_20191215_003000_Black_Sea_Blues_001827.jpg</field>
+<field name="snippet">hello and welcome to bbc news. as negotiations continue through the night at the un climate talks, the minister leading them has appealed for flexibility as delegates struggle to reach agreement on crucial measures needed to tackle global warming.</field>
+</doc>
+</add>

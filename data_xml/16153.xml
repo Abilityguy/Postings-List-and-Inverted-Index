@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201304.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130410_150000_Happening_Now#start/168/end/203</field>
+<field name="datetime">4/10/2013 15:03:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20130410_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130410_150000_Happening_Now/FOXNEWSW_20130410_150000_Happening_Now.thumbs/FOXNEWSW_20130410_150000_Happening_Now_000165.jpg</field>
+<field name="snippet">the initiative i announced to map the human brain and cure disease. we'll continue our march towards energy independence and address the threat of climate change and our rebuild america partnership will attract private investment to put</field>
+</doc>
+</add>

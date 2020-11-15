@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_010000_Newsday#start/1823/end/1858</field>
+<field name="datetime">1/17/2020 1:30:38</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20200117_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_010000_Newsday/BBCNEWS_20200117_010000_Newsday.thumbs/BBCNEWS_20200117_010000_Newsday_001798.jpg</field>
+<field name="snippet">for politicians to suggest the australian fires are nothing to do with global warming. and this story is trending on bbc.com. a billionaire art collector has been jailed for 18 months for trying to smuggle a picasso out of spain.</field>
+</doc>
+</add>

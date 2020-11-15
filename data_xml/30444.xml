@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.202001.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20200121_100000_First_Look#start/1085/end/1120</field>
+<field name="datetime">1/21/2020 10:18:20</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20200121_100000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20200121_100000_First_Look/MSNBCW_20200121_100000_First_Look.thumbs/MSNBCW_20200121_100000_First_Look_001078.jpg</field>
+<field name="snippet">this year, particularly more so than other years is the issue of climate change and that is the focus of this event. a lot of the executives here are going to be announcing actions they're going to take on climate change. great that thunberg, the teenage environmental activist is here. i think that will be an area</field>
+</doc>
+</add>

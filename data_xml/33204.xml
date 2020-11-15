@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091210_090000_Special_Report_With_Bret_Baier#start/1078/end/1113</field>
+<field name="datetime">12/10/2009 9:18:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091210_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091210_090000_Special_Report_With_Bret_Baier/FOXNEWS_20091210_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091210_090000_Special_Report_With_Bret_Baier_001075.jpg</field>
+<field name="snippet">that's just life in the real world. china, now the largest greenhouse gas emitter, is technically considered a developing nation. its representatives are looking for concessions here in copenhagen, but u.s. officials say that won't mean american aid. i don't envision public</field>
+</doc>
+</add>

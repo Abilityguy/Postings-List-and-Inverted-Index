@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200102_210000_Outside_Source#start/525/end/560</field>
+<field name="datetime">1/2/2020 21:09:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20200102_210000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200102_210000_Outside_Source/BBCNEWS_20200102_210000_Outside_Source.thumbs/BBCNEWS_20200102_210000_Outside_Source_000508.jpg</field>
+<field name="snippet">with their a-wheel drives and their caravans until such time as they may be able to get out by road. that could be a number of weeks. that could be two to three weeks at this stage. now, meterologists will always tell you it's impossible to link a specific extreme weather event with climate change. they're not so reticent on what's</field>
+</doc>
+</add>

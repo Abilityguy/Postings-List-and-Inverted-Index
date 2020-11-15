@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181026_000000_Tucker_Carlson_Tonight#start/615/end/650</field>
+<field name="datetime">10/26/2018 0:10:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20181026_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181026_000000_Tucker_Carlson_Tonight/FOXNEWSW_20181026_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20181026_000000_Tucker_Carlson_Tonight_000598.jpg</field>
+<field name="snippet">you can't say as a left increasingly does on any number of issues that on immigration, there is one side. there is a virtuous moral side, and on the other is the evil side. that's true for gay marriage, for climate change, that's true</field>
+</doc>
+</add>

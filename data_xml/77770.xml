@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191126_060000_Breakfast#start/664/end/699</field>
+<field name="datetime">11/26/2019 6:11:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191126_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191126_060000_Breakfast/BBCNEWS_20191126_060000_Breakfast.thumbs/BBCNEWS_20191126_060000_Breakfast_003628.jpg</field>
+<field name="snippet">campaign, people like me who cover the environment, science, tend to be pretty quiet, we are on the sidelines stop maybe the odd politician has made climate change something of an issue but generally</field>
+</doc>
+</add>

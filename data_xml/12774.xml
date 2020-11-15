@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170724_160000_BBC_News_at_Five#start/1089/end/1124</field>
+<field name="datetime">7/24/2017 16:18:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20170724_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170724_160000_BBC_News_at_Five/BBCNEWS_20170724_160000_BBC_News_at_Five.thumbs/BBCNEWS_20170724_160000_BBC_News_at_Five_001077.jpg</field>
+<field name="snippet">here's our environment analyst, roger harrabin. the future of motoring looks electric as governments strive to combat pollution and climate change. batteries are still big, heavy and expensive. it needs a solution. in birmingham, the business secretary put batteries at the heart of his industrial strategy.</field>
+</doc>
+</add>

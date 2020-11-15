@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201004.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100402_160000_MSNBC_News_Live#start/1597/end/1632</field>
+<field name="datetime">4/2/2010 16:26:52</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100402_160000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100402_160000_MSNBC_News_Live/MSNBC_20100402_160000_MSNBC_News_Live.thumbs/MSNBC_20100402_160000_MSNBC_News_Live_001586.jpg</field>
+<field name="snippet">doesn't produce greenhouse gases. it's not perfect because it has the problem with spent fuel and how that is properly stored. but generally speaking, that's going to have to be part of our energy mix. the decision around drilling,</field>
+</doc>
+</add>

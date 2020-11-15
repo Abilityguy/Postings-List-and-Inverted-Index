@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170105_213000_Outside_Source#start/20/end/55</field>
+<field name="datetime">1/5/2017 21:30:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20170105_213000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170105_213000_Outside_Source/BBCNEWS_20170105_213000_Outside_Source.thumbs/BBCNEWS_20170105_213000_Outside_Source_000058.jpg</field>
+<field name="snippet">it also entails classical propaganda, disinformation, fake news. news. in recent years, many scientists have been saying that there has been a slowdown in global</field>
+</doc>
+</add>

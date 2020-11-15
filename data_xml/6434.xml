@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190924_000000_Newsday#start/145/end/180</field>
+<field name="datetime">9/24/2019 0:02:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190924_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190924_000000_Newsday/BBCNEWS_20190924_000000_Newsday.thumbs/BBCNEWS_20190924_000000_Newsday_000118.jpg</field>
+<field name="snippet">this global body, once more, sounding the alarm. the world is losing the race against climate change. applause. in this air-conditioned auditorium, the heat came from the 16-year-old swedish activist greta thunberg. the un hoping to harness what's</field>
+</doc>
+</add>

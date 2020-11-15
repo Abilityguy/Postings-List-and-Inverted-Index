@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191129_010000_Newsday#start/1450/end/1485</field>
+<field name="datetime">11/29/2019 1:24:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191129_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191129_010000_Newsday/BBCNEWS_20191129_010000_Newsday.thumbs/BBCNEWS_20191129_010000_Newsday_001438.jpg</field>
+<field name="snippet">live from sydney. you can see a lot of young people there. it's called the bushfire response, responding to the bushfire response, responding to the bushfires that have devastated parts of new south wales and queensland. they believe climate</field>
+</doc>
+</add>

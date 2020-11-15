@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201011.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101120_130000_MSNBC_News_Live#start/3004/end/3039</field>
+<field name="datetime">11/20/2010 13:50:19</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20101120_130000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20101120_130000_MSNBC_News_Live/MSNBC_20101120_130000_MSNBC_News_Live.thumbs/MSNBC_20101120_130000_MSNBC_News_Live_003000.jpg</field>
+<field name="snippet">have it right? it's basically science. either you believe in the fundamental principals of science or you don't. the same methods that are used to describe gravity are employed to describe climate change. what about former vice</field>
+</doc>
+</add>

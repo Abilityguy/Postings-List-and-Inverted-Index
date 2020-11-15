@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181202_160000_BBC_News#start/794/end/829</field>
+<field name="datetime">12/2/2018 16:13:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181202_160000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181202_160000_BBC_News/BBCNEWS_20181202_160000_BBC_News.thumbs/BBCNEWS_20181202_160000_BBC_News_000777.jpg</field>
+<field name="snippet">a crucial climate change conference, aimed at averting catastrophic levels of global warming, has opened in the polish city of katowice with the un climate chief warning</field>
+</doc>
+</add>

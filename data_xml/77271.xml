@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191129_110000_BBC_Newsroom_Live#start/631/end/666</field>
+<field name="datetime">11/29/2019 11:10:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20191129_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191129_110000_BBC_Newsroom_Live/BBCNEWS_20191129_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20191129_110000_BBC_Newsroom_Live_000628.jpg</field>
+<field name="snippet">of e.0n, thank you for talking to me. the conservatives have complained to the broadcasting regulator about channel four, accusing it of bias and of a political stunt. the broadcaster replaced borisjohnson with an ice sculpture when he declined to take part in a debate about climate change last night.</field>
+</doc>
+</add>

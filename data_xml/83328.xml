@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191017_190000_BBC_News#start/3168/end/3203</field>
+<field name="datetime">10/17/2019 19:53:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191017_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191017_190000_BBC_News/BBCNEWS_20191017_190000_BBC_News.thumbs/BBCNEWS_20191017_190000_BBC_News_003147.jpg</field>
+<field name="snippet">commuters in london have clashed with extinction rebellion protesters who were trying to disrupt trains during the morning rush hour. one climate change activist was dragged from the roof of a train at canning town station. a representative for extinction rebellion - which does not have a formal leadership structure -  _</field>
+</doc>
+</add>

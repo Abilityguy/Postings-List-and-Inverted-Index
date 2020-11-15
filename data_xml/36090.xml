@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201912.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191207_010000_All_In_With_Chris_Hayes#start/1866/end/1901</field>
+<field name="datetime">12/7/2019 1:31:21</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20191207_010000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191207_010000_All_In_With_Chris_Hayes/MSNBCW_20191207_010000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20191207_010000_All_In_With_Chris_Hayes_001858.jpg</field>
+<field name="snippet">we're trying to figure out what animals are being affected. galápagos is a really challenging place to work. el niño is starting to go haywire. everywhere is going to get touched by climate change.</field>
+</doc>
+</add>

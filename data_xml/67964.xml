@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190215_210000_World_News_Today#start/28/end/63</field>
+<field name="datetime">2/15/2019 21:00:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190215_210000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190215_210000_World_News_Today/BBCNEWS_20190215_210000_World_News_Today.thumbs/BBCNEWS_20190215_210000_World_News_Today_000027.jpg</field>
+<field name="snippet">killed more than forty troops. cutting school to cut climate change - thousands of children in the uk go on strike to join worldwide protests over the environment. hello and welcome</field>
+</doc>
+</add>

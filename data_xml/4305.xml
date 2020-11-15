@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201302.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130209_110000_FOX_and_Friends_Saturday#start/5270/end/5305</field>
+<field name="datetime">2/9/2013 12:28:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20130209_110000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130209_110000_FOX_and_Friends_Saturday/FOXNEWSW_20130209_110000_FOX_and_Friends_Saturday.thumbs/FOXNEWSW_20130209_110000_FOX_and_Friends_Saturday_005265.jpg</field>
+<field name="snippet">we can't talk about that because it doesn't fit with the political point. some use it to insinuate global warming isn't happening. neither is honest. often -- i'm standing here                 _</field>
+</doc>
+</add>

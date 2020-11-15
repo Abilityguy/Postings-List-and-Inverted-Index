@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201309.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130904_130000_Americas_Newsroom#start/1196/end/1231</field>
+<field name="datetime">9/4/2013 13:20:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWSW_20130904_130000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130904_130000_Americas_Newsroom/FOXNEWSW_20130904_130000_Americas_Newsroom.thumbs/FOXNEWSW_20130904_130000_Americas_Newsroom_001185.jpg</field>
+<field name="snippet">prime minister phelps move closer to resolving the climate crisis. i would refer you to the speech i gave when i received the nobel prize. and i think i started the speech</field>
+</doc>
+</add>

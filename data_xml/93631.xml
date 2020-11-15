@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190716_080000_BBC_News_at_Nine#start/1108/end/1143</field>
+<field name="datetime">7/16/2019 8:18:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190716_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190716_080000_BBC_News_at_Nine/BBCNEWS_20190716_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190716_080000_BBC_News_at_Nine_001108.jpg</field>
+<field name="snippet">on brexit, where she said she is open to extending the uk's time in the eu, granting more time for negotiations. what she was saying earlier in her speech was on climate change she wants to legislate for</field>
+</doc>
+</add>

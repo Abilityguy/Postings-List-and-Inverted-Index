@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191105_133000_BBC_News#start/1161/end/1196</field>
+<field name="datetime">11/5/2019 13:49:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191105_133000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191105_133000_BBC_News/BBCNEWS_20191105_133000_BBC_News.thumbs/BBCNEWS_20191105_133000_BBC_News_001137.jpg</field>
+<field name="snippet">a substance called psa in the blood, could help them find tumours earlier when it's easier to treat them. the united states has formally notified the united nations that it intends to withdraw from the paris climate change agreement,</field>
+</doc>
+</add>

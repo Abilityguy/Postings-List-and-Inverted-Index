@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201101.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110125_110000_FOX_and_Friends#start/555/end/590</field>
+<field name="datetime">1/25/2011 11:09:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20110125_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110125_110000_FOX_and_Friends/FOXNEWS_20110125_110000_FOX_and_Friends.thumbs/FOXNEWS_20110125_110000_FOX_and_Friends_000540.jpg</field>
+<field name="snippet">carol browner, she was technically the assistant to the president for energy and climate change. she has now announced that she is going to leave and that is without passing a comprehensive energy bill which was her number one goal but you remember seeing her as the face of the</field>
+</doc>
+</add>

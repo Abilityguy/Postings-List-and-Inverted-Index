@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191223_000000_Newsday#start/1809/end/1844</field>
+<field name="datetime">12/23/2019 0:30:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191223_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191223_000000_Newsday/BBCNEWS_20191223_000000_Newsday.thumbs/BBCNEWS_20191223_000000_Newsday_001798.jpg</field>
+<field name="snippet">acknowledged a link between global warming and extreme weather. he's apologised for being on holiday during the crisis. india's prime minister has accused his political opponents of spreading lies about the new citizenship law which has led to deadly protests across the country. at least 20 people have been killed.</field>
+</doc>
+</add>

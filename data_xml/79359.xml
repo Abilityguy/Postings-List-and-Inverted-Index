@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201402.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140217_100000_First_Look#start/106/end/141</field>
+<field name="datetime">2/17/2014 10:02:01</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20140217_100000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140217_100000_First_Look/MSNBCW_20140217_100000_First_Look.thumbs/MSNBCW_20140217_100000_First_Look_000105.jpg</field>
+<field name="snippet">richard. we're not seeing the weather extremes in the u.s. but also around the world. not everybody is willing to attribute that to climate change. reporter: most of the snow packed east is looking forward</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201511.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151130_230000_MSNBC_Live#start/1307/end/1342</field>
+<field name="datetime">11/30/2015 23:22:02</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20151130_230000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151130_230000_MSNBC_Live/MSNBCW_20151130_230000_MSNBC_Live.thumbs/MSNBCW_20151130_230000_MSNBC_Live_001305.jpg</field>
+<field name="snippet">situation at home. it's unfortunate. there are far too many climate change deniers led by mitch mcconnell. we believe the president will continue his amazing leadership.</field>
+</doc>
+</add>

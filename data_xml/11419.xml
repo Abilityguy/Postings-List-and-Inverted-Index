@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_180000_Beyond_100_Days#start/509/end/544</field>
+<field name="datetime">8/8/2019 18:08:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20190808_180000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_180000_Beyond_100_Days/BBCNEWS_20190808_180000_Beyond_100_Days.thumbs/BBCNEWS_20190808_180000_Beyond_100_Days_000508.jpg</field>
+<field name="snippet">sweeping changes and governments need to invest in the future. the aviation industry is one of the largest contributors to climate change, currently accounting for 2% global co2 emissions.</field>
+</doc>
+</add>

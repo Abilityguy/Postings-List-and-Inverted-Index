@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201409.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140901_020000_Stossel#start/483/end/518</field>
+<field name="datetime">9/1/2014 2:08:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Stossel</field>
+<field name="showid">FOXNEWSW_20140901_020000_Stossel</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140901_020000_Stossel/FOXNEWSW_20140901_020000_Stossel.thumbs/FOXNEWSW_20140901_020000_Stossel_000465.jpg</field>
+<field name="snippet">i have a question for you. you have every chance to address this here. he says, many people say that the stuff we are doing now to try to address climate change is going to make no difference. it costs a fortune.</field>
+</doc>
+</add>

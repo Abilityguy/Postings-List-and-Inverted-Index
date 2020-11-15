@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201104.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110419_170000_America_Live#start/6065/end/6100</field>
+<field name="datetime">4/19/2011 18:41:20</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWS_20110419_170000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110419_170000_America_Live/FOXNEWS_20110419_170000_America_Live.thumbs/FOXNEWS_20110419_170000_America_Live_006050.jpg</field>
+<field name="snippet">many of the justices did seem receptive to that idea asking why they should reroute congressional authority to a judge in a courtroom who doesn't necessarily have a scientific background or experience to do something like regulate greenhouse gases.</field>
+</doc>
+</add>

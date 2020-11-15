@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201411.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20141101_160000_Weekends_With_Alex_Witt#start/2173/end/2208</field>
+<field name="datetime">11/1/2014 16:36:28</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20141101_160000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20141101_160000_Weekends_With_Alex_Witt/MSNBCW_20141101_160000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20141101_160000_Weekends_With_Alex_Witt_002145.jpg</field>
+<field name="snippet">i'm not a scientist. we're going to make sure we take care of our environment. i don't know the science behind climate change. i can't say one way or another what is the direct impact. i'm not qualified, i don't know. why are they doing this?</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181130_020000_BBC_News#start/499/end/534</field>
+<field name="datetime">11/30/2018 2:08:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181130_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181130_020000_BBC_News/BBCNEWS_20181130_020000_BBC_News.thumbs/BBCNEWS_20181130_020000_BBC_News_000478.jpg</field>
+<field name="snippet">20 of the warmest years on record have come in the past 22 years and the research by the world meteorological organization says four of the hottest have all been in the past four years. experts calculate that reducing emissions of greenhouse gases will not be enough, because removing the gases will become ever more important. 0ur science editor david</field>
+</doc>
+</add>

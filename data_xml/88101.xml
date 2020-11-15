@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191227_090000_BBC_News#start/1163/end/1198</field>
+<field name="datetime">12/27/2019 9:19:38</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191227_090000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191227_090000_BBC_News/BBCNEWS_20191227_090000_BBC_News.thumbs/BBCNEWS_20191227_090000_BBC_News_001137.jpg</field>
+<field name="snippet">side on the east coast, they have done well. high mortality rate, but they are doing good numbers. there are some losers, not all species are thriving with this unpredictable weather? you think of climate change and these extremities we are getting, we have had some wet days</field>
+</doc>
+</add>

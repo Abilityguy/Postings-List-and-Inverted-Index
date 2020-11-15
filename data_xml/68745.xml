@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201001.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100128_000000_Hardball_With_Chris_Matthews#start/892/end/927</field>
+<field name="datetime">1/28/2010 0:15:07</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball With Chris Matthews</field>
+<field name="showid">MSNBC_20100128_000000_Hardball_With_Chris_Matthews</field>
+<field name="preview">https://archive.org/download/MSNBC_20100128_000000_Hardball_With_Chris_Matthews/MSNBC_20100128_000000_Hardball_With_Chris_Matthews.thumbs/MSNBC_20100128_000000_Hardball_With_Chris_Matthews_000870.jpg</field>
+<field name="snippet">'hardball' on msnbc. a fifty-ton train makes barely a mark on the environment. and a country facing climate change finds climate solutions. somewhere in america, we've already answered some of the nation's toughest questions.</field>
+</doc>
+</add>

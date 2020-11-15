@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201108.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20110830_190000_Martin_Bashir#start/1115/end/1150</field>
+<field name="datetime">8/30/2011 19:18:50</field>
+<field name="station">MSNBC</field>
+<field name="show">Martin Bashir</field>
+<field name="showid">MSNBCW_20110830_190000_Martin_Bashir</field>
+<field name="preview">https://archive.org/download/MSNBCW_20110830_190000_Martin_Bashir/MSNBCW_20110830_190000_Martin_Bashir.thumbs/MSNBCW_20110830_190000_Martin_Bashir_001110.jpg</field>
+<field name="snippet">extreme weather events are going to be more frequent. and certainly this year is one of the worst on record. that is absolutely right, and if we continue in the direction we are continuing in right now with the climate change, this is the new normal and we will need more and not less disaster</field>
+</doc>
+</add>

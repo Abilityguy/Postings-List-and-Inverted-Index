@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181016_020000_BBC_News#start/1324/end/1359</field>
+<field name="datetime">10/16/2018 2:22:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181016_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181016_020000_BBC_News/BBCNEWS_20181016_020000_BBC_News.thumbs/BBCNEWS_20181016_020000_BBC_News_001318.jpg</field>
+<field name="snippet">the subsidies for electric cars and allowing fracking to start for shale gas. tackling climate change is never going to be easy. david shukman, bbc news. you may have heard the duke and duchess of sussex, harry and meghan, are expecting a baby</field>
+</doc>
+</add>

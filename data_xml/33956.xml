@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091211_110000_FOX_and_Friends#start/9296/end/9331</field>
+<field name="datetime">12/11/2009 13:35:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091211_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091211_110000_FOX_and_Friends/FOXNEWS_20091211_110000_FOX_and_Friends.thumbs/FOXNEWS_20091211_110000_FOX_and_Friends_009283.jpg</field>
+<field name="snippet">and trade. we will also be speaking to one of the authors of the climate change legislation. if i was to go for the cheap segment, like brian wood, i would say that it is going to</field>
+</doc>
+</add>

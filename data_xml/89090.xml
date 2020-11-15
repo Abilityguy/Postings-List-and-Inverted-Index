@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190611_050000_Breakfast#start/8140/end/8175</field>
+<field name="datetime">6/11/2019 7:15:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190611_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190611_050000_Breakfast/BBCNEWS_20190611_050000_Breakfast.thumbs/BBCNEWS_20190611_050000_Breakfast_008127.jpg</field>
+<field name="snippet">transporting the diesel is expensive and it is fuelling climate change. the local government want clean and renewable energy instead. but wind power and solar power ebb and flow. so they need a way of storing energy for use at night time.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200114_030000_BBC_News#start/255/end/290</field>
+<field name="datetime">1/14/2020 3:04:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200114_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200114_030000_BBC_News/BBCNEWS_20200114_030000_BBC_News.thumbs/BBCNEWS_20200114_030000_BBC_News_000237.jpg</field>
+<field name="snippet">that she wants final decisions about the sussexes to be reached in the coming days. nicholas witchell, bbc news, sandringham. british scientists have issued a grim warning about what the australia fires may be telling us about global warming.</field>
+</doc>
+</add>

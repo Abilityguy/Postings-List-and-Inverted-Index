@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170426_130000_BBC_News#start/3114/end/3149</field>
+<field name="datetime">4/26/2017 13:52:09</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170426_130000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170426_130000_BBC_News/BBCNEWS_20170426_130000_BBC_News.thumbs/BBCNEWS_20170426_130000_BBC_News_003087.jpg</field>
+<field name="snippet">under climate change, the temperature will be getting warmer both in summer and winter. most interestingly, it has found a greater variability in the climate, so there will be more downpours both in the summer and winter, and in the summer there</field>
+</doc>
+</add>

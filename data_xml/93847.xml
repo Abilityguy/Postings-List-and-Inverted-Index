@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190712_030000_BBC_News#start/1088/end/1123</field>
+<field name="datetime">7/12/2019 3:18:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190712_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190712_030000_BBC_News/BBCNEWS_20190712_030000_BBC_News.thumbs/BBCNEWS_20190712_030000_BBC_News_001078.jpg</field>
+<field name="snippet">one of india's largest cities is running out of water. millions of people in chennai are struggling as taps run dry. monsoon rains, which the city depends on, are late this year. environmentalists partly blame climate change, and warn this is a problem which could affect all countries.</field>
+</doc>
+</add>

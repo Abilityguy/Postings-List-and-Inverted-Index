@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190415_220000_BBC_News#start/1385/end/1420</field>
+<field name="datetime">4/15/2019 22:23:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190415_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190415_220000_BBC_News/BBCNEWS_20190415_220000_BBC_News.thumbs/BBCNEWS_20190415_220000_BBC_News_001378.jpg</field>
+<field name="snippet">in west london, in 2017. demonstrators have blocked major road junctions in central london and disrupted traffic in a protest over climate change. the campaign group, extinction rebellion parked a boat across oxford circus, and blocked marble arch</field>
+</doc>
+</add>

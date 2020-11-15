@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201201.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120111_090000_Greta_Van_Susteren#start/877/end/912</field>
+<field name="datetime">1/11/2012 9:14:52</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Greta Van Susteren</field>
+<field name="showid">FOXNEWSW_20120111_090000_Greta_Van_Susteren</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120111_090000_Greta_Van_Susteren/FOXNEWSW_20120111_090000_Greta_Van_Susteren.thumbs/FOXNEWSW_20120111_090000_Greta_Van_Susteren_000867.jpg</field>
+<field name="snippet">carolina, so. okay. you know, this campaign covers a lot of ground and it's about those flip-flops that mitt's made on whether it's guns or on abortion, whether it's on traditional marriage, whether it's on global warming. he's going to have to come to</field>
+</doc>
+</add>

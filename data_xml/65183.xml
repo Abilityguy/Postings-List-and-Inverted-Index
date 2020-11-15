@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190301_200000_Shepard_Smith_Reporting#start/991/end/1026</field>
+<field name="datetime">3/1/2019 20:16:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20190301_200000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190301_200000_Shepard_Smith_Reporting/FOXNEWSW_20190301_200000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20190301_200000_Shepard_Smith_Reporting_000988.jpg</field>
+<field name="snippet">the most well-known names on the list. the governor doing a lot of talking about climate change on the campaign trail. let's get to dan springer in seattle. hi, trace. at least initially, governor jay</field>
+</doc>
+</add>

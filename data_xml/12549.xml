@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170726_160000_BBC_News_at_Five#start/16/end/51</field>
+<field name="datetime">7/26/2017 16:00:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20170726_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170726_160000_BBC_News_at_Five/BBCNEWS_20170726_160000_BBC_News_at_Five.thumbs/BBCNEWS_20170726_160000_BBC_News_at_Five_000057.jpg</field>
+<field name="snippet">and meet our climate change targets. councils could get powers to charge those driving the dirtiest-vehicles. green campaigners warn the plans don't go far enough. while we welcome the move to cleaner vehicles,</field>
+</doc>
+</add>

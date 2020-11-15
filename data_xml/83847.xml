@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190417_120000_BBC_News_at_One#start/790/end/825</field>
+<field name="datetime">4/17/2019 12:13:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190417_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190417_120000_BBC_News_at_One/BBCNEWS_20190417_120000_BBC_News_at_One.thumbs/BBCNEWS_20190417_120000_BBC_News_at_One_000777.jpg</field>
+<field name="snippet">economists had expected a slight increase. lower food prices offset higher prices for clothes and petrol. climate change activists have caused gridlock across london for a third day, in protests designed</field>
+</doc>
+</add>

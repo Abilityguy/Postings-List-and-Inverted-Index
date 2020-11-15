@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180807_130000_Afternoon_Live#start/8327/end/8362</field>
+<field name="datetime">8/7/2018 15:19:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20180807_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180807_130000_Afternoon_Live/BBCNEWS_20180807_130000_Afternoon_Live.thumbs/BBCNEWS_20180807_130000_Afternoon_Live_008307.jpg</field>
+<field name="snippet">seeing the melting of ice in the arctic, and the greenhouse gas methane being released from frozen ground in the arctic. and what we do in the paper is point out the implications of those processes accelerating on top of the human</field>
+</doc>
+</add>

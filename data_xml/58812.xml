@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181122_040000_BBC_News#start/1075/end/1110</field>
+<field name="datetime">11/22/2018 4:18:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181122_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181122_040000_BBC_News/BBCNEWS_20181122_040000_BBC_News.thumbs/BBCNEWS_20181122_040000_BBC_News_001077.jpg</field>
+<field name="snippet">by climate change, so that it will sit there to remind politicians that this is not a theoretical enterprise. this is our opportunity to collectively make a difference - to have our voices heard.</field>
+</doc>
+</add>

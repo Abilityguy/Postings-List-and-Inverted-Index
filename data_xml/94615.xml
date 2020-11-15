@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201004.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100428_160000_MSNBC_News_Live#start/740/end/775</field>
+<field name="datetime">4/28/2010 16:12:35</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100428_160000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100428_160000_MSNBC_News_Live/MSNBC_20100428_160000_MSNBC_News_Live.thumbs/MSNBC_20100428_160000_MSNBC_News_Live_000720.jpg</field>
+<field name="snippet">joining me now, conservative talk show host on the radio in philadelphia. here's the thing i don't get about lindsay graham. so he supports some of this energy, climate change movement. he's walked out of those talks</field>
+</doc>
+</add>

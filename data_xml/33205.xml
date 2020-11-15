@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091208_090000_Special_Report_With_Bret_Baier#start/2363/end/2398</field>
+<field name="datetime">12/8/2009 9:39:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091208_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091208_090000_Special_Report_With_Bret_Baier/FOXNEWS_20091208_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091208_090000_Special_Report_With_Bret_Baier_002190.jpg</field>
+<field name="snippet">the long overdue findings cements 2009's place in history as the year when the united states government began seriously addressing the challenge of greenhouse gas solutions and seizing the opportunity of cleaner energy reform. this bureaucratic nightmare is based on flawed silence.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201504.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150429_210000_The_Ed_Show#start/3205/end/3240</field>
+<field name="datetime">4/29/2015 21:53:40</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20150429_210000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150429_210000_The_Ed_Show/MSNBCW_20150429_210000_The_Ed_Show.thumbs/MSNBCW_20150429_210000_The_Ed_Show_003195.jpg</field>
+<field name="snippet">announce his candidacy for the democratic presidential nomination on thursday. 'ed show' viewers of course know him as a champion of progressive issues like income inequality campaign finance reform, climate change jobs health care and</field>
+</doc>
+</add>

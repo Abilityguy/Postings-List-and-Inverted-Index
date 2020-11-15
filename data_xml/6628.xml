@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190922_210000_BBC_News#start/1005/end/1040</field>
+<field name="datetime">9/22/2019 21:17:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190922_210000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190922_210000_BBC_News/BBCNEWS_20190922_210000_BBC_News.thumbs/BBCNEWS_20190922_210000_BBC_News_000988.jpg</field>
+<field name="snippet">pressure to reduce its carbon emissions when global leaders meet at the un tomorrow for a special summit on climate change. renewable energy sources have increased in china, but coal is still the largest source of electricity generation. with the un pushing for a commitment</field>
+</doc>
+</add>

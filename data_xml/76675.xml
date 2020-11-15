@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190519_000000_BBC_News#start/506/end/541</field>
+<field name="datetime">5/19/2019 0:08:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190519_000000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190519_000000_BBC_News/BBCNEWS_20190519_000000_BBC_News.thumbs/BBCNEWS_20190519_000000_BBC_News_000508.jpg</field>
+<field name="snippet">you so much for your time. we've all the latest analysis on what australia's election result means for the world on our website. from climate change to immigration and foreign policy - it's all there. bbc.com/news is the address. take a look.</field>
+</doc>
+</add>

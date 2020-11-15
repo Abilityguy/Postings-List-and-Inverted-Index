@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091217_160000_Happening_Now#start/6141/end/6176</field>
+<field name="datetime">12/17/2009 17:42:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091217_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091217_160000_Happening_Now/FOXNEWS_20091217_160000_Happening_Now.thumbs/FOXNEWS_20091217_160000_Happening_Now_006107.jpg</field>
+<field name="snippet">jane: brenda fox news opinion dynamics polls. what people really think about global warming, and whether they want to vote for republicans or democrats next time around.</field>
+</doc>
+</add>

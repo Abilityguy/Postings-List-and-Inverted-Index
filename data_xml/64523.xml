@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201612.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161209_070000_The_11th_Hour_With_Brian_Williams#start/1325/end/1360</field>
+<field name="datetime">12/9/2016 7:22:20</field>
+<field name="station">MSNBC</field>
+<field name="show">The 11th Hour With Brian Williams</field>
+<field name="showid">MSNBCW_20161209_070000_The_11th_Hour_With_Brian_Williams</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161209_070000_The_11th_Hour_With_Brian_Williams/MSNBCW_20161209_070000_The_11th_Hour_With_Brian_Williams.thumbs/MSNBCW_20161209_070000_The_11th_Hour_With_Brian_Williams_001317.jpg</field>
+<field name="snippet">governor, do you think this furthers an unfair notion that republicans are anti-environment, anti-climate change generally? well, there's certainly a very strong group of republicans that are dead set against</field>
+</doc>
+</add>

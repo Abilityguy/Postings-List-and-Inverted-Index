@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201203.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120315_100000_FOX_and_Friends#start/4840/end/4875</field>
+<field name="datetime">3/15/2012 11:20:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20120315_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120315_100000_FOX_and_Friends/FOXNEWSW_20120315_100000_FOX_and_Friends.thumbs/FOXNEWSW_20120315_100000_FOX_and_Friends_004826.jpg</field>
+<field name="snippet">notice about the obama administration is that several years ago they had a lot of big ideas. whether you agreed with them or not, there were big things they wanted to do on tax reform and climate change, but right now,</field>
+</doc>
+</add>

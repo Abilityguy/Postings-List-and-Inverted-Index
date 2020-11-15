@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201308.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130816_160000_NOW_With_Alex_Wagner#start/2207/end/2242</field>
+<field name="datetime">8/16/2013 16:37:02</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20130816_160000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130816_160000_NOW_With_Alex_Wagner/MSNBCW_20130816_160000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20130816_160000_NOW_With_Alex_Wagner_002205.jpg</field>
+<field name="snippet">roamed the earth. tonight msnbc's very own chris hayes shines a spotlight on what he calls a problem without borders, destructive and deadly global warming. we have just passed 400 parts per million of carbon in the</field>
+</doc>
+</add>

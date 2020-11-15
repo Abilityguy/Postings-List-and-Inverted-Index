@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180119_010000_Newsday#start/141/end/176</field>
+<field name="datetime">1/19/2018 1:02:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20180119_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180119_010000_Newsday/BBCNEWS_20180119_010000_Newsday.thumbs/BBCNEWS_20180119_010000_Newsday_000117.jpg</field>
+<field name="snippet">from el nino and it's in the top three hottest years. a clear sign that greenhouse gases are the main drivers of warming. what this is showing really is that these influences of the human activity on climate through our emissions of greenhouse gases are really dwarfing</field>
+</doc>
+</add>

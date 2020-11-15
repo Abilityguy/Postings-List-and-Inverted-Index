@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100409_210000_Glenn_Beck#start/1266/end/1301</field>
+<field name="datetime">4/9/2010 21:21:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20100409_210000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100409_210000_Glenn_Beck/FOXNEWS_20100409_210000_Glenn_Beck.thumbs/FOXNEWS_20100409_210000_Glenn_Beck_001255.jpg</field>
+<field name="snippet">glenn: wait in your what course? map. a requirement you're forced to take. i am taking a science course called nature and the environment. we finished a topic on global</field>
+</doc>
+</add>

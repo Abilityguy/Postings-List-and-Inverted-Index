@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201902.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190220_200000_MSNBC_Live_With_Ali_Velshi#start/3415/end/3450</field>
+<field name="datetime">2/20/2019 20:57:10</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190220_200000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190220_200000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190220_200000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190220_200000_MSNBC_Live_With_Ali_Velshi_003387.jpg</field>
+<field name="snippet">starting at the white house, convening a panel to challenge studies that are definitive about the increasing and remarkable dangers of global warming. and a lot of that great research is actually being done by the defense department.</field>
+</doc>
+</add>

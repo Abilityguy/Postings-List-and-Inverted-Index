@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_180000_BBC_News_at_Six#start/568/end/603</field>
+<field name="datetime">1/16/2020 18:09:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20200116_180000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_180000_BBC_News_at_Six/BBCNEWS_20200116_180000_BBC_News_at_Six.thumbs/BBCNEWS_20200116_180000_BBC_News_at_Six_000568.jpg</field>
+<field name="snippet">the conference centre behind me, there will be what could be the largest gathering of world leaders ever on british soilfor a united nations summit on climate change. and governments gathering there are meant to come out with new, tougher targets for cutting the emissions of the gases heating the planet. but at</field>
+</doc>
+</add>

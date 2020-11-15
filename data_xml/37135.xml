@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201401.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140107_030000_Hannity#start/706/end/741</field>
+<field name="datetime">1/7/2014 3:12:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20140107_030000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140107_030000_Hannity/FOXNEWSW_20140107_030000_Hannity.thumbs/FOXNEWSW_20140107_030000_Hannity_000705.jpg</field>
+<field name="snippet">at the impact on the environment, and if it is not that bad, creating jobs is the most critical issue that we're facing in this country. all right, guys, good to see you. one of the funniest moments we saw on vacation, we have global</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181213_050000_Tucker_Carlson_Tonight#start/1457/end/1492</field>
+<field name="datetime">12/13/2018 5:24:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20181213_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181213_050000_Tucker_Carlson_Tonight/FOXNEWSW_20181213_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20181213_050000_Tucker_Carlson_Tonight_001437.jpg</field>
+<field name="snippet">do you think that a carbon tax will become a component of the debate in the next election? i not only think that a carbon tax will be a component. i think it will become a litmus test for democratic candidates trying to seek the 2020 democratic nomination for president and they've got to be careful about that.</field>
+</doc>
+</add>

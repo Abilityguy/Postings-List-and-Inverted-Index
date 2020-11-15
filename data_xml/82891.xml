@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191015_013000_Monday_in_Parliament#start/906/end/941</field>
+<field name="datetime">10/15/2019 1:45:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Monday in Parliament</field>
+<field name="showid">BBCNEWS_20191015_013000_Monday_in_Parliament</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191015_013000_Monday_in_Parliament/BBCNEWS_20191015_013000_Monday_in_Parliament.thumbs/BBCNEWS_20191015_013000_Monday_in_Parliament_000898.jpg</field>
+<field name="snippet">the opportunity to point out that it is this government that is doubling spending on climate change to {11.6 billion over the next five years. that is a colossal sum, more than any other country. we are leading the world in tackling climate change and setting a blistering pace for our friends</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201505.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150529_210000_The_Ed_Show#start/3531/end/3566</field>
+<field name="datetime">5/29/2015 21:59:06</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20150529_210000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150529_210000_The_Ed_Show/MSNBCW_20150529_210000_The_Ed_Show.thumbs/MSNBCW_20150529_210000_The_Ed_Show_003525.jpg</field>
+<field name="snippet">expect this to be an exceptionally rough one, this year? it's hard to predict. it's very difficult to connect any one weather event to this global phenomenon of climate change. with that said you -- we expect hurricanes to be stronger. now, there's another phenomenon</field>
+</doc>
+</add>

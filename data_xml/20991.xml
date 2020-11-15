@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201308.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130815_100000_Morning_Joe#start/5095/end/5130</field>
+<field name="datetime">8/15/2013 11:25:10</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20130815_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130815_100000_Morning_Joe/MSNBCW_20130815_100000_Morning_Joe.thumbs/MSNBCW_20130815_100000_Morning_Joe_005086.jpg</field>
+<field name="snippet">on the grid is growing exponentially. we've been debating climate change in america. certainly western europe has moved forward op the issue. what do we do about china? china is the big issue.</field>
+</doc>
+</add>

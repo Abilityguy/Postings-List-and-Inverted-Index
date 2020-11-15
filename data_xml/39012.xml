@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100410_070000_Red_Eye#start/16/end/51</field>
+<field name="datetime">4/10/2010 7:00:31</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20100410_070000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100410_070000_Red_Eye/FOXNEWS_20100410_070000_Red_Eye.thumbs/FOXNEWS_20100410_070000_Red_Eye_000026.jpg</field>
+<field name="snippet">what's coming up? we'll take a look at the worst thing megan fox has ever been in. and a new study claims to debunk the idea that cows contribute to global warming. and a new york city college</field>
+</doc>
+</add>

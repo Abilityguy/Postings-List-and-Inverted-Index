@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190225_060000_Breakfast#start/7824/end/7859</field>
+<field name="datetime">2/25/2019 8:10:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190225_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190225_060000_Breakfast/BBCNEWS_20190225_060000_Breakfast.thumbs/BBCNEWS_20190225_060000_Breakfast_007798.jpg</field>
+<field name="snippet">you can see it there. the couple's three-day tour of the country ends today. researchers in antarctica are searching for the world's oldest ice to help them better understand climate change. norwegian scientists are the latest team to join the search and will spend up to four years looking for a site to extract an ice core, which was formed</field>
+</doc>
+</add>

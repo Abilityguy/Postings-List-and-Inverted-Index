@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180111_190000_Beyond_100_Days#start/2598/end/2633</field>
+<field name="datetime">1/11/2018 19:43:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20180111_190000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180111_190000_Beyond_100_Days/BBCNEWS_20180111_190000_Beyond_100_Days.thumbs/BBCNEWS_20180111_190000_Beyond_100_Days_002578.jpg</field>
+<field name="snippet">the mayor, bill de blasio, said the city was seeking damages from bp, chevron, conocophillips, exxon mobil and royal dutch shell , to protect residents from the effects of climate change. more than 300 people were arrested in tunisia during a third night of anti-government protests.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201612.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161213_160000_Happening_Now#start/63/end/98</field>
+<field name="datetime">12/13/2016 16:01:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20161213_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161213_160000_Happening_Now/FOXNEWSW_20161213_160000_Happening_Now.thumbs/FOXNEWSW_20161213_160000_Happening_Now_000058.jpg</field>
+<field name="snippet">climate change this as congressional leaders call for investigations into whether russia meddled on the election on behalf of donald trump and also learning this morning mr. trump has chosen a critic for the energy department,</field>
+</doc>
+</add>

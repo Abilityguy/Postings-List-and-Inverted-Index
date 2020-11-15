@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191223_000000_Newsday#start/1139/end/1174</field>
+<field name="datetime">12/23/2019 0:19:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191223_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191223_000000_Newsday/BBCNEWS_20191223_000000_Newsday.thumbs/BBCNEWS_20191223_000000_Newsday_001138.jpg</field>
+<field name="snippet">what do we make of the prime minister's latest comments? to be said that as a shift in his position on the connection between climate change and extreme weather events like this? it's been a conversation that prime ministers scott morrison</field>
+</doc>
+</add>

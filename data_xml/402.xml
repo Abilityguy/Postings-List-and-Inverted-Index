@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201301.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130127_200000_The_Journal_Editorial_Report#start/79/end/114</field>
+<field name="datetime">1/27/2013 20:01:34</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Journal Editorial Report</field>
+<field name="showid">FOXNEWSW_20130127_200000_The_Journal_Editorial_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130127_200000_The_Journal_Editorial_Report/FOXNEWSW_20130127_200000_The_Journal_Editorial_Report.thumbs/FOXNEWSW_20130127_200000_The_Journal_Editorial_Report_000075.jpg</field>
+<field name="snippet">'fox news sunday' is a presentation of fox news. this week on the journal editorial report. president obama's green agenda. he he has promised to make climate change a priority in his second term. why that may end up costing</field>
+</doc>
+</add>

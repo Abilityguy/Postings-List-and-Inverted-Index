@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091026_100000_FOX_and_Friends#start/5632/end/5667</field>
+<field name="datetime">10/26/2009 11:34:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091026_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091026_100000_FOX_and_Friends/FOXNEWS_20091026_100000_FOX_and_Friends.thumbs/FOXNEWS_20091026_100000_FOX_and_Friends_005628.jpg</field>
+<field name="snippet">us out of the global -- recession and global warming. gretchen: teenage terrorists plotting to blow up a dallas sky scraper is going to be in court this morning.</field>
+</doc>
+</add>

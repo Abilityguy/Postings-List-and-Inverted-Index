@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191009_013000_Tuesday_in_Parliament#start/620/end/655</field>
+<field name="datetime">10/9/2019 1:40:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Tuesday in Parliament</field>
+<field name="showid">BBCNEWS_20191009_013000_Tuesday_in_Parliament</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191009_013000_Tuesday_in_Parliament/BBCNEWS_20191009_013000_Tuesday_in_Parliament.thumbs/BBCNEWS_20191009_013000_Tuesday_in_Parliament_000598.jpg</field>
+<field name="snippet">it was the second day of demonstrations around central london by extinction rebellion. the protestors, who are demanding urgent action to tackle climate change, have set up camp in westminster. several roads in the area were blocked, making it difficult for many people to get to work. at the start of each session of parliament,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201507.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150721_200000_NOW_With_Alex_Wagner#start/3021/end/3056</field>
+<field name="datetime">7/21/2015 20:50:36</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20150721_200000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150721_200000_NOW_With_Alex_Wagner/MSNBCW_20150721_200000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20150721_200000_NOW_With_Alex_Wagner_002986.jpg</field>
+<field name="snippet">today pope francis is on convening an international meeting to create momentum for a global meeting on climate change later this year. a new study finds the world's oceans ground zero for global warming are warming even faster</field>
+</doc>
+</add>

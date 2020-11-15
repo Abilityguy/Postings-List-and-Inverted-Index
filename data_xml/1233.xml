@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170511_180000_100_Days#start/1537/end/1572</field>
+<field name="datetime">5/11/2017 18:25:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">100 Days</field>
+<field name="showid">BBCNEWS_20170511_180000_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170511_180000_100_Days/BBCNEWS_20170511_180000_100_Days.thumbs/BBCNEWS_20170511_180000_100_Days_001528.jpg</field>
+<field name="snippet">the scenes with donald trump at the white house. and we'll be live in alaska where a meeting of eight countries is trying to find out where the trump administration stands on climate change. that's still to come on 100 days plus, from bbc news. good evening. a decent day across.</field>
+</doc>
+</add>

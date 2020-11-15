@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201610.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161011_190000_MSNBC_Live#start/2306/end/2341</field>
+<field name="datetime">10/11/2016 19:38:41</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20161011_190000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161011_190000_MSNBC_Live/MSNBCW_20161011_190000_MSNBC_Live.thumbs/MSNBCW_20161011_190000_MSNBC_Live_002308.jpg</field>
+<field name="snippet">the southeast, which means matthew's storm surge was higher and the flooding was more severe. plus, as you know, the impact of climate change goes beyond extreme events like hurricanes.</field>
+</doc>
+</add>

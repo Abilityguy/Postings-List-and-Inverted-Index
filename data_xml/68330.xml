@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190208_060000_Breakfast#start/2155/end/2190</field>
+<field name="datetime">2/8/2019 6:36:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190208_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190208_060000_Breakfast/BBCNEWS_20190208_060000_Breakfast.thumbs/BBCNEWS_20190208_060000_Breakfast_002129.jpg</field>
+<field name="snippet">reporting from san francisco for us. the drax power station in north yorkshire has become the first in the world to reverse climate change on a tiny scale - in a process known as 'carbon negative'. drax burns seven million tons of wood chips each year to drive generators to make electricity. the new technology captures one ton a day of emissions and the company says it could help</field>
+</doc>
+</add>

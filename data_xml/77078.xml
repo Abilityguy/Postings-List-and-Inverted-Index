@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190512_180000_BBC_News#start/1052/end/1087</field>
+<field name="datetime">5/12/2019 18:17:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190512_180000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190512_180000_BBC_News/BBCNEWS_20190512_180000_BBC_News.thumbs/BBCNEWS_20190512_180000_BBC_News_001047.jpg</field>
+<field name="snippet">hundreds of mothers, fathers and families with babies and children took to the streets of london earlier to demand urgent action on climate change. crowds of protesters carrying banners, flags and placards marched from hyde park corner to parliament square as part of the mothers rise up march. it was led by eleven 11-year-olds</field>
+</doc>
+</add>

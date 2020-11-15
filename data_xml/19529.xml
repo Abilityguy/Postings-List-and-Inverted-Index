@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201903.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190316_180000_MSNBC_Live_with_Kendis_Gibson#start/4928/end/4963</field>
+<field name="datetime">3/16/2019 19:22:23</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live with Kendis Gibson</field>
+<field name="showid">MSNBCW_20190316_180000_MSNBC_Live_with_Kendis_Gibson</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190316_180000_MSNBC_Live_with_Kendis_Gibson/MSNBCW_20190316_180000_MSNBC_Live_with_Kendis_Gibson.thumbs/MSNBCW_20190316_180000_MSNBC_Live_with_Kendis_Gibson_003520.jpg</field>
+<field name="snippet">reporter: now, what we have heard kendis, from folks on the grounds are questions for him over health care and climate change over his stance on the israel/palestine relation. this is going to be an</field>
+</doc>
+</add>

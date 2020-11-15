@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100402_000000_The_OReilly_Factor#start/2071/end/2106</field>
+<field name="datetime">4/2/2010 0:34:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20100402_000000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100402_000000_The_OReilly_Factor/FOXNEWS_20100402_000000_The_OReilly_Factor.thumbs/FOXNEWS_20100402_000000_The_OReilly_Factor_002064.jpg</field>
+<field name="snippet">bill: you say this is a political thing. it is philosophical. bill: does ronald mcdonald cause global warming? it could be next if they don't succeed. bill: could we talk about the burger king guy? he is scary. mcdonald's used to have grem</field>
+</doc>
+</add>

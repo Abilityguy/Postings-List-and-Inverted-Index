@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190215_190000_BBC_News#start/899/end/934</field>
+<field name="datetime">2/15/2019 19:15:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190215_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190215_190000_BBC_News/BBCNEWS_20190215_190000_BBC_News.thumbs/BBCNEWS_20190215_190000_BBC_News_000898.jpg</field>
+<field name="snippet">have been taking part in a a day of protests, calling for action on climate change. 0rganisers say pupils walked out of schools in more than 60 towns and cities, to highlight what they see as a lack of action by the government.</field>
+</doc>
+</add>

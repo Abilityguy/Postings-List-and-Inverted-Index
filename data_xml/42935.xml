@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180118_220000_BBC_News_at_Ten#start/76/end/111</field>
+<field name="datetime">1/18/2018 22:01:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20180118_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180118_220000_BBC_News_at_Ten/BBCNEWS_20180118_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20180118_220000_BBC_News_at_Ten_000058.jpg</field>
+<field name="snippet">this is the worst we have seen it. scientists say that man-made climate change is now the most important factor in pushing up the earth's temperatures. the court of appeal is to consider whether terminally-ill patients , should be allowed assistance , if they wish to die.</field>
+</doc>
+</add>

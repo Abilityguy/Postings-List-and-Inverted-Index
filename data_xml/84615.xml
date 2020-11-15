@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190418_100000_BBC_Newsroom_Live#start/5495/end/5530</field>
+<field name="datetime">4/18/2019 11:31:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190418_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190418_100000_BBC_Newsroom_Live/BBCNEWS_20190418_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190418_100000_BBC_Newsroom_Live_005487.jpg</field>
+<field name="snippet">more now on climate change protests which have brought part of central london to a standstill for a fourth day. the campaign group behind the protests - extinction rebellion is calling on the government to cut carbon emissions to zero by 2025 - and has threatened to escalate their tactics if changes aren't met.</field>
+</doc>
+</add>

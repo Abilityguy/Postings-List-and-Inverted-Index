@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201202.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120210_090000_Special_Report_With_Bret_Baier#start/1899/end/1934</field>
+<field name="datetime">2/10/2012 9:31:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20120210_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120210_090000_Special_Report_With_Bret_Baier/FOXNEWSW_20120210_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20120210_090000_Special_Report_With_Bret_Baier_001886.jpg</field>
+<field name="snippet">unexpected results, 'the new data does not mean that concerns about climate change are overblown in any way.' finally, more bad news for former democratic presidential candidate john edwards. his trial surrounding campaign finance violations over money used to hide a sexual affair,</field>
+</doc>
+</add>

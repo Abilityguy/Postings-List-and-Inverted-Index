@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201011.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101124_080000_Red_Eye#start/999/end/1034</field>
+<field name="datetime">11/24/2010 8:16:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20101124_080000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101124_080000_Red_Eye/FOXNEWS_20101124_080000_Red_Eye.thumbs/FOXNEWS_20101124_080000_Red_Eye_000985.jpg</field>
+<field name="snippet">i had a little sweat under my nose. nobody told me. that's global warming. it is global cooling here. brooke, is it over? can they redefine the message now that they have stepped so far off the line?</field>
+</doc>
+</add>

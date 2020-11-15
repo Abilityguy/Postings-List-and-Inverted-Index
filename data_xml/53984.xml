@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201807.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180712_220000_BBC_News#start/1323/end/1358</field>
+<field name="datetime">7/12/2018 22:22:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180712_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180712_220000_BBC_News/BBCNEWS_20180712_220000_BBC_News.thumbs/BBCNEWS_20180712_220000_BBC_News_001317.jpg</field>
+<field name="snippet">the link between global climate change and extreme weather events is very complicated, but for many years now climate scientists have been predicting that across the northern hemisphere there will be more and more extreme rain events, where up to a month or even two months' rainfall can fall in just two or three days. that is exactly what happened</field>
+</doc>
+</add>

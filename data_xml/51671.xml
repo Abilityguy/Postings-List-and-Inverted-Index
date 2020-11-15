@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181218_110000_BBC_Newsroom_Live#start/3568/end/3603</field>
+<field name="datetime">12/18/2018 11:59:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20181218_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181218_110000_BBC_Newsroom_Live/BBCNEWS_20181218_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20181218_110000_BBC_Newsroom_Live_003567.jpg</field>
+<field name="snippet">there'll be a weekly food waste collection for households, to prevent waste rotting and releasing greenhouse gases. there will also be a deposit scheme for bottles, cans and disposable cups. manufacturers will have to pay for the disposal of any packaging they produce.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201303.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130306_050000_Hannity#start/30/end/65</field>
+<field name="datetime">3/6/2013 5:00:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20130306_050000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130306_050000_Hannity/FOXNEWSW_20130306_050000_Hannity.thumbs/FOXNEWSW_20130306_050000_Hannity_000045.jpg</field>
+<field name="snippet">the sermon, but it's important for all of us to take at least an hour a week to think about a higher power, to be introspective. even if you're an atheist, think about global warming, nature, anything outside of yourself. sadly most americans are not</field>
+</doc>
+</add>

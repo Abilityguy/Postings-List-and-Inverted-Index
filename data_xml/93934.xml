@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190709_030000_BBC_News#start/1074/end/1109</field>
+<field name="datetime">7/9/2019 3:18:09</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190709_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190709_030000_BBC_News/BBCNEWS_20190709_030000_BBC_News.thumbs/BBCNEWS_20190709_030000_BBC_News_001048.jpg</field>
+<field name="snippet">but the forest is about more than carbon and climate change. it's home to an extraordinary variety of creatures, and it's unique. it's so wonderful, it's so full of life, it's so full. just so beautiful. and to lose it, it's never going to come back again, we're never going to be able to build an amazon. it's going to be gone forever.</field>
+</doc>
+</add>

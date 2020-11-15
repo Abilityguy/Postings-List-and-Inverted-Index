@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100129_050000_Hannity#start/1631/end/1666</field>
+<field name="datetime">1/29/2010 5:27:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20100129_050000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100129_050000_Hannity/FOXNEWS_20100129_050000_Hannity.thumbs/FOXNEWS_20100129_050000_Hannity_001620.jpg</field>
+<field name="snippet">tonight's meltdown brought by the securities and exchange commission publicizing how climate change is an he canning their business claiming it is important to investors who want to know whether companies are well positioned for the future.</field>
+</doc>
+</add>

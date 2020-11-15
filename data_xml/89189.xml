@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190623_040000_BBC_News#start/902/end/937</field>
+<field name="datetime">6/23/2019 4:15:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190623_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190623_040000_BBC_News/BBCNEWS_20190623_040000_BBC_News.thumbs/BBCNEWS_20190623_040000_BBC_News_000897.jpg</field>
+<field name="snippet">this is bbc news. the latest headlines: president trump has announced major new sanctions on iran. he says it's to stop the country obtaining nuclear weapons. climate change protesters have stormed a german coal mine as part a week long campaign</field>
+</doc>
+</add>

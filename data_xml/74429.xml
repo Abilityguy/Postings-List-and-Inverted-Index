@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200115_200000_BBC_News#start/221/end/256</field>
+<field name="datetime">1/15/2020 20:03:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200115_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200115_200000_BBC_News/BBCNEWS_20200115_200000_BBC_News.thumbs/BBCNEWS_20200115_200000_BBC_News_000208.jpg</field>
+<field name="snippet">effects of global warming but, with our current climate policies, we are heading for more than three degrees, and that would bring unprecedented changes. higher temperatures will mean more heatwaves and droughts,</field>
+</doc>
+</add>

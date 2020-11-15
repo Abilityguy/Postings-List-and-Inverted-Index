@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201310.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20131026_070000_Red_Eye#start/900/end/935</field>
+<field name="datetime">10/26/2013 7:15:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWSW_20131026_070000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20131026_070000_Red_Eye/FOXNEWSW_20131026_070000_Red_Eye.thumbs/FOXNEWSW_20131026_070000_Red_Eye_000885.jpg</field>
+<field name="snippet">side. the l.a. times is turning its back on readers who don't believe in man made global warming. the editor says he won't publish mail about climate change because they are wrong. paul thorton says there is no sign humans caused climate change. it is inserting a factule</field>
+</doc>
+</add>

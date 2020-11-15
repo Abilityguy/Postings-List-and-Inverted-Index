@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201002.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100213_150000_MSNBC_News_Live#start/2356/end/2391</field>
+<field name="datetime">2/13/2010 15:39:31</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100213_150000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100213_150000_MSNBC_News_Live/MSNBC_20100213_150000_MSNBC_News_Live.thumbs/MSNBC_20100213_150000_MSNBC_News_Live_002335.jpg</field>
+<field name="snippet">some in washington are reviving their argument against climate change. let's bring in magazine editor brian walsh. good morning. let's get to the global warming controversy that's heating up with all this snow. line this up for us. basically people see major</field>
+</doc>
+</add>

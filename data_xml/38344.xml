@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201005.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100516_110000_FOX_and_Friends_Sunday#start/5673/end/5708</field>
+<field name="datetime">5/16/2010 12:34:48</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWS_20100516_110000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100516_110000_FOX_and_Friends_Sunday/FOXNEWS_20100516_110000_FOX_and_Friends_Sunday.thumbs/FOXNEWS_20100516_110000_FOX_and_Friends_Sunday_005610.jpg</field>
+<field name="snippet">headlines. u.s. commerce secretary. gary lock is in china today. lock is leading a delegation of two dozen american companies hoping to break through barriers to china's fast growing clean energy market. china, the world's largest emitter of greenhouse gases is</field>
+</doc>
+</add>

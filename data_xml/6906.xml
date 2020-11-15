@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190923_200000_Outside_Source#start/0/end/29</field>
+<field name="datetime">9/23/2019 20:00:09</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20190923_200000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190923_200000_Outside_Source/BBCNEWS_20190923_200000_Outside_Source.thumbs/BBCNEWS_20190923_200000_Outside_Source_001738.jpg</field>
+<field name="snippet">week ahead. if you want to find out what the weather will bring in the next week or so, the weather for the 00:29:08160 --> 4294966103:13:29430 week ahead is coming up. hello, i'm nuala mcgovern, this is outside source. at a climate change summit of world leaders in new york - the un secretary general declares that 'time is running out, but it's not too late'. swedish campaigner greta thunberg</field>
+</doc>
+</add>

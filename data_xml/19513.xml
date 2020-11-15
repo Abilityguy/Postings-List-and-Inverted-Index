@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201903.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190312_190000_MSNBC_Live_With_Ali_Velshi#start/1081/end/1116</field>
+<field name="datetime">3/12/2019 19:18:16</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190312_190000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190312_190000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190312_190000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190312_190000_MSNBC_Live_With_Ali_Velshi_001078.jpg</field>
+<field name="snippet">we have to go down to impeachment which is about 22%. is there a concern that talk of impeachment displaces talk of guns and climate change and health care? i believe that this president is the biggest crisis for</field>
+</doc>
+</add>

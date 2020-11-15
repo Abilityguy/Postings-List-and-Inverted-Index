@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200911.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091126_150000_MSNBC_News_Live#start/863/end/898</field>
+<field name="datetime">11/26/2009 15:14:38</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091126_150000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091126_150000_MSNBC_News_Live/MSNBC_20091126_150000_MSNBC_News_Live.thumbs/MSNBC_20091126_150000_MSNBC_News_Live_000833.jpg</field>
+<field name="snippet">military bases across afghanistan. president obama is heading to copenhagen next month for the international climate change summit. he is expected to announce the nation's plans to reduce emissions. this, a day before he accepts the nobel peace prize. and it's a trip that could carry</field>
+</doc>
+</add>

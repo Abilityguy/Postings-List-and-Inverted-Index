@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100406_190000_Studio_B_With_Shepard_Smith#start/3281/end/3316</field>
+<field name="datetime">4/6/2010 19:54:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Studio B With Shepard Smith</field>
+<field name="showid">FOXNEWS_20100406_190000_Studio_B_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100406_190000_Studio_B_With_Shepard_Smith/FOXNEWS_20100406_190000_Studio_B_With_Shepard_Smith.thumbs/FOXNEWS_20100406_190000_Studio_B_With_Shepard_Smith_003090.jpg</field>
+<field name="snippet">to reduce greenhouse gas emissions significantly. shepard: continuing coverage of fox top story, the mine disaster in west virginia raising new questions before mine safety andover sight. james rosen is covering the story. the company that operates this mine is called massey energy.</field>
+</doc>
+</add>

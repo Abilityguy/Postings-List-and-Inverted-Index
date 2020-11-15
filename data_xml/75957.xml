@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190511_150000_BBC_News#start/1719/end/1754</field>
+<field name="datetime">5/11/2019 15:28:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190511_150000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190511_150000_BBC_News/BBCNEWS_20190511_150000_BBC_News.thumbs/BBCNEWS_20190511_150000_BBC_News_001678.jpg</field>
+<field name="snippet">but otherwise dry. 16 in edinburgh and manchester, 17 in cardiff and london. that is your weather. hello, this is bbc news with martine croxall. the headlines: concerns over climate change</field>
+</doc>
+</add>

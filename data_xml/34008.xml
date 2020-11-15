@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091207_210000_Your_World_With_Neil_Cavuto#start/378/end/413</field>
+<field name="datetime">12/7/2009 21:06:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWS_20091207_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091207_210000_Your_World_With_Neil_Cavuto/FOXNEWS_20091207_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWS_20091207_210000_Your_World_With_Neil_Cavuto_000356.jpg</field>
+<field name="snippet">the next ice age is on its way. for 40 years, it was a global cooling issue, and was government going to do enough to stop the global cooling. so we have had a few years of global warming, but we're in a warmer than we were 40, 60, or 80 years ago. we have had about 4 1/5 years</field>
+</doc>
+</add>

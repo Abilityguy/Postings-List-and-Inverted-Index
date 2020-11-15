@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201901.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190111_110000_Morning_Joe#start/8246/end/8281</field>
+<field name="datetime">1/11/2019 13:17:41</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20190111_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190111_110000_Morning_Joe/MSNBCW_20190111_110000_Morning_Joe.thumbs/MSNBCW_20190111_110000_Morning_Joe_008248.jpg</field>
+<field name="snippet">precedence even if the president's got authority to do it, i'd advise against it. tomorrow the national security emergency might be, you know, climate change, so let's seize fossil fuel plants or something.</field>
+</doc>
+</add>

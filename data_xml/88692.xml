@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190612_180000_Beyond_100_Days#start/1923/end/1958</field>
+<field name="datetime">6/12/2019 18:32:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20190612_180000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190612_180000_Beyond_100_Days/BBCNEWS_20190612_180000_Beyond_100_Days.thumbs/BBCNEWS_20190612_180000_Beyond_100_Days_001919.jpg</field>
+<field name="snippet">important governments look at climate change. here's our science editor david shukman. this is a huge moment in the effort to tackle climate change, a radical vision to shut off the gases that are raising temperatures. no more sights like this, of exhaust fumes pouring into the air,</field>
+</doc>
+</add>

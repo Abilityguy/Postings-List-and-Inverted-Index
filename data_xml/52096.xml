@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181210_000000_Newsday#start/934/end/969</field>
+<field name="datetime">12/10/2018 0:15:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20181210_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181210_000000_Newsday/BBCNEWS_20181210_000000_Newsday.thumbs/BBCNEWS_20181210_000000_Newsday_000927.jpg</field>
+<field name="snippet">singapore faces a disproportionate risk from climate change. the island city-state makes up just 0.11% of global emissions. but politicans here are deeply concerned by the threat of rising sea levels. according to the south</field>
+</doc>
+</add>

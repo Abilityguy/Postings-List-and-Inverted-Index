@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201611.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161126_080000_Red_Eye_With_Tom_Shillue#start/506/end/541</field>
+<field name="datetime">11/26/2016 8:08:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye With Tom Shillue</field>
+<field name="showid">FOXNEWSW_20161126_080000_Red_Eye_With_Tom_Shillue</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161126_080000_Red_Eye_With_Tom_Shillue/FOXNEWSW_20161126_080000_Red_Eye_With_Tom_Shillue.thumbs/FOXNEWSW_20161126_080000_Red_Eye_With_Tom_Shillue_000478.jpg</field>
+<field name="snippet">if climate change is real, and i have to have an open mind, it my be real and it may not be real. we should be making it here and making more of it than anyone else. hillary clinton, that's the issue i want to take up now,</field>
+</doc>
+</add>

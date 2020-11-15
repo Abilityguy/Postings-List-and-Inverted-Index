@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201112.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111204_110000_FOX_and_Friends_Sunday#start/4123/end/4158</field>
+<field name="datetime">12/4/2011 12:08:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20111204_110000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111204_110000_FOX_and_Friends_Sunday/FOXNEWSW_20111204_110000_FOX_and_Friends_Sunday.thumbs/FOXNEWSW_20111204_110000_FOX_and_Friends_Sunday_004110.jpg</field>
+<field name="snippet">dave: radioactive. clayton: radioactive. anytime you're sitting on a set next to nancy pelosi the message gets lost. seems as if he was supporting the policy. alisyn: the idea of climate change-- we'll hear more about his stance on the climate change ahead. alisyn: meanwhile, he's battled a little bit with</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201311.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20131115_090000_The_Five#start/2631/end/2666</field>
+<field name="datetime">11/15/2013 9:44:06</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20131115_090000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20131115_090000_The_Five/FOXNEWSW_20131115_090000_The_Five.thumbs/FOXNEWSW_20131115_090000_The_Five_002625.jpg</field>
+<field name="snippet">it's global warming. that doesn't help provide affordable electricity. they could have had more information so they could have gotten out of harm's way. with more affordable electricity that is steady you have better education, united better healthcare, better well-being</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201104.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110422_100000_FOX_and_Friends#start/1055/end/1090</field>
+<field name="datetime">4/22/2011 10:17:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20110422_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110422_100000_FOX_and_Friends/FOXNEWS_20110422_100000_FOX_and_Friends.thumbs/FOXNEWS_20110422_100000_FOX_and_Friends_001050.jpg</field>
+<field name="snippet">network. there he is. stuart varney, varney & company. 9:20 eastern time on the fox business network. today is earth day as well as good friday. we wanted to know, did al gore have it all right about global warming? our next guest separates facts</field>
+</doc>
+</add>

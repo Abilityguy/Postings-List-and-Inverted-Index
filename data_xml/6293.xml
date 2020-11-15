@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190915_210000_BBC_News#start/1309/end/1344</field>
+<field name="datetime">9/15/2019 21:22:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190915_210000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190915_210000_BBC_News/BBCNEWS_20190915_210000_BBC_News.thumbs/BBCNEWS_20190915_210000_BBC_News_001288.jpg</field>
+<field name="snippet">at an alarming rate. the water level drops by one metre every year. the main cause is the diversion of water from thejordan river over the past decades by several states. but climate change acts as a threat multiplier,</field>
+</doc>
+</add>

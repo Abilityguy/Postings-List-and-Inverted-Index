@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201008.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100828_090000_The_OReilly_Factor#start/950/end/985</field>
+<field name="datetime">8/28/2010 9:16:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20100828_090000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100828_090000_The_OReilly_Factor/FOXNEWS_20100828_090000_The_OReilly_Factor.thumbs/FOXNEWS_20100828_090000_The_OReilly_Factor_000926.jpg</field>
+<field name="snippet">during which temperatures were as high or higher than they are today. if true this casts doubt on the idea that humans caused global warming. shockingly the medieval warm period was removed from this graph which became the iconic</field>
+</doc>
+</add>

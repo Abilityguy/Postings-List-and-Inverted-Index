@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190818_140000_BBC_News#start/89/end/124</field>
+<field name="datetime">8/18/2019 14:01:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190818_140000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190818_140000_BBC_News/BBCNEWS_20190818_140000_BBC_News.thumbs/BBCNEWS_20190818_140000_BBC_News_000057.jpg</field>
+<field name="snippet">the country holds a ceremony to mourn the loss due to climate change. and in half an hour, we take a look back at some of this week's highlights and exclusive interviews from the victoria derbyshire programme. the cabinet office minister,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_200000_BBC_News#start/579/end/614</field>
+<field name="datetime">12/3/2018 20:09:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181203_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_200000_BBC_News/BBCNEWS_20181203_200000_BBC_News.thumbs/BBCNEWS_20181203_200000_BBC_News_000568.jpg</field>
+<field name="snippet">at 10:40 this evening in the papers. our guestsjoining me tonight are jessica elgot, the guardian's political correspondent, and dia chakravarty, brexit editor at the telegraph. sir david attenborough has told a un conference that climate</field>
+</doc>
+</add>

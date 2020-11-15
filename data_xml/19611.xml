@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201903.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190301_220000_MTP_Daily#start/1878/end/1913</field>
+<field name="datetime">3/1/2019 22:31:33</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20190301_220000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190301_220000_MTP_Daily/MSNBCW_20190301_220000_MTP_Daily.thumbs/MSNBCW_20190301_220000_MTP_Daily_001858.jpg</field>
+<field name="snippet">in 2020 vision, the democratic field got its first governor today and a few more could be waiting in the wings. i'm jay inslee and i'm running for president because i'm the only candidate who will make defeating climate change our nation's number one</field>
+</doc>
+</add>

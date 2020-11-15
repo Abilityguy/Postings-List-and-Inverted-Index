@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190916_170000_BBC_News_at_Six#start/1324/end/1359</field>
+<field name="datetime">9/16/2019 17:22:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20190916_170000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190916_170000_BBC_News_at_Six/BBCNEWS_20190916_170000_BBC_News_at_Six.thumbs/BBCNEWS_20190916_170000_BBC_News_at_Six_001319.jpg</field>
+<field name="snippet">the uk's former chief scientist sir david king has said he is scared by the pace of climate change and in an interview with the bbc he said extreme weather events such as the melting of ice, hurricanes and wildfires are happening sooner than expected and called for the uk to</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201906.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190607_170000_MSNBC_Live_With_Velshi_and_Ruhle#start/1908/end/1943</field>
+<field name="datetime">6/7/2019 17:32:03</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Velshi and Ruhle</field>
+<field name="showid">MSNBCW_20190607_170000_MSNBC_Live_With_Velshi_and_Ruhle</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190607_170000_MSNBC_Live_With_Velshi_and_Ruhle/MSNBCW_20190607_170000_MSNBC_Live_With_Velshi_and_Ruhle.thumbs/MSNBCW_20190607_170000_MSNBC_Live_With_Velshi_and_Ruhle_001888.jpg</field>
+<field name="snippet">$500 million commitment and climate change. let's take a look. my question isn't how to tackle climate change. we've known how to do that for many years. the question is, why the hell are we moving so slowly. this is a true crisis.</field>
+</doc>
+</add>

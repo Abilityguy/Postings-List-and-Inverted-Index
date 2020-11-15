@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_050000_Breakfast#start/95/end/130</field>
+<field name="datetime">10/8/2018 5:01:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181008_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_050000_Breakfast/BBCNEWS_20181008_050000_Breakfast.thumbs/BBCNEWS_20181008_050000_Breakfast_000087.jpg</field>
+<field name="snippet">pictures of a warming world. scientists are more confident than ever that the impacts of climate change are playing out now in the severity and frequency of droughts, storms and other extreme weather against. and, having gathered in the south korean city of incheon -- events.       _</field>
+</doc>
+</add>

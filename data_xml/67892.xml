@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190206_170000_BBC_News_at_Five#start/49/end/84</field>
+<field name="datetime">2/6/2019 17:01:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190206_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190206_170000_BBC_News_at_Five/BBCNEWS_20190206_170000_BBC_News_at_Five.thumbs/BBCNEWS_20190206_170000_BBC_News_at_Five_000028.jpg</field>
+<field name="snippet">of emiliano sala, whose plane crashed in the english channel. there's a warning on global warming, with the met office predicting we could be living in the hottest decade since records began. in his delayed state of the union address, president trump appeals</field>
+</doc>
+</add>

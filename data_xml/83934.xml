@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190422_143000_The_Travel_Show#start/1828/end/1863</field>
+<field name="datetime">4/22/2019 15:00:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Travel Show</field>
+<field name="showid">BBCNEWS_20190422_143000_The_Travel_Show</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190422_143000_The_Travel_Show/BBCNEWS_20190422_143000_The_Travel_Show.thumbs/BBCNEWS_20190422_143000_The_Travel_Show_001827.jpg</field>
+<field name="snippet">police say more than 1000 people have been arrested after seven days of climate change protests. dozens of firefighters are trying to control a moorland fire in marsden in west yorkshire. gun salutes have taken</field>
+</doc>
+</add>

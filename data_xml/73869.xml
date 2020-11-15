@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201002.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100205_170000_MSNBC_News_Live#start/2209/end/2244</field>
+<field name="datetime">2/5/2010 17:37:04</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100205_170000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100205_170000_MSNBC_News_Live/MSNBC_20100205_170000_MSNBC_News_Live.thumbs/MSNBC_20100205_170000_MSNBC_News_Live_002190.jpg</field>
+<field name="snippet">with bill o'reilly, from iran to global warming and o'reilly suggested the two of them should team up and enter the political arena. let's play a little bit of a scenario. i'm thinking about running for president. i think that's a really bad</field>
+</doc>
+</add>

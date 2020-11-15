@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190920_040000_Tucker_Carlson_Tonight#start/1972/end/2007</field>
+<field name="datetime">9/20/2019 4:33:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190920_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190920_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190920_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190920_040000_Tucker_Carlson_Tonight_001949.jpg</field>
+<field name="snippet">to capitol hill, to try to get gun-control past. tucker: great, thank you. thank you. thanks. tucker: might be my last gun control debate. sorry to report that. climate change is becoming a new</field>
+</doc>
+</add>

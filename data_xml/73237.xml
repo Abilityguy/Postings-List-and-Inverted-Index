@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190131_040000_BBC_News#start/183/end/218</field>
+<field name="datetime">1/31/2019 4:03:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190131_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190131_040000_BBC_News/BBCNEWS_20190131_040000_BBC_News.thumbs/BBCNEWS_20190131_040000_BBC_News_000178.jpg</field>
+<field name="snippet">ijust got caught in a giant wreck. the deadly deep freeze has brought life in the midwest to a standstill. it is expected to hover over the region for several more days, and scientists warn that, because of climate change, these exteme weather events</field>
+</doc>
+</add>

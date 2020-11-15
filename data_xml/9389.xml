@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170708_000000_Tucker_Carlson_Tonight#start/172/end/207</field>
+<field name="datetime">7/8/2017 0:03:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20170708_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170708_000000_Tucker_Carlson_Tonight/FOXNEWSW_20170708_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20170708_000000_Tucker_Carlson_Tonight_000147.jpg</field>
+<field name="snippet">population. even global warming, there's not as much difference as you might think. trump's withdrawal from the paris climate accord supposedly marked the total end of american global leadership. all the news anchors here said so repeatedly. but actually, that's not such a crazy view in europe.</field>
+</doc>
+</add>

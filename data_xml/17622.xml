@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170118_190000_Americas_News_HQ#start/2864/end/2899</field>
+<field name="datetime">1/18/2017 19:47:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20170118_190000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170118_190000_Americas_News_HQ/FOXNEWSW_20170118_190000_Americas_News_HQ.thumbs/FOXNEWSW_20170118_190000_Americas_News_HQ_002847.jpg</field>
+<field name="snippet">going to, you know, expand this program or eliminate this program. how concerned are we about air pollution or climate change?</field>
+</doc>
+</add>

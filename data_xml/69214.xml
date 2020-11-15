@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201109.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20110901_100000_FOX_and_Friends#start/10046/end/10081</field>
+<field name="datetime">9/1/2011 12:47:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20110901_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20110901_100000_FOX_and_Friends/FOXNEWSW_20110901_100000_FOX_and_Friends.thumbs/FOXNEWSW_20110901_100000_FOX_and_Friends_009866.jpg</field>
+<field name="snippet">kinda. steve: the question for you, has that guy right back there, al gore, gone completely off the deep end when it comes to global warming? we still have racism, god knows, but it's so different now. so much better. we have to win the conversation</field>
+</doc>
+</add>

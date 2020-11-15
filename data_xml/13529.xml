@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201703.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170307_231500_Newsnight#start/460/end/495</field>
+<field name="datetime">3/7/2017 23:22:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsnight</field>
+<field name="showid">BBCNEWS_20170307_231500_Newsnight</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170307_231500_Newsnight/BBCNEWS_20170307_231500_Newsnight.thumbs/BBCNEWS_20170307_231500_Newsnight_000448.jpg</field>
+<field name="snippet">the democratic national committee, climate change researchers, again and again and again - individuals, organisations and nation states are hacking these documents, and in many cases, making these public. michael hayden, former director of the cia,</field>
+</doc>
+</add>

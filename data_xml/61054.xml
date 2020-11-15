@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201305.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130522_200000_Martin_Bashir#start/2552/end/2587</field>
+<field name="datetime">5/22/2013 20:42:47</field>
+<field name="station">MSNBC</field>
+<field name="show">Martin Bashir</field>
+<field name="showid">MSNBCW_20130522_200000_Martin_Bashir</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130522_200000_Martin_Bashir/MSNBCW_20130522_200000_Martin_Bashir.thumbs/MSNBCW_20130522_200000_Martin_Bashir_002537.jpg</field>
+<field name="snippet">of the atmospheric moisture and wind shear and all of the other variables that go into forming a tornado are mediated by climate change. but in this case, a lot of those variables knock each other out.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201203.csv</field>
+<field name="url">https://archive.org/details/CNNW_20120323_080000_World_Business_Today#start/477/end/512</field>
+<field name="datetime">3/23/2012 8:08:12</field>
+<field name="station">CNN</field>
+<field name="show">World Business Today</field>
+<field name="showid">CNNW_20120323_080000_World_Business_Today</field>
+<field name="preview">https://archive.org/download/CNNW_20120323_080000_World_Business_Today/CNNW_20120323_080000_World_Business_Today.thumbs/CNNW_20120323_080000_World_Business_Today_000013.jpg</field>
+<field name="snippet">some degree. the way this oil is produced up in canada is an extraction process where it's removed from oil sands up there. environmentalists really don't like this because they say it raises problems of more greenhouse gases.</field>
+</doc>
+</add>

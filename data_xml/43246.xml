@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090924_210000_Glenn_Beck#start/208/end/243</field>
+<field name="datetime">9/24/2009 21:03:43</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20090924_210000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090924_210000_Glenn_Beck/FOXNEWS_20090924_210000_Glenn_Beck.thumbs/FOXNEWS_20090924_210000_Glenn_Beck_000206.jpg</field>
+<field name="snippet">fourth coolest summer here in new york city. the last time it was this mild in new york city was the summer of 1927, and you know what that means? global warming was just resting up this year to hit us with 700 degree temperatures next year.</field>
+</doc>
+</add>

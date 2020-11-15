@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201903.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190301_200000_MSNBC_Live_With_Ali_Velshi#start/1245/end/1280</field>
+<field name="datetime">3/1/2019 20:21:00</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190301_200000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190301_200000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190301_200000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190301_200000_MSNBC_Live_With_Ali_Velshi_001229.jpg</field>
+<field name="snippet">one of the proposals is a carbon tax, the government would impose on companies that burn oil, coal and gas. it would be paid on each metric ton of ckar carbon dioxide emis.</field>
+</doc>
+</add>

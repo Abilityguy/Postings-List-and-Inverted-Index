@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091018_070000_FOX_Report#start/106/end/141</field>
+<field name="datetime">10/18/2009 7:02:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report</field>
+<field name="showid">FOXNEWS_20091018_070000_FOX_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091018_070000_FOX_Report/FOXNEWS_20091018_070000_FOX_Report.thumbs/FOXNEWS_20091018_070000_FOX_Report_000090.jpg</field>
+<field name="snippet">protest climate change. three, two, one. julie: and look out below! thousands gather to watch what's being called the biggest extreme sports event in the world.</field>
+</doc>
+</add>

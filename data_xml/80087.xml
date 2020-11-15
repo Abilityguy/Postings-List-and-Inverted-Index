@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191115_090000_Fox_and_Friends_First#start/2460/end/2495</field>
+<field name="datetime">11/15/2019 9:41:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20191115_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191115_090000_Fox_and_Friends_First/FOXNEWSW_20191115_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20191115_090000_Fox_and_Friends_First_002460.jpg</field>
+<field name="snippet">about all week. thank you for talking to us. good to see you. the time is 20 minutes until the top of the hour. what do public housing and climate change have in common? the green new deal. the $180 billion plan bernie sanders and aoc just unveiled. and a nasty note for a</field>
+</doc>
+</add>

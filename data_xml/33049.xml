@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091213_110000_The_OReilly_Factor#start/59/end/94</field>
+<field name="datetime">12/13/2009 11:01:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20091213_110000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091213_110000_The_OReilly_Factor/FOXNEWS_20091213_110000_The_OReilly_Factor.thumbs/FOXNEWS_20091213_110000_The_OReilly_Factor_000056.jpg</field>
+<field name="snippet">best chance for a comprehensive agreement to limit greenhouse gases, but expectations have been lowered in recent months as it became clear that world leaders would reach no such accord. and my guest this week says that may be a blessing.</field>
+</doc>
+</add>

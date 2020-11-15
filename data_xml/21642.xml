@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100128_080000_State_of_the_Union#start/4233/end/4268</field>
+<field name="datetime">1/28/2010 9:10:48</field>
+<field name="station">FOXNEWS</field>
+<field name="show">State of the Union</field>
+<field name="showid">FOXNEWS_20100128_080000_State_of_the_Union</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100128_080000_State_of_the_Union/FOXNEWS_20100128_080000_State_of_the_Union.thumbs/FOXNEWS_20100128_080000_State_of_the_Union_004230.jpg</field>
+<field name="snippet">and innovation. we've gone from a bystander to a leader in the fight against climate change. we're helping developing countries to feed themselves. and continuing the fight against hiv/aids. we are launching a new</field>
+</doc>
+</add>

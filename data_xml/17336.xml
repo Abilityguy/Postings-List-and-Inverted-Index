@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201810.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181019_210000_MTP_Daily#start/2053/end/2088</field>
+<field name="datetime">10/19/2018 21:34:28</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20181019_210000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181019_210000_MTP_Daily/MSNBCW_20181019_210000_MTP_Daily.thumbs/MSNBCW_20181019_210000_MTP_Daily_002038.jpg</field>
+<field name="snippet">things like pollution and global warming and then you get to number 67. spiders and bees. that was right behind the devil and five down from snakes and lizards. coming in at number 87, zombies.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201109.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20110926_150000_Happening_Now#start/3559/end/3594</field>
+<field name="datetime">9/26/2011 15:59:34</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20110926_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20110926_150000_Happening_Now/FOXNEWSW_20110926_150000_Happening_Now.thumbs/FOXNEWSW_20110926_150000_Happening_Now_003537.jpg</field>
+<field name="snippet">lee. jon: i'm jon scott, the president sparks a political firestorm, attack perry's views on climate change while running a state fighting severe wildfires. the perry campaign is not happy about all this. let's talk about it with bret baier who anchors</field>
+</doc>
+</add>

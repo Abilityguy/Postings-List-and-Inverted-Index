@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201004.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100409_100000_Morning_Joe#start/10264/end/10299</field>
+<field name="datetime">4/9/2010 12:51:19</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20100409_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20100409_100000_Morning_Joe/MSNBC_20100409_100000_Morning_Joe.thumbs/MSNBC_20100409_100000_Morning_Joe_010256.jpg</field>
+<field name="snippet">a fifty-ton train makes barely a mark on the environment. and a country facing climate change finds climate solutions. somewhere in america, we've already answered some of the nation's toughest questions.</field>
+</doc>
+</add>

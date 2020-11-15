@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181129_230000_BBC_News#start/64/end/99</field>
+<field name="datetime">11/29/2018 23:01:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181129_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181129_230000_BBC_News/BBCNEWS_20181129_230000_BBC_News.thumbs/BBCNEWS_20181129_230000_BBC_News_000057.jpg</field>
+<field name="snippet">to reduce greenhouse gases. and at 11:30pm, we'll be taking an in-depth look at the papers with our reviewers, nicola bartlett and claire cohen. stay with us for that. good evening. welcome to bbc news.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201504.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150422_210000_The_Ed_Show#start/1897/end/1932</field>
+<field name="datetime">4/22/2015 21:31:52</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20150422_210000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150422_210000_The_Ed_Show/MSNBCW_20150422_210000_The_Ed_Show.thumbs/MSNBCW_20150422_210000_The_Ed_Show_001875.jpg</field>
+<field name="snippet">'rising tide: all about climate change.' stay with us, we're right back. i'm hampton pearson with your cnbc market wrap. stocks end higher on another big earnings day. the dow climbs 88. the s&p adds 10. the nasdaq rises by 21 points.</field>
+</doc>
+</add>

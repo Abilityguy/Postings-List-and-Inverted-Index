@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190908_060000_Watters_World#start/35/end/70</field>
+<field name="datetime">9/8/2019 6:00:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Watters World</field>
+<field name="showid">FOXNEWSW_20190908_060000_Watters_World</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190908_060000_Watters_World/FOXNEWSW_20190908_060000_Watters_World.thumbs/FOXNEWSW_20190908_060000_Watters_World_000029.jpg</field>
+<field name="snippet">cnn's 7-hour town hall on climate change. life on earth is at risk. we are fighting for the survival of the planet earth. this u.n. report says i guess it's 11 years we have left. this is on par with winning</field>
+</doc>
+</add>

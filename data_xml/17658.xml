@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170111_180000_Happening_Now#start/525/end/560</field>
+<field name="datetime">1/11/2017 18:09:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20170111_180000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170111_180000_Happening_Now/FOXNEWSW_20170111_180000_Happening_Now.thumbs/FOXNEWSW_20170111_180000_Happening_Now_000507.jpg</field>
+<field name="snippet">the climate agreements, international climate change funding as a part of that. the obama admin's ration is unilaterally pledging $3 billion to the u.n. green climate fund. the initiation has requested 1.3 billion for global climate change initiatives in this</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200908.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20090804_030000_The_Rachel_Maddow_Show#start/307/end/342</field>
+<field name="datetime">8/4/2009 3:05:22</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBC_20090804_030000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20090804_030000_The_Rachel_Maddow_Show/MSNBC_20090804_030000_The_Rachel_Maddow_Show.thumbs/MSNBC_20090804_030000_The_Rachel_Maddow_Show_000296.jpg</field>
+<field name="snippet">when the climate change bill came before the house last month, the democratic congressman named tom parello of virginia received a letter purportedly from a nonprofit hispanic group in his district and the letter urged him to oppose the cap and trade legislation.</field>
+</doc>
+</add>

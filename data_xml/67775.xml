@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190222_110000_BBC_Newsroom_Live#start/3157/end/3192</field>
+<field name="datetime">2/22/2019 11:52:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190222_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190222_110000_BBC_Newsroom_Live/BBCNEWS_20190222_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190222_110000_BBC_Newsroom_Live_003148.jpg</field>
+<field name="snippet">a new report by the un has found that the animals and plants vital for feeding the world are disappearing by the day. they found that nearly 1000 wild food species are decreasing in abundance, about a quarter of livestock breeds are at risk of extinction, and a third of the world's fish stocks are overfished. scientists say that climate change,</field>
+</doc>
+</add>

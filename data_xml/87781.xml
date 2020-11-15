@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191223_170000_BBC_News#start/1567/end/1602</field>
+<field name="datetime">12/23/2019 17:26:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191223_170000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191223_170000_BBC_News/BBCNEWS_20191223_170000_BBC_News.thumbs/BBCNEWS_20191223_170000_BBC_News_001557.jpg</field>
+<field name="snippet">despite conceding that climate change is a factor in the extreme hot weather fuelling the country's bushfires. despite the heat easing today, more than 100 fires continue to burn across the state of new south wales. phil mercer has more.</field>
+</doc>
+</add>

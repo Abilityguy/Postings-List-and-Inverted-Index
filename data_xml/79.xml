@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201009.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100914_180000_MSNBC_News_Live#start/2168/end/2203</field>
+<field name="datetime">9/14/2010 18:36:23</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100914_180000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100914_180000_MSNBC_News_Live/MSNBC_20100914_180000_MSNBC_News_Live.thumbs/MSNBC_20100914_180000_MSNBC_News_Live_002160.jpg</field>
+<field name="snippet">forests in yellow stone national park, that they're being impacted by global warming. thus, the bears aren't looking for food and looking for other places to get an easy meal.</field>
+</doc>
+</add>

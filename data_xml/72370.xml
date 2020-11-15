@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201610.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161025_190000_MSNBC_Live_With_Kate_Snow#start/206/end/241</field>
+<field name="datetime">10/25/2016 19:03:41</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Kate Snow</field>
+<field name="showid">MSNBCW_20161025_190000_MSNBC_Live_With_Kate_Snow</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161025_190000_MSNBC_Live_With_Kate_Snow/MSNBCW_20161025_190000_MSNBC_Live_With_Kate_Snow.thumbs/MSNBCW_20161025_190000_MSNBC_Live_With_Kate_Snow_000208.jpg</field>
+<field name="snippet">are flooding and the ocean is rising. and what we've got to do is make sure that this issue, fighting climate change, creating clean renewable energy jobs, stays at the top of the priorities.</field>
+</doc>
+</add>

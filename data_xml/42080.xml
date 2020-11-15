@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201103.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110331_080000_The_Rachel_Maddow_Show#start/3584/end/3619</field>
+<field name="datetime">3/31/2011 8:59:59</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBC_20110331_080000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20110331_080000_The_Rachel_Maddow_Show/MSNBC_20110331_080000_The_Rachel_Maddow_Show.thumbs/MSNBC_20110331_080000_The_Rachel_Maddow_Show_003563.jpg</field>
+<field name="snippet">everybody gets nuclear power is better than fossil fuels in terms of carbon emissions and climate change, but making that case is not the same as reassuring the country that nuclear power is safe. how long after a power outage could the battery</field>
+</doc>
+</add>

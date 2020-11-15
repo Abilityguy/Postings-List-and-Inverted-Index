@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201107.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110710_100000_FOX_and_Friends_Sunday#start/9850/end/9885</field>
+<field name="datetime">7/10/2011 12:44:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWS_20110710_100000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110710_100000_FOX_and_Friends_Sunday/FOXNEWS_20110710_100000_FOX_and_Friends_Sunday.thumbs/FOXNEWS_20110710_100000_FOX_and_Friends_Sunday_009840.jpg</field>
+<field name="snippet">that's almost five times the yearly gdp of the united states. ainsley: and things that have nothing to do with climate change. joining us for more is</field>
+</doc>
+</add>

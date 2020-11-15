@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201501.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150122_100000_FOX_and_Friends_First#start/1006/end/1041</field>
+<field name="datetime">1/22/2015 10:17:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends First</field>
+<field name="showid">FOXNEWSW_20150122_100000_FOX_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150122_100000_FOX_and_Friends_First/FOXNEWSW_20150122_100000_FOX_and_Friends_First.thumbs/FOXNEWSW_20150122_100000_FOX_and_Friends_First_001005.jpg</field>
+<field name="snippet">flying it could cost a whole lot. it is a case of hypocrisy at its worst. 17-00 -- 1700 private jets are coming to talk about global warming.</field>
+</doc>
+</add>

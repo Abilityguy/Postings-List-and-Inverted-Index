@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201404.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140409_220000_Special_Report_With_Bret_Baier#start/1992/end/2027</field>
+<field name="datetime">4/9/2014 22:33:27</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20140409_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140409_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20140409_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20140409_220000_Special_Report_With_Bret_Baier_001965.jpg</field>
+<field name="snippet">the new report warming from greenhouse gases will be so small to be indiscernible from natural variability. the impact on plants, animals and humans have been mostly positive and the cost of trying to limit emissions vastly</field>
+</doc>
+</add>

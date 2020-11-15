@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190523_050000_Breakfast#start/4171/end/4206</field>
+<field name="datetime">5/23/2019 6:09:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190523_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190523_050000_Breakfast/BBCNEWS_20190523_050000_Breakfast.thumbs/BBCNEWS_20190523_050000_Breakfast_004168.jpg</field>
+<field name="snippet">asking for help in tackling climate change. the letter highlights the danger of deforestation, carbon emissions and species extinction, and asks for a significant investment to prevent what it calls an 'ecological catastrophe.' there are calls for nato to do more</field>
+</doc>
+</add>

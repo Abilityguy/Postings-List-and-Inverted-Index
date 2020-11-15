@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201904.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190422_190000_MSNBC_Live_With_Ali_Velshi#start/1847/end/1882</field>
+<field name="datetime">4/22/2019 19:31:02</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190422_190000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190422_190000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190422_190000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190422_190000_MSNBC_Live_With_Ali_Velshi_001829.jpg</field>
+<field name="snippet">let's take a quick look at that. the goal is to cut global emissions 40 to 60% below the levels they were at in 2010 by 2030 and neutralize human caused greenhouse gases entirely by</field>
+</doc>
+</add>

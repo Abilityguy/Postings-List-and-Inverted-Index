@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201201.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120120_000000_Hardball_With_Chris_Matthews#start/1786/end/1821</field>
+<field name="datetime">1/20/2012 0:30:01</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball With Chris Matthews</field>
+<field name="showid">MSNBCW_20120120_000000_Hardball_With_Chris_Matthews</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120120_000000_Hardball_With_Chris_Matthews/MSNBCW_20120120_000000_Hardball_With_Chris_Matthews.thumbs/MSNBCW_20120120_000000_Hardball_With_Chris_Matthews_001766.jpg</field>
+<field name="snippet">you think. 'with someone like newt gingrich, it's a different kettle of fish. because as a private citizen, he was for certain important health care reforms and believed in climate change and believed there had to be a strong reaction to it. now he's like romney. neither can say what they believe to be true and get</field>
+</doc>
+</add>

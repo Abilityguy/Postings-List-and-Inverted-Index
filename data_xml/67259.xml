@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140530_100000_Morning_Joe#start/5916/end/5951</field>
+<field name="datetime">5/30/2014 11:38:51</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20140530_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140530_100000_Morning_Joe/MSNBCW_20140530_100000_Morning_Joe.thumbs/MSNBCW_20140530_100000_Morning_Joe_005895.jpg</field>
+<field name="snippet">the president? not you, of course. i think you've got some noble, i won't call you a supporter. he skipped to climate change. he didn't even try to talk about</field>
+</doc>
+</add>

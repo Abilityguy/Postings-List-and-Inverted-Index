@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191109_170000_BBC_News#start/3175/end/3210</field>
+<field name="datetime">11/9/2019 17:53:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191109_170000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191109_170000_BBC_News/BBCNEWS_20191109_170000_BBC_News.thumbs/BBCNEWS_20191109_170000_BBC_News_003147.jpg</field>
+<field name="snippet">loo in the arctic? for the last 15 years, david has been reporting on climate change from all over the world. what this is all about is how rapidly the country should reduce its carbon emissions to zero. the green party want to do that by 2030 and spend £100 billion a year doing it.</field>
+</doc>
+</add>

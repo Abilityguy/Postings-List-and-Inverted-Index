@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201110.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111003_100000_FOX_and_Friends#start/9997/end/10032</field>
+<field name="datetime">10/3/2011 12:46:52</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20111003_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111003_100000_FOX_and_Friends/FOXNEWSW_20111003_100000_FOX_and_Friends.thumbs/FOXNEWSW_20111003_100000_FOX_and_Friends_009986.jpg</field>
+<field name="snippet">to back, a lot of them aren't, but wall street backed obama heavily. much more heavily than anybody else. so now they're fighting wall street, which is an interesting little dichotomy. steve: and george, it's not just wall street these guys are fighting. they're fighting global warming, high gas prices, student loans.</field>
+</doc>
+</add>

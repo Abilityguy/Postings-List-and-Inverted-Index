@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190604_020000_BBC_News#start/368/end/403</field>
+<field name="datetime">6/4/2019 2:06:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190604_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190604_020000_BBC_News/BBCNEWS_20190604_020000_BBC_News.thumbs/BBCNEWS_20190604_020000_BBC_News_000359.jpg</field>
+<field name="snippet">there was tea with prince charles at clarence house, where, i understand, the heir to the throne did raise the issue of climate change, an issue where the two men don't see eye to eye. and as for the duchess, well maybe she had something in her eye.</field>
+</doc>
+</add>

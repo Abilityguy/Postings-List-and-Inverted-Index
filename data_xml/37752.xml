@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091019_000000_Huckabee#start/514/end/549</field>
+<field name="datetime">10/19/2009 0:08:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Huckabee</field>
+<field name="showid">FOXNEWS_20091019_000000_Huckabee</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091019_000000_Huckabee/FOXNEWS_20091019_000000_Huckabee.thumbs/FOXNEWS_20091019_000000_Huckabee_000510.jpg</field>
+<field name="snippet">extra co 2. mike: nancy, i want to ask you, do you believe that we're in the stage of global warming? do you think that is in fact taking place? well, i'm not the scientist that john is. but i do listen to other scientists and i think at this</field>
+</doc>
+</add>

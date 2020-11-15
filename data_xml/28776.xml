@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201610.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161030_040000_Justice_With_Judge_Jeanine#start/0/end/30</field>
+<field name="datetime">10/30/2016 4:00:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Justice With Judge Jeanine</field>
+<field name="showid">FOXNEWSW_20161030_040000_Justice_With_Judge_Jeanine</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161030_040000_Justice_With_Judge_Jeanine/FOXNEWSW_20161030_040000_Justice_With_Judge_Jeanine.thumbs/FOXNEWSW_20161030_040000_Justice_With_Judge_Jeanine_000058.jpg</field>
+<field name="snippet">matters segment, in our series on climate change. this one, thanks for inviting us in tonight. that's it for this special report on a saturday. fair, balanced, and unafraid.</field>
+</doc>
+</add>

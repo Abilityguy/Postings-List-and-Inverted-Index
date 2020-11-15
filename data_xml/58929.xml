@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181126_220000_BBC_News_at_Ten#start/815/end/850</field>
+<field name="datetime">11/26/2018 22:13:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20181126_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181126_220000_BBC_News_at_Ten/BBCNEWS_20181126_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20181126_220000_BBC_News_at_Ten_000807.jpg</field>
+<field name="snippet">and this, the uk climate projections, are really at the edge of new research. and they shouldn't be taken with the same confidence that we have that climate change is a threat. a thermal image of last summer's heatwave.</field>
+</doc>
+</add>

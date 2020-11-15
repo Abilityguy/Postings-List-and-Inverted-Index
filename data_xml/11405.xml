@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190821_020000_BBC_News#start/363/end/398</field>
+<field name="datetime">8/21/2019 2:06:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190821_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190821_020000_BBC_News/BBCNEWS_20190821_020000_BBC_News.thumbs/BBCNEWS_20190821_020000_BBC_News_000359.jpg</field>
+<field name="snippet">on a report on climate change and sustainability in brazil. how serious would you say this problem is? it is quite serious. as you mentioned, wildfires are up 83%</field>
+</doc>
+</add>

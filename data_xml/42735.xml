@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201102.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110208_060000_The_Ed_Show#start/1186/end/1221</field>
+<field name="datetime">2/8/2011 6:20:01</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBC_20110208_060000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20110208_060000_The_Ed_Show/MSNBC_20110208_060000_The_Ed_Show.thumbs/MSNBC_20110208_060000_The_Ed_Show_001165.jpg</field>
+<field name="snippet">the republican table in washington. let's be up front about this now, folks. now they are the table. the koch industries is one of the biggest polluters in the united states. as we reported here on 'the ed show' the kochs stand to lose up to $40 billion a year under proposed climate change legislation.</field>
+</doc>
+</add>

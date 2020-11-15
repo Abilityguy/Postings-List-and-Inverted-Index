@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181214_000000_Newsday#start/1118/end/1153</field>
+<field name="datetime">12/14/2018 0:18:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20181214_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181214_000000_Newsday/BBCNEWS_20181214_000000_Newsday.thumbs/BBCNEWS_20181214_000000_Newsday_001108.jpg</field>
+<field name="snippet">what's striking is the sheer scale of the event with nearly 200 governments represented here. they've all brought their own agendas so getting them all to agree on what to do about climate change is a massive challenge. outside the conference, a reminder of why this is hard. burning fuels like coal releases gases that warm the planet. but many countries, including</field>
+</doc>
+</add>

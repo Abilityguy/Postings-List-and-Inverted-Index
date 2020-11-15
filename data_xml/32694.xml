@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091209_040000_The_OReilly_Factor#start/1402/end/1437</field>
+<field name="datetime">12/9/2009 4:23:37</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20091209_040000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091209_040000_The_OReilly_Factor/FOXNEWS_20091209_040000_The_OReilly_Factor.thumbs/FOXNEWS_20091209_040000_The_OReilly_Factor_001380.jpg</field>
+<field name="snippet">example, there was only one major industrialized economy in the world that grew its economy that year and reduced the absolute amount of greenhouse gases and that was the united states of america. and during the campaign last year, we heard barack obama say we must reduce greenhouse gas</field>
+</doc>
+</add>

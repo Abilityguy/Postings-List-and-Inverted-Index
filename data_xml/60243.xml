@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181004_230000_Newsday#start/1326/end/1361</field>
+<field name="datetime">10/4/2018 23:22:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20181004_230000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181004_230000_Newsday/BBCNEWS_20181004_230000_Newsday.thumbs/BBCNEWS_20181004_230000_Newsday_001318.jpg</field>
+<field name="snippet">heatwaves - these are the potential impacts of global warming. many of the world's most vulnerable countries say that the world must do more to limit the average rise in global temperatures. one of those is vietnam. from there, our science editor david shukman reports. the painful sight of homes lost to the waves.</field>
+</doc>
+</add>

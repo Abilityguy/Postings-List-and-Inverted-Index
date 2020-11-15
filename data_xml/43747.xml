@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151201_230000_MSNBC_Live#start/810/end/845</field>
+<field name="datetime">12/1/2015 23:13:45</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20151201_230000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151201_230000_MSNBC_Live/MSNBCW_20151201_230000_MSNBC_Live.thumbs/MSNBCW_20151201_230000_MSNBC_Live_000796.jpg</field>
+<field name="snippet">climate change. not everyone, though, agrees the issue should be center stage. the mayor of one city that experienced the wrath of superstorm sandy weighs in. for her she's agreed to give it up.</field>
+</doc>
+</add>

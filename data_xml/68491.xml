@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201309.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130918_150000_Happening_Now#start/3011/end/3046</field>
+<field name="datetime">9/18/2013 15:50:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20130918_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130918_150000_Happening_Now/FOXNEWSW_20130918_150000_Happening_Now.thumbs/FOXNEWSW_20130918_150000_Happening_Now_002985.jpg</field>
+<field name="snippet">raising doubts about global warming. we will have a live report coming up. and republicans looking for answers on benghazi. showing the senior state department staff and officials were let off the hook. we will have that next.</field>
+</doc>
+</add>

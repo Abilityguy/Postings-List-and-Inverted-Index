@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151201_080000_All_In_With_Chris_Hayes#start/3359/end/3394</field>
+<field name="datetime">12/1/2015 8:56:14</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20151201_080000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151201_080000_All_In_With_Chris_Hayes/MSNBCW_20151201_080000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20151201_080000_All_In_With_Chris_Hayes_003345.jpg</field>
+<field name="snippet">hole in the ozone layer, we had to fix that. then in the '90s we had an acid rain problem, really problematic, we had to do something to fix that. now we have this global warming problem. we keep putting stuff in the air and it's making it really hot and storms are getting stronger and ice is melting and oceans</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100423_070000_Red_Eye#start/138/end/173</field>
+<field name="datetime">4/23/2010 7:02:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20100423_070000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100423_070000_Red_Eye/FOXNEWS_20100423_070000_Red_Eye.thumbs/FOXNEWS_20100423_070000_Red_Eye_000116.jpg</field>
+<field name="snippet">our brave troops safely home from afghanistan, keeping our streets free of terrorism. building alliances in europe against nuclear weapons, against climate change, against poverty, and to deal with our banks. now, not everyone has the answers, but i say get the big</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201408.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140804_200000_NOW_With_Alex_Wagner#start/2273/end/2308</field>
+<field name="datetime">8/4/2014 20:38:08</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20140804_200000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140804_200000_NOW_With_Alex_Wagner/MSNBCW_20140804_200000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20140804_200000_NOW_With_Alex_Wagner_002266.jpg</field>
+<field name="snippet">regulations and climate change, algae blooms are back and it's unclear whether we'll do anything about it. over the past decades agriculture around lake erie steady increased spilling more fertilizer into the great lake</field>
+</doc>
+</add>

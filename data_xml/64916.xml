@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190301_210000_Your_World_With_Neil_Cavuto#start/1179/end/1214</field>
+<field name="datetime">3/1/2019 21:19:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20190301_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190301_210000_Your_World_With_Neil_Cavuto/FOXNEWSW_20190301_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20190301_210000_Your_World_With_Neil_Cavuto_001167.jpg</field>
+<field name="snippet">among democrats that there's the risk that she could be putting the moderates in a tough spot. look, i think this whole situation is a really good early preview of the tensions that we'll see in the house as the majority tries to tackle issues like climate change, medicare</field>
+</doc>
+</add>

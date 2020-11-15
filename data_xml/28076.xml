@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201406.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140605_130000_Americas_Newsroom#start/2457/end/2492</field>
+<field name="datetime">6/5/2014 13:41:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWSW_20140605_130000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140605_130000_Americas_Newsroom/FOXNEWSW_20140605_130000_Americas_Newsroom.thumbs/FOXNEWSW_20140605_130000_Americas_Newsroom_002445.jpg</field>
+<field name="snippet">it's one of the most ambitious steps any station has taken to combat climate change to reduce carbon emission biz 30%. and it will improve our public</field>
+</doc>
+</add>

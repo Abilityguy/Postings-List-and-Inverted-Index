@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201710.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171008_060000_Breakfast#start/2677/end/2712</field>
+<field name="datetime">10/8/2017 6:44:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20171008_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171008_060000_Breakfast/BBCNEWS_20171008_060000_Breakfast.thumbs/BBCNEWS_20171008_060000_Breakfast_002667.jpg</field>
+<field name="snippet">something very, very important to say. we change the agenda over fracking, climate change, energy, raising questions about the commercial arms trade, a whole range of issues. we have been setting that agenda and that is why the role of the green party is as crucial now as</field>
+</doc>
+</add>

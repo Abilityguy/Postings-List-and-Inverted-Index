@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201810.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181011_210000_MTP_Daily#start/2468/end/2503</field>
+<field name="datetime">10/11/2018 21:41:23</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20181011_210000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181011_210000_MTP_Daily/MSNBCW_20181011_210000_MTP_Daily.thumbs/MSNBCW_20181011_210000_MTP_Daily_002458.jpg</field>
+<field name="snippet">take a listen. i'm tired of people debating climate change. it isn't about climate change anymore, it is about climate adaptation. we have to build for our future risk, our past is not the best indicator of what these risks</field>
+</doc>
+</add>

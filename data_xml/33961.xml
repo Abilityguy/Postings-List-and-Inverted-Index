@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091215_140000_Americas_Newsroom#start/1754/end/1789</field>
+<field name="datetime">12/15/2009 14:29:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20091215_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091215_140000_Americas_Newsroom/FOXNEWS_20091215_140000_Americas_Newsroom.thumbs/FOXNEWS_20091215_140000_Americas_Newsroom_001734.jpg</field>
+<field name="snippet">are looking at this as a policy trifecta. helping consumers to save on energy bills, helping on climate change and putting construction workers back to work. this will likely involve tax credits or rebates of some kind</field>
+</doc>
+</add>

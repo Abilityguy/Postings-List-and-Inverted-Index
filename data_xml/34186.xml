@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091207_160000_Happening_Now#start/4578/end/4613</field>
+<field name="datetime">12/7/2009 17:16:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091207_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091207_160000_Happening_Now/FOXNEWS_20091207_160000_Happening_Now.thumbs/FOXNEWS_20091207_160000_Happening_Now_004560.jpg</field>
+<field name="snippet">suggestion of data manipulation and suppression of dissenting views will have no impact on this conference, but that may well be wishful thinking. critics of the climate change agreement will certainly use this to do so, it really plays into the hands of critics in the united states most of all.</field>
+</doc>
+</add>

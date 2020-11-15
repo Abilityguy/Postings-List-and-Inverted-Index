@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201202.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120220_220000_The_Five#start/914/end/949</field>
+<field name="datetime">2/20/2012 22:15:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20120220_220000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120220_220000_The_Five/FOXNEWSW_20120220_220000_The_Five.thumbs/FOXNEWSW_20120220_220000_The_Five_000900.jpg</field>
+<field name="snippet">know you got a snowball's chance in hell to being re-elected. bob, that is what some people are under. dana: with global warming you don't have any snowball. bob: now that you made the point, get it off the table. now i'll ask you a question.</field>
+</doc>
+</add>

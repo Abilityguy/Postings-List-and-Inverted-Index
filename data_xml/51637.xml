@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_040000_BBC_News#start/1705/end/1740</field>
+<field name="datetime">12/3/2018 4:28:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181203_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_040000_BBC_News/BBCNEWS_20181203_040000_BBC_News.thumbs/BBCNEWS_20181203_040000_BBC_News_001678.jpg</field>
+<field name="snippet">still chilly in the north, mild in the south. bye bye. this is bbc news. the headlines: the united nations climate chief has warned that global warming is posing a greater risk to humanity than ever before. she told an international conference on climate change that this year</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201807.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180726_130000_Afternoon_Live#start/6077/end/6112</field>
+<field name="datetime">7/26/2018 14:41:32</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20180726_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180726_130000_Afternoon_Live/BBCNEWS_20180726_130000_Afternoon_Live.thumbs/BBCNEWS_20180726_130000_Afternoon_Live_006057.jpg</field>
+<field name="snippet">now look at this year. it's all across the northern hemisphere, where it is summer. scientists have been studying whether there is a link to climate change.</field>
+</doc>
+</add>

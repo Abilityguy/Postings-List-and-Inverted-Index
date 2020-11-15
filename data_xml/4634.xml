@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170618_020000_BBC_News#start/692/end/727</field>
+<field name="datetime">6/18/2017 2:11:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170618_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170618_020000_BBC_News/BBCNEWS_20170618_020000_BBC_News.thumbs/BBCNEWS_20170618_020000_BBC_News_000687.jpg</field>
+<field name="snippet">a precarious time for british politics. is that not a risky strategy? well, the risky strategy is the government at the moment. we have a coalition of chaos in power, barely, with a government which, at the moment, is trying to rely on the support of some homophobic, anti-choice climate</field>
+</doc>
+</add>

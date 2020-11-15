@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190130_190000_Beyond_100_Days#start/1884/end/1919</field>
+<field name="datetime">1/30/2019 19:31:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20190130_190000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190130_190000_Beyond_100_Days/BBCNEWS_20190130_190000_Beyond_100_Days.thumbs/BBCNEWS_20190130_190000_Beyond_100_Days_001857.jpg</field>
+<field name="snippet">are they right? well, i often say that weather is your mood and climate is your personality. so one cold day or week says nothing about climate change. so that's really an unfortunate statement. but what we have is the polar vortex weakening. the polar vortex has been around</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201409.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140924_100000_FOX_and_Friends#start/8984/end/9019</field>
+<field name="datetime">9/24/2014 12:29:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20140924_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140924_100000_FOX_and_Friends/FOXNEWSW_20140924_100000_FOX_and_Friends.thumbs/FOXNEWSW_20140924_100000_FOX_and_Friends_008985.jpg</field>
+<field name="snippet">storms. we haven't had any hurricanes this year, for example. so i think that this is a kind of fantasy world that they're living in. i tell you what, great debate. we thank you both. bob and myron for joining us live to talk about climate change. thank you. thank you.</field>
+</doc>
+</add>

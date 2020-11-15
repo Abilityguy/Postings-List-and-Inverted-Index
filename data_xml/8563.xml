@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190907_040000_Tucker_Carlson_Tonight#start/3556/end/3591</field>
+<field name="datetime">9/7/2019 4:59:31</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190907_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190907_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190907_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190907_040000_Tucker_Carlson_Tonight_003538.jpg</field>
+<field name="snippet">during that cnn seven-hour commercial for the republican party, you heard the climate change, whatever it was, they want to ban everything. these are the worst kind of hypocrites. i have a list for you, okay? here's what they want to ban.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190611_080000_BBC_News_at_Nine#start/1450/end/1485</field>
+<field name="datetime">6/11/2019 8:24:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190611_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190611_080000_BBC_News_at_Nine/BBCNEWS_20190611_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190611_080000_BBC_News_at_Nine_001437.jpg</field>
+<field name="snippet">this pollution is coming from the diesel generator that powers the island's homes. transporting the diesel is expensive, and it's fuelling climate change. the local government want clean and renewable energy instead. but wind power and solar</field>
+</doc>
+</add>

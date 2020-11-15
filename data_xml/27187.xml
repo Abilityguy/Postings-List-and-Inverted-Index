@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100218_110000_FOX_and_Friends#start/1631/end/1666</field>
+<field name="datetime">2/18/2010 11:27:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100218_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100218_110000_FOX_and_Friends/FOXNEWS_20100218_110000_FOX_and_Friends.thumbs/FOXNEWS_20100218_110000_FOX_and_Friends_001614.jpg</field>
+<field name="snippet">day or two at dickmorris.com absolutely free. always a pleasure. thank you for joining us from d.c. thank you. see you, dick. 27 minute past the top of the hour. breaking news on the climate change controversy. whose head is rolling this morning?</field>
+</doc>
+</add>

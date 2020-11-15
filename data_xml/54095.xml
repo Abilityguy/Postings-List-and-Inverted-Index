@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201306.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130620_040000_The_Rachel_Maddow_Show#start/580/end/615</field>
+<field name="datetime">6/20/2013 4:09:55</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBCW_20130620_040000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130620_040000_The_Rachel_Maddow_Show/MSNBCW_20130620_040000_The_Rachel_Maddow_Show.thumbs/MSNBCW_20130620_040000_The_Rachel_Maddow_Show_000555.jpg</field>
+<field name="snippet">the president said we must confront the crisis of climate change before it is too late. the grim alternative affects all nations. more severe storms, more famine and floods.</field>
+</doc>
+</add>

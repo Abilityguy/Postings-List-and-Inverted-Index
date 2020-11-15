@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201506.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150608_100000_Morning_Joe#start/10827/end/10862</field>
+<field name="datetime">6/8/2015 13:00:42</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20150608_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150608_100000_Morning_Joe/MSNBCW_20150608_100000_Morning_Joe.thumbs/MSNBCW_20150608_100000_Morning_Joe_010816.jpg</field>
+<field name="snippet">well soon as that meeting is over president obama will be holding a news conference at 10:00 a.m. eastern time. we'll bring it to you live. isis is just one of a packed agenda. climate change energy, the primary focus of a meeting</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140510_160000_Weekends_With_Alex_Witt#start/5158/end/5193</field>
+<field name="datetime">5/10/2014 17:26:13</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20140510_160000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140510_160000_Weekends_With_Alex_Witt/MSNBCW_20140510_160000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20140510_160000_Weekends_With_Alex_Witt_005145.jpg</field>
+<field name="snippet">an alarming new report on climate change says a problem once considered an issue for the distant future has moved firmly into the president. devastating effects are already being felt and will impact every single american. is it too late to do anything</field>
+</doc>
+</add>

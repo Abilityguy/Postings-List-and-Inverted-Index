@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201504.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150408_090000_First_Look#start/962/end/997</field>
+<field name="datetime">4/8/2015 9:16:17</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20150408_090000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150408_090000_First_Look/MSNBCW_20150408_090000_First_Look.thumbs/MSNBCW_20150408_090000_First_Look_000945.jpg</field>
+<field name="snippet">president obama says climate change is harming the health of americans. at a roundtable discussion yesterday, he warned of intensified heat raising the risk of strokes and adssthma attacks. so, we have got to do better in protecting vulnerable americans.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201505.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150511_160000_Outnumbered#start/270/end/305</field>
+<field name="datetime">5/11/2015 16:04:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Outnumbered</field>
+<field name="showid">FOXNEWSW_20150511_160000_Outnumbered</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150511_160000_Outnumbered/FOXNEWSW_20150511_160000_Outnumbered.thumbs/FOXNEWSW_20150511_160000_Outnumbered_000255.jpg</field>
+<field name="snippet">this is one of the highest he has ever seen. he went on to express his concern over the administration's response to these threat levels. basically saying, look at how much funding they're throwing at climate change compared to homegrown terrorists?</field>
+</doc>
+</add>

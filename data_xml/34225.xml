@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091220_210000_Americas_News_HQ#start/5210/end/5245</field>
+<field name="datetime">12/20/2009 22:27:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWS_20091220_210000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091220_210000_Americas_News_HQ/FOXNEWS_20091220_210000_Americas_News_HQ.thumbs/FOXNEWS_20091220_210000_Americas_News_HQ_005208.jpg</field>
+<field name="snippet">about climate change and the health care. it's not what people are worried about. julie: yeah, all right, michael good win, thank you very much, we appreciate you coming on as always and a reminder, you can read his column in its entirety, foxnews.com/politics.</field>
+</doc>
+</add>

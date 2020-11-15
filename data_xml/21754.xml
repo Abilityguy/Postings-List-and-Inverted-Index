@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180816_073000_BBC_Business_Live#start/976/end/1011</field>
+<field name="datetime">8/16/2018 7:46:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Business Live</field>
+<field name="showid">BBCNEWS_20180816_073000_BBC_Business_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180816_073000_BBC_Business_Live/BBCNEWS_20180816_073000_BBC_Business_Live.thumbs/BBCNEWS_20180816_073000_BBC_Business_Live_000958.jpg</field>
+<field name="snippet">there is a big focus on electric cars but that's not the only part of the solution. all together transport is estimated to account for 14% of all the world's greenhouse gas emissions. one way of cutting back is to find alternative fuels.</field>
+</doc>
+</add>

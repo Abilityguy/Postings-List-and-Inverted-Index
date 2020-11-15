@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190425_120000_BBC_News_at_One#start/625/end/660</field>
+<field name="datetime">4/25/2019 12:10:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190425_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190425_120000_BBC_News_at_One/BBCNEWS_20190425_120000_BBC_News_at_One.thumbs/BBCNEWS_20190425_120000_BBC_News_at_One_000597.jpg</field>
+<field name="snippet">a profit of £1.6 billion. several climate change protestors have been arrested after they blocked the main entrance to the london stock exchange. elsewhere, protesters have been removed from the top of a train at canary wharf station in east london. the extinction rebellion group says today will mark the end of a phase</field>
+</doc>
+</add>

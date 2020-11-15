@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_130000_Afternoon_Live#start/7587/end/7622</field>
+<field name="datetime">10/8/2018 15:06:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20181008_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_130000_Afternoon_Live/BBCNEWS_20181008_130000_Afternoon_Live.thumbs/BBCNEWS_20181008_130000_Afternoon_Live_007588.jpg</field>
+<field name="snippet">that the nobel prize for economic sciences has been awarded to two men whose work highlights climate change and sustainable growth - william nordhaus and paul romer. the two men will split the prize - with professor nord haus winning for his work on climate change economics and paul romer for his work on economic growth.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201704.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170429_180000_MSNBC_Live#start/67/end/102</field>
+<field name="datetime">4/29/2017 18:01:22</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170429_180000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170429_180000_MSNBC_Live/MSNBCW_20170429_180000_MSNBC_Live.thumbs/MSNBCW_20170429_180000_MSNBC_Live_000057.jpg</field>
+<field name="snippet">hello, i'm stephanie gosk. it's 2:00 out east and 11:00 in the west. president trump's policy on the environment and climate change are under way on his 100th day of presidency.</field>
+</doc>
+</add>

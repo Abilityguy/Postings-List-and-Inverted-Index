@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181124_070000_Breakfast#start/1824/end/1859</field>
+<field name="datetime">11/24/2018 7:30:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181124_070000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181124_070000_Breakfast/BBCNEWS_20181124_070000_Breakfast.thumbs/BBCNEWS_20181124_070000_Breakfast_001797.jpg</field>
+<field name="snippet">stabbed in east london. british transport police said the male officer was attacked with a knife outside ilford train station. his injuries are not thought to be life-threatening. climate change will cost the us hundreds of billions of dollars by the end of the centrury, according to a major government report.</field>
+</doc>
+</add>

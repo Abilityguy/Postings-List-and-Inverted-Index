@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091208_230000_Special_Report_With_Bret_Baier#start/522/end/557</field>
+<field name="datetime">12/8/2009 23:08:57</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091208_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091208_230000_Special_Report_With_Bret_Baier/FOXNEWS_20091208_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091208_230000_Special_Report_With_Bret_Baier_000505.jpg</field>
+<field name="snippet">the s&p 500 fell 11. nasdaq was off 16 2/3. is the president getting a little thin skinned with members of his own party? and global warming scientists are straying thick skinned in the face of skepticism over the</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200121_033000_The_Travel_Show#start/198/end/233</field>
+<field name="datetime">1/21/2020 3:33:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Travel Show</field>
+<field name="showid">BBCNEWS_20200121_033000_The_Travel_Show</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200121_033000_The_Travel_Show/BBCNEWS_20200121_033000_The_Travel_Show.thumbs/BBCNEWS_20200121_033000_The_Travel_Show_000178.jpg</field>
+<field name="snippet">vulnerable to the effects of climate change. in 2011, a devastating forest fire burned through 6500 acres, taking more than 100 days to put out. i am meeting the man leading</field>
+</doc>
+</add>

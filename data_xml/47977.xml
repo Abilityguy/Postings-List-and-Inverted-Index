@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201505.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150505_210000_The_Ed_Show#start/2176/end/2211</field>
+<field name="datetime">5/5/2015 21:36:31</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20150505_210000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150505_210000_The_Ed_Show/MSNBCW_20150505_210000_The_Ed_Show.thumbs/MSNBCW_20150505_210000_The_Ed_Show_002175.jpg</field>
+<field name="snippet">climate change is happening. we're really standing here at ground zero. there's just about nowhere else on the planet where there's more at risk from sea level rise so fast. because of global warming, we are facing an accelerating rise</field>
+</doc>
+</add>

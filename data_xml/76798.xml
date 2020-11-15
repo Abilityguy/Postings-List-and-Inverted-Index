@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190512_070000_Breakfast#start/2474/end/2509</field>
+<field name="datetime">5/12/2019 7:41:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190512_070000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190512_070000_Breakfast/BBCNEWS_20190512_070000_Breakfast.thumbs/BBCNEWS_20190512_070000_Breakfast_002457.jpg</field>
+<field name="snippet">us good morning. nice to see you. tell us how this idea came about, it's quite new, isn't it? it was a group of mums that literallyjust got together. these are all unpaid mothers that are feeling passionate about climate change, there is no</field>
+</doc>
+</add>

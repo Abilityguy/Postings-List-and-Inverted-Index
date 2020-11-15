@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201508.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150830_090000_Fox_Report_Saturday#start/1793/end/1828</field>
+<field name="datetime">8/30/2015 9:30:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox Report Saturday</field>
+<field name="showid">FOXNEWSW_20150830_090000_Fox_Report_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150830_090000_Fox_Report_Saturday/FOXNEWSW_20150830_090000_Fox_Report_Saturday.thumbs/FOXNEWSW_20150830_090000_Fox_Report_Saturday_001785.jpg</field>
+<field name="snippet">susan rice meeting with top chinese officials in beijing. the white house says they talked about expanding cooperation on iran, north korea and global warming. china's president meantime will make a state visit to the white house next month. fox news of course is</field>
+</doc>
+</add>

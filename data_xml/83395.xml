@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191015_043000_Business_Briefing#start/67/end/102</field>
+<field name="datetime">10/15/2019 4:31:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Business Briefing</field>
+<field name="showid">BBCNEWS_20191015_043000_Business_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191015_043000_Business_Briefing/BBCNEWS_20191015_043000_Business_Briefing.thumbs/BBCNEWS_20191015_043000_Business_Briefing_000058.jpg</field>
+<field name="snippet">now, do we want our banks to continue financing fossil fuel projects such as oil exploration? well, europe's climate change credentials face an acid test today. eu finance ministers will decide whether to back a plan by the bloc's lending arm, the european investment bank, the world's biggest multilateral lender, to end loans to coal, oil and gas companies</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201001.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100128_030000_MSNBC_Special_Coverage#start/758/end/793</field>
+<field name="datetime">1/28/2010 3:12:53</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Special Coverage</field>
+<field name="showid">MSNBC_20100128_030000_MSNBC_Special_Coverage</field>
+<field name="preview">https://archive.org/download/MSNBC_20100128_030000_MSNBC_Special_Coverage/MSNBC_20100128_030000_MSNBC_Special_Coverage.thumbs/MSNBC_20100128_030000_MSNBC_Special_Coverage_000746.jpg</field>
+<field name="snippet">we have gone from a bystander to a leader in the fight against climate change. we are helping developing countries to feed themselves and continuing the fight against hiv-aids. we are launching a new</field>
+</doc>
+</add>

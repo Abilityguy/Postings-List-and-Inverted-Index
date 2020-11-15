@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201808.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20180815_210000_MTP_Daily#start/3546/end/3581</field>
+<field name="datetime">8/15/2018 21:59:21</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20180815_210000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20180815_210000_MTP_Daily/MSNBCW_20180815_210000_MTP_Daily.thumbs/MSNBCW_20180815_210000_MTP_Daily_003538.jpg</field>
+<field name="snippet">interior saying wildfires are caused, in part, by overzealous activists, but not by climate change. and perhaps he has a point. seriously, maybe what we need is less interior.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191128_130000_MSNBC_Live#start/2455/end/2490</field>
+<field name="datetime">11/28/2019 13:41:10</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20191128_130000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191128_130000_MSNBC_Live/MSNBCW_20191128_130000_MSNBC_Live.thumbs/MSNBCW_20191128_130000_MSNBC_Live_002429.jpg</field>
+<field name="snippet">designed to prevent fires. nbc's cal perry talked with firefighters there about how climate change is causing wildfires to get bigger and spent a day with electricity crews prepping to avoid the next round of fires. reporter: 81-year-old</field>
+</doc>
+</add>

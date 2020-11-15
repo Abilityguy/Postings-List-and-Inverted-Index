@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200114_133000_BBC_News#start/1189/end/1224</field>
+<field name="datetime">1/14/2020 13:50:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200114_133000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200114_133000_BBC_News/BBCNEWS_20200114_133000_BBC_News.thumbs/BBCNEWS_20200114_133000_BBC_News_001169.jpg</field>
+<field name="snippet">an extremely hot, an extremely dry year, and these are the types of inpacts that we can see in a climate where we have only had one degree of global warming so far. as australians experience firsthand the effects of global warming, the message is one we have heard</field>
+</doc>
+</add>

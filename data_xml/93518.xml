@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190705_090000_Victoria_Derbyshire#start/1354/end/1389</field>
+<field name="datetime">7/5/2019 9:22:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20190705_090000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190705_090000_Victoria_Derbyshire/BBCNEWS_20190705_090000_Victoria_Derbyshire.thumbs/BBCNEWS_20190705_090000_Victoria_Derbyshire_001348.jpg</field>
+<field name="snippet">we'll get reaction from a travel writer who doesn't fly and the man tasked with implementing the recommendations from the committee on climate change for hackney council in london. welcome to the bbc.</field>
+</doc>
+</add>

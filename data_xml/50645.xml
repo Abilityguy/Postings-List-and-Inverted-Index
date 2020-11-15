@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201501.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150122_080000_All_In_With_Chris_Hayes#start/1038/end/1073</field>
+<field name="datetime">1/22/2015 8:17:33</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20150122_080000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150122_080000_All_In_With_Chris_Hayes/MSNBCW_20150122_080000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20150122_080000_All_In_With_Chris_Hayes_000915.jpg</field>
+<field name="snippet">today in the year 2015, the world's greatest body voted 98-1 stating that climate change is real, and is not a hoax. that is, i suppose, the good news. the bad news is the united states senate was voting on whether climate change is real in 2015.</field>
+</doc>
+</add>

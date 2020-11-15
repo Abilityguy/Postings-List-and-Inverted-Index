@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201207.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120703_100000_Morning_Joe#start/3669/end/3704</field>
+<field name="datetime">7/3/2012 11:01:24</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20120703_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120703_100000_Morning_Joe/MSNBCW_20120703_100000_Morning_Joe.thumbs/MSNBCW_20120703_100000_Morning_Joe_003660.jpg</field>
+<field name="snippet">degrees today in washington. we'll be getting to that topic, global warming, in a couple of minutes. welcome back to 'morning joe.' katty kay in washington.</field>
+</doc>
+</add>

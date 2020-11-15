@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_200000_BBC_News#start/439/end/474</field>
+<field name="datetime">1/17/2020 20:07:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200117_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_200000_BBC_News/BBCNEWS_20200117_200000_BBC_News.thumbs/BBCNEWS_20200117_200000_BBC_News_000418.jpg</field>
+<field name="snippet">a number of british cities are aiming to go completely carbon neutral by 2030, removing as much carbon dioxide from the atmosphere as they put in to it in a bid to tackle climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201904.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190429_190000_MSNBC_Live_With_Ali_Velshi#start/145/end/180</field>
+<field name="datetime">4/29/2019 19:02:40</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190429_190000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190429_190000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190429_190000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190429_190000_MSNBC_Live_With_Ali_Velshi_000119.jpg</field>
+<field name="snippet">in about an hour in a news conference in los angeles. pete williams. thank you. we'll stay on top of the story and bring you more as we get it. and while that's happening, we're following another major story happening in california, climate change is the greatest threat we face.</field>
+</doc>
+</add>

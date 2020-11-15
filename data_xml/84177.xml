@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190419_083000_Weather_World#start/1830/end/1865</field>
+<field name="datetime">4/19/2019 9:00:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20190419_083000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190419_083000_Weather_World/BBCNEWS_20190419_083000_Weather_World.thumbs/BBCNEWS_20190419_083000_Weather_World_001829.jpg</field>
+<field name="snippet">but not only is it the murder of a young woman, it is an attack again on the people of this city. as 500 climate change protestors have now been arrested across london, police promise a 'robust' response if they target heathrow airport.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190830_160000_BBC_News_at_Five#start/79/end/114</field>
+<field name="datetime">8/30/2019 16:01:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190830_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190830_160000_BBC_News_at_Five/BBCNEWS_20190830_160000_BBC_News_at_Five.thumbs/BBCNEWS_20190830_160000_BBC_News_at_Five_000058.jpg</field>
+<field name="snippet">there's a state of emergency in florida - people are warned huricane dorian is strengthening as it heads towards the us coast. fears for the great barrier reef - its outlook is downgraded to 'very poor', as climate change causes mass bleaching of the coral.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180119_010000_Newsday#start/170/end/205</field>
+<field name="datetime">1/19/2018 1:03:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20180119_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180119_010000_Newsday/BBCNEWS_20180119_010000_Newsday.thumbs/BBCNEWS_20180119_010000_Newsday_000147.jpg</field>
+<field name="snippet">rise and the planet keeps on warming. today's report has been a real wake-up call. it really shows that climate change is happening and it's happening now. you know, you chose that we can't keep burning coal, oil and gas, and that politicians need to stop dithering and take real action.</field>
+</doc>
+</add>

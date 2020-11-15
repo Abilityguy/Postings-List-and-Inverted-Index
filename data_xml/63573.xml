@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190308_020000_BBC_News#start/1225/end/1260</field>
+<field name="datetime">3/8/2019 2:20:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190308_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190308_020000_BBC_News/BBCNEWS_20190308_020000_BBC_News.thumbs/BBCNEWS_20190308_020000_BBC_News_001198.jpg</field>
+<field name="snippet">the ice there is melting and scientists say they're surprised to find rain falling, even during the long arctic winter. our science editor david shukman reports on what the long-term impact of climate change could be. a torrent of water pouring off the greenland ice sheet. there's so much ice locked away here that if the whole lot melts, the level of the sea around</field>
+</doc>
+</add>

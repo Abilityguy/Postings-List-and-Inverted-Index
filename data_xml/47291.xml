@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201802.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180225_000000_BBC_News#start/620/end/655</field>
+<field name="datetime">2/25/2018 0:10:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180225_000000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180225_000000_BBC_News/BBCNEWS_20180225_000000_BBC_News.thumbs/BBCNEWS_20180225_000000_BBC_News_000598.jpg</field>
+<field name="snippet">couple of weeks and now, the news cycle can move forward and it drags oui' our attention to something else, so it could be immigration, it could be climate change. there are so many different things that can grab our attention, that what we have seen in</field>
+</doc>
+</add>

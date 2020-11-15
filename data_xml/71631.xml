@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190123_100000_Fox_and_Friends_First#start/3569/end/3604</field>
+<field name="datetime">1/23/2019 10:59:44</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190123_100000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190123_100000_Fox_and_Friends_First/FOXNEWSW_20190123_100000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190123_100000_Fox_and_Friends_First_003569.jpg</field>
+<field name="snippet">jillian: ocasio-cortez is pushing the green new deal which she claims will address economic equality and climate change. jillian: i have 12 years i have places i want to go and things i want to do.</field>
+</doc>
+</add>

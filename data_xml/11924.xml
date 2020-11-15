@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190802_050000_Breakfast#start/578/end/613</field>
+<field name="datetime">8/2/2019 5:09:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190802_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190802_050000_Breakfast/BBCNEWS_20190802_050000_Breakfast.thumbs/BBCNEWS_20190802_050000_Breakfast_000568.jpg</field>
+<field name="snippet">with other years. the results are based on billions of measurements from satellites, ships, aircraft and weather stations all across the world. these latest figures are part of a long-term trend in rising global temperatures. and computer models of the impact of climate change predict that more</field>
+</doc>
+</add>

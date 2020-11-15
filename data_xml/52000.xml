@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181202_210000_World_News_Today#start/245/end/280</field>
+<field name="datetime">12/2/2018 21:04:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20181202_210000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181202_210000_World_News_Today/BBCNEWS_20181202_210000_World_News_Today.thumbs/BBCNEWS_20181202_210000_World_News_Today_000237.jpg</field>
+<field name="snippet">climate change. just we need to make our world work more urgently. 0ur environment correspondent matt mcgrath spoke to me earlier from katowice. they are hoping to make sure the</field>
+</doc>
+</add>

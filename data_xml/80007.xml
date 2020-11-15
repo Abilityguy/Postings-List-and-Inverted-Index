@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191109_000000_The_Story_With_Martha_MacCallum#start/1831/end/1866</field>
+<field name="datetime">11/9/2019 0:30:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Story With Martha MacCallum</field>
+<field name="showid">FOXNEWSW_20191109_000000_The_Story_With_Martha_MacCallum</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191109_000000_The_Story_With_Martha_MacCallum/FOXNEWSW_20191109_000000_The_Story_With_Martha_MacCallum.thumbs/FOXNEWSW_20191109_000000_The_Story_With_Martha_MacCallum_001828.jpg</field>
+<field name="snippet">message to millennials who say they don't want to family because of climate change. when we come back. but with less carbon footprint. can we have both? at bp, we're working every day to make energy that's cleaner and better.</field>
+</doc>
+</add>

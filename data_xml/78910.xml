@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20200112_110000_FOX_and_Friends_Sunday#start/7284/end/7319</field>
+<field name="datetime">1/12/2020 13:01:39</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20200112_110000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20200112_110000_FOX_and_Friends_Sunday/FOXNEWSW_20200112_110000_FOX_and_Friends_Sunday.thumbs/FOXNEWSW_20200112_110000_FOX_and_Friends_Sunday_007260.jpg</field>
+<field name="snippet">like a climate change activists take private jets. he says you shouldn't eat breakfast but i guess he eats breakfast. lisa: he likes brunch. that means mimosa. pete: we hope you have a mimosa and cup of coffee this morning.</field>
+</doc>
+</add>

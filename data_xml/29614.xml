@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201905.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190516_130000_MSNBC_Live_With_Stephanie_Ruhle#start/2596/end/2631</field>
+<field name="datetime">5/16/2019 13:43:31</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Stephanie Ruhle</field>
+<field name="showid">MSNBCW_20190516_130000_MSNBC_Live_With_Stephanie_Ruhle</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190516_130000_MSNBC_Live_With_Stephanie_Ruhle/MSNBCW_20190516_130000_MSNBC_Live_With_Stephanie_Ruhle.thumbs/MSNBCW_20190516_130000_MSNBC_Live_With_Stephanie_Ruhle_002580.jpg</field>
+<field name="snippet">something that demands bipartisan cooperation, is virtually impossible at this moment. on climate change, there are -- there's the green new deal floated. it will not pass as conceived right now but it has reframed the debate and also returned climate to front and center</field>
+</doc>
+</add>

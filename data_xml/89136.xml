@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190602_033000_Click#start/1273/end/1308</field>
+<field name="datetime">6/2/2019 3:51:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Click</field>
+<field name="showid">BBCNEWS_20190602_033000_Click</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190602_033000_Click/BBCNEWS_20190602_033000_Click.thumbs/BBCNEWS_20190602_033000_Click_001258.jpg</field>
+<field name="snippet">now machine learning, so say its advocates, may one day solve the world's most pressing problems, from climate change to finding cures for deadly diseases. but some think it may bring about the end of the world. well, it certainly seems the end</field>
+</doc>
+</add>

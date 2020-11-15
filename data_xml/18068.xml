@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201409.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140921_120000_Up_WSteve_Kornacki#start/80/end/115</field>
+<field name="datetime">9/21/2014 12:01:35</field>
+<field name="station">MSNBC</field>
+<field name="show">Up WSteve Kornacki</field>
+<field name="showid">MSNBCW_20140921_120000_Up_WSteve_Kornacki</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140921_120000_Up_WSteve_Kornacki/MSNBCW_20140921_120000_Up_WSteve_Kornacki.thumbs/MSNBCW_20140921_120000_Up_WSteve_Kornacki_000075.jpg</field>
+<field name="snippet">the first expected to be at least 450 buses are discharging passengers for what is being billed as the largest climate change march ever. organizers say they expect anywhere between 100000 and 400000 people to march through</field>
+</doc>
+</add>

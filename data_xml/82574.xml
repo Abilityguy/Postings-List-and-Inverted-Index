@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201509.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150924_100000_FOX__Friends#start/6374/end/6409</field>
+<field name="datetime">9/24/2015 11:46:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20150924_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150924_100000_FOX__Friends/FOXNEWSW_20150924_100000_FOX__Friends.thumbs/FOXNEWSW_20150924_100000_FOX__Friends_006375.jpg</field>
+<field name="snippet">that climate change is a problem we can no longer be left to our future generations. so what can we expect today? joining us live from capitol hill, fox news religion</field>
+</doc>
+</add>

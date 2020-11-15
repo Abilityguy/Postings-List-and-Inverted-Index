@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190214_010000_Tucker_Carlson_Tonight#start/142/end/177</field>
+<field name="datetime">2/14/2019 1:02:37</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190214_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190214_010000_Tucker_Carlson_Tonight/FOXNEWSW_20190214_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190214_010000_Tucker_Carlson_Tonight_000119.jpg</field>
+<field name="snippet">were telling us we could fight global warming with carbon offsets and slightly higher gas taxes. now they are demanding we give up airplanes and walk to work. you have got to give it this. the green new deal does make kind of internal sense.</field>
+</doc>
+</add>

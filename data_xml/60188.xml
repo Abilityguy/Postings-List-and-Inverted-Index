@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_120000_BBC_News_at_One#start/371/end/406</field>
+<field name="datetime">10/8/2018 12:06:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20181008_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_120000_BBC_News_at_One/BBCNEWS_20181008_120000_BBC_News_at_One.thumbs/BBCNEWS_20181008_120000_BBC_News_at_One_000358.jpg</field>
+<field name="snippet">size of australia, and the technology needed to remove enough carbon from the atmosphere has not been developed. the report is important because it also shows there are options we need to take, it shows it is possible to limit global warming to 1.5 degrees if we</field>
+</doc>
+</add>

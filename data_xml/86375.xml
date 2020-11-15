@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191203_130000_BBC_News_at_One#start/1100/end/1135</field>
+<field name="datetime">12/3/2019 13:18:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20191203_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191203_130000_BBC_News_at_One/BBCNEWS_20191203_130000_BBC_News_at_One.thumbs/BBCNEWS_20191203_130000_BBC_News_at_One_001079.jpg</field>
+<field name="snippet">to stop the planet overheating. as she arrives, wildfires are raging in australia, choking their cities with smoke. the australian government says they are not linked to human made climate change. scientists disagree.</field>
+</doc>
+</add>

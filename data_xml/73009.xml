@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190130_100000_Victoria_Derbyshire#start/2862/end/2897</field>
+<field name="datetime">1/30/2019 10:47:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20190130_100000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190130_100000_Victoria_Derbyshire/BBCNEWS_20190130_100000_Victoria_Derbyshire.thumbs/BBCNEWS_20190130_100000_Victoria_Derbyshire_002848.jpg</field>
+<field name="snippet">about climate change and, say, global warming, is that it can disrupt the polar vortex more frequently. when the polar vortex is nice and circular and stable, it tends to keep the cold air contracted to the northern polls, sort of isolated</field>
+</doc>
+</add>

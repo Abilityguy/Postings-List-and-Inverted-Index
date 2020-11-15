@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181128_053000_Business_Briefing#start/924/end/959</field>
+<field name="datetime">11/28/2018 5:45:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Business Briefing</field>
+<field name="showid">BBCNEWS_20181128_053000_Business_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181128_053000_Business_Briefing/BBCNEWS_20181128_053000_Business_Briefing.thumbs/BBCNEWS_20181128_053000_Business_Briefing_000898.jpg</field>
+<field name="snippet">persuaded 10000 people to commit to not taking any flights in 2019 in an effort to tackle climate change. direct emissions from aviation account for about 3% of the eu's total greenhouse gas emissions, according to the european commission.</field>
+</doc>
+</add>

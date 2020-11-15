@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201311.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20131112_230000_Special_Report_With_Bret_Baier#start/1803/end/1838</field>
+<field name="datetime">11/12/2013 23:30:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20131112_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20131112_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20131112_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20131112_230000_Special_Report_With_Bret_Baier_001725.jpg</field>
+<field name="snippet">australia's liberals are taking a stand. ahead of a potential climate deal to cut greenhouse gas emissions. the australian reports during the ongoing u.n.-led negotiations, the country will not agree to a deal that involves payments from rich</field>
+</doc>
+</add>

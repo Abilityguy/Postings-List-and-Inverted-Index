@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190830_040000_Tucker_Carlson_Tonight#start/2408/end/2443</field>
+<field name="datetime">8/30/2019 4:40:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190830_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190830_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190830_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190830_040000_Tucker_Carlson_Tonight_002398.jpg</field>
+<field name="snippet">the whole paris riots were going on over a modest increase to fuel cost to fight global warming. they of course rescinded those increases to the fuel taxes to save the planet, but with a little bit of an increase in france and then you have chaos,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191115_060000_Breakfast#start/33/end/68</field>
+<field name="datetime">11/15/2019 6:00:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191115_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191115_060000_Breakfast/BBCNEWS_20191115_060000_Breakfast.thumbs/BBCNEWS_20191115_060000_Breakfast_000027.jpg</field>
+<field name="snippet">more spending pledges. the liberal democrats promise £100 billion to tackle climate change. the conservatives say they'll help left behind towns. good morning. i am here in aberdeen, a key centre for the oil and gas industry.</field>
+</doc>
+</add>

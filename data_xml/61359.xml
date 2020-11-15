@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201503.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150323_060000_Meet_the_Press#start/1756/end/1791</field>
+<field name="datetime">3/23/2015 6:29:31</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20150323_060000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150323_060000_Meet_the_Press/MSNBCW_20150323_060000_Meet_the_Press.thumbs/MSNBCW_20150323_060000_Meet_the_Press_001666.jpg</field>
+<field name="snippet">works. welcome back. this week there was more evidence that climate change is, indeed, having a big impact with the news the level of sea ice in the arctic has now fallen to a record low. while the issue is still</field>
+</doc>
+</add>

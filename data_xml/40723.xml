@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201708.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170826_180000_MSNBC_Live#start/249/end/284</field>
+<field name="datetime">8/26/2017 18:04:24</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170826_180000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170826_180000_MSNBC_Live/MSNBCW_20170826_180000_MSNBC_Live.thumbs/MSNBCW_20170826_180000_MSNBC_Live_000238.jpg</field>
+<field name="snippet">going on historic rainfall, more than 40 inches predicted and leaving nearly 300000 people without power currently. can climate change be fuelling the history-making nature of this storm? it's a question a lot of people are wondering, and joining me now is the founder and senior</field>
+</doc>
+</add>

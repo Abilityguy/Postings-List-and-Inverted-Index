@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091209_110000_FOX_and_Friends#start/576/end/611</field>
+<field name="datetime">12/9/2009 11:09:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091209_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091209_110000_FOX_and_Friends/FOXNEWS_20091209_110000_FOX_and_Friends.thumbs/FOXNEWS_20091209_110000_FOX_and_Friends_000532.jpg</field>
+<field name="snippet">these are the types of things that maybe you're not hearing from the mainstream media. and one of the things about whether or not climate change and everything going on with climategate will get out to the general public, we don't know because will the mainstream media pick up on these other</field>
+</doc>
+</add>

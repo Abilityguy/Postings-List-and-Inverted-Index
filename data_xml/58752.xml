@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181127_200000_BBC_News#start/2081/end/2116</field>
+<field name="datetime">11/27/2018 20:34:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181127_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181127_200000_BBC_News/BBCNEWS_20181127_200000_BBC_News.thumbs/BBCNEWS_20181127_200000_BBC_News_002068.jpg</field>
+<field name="snippet">supplements to the feed. some of these make the cows a lot less gassy. so technically it is possible to reduce the extraordinary amount of methane that cows produce, but on its own that won't be enough to head off the worst of global warming, so it comes down to the key</field>
+</doc>
+</add>

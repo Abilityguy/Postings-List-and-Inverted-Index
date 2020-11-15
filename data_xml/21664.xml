@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100119_110000_FOX_and_Friends#start/8351/end/8386</field>
+<field name="datetime">1/19/2010 13:19:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100119_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100119_110000_FOX_and_Friends/FOXNEWS_20100119_110000_FOX_and_Friends.thumbs/FOXNEWS_20100119_110000_FOX_and_Friends_008324.jpg</field>
+<field name="snippet">still pushing policies that are wildly unpopular. we haven't even gotten into immigration reform and a carbon tax which most democrats still want. but all of that is clearly just now trash. it's never going to happen, i don't think so this year. democrats are in a difficult</field>
+</doc>
+</add>

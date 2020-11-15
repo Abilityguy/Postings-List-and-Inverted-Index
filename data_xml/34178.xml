@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091209_000000_The_FOX_Report_With_Shepard_Smith#start/1296/end/1331</field>
+<field name="datetime">12/9/2009 0:21:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The FOX Report With Shepard Smith</field>
+<field name="showid">FOXNEWS_20091209_000000_The_FOX_Report_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091209_000000_The_FOX_Report_With_Shepard_Smith/FOXNEWS_20091209_000000_The_FOX_Report_With_Shepard_Smith.thumbs/FOXNEWS_20091209_000000_The_FOX_Report_With_Shepard_Smith_001285.jpg</field>
+<field name="snippet">defensive. nothing in the emails cast doubt on the basic scientific message quote that climate change is happening much faster than we realized and that we human beings are the reason for the cause. the head of the world ecological association says 2008 fifth warm</field>
+</doc>
+</add>

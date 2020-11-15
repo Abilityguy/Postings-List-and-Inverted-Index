@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091229_110000_FOX_and_Friends#start/9734/end/9769</field>
+<field name="datetime">12/29/2009 13:42:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091229_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091229_110000_FOX_and_Friends/FOXNEWS_20091229_110000_FOX_and_Friends.thumbs/FOXNEWS_20091229_110000_FOX_and_Friends_009720.jpg</field>
+<field name="snippet">school student wants her school to be fair and balanced when it comes to climate change, but they are only showing 'and inconvenient to.' peter: we have been asking you to vote for your favorite</field>
+</doc>
+</add>

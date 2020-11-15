@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201006.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100627_080000_Geraldo_at_Large#start/944/end/979</field>
+<field name="datetime">6/27/2010 8:15:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Geraldo at Large</field>
+<field name="showid">FOXNEWS_20100627_080000_Geraldo_at_Large</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100627_080000_Geraldo_at_Large/FOXNEWS_20100627_080000_Geraldo_at_Large.thumbs/FOXNEWS_20100627_080000_Geraldo_at_Large_000925.jpg</field>
+<field name="snippet">reporter: mr. gore was in portland giving a speech on climate change and these allegations come just weeks after he announced that he was separating from his wife, and in an interesting twist, authorities say the accuser requested a copy of her police</field>
+</doc>
+</add>

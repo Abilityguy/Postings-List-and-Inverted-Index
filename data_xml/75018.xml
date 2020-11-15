@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200102_220000_BBC_News#start/2270/end/2305</field>
+<field name="datetime">1/2/2020 22:38:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200102_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200102_220000_BBC_News/BBCNEWS_20200102_220000_BBC_News.thumbs/BBCNEWS_20200102_220000_BBC_News_002248.jpg</field>
+<field name="snippet">with climate change, and what we have probably already seen in australia, leads to more vegetation being available to burn, and more vegetation being available to burn earlier in the year. so, the fire seasons have lengthened, they are beginning earlier and also finishing later</field>
+</doc>
+</add>

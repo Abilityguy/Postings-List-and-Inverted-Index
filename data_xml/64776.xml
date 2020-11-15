@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201809.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20180918_160000_Andrea_Mitchell_Reports#start/1797/end/1832</field>
+<field name="datetime">9/18/2018 16:30:12</field>
+<field name="station">MSNBC</field>
+<field name="show">Andrea Mitchell Reports</field>
+<field name="showid">MSNBCW_20180918_160000_Andrea_Mitchell_Reports</field>
+<field name="preview">https://archive.org/download/MSNBCW_20180918_160000_Andrea_Mitchell_Reports/MSNBCW_20180918_160000_Andrea_Mitchell_Reports.thumbs/MSNBCW_20180918_160000_Andrea_Mitchell_Reports_001797.jpg</field>
+<field name="snippet">ex example of how the warming ocean waters caused by climate change are endangers americans from coast to coast, as 'time' magazine points out, this is not being recognized by president trump, and president obama's</field>
+</doc>
+</add>

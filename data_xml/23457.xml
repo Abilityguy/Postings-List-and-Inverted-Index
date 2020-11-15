@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201405.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140520_000000_The_OReilly_Factor#start/103/end/138</field>
+<field name="datetime">5/20/2014 0:01:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20140520_000000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140520_000000_The_OReilly_Factor/FOXNEWSW_20140520_000000_The_OReilly_Factor.thumbs/FOXNEWSW_20140520_000000_The_OReilly_Factor_000075.jpg</field>
+<field name="snippet">governor brown says climate change is the reason why. it is true that there is virtually no republican who accepts the science that virtually is unanimous. i mean, there is no scientific question.</field>
+</doc>
+</add>

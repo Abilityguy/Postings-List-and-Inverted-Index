@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190518_210000_BBC_News#start/229/end/264</field>
+<field name="datetime">5/18/2019 21:04:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190518_210000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190518_210000_BBC_News/BBCNEWS_20190518_210000_BBC_News.thumbs/BBCNEWS_20190518_210000_BBC_News_000207.jpg</field>
+<field name="snippet">the polls, for what they're worth, told us that climate change with the one issue for voters and it seems that particularly in places like rural queensland where the coal industry is still huge and dominant</field>
+</doc>
+</add>

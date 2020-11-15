@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201904.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190401_190000_MSNBC_Live_With_Ali_Velshi#start/1587/end/1622</field>
+<field name="datetime">4/1/2019 19:26:42</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190401_190000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190401_190000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190401_190000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190401_190000_MSNBC_Live_With_Ali_Velshi_001587.jpg</field>
+<field name="snippet">scientists who are doing cutting edge work to determine the damage and extent of climate change. global warming is happening. we see it here in alaska where the temperature is warming at twice the rate as the rest of the world. and what does that mean for us? what happens in the arctic</field>
+</doc>
+</add>

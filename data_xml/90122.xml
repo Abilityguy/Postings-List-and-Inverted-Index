@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200910.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091015_130000_Morning_Meeting#start/5690/end/5725</field>
+<field name="datetime">10/15/2009 14:35:05</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Meeting</field>
+<field name="showid">MSNBC_20091015_130000_Morning_Meeting</field>
+<field name="preview">https://archive.org/download/MSNBC_20091015_130000_Morning_Meeting/MSNBC_20091015_130000_Morning_Meeting.thumbs/MSNBC_20091015_130000_Morning_Meeting_005670.jpg</field>
+<field name="snippet">here is the quote. our position is being grossly mischaracterized. climate change has to be addressed. but we think the waxman-markey cap and trade bill will be hugely disruptive, shed jobs, raise energy prices, unfairly</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201209.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120901_000000_The_Ed_Show#start/1450/end/1485</field>
+<field name="datetime">9/1/2012 0:24:25</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20120901_000000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120901_000000_The_Ed_Show/MSNBCW_20120901_000000_The_Ed_Show.thumbs/MSNBCW_20120901_000000_The_Ed_Show_001438.jpg</field>
+<field name="snippet">convention where john mccain talked about global warming. came out as a climate champion, a climate hawk, and the only mention of global warming in the midst of this massive drought is a snarky joke from mitt romney</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191215_143000_Black_Sea_Blues#start/705/end/740</field>
+<field name="datetime">12/15/2019 14:42:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Black Sea Blues</field>
+<field name="showid">BBCNEWS_20191215_143000_Black_Sea_Blues</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191215_143000_Black_Sea_Blues/BBCNEWS_20191215_143000_Black_Sea_Blues.thumbs/BBCNEWS_20191215_143000_Black_Sea_Blues_000688.jpg</field>
+<field name="snippet">one of the many unknowns about the black sea is how climate change and rising sea temperatures will affect the oxygenated layer at the top, and the hydrogen sulphide below that. now, this device here, well, these tanks will take samples of water</field>
+</doc>
+</add>

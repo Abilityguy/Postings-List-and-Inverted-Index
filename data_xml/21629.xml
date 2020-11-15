@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100111_103000_Cashin_In#start/1663/end/1698</field>
+<field name="datetime">1/11/2010 10:57:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Cashin In</field>
+<field name="showid">FOXNEWS_20100111_103000_Cashin_In</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100111_103000_Cashin_In/FOXNEWS_20100111_103000_Cashin_In.thumbs/FOXNEWS_20100111_103000_Cashin_In_001650.jpg</field>
+<field name="snippet">if we had global warming, my god, please let it start sometime soon because i'm freezing my keister off here in the midwest. if you're looking at commodities if you think that energy prices are going to go up because it's so cold, check out uhn, it's actually fun. it tracks the price of heating</field>
+</doc>
+</add>

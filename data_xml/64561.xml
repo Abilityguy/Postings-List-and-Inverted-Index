@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201612.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161214_060000_The_Last_Word_With_Lawrence_ODonnell#start/1199/end/1234</field>
+<field name="datetime">12/14/2016 6:20:14</field>
+<field name="station">MSNBC</field>
+<field name="show">The Last Word With Lawrence ODonnell</field>
+<field name="showid">MSNBCW_20161214_060000_The_Last_Word_With_Lawrence_ODonnell</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161214_060000_The_Last_Word_With_Lawrence_ODonnell/MSNBCW_20161214_060000_The_Last_Word_With_Lawrence_ODonnell.thumbs/MSNBCW_20161214_060000_The_Last_Word_With_Lawrence_ODonnell_001198.jpg</field>
+<field name="snippet">he's going to have to describe how he thinks the world can move forward on climate change without leaving oil, natural gas and coal in the ground. so those are going to be difficult questions for him to address.</field>
+</doc>
+</add>

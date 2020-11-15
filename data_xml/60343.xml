@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_050000_Breakfast#start/1894/end/1929</field>
+<field name="datetime">10/8/2018 5:31:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181008_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_050000_Breakfast/BBCNEWS_20181008_050000_Breakfast.thumbs/BBCNEWS_20181008_050000_Breakfast_001887.jpg</field>
+<field name="snippet">intergovernmental panel on climate change says that limiting temperature rises to no more than 1.5 celsius will require massive changes to the way we live. it warns that without action, there could be severe consequences</field>
+</doc>
+</add>

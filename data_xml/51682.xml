@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_113000_BBC_Newsroom_Live#start/1848/end/1883</field>
+<field name="datetime">12/3/2018 12:01:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20181203_113000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_113000_BBC_Newsroom_Live/BBCNEWS_20181203_113000_BBC_Newsroom_Live.thumbs/BBCNEWS_20181203_113000_BBC_Newsroom_Live_001827.jpg</field>
+<field name="snippet">is on course for warming of three to five degrees by the end of the century, and that the greenhouse gases we're adding to the atmosphere need to be cut by 45% by the year 2030. our environment correspondent, matt mcgrath, reports. all across the world of the</field>
+</doc>
+</add>

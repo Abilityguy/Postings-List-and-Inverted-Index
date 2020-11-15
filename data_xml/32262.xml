@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201006.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100617_100000_FOX_and_Friends#start/9513/end/9548</field>
+<field name="datetime">6/17/2010 12:38:48</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100617_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100617_100000_FOX_and_Friends/FOXNEWS_20100617_100000_FOX_and_Friends.thumbs/FOXNEWS_20100617_100000_FOX_and_Friends_009497.jpg</field>
+<field name="snippet">the political slant, with the president giving his speech and having one third of the end of it talk about his need for climate change bill, where did you fall on that? did you think it struck the right tone? i think it did not strike the right tone. people want to cap the well, not</field>
+</doc>
+</add>

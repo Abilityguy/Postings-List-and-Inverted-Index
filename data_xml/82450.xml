@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201509.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150926_170000_Americas_News_HQ#start/1915/end/1950</field>
+<field name="datetime">9/26/2015 17:32:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20150926_170000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150926_170000_Americas_News_HQ/FOXNEWSW_20150926_170000_Americas_News_HQ.thumbs/FOXNEWSW_20150926_170000_Americas_News_HQ_001905.jpg</field>
+<field name="snippet">spoken to in the white house or other places. perhaps the pontiff most closely watched his historic address to congress in what he said. our own judge took exception with some of what he said, including climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201703.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170309_213000_Outside_Source#start/0/end/33</field>
+<field name="datetime">3/9/2017 21:30:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20170309_213000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170309_213000_Outside_Source/BBCNEWS_20170309_213000_Outside_Source.thumbs/BBCNEWS_20170309_213000_Outside_Source_000057.jpg</field>
+<field name="snippet">hello, i'm ros atkins, this is outside source. let's look through some of the main stories here in the bbc newsroom. america is expanding its presence in syria. it's sending 400 extra marines to support local militia trying to drive the islamic state group out of raqqa. the new head of the us environmental protection agency claims carbon dioxide emissions are not a major factor in climate change.</field>
+</doc>
+</add>

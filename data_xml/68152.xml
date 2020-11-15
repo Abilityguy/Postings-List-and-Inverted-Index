@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190225_040000_BBC_News#start/1125/end/1160</field>
+<field name="datetime">2/25/2019 4:19:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190225_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190225_040000_BBC_News/BBCNEWS_20190225_040000_BBC_News.thumbs/BBCNEWS_20190225_040000_BBC_News_001108.jpg</field>
+<field name="snippet">including best director for alfonso cuaron. green book has taken best picture in the last few minutes. researchers in antarctica are searching for the world's oldest ice. scientists hope it'll enable them to better understand past climate change and predict future variations. caroline rigby has more.</field>
+</doc>
+</add>

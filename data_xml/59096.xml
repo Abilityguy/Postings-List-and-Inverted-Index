@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181124_100000_BBC_News#start/765/end/800</field>
+<field name="datetime">11/24/2018 10:13:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181124_100000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181124_100000_BBC_News/BBCNEWS_20181124_100000_BBC_News.thumbs/BBCNEWS_20181124_100000_BBC_News_000747.jpg</field>
+<field name="snippet">without major, urgent action, says the report, the impacts of climate change will soon cascade into every corner of american life. the national crime agency has issued a warning to organised gangs, which it says are behind a recent spike in illegal attempts to cross the english channel.</field>
+</doc>
+</add>

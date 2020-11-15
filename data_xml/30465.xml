@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.202001.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20200102_200000_MSNBC_Live_with_Ali_Velshi#start/3488/end/3523</field>
+<field name="datetime">1/2/2020 20:58:23</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live with Ali Velshi</field>
+<field name="showid">MSNBCW_20200102_200000_MSNBC_Live_with_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20200102_200000_MSNBC_Live_with_Ali_Velshi/MSNBCW_20200102_200000_MSNBC_Live_with_Ali_Velshi.thumbs/MSNBCW_20200102_200000_MSNBC_Live_with_Ali_Velshi_003479.jpg</field>
+<field name="snippet">and dust. a drought has left australia with low drinking water supplies. these extreme weather conditions are a mark of climate change. reporter: ali, the bush fires</field>
+</doc>
+</add>

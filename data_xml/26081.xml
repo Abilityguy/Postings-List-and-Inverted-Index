@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201201.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120114_110000_FOX_and_Friends_Saturday#start/9189/end/9224</field>
+<field name="datetime">1/14/2012 13:33:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20120114_110000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120114_110000_FOX_and_Friends_Saturday/FOXNEWSW_20120114_110000_FOX_and_Friends_Saturday.thumbs/FOXNEWSW_20120114_110000_FOX_and_Friends_Saturday_009180.jpg</field>
+<field name="snippet">from a white house aide to the director of energy and climate change policy that says here is the deal: solyndra will announce they are laying off 200 of the 1200 workers. that is not good. the chairman of the house energy</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201303.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130302_110000_FOX_and_Friends_Saturday#start/7520/end/7555</field>
+<field name="datetime">3/2/2013 13:05:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20130302_110000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130302_110000_FOX_and_Friends_Saturday/FOXNEWSW_20130302_110000_FOX_and_Friends_Saturday.thumbs/FOXNEWSW_20130302_110000_FOX_and_Friends_Saturday_007515.jpg</field>
+<field name="snippet">could be worse for the climate. they stopped short of endorsing the controversial plan. the reported pipeline would only release the same amount of global warming pollution every year as about 626000 passenger</field>
+</doc>
+</add>

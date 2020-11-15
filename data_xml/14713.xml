@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201702.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170225_220000_Americas_News_HQ#start/646/end/681</field>
+<field name="datetime">2/25/2017 22:11:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20170225_220000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170225_220000_Americas_News_HQ/FOXNEWSW_20170225_220000_Americas_News_HQ.thumbs/FOXNEWSW_20170225_220000_Americas_News_HQ_000627.jpg</field>
+<field name="snippet">mary palmer hosted a town hall at the city hall and in hoover. he spoke to the crowd overflowing to the outside there. popular topics that the townhomes have obama care, immigration and climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_230000_BBC_News#start/71/end/106</field>
+<field name="datetime">9/20/2019 23:01:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190920_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_230000_BBC_News/BBCNEWS_20190920_230000_BBC_News.thumbs/BBCNEWS_20190920_230000_BBC_News_000058.jpg</field>
+<field name="snippet">hello and welcome to bbc world news. a day of protest by millions of young people to demand action against climate change is heading towards a finish. from australia to india, europe and the united states, they took to the streets to demand action.</field>
+</doc>
+</add>

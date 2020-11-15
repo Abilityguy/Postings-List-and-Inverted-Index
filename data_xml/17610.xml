@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201804.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20180421_220000_All_In_With_Chris_Hayes#start/2869/end/2904</field>
+<field name="datetime">4/21/2018 22:48:04</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20180421_220000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20180421_220000_All_In_With_Chris_Hayes/MSNBCW_20180421_220000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20180421_220000_All_In_With_Chris_Hayes_002847.jpg</field>
+<field name="snippet">jacob soboroff is back in l.a., joins me now. jacob, trump's nominee was just confirmed to lead nasa, a really narrow vote, what could he do to the agency's climate change programs like operation ice bridge? he could, quite frankly, just slash the budget, but not if any of these folks i met have anything to do with it.</field>
+</doc>
+</add>

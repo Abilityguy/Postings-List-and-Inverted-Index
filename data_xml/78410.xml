@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191111_210000_Outside_Source#start/1532/end/1567</field>
+<field name="datetime">11/11/2019 21:25:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20191111_210000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191111_210000_Outside_Source/BBCNEWS_20191111_210000_Outside_Source.thumbs/BBCNEWS_20191111_210000_Outside_Source_001529.jpg</field>
+<field name="snippet">bushfires which present a threat level of 'catastrophic' - the highest level - according to the authorites. we know bushfires there are common - but officials say they've never been this big before or so early in the fire season. and lots of australians are asking if this is connected to climate change. we will get into the details of that</field>
+</doc>
+</add>

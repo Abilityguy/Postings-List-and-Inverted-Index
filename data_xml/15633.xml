@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201104.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110428_150000_Happening_Now#start/1681/end/1716</field>
+<field name="datetime">4/28/2011 15:28:16</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20110428_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110428_150000_Happening_Now/FOXNEWS_20110428_150000_Happening_Now.thumbs/FOXNEWS_20110428_150000_Happening_Now_001675.jpg</field>
+<field name="snippet">something to do with global warming. it's about people getting the notice, that they get safe, that they get their provisions, that they have a place to go. that we make sure we deal with adaptation before we focus on cutting carbon emissions.</field>
+</doc>
+</add>

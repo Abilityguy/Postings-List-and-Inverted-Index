@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200909.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20090923_180000_MSNBC_News_Live#start/60/end/95</field>
+<field name="datetime">9/23/2009 18:01:15</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20090923_180000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20090923_180000_MSNBC_News_Live/MSNBC_20090923_180000_MSNBC_News_Live.thumbs/MSNBC_20090923_180000_MSNBC_News_Live_000056.jpg</field>
+<field name="snippet">hasn't done enough yet on the climate change and environmental issue, on the middle east so far, they don't have a lot to show for some of their efforts with envoy mitchell's frequent trips to the middle east and so forth. so so there's still a lot of details to be ironed out.</field>
+</doc>
+</add>

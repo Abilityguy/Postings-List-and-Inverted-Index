@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100224_220000_Glenn_Beck#start/180/end/215</field>
+<field name="datetime">2/24/2010 22:03:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20100224_220000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100224_220000_Glenn_Beck/FOXNEWS_20100224_220000_Glenn_Beck.thumbs/FOXNEWS_20100224_220000_Glenn_Beck_000176.jpg</field>
+<field name="snippet">thing. when i started researching this, i don't know, a few years ago and looking into history, this is the most amazing thing i've ever heard. they actually, this kookie scientist, the global warming type, they absolutely thought if we put a series of data points in a computer, on the</field>
+</doc>
+</add>

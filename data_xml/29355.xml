@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201905.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190524_210000_MTP_Daily#start/2565/end/2600</field>
+<field name="datetime">5/24/2019 21:43:00</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20190524_210000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190524_210000_MTP_Daily/MSNBCW_20190524_210000_MTP_Daily.thumbs/MSNBCW_20190524_210000_MTP_Daily_002549.jpg</field>
+<field name="snippet">going to be the best in the nation to defeat climate change. i've got the best economy in the united states, not despite working on clean energy but because of it. you did say something that you took the carbon tax out. is that fair to say that carbon</field>
+</doc>
+</add>

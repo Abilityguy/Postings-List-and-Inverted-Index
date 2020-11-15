@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190429_050000_Breakfast#start/1404/end/1439</field>
+<field name="datetime">4/29/2019 5:23:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190429_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190429_050000_Breakfast/BBCNEWS_20190429_050000_Breakfast.thumbs/BBCNEWS_20190429_050000_Breakfast_001408.jpg</field>
+<field name="snippet">quality is becoming poorer, which not only reduces our ability to grow crops, but also releases carbon into the atmosphere, adding to global warming. here is our environment analyst roger harrabin.</field>
+</doc>
+</add>

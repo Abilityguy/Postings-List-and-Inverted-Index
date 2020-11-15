@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201901.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190107_000000_Kasie_DC#start/6225/end/6260</field>
+<field name="datetime">1/7/2019 1:44:00</field>
+<field name="station">MSNBC</field>
+<field name="show">Kasie DC</field>
+<field name="showid">MSNBCW_20190107_000000_Kasie_DC</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190107_000000_Kasie_DC/MSNBCW_20190107_000000_Kasie_DC.thumbs/MSNBCW_20190107_000000_Kasie_DC_006207.jpg</field>
+<field name="snippet">climate change. we know we are the last generation that can do something about it. we know that climate change touches every corner and every family. we know it is a national security threat. we know that it is a threat to the health of our children, and we know that as much as it is a</field>
+</doc>
+</add>

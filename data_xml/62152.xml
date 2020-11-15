@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181008_220000_Special_Report_With_Bret_Baier#start/1368/end/1403</field>
+<field name="datetime">10/8/2018 22:23:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20181008_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181008_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20181008_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20181008_220000_Special_Report_With_Bret_Baier_001348.jpg</field>
+<field name="snippet">bret: a report from the united nations says global warming just under a single degree fahrenheit means life and death between many people and ecosystems. that's after gray below the target that world leaders have already set. the intergovernmental panel on</field>
+</doc>
+</add>

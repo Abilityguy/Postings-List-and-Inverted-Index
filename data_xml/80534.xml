@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190413_220000_FOX_Report_With_Jon_Scott#start/1071/end/1106</field>
+<field name="datetime">4/13/2019 22:18:06</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report With Jon Scott</field>
+<field name="showid">FOXNEWSW_20190413_220000_FOX_Report_With_Jon_Scott</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190413_220000_FOX_Report_With_Jon_Scott/FOXNEWSW_20190413_220000_FOX_Report_With_Jon_Scott.thumbs/FOXNEWSW_20190413_220000_FOX_Report_With_Jon_Scott_001047.jpg</field>
+<field name="snippet">democratic presidential candidate cory booker. booker launching his two week cross-country justice for all tour. fighting the nra, climate change and criminal justice reform among the themes. bryan llenas is live with more.</field>
+</doc>
+</add>

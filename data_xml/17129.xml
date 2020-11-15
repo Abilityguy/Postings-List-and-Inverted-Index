@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201811.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181107_110000_Morning_Joe#start/6478/end/6513</field>
+<field name="datetime">11/7/2018 12:48:13</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20181107_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181107_110000_Morning_Joe/MSNBCW_20181107_110000_Morning_Joe.thumbs/MSNBCW_20181107_110000_Morning_Joe_006478.jpg</field>
+<field name="snippet">right, for a lot of people we took a good step forward last night, but there's still a long way to go. definitely. and, by the way, people aren't talking as much about the environment. yes, under the general heading of climate change, but protecting the northern rockies</field>
+</doc>
+</add>

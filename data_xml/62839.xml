@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201308.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130822_100000_FOX_and_Friends#start/2247/end/2282</field>
+<field name="datetime">8/22/2013 10:37:42</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20130822_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130822_100000_FOX_and_Friends/FOXNEWSW_20130822_100000_FOX_and_Friends.thumbs/FOXNEWSW_20130822_100000_FOX_and_Friends_002235.jpg</field>
+<field name="snippet">reports contradicting al gore's claims on global warming. the science is not settled. we made a ton of money off it. he has. well, if you ever got stuck on a plane with crying children, it's probably one of the worst</field>
+</doc>
+</add>

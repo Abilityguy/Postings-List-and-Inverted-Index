@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201905.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190503_160000_Andrea_Mitchell_Reports#start/1703/end/1738</field>
+<field name="datetime">5/3/2019 16:28:38</field>
+<field name="station">MSNBC</field>
+<field name="show">Andrea Mitchell Reports</field>
+<field name="showid">MSNBCW_20190503_160000_Andrea_Mitchell_Reports</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190503_160000_Andrea_Mitchell_Reports/MSNBCW_20190503_160000_Andrea_Mitchell_Reports.thumbs/MSNBCW_20190503_160000_Andrea_Mitchell_Reports_001617.jpg</field>
+<field name="snippet">today, students around the world are joining a global protest, walking out of their classes to raise awareness about climate change. a key issue in the upcoming presidential election. according to a new cnn poll, 96% of democratic voters said that</field>
+</doc>
+</add>

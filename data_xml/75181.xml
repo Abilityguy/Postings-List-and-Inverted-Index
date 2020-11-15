@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_110000_BBC_Newsroom_Live#start/4039/end/4074</field>
+<field name="datetime">1/16/2020 12:07:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20200116_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_110000_BBC_Newsroom_Live/BBCNEWS_20200116_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20200116_110000_BBC_Newsroom_Live_004018.jpg</field>
+<field name="snippet">the naturalist and broadcaster sir david attenborough has given a new warning about climate change, telling the bbc, 'the moment of crisis has come.' in an exclusive interview to mark the start of the bbc's our planet matters series, sir david called on governments to do more to tackle the threat</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191118_000000_Newsday#start/1170/end/1205</field>
+<field name="datetime">11/18/2019 0:19:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191118_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191118_000000_Newsday/BBCNEWS_20191118_000000_Newsday.thumbs/BBCNEWS_20191118_000000_Newsday_001169.jpg</field>
+<field name="snippet">the sun is setting on spain's coal mining industry. for years, the industry has been economically unviable, and now the demands of climate change are finishing it off altogether. but, as one door closes, could more open? sharon borrows the head of the international trade</field>
+</doc>
+</add>

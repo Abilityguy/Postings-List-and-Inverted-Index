@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091214_200000_MSNBC_News_Live#start/1814/end/1849</field>
+<field name="datetime">12/14/2009 20:30:29</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091214_200000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091214_200000_MSNBC_News_Live/MSNBC_20091214_200000_MSNBC_News_Live.thumbs/MSNBC_20091214_200000_MSNBC_News_Live_001796.jpg</field>
+<field name="snippet">climate debate, a global warming skeptic at the national space center had a heart attack and was rushed to the hospital. nbc's ann thompson joins us by phone from copenhagen. a lot to talk about, we'll keep this to where are talks now and</field>
+</doc>
+</add>

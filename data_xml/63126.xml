@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190304_110000_BBC_Newsroom_Live#start/976/end/1011</field>
+<field name="datetime">3/4/2019 11:16:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190304_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190304_110000_BBC_Newsroom_Live/BBCNEWS_20190304_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190304_110000_BBC_Newsroom_Live_003538.jpg</field>
+<field name="snippet">roughly speaking, we're halfway there. last year, emissions were 39% below 1990 levels, according to our estimates. a couple of things, one, on the 2nd of may, the committee on climate change,</field>
+</doc>
+</add>

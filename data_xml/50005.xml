@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181226_040000_Special_Report_With_Bret_Baier#start/1446/end/1481</field>
+<field name="datetime">12/26/2018 4:24:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20181226_040000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181226_040000_Special_Report_With_Bret_Baier/FOXNEWSW_20181226_040000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20181226_040000_Special_Report_With_Bret_Baier_001438.jpg</field>
+<field name="snippet">export it based on subsidies paid for by the u.s. taxpayer. it doesn't make sense. greenpeace and others state their cold turkey approach is i necessary to hold temperatures below 2 degrees in the fight against global warming.</field>
+</doc>
+</add>

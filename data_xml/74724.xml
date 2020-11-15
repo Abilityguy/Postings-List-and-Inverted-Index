@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_170000_BBC_News_at_Five#start/1982/end/2017</field>
+<field name="datetime">1/16/2020 17:33:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20200116_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_170000_BBC_News_at_Five/BBCNEWS_20200116_170000_BBC_News_at_Five.thumbs/BBCNEWS_20200116_170000_BBC_News_at_Five_001947.jpg</field>
+<field name="snippet">weather across the uk. this is bbc news. the headlines. we're out of time - and world leaders need to make life or death decisions on climate change now - a warning from sir david attenborough.</field>
+</doc>
+</add>

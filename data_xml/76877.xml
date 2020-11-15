@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190513_080000_BBC_News_at_Nine#start/1693/end/1728</field>
+<field name="datetime">5/13/2019 8:28:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190513_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190513_080000_BBC_News_at_Nine/BBCNEWS_20190513_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190513_080000_BBC_News_at_Nine_001677.jpg</field>
+<field name="snippet">food waste in this country is the equivalent of all of the carbon emissions that come from every third motorcar on the road, or every heavy goods vehicle, so we have to do something about this, and i do think that the climate change debate has been a catalyst for businesses</field>
+</doc>
+</add>

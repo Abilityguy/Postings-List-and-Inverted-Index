@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200910.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091004_180000_Meet_the_Press#start/977/end/1012</field>
+<field name="datetime">10/4/2009 18:16:32</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBC_20091004_180000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBC_20091004_180000_Meet_the_Press/MSNBC_20091004_180000_Meet_the_Press.thumbs/MSNBC_20091004_180000_Meet_the_Press_000956.jpg</field>
+<field name="snippet">the books today against any country in the world, north korea, we got something that was much more powerful than anything we would muster on our own. we are not able, given transnational threats, terrorism, climate change</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181003_073000_BBC_Business_Live#start/928/end/963</field>
+<field name="datetime">10/3/2018 7:45:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Business Live</field>
+<field name="showid">BBCNEWS_20181003_073000_BBC_Business_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181003_073000_BBC_Business_Live/BBCNEWS_20181003_073000_BBC_Business_Live.thumbs/BBCNEWS_20181003_073000_BBC_Business_Live_000927.jpg</field>
+<field name="snippet">the european parliament is due to vote today on proposals to cut vehicle co2 emissions by as much as 45% by 2030, pitting the interests of the motor industry against efforts to cut greenhouse gas emissions. we were both relieved that we've got</field>
+</doc>
+</add>

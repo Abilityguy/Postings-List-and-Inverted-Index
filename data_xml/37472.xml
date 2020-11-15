@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201401.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140118_090000_The_Five#start/636/end/671</field>
+<field name="datetime">1/18/2014 9:10:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20140118_090000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140118_090000_The_Five/FOXNEWSW_20140118_090000_The_Five.thumbs/FOXNEWSW_20140118_090000_The_Five_000615.jpg</field>
+<field name="snippet">why did you pick this topic? i didn't. they told me. no, they didn't. i love climate change. next on 'the five,' the most awkward 'today' show moment since matt lauer ate that squirrel. we'll show you what happened when kate gosselin sat down with</field>
+</doc>
+</add>

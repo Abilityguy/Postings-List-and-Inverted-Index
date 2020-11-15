@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181015_120000_BBC_News_at_One#start/913/end/948</field>
+<field name="datetime">10/15/2018 12:15:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20181015_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181015_120000_BBC_News_at_One/BBCNEWS_20181015_120000_BBC_News_at_One.thumbs/BBCNEWS_20181015_120000_BBC_News_at_One_000897.jpg</field>
+<field name="snippet">turn away from coal, oil and gas to protect the climate. how does that square with today's announcement? roger harrabin reports. coal burning is climate enemy number one, so britain's become a global leader in tackling climate change, by phasing out coal for power generation. now, scientists say a huge expansion in wind and solar power is needed to stabilise the climate.</field>
+</doc>
+</add>

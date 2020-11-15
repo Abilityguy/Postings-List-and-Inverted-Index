@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201807.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180711_100000_BBC_Newsroom_Live#start/6468/end/6503</field>
+<field name="datetime">7/11/2018 11:48:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20180711_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180711_100000_BBC_Newsroom_Live/BBCNEWS_20180711_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20180711_100000_BBC_Newsroom_Live_006447.jpg</field>
+<field name="snippet">what is being emitted from them, and therefore how that's going to affect the atmosphere, going into the future. this flight is part of a much bigger global study of greenhouse gas emissions. today, though, it has captured samples that will eventually reveal exactly what is drifting into our towns and cities.</field>
+</doc>
+</add>

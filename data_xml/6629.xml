@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190922_220000_BBC_News#start/42/end/77</field>
+<field name="datetime">9/22/2019 22:00:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190922_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190922_220000_BBC_News/BBCNEWS_20190922_220000_BBC_News.thumbs/BBCNEWS_20190922_220000_BBC_News_000028.jpg</field>
+<field name="snippet">heating are speeding up, according to the latest science on climate change, published ahead of key un talks in new york. game of thrones will have one final chance to achieve emmy glory later as television's best and brightest prepare for this year's us awards ceremony.</field>
+</doc>
+</add>

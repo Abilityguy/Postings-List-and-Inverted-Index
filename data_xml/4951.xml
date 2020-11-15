@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170629_050000_Breakfast#start/5530/end/5565</field>
+<field name="datetime">6/29/2017 6:32:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20170629_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170629_050000_Breakfast/BBCNEWS_20170629_050000_Breakfast.thumbs/BBCNEWS_20170629_050000_Breakfast_005517.jpg</field>
+<field name="snippet">devise new power saving policies after brexit, according to a new report. the independent committee on climate change says eu energy efficiency rules on household appliances have helped reduce emissions. it's warning that the uk government now needs to to extend energy savings through better home insulation.</field>
+</doc>
+</add>

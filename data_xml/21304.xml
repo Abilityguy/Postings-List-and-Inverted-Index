@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180912_220000_BBC_News#start/1168/end/1203</field>
+<field name="datetime">9/12/2018 22:19:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180912_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180912_220000_BBC_News/BBCNEWS_20180912_220000_BBC_News.thumbs/BBCNEWS_20180912_220000_BBC_News_001167.jpg</field>
+<field name="snippet">proposals for a green brexit and how the current european subsidies will be replaced. instead of payments based on the size of a farm, money will be allocated for undertaking environmental projects, such as introducing measures to combat climate change. the bill also outlines a greater</field>
+</doc>
+</add>

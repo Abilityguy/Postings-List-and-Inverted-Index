@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201401.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140130_160000_Happening_Now#start/4870/end/4905</field>
+<field name="datetime">1/30/2014 17:21:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20140130_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140130_160000_Happening_Now/FOXNEWSW_20140130_160000_Happening_Now.thumbs/FOXNEWSW_20140130_160000_Happening_Now_004845.jpg</field>
+<field name="snippet">paying attention to the nonheat-related demand for things like oil, natural gas and propane have gone up year after year after year. and so a lot of the refiners, the dealers took winter for granted. they believed in global warming.</field>
+</doc>
+</add>

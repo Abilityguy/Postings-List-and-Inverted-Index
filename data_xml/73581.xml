@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201108.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20110821_100000_FOX_and_Friends_Sunday#start/8218/end/8253</field>
+<field name="datetime">8/21/2011 12:17:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20110821_100000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20110821_100000_FOX_and_Friends_Sunday/FOXNEWSW_20110821_100000_FOX_and_Friends_Sunday.thumbs/FOXNEWSW_20110821_100000_FOX_and_Friends_Sunday_008190.jpg</field>
+<field name="snippet">eyebrows, are we in the dog days of summer now? we've got candidates and debates right now, and global warming, there's the grizzly bear. are we awaiting what president obama is going to say, he's on vacation right now and congress out of session right now. are we awaiting what's going</field>
+</doc>
+</add>

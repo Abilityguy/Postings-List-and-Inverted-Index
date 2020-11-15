@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171117_110000_BBC_Newsroom_Live#start/4828/end/4863</field>
+<field name="datetime">11/17/2017 12:20:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20171117_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171117_110000_BBC_Newsroom_Live/BBCNEWS_20171117_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20171117_110000_BBC_Newsroom_Live_004828.jpg</field>
+<field name="snippet">where you'll be able to get more details on. it's the final day of the united nations climate</field>
+</doc>
+</add>

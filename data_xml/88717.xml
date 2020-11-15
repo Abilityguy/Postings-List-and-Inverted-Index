@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190612_123000_BBC_News#start/501/end/536</field>
+<field name="datetime">6/12/2019 12:38:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190612_123000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190612_123000_BBC_News/BBCNEWS_20190612_123000_BBC_News.thumbs/BBCNEWS_20190612_123000_BBC_News_000477.jpg</field>
+<field name="snippet">theresa may has told mps that britain will cut greenhouse gas emissions to almost zero by 2050, making it the first major nation to legislate for this target. the move has been widely praised. however, some critics say the phase-out is too late to protect the climate, and others fear the task is impossible. a short time ago, greg glark - the energy secretary -  _</field>
+</doc>
+</add>

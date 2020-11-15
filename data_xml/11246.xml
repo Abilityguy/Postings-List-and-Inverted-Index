@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_200000_Outside_Source#start/2626/end/2661</field>
+<field name="datetime">8/8/2019 20:44:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20190808_200000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_200000_Outside_Source/BBCNEWS_20190808_200000_Outside_Source.thumbs/BBCNEWS_20190808_200000_Outside_Source_002608.jpg</field>
+<field name="snippet">this is 0utside source live from the bbc newsroom. 0ur lead story is. a new un report says our diet, intensive farming and food waste are all fuelling global warming and damaging the planet. here are the other stories. the italian deputy prime minister</field>
+</doc>
+</add>

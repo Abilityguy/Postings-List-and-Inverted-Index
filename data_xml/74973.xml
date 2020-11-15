@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_130000_BBC_News_at_One#start/686/end/721</field>
+<field name="datetime">1/17/2020 13:11:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20200117_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_130000_BBC_News_at_One/BBCNEWS_20200117_130000_BBC_News_at_One.thumbs/BBCNEWS_20200117_130000_BBC_News_at_One_000688.jpg</field>
+<field name="snippet">obviously linking into our coverage today. nottingham council has received more than £3 million from the government to trial the new technology. to find out more about climate change and what you can do, go to our website, that's</field>
+</doc>
+</add>

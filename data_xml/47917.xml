@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201511.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151130_200000_MSNBC_Live_With_Kate_Snow#start/1000/end/1035</field>
+<field name="datetime">11/30/2015 20:16:55</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Kate Snow</field>
+<field name="showid">MSNBCW_20151130_200000_MSNBC_Live_With_Kate_Snow</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151130_200000_MSNBC_Live_With_Kate_Snow/MSNBCW_20151130_200000_MSNBC_Live_With_Kate_Snow.thumbs/MSNBCW_20151130_200000_MSNBC_Live_With_Kate_Snow_000976.jpg</field>
+<field name="snippet">and the aftermath of the terror attacks here in paris, the mood suggests needing to acknowledge that and also the gravity of world events does, too. i was going to ask you, as well, there was so much talk of protesters that the climate change summit, well before the</field>
+</doc>
+</add>

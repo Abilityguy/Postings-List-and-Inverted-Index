@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201505.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150523_150000_Forbes_on_FOX#start/100/end/135</field>
+<field name="datetime">5/23/2015 15:01:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Forbes on FOX</field>
+<field name="showid">FOXNEWSW_20150523_150000_Forbes_on_FOX</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150523_150000_Forbes_on_FOX/FOXNEWSW_20150523_150000_Forbes_on_FOX.thumbs/FOXNEWSW_20150523_150000_Forbes_on_FOX_000075.jpg</field>
+<field name="snippet">we're not cherry picking here. let me just quote from the president's speech. he says this brings me to the challenge i want to focus on today and that's the urgent need to combat and adapt to climate change. so that's his priority. yeah i think -- well he            _</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201302.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130205_030000_The_Last_Word#start/2567/end/2602</field>
+<field name="datetime">2/5/2013 3:43:02</field>
+<field name="station">MSNBC</field>
+<field name="show">The Last Word</field>
+<field name="showid">MSNBCW_20130205_030000_The_Last_Word</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130205_030000_The_Last_Word/MSNBCW_20130205_030000_The_Last_Word.thumbs/MSNBCW_20130205_030000_The_Last_Word_002565.jpg</field>
+<field name="snippet">now as you said we don't know what caused these problems, but what we know is extreme weather is getting worse because of climate change. and we'll have more and more outages unless we create a more reliable system. and creating a smarter grid. not the perfect one, but a</field>
+</doc>
+</add>

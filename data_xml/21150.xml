@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180903_220000_BBC_News#start/456/end/491</field>
+<field name="datetime">9/3/2018 22:07:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180903_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180903_220000_BBC_News/BBCNEWS_20180903_220000_BBC_News.thumbs/BBCNEWS_20180903_220000_BBC_News_000447.jpg</field>
+<field name="snippet">but as the climate warms, that is set to become more likely. going forward into the future, it's expected that because of greenhouse gas emissions and global warming these kinds of heatwaves will occur more regularly, and when they occur, will have higher temperatures as a result.</field>
+</doc>
+</add>

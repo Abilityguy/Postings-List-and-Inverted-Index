@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201312.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20131215_110000_FOX_and_Friends_Sunday#start/5852/end/5887</field>
+<field name="datetime">12/15/2013 12:37:47</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20131215_110000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20131215_110000_FOX_and_Friends_Sunday/FOXNEWSW_20131215_110000_FOX_and_Friends_Sunday.thumbs/FOXNEWSW_20131215_110000_FOX_and_Friends_Sunday_005835.jpg</field>
+<field name="snippet">he was distracted because he couldn't lecture me on global warming anymore. let me give him a call after the show and we'll talk. leo dicaprio is in a great movie. let's talk to janice dean about what's happening with the weather.</field>
+</doc>
+</add>

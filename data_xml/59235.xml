@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181124_043000_Our_World#start/0/end/34</field>
+<field name="datetime">11/24/2018 4:30:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Our World</field>
+<field name="showid">BBCNEWS_20181124_043000_Our_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181124_043000_Our_World/BBCNEWS_20181124_043000_Our_World.thumbs/BBCNEWS_20181124_043000_Our_World_000058.jpg</field>
+<field name="snippet">the headlines: an official us report warns that climate change will cost america hundreds of billions of dollars and cause severe damage to people's health and way of life - all of which is at odds with president trump's stance on the issue. the spanish prime minister says he still hasn't got the british guarantees he wants on gibraltar, suggesting that a summit in brussels on sunday to approve</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191012_024500_Newswatch#start/413/end/448</field>
+<field name="datetime">10/12/2019 2:52:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newswatch</field>
+<field name="showid">BBCNEWS_20191012_024500_Newswatch</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191012_024500_Newswatch/BBCNEWS_20191012_024500_Newswatch.thumbs/BBCNEWS_20191012_024500_Newswatch_000418.jpg</field>
+<field name="snippet">if you look across the bbc, for a long time we have been reporting climate change as a huge and important issue. we are reporting really regularly. it's been on the bulletins, the last couple of weeks have been an exceptionally busy time. would you like to see it</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190525_190000_BBC_News#start/1601/end/1636</field>
+<field name="datetime">5/25/2019 19:26:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190525_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190525_190000_BBC_News/BBCNEWS_20190525_190000_BBC_News.thumbs/BBCNEWS_20190525_190000_BBC_News_001588.jpg</field>
+<field name="snippet">being seen as evidence of public concern about climate change. the party is still behind fianna fail, fine gael and sinn fein. joining us now from</field>
+</doc>
+</add>

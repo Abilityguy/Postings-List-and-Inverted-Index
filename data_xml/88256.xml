@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191216_000000_Newsday#start/95/end/130</field>
+<field name="datetime">12/16/2019 0:01:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191216_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191216_000000_Newsday/BBCNEWS_20191216_000000_Newsday.thumbs/BBCNEWS_20191216_000000_Newsday_000089.jpg</field>
+<field name="snippet">it is 8:00am in singapore, midnight in london, and 1:00am in madrid, where the longest un climate talks ever held have finished with a compromise deal on tackling climate change. the agreement means all countries will put new, tougher carbon-cutting plans on the table in time for another major conference in scotland next year.</field>
+</doc>
+</add>

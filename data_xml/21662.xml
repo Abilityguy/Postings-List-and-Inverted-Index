@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100123_080000_Red_Eye#start/553/end/588</field>
+<field name="datetime">1/23/2010 8:09:28</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20100123_080000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100123_080000_Red_Eye/FOXNEWS_20100123_080000_Red_Eye.thumbs/FOXNEWS_20100123_080000_Red_Eye_000533.jpg</field>
+<field name="snippet">that we don't? well, let's think about this. chaw -- chavez says the quake was caused by the united states. danny glover says it was the earth's revenge for not passing climate change legislation. seismologist say it was a</field>
+</doc>
+</add>

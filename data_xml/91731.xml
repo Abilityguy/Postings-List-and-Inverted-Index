@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190712_040000_Tucker_Carlson_Tonight#start/1479/end/1514</field>
+<field name="datetime">7/12/2019 4:24:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190712_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190712_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190712_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190712_040000_Tucker_Carlson_Tonight_001469.jpg</field>
+<field name="snippet">something beta over caught up in the car. but if it is true, and people are fleeingf global warming, why are they moving to the hottest states in the country? why aren't they coming to maine or minnesota? seriously. tucker, that part is because</field>
+</doc>
+</add>

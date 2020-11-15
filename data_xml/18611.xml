@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170125_050000_BBC_News#start/286/end/321</field>
+<field name="datetime">1/25/2017 5:05:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170125_050000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170125_050000_BBC_News/BBCNEWS_20170125_050000_BBC_News.thumbs/BBCNEWS_20170125_050000_BBC_News_000267.jpg</field>
+<field name="snippet">the new president has also instituted a media blackout at the us environmental protection agency. in the past, he's questioned the scientific evidence for climate change and previously stated it's a concept created by china. the actress, jane fonda</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190923_080000_Fox_and_Friends_First#start/3608/end/3643</field>
+<field name="datetime">9/23/2019 9:00:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190923_080000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190923_080000_Fox_and_Friends_First/FOXNEWSW_20190923_080000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190923_080000_Fox_and_Friends_First_003598.jpg</field>
+<field name="snippet">because of global warming. 'fox & friends first' continues now, bye, bye. it is monday september 23rd, president trump taking his message to the united nations today as tensions with iran loom over the general assembly. rob: democrats focusing on impeachment after the</field>
+</doc>
+</add>

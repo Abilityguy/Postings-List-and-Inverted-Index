@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190825_133000_Focus_on_Farming#start/57/end/92</field>
+<field name="datetime">8/25/2019 13:31:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Focus on Farming</field>
+<field name="showid">BBCNEWS_20190825_133000_Focus_on_Farming</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190825_133000_Focus_on_Farming/BBCNEWS_20190825_133000_Focus_on_Farming.thumbs/BBCNEWS_20190825_133000_Focus_on_Farming_000058.jpg</field>
+<field name="snippet">now on bbc news. a special report on the big issues facing uk agriculture, including the possible effects of brexit and climate change.</field>
+</doc>
+</add>

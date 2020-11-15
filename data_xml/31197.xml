@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090707_130000_Americas_Newsroom#start/908/end/943</field>
+<field name="datetime">7/7/2009 13:15:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20090707_130000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090707_130000_Americas_Newsroom/FOXNEWS_20090707_130000_Americas_Newsroom.thumbs/FOXNEWS_20090707_130000_Americas_Newsroom_000900.jpg</field>
+<field name="snippet">questions on capitol hill. republican senator, james m. hoff, a longtime global warming skeptic. good morning. what is your first question? first of all, we called for</field>
+</doc>
+</add>

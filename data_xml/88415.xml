@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190612_073000_BBC_Business_Live#start/1806/end/1841</field>
+<field name="datetime">6/12/2019 8:00:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Business Live</field>
+<field name="showid">BBCNEWS_20190612_073000_BBC_Business_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190612_073000_BBC_Business_Live/BBCNEWS_20190612_073000_BBC_Business_Live.thumbs/BBCNEWS_20190612_073000_BBC_Business_Live_001708.jpg</field>
+<field name="snippet">sunshine coming through, it shouldn't feel too bad. goodbye. you're watching bbc news at nine with me annita mcveigh. the headlines - a new plan to tackle climate change - the uk commits to cut greenhouse gas emissions to net zero</field>
+</doc>
+</add>

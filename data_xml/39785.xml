@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091130_140000_Americas_Newsroom#start/1791/end/1826</field>
+<field name="datetime">11/30/2009 14:30:06</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20091130_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091130_140000_Americas_Newsroom/FOXNEWS_20091130_140000_Americas_Newsroom.thumbs/FOXNEWS_20091130_140000_Americas_Newsroom_001560.jpg</field>
+<field name="snippet">virginia couple that crashed a white house state dinner. breaking news in the global warming debate. countries like the united states need to cut carbon emissions by 80% in the coming</field>
+</doc>
+</add>

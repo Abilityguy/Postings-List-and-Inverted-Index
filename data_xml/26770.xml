@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100211_180000_America_Live#start/2517/end/2552</field>
+<field name="datetime">2/11/2010 18:42:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWS_20100211_180000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100211_180000_America_Live/FOXNEWS_20100211_180000_America_Live.thumbs/FOXNEWS_20100211_180000_America_Live_002514.jpg</field>
+<field name="snippet">mimi-- megyn: myron, there's an editorial in the 'new york times' that has harsher words than that about dan's theory, calling it a global warming fraud and saying, this is a quote, that man-made global warming's theory isn't backed up by science, it's a hoax, the public and world leaders</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190124_200000_BBC_News#start/2017/end/2052</field>
+<field name="datetime">1/24/2019 20:33:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190124_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190124_200000_BBC_News/BBCNEWS_20190124_200000_BBC_News.thumbs/BBCNEWS_20190124_200000_BBC_News_002007.jpg</field>
+<field name="snippet">because of climate change. shadow chancellorjohn mcdonnell has said it is 'highly likely' that labour will support yvette cooper's brexit amendment, which would give the uk more time</field>
+</doc>
+</add>

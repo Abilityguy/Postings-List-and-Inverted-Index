@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100105_110000_FOX_and_Friends#start/5868/end/5903</field>
+<field name="datetime">1/5/2010 12:38:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100105_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100105_110000_FOX_and_Friends/FOXNEWS_20100105_110000_FOX_and_Friends.thumbs/FOXNEWS_20100105_110000_FOX_and_Friends_005840.jpg</field>
+<field name="snippet">air temperature is 9 below zero. international falls in minnesota yesterday had a recorded temperature of 37 degrees below zero. that is the coldest temperature that town has had since 1911. yeah, that global warming</field>
+</doc>
+</add>

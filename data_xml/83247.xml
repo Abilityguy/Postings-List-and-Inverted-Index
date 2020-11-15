@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191014_080000_BBC_News_at_Nine#start/869/end/904</field>
+<field name="datetime">10/14/2019 8:14:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20191014_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191014_080000_BBC_News_at_Nine/BBCNEWS_20191014_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20191014_080000_BBC_News_at_Nine_000867.jpg</field>
+<field name="snippet">arrests in connection with the ongoing extinction rebellion protests across london. hundreds of activists occupied the crossroads outside the bank of england this morning, targeting financial firms they say profit from climate change. the protests in the capital started last monday and aim to cause maximum disruption.</field>
+</doc>
+</add>

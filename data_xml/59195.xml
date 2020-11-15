@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181102_140000_Afternoon_Live#start/3501/end/3536</field>
+<field name="datetime">11/2/2018 14:58:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20181102_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181102_140000_Afternoon_Live/BBCNEWS_20181102_140000_Afternoon_Live.thumbs/BBCNEWS_20181102_140000_Afternoon_Live_003477.jpg</field>
+<field name="snippet">this is afternoon live - i'm simon mccoy. hotter days and tropical nights - that's a weather forecast that would usually bring a bit of cheer, but when the reason for it is climate change, well, it's a reason for concern. the met office says summer days are getting hotter, with warm spells longer than they used to be, and tropical nights - where temperatures stay                 _</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200911.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091128_160000_MSNBC_News_Live#start/2896/end/2931</field>
+<field name="datetime">11/28/2009 16:48:31</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091128_160000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091128_160000_MSNBC_News_Live/MSNBC_20091128_160000_MSNBC_News_Live.thumbs/MSNBC_20091128_160000_MSNBC_News_Live_002880.jpg</field>
+<field name="snippet">that are linked to climate change, but also bringing on the big emerging countries like china and india, our economic competitors, and making sure they're doing things to curve their carbon output in order to create a level playing field so that these kinds of issues are more palatable back at home.</field>
+</doc>
+</add>

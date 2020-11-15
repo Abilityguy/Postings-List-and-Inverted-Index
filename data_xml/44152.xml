@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180108_030000_Fox_News_Sunday_With_Chris_Wallace#start/3482/end/3517</field>
+<field name="datetime">1/8/2018 3:58:17</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News Sunday With Chris Wallace</field>
+<field name="showid">FOXNEWSW_20180108_030000_Fox_News_Sunday_With_Chris_Wallace</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180108_030000_Fox_News_Sunday_With_Chris_Wallace/FOXNEWSW_20180108_030000_Fox_News_Sunday_With_Chris_Wallace.thumbs/FOXNEWSW_20180108_030000_Fox_News_Sunday_With_Chris_Wallace_003447.jpg</field>
+<field name="snippet">chris: adams please instead of those zero-sum game where one side wins and the other loses, public health is about building partnerships on climate change. we know the science says that man is having an impact on the climate but we also know that people are dying from not having. jobs and not been able to see</field>
+</doc>
+</add>

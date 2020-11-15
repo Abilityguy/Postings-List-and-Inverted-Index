@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200109_030000_BBC_News#start/871/end/906</field>
+<field name="datetime">1/9/2020 3:14:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200109_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200109_030000_BBC_News/BBCNEWS_20200109_030000_BBC_News.thumbs/BBCNEWS_20200109_030000_BBC_News_000868.jpg</field>
+<field name="snippet">was heavily criticised, scott morrison, for being on holiday in hawaii during one of the worst weeks of this bushfire crisis before christmas. mr morrison also criticised for underplaying the role of global warming in this crisis as</field>
+</doc>
+</add>

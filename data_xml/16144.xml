@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201304.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130409_220000_Special_Report_With_Bret_Baier#start/2057/end/2092</field>
+<field name="datetime">4/9/2013 22:34:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20130409_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130409_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20130409_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20130409_220000_Special_Report_With_Bret_Baier_002055.jpg</field>
+<field name="snippet">500 flights at the denver airport and caused major delays. despite the weather, americans are more worried now about global warming than in recent years. but not nearly as much as at the turn of the century. that's according to a new gallup poll.</field>
+</doc>
+</add>

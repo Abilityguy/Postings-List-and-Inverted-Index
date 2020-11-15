@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100111_050000_Red_Eye#start/613/end/648</field>
+<field name="datetime">1/11/2010 5:10:28</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20100111_050000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100111_050000_Red_Eye/FOXNEWS_20100111_050000_Red_Eye.thumbs/FOXNEWS_20100111_050000_Red_Eye_000600.jpg</field>
+<field name="snippet">a city supervisor vows to drop the 'f' bomb at every meeting. helen thomas wants to know why the terrorists hate us. put away hats and gloves global warming will be here,</field>
+</doc>
+</add>

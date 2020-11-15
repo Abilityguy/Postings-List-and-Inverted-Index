@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190203_093000_The_Papers#start/525/end/560</field>
+<field name="datetime">2/3/2019 9:39:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Papers</field>
+<field name="showid">BBCNEWS_20190203_093000_The_Papers</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190203_093000_The_Papers/BBCNEWS_20190203_093000_The_Papers.thumbs/BBCNEWS_20190203_093000_The_Papers_000509.jpg</field>
+<field name="snippet">the tory peer and head of the climate change committee, john selwyn gummer, has been paid £600000 from green businesses who stand to make millions from his advice. it reports mps say he should have declared the payments. he denies any conflict of interest</field>
+</doc>
+</add>

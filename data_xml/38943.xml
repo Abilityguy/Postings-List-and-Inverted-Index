@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100428_130000_Americas_Newsroom#start/91/end/126</field>
+<field name="datetime">4/28/2010 13:01:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20100428_130000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100428_130000_Americas_Newsroom/FOXNEWS_20100428_130000_Americas_Newsroom.thumbs/FOXNEWS_20100428_130000_Americas_Newsroom_000086.jpg</field>
+<field name="snippet">how much of a priority is it for immigration reform, molly? reporter: initially senate majority leader harry reid said imgreg is up next before climate change but yesterday reid said wait a minute, there's a climate change bill ready to go,</field>
+</doc>
+</add>

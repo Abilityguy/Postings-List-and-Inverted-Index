@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201002.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100211_170000_MSNBC_News_Live#start/2126/end/2161</field>
+<field name="datetime">2/11/2010 17:35:41</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100211_170000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100211_170000_MSNBC_News_Live/MSNBC_20100211_170000_MSNBC_News_Live.thumbs/MSNBC_20100211_170000_MSNBC_News_Live_002126.jpg</field>
+<field name="snippet">those pictures. the eastern seaboard record snowfall is heating up the global warming debate. family of oklahoma senator james inhoff poked fun at former vice president al gore. they built an igloo and added a</field>
+</doc>
+</add>

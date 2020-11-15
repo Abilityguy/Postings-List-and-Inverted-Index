@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091207_180000_The_Live_Desk#start/4461/end/4496</field>
+<field name="datetime">12/7/2009 19:14:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Live Desk</field>
+<field name="showid">FOXNEWS_20091207_180000_The_Live_Desk</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091207_180000_The_Live_Desk/FOXNEWS_20091207_180000_The_Live_Desk.thumbs/FOXNEWS_20091207_180000_The_Live_Desk_004429.jpg</field>
+<field name="snippet">clashes in the streets of athens, greece. one year marking the fatal shooting of a teenager by police. trace: and announcement from the epa announcing greenhouse gases are a threat to public health,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190604_120000_BBC_News_at_One#start/168/end/203</field>
+<field name="datetime">6/4/2019 12:03:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190604_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190604_120000_BBC_News_at_One/BBCNEWS_20190604_120000_BBC_News_at_One.thumbs/BBCNEWS_20190604_120000_BBC_News_at_One_000148.jpg</field>
+<field name="snippet">demonstration of the special relationship. but in private, there will be talk of where that relationship is under strain. approaches to iran, climate change, huawei all up for discussion. on the</field>
+</doc>
+</add>

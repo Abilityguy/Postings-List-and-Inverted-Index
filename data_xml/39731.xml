@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091127_110000_FOX_and_Friends#start/5453/end/5488</field>
+<field name="datetime">11/27/2009 12:31:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091127_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091127_110000_FOX_and_Friends/FOXNEWS_20091127_110000_FOX_and_Friends.thumbs/FOXNEWS_20091127_110000_FOX_and_Friends_005268.jpg</field>
+<field name="snippet">ainsley: china makes a major move to curb its reputation as the world's largest emitter of greenhouse gases. this as the copenhagen climate summit is one week away with president obama expected to attend. chinese government. look at that. clayton: can you imagine jogging in that?</field>
+</doc>
+</add>

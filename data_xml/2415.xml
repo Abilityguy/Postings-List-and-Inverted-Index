@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170401_150000_Forbes_on_Fox#start/257/end/292</field>
+<field name="datetime">4/1/2017 15:04:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Forbes on Fox</field>
+<field name="showid">FOXNEWSW_20170401_150000_Forbes_on_Fox</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170401_150000_Forbes_on_Fox/FOXNEWSW_20170401_150000_Forbes_on_Fox.thumbs/FOXNEWSW_20170401_150000_Forbes_on_Fox_000237.jpg</field>
+<field name="snippet">it's the market forces. yes, we don't want pollution, everyone can agree with that and concern about climate change, we get it, but who is the best answer to fix it? who has the right answers? i think that the government has answers and net gas is driving down the emissions to 1992</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201006.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100617_000000_The_OReilly_Factor#start/246/end/281</field>
+<field name="datetime">6/17/2010 0:04:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20100617_000000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100617_000000_The_OReilly_Factor/FOXNEWS_20100617_000000_The_OReilly_Factor.thumbs/FOXNEWS_20100617_000000_The_OReilly_Factor_000236.jpg</field>
+<field name="snippet">it's global warming but it's also a sense that he's let them down. a sense that he's let the gulf be polluted with this oil, that he hasn't stopped it. that he's letting it spoil the environment. that he's letting it.</field>
+</doc>
+</add>

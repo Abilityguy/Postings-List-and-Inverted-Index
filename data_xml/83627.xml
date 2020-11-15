@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190419_200000_World_News_Today#start/1843/end/1878</field>
+<field name="datetime">4/19/2019 20:30:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190419_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190419_200000_World_News_Today/BBCNEWS_20190419_200000_World_News_Today.thumbs/BBCNEWS_20190419_200000_World_News_Today_001829.jpg</field>
+<field name="snippet">police are treating it as a terrorist incident climate change protests are being held across europe.</field>
+</doc>
+</add>

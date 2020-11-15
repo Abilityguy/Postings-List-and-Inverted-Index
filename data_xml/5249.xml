@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171213_053000_Business_Briefing#start/374/end/409</field>
+<field name="datetime">12/13/2017 5:36:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Business Briefing</field>
+<field name="showid">BBCNEWS_20171213_053000_Business_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171213_053000_Business_Briefing/BBCNEWS_20171213_053000_Business_Briefing.thumbs/BBCNEWS_20171213_053000_Business_Briefing_000357.jpg</field>
+<field name="snippet">-- the world bank will stop funding oil and gas exploration from 2019. it's a way for the bank to free up funds to invest in renewable energies - and help developing nations meet the greenhouse gas</field>
+</doc>
+</add>

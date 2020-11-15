@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191118_000000_Newsday#start/1121/end/1156</field>
+<field name="datetime">11/18/2019 0:18:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191118_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191118_000000_Newsday/BBCNEWS_20191118_000000_Newsday.thumbs/BBCNEWS_20191118_000000_Newsday_001108.jpg</field>
+<field name="snippet">that brings you up-to-date with some of the papers. thank you. the burning of coal is a huge driver of climate change, producing around 40% of global carbon dioxide emissions. but it's also estimated that coal mining employs six million people worldwide.</field>
+</doc>
+</add>

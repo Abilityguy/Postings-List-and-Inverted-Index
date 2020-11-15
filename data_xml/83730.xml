@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190429_100000_BBC_Newsroom_Live#start/2626/end/2661</field>
+<field name="datetime">4/29/2019 10:44:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190429_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190429_100000_BBC_Newsroom_Live/BBCNEWS_20190429_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190429_100000_BBC_Newsroom_Live_002607.jpg</field>
+<field name="snippet">there's three times more carbon stored in soil than there actually is in the atmosphere. so you imagine, if all that carbon was released from the soil into the atmosphere, we'd have - this is the runaway climate change that people are concerned about. so what to do? well, we know cows' burps are a problem for climate change, but their dung also helps put</field>
+</doc>
+</add>

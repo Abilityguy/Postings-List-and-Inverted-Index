@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201703.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170328_210000_MTP_Daily#start/1247/end/1282</field>
+<field name="datetime">3/28/2017 21:21:02</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20170328_210000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170328_210000_MTP_Daily/MSNBCW_20170328_210000_MTP_Daily.thumbs/MSNBCW_20170328_210000_MTP_Daily_001227.jpg</field>
+<field name="snippet">this executive order would revive the coal industry. it doesn't mean a revival for cole jobs. they moved away from cole dependency and it makes it nearly impossible to hold up its end of the climate change</field>
+</doc>
+</add>

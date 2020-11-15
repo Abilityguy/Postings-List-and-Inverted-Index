@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091212_140000_MSNBC_News_Live#start/2433/end/2468</field>
+<field name="datetime">12/12/2009 14:40:48</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091212_140000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091212_140000_MSNBC_News_Live/MSNBC_20091212_140000_MSNBC_News_Live.thumbs/MSNBC_20091212_140000_MSNBC_News_Live_002394.jpg</field>
+<field name="snippet">overall agenda in copenhagen, outlining focus for a new climate agreement likely considered with pledges by the wealthier nations to commit to substantial reductions in greenhouse gas emissions over the next decade and the overall goal for the near elimination by</field>
+</doc>
+</add>

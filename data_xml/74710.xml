@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_060000_Breakfast#start/612/end/647</field>
+<field name="datetime">1/17/2020 6:10:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20200117_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_060000_Breakfast/BBCNEWS_20200117_060000_Breakfast.thumbs/BBCNEWS_20200117_060000_Breakfast_000597.jpg</field>
+<field name="snippet">matt is at the science centre in glasgow, where we're taking a closer look at the impact of climate change. behind me is the sec complex that includes the venues where the big us</field>
+</doc>
+</add>

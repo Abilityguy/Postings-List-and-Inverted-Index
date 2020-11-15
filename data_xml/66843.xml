@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201411.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20141115_170000_Weekends_With_Alex_Witt#start/5548/end/5583</field>
+<field name="datetime">11/15/2014 18:32:43</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20141115_170000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20141115_170000_Weekends_With_Alex_Witt/MSNBCW_20141115_170000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20141115_170000_Weekends_With_Alex_Witt_005536.jpg</field>
+<field name="snippet">lead the global effort against climate change. that's why today i am proud that we can announce a historic agreement. the deal calls for the u.s. to reduce emissions up to 28% below 2005 levels by 2025. china will raise its usage of</field>
+</doc>
+</add>

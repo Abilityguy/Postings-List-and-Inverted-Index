@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091121_120000_FOX_and_Friends_Saturday#start/2094/end/2129</field>
+<field name="datetime">11/21/2009 12:35:09</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWS_20091121_120000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091121_120000_FOX_and_Friends_Saturday/FOXNEWS_20091121_120000_FOX_and_Friends_Saturday.thumbs/FOXNEWS_20091121_120000_FOX_and_Friends_Saturday_002070.jpg</field>
+<field name="snippet">and climate change. one woman is dead after a crow plowed in a crowd of people in alabama. nine children were hit. they are expected to survive. the scen year old woman was troying to avoid kids playing</field>
+</doc>
+</add>

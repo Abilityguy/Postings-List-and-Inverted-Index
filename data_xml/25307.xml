@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201611.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161122_200000_Shepard_Smith_Reporting#start/247/end/282</field>
+<field name="datetime">11/22/2016 20:04:22</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20161122_200000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161122_200000_Shepard_Smith_Reporting/FOXNEWSW_20161122_200000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20161122_200000_Shepard_Smith_Reporting_000238.jpg</field>
+<field name="snippet">table. it's not off the table. the president-elect told 'the times' he'll keep an open mind on climate change, which he used to call a hoax, but no more. so if you want the president-elect to believe climate change is a hoax, he said that on the record.</field>
+</doc>
+</add>

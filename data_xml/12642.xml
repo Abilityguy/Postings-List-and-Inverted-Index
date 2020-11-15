@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170715_080000_BBC_News#start/1510/end/1545</field>
+<field name="datetime">7/15/2017 8:25:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170715_080000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170715_080000_BBC_News/BBCNEWS_20170715_080000_BBC_News.thumbs/BBCNEWS_20170715_080000_BBC_News_001498.jpg</field>
+<field name="snippet">with our climate change and everything, it may not be around all that long. this thing can live in temperatures that are incredibly low, incredibly high, it can live in water, out of water. it's not big, only half a millimetre in length.</field>
+</doc>
+</add>

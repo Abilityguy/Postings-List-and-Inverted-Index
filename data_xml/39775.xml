@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091120_200000_Studio_B_With_Shepard_Smith#start/1387/end/1422</field>
+<field name="datetime">11/20/2009 20:23:22</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Studio B With Shepard Smith</field>
+<field name="showid">FOXNEWS_20091120_200000_Studio_B_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091120_200000_Studio_B_With_Shepard_Smith/FOXNEWS_20091120_200000_Studio_B_With_Shepard_Smith.thumbs/FOXNEWS_20091120_200000_Studio_B_With_Shepard_Smith_001260.jpg</field>
+<field name="snippet">i'm very optimistic about it. because this technology could be used. to reduce greenhouse gas emissions significantly. rick: fox news is on the job hunt, and there's a fresh sign that unemployment could put a damper on the economic recovery in this country.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201508.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150807_170000_Happening_Now#start/1482/end/1517</field>
+<field name="datetime">8/7/2015 17:24:57</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20150807_170000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150807_170000_Happening_Now/FOXNEWSW_20150807_170000_Happening_Now.thumbs/FOXNEWSW_20150807_170000_Happening_Now_001455.jpg</field>
+<field name="snippet">a case for climate change. the message is clear. california is burning, what the hell are you going to do about it? it is not just california but extreme weather events in the world. it is not a game of politics.</field>
+</doc>
+</add>

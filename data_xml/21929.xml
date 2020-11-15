@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180804_170000_BBC_News#start/736/end/771</field>
+<field name="datetime">8/4/2018 17:12:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180804_170000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180804_170000_BBC_News/BBCNEWS_20180804_170000_BBC_News.thumbs/BBCNEWS_20180804_170000_BBC_News_000717.jpg</field>
+<field name="snippet">a combination of these things. high-pressure weather system not going anywhere, while seeing those temperatures getting close to the record. a lot of people will say climate change. is there a connection? of course we could never take one particular weather event</field>
+</doc>
+</add>

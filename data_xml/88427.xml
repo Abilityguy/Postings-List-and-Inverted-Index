@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190602_200000_World_News_Today#start/1310/end/1345</field>
+<field name="datetime">6/2/2019 20:22:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190602_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190602_200000_World_News_Today/BBCNEWS_20190602_200000_World_News_Today.thumbs/BBCNEWS_20190602_200000_World_News_Today_001287.jpg</field>
+<field name="snippet">we can for their a-game. should be a great atmosphere for that one at trent bridge. that's all the sport for now. scientists are warning that drought could damage scotland's peat bogs, undermining efforts to tackle climate change.</field>
+</doc>
+</add>

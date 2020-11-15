@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190415_100000_BBC_Newsroom_Live#start/109/end/144</field>
+<field name="datetime">4/15/2019 10:02:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190415_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190415_100000_BBC_Newsroom_Live/BBCNEWS_20190415_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190415_100000_BBC_Newsroom_Live_001887.jpg</field>
+<field name="snippet">across the centre of london today by the group extinction rebellion. theiraim is to the group extinction rebellion. their aim is to cause mass disruption to the traffic, to try and bring the centre of london to a standstill, to try to prompt the government to take urgent action against climate change. this is the</field>
+</doc>
+</add>

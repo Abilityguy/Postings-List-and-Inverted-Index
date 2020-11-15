@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100219_110000_FOX_and_Friends#start/6432/end/6467</field>
+<field name="datetime">2/19/2010 12:47:27</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100219_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100219_110000_FOX_and_Friends/FOXNEWS_20100219_110000_FOX_and_Friends.thumbs/FOXNEWS_20100219_110000_FOX_and_Friends_006409.jpg</field>
+<field name="snippet">she's too young to know what's going on. all right. steven lake, attorney for the mother of this child, thanks for being our guest today. thank you. coming up on the show, al gore, as you all know, he won the nobel peace prize for working on global warming.</field>
+</doc>
+</add>

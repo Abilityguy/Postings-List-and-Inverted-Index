@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181208_113000_Dateline_London#start/1101/end/1136</field>
+<field name="datetime">12/8/2018 11:48:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Dateline London</field>
+<field name="showid">BBCNEWS_20181208_113000_Dateline_London</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181208_113000_Dateline_London/BBCNEWS_20181208_113000_Dateline_London.thumbs/BBCNEWS_20181208_113000_Dateline_London_001077.jpg</field>
+<field name="snippet">i could go on how many hours do we have? not enough! not enough! another president, a different take on climate change. welcoming delegates to a global conference intended to draw up rules for curbing man's contribution to climate change in katowice, poland's head of state, andrzej duda, pointed to coal</field>
+</doc>
+</add>

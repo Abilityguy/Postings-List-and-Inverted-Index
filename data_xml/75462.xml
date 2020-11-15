@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201012.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101227_190000_News_Nation#start/1482/end/1517</field>
+<field name="datetime">12/27/2010 19:24:57</field>
+<field name="station">MSNBC</field>
+<field name="show">News Nation</field>
+<field name="showid">MSNBC_20101227_190000_News_Nation</field>
+<field name="preview">https://archive.org/download/MSNBC_20101227_190000_News_Nation/MSNBC_20101227_190000_News_Nation.thumbs/MSNBC_20101227_190000_News_Nation_001465.jpg</field>
+<field name="snippet">events and say you can't tell me whether or not that's climate change. i don't need to. i can look at the 30-year trend and tell you everything that happens now is because there's more heat and water vapor in the atmosphere. that's causing these extreme</field>
+</doc>
+</add>

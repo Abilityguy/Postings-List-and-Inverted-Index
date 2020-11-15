@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190419_203000_Weather_World#start/1459/end/1494</field>
+<field name="datetime">4/19/2019 20:54:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20190419_203000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190419_203000_Weather_World/BBCNEWS_20190419_203000_Weather_World.thumbs/BBCNEWS_20190419_203000_Weather_World_001438.jpg</field>
+<field name="snippet">down, so conservationists are calling for the protection and regeneration of wetlands around the world to help fight climate change by ensuring that more carbon remains stuck in the mud.</field>
+</doc>
+</add>

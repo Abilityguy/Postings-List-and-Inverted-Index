@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100210_220000_Glenn_Beck#start/105/end/140</field>
+<field name="datetime">2/10/2010 22:02:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20100210_220000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100210_220000_Glenn_Beck/FOXNEWS_20100210_220000_Glenn_Beck.thumbs/FOXNEWS_20100210_220000_Glenn_Beck_000086.jpg</field>
+<field name="snippet">through d.c. and other extreme weather events are what climate scientists have been predicting, fearing and anticipating because of global warming. why is that? the thinking that warmer air temperatures on the earth, higher air temperature, has a</field>
+</doc>
+</add>

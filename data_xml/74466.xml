@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_233000_The_Papers#start/40/end/75</field>
+<field name="datetime">1/17/2020 23:30:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Papers</field>
+<field name="showid">BBCNEWS_20200117_233000_The_Papers</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_233000_The_Papers/BBCNEWS_20200117_233000_The_Papers.thumbs/BBCNEWS_20200117_233000_The_Papers_000147.jpg</field>
+<field name="snippet">its pledge to become a carbon neutral city by 2030 amid fresh warnings over global warming. and in sport, saracens further deduction for breaking salary rules and will now be relegated at the end of the</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171116_060000_Breakfast#start/30/end/65</field>
+<field name="datetime">11/16/2017 6:00:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20171116_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171116_060000_Breakfast/BBCNEWS_20171116_060000_Breakfast.thumbs/BBCNEWS_20171116_060000_Breakfast_000058.jpg</field>
+<field name="snippet">it's thursday 16 november. also this morning: scientists will warn world leaders that the effects of climate change are inevitable, even if major cuts are made to carbon dioxide emissions. salvator mundi selling here.</field>
+</doc>
+</add>

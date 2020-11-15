@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201105.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110518_070000_Red_Eye#start/1576/end/1611</field>
+<field name="datetime">5/18/2011 7:26:31</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20110518_070000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110518_070000_Red_Eye/FOXNEWS_20110518_070000_Red_Eye.thumbs/FOXNEWS_20110518_070000_Red_Eye_001560.jpg</field>
+<field name="snippet">end? nobody wants to talk about global warming. it is people like me that have to go through it and people like you that criticize me for it. i am a skeptic, greg. i was skeptical that we are discussing this entire thing based on one source.</field>
+</doc>
+</add>

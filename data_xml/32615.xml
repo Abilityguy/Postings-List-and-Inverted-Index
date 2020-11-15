@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201211.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121126_210000_Your_World_With_Neil_Cavuto#start/1509/end/1544</field>
+<field name="datetime">11/26/2012 21:25:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20121126_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121126_210000_Your_World_With_Neil_Cavuto/FOXNEWSW_20121126_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20121126_210000_Your_World_With_Neil_Cavuto_001498.jpg</field>
+<field name="snippet">hurricanes remain much worse but the idea of a carbon tax is being floated and the idea of regulations and climate measures we could take are going to impact our weather, this is now reaching a level of the mayan calendar for science.</field>
+</doc>
+</add>

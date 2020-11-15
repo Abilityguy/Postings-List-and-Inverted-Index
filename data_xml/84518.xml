@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190418_100000_BBC_Newsroom_Live#start/266/end/301</field>
+<field name="datetime">4/18/2019 10:04:41</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190418_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190418_100000_BBC_Newsroom_Live/BBCNEWS_20190418_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190418_100000_BBC_Newsroom_Live_000238.jpg</field>
+<field name="snippet">since the 805, it's really regrettable that we have got to do this. we do not want to interrupt people's lives but climate change will, flooding will, and an increase in temperatures will affect people's lives. it already is, in the poorest parts of the world, people are feeling</field>
+</doc>
+</add>

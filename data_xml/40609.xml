@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201708.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170808_080000_The_11th_Hour_With_Brian_Williams#start/3546/end/3581</field>
+<field name="datetime">8/8/2017 8:59:21</field>
+<field name="station">MSNBC</field>
+<field name="show">The 11th Hour With Brian Williams</field>
+<field name="showid">MSNBCW_20170808_080000_The_11th_Hour_With_Brian_Williams</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170808_080000_The_11th_Hour_With_Brian_Williams/MSNBCW_20170808_080000_The_11th_Hour_With_Brian_Williams.thumbs/MSNBCW_20170808_080000_The_11th_Hour_With_Brian_Williams_003537.jpg</field>
+<field name="snippet">this report obtained by 'the new york times' and awaiting signoff from the administration finds the average temperature has risen rapidly since 1980 and says human are to blame which contradicts claims by president trump and members of his cabinet who say that the human impact on climate change is uncertain.</field>
+</doc>
+</add>

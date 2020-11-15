@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201108.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20110820_070000_Red_Eye#start/176/end/211</field>
+<field name="datetime">8/20/2011 7:03:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWSW_20110820_070000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20110820_070000_Red_Eye/FOXNEWSW_20110820_070000_Red_Eye.thumbs/FOXNEWSW_20110820_070000_Red_Eye_000177.jpg</field>
+<field name="snippet">story before we hemorrhage any more viewership. working at the mattress factory doesn't count. should we curb greenhouse gases so aliens don't kick our asses? some scientists are saying that</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201908.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190825_100000_MSNBC_Live#start/207/end/242</field>
+<field name="datetime">8/25/2019 10:03:42</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20190825_100000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190825_100000_MSNBC_Live/MSNBCW_20190825_100000_MSNBC_Live.thumbs/MSNBCW_20190825_100000_MSNBC_Live_000179.jpg</field>
+<field name="snippet">gathering, climate change. to go over all of this, kelly o'donnell traveling with the president. bill neely monitoring the protests. carol lee covering the president in france and david leventhal reporter with the center of public integrity.</field>
+</doc>
+</add>

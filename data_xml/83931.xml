@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190418_123000_BBC_News#start/964/end/999</field>
+<field name="datetime">4/18/2019 12:46:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190418_123000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190418_123000_BBC_News/BBCNEWS_20190418_123000_BBC_News.thumbs/BBCNEWS_20190418_123000_BBC_News_000958.jpg</field>
+<field name="snippet">climate change protestors continue a fourth day of action in the capital. nearly 400 people have been arrested and three charged. facebook bans a dozen british far-right individuals and organisations - including the english defence</field>
+</doc>
+</add>

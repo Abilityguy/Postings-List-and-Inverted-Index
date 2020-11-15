@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190731_090000_Victoria_Derbyshire#start/136/end/171</field>
+<field name="datetime">7/31/2019 9:02:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20190731_090000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190731_090000_Victoria_Derbyshire/BBCNEWS_20190731_090000_Victoria_Derbyshire.thumbs/BBCNEWS_20190731_090000_Victoria_Derbyshire_000117.jpg</field>
+<field name="snippet">hello, welcome to the programme. we're live until 11:00am this morning. what do you make of prince harry saying that he and meghan will only have two children to help fight climate change? is it something you'd consider doing yourself, or does it feel like a token gesture? let us know.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201610.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161005_190000_Shepard_Smith_Reporting#start/1957/end/1992</field>
+<field name="datetime">10/5/2016 19:32:52</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20161005_190000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161005_190000_Shepard_Smith_Reporting/FOXNEWSW_20161005_190000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20161005_190000_Shepard_Smith_Reporting_001947.jpg</field>
+<field name="snippet">even one as powerful as ours, can solve this challenge alone. all of us have to solve it together. now, the paris agreement, alone, will not solve the climate crisis. even if we meet every target embodied in the agreement, we'll</field>
+</doc>
+</add>

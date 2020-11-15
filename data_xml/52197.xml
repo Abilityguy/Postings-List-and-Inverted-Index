@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181211_050000_The_Briefing#start/1192/end/1227</field>
+<field name="datetime">12/11/2018 5:20:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20181211_050000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181211_050000_The_Briefing/BBCNEWS_20181211_050000_The_Briefing.thumbs/BBCNEWS_20181211_050000_The_Briefing_001168.jpg</field>
+<field name="snippet">thank you very much. back to you. here's our briefing on some of the key events happening later. in oslo, al gore will give the keynote speech on climate change at the nobel peace prize forum. in paris, the rules of supply</field>
+</doc>
+</add>

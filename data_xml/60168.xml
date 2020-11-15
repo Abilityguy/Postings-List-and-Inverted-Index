@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_100000_BBC_Newsroom_Live#start/1888/end/1923</field>
+<field name="datetime">10/8/2018 10:31:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20181008_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_100000_BBC_Newsroom_Live/BBCNEWS_20181008_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20181008_100000_BBC_Newsroom_Live_001887.jpg</field>
+<field name="snippet">the headlines. scientists have issued the most extensive warning yet on the scale of the challenge faced in tackling global warming. a report for the united nations says temperature rises should be limited to 1.5 celsius above pre-industrial levels to avert</field>
+</doc>
+</add>

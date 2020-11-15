@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.202001.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20200110_100000_First_Look#start/2663/end/2698</field>
+<field name="datetime">1/10/2020 10:44:38</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20200110_100000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20200110_100000_First_Look/MSNBCW_20200110_100000_First_Look.thumbs/MSNBCW_20200110_100000_First_Look_002640.jpg</field>
+<field name="snippet">position on global warming, do you think it's a hoax? do you think something needs to be done? nothing is a hoax about that. it's a very serious subject.</field>
+</doc>
+</add>

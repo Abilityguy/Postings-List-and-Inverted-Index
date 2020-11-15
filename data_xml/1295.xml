@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201507.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150710_210000_The_Five#start/1331/end/1366</field>
+<field name="datetime">7/10/2015 21:22:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20150710_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150710_210000_The_Five/FOXNEWSW_20150710_210000_The_Five.thumbs/FOXNEWSW_20150710_210000_The_Five_001335.jpg</field>
+<field name="snippet">biggest threat? the biggest threat to president obama is climate change. he says climate change is number one which is why putin and iran and north korea love him because while they're dismantling the world he's playing hacky sack</field>
+</doc>
+</add>

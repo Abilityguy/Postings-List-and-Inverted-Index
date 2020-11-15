@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190612_123000_BBC_News#start/517/end/552</field>
+<field name="datetime">6/12/2019 12:38:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190612_123000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190612_123000_BBC_News/BBCNEWS_20190612_123000_BBC_News.thumbs/BBCNEWS_20190612_123000_BBC_News_000508.jpg</field>
+<field name="snippet">answered an urgent question in the house of commons on climate change. today we can make the uk the first</field>
+</doc>
+</add>

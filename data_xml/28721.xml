@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201610.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161001_210000_Americas_Election_HQ#start/5088/end/5123</field>
+<field name="datetime">10/1/2016 22:25:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Election HQ</field>
+<field name="showid">FOXNEWSW_20161001_210000_Americas_Election_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161001_210000_Americas_Election_HQ/FOXNEWSW_20161001_210000_Americas_Election_HQ.thumbs/FOXNEWSW_20161001_210000_Americas_Election_HQ_005067.jpg</field>
+<field name="snippet">of the united states of america. we know she will do a great job. we know she will show up. we know she's disciplined and has the capability. the alternative is somebody we know is a fraud, who is not really a billionaire, who says one thing and changes his mind, somebody who thinks climate</field>
+</doc>
+</add>

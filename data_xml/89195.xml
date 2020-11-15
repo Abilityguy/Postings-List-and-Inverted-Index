@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190620_100000_BBC_Newsroom_Live#start/1149/end/1184</field>
+<field name="datetime">6/20/2019 10:19:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190620_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190620_100000_BBC_Newsroom_Live/BBCNEWS_20190620_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190620_100000_BBC_Newsroom_Live_001137.jpg</field>
+<field name="snippet">dominated by discussion about climate change and whether all 28 eu countries will sign up to a pledge to be carbon neutral by 2050. the vast majority, including the uk, have given it the thumbs up, but there are still big holdouts, and</field>
+</doc>
+</add>

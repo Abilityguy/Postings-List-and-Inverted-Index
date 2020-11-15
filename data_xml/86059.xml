@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201207.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120704_110000_MSNBC_Live#start/1452/end/1487</field>
+<field name="datetime">7/4/2012 11:24:27</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20120704_110000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120704_110000_MSNBC_Live/MSNBCW_20120704_110000_MSNBC_Live.thumbs/MSNBCW_20120704_110000_MSNBC_Live_001440.jpg</field>
+<field name="snippet">colder than we originally thought. this is some statistics we dug up from 'the washington post' pole that came out recently. only 18% being global warming is the biggest environmental</field>
+</doc>
+</add>

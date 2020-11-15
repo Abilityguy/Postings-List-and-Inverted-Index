@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200118_133000_Climate_Defenders#start/178/end/213</field>
+<field name="datetime">1/18/2020 13:33:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Climate Defenders</field>
+<field name="showid">BBCNEWS_20200118_133000_Climate_Defenders</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200118_133000_Climate_Defenders/BBCNEWS_20200118_133000_Climate_Defenders.thumbs/BBCNEWS_20200118_133000_Climate_Defenders_000178.jpg</field>
+<field name="snippet">now on bbc news, we meet the people looking for solutions to climate change, and follow the work of those striving to tackle this global threat. i'mjustin rowlatt, in the northern ethiopian city of mek'ele. just take a look at it,</field>
+</doc>
+</add>

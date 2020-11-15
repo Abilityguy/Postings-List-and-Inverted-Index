@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201505.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150521_000000_All_In_With_Chris_Hayes#start/2891/end/2926</field>
+<field name="datetime">5/21/2015 0:48:26</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20150521_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150521_000000_All_In_With_Chris_Hayes/MSNBCW_20150521_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20150521_000000_All_In_With_Chris_Hayes_002865.jpg</field>
+<field name="snippet">recent history of people talking about the security threat of climate change. i feel like there's always an expectation that that's going to be the thing that breaks through and makes everyone take notice. and it never seems to happen. i think it's always been there. if you look at the security issues related to crop failures</field>
+</doc>
+</add>

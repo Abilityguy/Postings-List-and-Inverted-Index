@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190917_080000_BBC_News_at_Nine#start/1446/end/1481</field>
+<field name="datetime">9/17/2019 8:24:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190917_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190917_080000_BBC_News_at_Nine/BBCNEWS_20190917_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190917_080000_BBC_News_at_Nine_001438.jpg</field>
+<field name="snippet">we are used to a choice in the types of fruit and vegetables we buy, but these mps say nearly 20% come from countries at risk of climate change, meaning that in the future our shopping baskets could look very different. in a statement, the department</field>
+</doc>
+</add>

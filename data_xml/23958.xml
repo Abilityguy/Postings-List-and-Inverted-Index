@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201411.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141120_090000_The_Five#start/170/end/205</field>
+<field name="datetime">11/20/2014 9:03:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20141120_090000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141120_090000_The_Five/FOXNEWSW_20141120_090000_The_Five.thumbs/FOXNEWSW_20141120_090000_The_Five_000165.jpg</field>
+<field name="snippet">the msm is saying we don't want to cover these stories at all. in the a block we're doing immigration, c we're doing climate change, all of these three issues are predicated on</field>
+</doc>
+</add>

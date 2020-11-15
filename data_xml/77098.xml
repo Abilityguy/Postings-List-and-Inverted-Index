@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190519_010000_BBC_News#start/0/end/31</field>
+<field name="datetime">5/19/2019 1:00:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190519_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190519_010000_BBC_News/BBCNEWS_20190519_010000_BBC_News.thumbs/BBCNEWS_20190519_010000_BBC_News_000808.jpg</field>
+<field name="snippet">will approach economic reform 00:13:49436 --> 2147483051:43:39433 because labor had set out a fairly 2147483051:43:39433 --> 4294966103:13:29430 courageous reform agenda. a lot of people were watching australia because of what was happening with climate change. there was this argument that as australia experienced some of the effects of extreme weather patterns, that that would be such a feature in the election. but that hasn't played out. why is that?</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171231_170000_BBC_News#start/1311/end/1346</field>
+<field name="datetime">12/31/2017 17:22:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171231_170000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171231_170000_BBC_News/BBCNEWS_20171231_170000_BBC_News.thumbs/BBCNEWS_20171231_170000_BBC_News_001287.jpg</field>
+<field name="snippet">and new dangers have emerged. global anxieties about nuclear weapons are the highest since the cold war and climate change is moving faster than we are. inequalities are growing and we see horrific violations of human rights, nationalism and xenophobia</field>
+</doc>
+</add>

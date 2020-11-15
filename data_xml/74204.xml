@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200118_103000_The_Travel_Show#start/1044/end/1079</field>
+<field name="datetime">1/18/2020 10:47:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Travel Show</field>
+<field name="showid">BBCNEWS_20200118_103000_The_Travel_Show</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200118_103000_The_Travel_Show/BBCNEWS_20200118_103000_The_Travel_Show.thumbs/BBCNEWS_20200118_103000_The_Travel_Show_001018.jpg</field>
+<field name="snippet">from senegal to eritrea. the great green wall project aims to transform the sahel, the region to the south of the sahara desert, and build local resilience to climate change.</field>
+</doc>
+</add>

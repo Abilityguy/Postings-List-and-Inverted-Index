@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200110_020000_BBC_News#start/712/end/747</field>
+<field name="datetime">1/10/2020 2:12:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200110_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200110_020000_BBC_News/BBCNEWS_20200110_020000_BBC_News.thumbs/BBCNEWS_20200110_020000_BBC_News_000688.jpg</field>
+<field name="snippet">minister saying that in his opinion, australia's energy and climate policies are both adequate and responsible. we are expecting a couple of climate change rallies here in australia today by critic of the government who accuse the prime</field>
+</doc>
+</add>

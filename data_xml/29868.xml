@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191129_190000_MSNBC_Live#start/2686/end/2721</field>
+<field name="datetime">11/29/2019 19:45:01</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20191129_190000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191129_190000_MSNBC_Live/MSNBCW_20191129_190000_MSNBC_Live.thumbs/MSNBCW_20191129_190000_MSNBC_Live_002669.jpg</field>
+<field name="snippet">climate change has led to widespread wildfires and rolling blackouts across california. scientist mann joins me with how to reverse what he calls the price of inaction. that's next.</field>
+</doc>
+</add>

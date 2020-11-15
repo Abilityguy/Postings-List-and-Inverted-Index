@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180603_090000_Fox_Report_Saturday#start/2553/end/2588</field>
+<field name="datetime">6/3/2018 9:42:48</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox Report Saturday</field>
+<field name="showid">FOXNEWSW_20180603_090000_Fox_Report_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180603_090000_Fox_Report_Saturday/FOXNEWSW_20180603_090000_Fox_Report_Saturday.thumbs/FOXNEWSW_20180603_090000_Fox_Report_Saturday_002547.jpg</field>
+<field name="snippet">the conference is a follow-up to a papal letter three years ago calling on people to save the planet from climate change. pope francis has made the issue a major concern of his papacy.</field>
+</doc>
+</add>

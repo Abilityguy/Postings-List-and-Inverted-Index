@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090903_090000_The_OReilly_Factor#start/2935/end/2970</field>
+<field name="datetime">9/3/2009 9:49:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20090903_090000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090903_090000_The_OReilly_Factor/FOXNEWS_20090903_090000_The_OReilly_Factor.thumbs/FOXNEWS_20090903_090000_The_OReilly_Factor_002935.jpg</field>
+<field name="snippet">laura: we call the congresswoman's office to invite her on the program and she declined. joining us now from lubbock, texas is the climate change researcher at texas tech university.</field>
+</doc>
+</add>

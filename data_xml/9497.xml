@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170713_130000_Americas_Newsroom#start/4483/end/4518</field>
+<field name="datetime">7/13/2017 14:14:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWSW_20170713_130000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170713_130000_Americas_Newsroom/FOXNEWSW_20170713_130000_Americas_Newsroom.thumbs/FOXNEWSW_20170713_130000_Americas_Newsroom_004468.jpg</field>
+<field name="snippet">about syria, and isis, and perhaps even climate change, a big issue of disagreement between the two men, then there is a joint news conference that you will see here live on fox, we will have it all for you when it happens in paris, france.</field>
+</doc>
+</add>

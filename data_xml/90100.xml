@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200910.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091022_220000_The_Ed_Show#start/908/end/943</field>
+<field name="datetime">10/22/2009 22:15:23</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBC_20091022_220000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20091022_220000_The_Ed_Show/MSNBC_20091022_220000_The_Ed_Show.thumbs/MSNBC_20091022_220000_The_Ed_Show_000893.jpg</field>
+<field name="snippet">the energy to tackle challenges like climate change. what if that energy, came from an energy company. every day, chevron invests $62 million in people. in ideas. seeking, teaching, building.</field>
+</doc>
+</add>

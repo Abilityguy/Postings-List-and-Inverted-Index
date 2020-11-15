@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100403_080000_Special_Report_With_Bret_Baier#start/1858/end/1893</field>
+<field name="datetime">4/3/2010 8:31:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100403_080000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100403_080000_Special_Report_With_Bret_Baier/FOXNEWS_20100403_080000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100403_080000_Special_Report_With_Bret_Baier_001854.jpg</field>
+<field name="snippet">unit or its director, phil jones tampered with data to exaggerate the threat of global warming and the 14 member panel acknowledged, quote, a blunt refusal to share data on the part of the scientists. and law makers stress the report which was written after only a</field>
+</doc>
+</add>

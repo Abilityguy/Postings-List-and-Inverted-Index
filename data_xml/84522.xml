@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190423_220000_BBC_News#start/1325/end/1360</field>
+<field name="datetime">4/23/2019 22:22:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190423_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190423_220000_BBC_News/BBCNEWS_20190423_220000_BBC_News.thumbs/BBCNEWS_20190423_220000_BBC_News_001318.jpg</field>
+<field name="snippet">the 16-year-old climate change activist from sweden, greta thunberg, has addressed mps in parliament today and told them that her generation's future has been stolen. she insisted that politicians needed to act now to help bring down carbon emissions. the today programme's nick robinson went to meet her.</field>
+</doc>
+</add>

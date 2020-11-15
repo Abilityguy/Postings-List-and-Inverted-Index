@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191110_040000_The_11th_Hour_With_Brian_Williams#start/1953/end/1988</field>
+<field name="datetime">11/10/2019 4:32:48</field>
+<field name="station">MSNBC</field>
+<field name="show">The 11th Hour With Brian Williams</field>
+<field name="showid">MSNBCW_20191110_040000_The_11th_Hour_With_Brian_Williams</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191110_040000_The_11th_Hour_With_Brian_Williams/MSNBCW_20191110_040000_The_11th_Hour_With_Brian_Williams.thumbs/MSNBCW_20191110_040000_The_11th_Hour_With_Brian_Williams_001949.jpg</field>
+<field name="snippet">the united states. also the rise of climate change as a public policy issue, the idea -- that's right, gun control issues. and the idea that public policy can actually start with states</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201610.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161025_190000_Shepard_Smith_Reporting#start/201/end/236</field>
+<field name="datetime">10/25/2016 19:03:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20161025_190000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161025_190000_Shepard_Smith_Reporting/FOXNEWSW_20161025_190000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20161025_190000_Shepard_Smith_Reporting_000178.jpg</field>
+<field name="snippet">drop of rain where the streets are flooding and the ocean is rising. what we have got to do is make sure that this issue, fighting climate change, creating clean</field>
+</doc>
+</add>

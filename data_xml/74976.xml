@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200118_110000_BBC_News#start/91/end/126</field>
+<field name="datetime">1/18/2020 11:01:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200118_110000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200118_110000_BBC_News/BBCNEWS_20200118_110000_BBC_News.thumbs/BBCNEWS_20200118_110000_BBC_News_000058.jpg</field>
+<field name="snippet">us their take on the iran crisis, the impeachment of donald trump and the warning from sir david attenborough on climate change. that's in dateline in half an hour. good morning and welcome to bbc news. the chancellor has warned</field>
+</doc>
+</add>

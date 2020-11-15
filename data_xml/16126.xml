@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201304.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130424_220000_Special_Report_With_Bret_Baier#start/1436/end/1471</field>
+<field name="datetime">4/24/2013 22:24:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20130424_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130424_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20130424_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20130424_220000_Special_Report_With_Bret_Baier_001425.jpg</field>
+<field name="snippet">contained insufficient information about the environmental impact. the epa said it was concerned that transporting crude oil via pipeline could lead to spills like one in arkansas last month and concern about the social cost of higher greenhouse gas emissions, not only from burning</field>
+</doc>
+</add>

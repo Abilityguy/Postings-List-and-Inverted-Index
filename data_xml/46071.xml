@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201504.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150409_210000_The_Ed_Show#start/2879/end/2914</field>
+<field name="datetime">4/9/2015 21:48:14</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20150409_210000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150409_210000_The_Ed_Show/MSNBCW_20150409_210000_The_Ed_Show.thumbs/MSNBCW_20150409_210000_The_Ed_Show_002866.jpg</field>
+<field name="snippet">and here's where we stand on tonight's poll. let's check it out. should the phrase climate change be banned. 100% of you say no. we'll be right back. stay with us.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190502_123000_BBC_News#start/845/end/880</field>
+<field name="datetime">5/2/2019 12:44:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190502_123000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190502_123000_BBC_News/BBCNEWS_20190502_123000_BBC_News.thumbs/BBCNEWS_20190502_123000_BBC_News_000837.jpg</field>
+<field name="snippet">in a moment we'll have all the business news, but first the headlines on bbc news. a report commissioned by the government says the uk should become a world leader in tackling climate change, by cutting greenhouse gases to almost zero by 2050. the former defence secretary, gavin williamson, stresses his innocence</field>
+</doc>
+</add>

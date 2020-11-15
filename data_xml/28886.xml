@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201610.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161031_050000_Special_Report_With_Bret_Baier#start/1994/end/2029</field>
+<field name="datetime">10/31/2016 5:33:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20161031_050000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161031_050000_Special_Report_With_Bret_Baier/FOXNEWSW_20161031_050000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20161031_050000_Special_Report_With_Bret_Baier_001977.jpg</field>
+<field name="snippet">the issues that matter most to you. tonight, number seven in the top ten: climate change. remember, the top ten are taken from recent polls asking what is important to americans. correspondent phil keating tells us from miami that the two</field>
+</doc>
+</add>

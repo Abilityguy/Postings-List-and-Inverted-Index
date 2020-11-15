@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201704.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170422_130000_MSNBC_Live#start/1968/end/2003</field>
+<field name="datetime">4/22/2017 13:33:03</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170422_130000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170422_130000_MSNBC_Live/MSNBCW_20170422_130000_MSNBC_Live.thumbs/MSNBCW_20170422_130000_MSNBC_Live_001948.jpg</field>
+<field name="snippet">of folks i've talked to today. the other part of what i've heard today is there's a celebration of science. that's the other half of this gathering on the national mall. yes, it's earth day so there is a climate change and government policy aspect to it. but there's also a celebration</field>
+</doc>
+</add>

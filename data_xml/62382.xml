@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201701.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170119_200000_MSNBC_Live_With_Kate_Snow#start/3545/end/3580</field>
+<field name="datetime">1/19/2017 20:59:20</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Kate Snow</field>
+<field name="showid">MSNBCW_20170119_200000_MSNBC_Live_With_Kate_Snow</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170119_200000_MSNBC_Live_With_Kate_Snow/MSNBCW_20170119_200000_MSNBC_Live_With_Kate_Snow.thumbs/MSNBCW_20170119_200000_MSNBC_Live_With_Kate_Snow_003537.jpg</field>
+<field name="snippet">one of the things i asked was, what are the things that are most important to them. i am most concerned about climate change because i think it will greatly affect our generation and we're the last generation that has a chance to put a stop to it or put</field>
+</doc>
+</add>

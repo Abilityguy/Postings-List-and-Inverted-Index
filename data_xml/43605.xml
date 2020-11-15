@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151201_103000_Way_Too_Early#start/55/end/90</field>
+<field name="datetime">12/1/2015 10:31:10</field>
+<field name="station">MSNBC</field>
+<field name="show">Way Too Early</field>
+<field name="showid">MSNBCW_20151201_103000_Way_Too_Early</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151201_103000_Way_Too_Early/MSNBCW_20151201_103000_Way_Too_Early.thumbs/MSNBCW_20151201_103000_Way_Too_Early_000045.jpg</field>
+<field name="snippet">but more than 8.5 minutes into president obama's remarks, and with no signs of slowing down, loud beeps started sounding out across the auditorium, as if to cue him to wrap it up. the president ignored them. and plowed ahead with his urgent message on climate change.</field>
+</doc>
+</add>

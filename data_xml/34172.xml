@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_000000_The_FOX_Report_With_Shepard_Smith#start/330/end/365</field>
+<field name="datetime">12/18/2009 0:05:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The FOX Report With Shepard Smith</field>
+<field name="showid">FOXNEWS_20091218_000000_The_FOX_Report_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_000000_The_FOX_Report_With_Shepard_Smith/FOXNEWS_20091218_000000_The_FOX_Report_With_Shepard_Smith.thumbs/FOXNEWS_20091218_000000_The_FOX_Report_With_Shepard_Smith_000325.jpg</field>
+<field name="snippet">say is major cause of climate change. well, it's a crucial weapon in the u.s. military's arsenal. and now we're learning enemy fighters were using it for their own cause. our corporate cousins at the 'wall street journal' report militants in iraq figured out</field>
+</doc>
+</add>

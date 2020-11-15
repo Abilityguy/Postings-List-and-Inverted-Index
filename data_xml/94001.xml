@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201206.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120604_160000_NOW_With_Alex_Wagner#start/2685/end/2720</field>
+<field name="datetime">6/4/2012 16:45:00</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20120604_160000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120604_160000_NOW_With_Alex_Wagner/MSNBCW_20120604_160000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20120604_160000_NOW_With_Alex_Wagner_002670.jpg</field>
+<field name="snippet">to go down. a gallup poll from two months ago says, asks americans, how much do you personally worry about global warming a great deal or fair amount, and 55%, or little or not at all, 45%.</field>
+</doc>
+</add>

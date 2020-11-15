@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100124_100000_Glenn_Beck#start/1436/end/1471</field>
+<field name="datetime">1/24/2010 10:24:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20100124_100000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100124_100000_Glenn_Beck/FOXNEWS_20100124_100000_Glenn_Beck.thumbs/FOXNEWS_20100124_100000_Glenn_Beck_001432.jpg</field>
+<field name="snippet">about green collar jobs, especially from people like van jones. you cannot be global warming, unless you understand that 40% of the greenhouse gases are not coming from cars, they coming from buildings, 70% of coming</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190317_093000_The_Papers#start/35/end/70</field>
+<field name="datetime">3/17/2019 9:30:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Papers</field>
+<field name="showid">BBCNEWS_20190317_093000_The_Papers</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190317_093000_The_Papers/BBCNEWS_20190317_093000_The_Papers.thumbs/BBCNEWS_20190317_093000_The_Papers_001618.jpg</field>
+<field name="snippet">also in the next hour - investigating the effects of climate change. we join scientists in the arctic, where increasing rainfall</field>
+</doc>
+</add>

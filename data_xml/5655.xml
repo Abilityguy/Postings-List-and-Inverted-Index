@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190926_160000_BBC_News_at_Five#start/3406/end/3441</field>
+<field name="datetime">9/26/2019 16:57:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190926_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190926_160000_BBC_News_at_Five/BBCNEWS_20190926_160000_BBC_News_at_Five.thumbs/BBCNEWS_20190926_160000_BBC_News_at_Five_003388.jpg</field>
+<field name="snippet">the royal research ship is the first addition to the fleet in 50 years, and will be stationed in the arctic and antarctic. it will be measuring aspects of climate change.</field>
+</doc>
+</add>

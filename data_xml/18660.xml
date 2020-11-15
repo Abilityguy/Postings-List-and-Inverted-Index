@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170129_080000_Breakfast#start/825/end/860</field>
+<field name="datetime">1/29/2017 8:14:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20170129_080000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170129_080000_Breakfast/BBCNEWS_20170129_080000_Breakfast.thumbs/BBCNEWS_20170129_080000_Breakfast_000808.jpg</field>
+<field name="snippet">the royal family this year? at the moment the headlines are focusing on the state visit which could prove diplomatically challenging because as we all know president trump's opinions on climate change and refugees, as we have seen in the last few hours, a very different to</field>
+</doc>
+</add>

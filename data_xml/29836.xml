@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191101_210000_MTP_Daily#start/3296/end/3331</field>
+<field name="datetime">11/1/2019 21:55:11</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20191101_210000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191101_210000_MTP_Daily/MSNBCW_20191101_210000_MTP_Daily.thumbs/MSNBCW_20191101_210000_MTP_Daily_003267.jpg</field>
+<field name="snippet">right now, climate change will only make them worse. and of course, climate change dangers aren't just from fire, but water as well. a new report released tuesday from climate research organization called climate central warns that some new elevation data triples some estimates of global</field>
+</doc>
+</add>

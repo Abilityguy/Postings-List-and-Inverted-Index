@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_090000_BBC_News_at_9#start/1382/end/1417</field>
+<field name="datetime">1/16/2020 9:23:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20200116_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_090000_BBC_News_at_9/BBCNEWS_20200116_090000_BBC_News_at_9.thumbs/BBCNEWS_20200116_090000_BBC_News_at_9_001377.jpg</field>
+<field name="snippet">for along while presumably, climate change was not an issue. definitely, although some scientists in the 70s and particularly 80s started to raise concerns about it, perhaps arguably it took longerfor sir</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191031_020000_BBC_News#start/1322/end/1357</field>
+<field name="datetime">10/31/2019 2:22:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191031_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191031_020000_BBC_News/BBCNEWS_20191031_020000_BBC_News.thumbs/BBCNEWS_20191031_020000_BBC_News_001317.jpg</field>
+<field name="snippet">climate change conference and the apec trade forum. it's the first time a country has pulled out of hosting the climate conference at such short notice. the bbc's katy watson has more on this. this is a massive decision by chile, but one perhaps understandable</field>
+</doc>
+</add>

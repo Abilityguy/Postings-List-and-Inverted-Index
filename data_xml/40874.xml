@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201705.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170529_170000_MSNBC_Live#start/3374/end/3409</field>
+<field name="datetime">5/29/2017 17:56:29</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170529_170000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170529_170000_MSNBC_Live/MSNBCW_20170529_170000_MSNBC_Live.thumbs/MSNBCW_20170529_170000_MSNBC_Live_003358.jpg</field>
+<field name="snippet">is voter suppression. because if 200000 people in wisconsin were not able to cast their ballot, that's more critical than reaching out to white working class voters. president trump signalling he might be wavering on climate</field>
+</doc>
+</add>

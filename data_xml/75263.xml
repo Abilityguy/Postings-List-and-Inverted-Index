@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200118_000000_BBC_News#start/1018/end/1053</field>
+<field name="datetime">1/18/2020 0:17:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200118_000000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200118_000000_BBC_News/BBCNEWS_20200118_000000_BBC_News.thumbs/BBCNEWS_20200118_000000_BBC_News_001019.jpg</field>
+<field name="snippet">iran's supreme leader has defended the military over the accidental shooting down of the ukrainian passenger plane. glasgow - which is hosting a major un climate change summit later this year - is aiming to go completely carbon neutral by 2030. it aims to achieve this by radically cutting emissions, and planting enough trees to absorb</field>
+</doc>
+</add>

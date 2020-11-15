@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190826_050000_Breakfast#start/6328/end/6363</field>
+<field name="datetime">8/26/2019 6:45:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190826_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190826_050000_Breakfast/BBCNEWS_20190826_050000_Breakfast.thumbs/BBCNEWS_20190826_050000_Breakfast_006327.jpg</field>
+<field name="snippet">weekend, 33.3, around that today and that will break the record for the hottest late august bank holiday itself on record. lots of people are concerned about how often we are breaking these heat records in the uk as part of climate</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201401.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140107_220000_The_Five#start/763/end/798</field>
+<field name="datetime">1/7/2014 22:12:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20140107_220000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140107_220000_The_Five/FOXNEWSW_20140107_220000_The_Five.thumbs/FOXNEWSW_20140107_220000_The_Five_000765.jpg</field>
+<field name="snippet">we'll see you for the b-block. it's cold. turn the global warming switch on for me, would you? i wish they were right, don't you? we want to see how you're braving the cold at home.</field>
+</doc>
+</add>

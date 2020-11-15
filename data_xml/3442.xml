@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201506.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150601_070000_MediaBuzz#start/1786/end/1821</field>
+<field name="datetime">6/1/2015 7:30:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">MediaBuzz</field>
+<field name="showid">FOXNEWSW_20150601_070000_MediaBuzz</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150601_070000_MediaBuzz/FOXNEWSW_20150601_070000_MediaBuzz.thumbs/FOXNEWSW_20150601_070000_MediaBuzz_001785.jpg</field>
+<field name="snippet">don't know when it will be -- it was adjourned and we don't know when it will start up again. thank you so much for stopping by this sunday morning. thank you. ahead on media buzz did al sharpton involve god and climate</field>
+</doc>
+</add>

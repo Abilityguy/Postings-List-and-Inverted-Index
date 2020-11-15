@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190117_130000_BBC_News_at_One#start/1364/end/1399</field>
+<field name="datetime">1/17/2019 13:22:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190117_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190117_130000_BBC_News_at_One/BBCNEWS_20190117_130000_BBC_News_at_One.thumbs/BBCNEWS_20190117_130000_BBC_News_at_One_001348.jpg</field>
+<field name="snippet">and you can check the impact of your diet on the planet using the bbc's climate change food calculator. just go to bbc.co.uk/news. surveyors and estate agents say the outlook for the uk housing</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190221_090000_BBC_News_at_9#start/2954/end/2989</field>
+<field name="datetime">2/21/2019 9:49:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20190221_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190221_090000_BBC_News_at_9/BBCNEWS_20190221_090000_BBC_News_at_9.thumbs/BBCNEWS_20190221_090000_BBC_News_at_9_002938.jpg</field>
+<field name="snippet">cars, planes and industry normally get the blame for greenhouse gases, but 14% of the uk's emissions come from our homes. mostly from gas boilers. the report says the uk can't hit climate targets unless emissions from homes are reduced to almost zero through much better insulation. this robot, for instance, insulates floors from below. but last year, emissions from homes actually rose.</field>
+</doc>
+</add>

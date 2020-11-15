@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201003.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100305_050000_Hardball_With_Chris_Matthews#start/2628/end/2663</field>
+<field name="datetime">3/5/2010 5:44:03</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball With Chris Matthews</field>
+<field name="showid">MSNBC_20100305_050000_Hardball_With_Chris_Matthews</field>
+<field name="preview">https://archive.org/download/MSNBC_20100305_050000_Hardball_With_Chris_Matthews/MSNBC_20100305_050000_Hardball_With_Chris_Matthews.thumbs/MSNBC_20100305_050000_Hardball_With_Chris_Matthews_002605.jpg</field>
+<field name="snippet">somewhere in america. the slightest breeze harbors immense power. the tallest buildings leave the lightest footprints. a fifty-ton train makes barely a mark on the environment. and a country facing climate change</field>
+</doc>
+</add>

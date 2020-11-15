@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201302.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130218_030000_FOX_Report#start/1928/end/1963</field>
+<field name="datetime">2/18/2013 3:32:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report</field>
+<field name="showid">FOXNEWSW_20130218_030000_FOX_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130218_030000_FOX_Report/FOXNEWSW_20130218_030000_FOX_Report.thumbs/FOXNEWSW_20130218_030000_FOX_Report_001905.jpg</field>
+<field name="snippet">korea's latest nuclear test and the two leaders will try to meet again in the coming weeks. a cold day in washington d.c., but showing up for a reaction on climate change. environmentalists gathering at the nation's mall. the national mall. they want president obama to</field>
+</doc>
+</add>

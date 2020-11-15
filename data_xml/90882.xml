@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201709.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170919_060000_Tucker_Carlson_Tonight#start/1349/end/1384</field>
+<field name="datetime">9/19/2017 6:22:44</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20170919_060000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170919_060000_Tucker_Carlson_Tonight/FOXNEWSW_20170919_060000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20170919_060000_Tucker_Carlson_Tonight_001347.jpg</field>
+<field name="snippet">tucker: or this is incredibly complicated and we see part of the picture because that's the way life is. bottom line you're saying there is no consensus that climate change is responsible for more powerful hurricanes?</field>
+</doc>
+</add>

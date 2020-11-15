@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191023_080000_Fox_and_Friends_First#start/636/end/671</field>
+<field name="datetime">10/23/2019 8:10:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20191023_080000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191023_080000_Fox_and_Friends_First/FOXNEWSW_20191023_080000_Fox_and_Friends_First.thumbs/FOXNEWSW_20191023_080000_Fox_and_Friends_First_000628.jpg</field>
+<field name="snippet">jillian: it should be, larry david bill. todd: democrats found a new way to fight climate change. make people, low-income people, pay more. will work?</field>
+</doc>
+</add>

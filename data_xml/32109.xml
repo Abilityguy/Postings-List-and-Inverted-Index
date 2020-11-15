@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201012.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101201_140000_Americas_Newsroom#start/3310/end/3345</field>
+<field name="datetime">12/1/2010 14:55:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20101201_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101201_140000_Americas_Newsroom/FOXNEWS_20101201_140000_Americas_Newsroom.thumbs/FOXNEWS_20101201_140000_Americas_Newsroom_003300.jpg</field>
+<field name="snippet">at the political landscape, you know, you get the change in the house, republicans controlling the house, big gains in the senate, and also, the economy in america is in trouble. so even those who are in favor of a climate change deal say they can tell the</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191008_000000_Newsday#start/1820/end/1855</field>
+<field name="datetime">10/8/2019 0:30:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191008_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191008_000000_Newsday/BBCNEWS_20191008_000000_Newsday.thumbs/BBCNEWS_20191008_000000_Newsday_001798.jpg</field>
+<field name="snippet">in cities around the world at the start of a two-week campaign to demand government action on limiting global warming. and this story is getting a lot of attention on bbc.com israeli archaeologists unveil the ruins of</field>
+</doc>
+</add>

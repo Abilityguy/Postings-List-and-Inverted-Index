@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090810_150000_Happening_Now#start/4907/end/4942</field>
+<field name="datetime">8/10/2009 16:22:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20090810_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090810_150000_Happening_Now/FOXNEWS_20090810_150000_Happening_Now.thumbs/FOXNEWS_20090810_150000_Happening_Now_004886.jpg</field>
+<field name="snippet">canada and mexico. they have a whole lot plan for this summit -- climate change, the economic crisis, flu, and the battle against illegal drugs. we are waiting for a news conference. we are told it may be backed up</field>
+</doc>
+</add>

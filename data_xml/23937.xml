@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201411.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141113_040000_The_OReilly_Factor#start/253/end/288</field>
+<field name="datetime">11/13/2014 4:04:28</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20141113_040000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141113_040000_The_OReilly_Factor/FOXNEWSW_20141113_040000_The_OReilly_Factor.thumbs/FOXNEWSW_20141113_040000_The_OReilly_Factor_000225.jpg</field>
+<field name="snippet">global warming mr. erickson. i think the world has been warming and cooling for several billion years. i would put myself in the natural phenomenon camp. you feel it's a cycle of nature. carbon emissions have nothing to do with it. if they have something to do with it, minuscule.</field>
+</doc>
+</add>

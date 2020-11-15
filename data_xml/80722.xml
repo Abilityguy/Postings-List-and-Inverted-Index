@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191026_040000_Tucker_Carlson_Tonight#start/2721/end/2756</field>
+<field name="datetime">10/26/2019 4:45:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20191026_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191026_040000_Tucker_Carlson_Tonight/FOXNEWSW_20191026_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20191026_040000_Tucker_Carlson_Tonight_002697.jpg</field>
+<field name="snippet">this week. the hole inoo the ozone layer hs shrunk to its smallest size on record. according to researchers, the hole shrank due to higher than usual temperatures in our stratosphere. but they say the higher temperatures have no clear connection to global warming.</field>
+</doc>
+</add>

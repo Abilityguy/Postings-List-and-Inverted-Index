@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191008_050000_Breakfast#start/8591/end/8626</field>
+<field name="datetime">10/8/2019 7:23:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191008_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191008_050000_Breakfast/BBCNEWS_20191008_050000_Breakfast.thumbs/BBCNEWS_20191008_050000_Breakfast_008578.jpg</field>
+<field name="snippet">you some other news today. let's bring you some other news today. the metropolitan poice say its response to climate change demonstrations in london will be robust, after 280 people were arrested during protests organised by environmental campaign group extinction rebellion. last april, more than 1000 protesters were arrested, after similar events brought some</field>
+</doc>
+</add>

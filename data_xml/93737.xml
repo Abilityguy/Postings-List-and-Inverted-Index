@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190730_100000_BBC_Newsroom_Live#start/6593/end/6628</field>
+<field name="datetime">7/30/2019 11:50:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190730_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190730_100000_BBC_Newsroom_Live/BBCNEWS_20190730_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190730_100000_BBC_Newsroom_Live_006598.jpg</field>
+<field name="snippet">between now and 2050, more than one and a half billion trees need to be planted in the uk to combat climate change. that's the stark warning from government advisors, who say nowhere near enough is being done. david gregory-kumar has this report.</field>
+</doc>
+</add>

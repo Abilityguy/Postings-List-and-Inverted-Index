@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100111_210000_Your_World_With_Neil_Cavuto#start/2412/end/2447</field>
+<field name="datetime">1/11/2010 21:40:27</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWS_20100111_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100111_210000_Your_World_With_Neil_Cavuto/FOXNEWS_20100111_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWS_20100111_210000_Your_World_With_Neil_Cavuto_002393.jpg</field>
+<field name="snippet">appreciate it. neil: in washington. thank you, sir. meanwhile, we have updated fox news global warming alert, it's still cold. in fact, it's getting colder, much colder. environmentalists telling me duh, because it's winter, but some winter! not your recent garden</field>
+</doc>
+</add>

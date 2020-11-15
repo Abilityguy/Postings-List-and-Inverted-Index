@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201411.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20141112_050000_The_Rachel_Maddow_Show#start/0/end/34</field>
+<field name="datetime">11/12/2014 5:00:14</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBCW_20141112_050000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20141112_050000_The_Rachel_Maddow_Show/MSNBCW_20141112_050000_The_Rachel_Maddow_Show.thumbs/MSNBCW_20141112_050000_The_Rachel_Maddow_Show_000045.jpg</field>
+<field name="snippet">thank you for your insight in joining us. thank you. as we look back at this summit, and we have discussed, there have been a lot of issues. issues like trade, climate change and global security.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201002.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100201_110000_Morning_Joe#start/6587/end/6622</field>
+<field name="datetime">2/1/2010 12:50:02</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20100201_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20100201_110000_Morning_Joe/MSNBC_20100201_110000_Morning_Joe.thumbs/MSNBC_20100201_110000_Morning_Joe_006532.jpg</field>
+<field name="snippet">barely a mark on the environment. and a country facing climate change finds climate solutions. somewhere in america, we've already answered some of the nation's toughest questions. and the over sixty thousand people of siemens are ready to do it again.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190829_160000_BBC_News_at_Five#start/1599/end/1634</field>
+<field name="datetime">8/29/2019 16:26:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190829_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190829_160000_BBC_News_at_Five/BBCNEWS_20190829_160000_BBC_News_at_Five.thumbs/BBCNEWS_20190829_160000_BBC_News_at_Five_001587.jpg</field>
+<field name="snippet">we're all going to have to travel less, eat less meat and buy fewer clothes, if the uk is to meet the target of reducing greenhouse gas emissions to zero, by 2050. but the government's chief environment scientist, who leaves the job today, says few people fully understand the radical changes they need to make, to tackle climate change.</field>
+</doc>
+</add>

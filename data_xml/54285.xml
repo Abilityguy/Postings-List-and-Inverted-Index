@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201306.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130626_150000_MSNBC_Live#start/1207/end/1242</field>
+<field name="datetime">6/26/2013 15:20:22</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20130626_150000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130626_150000_MSNBC_Live/MSNBCW_20130626_150000_MSNBC_Live.thumbs/MSNBCW_20130626_150000_MSNBC_Live_001186.jpg</field>
+<field name="snippet">show by the president through somebody's iphone on speakerphone. i kind of like it. my producer was like can you ask the president if he has anything to say on msnbc and i thought i'll just wait on that one. sir, can i get a comment on your climate change speech? just a quick question.</field>
+</doc>
+</add>

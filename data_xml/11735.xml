@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190819_120000_BBC_News_at_One#start/1236/end/1271</field>
+<field name="datetime">8/19/2019 12:20:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190819_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190819_120000_BBC_News_at_One/BBCNEWS_20190819_120000_BBC_News_at_One.thumbs/BBCNEWS_20190819_120000_BBC_News_at_One_001227.jpg</field>
+<field name="snippet">throughout this week across bbc news, we're looking at the issues facing farmers in the uk, and today we focus on climate change. farming leaders say it is one of the biggest challenges for the agricultural industry. the national farmers' union</field>
+</doc>
+</add>

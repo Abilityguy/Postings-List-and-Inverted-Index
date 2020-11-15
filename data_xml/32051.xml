@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201012.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101202_110000_FOX_and_Friends#start/7702/end/7737</field>
+<field name="datetime">12/2/2010 13:08:37</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20101202_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101202_110000_FOX_and_Friends/FOXNEWS_20101202_110000_FOX_and_Friends.thumbs/FOXNEWS_20101202_110000_FOX_and_Friends_007680.jpg</field>
+<field name="snippet">reducing waste and duplication in congress. the select committee on global warming, which was created to provide a political forum to promote job killing national energy tax was a clear example and it will not continue in the 112th congress. there is one republican from</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191105_230000_BBC_News#start/1325/end/1360</field>
+<field name="datetime">11/5/2019 23:22:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191105_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191105_230000_BBC_News/BBCNEWS_20191105_230000_BBC_News.thumbs/BBCNEWS_20191105_230000_BBC_News_001318.jpg</field>
+<field name="snippet">to the rise in temperatures. all the main parties have committed to tackling climate change, more or less rapidly, so whoever ends up in charge faces a monumental challenge. and notjust overseeing many more of these, but also wind energy. thousands more turbines out at sea</field>
+</doc>
+</add>

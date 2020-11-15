@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091209_100000_The_OReilly_Factor#start/1437/end/1472</field>
+<field name="datetime">12/9/2009 10:24:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20091209_100000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091209_100000_The_OReilly_Factor/FOXNEWS_20091209_100000_The_OReilly_Factor.thumbs/FOXNEWS_20091209_100000_The_OReilly_Factor_001410.jpg</field>
+<field name="snippet">development and expansion of these technologies aimed at energy efficiency and thereby reducing greenhouse gases. bill: there hasn't been as pointed out today in a number of places, there hasn't been a major break through in wind or solar or even nuclear in the</field>
+</doc>
+</add>

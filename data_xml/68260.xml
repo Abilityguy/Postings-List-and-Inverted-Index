@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190226_060000_Breakfast#start/3040/end/3075</field>
+<field name="datetime">2/26/2019 6:50:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190226_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190226_060000_Breakfast/BBCNEWS_20190226_060000_Breakfast.thumbs/BBCNEWS_20190226_060000_Breakfast_003027.jpg</field>
+<field name="snippet">the uk experienced its warmest february day on record yesterday with temperatures in some parts of the country surpassing 20 degrees celsius. the direction of the air and the right pressure conditions have been attributed to the unseasonably warm weather, but there are some concerns that climate change has also played a part.</field>
+</doc>
+</add>

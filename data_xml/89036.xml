@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190627_120000_BBC_News_at_One#start/314/end/349</field>
+<field name="datetime">6/27/2019 12:05:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190627_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190627_120000_BBC_News_at_One/BBCNEWS_20190627_120000_BBC_News_at_One.thumbs/BBCNEWS_20190627_120000_BBC_News_at_One_000297.jpg</field>
+<field name="snippet">rising temperatures we have seen over the last century. these scientific arguments about the human influence on climate change are not just confined to heatwaves. here we have had scientists arguing about a much bigger thing, a scientific</field>
+</doc>
+</add>

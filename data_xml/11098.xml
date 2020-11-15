@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_180000_Beyond_100_Days#start/109/end/144</field>
+<field name="datetime">8/8/2019 18:02:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20190808_180000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_180000_Beyond_100_Days/BBCNEWS_20190808_180000_Beyond_100_Days.thumbs/BBCNEWS_20190808_180000_Beyond_100_Days_000088.jpg</field>
+<field name="snippet">climate change, with its increase in droughts and floods and storms, is only putting more pressure on our land and water resources. but if we change our diets now, we can help to tackle climate change. here's our science editor david shukman. a wall of dust smothers</field>
+</doc>
+</add>

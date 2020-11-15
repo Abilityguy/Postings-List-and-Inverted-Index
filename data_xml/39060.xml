@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100410_000000_The_OReilly_Factor#start/145/end/180</field>
+<field name="datetime">4/10/2010 0:02:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20100410_000000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100410_000000_The_OReilly_Factor/FOXNEWS_20100410_000000_The_OReilly_Factor.thumbs/FOXNEWS_20100410_000000_The_OReilly_Factor_000146.jpg</field>
+<field name="snippet">affects lives of the american people. second, the confirmation process could be a major boone to republicans, polls showing on climate change and health care,</field>
+</doc>
+</add>

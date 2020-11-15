@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190326_080000_Fox_and_Friends_First#start/567/end/602</field>
+<field name="datetime">3/26/2019 8:09:42</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190326_080000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190326_080000_Fox_and_Friends_First/FOXNEWSW_20190326_080000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190326_080000_Fox_and_Friends_First_000567.jpg</field>
+<field name="snippet">democrats to go on the record about the controversial climate change bill. democrats are expected to block it even though many of them say they support congresswoman alexandria ocasio cortez's plan. it calls for net 0 emissions in ten years by stopping things like air travel.</field>
+</doc>
+</add>

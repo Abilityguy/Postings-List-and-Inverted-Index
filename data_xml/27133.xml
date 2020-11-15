@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100201_110000_FOX_and_Friends#start/3641/end/3676</field>
+<field name="datetime">2/1/2010 12:00:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100201_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100201_110000_FOX_and_Friends/FOXNEWS_20100201_110000_FOX_and_Friends.thumbs/FOXNEWS_20100201_110000_FOX_and_Friends_003623.jpg</field>
+<field name="snippet">more behind closed doors. attention, c-span, will the democrats take part in that if that happens? and brian, an embarrassing mistake for a united nations committee on climate change. getting even worse. now we're learning they knew</field>
+</doc>
+</add>

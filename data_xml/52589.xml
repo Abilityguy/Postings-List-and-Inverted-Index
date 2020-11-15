@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181216_003000_100_Women#start/1128/end/1163</field>
+<field name="datetime">12/16/2018 0:49:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">100 Women</field>
+<field name="showid">BBCNEWS_20181216_003000_100_Women</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181216_003000_100_Women/BBCNEWS_20181216_003000_100_Women.thumbs/BBCNEWS_20181216_003000_100_Women_001108.jpg</field>
+<field name="snippet">after two weeks of talks and two years of work, consensus was finally reached late on saturday evening, on international rules to tackle climate change. nearly 200 countries overcame political divisions to support the implementation of the 2015 paris agreement. that aimed to limit a rise in average global temperatures to well below 2 degrees celsius, above pre-industrial levels. here's our science</field>
+</doc>
+</add>

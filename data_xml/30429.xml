@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.202001.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20200114_010000_All_In_With_Chris_Hayes#start/2596/end/2631</field>
+<field name="datetime">1/14/2020 1:43:31</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20200114_010000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20200114_010000_All_In_With_Chris_Hayes/MSNBCW_20200114_010000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20200114_010000_All_In_With_Chris_Hayes_002578.jpg</field>
+<field name="snippet">it snowed january and trump said, wouldn't be bad to have a little of that good old-fashioned global warming right now. on november 2018 when it was cold, trump said, whatever happened to global warming? or when the forecast called for chilly new year's eve december 2017, perhaps we could use a</field>
+</doc>
+</add>

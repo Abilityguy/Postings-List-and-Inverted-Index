@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190604_220000_Special_Report_With_Bret_Baier#start/3230/end/3265</field>
+<field name="datetime">6/4/2019 22:54:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20190604_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190604_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20190604_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20190604_220000_Special_Report_With_Bret_Baier_003209.jpg</field>
+<field name="snippet">they need an aggressive climate change policy to get through the primary, but the lesson from around the world is an aggressive climate policy and a loser in general elections and most recently we saw that in australia where a labor party that was running for victory was</field>
+</doc>
+</add>

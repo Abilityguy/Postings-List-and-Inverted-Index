@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190106_180000_Americas_News_HQ#start/1845/end/1880</field>
+<field name="datetime">1/6/2019 18:31:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20190106_180000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190106_180000_Americas_News_HQ/FOXNEWSW_20190106_180000_Americas_News_HQ.thumbs/FOXNEWSW_20190106_180000_Americas_News_HQ_001828.jpg</field>
+<field name="snippet">reporter: twitter is the best place to solve the nation's problems as we know. this twitter debate was about alexandria ocasio-cortez for a great idea, radical plan to take on climate change in income inequality in part by</field>
+</doc>
+</add>

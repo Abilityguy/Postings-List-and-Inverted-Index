@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191223_040000_BBC_News#start/216/end/251</field>
+<field name="datetime">12/23/2019 4:03:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191223_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191223_040000_BBC_News/BBCNEWS_20191223_040000_BBC_News.thumbs/BBCNEWS_20191223_040000_BBC_News_000208.jpg</field>
+<field name="snippet">from the weekend's bushfires, and while the weather has cooled down a little, the political debate is raging on. prime minister scott morrison has acknowledged a link between global warming and extreme weather, but has doubled down on his defence of the coal industry. shaimaa khalil has the story.</field>
+</doc>
+</add>

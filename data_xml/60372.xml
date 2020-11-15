@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_193000_Climate_Change#start/61/end/96</field>
+<field name="datetime">10/8/2018 19:31:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Climate Change</field>
+<field name="showid">BBCNEWS_20181008_193000_Climate_Change</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_193000_Climate_Change/BBCNEWS_20181008_193000_Climate_Change.thumbs/BBCNEWS_20181008_193000_Climate_Change_000057.jpg</field>
+<field name="snippet">questions on climate change, you can send them to us now. text 61124, email askthis@bbc.co.uk, or tweet using the hashtag #bbcaskthis. first, our science correspondent pallab ghosh reports on what's been described as a global wake up</field>
+</doc>
+</add>

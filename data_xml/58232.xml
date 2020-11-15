@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201310.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20131030_000000_All_In_With_Chris_Hayes#start/2626/end/2661</field>
+<field name="datetime">10/30/2013 0:44:01</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20131030_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20131030_000000_All_In_With_Chris_Hayes/MSNBCW_20131030_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20131030_000000_All_In_With_Chris_Hayes_002625.jpg</field>
+<field name="snippet">extreme weather and more crises. when you put those together, unless you get very serious very quickly, those two trends are going to rip our social contract apart. climate change and inequality are two sides of the same coin and we need to be addressing them together.</field>
+</doc>
+</add>

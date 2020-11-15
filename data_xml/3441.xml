@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201506.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150607_170000_Americas_News_Headquarters#start/530/end/565</field>
+<field name="datetime">6/7/2015 17:09:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20150607_170000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150607_170000_Americas_News_Headquarters/FOXNEWSW_20150607_170000_Americas_News_Headquarters.thumbs/FOXNEWSW_20150607_170000_Americas_News_Headquarters_000525.jpg</field>
+<field name="snippet">in this particular administration they're looking for cooperation on climate change and a few other issues and so they're not going to really disrupt matters over something like cyberattacks. well i think these are much more important than climate change which is a longer term</field>
+</doc>
+</add>

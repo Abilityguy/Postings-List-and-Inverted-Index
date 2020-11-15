@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091008_170000_The_Live_Desk#start/149/end/184</field>
+<field name="datetime">10/8/2009 17:02:44</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Live Desk</field>
+<field name="showid">FOXNEWS_20091008_170000_The_Live_Desk</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091008_170000_The_Live_Desk/FOXNEWS_20091008_170000_The_Live_Desk.thumbs/FOXNEWS_20091008_170000_The_Live_Desk_000146.jpg</field>
+<field name="snippet">having lunch privately with president obama. our understanding is the president wants to hear from the private sector about what they're feeling is about the health of the financial market, job creation, some climate</field>
+</doc>
+</add>

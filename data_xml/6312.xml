@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190923_170000_BBC_News_at_Six#start/1211/end/1246</field>
+<field name="datetime">9/23/2019 17:20:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20190923_170000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190923_170000_BBC_News_at_Six/BBCNEWS_20190923_170000_BBC_News_at_Six.thumbs/BBCNEWS_20190923_170000_BBC_News_at_Six_001199.jpg</field>
+<field name="snippet">headquarters of the united nations, an urgent climate action summit. this global body, once more, sounding the alarm. the world is losing the race against climate change. applause. in this air-conditioned auditorium,</field>
+</doc>
+</add>

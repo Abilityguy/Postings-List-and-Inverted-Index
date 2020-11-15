@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201008.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100804_190000_Studio_B_With_Shepard_Smith#start/2763/end/2798</field>
+<field name="datetime">8/4/2010 19:46:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Studio B With Shepard Smith</field>
+<field name="showid">FOXNEWS_20100804_190000_Studio_B_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100804_190000_Studio_B_With_Shepard_Smith/FOXNEWS_20100804_190000_Studio_B_With_Shepard_Smith.thumbs/FOXNEWS_20100804_190000_Studio_B_With_Shepard_Smith_002760.jpg</field>
+<field name="snippet">director of the white house office of energy and climate change policy joining us live. very good to talk to you. thanks so much. shepard: thank you. this is what everybody hoped for, that you can stop the leak, you could shut the thing off and clean up can go on.</field>
+</doc>
+</add>

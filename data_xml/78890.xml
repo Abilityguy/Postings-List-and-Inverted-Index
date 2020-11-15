@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20200111_010000_Tucker_Carlson_Tonight#start/2439/end/2474</field>
+<field name="datetime">1/11/2020 1:40:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20200111_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20200111_010000_Tucker_Carlson_Tonight/FOXNEWSW_20200111_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20200111_010000_Tucker_Carlson_Tonight_002429.jpg</field>
+<field name="snippet">mark: and mack supermodels, we'll save the planet. thank you for that. climate change on the catwalk. are you more informed and then use experts? we'll find out. final exam is straight ahead. plus, a u.k. man nearly killed</field>
+</doc>
+</add>

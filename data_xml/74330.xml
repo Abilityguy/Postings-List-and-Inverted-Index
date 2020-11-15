@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200119_000000_BBC_News#start/1513/end/1548</field>
+<field name="datetime">1/19/2020 0:25:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200119_000000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200119_000000_BBC_News/BBCNEWS_20200119_000000_BBC_News.thumbs/BBCNEWS_20200119_000000_BBC_News_001498.jpg</field>
+<field name="snippet">they can now use that knowledge to find natural solutions - maybe different trees or algae which can trap some of the greenhouse gases. as for our cam readings, methane levels are low, and carbon dioxide was average.</field>
+</doc>
+</add>

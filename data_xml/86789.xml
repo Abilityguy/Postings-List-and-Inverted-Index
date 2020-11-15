@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191208_030000_BBC_News#start/1283/end/1318</field>
+<field name="datetime">12/8/2019 3:21:38</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191208_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191208_030000_BBC_News/BBCNEWS_20191208_030000_BBC_News.thumbs/BBCNEWS_20191208_030000_BBC_News_001259.jpg</field>
+<field name="snippet">to global warming. a brutal summer lies ahead. phil mercer, bbc news, sydney. tens of thousands of people are taking part in the world's big sleep out to raise awareness about homelessness.</field>
+</doc>
+</add>

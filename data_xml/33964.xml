@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_160000_Happening_Now#start/5743/end/5778</field>
+<field name="datetime">12/18/2009 17:35:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091218_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_160000_Happening_Now/FOXNEWS_20091218_160000_Happening_Now.thumbs/FOXNEWS_20091218_160000_Happening_Now_005730.jpg</field>
+<field name="snippet">the line. it's something that every american family has to consider. jane: very interesting. thanks. jon: the united nations climate change summit drew some of america's most powerful leaders. president obama there today, of course. house speaker, nancy pelosi,</field>
+</doc>
+</add>

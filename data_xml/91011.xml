@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201603.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160310_160000_MSNBC_Live_With_Tamron_Hall#start/1281/end/1316</field>
+<field name="datetime">3/10/2016 16:21:36</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Tamron Hall</field>
+<field name="showid">MSNBCW_20160310_160000_MSNBC_Live_With_Tamron_Hall</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160310_160000_MSNBC_Live_With_Tamron_Hall/MSNBCW_20160310_160000_MSNBC_Live_With_Tamron_Hall.thumbs/MSNBCW_20160310_160000_MSNBC_Live_With_Tamron_Hall_001257.jpg</field>
+<field name="snippet">let's take the paris agreement, for example. that agreement is both a symbolic declaration of global corporation on climate change as well as a practical guide for growing our economies in a responsible and sustainable way.</field>
+</doc>
+</add>

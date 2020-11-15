@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201002.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100213_160000_MSNBC_News_Live#start/639/end/674</field>
+<field name="datetime">2/13/2010 16:10:54</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100213_160000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100213_160000_MSNBC_News_Live/MSNBC_20100213_160000_MSNBC_News_Live.thumbs/MSNBC_20100213_160000_MSNBC_News_Live_000630.jpg</field>
+<field name="snippet">white house, thanks so much. reporter: certainly. an issue dividing america and this historic winter is fueling the fight over global warming. also ahead we'll take you to the front lines of security at the winter olympics, to see how authorities are trying to</field>
+</doc>
+</add>

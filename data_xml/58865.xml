@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181108_140000_Afternoon_Live#start/4603/end/4638</field>
+<field name="datetime">11/8/2018 15:16:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20181108_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181108_140000_Afternoon_Live/BBCNEWS_20181108_140000_Afternoon_Live.thumbs/BBCNEWS_20181108_140000_Afternoon_Live_004587.jpg</field>
+<field name="snippet">the project, planned near sellafield. we can now get the thoughts of neil hirst, former head of the international energy agency and researcher with the grantham institute for climate change. thank you for your time. is this a</field>
+</doc>
+</add>

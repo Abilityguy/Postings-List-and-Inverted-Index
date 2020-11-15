@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201206.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120605_080000_The_Rachel_Maddow_Show#start/133/end/168</field>
+<field name="datetime">6/5/2012 8:02:28</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBCW_20120605_080000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120605_080000_The_Rachel_Maddow_Show/MSNBCW_20120605_080000_The_Rachel_Maddow_Show.thumbs/MSNBCW_20120605_080000_The_Rachel_Maddow_Show_000120.jpg</field>
+<field name="snippet">hi, everybody, rebecca here. i'm in the global warming today poisoning the world with my breath. no, it doesn't stink, i brushed. i'm not talking about that. i'm talking about the fact that the epa says what i breathe out is poison to the world.</field>
+</doc>
+</add>

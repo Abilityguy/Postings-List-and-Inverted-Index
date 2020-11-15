@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171221_033000_Click#start/788/end/823</field>
+<field name="datetime">12/21/2017 3:43:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Click</field>
+<field name="showid">BBCNEWS_20171221_033000_Click</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171221_033000_Click/BBCNEWS_20171221_033000_Click.thumbs/BBCNEWS_20171221_033000_Click_000777.jpg</field>
+<field name="snippet">and what we're doing in this experiment is we want to sense greenhouse gases, and measure how much there is, how that's changing over time. and one good way to monitor large-scale systems is from space. to put something properly on a satellite, it has to go through all the space qualifying tests, so every item in there would have</field>
+</doc>
+</add>

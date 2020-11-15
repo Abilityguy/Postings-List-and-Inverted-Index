@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191030_210000_Outside_Source#start/1898/end/1933</field>
+<field name="datetime">10/30/2019 21:31:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20191030_210000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191030_210000_Outside_Source/BBCNEWS_20191030_210000_Outside_Source.thumbs/BBCNEWS_20191030_210000_Outside_Source_001888.jpg</field>
+<field name="snippet">chile's government say it can no longer host two big international summits. the capital santiago was supposed to host the asia pacific trade talks known as apec later this month. and the un's cop25 climate change conference was also supposed to be in december. here's the chilean president.</field>
+</doc>
+</add>

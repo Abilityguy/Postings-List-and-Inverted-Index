@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201410.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20141023_200000_NOW_With_Alex_Wagner#start/957/end/992</field>
+<field name="datetime">10/23/2014 20:16:12</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20141023_200000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20141023_200000_NOW_With_Alex_Wagner/MSNBCW_20141023_200000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20141023_200000_NOW_With_Alex_Wagner_000945.jpg</field>
+<field name="snippet">returning from west africa. we'll have the latest details on that coming up, seven years later there is finally justice, we think, for 17 innocent iraqis who were killed by american security contractors. we'll discuss the blackwater verdict and later, the true costs of climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091216_200000_Studio_B_With_Shepard_Smith#start/3176/end/3211</field>
+<field name="datetime">12/16/2009 20:53:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Studio B With Shepard Smith</field>
+<field name="showid">FOXNEWS_20091216_200000_Studio_B_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091216_200000_Studio_B_With_Shepard_Smith/FOXNEWS_20091216_200000_Studio_B_With_Shepard_Smith.thumbs/FOXNEWS_20091216_200000_Studio_B_With_Shepard_Smith_003060.jpg</field>
+<field name="snippet">shepard: we have the latest on the climate change conference in copenhagen. intense talks with what appeared to be sadly few results. outside? count the people.</field>
+</doc>
+</add>

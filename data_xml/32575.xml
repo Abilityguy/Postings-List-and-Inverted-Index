@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201211.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121126_100000_FOX_and_Friends_First#start/846/end/881</field>
+<field name="datetime">11/26/2012 10:14:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends First</field>
+<field name="showid">FOXNEWSW_20121126_100000_FOX_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121126_100000_FOX_and_Friends_First/FOXNEWSW_20121126_100000_FOX_and_Friends_First.thumbs/FOXNEWSW_20121126_100000_FOX_and_Friends_First_000807.jpg</field>
+<field name="snippet">united nations announce ago new round of talks today in kwut tar on global warming. even though a lot of country's budgets are strained by big financial problems some countries say they will spend more cash tackling the climate</field>
+</doc>
+</add>

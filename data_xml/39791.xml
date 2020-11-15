@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091121_020000_Hannity#start/3274/end/3309</field>
+<field name="datetime">11/21/2009 2:54:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20091121_020000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091121_020000_Hannity/FOXNEWS_20091121_020000_Hannity.thumbs/FOXNEWS_20091121_020000_Hannity_003270.jpg</field>
+<field name="snippet">his answer to the court -- sean: pretty classy, right? mr. macalere, and his colleague, have produced a new movie that shows why al gore's wrong about global warming. and outlines just how damaging</field>
+</doc>
+</add>

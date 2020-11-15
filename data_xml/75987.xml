@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190510_230000_BBC_News#start/22/end/57</field>
+<field name="datetime">5/10/2019 23:00:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190510_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190510_230000_BBC_News/BBCNEWS_20190510_230000_BBC_News.thumbs/BBCNEWS_20190510_230000_BBC_News_000028.jpg</field>
+<field name="snippet">36 migrants off the coast of libya, but off tunisia a migrant boat has capsized, killing at least 65 people. british scientists unveil what they say are radical new plans to tackle climate change.</field>
+</doc>
+</add>

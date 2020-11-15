@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201612.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161205_200000_Shepard_Smith_Reporting#start/49/end/84</field>
+<field name="datetime">12/5/2016 20:01:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20161205_200000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161205_200000_Shepard_Smith_Reporting/FOXNEWSW_20161205_200000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20161205_200000_Shepard_Smith_Reporting_000057.jpg</field>
+<field name="snippet">first this monday afternoon, another surprise in a long list of surprises coming out of trump tower. this president-elect met with the former vice president, al gore today, on the issue of climate change. former vice president gore is a prominent activist in the fight</field>
+</doc>
+</add>

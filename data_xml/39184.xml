@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100419_220000_Special_Report_With_Bret_Baier#start/2077/end/2112</field>
+<field name="datetime">4/19/2010 22:34:52</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100419_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100419_220000_Special_Report_With_Bret_Baier/FOXNEWS_20100419_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100419_220000_Special_Report_With_Bret_Baier_002064.jpg</field>
+<field name="snippet">ratification of nuclear treaty with the russians and overhaul of regulatory system, immigration reform, climate change legislation and not to mention creation of new jobs as the economy limps along the road to recovery. a jam-packed agenda for congress to try to wrap up before the session wraps up</field>
+</doc>
+</add>

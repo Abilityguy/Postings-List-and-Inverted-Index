@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_080000_BBC_News_at_Nine#start/2110/end/2145</field>
+<field name="datetime">8/8/2019 8:35:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190808_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_080000_BBC_News_at_Nine/BBCNEWS_20190808_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190808_080000_BBC_News_at_Nine_002099.jpg</field>
+<field name="snippet">high consumption of meat in the west is fuelling global warming, according to climate scientists. torrential rain causes disruption for travellers in parts of scotland as flooding closes the main rail line from edinburgh to glasgow.</field>
+</doc>
+</add>

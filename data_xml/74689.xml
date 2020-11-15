@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200105_033000_Our_World#start/1003/end/1038</field>
+<field name="datetime">1/5/2020 3:46:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Our World</field>
+<field name="showid">BBCNEWS_20200105_033000_Our_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200105_033000_Our_World/BBCNEWS_20200105_033000_Our_World.thumbs/BBCNEWS_20200105_033000_Our_World_000837.jpg</field>
+<field name="snippet">climate change is damaging traditional sami livelihoods. but that's not the only threat. as temperatures rise and the sea ice melts, there's now the opportunity for a shipping route to open through the arctic.</field>
+</doc>
+</add>

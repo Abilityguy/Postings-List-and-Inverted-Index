@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201506.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150616_210000_The_Five#start/2451/end/2486</field>
+<field name="datetime">6/16/2015 21:41:06</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20150616_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150616_210000_The_Five/FOXNEWSW_20150616_210000_The_Five.thumbs/FOXNEWSW_20150616_210000_The_Five_002445.jpg</field>
+<field name="snippet">the pope is reportedly going to declare that global warming is real and partly caused by humans. he'll call on world leaders to fight it. it's raising concern by some like judge napolitano.</field>
+</doc>
+</add>

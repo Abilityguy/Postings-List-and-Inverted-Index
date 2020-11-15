@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171207_020000_BBC_News#start/1128/end/1163</field>
+<field name="datetime">12/7/2017 2:19:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171207_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171207_020000_BBC_News/BBCNEWS_20171207_020000_BBC_News.thumbs/BBCNEWS_20171207_020000_BBC_News_001108.jpg</field>
+<field name="snippet">only one thing could stop the blaze, the pacific ocean. this was how the fires looked from space, thick smoke streaming out to sea. it has barely rained here in la for six months and you can tell. many scientists say climate change is driving more frequent and more destructive wildfires.</field>
+</doc>
+</add>

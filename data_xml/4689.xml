@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170629_203000_Outside_Source#start/1080/end/1115</field>
+<field name="datetime">6/29/2017 20:48:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20170629_203000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170629_203000_Outside_Source/BBCNEWS_20170629_203000_Outside_Source.thumbs/BBCNEWS_20170629_203000_Outside_Source_001077.jpg</field>
+<field name="snippet">from the bbc newsroom. german leader angela merkel says the paris agreement on climate change is non negotiable - in a thinly-veiled attack</field>
+</doc>
+</add>

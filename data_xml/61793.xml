@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201409.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140905_210000_The_Five#start/2389/end/2424</field>
+<field name="datetime">9/5/2014 21:40:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20140905_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140905_210000_The_Five/FOXNEWSW_20140905_210000_The_Five.thumbs/FOXNEWSW_20140905_210000_The_Five_002355.jpg</field>
+<field name="snippet">what would you say is the most urgent challenge facing our country right now? isis? maybe iran's nukes? well according to hillary clinton it's climate change.</field>
+</doc>
+</add>

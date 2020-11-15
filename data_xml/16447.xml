@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201502.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150214_190000_The_Journal_Editorial_Report#start/17/end/52</field>
+<field name="datetime">2/14/2015 19:00:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Journal Editorial Report</field>
+<field name="showid">FOXNEWSW_20150214_190000_The_Journal_Editorial_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150214_190000_The_Journal_Editorial_Report/FOXNEWSW_20150214_190000_The_Journal_Editorial_Report.thumbs/FOXNEWSW_20150214_190000_The_Journal_Editorial_Report_000045.jpg</field>
+<field name="snippet">that's all for us here in washington. this week on 'the journal editorial report' the administration lays out the national security and puts climate change on par with terrorism. are they down playing the real threat?</field>
+</doc>
+</add>

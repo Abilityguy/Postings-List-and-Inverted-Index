@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190512_203000_Coastal_Britain#start/10/end/45</field>
+<field name="datetime">5/12/2019 20:30:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Coastal Britain</field>
+<field name="showid">BBCNEWS_20190512_203000_Coastal_Britain</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190512_203000_Coastal_Britain/BBCNEWS_20190512_203000_Coastal_Britain.thumbs/BBCNEWS_20190512_203000_Coastal_Britain_000029.jpg</field>
+<field name="snippet">this is bbc world news - the headlines. the un secretary general, antonio guterres, has kicked off a push for climate change, warning that the political will needed to tackle the issue is fading. he has called it the defining issue of our time. manchester city have</field>
+</doc>
+</add>

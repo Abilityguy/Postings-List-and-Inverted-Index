@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170527_040000_BBC_News#start/936/end/971</field>
+<field name="datetime">5/27/2017 4:15:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170527_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170527_040000_BBC_News/BBCNEWS_20170527_040000_BBC_News.thumbs/BBCNEWS_20170527_040000_BBC_News_000927.jpg</field>
+<field name="snippet">on trade and climate change. donald trump has voiced his anger at the impact that he believes free trade is having on us car markets, and he has also expressed doubts about global warming, and threatened to pull the us out of a deal agreed in paris in 2015 to limit carbon emissions. so g7 leaders are using this summit</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191015_220000_BBC_News#start/1507/end/1542</field>
+<field name="datetime">10/15/2019 22:25:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191015_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191015_220000_BBC_News/BBCNEWS_20191015_220000_BBC_News.thumbs/BBCNEWS_20191015_220000_BBC_News_001498.jpg</field>
+<field name="snippet">earlier in the day, the trip kicked off with a visit to a school in islamabad. education, along with climate change, are amongst the issues the couple want to focus on in particular. they also met pakistan's prime minister, cricketer turned</field>
+</doc>
+</add>

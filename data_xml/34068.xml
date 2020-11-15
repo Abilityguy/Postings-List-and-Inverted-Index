@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_160000_Happening_Now#start/4158/end/4193</field>
+<field name="datetime">12/18/2009 17:09:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091218_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_160000_Happening_Now/FOXNEWS_20091218_160000_Happening_Now.thumbs/FOXNEWS_20091218_160000_Happening_Now_004140.jpg</field>
+<field name="snippet">emissions. the president's address was a last-ditch effort to salvage some kind of consensus on climate change as this two-week summit wraps up our major garrett is there. he has the latest for us. major? well good eastern, jon, from</field>
+</doc>
+</add>

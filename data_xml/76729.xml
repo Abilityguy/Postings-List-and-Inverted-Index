@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190524_200000_World_News_Today#start/1337/end/1372</field>
+<field name="datetime">5/24/2019 20:22:32</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190524_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190524_200000_World_News_Today/BBCNEWS_20190524_200000_World_News_Today.thumbs/BBCNEWS_20190524_200000_World_News_Today_001317.jpg</field>
+<field name="snippet">school students are holding strikes in countries around the world today to demand action on climate change. 0rganisers have said over a million people are expected join in at least 110 countries. the strikes were sparked by the swedish student</field>
+</doc>
+</add>

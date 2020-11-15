@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201606.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160602_150000_Happening_Now#start/150/end/185</field>
+<field name="datetime">6/2/2016 15:02:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20160602_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160602_150000_Happening_Now/FOXNEWSW_20160602_150000_Happening_Now.thumbs/FOXNEWSW_20160602_150000_Happening_Now_000147.jpg</field>
+<field name="snippet">maybe they think this campaign is not quite over. reporter: sanders will do a news conference here on climate change later today, taking reporter questions and will rally his supporters who are lined up around the block</field>
+</doc>
+</add>

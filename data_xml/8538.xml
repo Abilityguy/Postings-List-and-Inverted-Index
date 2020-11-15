@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190913_090000_Fox_and_Friends_First#start/1516/end/1551</field>
+<field name="datetime">9/13/2019 9:25:31</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190913_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190913_090000_Fox_and_Friends_First/FOXNEWSW_20190913_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190913_090000_Fox_and_Friends_First_001497.jpg</field>
+<field name="snippet">jillian: students have permission to cut class in the name of climate change. the department of education will about kids to skip school if they have their parents permission to attend a protest in manhattan. bill diblasio tweeting new york</field>
+</doc>
+</add>

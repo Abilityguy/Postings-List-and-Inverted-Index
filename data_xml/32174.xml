@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201006.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100629_210000_Glenn_Beck#start/442/end/477</field>
+<field name="datetime">6/29/2010 21:07:37</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20100629_210000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100629_210000_Glenn_Beck/FOXNEWS_20100629_210000_Glenn_Beck.thumbs/FOXNEWS_20100629_210000_Glenn_Beck_000416.jpg</field>
+<field name="snippet">except i was right, and they were lying. same thing with cap-and-trade. how many bogus e-mails do we need from scientists to realize, global warming is a hoax? cap-and-trade has nothing to do with saving the planet.</field>
+</doc>
+</add>

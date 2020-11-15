@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201005.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100512_160000_MSNBC_News_Live#start/3484/end/3519</field>
+<field name="datetime">5/12/2010 16:58:19</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100512_160000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100512_160000_MSNBC_News_Live/MSNBC_20100512_160000_MSNBC_News_Live.thumbs/MSNBC_20100512_160000_MSNBC_News_Live_003476.jpg</field>
+<field name="snippet">challenger, joe sestack. now neck and neck. will senator specter be the latest incumbent to go down this year? he's coming up next. finally, a climate change bill unveiled today. what are its chances after that oil spill disaster in the gulf? good day. i'm andrea mitchell live in new</field>
+</doc>
+</add>

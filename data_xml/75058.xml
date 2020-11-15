@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_110000_BBC_Newsroom_Live#start/5918/end/5953</field>
+<field name="datetime">1/17/2020 12:38:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20200117_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_110000_BBC_Newsroom_Live/BBCNEWS_20200117_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20200117_110000_BBC_Newsroom_Live_005908.jpg</field>
+<field name="snippet">school in the highlands, it is our fifth one and at winter school at we bring together people all over the world, students and professors to address the challenge of the day and this year, the challenge is climate change so we are gathering together</field>
+</doc>
+</add>

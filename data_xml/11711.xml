@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190825_093000_Weather_World#start/285/end/320</field>
+<field name="datetime">8/25/2019 9:35:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20190825_093000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190825_093000_Weather_World/BBCNEWS_20190825_093000_Weather_World.thumbs/BBCNEWS_20190825_093000_Weather_World_000268.jpg</field>
+<field name="snippet">there could be worse to come as heatwaves become more likely and more extreme because of climate change. the baseline temperature has increased by about! degrees globally since preindustrial times, and it's that level thatjust means in normal conditions we would see</field>
+</doc>
+</add>

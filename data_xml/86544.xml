@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191211_170000_BBC_News_at_Five#start/1207/end/1242</field>
+<field name="datetime">12/11/2019 17:20:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20191211_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191211_170000_BBC_News_at_Five/BBCNEWS_20191211_170000_BBC_News_at_Five.thumbs/BBCNEWS_20191211_170000_BBC_News_at_Five_001197.jpg</field>
+<field name="snippet">and their government's lack of ambition on climate change. delegates at the cop, meanwhile, are bogged down in the arcane details of the negotiations. it could be that, in greta's words, the climate crisis will only be solved by citizens on the streets.</field>
+</doc>
+</add>

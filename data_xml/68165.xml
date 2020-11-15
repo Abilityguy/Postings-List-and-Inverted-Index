@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190215_140000_Afternoon_Live#start/1905/end/1940</field>
+<field name="datetime">2/15/2019 14:32:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190215_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190215_140000_Afternoon_Live/BBCNEWS_20190215_140000_Afternoon_Live.thumbs/BBCNEWS_20190215_140000_Afternoon_Live_001888.jpg</field>
+<field name="snippet">we'll have a special report from our correspondent on the border between california and mexico. schools out! thousands of pupils strike in protest over climate change. prisons continue to cause concern as books sprayed with drugs are smuggled into one of britain's most troubled jails. award-winning author, andrea levy,</field>
+</doc>
+</add>

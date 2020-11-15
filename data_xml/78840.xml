@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20200121_100000_FOX__Friends_First#start/2547/end/2582</field>
+<field name="datetime">1/21/2020 10:42:42</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends First</field>
+<field name="showid">FOXNEWSW_20200121_100000_FOX__Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20200121_100000_FOX__Friends_First/FOXNEWSW_20200121_100000_FOX__Friends_First.thumbs/FOXNEWSW_20200121_100000_FOX__Friends_First_002549.jpg</field>
+<field name="snippet">they just asked about climate change, greta thunberg will be speaking as part of a group of people talking about climate change, a big focus on that this year. greta thunberg was named person of the year by time</field>
+</doc>
+</add>

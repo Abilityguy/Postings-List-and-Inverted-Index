@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091210_090000_Special_Report_With_Bret_Baier#start/1798/end/1833</field>
+<field name="datetime">12/10/2009 9:30:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091210_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091210_090000_Special_Report_With_Bret_Baier/FOXNEWS_20091210_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091210_090000_Special_Report_With_Bret_Baier_001585.jpg</field>
+<field name="snippet">bret: and now some fresh pickings from the political grapevine. al gore says the climate-gate e-mails which some experts say impugn global warming science are silly and dated. quote 'i haven't read all the e-mails but the most recent one is more than ten years old.'</field>
+</doc>
+</add>

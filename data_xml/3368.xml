@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201512.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151220_000000_Fox_Report_Saturday#start/1960/end/1995</field>
+<field name="datetime">12/20/2015 0:32:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox Report Saturday</field>
+<field name="showid">FOXNEWSW_20151220_000000_Fox_Report_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151220_000000_Fox_Report_Saturday/FOXNEWSW_20151220_000000_Fox_Report_Saturday.thumbs/FOXNEWSW_20151220_000000_Fox_Report_Saturday_001935.jpg</field>
+<field name="snippet">kevin, after the california stop, the president then headed to hawaii. i see you followed him. but he did make some news on climate change before breaking for his winter vacation. what can you tell us about that? yeah, he did. i'm glad you mentioned that.</field>
+</doc>
+</add>

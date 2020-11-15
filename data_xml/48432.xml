@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201908.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190808_160000_Andrea_Mitchell_Reports#start/1890/end/1925</field>
+<field name="datetime">8/8/2019 16:31:45</field>
+<field name="station">MSNBC</field>
+<field name="show">Andrea Mitchell Reports</field>
+<field name="showid">MSNBCW_20190808_160000_Andrea_Mitchell_Reports</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190808_160000_Andrea_Mitchell_Reports/MSNBCW_20190808_160000_Andrea_Mitchell_Reports.thumbs/MSNBCW_20190808_160000_Andrea_Mitchell_Reports_001827.jpg</field>
+<field name="snippet">a startling new u.n. report is raising alarms about the impact of climate change and the way we eat, the connection there. global scientists warning that climate change is threatening the world's food supply with land and water resources being</field>
+</doc>
+</add>

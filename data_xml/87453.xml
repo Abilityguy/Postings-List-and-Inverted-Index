@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191204_110000_BBC_Newsroom_Live#start/5156/end/5191</field>
+<field name="datetime">12/4/2019 12:26:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20191204_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191204_110000_BBC_Newsroom_Live/BBCNEWS_20191204_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20191204_110000_BBC_Newsroom_Live_005157.jpg</field>
+<field name="snippet">thank you. a study suggests global carbon dioxide emissions have risen slightly this year, despite a drop in the use of coal. the report issued at the climate change conference in madrid, says the overall rise in carbon</field>
+</doc>
+</add>

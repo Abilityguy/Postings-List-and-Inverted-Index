@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190927_194500_The_Film_Review#start/15/end/50</field>
+<field name="datetime">9/27/2019 19:45:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Film Review</field>
+<field name="showid">BBCNEWS_20190927_194500_The_Film_Review</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190927_194500_The_Film_Review/BBCNEWS_20190927_194500_The_Film_Review.thumbs/BBCNEWS_20190927_194500_The_Film_Review_000027.jpg</field>
+<field name="snippet">effects of climate change are unclear at the moment but it's definitely having an effect. for others we have seen already big decreases in rainfall for example causing more fires which has affected several species or the</field>
+</doc>
+</add>

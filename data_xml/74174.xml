@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_013000_Asia_Business_Report#start/121/end/156</field>
+<field name="datetime">1/17/2020 1:32:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Asia Business Report</field>
+<field name="showid">BBCNEWS_20200117_013000_Asia_Business_Report</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_013000_Asia_Business_Report/BBCNEWS_20200117_013000_Asia_Business_Report.thumbs/BBCNEWS_20200117_013000_Asia_Business_Report_000118.jpg</field>
+<field name="snippet">climate change, because starting today the bbc begins a year-long series called our planet matters, and microsoft has just announced an ambitious plan to reduce its greenhouse gases. it has pledged to become carbon free by 2050. that</field>
+</doc>
+</add>

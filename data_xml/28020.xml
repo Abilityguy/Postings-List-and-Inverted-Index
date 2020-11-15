@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201406.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140607_100000_FOX_and_Friends_Saturday#start/14416/end/14451</field>
+<field name="datetime">6/7/2014 14:00:31</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20140607_100000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140607_100000_FOX_and_Friends_Saturday/FOXNEWSW_20140607_100000_FOX_and_Friends_Saturday.thumbs/FOXNEWSW_20140607_100000_FOX_and_Friends_Saturday_014415.jpg</field>
+<field name="snippet">bye, everybody. just as jobs are returning the eps calling for a slew of new regulations to fight global warming. now business groups warning it</field>
+</doc>
+</add>

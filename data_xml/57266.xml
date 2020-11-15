@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181130_080000_Fox_News__Night_With_Shannon_Bream#start/1826/end/1861</field>
+<field name="datetime">11/30/2018 8:30:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News  Night With Shannon Bream</field>
+<field name="showid">FOXNEWSW_20181130_080000_Fox_News__Night_With_Shannon_Bream</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181130_080000_Fox_News__Night_With_Shannon_Bream/FOXNEWSW_20181130_080000_Fox_News__Night_With_Shannon_Bream.thumbs/FOXNEWSW_20181130_080000_Fox_News__Night_With_Shannon_Bream_001827.jpg</field>
+<field name="snippet">when a new congress is sworn in. thank you very much. he has a lot on his mind from climate change to forest fires, new outrage for comments he made last night at the national tree lighting ceremony. the man who brought christmas</field>
+</doc>
+</add>

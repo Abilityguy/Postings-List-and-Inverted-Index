@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201807.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180717_050000_Breakfast#start/4345/end/4380</field>
+<field name="datetime">7/17/2018 6:12:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20180717_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180717_050000_Breakfast/BBCNEWS_20180717_050000_Breakfast.thumbs/BBCNEWS_20180717_050000_Breakfast_004317.jpg</field>
+<field name="snippet">morning, you mentioned this this morning, the seas around the uk could soon be home to large species of sharks, like hammerheads, usually found off the coast of spain and portugal. researchers from the national oceanography centre say that warm seas caused by climate</field>
+</doc>
+</add>

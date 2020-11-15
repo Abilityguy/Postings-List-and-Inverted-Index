@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190923_020000_BBC_News#start/1814/end/1849</field>
+<field name="datetime">9/23/2019 2:30:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190923_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190923_020000_BBC_News/BBCNEWS_20190923_020000_BBC_News.thumbs/BBCNEWS_20190923_020000_BBC_News_001798.jpg</field>
+<field name="snippet">told not to go to the airport. a new un report says the last five years are set to be the hottest on record and the impacts of global warming, such as extreme weather, are increasing. a report says levels of carbon dioxide are nearly 20% higher</field>
+</doc>
+</add>

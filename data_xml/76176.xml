@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190502_090000_Victoria_Derbyshire#start/218/end/253</field>
+<field name="datetime">5/2/2019 9:03:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20190502_090000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190502_090000_Victoria_Derbyshire/BBCNEWS_20190502_090000_Victoria_Derbyshire.thumbs/BBCNEWS_20190502_090000_Victoria_Derbyshire_000207.jpg</field>
+<field name="snippet">inquiry. a report commissioned by the government says the uk should become a world leader in tackling climate change by being carbon neutral by 2050. the committee on climate change says tougher targets could mean people taking fewer flights, eating less red meat,</field>
+</doc>
+</add>

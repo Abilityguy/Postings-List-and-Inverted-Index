@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201301.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130126_010000_The_Ed_Show#start/1336/end/1371</field>
+<field name="datetime">1/26/2013 1:22:31</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20130126_010000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130126_010000_The_Ed_Show/MSNBCW_20130126_010000_The_Ed_Show.thumbs/MSNBCW_20130126_010000_The_Ed_Show_001335.jpg</field>
+<field name="snippet">but at the end of the day, ed, this country faces enormous economic crises. we've got to deal with global warming. we've got to deal with education. we have to deal with deficit reduction. we are not going to be able to do what the american people want</field>
+</doc>
+</add>

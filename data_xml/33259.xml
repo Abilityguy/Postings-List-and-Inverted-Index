@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091209_040000_The_OReilly_Factor#start/1311/end/1346</field>
+<field name="datetime">12/9/2009 4:22:06</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20091209_040000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091209_040000_The_OReilly_Factor/FOXNEWS_20091209_040000_The_OReilly_Factor.thumbs/FOXNEWS_20091209_040000_The_OReilly_Factor_001080.jpg</field>
+<field name="snippet">we are going to name names moments away. bill: unresolved problem segment tonight, the big global warming conference in copenhagen, denmark is underway and it kicked off with some video. [screams]</field>
+</doc>
+</add>

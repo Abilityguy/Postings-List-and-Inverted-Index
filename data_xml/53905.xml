@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201807.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180704_020000_BBC_News#start/680/end/715</field>
+<field name="datetime">7/4/2018 2:11:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180704_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180704_020000_BBC_News/BBCNEWS_20180704_020000_BBC_News.thumbs/BBCNEWS_20180704_020000_BBC_News_000658.jpg</field>
+<field name="snippet">nada tawfik has this report from new york - one of the cities most vulnerable to climate change. the invading waters of jamaica bay have already altered life here in broad channel, and they may yet make this island unliveable before the end of the century.</field>
+</doc>
+</add>

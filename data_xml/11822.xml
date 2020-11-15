@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190819_100000_BBC_Newsroom_Live#start/6882/end/6917</field>
+<field name="datetime">8/19/2019 11:54:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190819_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190819_100000_BBC_Newsroom_Live/BBCNEWS_20190819_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190819_100000_BBC_Newsroom_Live_006868.jpg</field>
+<field name="snippet">the prime minister speaking in carmel. a ceremony has been held in iceland to unveil a plaque commemorating the disappearance of a 700-year-old glacier. it's the island's first to melt away due to climate change, as courtney bembridge reports. photographs taken from space showed</field>
+</doc>
+</add>

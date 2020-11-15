@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190418_090000_Victoria_Derbyshire#start/1819/end/1854</field>
+<field name="datetime">4/18/2019 9:30:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20190418_090000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190418_090000_Victoria_Derbyshire/BBCNEWS_20190418_090000_Victoria_Derbyshire.thumbs/BBCNEWS_20190418_090000_Victoria_Derbyshire_001798.jpg</field>
+<field name="snippet">we're looking at hundreds of millions of people who are going to come back into poverty because climate crisis. countries that will sink into the sea, billions of people living in countries right now that are at risk of extreme civil conflict in the next few decades</field>
+</doc>
+</add>

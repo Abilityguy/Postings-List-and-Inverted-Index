@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201008.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100809_080000_Meet_the_Press#start/686/end/721</field>
+<field name="datetime">8/9/2010 8:11:41</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBC_20100809_080000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBC_20100809_080000_Meet_the_Press/MSNBC_20100809_080000_Meet_the_Press.thumbs/MSNBC_20100809_080000_Meet_the_Press_000686.jpg</field>
+<field name="snippet">address to the nation this about climate change legislation. the tragedy unfolding on our coast is the most painful and powerful reminder yet that the time to embrace a clean energy</field>
+</doc>
+</add>

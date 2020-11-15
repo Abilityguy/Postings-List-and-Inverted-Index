@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091129_043000_FOX_News_Watch#start/1475/end/1510</field>
+<field name="datetime">11/29/2009 4:54:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Watch</field>
+<field name="showid">FOXNEWS_20091129_043000_FOX_News_Watch</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091129_043000_FOX_News_Watch/FOXNEWS_20091129_043000_FOX_News_Watch.thumbs/FOXNEWS_20091129_043000_FOX_News_Watch_001470.jpg</field>
+<field name="snippet">when we come back, secret e-mails with climate change, how is that story playing in the press. the global warming debate gets the big chill after secret details reveal a possible farce, but the press seems to be giving</field>
+</doc>
+</add>

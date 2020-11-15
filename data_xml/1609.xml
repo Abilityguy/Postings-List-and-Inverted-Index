@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200908.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20090809_130000_MSNBC_News_Live#start/694/end/729</field>
+<field name="datetime">8/9/2009 13:11:49</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20090809_130000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20090809_130000_MSNBC_News_Live/MSNBC_20090809_130000_MSNBC_News_Live.thumbs/MSNBC_20090809_130000_MSNBC_News_Live_000685.jpg</field>
+<field name="snippet">so intertwined. we'll be talking about drug trafficking and climate change. we have breaking news from tokyo, japan. a strong earthquake shook the capital and surrounding areas. the japanese meteorological</field>
+</doc>
+</add>

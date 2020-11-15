@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091019_100000_FOX_and_Friends#start/9459/end/9494</field>
+<field name="datetime">10/19/2009 12:37:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091019_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091019_100000_FOX_and_Friends/FOXNEWS_20091019_100000_FOX_and_Friends.thumbs/FOXNEWS_20091019_100000_FOX_and_Friends_009403.jpg</field>
+<field name="snippet">some way sites. brian: gordon brown says not reaching an agreement on climate change could be catastrophic. wealthier nations like the u.k.</field>
+</doc>
+</add>

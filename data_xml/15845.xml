@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201112.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111204_110000_FOX_and_Friends_Sunday#start/4094/end/4129</field>
+<field name="datetime">12/4/2011 12:08:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20111204_110000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111204_110000_FOX_and_Friends_Sunday/FOXNEWSW_20111204_110000_FOX_and_Friends_Sunday.thumbs/FOXNEWSW_20111204_110000_FOX_and_Friends_Sunday_004080.jpg</field>
+<field name="snippet">ad with pelosi. alisyn: in it he was shown sitting on a sofa with nancy pelosi talking about climate change. and they seemed to agree. what newt gingrich said the single dumbest thing i've done in the last two years. dave: why? what did you make of his answer? i'd like to ask you folks what you made of his answer?</field>
+</doc>
+</add>

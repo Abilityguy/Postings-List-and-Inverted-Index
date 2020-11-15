@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181108_210000_Outside_Source#start/905/end/940</field>
+<field name="datetime">11/8/2018 21:15:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20181108_210000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181108_210000_Outside_Source/BBCNEWS_20181108_210000_Outside_Source.thumbs/BBCNEWS_20181108_210000_Outside_Source_000897.jpg</field>
+<field name="snippet">apparently not climate change. this is outside source live from the bbc newsroom. our lead story. in the us, the democrats are warning of a constitutional crisis after president trump fired his attorney general last night.</field>
+</doc>
+</add>

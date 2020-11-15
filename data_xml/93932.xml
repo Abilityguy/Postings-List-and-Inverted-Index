@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190731_190000_BBC_News#start/787/end/822</field>
+<field name="datetime">7/31/2019 19:13:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190731_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190731_190000_BBC_News/BBCNEWS_20190731_190000_BBC_News.thumbs/BBCNEWS_20190731_190000_BBC_News_000778.jpg</field>
+<field name="snippet">the flash flooding comes less than a week after the uk's hottest day on record. while such weather events can't be attributed to climate change with any certainty the rising frequency of extreme weather can. data released today by the met office shows the uk's ten hottest years on record have all happened since 2002. scientists say it's the latest example of unmistakably</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190312_210000_The_Five#start/1990/end/2025</field>
+<field name="datetime">3/12/2019 21:33:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20190312_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190312_210000_The_Five/FOXNEWSW_20190312_210000_The_Five.thumbs/FOXNEWSW_20190312_210000_The_Five_001980.jpg</field>
+<field name="snippet">dana: everything's great. juan: this town is a boomtown. my point is the health of these kids, i think what de blasio is saying about climate change is ridiculous but i think when it comes to staying to kids, you are being pushed hamburgers on you, hot dogs. take a break from eating meat.</field>
+</doc>
+</add>

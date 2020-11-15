@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181124_060000_Breakfast#start/202/end/237</field>
+<field name="datetime">11/24/2018 6:03:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181124_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181124_060000_Breakfast/BBCNEWS_20181124_060000_Breakfast.thumbs/BBCNEWS_20181124_060000_Breakfast_000177.jpg</field>
+<field name="snippet">last night, mrs foster said her party would reconsider its agreement to prop up mrs may's government if the brexit deal was passed by parliament. climate change will cost the us hundreds of billions of dollars by the end of the century, according to a major government report. it says human health and agriculture</field>
+</doc>
+</add>

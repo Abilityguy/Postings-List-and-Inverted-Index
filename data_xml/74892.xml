@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200110_190000_BBC_News#start/2354/end/2389</field>
+<field name="datetime">1/10/2020 19:39:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200110_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200110_190000_BBC_News/BBCNEWS_20200110_190000_BBC_News.thumbs/BBCNEWS_20200110_190000_BBC_News_002338.jpg</field>
+<field name="snippet">authorities are stretched. so much so, they urged people to reschedule massive climate change demonstrations to a less risky fire day. to no avail. thousands of people turned out in cities across australia, calling on the government to do more.</field>
+</doc>
+</add>

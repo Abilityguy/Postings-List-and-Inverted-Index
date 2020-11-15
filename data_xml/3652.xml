@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170405_040000_BBC_News#start/302/end/337</field>
+<field name="datetime">4/5/2017 4:05:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170405_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170405_040000_BBC_News/BBCNEWS_20170405_040000_BBC_News.thumbs/BBCNEWS_20170405_040000_BBC_News_000297.jpg</field>
+<field name="snippet">investigators are continuing to piece together the identity of the attacker. the blast on monday between two stations killed 14 people and injured almost 50. investigators say it may have been a suicide bomb set off by a man born in kyrgyzstan. the president of colombia has blamed the mocoa landslide, which killed more that 250 people, on climate change.</field>
+</doc>
+</add>

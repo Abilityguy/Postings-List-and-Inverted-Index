@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091212_230000_Americas_News_HQ#start/2179/end/2214</field>
+<field name="datetime">12/12/2009 23:36:34</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWS_20091212_230000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091212_230000_Americas_News_HQ/FOXNEWS_20091212_230000_Americas_News_HQ.thumbs/FOXNEWS_20091212_230000_Americas_News_HQ_002160.jpg</field>
+<field name="snippet">hoping that the climate summit will result in some kind of an international deal. world leaders, including president obama, will meet in the danish capitol next week to negotiate on a final agreement. despite all the recent headlines about health care, afghanistan and climate change,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190115_050000_Tucker_Carlson_Tonight#start/3281/end/3316</field>
+<field name="datetime">1/15/2019 5:54:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190115_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190115_050000_Tucker_Carlson_Tonight/FOXNEWSW_20190115_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190115_050000_Tucker_Carlson_Tonight_003207.jpg</field>
+<field name="snippet">tucker: it's been close to two months now but the yellow jacket -- red yellow vest rather in france are going on. it began as a protest against the gas tax imposed to fight global warming but not have a new enemy, speed cameras. the french government recently</field>
+</doc>
+</add>

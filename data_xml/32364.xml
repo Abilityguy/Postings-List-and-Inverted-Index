@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201205.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120515_070000_Red_Eye#start/930/end/965</field>
+<field name="datetime">5/15/2012 7:15:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWSW_20120515_070000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120515_070000_Red_Eye/FOXNEWSW_20120515_070000_Red_Eye.thumbs/FOXNEWSW_20120515_070000_Red_Eye_000930.jpg</field>
+<field name="snippet">would be -- you know he watches this. really? what do you make of this? when he was 17 he was worrying about global warming.</field>
+</doc>
+</add>

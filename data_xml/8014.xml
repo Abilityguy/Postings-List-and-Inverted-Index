@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190919_000000_Tucker_Carlson_Tonight#start/1529/end/1564</field>
+<field name="datetime">9/19/2019 0:25:44</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190919_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190919_000000_Tucker_Carlson_Tonight/FOXNEWSW_20190919_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190919_000000_Tucker_Carlson_Tonight_001528.jpg</field>
+<field name="snippet">has become a civic religion. the network tweeted this, 'cook a steak once a week. where do you fall short in preventing climate change?</field>
+</doc>
+</add>

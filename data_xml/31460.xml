@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090710_100000_FOX_and_Friends#start/8768/end/8803</field>
+<field name="datetime">7/10/2009 12:26:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20090710_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090710_100000_FOX_and_Friends/FOXNEWS_20090710_100000_FOX_and_Friends.thumbs/FOXNEWS_20090710_100000_FOX_and_Friends_008756.jpg</field>
+<field name="snippet">we spoke about how we can forge a strong coordinated response to nuclear proliferation threats from iran and north korea. we also discussed challenges we face in managing our economies, steps we can take together combatting climate change and other important matters, and i</field>
+</doc>
+</add>

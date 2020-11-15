@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181214_090000_BBC_News_at_9#start/2192/end/2227</field>
+<field name="datetime">12/14/2018 9:36:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20181214_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181214_090000_BBC_News_at_9/BBCNEWS_20181214_090000_BBC_News_at_9.thumbs/BBCNEWS_20181214_090000_BBC_News_at_9_002187.jpg</field>
+<field name="snippet">food labels that spell out the impact on the environment of everything from meat to chocolate. they say it would help consumers make informed choices about how the food they eat can contribute to climate change. let's get more on that story now with our correspondent helen briggs. just give us a little bit more</field>
+</doc>
+</add>

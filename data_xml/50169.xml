@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181204_040000_Fox_News__Night_With_Shannon_Bream#start/2704/end/2739</field>
+<field name="datetime">12/4/2018 4:45:19</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News  Night With Shannon Bream</field>
+<field name="showid">FOXNEWSW_20181204_040000_Fox_News__Night_With_Shannon_Bream</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181204_040000_Fox_News__Night_With_Shannon_Bream/FOXNEWSW_20181204_040000_Fox_News__Night_With_Shannon_Bream.thumbs/FOXNEWSW_20181204_040000_Fox_News__Night_With_Shannon_Bream_002698.jpg</field>
+<field name="snippet">the problem here, shannon, is that these green tax policies, carbon tax ideas, are sold as a way to help the entire world, the globe, become a better environment for all of us, when the truth is, it hurts the poor</field>
+</doc>
+</add>

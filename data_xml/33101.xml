@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091209_230000_Special_Report_With_Bret_Baier#start/3548/end/3583</field>
+<field name="datetime">12/9/2009 23:59:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091209_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091209_230000_Special_Report_With_Bret_Baier/FOXNEWS_20091209_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091209_230000_Special_Report_With_Bret_Baier_003502.jpg</field>
+<field name="snippet">u.n. climate change conference continues in copenhagen one u.s. state is taking measures here. arnold schwarzenegger talked many times about his concern of climate change and now apparently has launched a new website to track its effects.</field>
+</doc>
+</add>

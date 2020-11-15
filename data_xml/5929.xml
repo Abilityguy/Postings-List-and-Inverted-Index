@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190910_170000_BBC_News_at_Six#start/1546/end/1581</field>
+<field name="datetime">9/10/2019 17:26:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20190910_170000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190910_170000_BBC_News_at_Six/BBCNEWS_20190910_170000_BBC_News_at_Six.thumbs/BBCNEWS_20190910_170000_BBC_News_at_Six_001528.jpg</field>
+<field name="snippet">but astonishingly, it's about 20 times as much carbon as in all of the uk forests is held in peatlands, so that's just how important it is. unfortunately, about 80% of the uk's peatlands are not in a healthy state, and that means they are net contributors to climate</field>
+</doc>
+</add>

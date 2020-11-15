@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100106_110000_FOX_and_Friends#start/5793/end/5828</field>
+<field name="datetime">1/6/2010 12:36:48</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100106_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100106_110000_FOX_and_Friends/FOXNEWS_20100106_110000_FOX_and_Friends.thumbs/FOXNEWS_20100106_110000_FOX_and_Friends_005780.jpg</field>
+<field name="snippet">where glaciers have formerly extended far into the sea they have entirely disappeared.' keep in mind when you hear a lot of people say we have this global warming problem, the polar ice caps are disappearing, back in 1922 they said the same thick. but then the polar ice cap came</field>
+</doc>
+</add>

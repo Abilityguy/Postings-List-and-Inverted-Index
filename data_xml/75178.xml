@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_110000_BBC_Newsroom_Live#start/402/end/437</field>
+<field name="datetime">1/16/2020 11:06:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20200116_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_110000_BBC_Newsroom_Live/BBCNEWS_20200116_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20200116_110000_BBC_Newsroom_Live_000388.jpg</field>
+<field name="snippet">david attenborough there. the bbc news channel will be in glasgow tomorrow, focussing on climate change. we want to put your questions on this complex issue to our experts. you can do so on twitter using the hashtag #bbcyourquestions and you can email us on yourquestions@bbc.co.uk.</field>
+</doc>
+</add>

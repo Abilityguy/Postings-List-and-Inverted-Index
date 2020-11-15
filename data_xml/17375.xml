@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201810.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181017_100000_Morning_Joe#start/5710/end/5745</field>
+<field name="datetime">10/17/2018 11:35:25</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20181017_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181017_100000_Morning_Joe/MSNBCW_20181017_100000_Morning_Joe.thumbs/MSNBCW_20181017_100000_Morning_Joe_005578.jpg</field>
+<field name="snippet">to help guide you through the confusion, well that wasn't so bad at all. that's how we like it. unitedhealthcare. do you still think that climate change is a hoax? look, i think something is</field>
+</doc>
+</add>

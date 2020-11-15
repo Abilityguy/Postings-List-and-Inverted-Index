@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191124_060000_Breakfast#start/7872/end/7907</field>
+<field name="datetime">11/24/2019 8:11:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191124_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191124_060000_Breakfast/BBCNEWS_20191124_060000_Breakfast.thumbs/BBCNEWS_20191124_060000_Breakfast_007858.jpg</field>
+<field name="snippet">the snp have announced they will push the next uk government to lift financial restrictions on the scottish government's borrowing powers. the party claim it will unlock nearly 3 billion pounds over the course of the next parliament, which they plan to use to boost the economy and tackle climate change. let's speak to the snp's david</field>
+</doc>
+</add>

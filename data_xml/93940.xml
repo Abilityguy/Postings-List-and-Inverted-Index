@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190712_040000_The_Briefing#start/447/end/482</field>
+<field name="datetime">7/12/2019 4:07:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20190712_040000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190712_040000_The_Briefing/BBCNEWS_20190712_040000_The_Briefing.thumbs/BBCNEWS_20190712_040000_The_Briefing_000447.jpg</field>
+<field name="snippet">heatwaves in the indian ocean have killed more than two thirds of corals in the chagos islands injust two years. researchers from the zoological society of london also found that some corals were more resilient to rising temperatures. however, with climate change making oceans more acidic, which is also harmful to corals, there are concerns about a broader collapse of sealife ecosystems.</field>
+</doc>
+</add>

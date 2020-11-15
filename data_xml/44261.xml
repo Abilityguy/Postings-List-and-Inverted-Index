@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201704.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170429_200000_MSNBC_Live#start/1879/end/1914</field>
+<field name="datetime">4/29/2017 20:31:34</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170429_200000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170429_200000_MSNBC_Live/MSNBCW_20170429_200000_MSNBC_Live.thumbs/MSNBCW_20170429_200000_MSNBC_Live_001828.jpg</field>
+<field name="snippet">we'll take a look at how the city changed since those deadly riots. and across the coast, we're monitoring thousands as they march for climate change from washington, d.c. to denver and more. break through your allergies.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_140000_Americas_Newsroom#start/4160/end/4195</field>
+<field name="datetime">12/18/2009 15:09:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20091218_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_140000_Americas_Newsroom/FOXNEWS_20091218_140000_Americas_Newsroom.thumbs/FOXNEWS_20091218_140000_Americas_Newsroom_004140.jpg</field>
+<field name="snippet">hours ago in the white house described as a step forward and constructive, there appears to be no breakthrough on this fundamental evans of opinion about how to proceed on climate change talks. bill: about this last big minute</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091209_160000_MSNBC_News_Live#start/2776/end/2811</field>
+<field name="datetime">12/9/2009 16:46:31</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091209_160000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091209_160000_MSNBC_News_Live/MSNBC_20091209_160000_MSNBC_News_Live.thumbs/MSNBC_20091209_160000_MSNBC_News_Live_002753.jpg</field>
+<field name="snippet">for the victims of those attacks. greenpeace activists used the roman coliseum as a backdrop to call for a global agreement on greenhouse gas emissions. demonstrators climbed the side of that historic coliseum and unfurled a banner calling on</field>
+</doc>
+</add>

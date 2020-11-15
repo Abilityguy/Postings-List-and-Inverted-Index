@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170524_170000_BBC_News_at_Six#start/1672/end/1707</field>
+<field name="datetime">5/24/2017 17:28:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20170524_170000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170524_170000_BBC_News_at_Six/BBCNEWS_20170524_170000_BBC_News_at_Six.thumbs/BBCNEWS_20170524_170000_BBC_News_at_Six_001647.jpg</field>
+<field name="snippet">for the first time at the vatican. donald trump described their talks as inspirational and said meeting the pope had been the honour of a lifetime. the two men have clashed in the past over issues such as climate change, migration and building a wall on the us-mexico border. from the vatican, here's our north america</field>
+</doc>
+</add>

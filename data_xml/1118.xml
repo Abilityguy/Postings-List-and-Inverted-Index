@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170527_153000_Great_Explorations#start/330/end/365</field>
+<field name="datetime">5/27/2017 15:35:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Great Explorations</field>
+<field name="showid">BBCNEWS_20170527_153000_Great_Explorations</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170527_153000_Great_Explorations/BBCNEWS_20170527_153000_Great_Explorations.thumbs/BBCNEWS_20170527_153000_Great_Explorations_000328.jpg</field>
+<field name="snippet">the footage is also helping scientists today learn more about the impact of climate change. will you give me a hand with this strap? certainly! it was shot by major latham valentine stewart blacker, a former fighter pilot and war hero.</field>
+</doc>
+</add>

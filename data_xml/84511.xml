@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190419_050000_Breakfast#start/1576/end/1611</field>
+<field name="datetime">4/19/2019 5:26:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190419_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190419_050000_Breakfast/BBCNEWS_20190419_050000_Breakfast.thumbs/BBCNEWS_20190419_050000_Breakfast_003568.jpg</field>
+<field name="snippet">good morning from bbc london news, i'm geeta pendse. the met police have described the disruption caused by climate change activists as 'beyond unacceptable'. more than 500 people have been arrested during the extinction rebellion demonstrations this week, at locations including oxford circus and waterloo bridge. a thousand officers have been</field>
+</doc>
+</add>

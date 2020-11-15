@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190628_230000_BBC_News#start/312/end/347</field>
+<field name="datetime">6/28/2019 23:05:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190628_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190628_230000_BBC_News/BBCNEWS_20190628_230000_BBC_News.thumbs/BBCNEWS_20190628_230000_BBC_News_000298.jpg</field>
+<field name="snippet">this has been overshadowing the summit since it began yesterday. all the talk here in osaka has not been of climate change or plastic in the ocea ns oceans of any of the other things on the agenda, it has all been about what is going to happen in today's</field>
+</doc>
+</add>

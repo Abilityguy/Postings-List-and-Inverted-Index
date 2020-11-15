@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201406.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140625_220000_Special_Report_With_Bret_Baier#start/1938/end/1973</field>
+<field name="datetime">6/25/2014 22:32:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20140625_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140625_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20140625_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20140625_220000_Special_Report_With_Bret_Baier_001935.jpg</field>
+<field name="snippet">global warming. styer was in washington today for meetings at the white house and to promote his risk business project. we need to reward people whose behavior reduce this climate risk and penalize people who add to it.</field>
+</doc>
+</add>

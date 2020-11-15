@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201108.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20110818_230000_The_FOX_Report_With_Shepard_Smith#start/3037/end/3072</field>
+<field name="datetime">8/18/2011 23:50:52</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The FOX Report With Shepard Smith</field>
+<field name="showid">FOXNEWSW_20110818_230000_The_FOX_Report_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20110818_230000_The_FOX_Report_With_Shepard_Smith/FOXNEWSW_20110818_230000_The_FOX_Report_With_Shepard_Smith.thumbs/FOXNEWSW_20110818_230000_The_FOX_Report_With_Shepard_Smith_003026.jpg</field>
+<field name="snippet">shepard: ask him why he doesn't believe in science, she said. later in the day his fellow candidate jon huntsman took a shot at governor perry with this tweet. to be clear, huntsman said, i believe in evolution and trust scientists on global warming. call me crazy.</field>
+</doc>
+</add>

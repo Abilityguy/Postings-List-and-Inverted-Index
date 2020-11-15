@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201301.csv</field>
+<field name="url">https://archive.org/details/CNNW_20130123_020000_Piers_Morgan_Tonight#start/3375/end/3410</field>
+<field name="datetime">1/23/2013 2:56:30</field>
+<field name="station">CNN</field>
+<field name="show">Piers Morgan Tonight</field>
+<field name="showid">CNNW_20130123_020000_Piers_Morgan_Tonight</field>
+<field name="preview">https://archive.org/download/CNNW_20130123_020000_Piers_Morgan_Tonight/CNNW_20130123_020000_Piers_Morgan_Tonight.thumbs/CNNW_20130123_020000_Piers_Morgan_Tonight_003375.jpg</field>
+<field name="snippet">what is your view, global warming? i have no idea. good for you. i like that answer. that is a refreshing answer. i look at it honestly and say from 1880 to 2013, that might not be a big enough sample, you</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200911.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091124_210000_MSNBC_News_Live#start/2296/end/2331</field>
+<field name="datetime">11/24/2009 21:38:31</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091124_210000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091124_210000_MSNBC_News_Live/MSNBC_20091124_210000_MSNBC_News_Live.thumbs/MSNBC_20091124_210000_MSNBC_News_Live_002280.jpg</field>
+<field name="snippet">the president's going to proceed on greenhouse gases. the president's been criticized for not doing enough on climate change. there can't be a solution without india and china. andrea, there have been so many state dinners where india has essentially been the recipient of these.</field>
+</doc>
+</add>

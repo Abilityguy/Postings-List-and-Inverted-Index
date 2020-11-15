@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191202_140000_Afternoon_Live#start/509/end/544</field>
+<field name="datetime">12/2/2019 14:08:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20191202_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191202_140000_Afternoon_Live/BBCNEWS_20191202_140000_Afternoon_Live.thumbs/BBCNEWS_20191202_140000_Afternoon_Live_000507.jpg</field>
+<field name="snippet">the level of greenhouse gases in the atmosphere had reached the highest level on record. our global science correspondent rebecca morelle reports. there are warnings that the world could be at the point of no return. in africa, millions are facing</field>
+</doc>
+</add>

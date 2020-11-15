@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190731_160000_BBC_News_at_Five#start/2239/end/2274</field>
+<field name="datetime">7/31/2019 16:37:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190731_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190731_160000_BBC_News_at_Five/BBCNEWS_20190731_160000_BBC_News_at_Five.thumbs/BBCNEWS_20190731_160000_BBC_News_at_Five_002217.jpg</field>
+<field name="snippet">it comes as new research shows how climate change is actually warming the uk. scientists at the met office say all 10 of the warmest years on record have occurred since 2002. more details from our environment correspondent matt mcgrath. the state of the uk climate report has been released just days after a new high temperature record was set in the uk.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201401.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140103_040000_All_In_With_Chris_Hayes#start/67/end/102</field>
+<field name="datetime">1/3/2014 4:01:22</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20140103_040000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140103_040000_All_In_With_Chris_Hayes/MSNBCW_20140103_040000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20140103_040000_All_In_With_Chris_Hayes_000046.jpg</field>
+<field name="snippet">great opportunity to point and laugh about the hoax called global warming. because, you know, ice. the ship sent to the antarctic to study climate change that be stranded in the</field>
+</doc>
+</add>

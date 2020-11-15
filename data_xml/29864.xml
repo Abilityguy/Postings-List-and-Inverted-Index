@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191109_170000_Weekends_With_Alex_Witt#start/5621/end/5656</field>
+<field name="datetime">11/9/2019 18:33:56</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20191109_170000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191109_170000_Weekends_With_Alex_Witt/MSNBCW_20191109_170000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20191109_170000_Weekends_With_Alex_Witt_005607.jpg</field>
+<field name="snippet">at what you're seeing now. this is a climate crisis summit on the campus of drake university in des moines, iowa. you see it's nearly 1500 -- well over 1500 people here. we know that's how many seats were available for people here.</field>
+</doc>
+</add>

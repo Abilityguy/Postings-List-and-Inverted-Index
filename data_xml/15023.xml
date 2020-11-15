@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201312.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20131221_230000_Americas_News_Headquarters#start/1387/end/1422</field>
+<field name="datetime">12/21/2013 23:23:22</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20131221_230000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20131221_230000_Americas_News_Headquarters/FOXNEWSW_20131221_230000_Americas_News_Headquarters.thumbs/FOXNEWSW_20131221_230000_Americas_News_Headquarters_001365.jpg</field>
+<field name="snippet">the president has all his executive authority that he could use on issues like climate change and health care to reach outcomes that have a fairly broad popular support. so he has a lot of arrows in his quiver that frankly even if congress remains somewhat</field>
+</doc>
+</add>

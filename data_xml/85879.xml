@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201709.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170917_200000_World_News_Today#start/555/end/590</field>
+<field name="datetime">9/17/2017 20:09:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20170917_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170917_200000_World_News_Today/BBCNEWS_20170917_200000_World_News_Today.thumbs/BBCNEWS_20170917_200000_World_News_Today_000537.jpg</field>
+<field name="snippet">of state, rex tillerson, has said president trump is open to keeping the country in the paris accord on climate change. in a television interview, mr tillerson said the president would work with partners if it could construct fair and balanced terms for americans.</field>
+</doc>
+</add>

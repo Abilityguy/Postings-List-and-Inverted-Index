@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091023_080000_Special_Report_With_Bret_Baier#start/1836/end/1871</field>
+<field name="datetime">10/23/2009 8:30:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091023_080000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091023_080000_Special_Report_With_Bret_Baier/FOXNEWS_20091023_080000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091023_080000_Special_Report_With_Bret_Baier_001824.jpg</field>
+<field name="snippet">similar drop in those who say global warming is man made. just 36% believe that, down from 47%. one expert at the left-leaning center for america progress tells 'the wall street journal' the findings were caused by, quote, right wing media personalities distorting</field>
+</doc>
+</add>

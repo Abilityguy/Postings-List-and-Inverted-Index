@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_040000_The_Briefing#start/108/end/143</field>
+<field name="datetime">8/8/2019 4:02:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20190808_040000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_040000_The_Briefing/BBCNEWS_20190808_040000_The_Briefing.thumbs/BBCNEWS_20190808_040000_The_Briefing_000087.jpg</field>
+<field name="snippet">let's begin with that question. how much are you prepared to do to help combat climate change? un scientists are set to urge people to help by cutting down on meat and switching to plant-based diets. but the experts, due to release their findings in a few hours, will stop short of calling on people to adopt vegetarian</field>
+</doc>
+</add>

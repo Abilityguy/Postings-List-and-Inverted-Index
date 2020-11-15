@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190823_210000_BBC_News_at_Ten#start/469/end/504</field>
+<field name="datetime">8/23/2019 21:08:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20190823_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190823_210000_BBC_News_at_Ten/BBCNEWS_20190823_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20190823_210000_BBC_News_at_Ten_000448.jpg</field>
+<field name="snippet">france is threatening to block a major eu trade deal, negotiated with a group of south american countries including brazil, if president bolsonaro does not change his stance on climate change, but that when hit trade between both continents. and germany,</field>
+</doc>
+</add>

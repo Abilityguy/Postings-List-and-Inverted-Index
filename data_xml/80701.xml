@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190430_210000_The_Five#start/1214/end/1249</field>
+<field name="datetime">4/30/2019 21:20:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20190430_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190430_210000_The_Five/FOXNEWSW_20190430_210000_The_Five.thumbs/FOXNEWSW_20190430_210000_The_Five_001198.jpg</field>
+<field name="snippet">do you like medicare for all if that means it's going to cost x no, i don't like that. in this poll, i would've liked for the democrats to be asked if climate change is your number one issue, if i asked you were going to solve that by utilizing nuclear power, do you support</field>
+</doc>
+</add>

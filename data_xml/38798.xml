@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201010.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101005_220000_Special_Report_With_Bret_Baier#start/3114/end/3149</field>
+<field name="datetime">10/5/2010 22:52:09</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20101005_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101005_220000_Special_Report_With_Bret_Baier/FOXNEWS_20101005_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20101005_220000_Special_Report_With_Bret_Baier_003090.jpg</field>
+<field name="snippet">about climate change legislation, in the recent rolling stone interview president obama said this -- 'one of my top priorities next year is to have an energy policy that begins to address all facets of our overreliance on fossil fuels. we may have to do it in chunks</field>
+</doc>
+</add>

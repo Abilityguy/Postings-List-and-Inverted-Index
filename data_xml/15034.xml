@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201306.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130622_100000_FOX_and_Friends_Saturday#start/5069/end/5104</field>
+<field name="datetime">6/22/2013 11:24:44</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20130622_100000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130622_100000_FOX_and_Friends_Saturday/FOXNEWSW_20130622_100000_FOX_and_Friends_Saturday.thumbs/FOXNEWSW_20130622_100000_FOX_and_Friends_Saturday_005055.jpg</field>
+<field name="snippet">some delays are still expected. next 48 trillion-dollar, that's how much the government is spending on energy tax subsidies. some find these policies are doing very little to stop greenhouse gases.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201102.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110203_210000_Your_World_With_Neil_Cavuto#start/3229/end/3264</field>
+<field name="datetime">2/3/2011 21:54:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWS_20110203_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110203_210000_Your_World_With_Neil_Cavuto/FOXNEWS_20110203_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWS_20110203_210000_Your_World_With_Neil_Cavuto_003203.jpg</field>
+<field name="snippet">first it was health care and the administration getting nearly 800 unions and companies waivers from the law and now it is global warming and the epa exempting a huge power plant project from new rules and this is fishy.</field>
+</doc>
+</add>

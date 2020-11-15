@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20200111_110000_FOX_and_Friends_Saturday#start/13215/end/13250</field>
+<field name="datetime">1/11/2020 14:40:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20200111_110000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20200111_110000_FOX_and_Friends_Saturday/FOXNEWSW_20200111_110000_FOX_and_Friends_Saturday.thumbs/FOXNEWSW_20200111_110000_FOX_and_Friends_Saturday_013199.jpg</field>
+<field name="snippet">immigrants, 65 and older. it would cost taxpayers an estimated $350 million each year dean: yes, you're welcome. lisa: and actors joaquin phoenix and martin sheen arrested at jane fonda's climate</field>
+</doc>
+</add>

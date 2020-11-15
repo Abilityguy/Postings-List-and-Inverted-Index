@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091216_160000_Happening_Now#start/5769/end/5804</field>
+<field name="datetime">12/16/2009 17:36:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091216_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091216_160000_Happening_Now/FOXNEWS_20091216_160000_Happening_Now.thumbs/FOXNEWS_20091216_160000_Happening_Now_005750.jpg</field>
+<field name="snippet">inside that building nations are deadlocked on talks about curbing global warming. the chair of the summit is stepping down, we learned this morning. william la jeunesse is here to sort it out. he is in copenhagen.</field>
+</doc>
+</add>

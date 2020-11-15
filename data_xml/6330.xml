@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_200000_World_News_Today#start/528/end/563</field>
+<field name="datetime">9/20/2019 20:09:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190920_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_200000_World_News_Today/BBCNEWS_20190920_200000_World_News_Today.thumbs/BBCNEWS_20190920_200000_World_News_Today_000508.jpg</field>
+<field name="snippet">coming here to new york, and people will be asking them for concrete plans and not platitudes, but real action that can be taken to try and stem the curb, curb the flow of climate change. ok, samira hussain</field>
+</doc>
+</add>

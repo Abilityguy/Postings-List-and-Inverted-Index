@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201010.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101002_070000_Red_Eye#start/141/end/176</field>
+<field name="datetime">10/2/2010 7:02:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20101002_070000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101002_070000_Red_Eye/FOXNEWS_20101002_070000_Red_Eye.thumbs/FOXNEWS_20101002_070000_Red_Eye_000116.jpg</field>
+<field name="snippet">the picture show that had to go. it is a four-minute flick called 'no pressure' created by a british it echo freak called 10-10 who wants everyone to cut their greenhouse gas emission biz 10% in a year.</field>
+</doc>
+</add>

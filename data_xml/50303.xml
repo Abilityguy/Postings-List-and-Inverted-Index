@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181204_050000_Tucker_Carlson_Tonight#start/3231/end/3266</field>
+<field name="datetime">12/4/2018 5:54:06</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20181204_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181204_050000_Tucker_Carlson_Tonight/FOXNEWSW_20181204_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20181204_050000_Tucker_Carlson_Tonight_003208.jpg</field>
+<field name="snippet">touted by 'the new york times' and cnn said that our economy would be 10% smaller by the year 2100 and thousands of people would die because of climate change. what was not reported as the people behind the study were</field>
+</doc>
+</add>

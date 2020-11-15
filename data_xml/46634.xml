@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201302.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130213_010000_State_of_the_Union_2013#start/5861/end/5896</field>
+<field name="datetime">2/13/2013 2:37:56</field>
+<field name="station">MSNBC</field>
+<field name="show">State of the Union 2013</field>
+<field name="showid">MSNBCW_20130213_010000_State_of_the_Union_2013</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130213_010000_State_of_the_Union_2013/MSNBCW_20130213_010000_State_of_the_Union_2013.thumbs/MSNBCW_20130213_010000_State_of_the_Union_2013_005835.jpg</field>
+<field name="snippet">pollution, prepare our communities for the consequences of climate change, and speed the transition to more sustainable sources of energy. four years ago, other countries dominated the clean energy market and the jobs that came with it. and we've begun to change that.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181124_110000_BBC_News#start/763/end/798</field>
+<field name="datetime">11/24/2018 11:12:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181124_110000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181124_110000_BBC_News/BBCNEWS_20181124_110000_BBC_News.thumbs/BBCNEWS_20181124_110000_BBC_News_000747.jpg</field>
+<field name="snippet">the white house has dismissed a hard hitting official report on climate change which warns of its impact on the us economy and society. the report was written with the help of more than a dozen us government agencies and says the size of the american economy will shrink by 10% by the end of this century if no action is taken.</field>
+</doc>
+</add>

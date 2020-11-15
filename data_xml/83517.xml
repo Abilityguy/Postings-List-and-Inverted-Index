@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190418_040000_The_Briefing#start/934/end/969</field>
+<field name="datetime">4/18/2019 4:15:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20190418_040000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190418_040000_The_Briefing/BBCNEWS_20190418_040000_The_Briefing.thumbs/BBCNEWS_20190418_040000_The_Briefing_000929.jpg</field>
+<field name="snippet">at least 29 people have been killed in a coach crash on the portuguese island of madeira, many of the victims are thought to be german tourists. sir david attenborough's latest project is a hard-hitting film on the science of climate change</field>
+</doc>
+</add>

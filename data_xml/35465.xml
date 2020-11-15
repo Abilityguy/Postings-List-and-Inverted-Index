@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201904.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190422_190000_MSNBC_Live_With_Ali_Velshi#start/1922/end/1957</field>
+<field name="datetime">4/22/2019 19:32:17</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190422_190000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190422_190000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190422_190000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190422_190000_MSNBC_Live_With_Ali_Velshi_001919.jpg</field>
+<field name="snippet">the green new deal. how does what you are proposing compare to the green new deal? the aspirations are largely the same. look, we know this. we are the first generation to feel the sting of climate</field>
+</doc>
+</add>

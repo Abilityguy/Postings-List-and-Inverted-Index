@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201507.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150727_170000_Happening_Now#start/545/end/580</field>
+<field name="datetime">7/27/2015 17:09:20</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20150727_170000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150727_170000_Happening_Now/FOXNEWSW_20150727_170000_Happening_Now.thumbs/FOXNEWSW_20150727_170000_Happening_Now_000525.jpg</field>
+<field name="snippet">issue of the environment. she said climate change is real and dramatic action should be taken. she wants solar panels installed and more spending to boost other forms of renewable energy.</field>
+</doc>
+</add>

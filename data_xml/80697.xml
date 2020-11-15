@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190423_210000_The_Five#start/2284/end/2319</field>
+<field name="datetime">4/23/2019 21:38:19</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20190423_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190423_210000_The_Five/FOXNEWSW_20190423_210000_The_Five.thumbs/FOXNEWSW_20190423_210000_The_Five_002279.jpg</field>
+<field name="snippet">dana: the green new deal coming to a city near you. take for example here in new york city, mayor bill de blasio unveiling a new proposal that would ban iconic skyscrapers to help fight climate change. we are actually making the green new deal, live here in new york city because we're</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170422_100000_Fox_and_Friends_Saturday#start/10874/end/10909</field>
+<field name="datetime">4/22/2017 13:01:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20170422_100000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170422_100000_Fox_and_Friends_Saturday/FOXNEWSW_20170422_100000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20170422_100000_Fox_and_Friends_Saturday_010857.jpg</field>
+<field name="snippet">those are penguins. we have a iguana here. the consequences of global warming. we will bring them onset.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100213_170000_Americas_News_HQ#start/2975/end/3010</field>
+<field name="datetime">2/13/2010 17:49:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWS_20100213_170000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100213_170000_Americas_News_HQ/FOXNEWS_20100213_170000_Americas_News_HQ.thumbs/FOXNEWS_20100213_170000_Americas_News_HQ_002963.jpg</field>
+<field name="snippet">civilian trial. senator graham will be on fox news tomorrow. check your local listings. the string of winter storms have brought up the global warming despite and they've seized on this topic and making light of it. they're citing the record snow</field>
+</doc>
+</add>

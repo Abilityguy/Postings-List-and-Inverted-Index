@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201302.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130218_210000_Your_World_With_Neil_Cavuto#start/653/end/688</field>
+<field name="datetime">2/18/2013 21:11:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20130218_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130218_210000_Your_World_With_Neil_Cavuto/FOXNEWSW_20130218_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20130218_210000_Your_World_With_Neil_Cavuto_000645.jpg</field>
+<field name="snippet">reporter: this was a very typical sentiment at this rally. there's anger, and it's not just -- these are not just a few disgruntled protesters. the lead nasa global warming scientist has announced it's game over for the climate if we</field>
+</doc>
+</add>

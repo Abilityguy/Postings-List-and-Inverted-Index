@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_180000_BBC_News_at_Six#start/793/end/828</field>
+<field name="datetime">1/17/2020 18:13:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20200117_180000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_180000_BBC_News_at_Six/BBCNEWS_20200117_180000_BBC_News_at_Six.thumbs/BBCNEWS_20200117_180000_BBC_News_at_Six_000778.jpg</field>
+<field name="snippet">the family. helena, thank you. a number of british cities are aiming to go completely carbon neutral by 2030, removing as much carbon dioxide from the atmosphere as they put in to it in a bid to tackle climate change.</field>
+</doc>
+</add>

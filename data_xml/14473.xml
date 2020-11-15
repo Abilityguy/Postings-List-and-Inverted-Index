@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201812.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181231_090000_Kasie_DC#start/3618/end/3653</field>
+<field name="datetime">12/31/2018 10:00:33</field>
+<field name="station">MSNBC</field>
+<field name="show">Kasie DC</field>
+<field name="showid">MSNBCW_20181231_090000_Kasie_DC</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181231_090000_Kasie_DC/MSNBCW_20181231_090000_Kasie_DC.thumbs/MSNBCW_20181231_090000_Kasie_DC_003597.jpg</field>
+<field name="snippet">this sunday, the climate crisis. brace yourselves for dangerous heat and the drought we're in is disastrous. everyone ought to be worried about it. rainfall amounts are staggering. everything we own was destroyed. this is the eyewall hitting right now. the strongest winds.</field>
+</doc>
+</add>

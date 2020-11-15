@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181213_080000_Fox_News__Night_With_Shannon_Bream#start/1480/end/1515</field>
+<field name="datetime">12/13/2018 8:24:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News  Night With Shannon Bream</field>
+<field name="showid">FOXNEWSW_20181213_080000_Fox_News__Night_With_Shannon_Bream</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181213_080000_Fox_News__Night_With_Shannon_Bream/FOXNEWSW_20181213_080000_Fox_News__Night_With_Shannon_Bream.thumbs/FOXNEWSW_20181213_080000_Fox_News__Night_With_Shannon_Bream_001467.jpg</field>
+<field name="snippet">about hot topics, democrats are concerned about climate change and gun laws, republicans are concerned about illegal immigration and the caravan. both parties are very concerned about health care and political divisions. 46% of voters approve of the job donald trump is doing, 52% disapprove.</field>
+</doc>
+</add>

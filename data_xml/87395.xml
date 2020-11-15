@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191215_203000_The_Travel_Show#start/1814/end/1849</field>
+<field name="datetime">12/15/2019 21:00:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Travel Show</field>
+<field name="showid">BBCNEWS_20191215_203000_The_Travel_Show</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191215_203000_The_Travel_Show/BBCNEWS_20191215_203000_The_Travel_Show.thumbs/BBCNEWS_20191215_203000_The_Travel_Show_001739.jpg</field>
+<field name="snippet">this is bbc world news today. i'm krupa padhy. our top stories: final details of the next steps in tackling the climate crisis are hammered out by negotiators in madrid, but the disagreement continues. it is very important for most of the parties of the convention, the importance of including 'ocean'.</field>
+</doc>
+</add>

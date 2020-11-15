@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191009_090000_Victoria_Derbyshire#start/3140/end/3175</field>
+<field name="datetime">10/9/2019 9:52:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20191009_090000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191009_090000_Victoria_Derbyshire/BBCNEWS_20191009_090000_Victoria_Derbyshire.thumbs/BBCNEWS_20191009_090000_Victoria_Derbyshire_003117.jpg</field>
+<field name="snippet">dozens of mums are breast and bottle feeding their babies on the streets of westminster this morning. it's part of two weeks of protests by campaign group extinction rebellion who are demanding urgent action on climate change.</field>
+</doc>
+</add>

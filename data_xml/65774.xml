@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190217_110000_Fox_and_Friends_Sunday#start/8667/end/8702</field>
+<field name="datetime">2/17/2019 13:24:42</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20190217_110000_Fox_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190217_110000_Fox_and_Friends_Sunday/FOXNEWSW_20190217_110000_Fox_and_Friends_Sunday.thumbs/FOXNEWSW_20190217_110000_Fox_and_Friends_Sunday_008669.jpg</field>
+<field name="snippet">they're demanding the government take action on climate change and lower the voting age to 16. pete?</field>
+</doc>
+</add>

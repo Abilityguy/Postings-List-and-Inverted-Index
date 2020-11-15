@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200910.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091020_010000_The_Rachel_Maddow_Show#start/2316/end/2351</field>
+<field name="datetime">10/20/2009 1:38:51</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBC_20091020_010000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20091020_010000_The_Rachel_Maddow_Show/MSNBC_20091020_010000_The_Rachel_Maddow_Show.thumbs/MSNBC_20091020_010000_The_Rachel_Maddow_Show_002310.jpg</field>
+<field name="snippet">positions on climate change legislation. amazingly the release said that the chamber would now support this legislation that it spent months fighting against. reporters were surprised and probably confused at this odd turn of events, but that was nothing compared to what actually happened at the press</field>
+</doc>
+</add>

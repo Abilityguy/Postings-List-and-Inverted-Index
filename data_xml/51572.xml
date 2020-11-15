@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181211_030000_BBC_News#start/1366/end/1401</field>
+<field name="datetime">12/11/2018 3:23:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181211_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181211_030000_BBC_News/BBCNEWS_20181211_030000_BBC_News.thumbs/BBCNEWS_20181211_030000_BBC_News_001348.jpg</field>
+<field name="snippet">becoming more common in australia and more than 60% of the individual reefs have been severely bleached in the last 20 years. while scientists continue to research the curative effect of climate change on coral</field>
+</doc>
+</add>

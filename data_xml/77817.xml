@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191119_110000_BBC_Newsroom_Live#start/884/end/919</field>
+<field name="datetime">11/19/2019 11:14:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20191119_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191119_110000_BBC_Newsroom_Live/BBCNEWS_20191119_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20191119_110000_BBC_Newsroom_Live_000867.jpg</field>
+<field name="snippet">surprisingly, at the front of it is a commitment to hugely improve our response to climate change said they are suggesting by 2030, we would be carbon neutral. that would be achieved by a huge spending splurge</field>
+</doc>
+</add>

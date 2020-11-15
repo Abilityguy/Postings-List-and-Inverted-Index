@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091207_160000_MSNBC_News_Live#start/1631/end/1666</field>
+<field name="datetime">12/7/2009 16:27:26</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091207_160000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091207_160000_MSNBC_News_Live/MSNBC_20091207_160000_MSNBC_News_Live.thumbs/MSNBC_20091207_160000_MSNBC_News_Live_001620.jpg</field>
+<field name="snippet">the story doesn't seem to be going anywhere anytime soon, peter. coming up, a scandal over hacked e-mails mars what's being billed the most important climate change conference in history. why the infamous white house party crashers aren't the only</field>
+</doc>
+</add>

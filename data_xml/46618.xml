@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201302.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130211_140000_The_Daily_Rundown#start/168/end/203</field>
+<field name="datetime">2/11/2013 14:03:03</field>
+<field name="station">MSNBC</field>
+<field name="show">The Daily Rundown</field>
+<field name="showid">MSNBCW_20130211_140000_The_Daily_Rundown</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130211_140000_The_Daily_Rundown/MSNBCW_20130211_140000_The_Daily_Rundown.thumbs/MSNBCW_20130211_140000_The_Daily_Rundown_000165.jpg</field>
+<field name="snippet">progressive values and the push for a transformative next four years, president obama will pivot back to the economy in the state of the union address, and the president will outline initiatives on clean energy, climate change, and the usual</field>
+</doc>
+</add>

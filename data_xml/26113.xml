@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201003.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100304_070000_Glenn_Beck#start/696/end/731</field>
+<field name="datetime">3/4/2010 7:11:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20100304_070000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100304_070000_Glenn_Beck/FOXNEWS_20100304_070000_Glenn_Beck.thumbs/FOXNEWS_20100304_070000_Glenn_Beck_000686.jpg</field>
+<field name="snippet">even the progressive republican, senator lindsey graham, has proposed now putting a price on carbon. that is going to be good for the economy. start with a very focussed carbon tax. focus.</field>
+</doc>
+</add>

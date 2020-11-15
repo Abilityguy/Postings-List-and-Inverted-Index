@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181102_110000_BBC_Newsroom_Live#start/3646/end/3681</field>
+<field name="datetime">11/2/2018 12:01:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20181102_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181102_110000_BBC_Newsroom_Live/BBCNEWS_20181102_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20181102_110000_BBC_Newsroom_Live_003627.jpg</field>
+<field name="snippet">25 years ago there was a news story about climate change and how it</field>
+</doc>
+</add>

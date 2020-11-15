@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180810_020000_BBC_News#start/1351/end/1386</field>
+<field name="datetime">8/10/2018 2:22:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180810_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180810_020000_BBC_News/BBCNEWS_20180810_020000_BBC_News.thumbs/BBCNEWS_20180810_020000_BBC_News_001347.jpg</field>
+<field name="snippet">holy fire. scientists are a rare breed in the us congress. in fact, there's only one phd physicist in the house of representatives. but that might change come november's midterm elections. enraged by what they see as the trump administration's lack of respect for science and denial of climate change, more scientists are running for elected office than ever before.</field>
+</doc>
+</add>

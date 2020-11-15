@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181026_130000_Afternoon_Live#start/1039/end/1074</field>
+<field name="datetime">10/26/2018 13:17:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20181026_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181026_130000_Afternoon_Live/BBCNEWS_20181026_130000_Afternoon_Live.thumbs/BBCNEWS_20181026_130000_Afternoon_Live_001017.jpg</field>
+<field name="snippet">in the eye of the storm - dawlish in devon in 2014, battered by the waves, train tracks destroyed. today's report says more of this will happen as sea levels are pushed higher by man-made climate change.</field>
+</doc>
+</add>

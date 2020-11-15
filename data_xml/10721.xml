@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_214000_The_Papers#start/1206/end/1241</field>
+<field name="datetime">8/8/2019 22:00:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Papers</field>
+<field name="showid">BBCNEWS_20190808_214000_The_Papers</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_214000_The_Papers/BBCNEWS_20190808_214000_The_Papers.thumbs/BBCNEWS_20190808_214000_The_Papers_001139.jpg</field>
+<field name="snippet">north. temperature is on sunday are only 16 degrees. this is bbc news. the headlines at 11:00pm: eating less meat to help save the planet - the un says switching to a plant-based diet could help slow down global warming.</field>
+</doc>
+</add>

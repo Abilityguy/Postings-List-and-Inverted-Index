@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091212_230000_Americas_News_HQ#start/2163/end/2198</field>
+<field name="datetime">12/12/2009 23:36:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWS_20091212_230000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091212_230000_Americas_News_HQ/FOXNEWS_20091212_230000_Americas_News_HQ.thumbs/FOXNEWS_20091212_230000_Americas_News_HQ_002160.jpg</field>
+<field name="snippet">climate change. the protests started peacefully. but police say they've arrested hundreds of people for throwing bricks and breaking windows. it wasn't all turmoil in the streets of copenhagen. protesters also hold ago peaceful candlelight vigil</field>
+</doc>
+</add>

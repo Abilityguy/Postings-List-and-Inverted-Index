@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200908.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20090826_200000_MSNBC_News_Live#start/2475/end/2510</field>
+<field name="datetime">8/26/2009 20:41:30</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20090826_200000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20090826_200000_MSNBC_News_Live/MSNBC_20090826_200000_MSNBC_News_Live.thumbs/MSNBC_20090826_200000_MSNBC_News_Live_002455.jpg</field>
+<field name="snippet">proposals around health care, climate change and others before the congress today. and how important it is that massachusetts have two voices contributing to that debate and particularly on health care where we with the senator's help are far ahead of every other</field>
+</doc>
+</add>

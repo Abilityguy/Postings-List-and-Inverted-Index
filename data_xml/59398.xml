@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201106.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110609_230000_Hardball_With_Chris_Matthews#start/2207/end/2242</field>
+<field name="datetime">6/9/2011 23:37:02</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball With Chris Matthews</field>
+<field name="showid">MSNBC_20110609_230000_Hardball_With_Chris_Matthews</field>
+<field name="preview">https://archive.org/download/MSNBC_20110609_230000_Hardball_With_Chris_Matthews/MSNBC_20110609_230000_Hardball_With_Chris_Matthews.thumbs/MSNBC_20110609_230000_Hardball_With_Chris_Matthews_002190.jpg</field>
+<field name="snippet">welcome back to 'hardball.' at a town meeting in new hampshire just last week, mitt romney was asked by a voter about his stance on global warming. here is what the former governor of massachusetts had to say. i believe the world is getting warmer. i can't prove that. but i believe based on what i</field>
+</doc>
+</add>

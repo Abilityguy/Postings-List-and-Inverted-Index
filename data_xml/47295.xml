@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201802.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180222_231500_Newsnight#start/2165/end/2200</field>
+<field name="datetime">2/22/2018 23:51:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsnight</field>
+<field name="showid">BBCNEWS_20180222_231500_Newsnight</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180222_231500_Newsnight/BBCNEWS_20180222_231500_Newsnight.thumbs/BBCNEWS_20180222_231500_Newsnight_002157.jpg</field>
+<field name="snippet">for technology and science and the degree to which they continue to deliver us to a better place, one can quite quickly counter with obviously climate change, being a massive global problem which science, for the moment, seems incapable of coming up with a clear solution. one could look at the degradation of our environments,</field>
+</doc>
+</add>

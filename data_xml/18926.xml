@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201612.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161202_190000_Americas_News_HQ#start/2470/end/2505</field>
+<field name="datetime">12/2/2016 19:41:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20161202_190000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161202_190000_Americas_News_HQ/FOXNEWSW_20161202_190000_Americas_News_HQ.thumbs/FOXNEWSW_20161202_190000_Americas_News_HQ_002458.jpg</field>
+<field name="snippet">we'll move on to another topic, we want to talk to ivanka trump who makes to make climate change one of her first issues. despite her father's past</field>
+</doc>
+</add>

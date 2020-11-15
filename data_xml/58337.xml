@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181124_003000_Witness#start/1725/end/1760</field>
+<field name="datetime">11/24/2018 0:59:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Witness</field>
+<field name="showid">BBCNEWS_20181124_003000_Witness</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181124_003000_Witness/BBCNEWS_20181124_003000_Witness.thumbs/BBCNEWS_20181124_003000_Witness_001707.jpg</field>
+<field name="snippet">the report is at odds with president trump's policies. he has repeatedly cast doubt on the fact that man-made climate change is real, despite overwhelming scientific evidence. james cook reports. this, say many scientists, is what climate change looks like.</field>
+</doc>
+</add>

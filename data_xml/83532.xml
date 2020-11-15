@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190420_230000_BBC_News#start/31/end/66</field>
+<field name="datetime">4/20/2019 23:00:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190420_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190420_230000_BBC_News/BBCNEWS_20190420_230000_BBC_News.thumbs/BBCNEWS_20190420_230000_BBC_News_000028.jpg</field>
+<field name="snippet">the seachange, and i want people to have confidence to come forward to help us. french police fire tear gas and arrest more than 100 people during the latest anti-government yellow vests protests in paris. after a week of climate change</field>
+</doc>
+</add>

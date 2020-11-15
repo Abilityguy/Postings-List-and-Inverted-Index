@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091203_140000_Americas_Newsroom#start/5945/end/5980</field>
+<field name="datetime">12/3/2009 15:39:20</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20091203_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091203_140000_Americas_Newsroom/FOXNEWS_20091203_140000_Americas_Newsroom.thumbs/FOXNEWS_20091203_140000_Americas_Newsroom_005928.jpg</field>
+<field name="snippet">even if the global warming people are right about the nature of the problem, that does not mean that they have mastery over the nature of the solution. bill: from 'the new york times' yesterday there were e-mail</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181102_060000_Breakfast#start/151/end/186</field>
+<field name="datetime">11/2/2018 6:02:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181102_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181102_060000_Breakfast/BBCNEWS_20181102_060000_Breakfast.thumbs/BBCNEWS_20181102_060000_Breakfast_000147.jpg</field>
+<field name="snippet">they can be a hazard for the elderly, who get no respite from the heat. and though this study has focused on extreme weather conditions, the met office says it is consistent with worldwide trends in global warming, driven primarily by fossil fuels.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200911.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091125_160000_MSNBC_News_Live#start/14/end/49</field>
+<field name="datetime">11/25/2009 16:00:29</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091125_160000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091125_160000_MSNBC_News_Live/MSNBC_20091125_160000_MSNBC_News_Live.thumbs/MSNBC_20091125_160000_MSNBC_News_Live_000053.jpg</field>
+<field name="snippet">mike, we know the president just getting back from asia and now the word is he is going to copenhagen. for the climate change conference. i guess about two weeks ago when the president was in asia it was</field>
+</doc>
+</add>

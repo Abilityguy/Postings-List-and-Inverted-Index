@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190425_160000_BBC_News_at_Five#start/2174/end/2209</field>
+<field name="datetime">4/25/2019 16:36:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190425_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190425_160000_BBC_News_at_Five/BBCNEWS_20190425_160000_BBC_News_at_Five.thumbs/BBCNEWS_20190425_160000_BBC_News_at_Five_002158.jpg</field>
+<field name="snippet">the group's attempts to clog the heart of london and other cities across the uk have undoubtedly helped to drive the issue of climate change more forcefully into the public consciousness - but where do they go from here and will the campaign actually result in any kind of meaningful</field>
+</doc>
+</add>

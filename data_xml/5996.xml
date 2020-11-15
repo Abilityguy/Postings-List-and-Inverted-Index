@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190913_043000_Business_Briefing#start/92/end/127</field>
+<field name="datetime">9/13/2019 4:31:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Business Briefing</field>
+<field name="showid">BBCNEWS_20190913_043000_Business_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190913_043000_Business_Briefing/BBCNEWS_20190913_043000_Business_Briefing.thumbs/BBCNEWS_20190913_043000_Business_Briefing_000088.jpg</field>
+<field name="snippet">of global gdp will be wiped out by the end of the century if no action is taken to reduce carbon emissions. governments have pledged to limit global warming to 1.5 degrees centigrade above pre-industrial levels. that is considered the threshold before dangerous changes</field>
+</doc>
+</add>

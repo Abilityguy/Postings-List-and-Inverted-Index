@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201303.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130320_170000_America_Live#start/756/end/791</field>
+<field name="datetime">3/20/2013 17:12:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWSW_20130320_170000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130320_170000_America_Live/FOXNEWSW_20130320_170000_America_Live.thumbs/FOXNEWSW_20130320_170000_America_Live_000735.jpg</field>
+<field name="snippet">the president's agenda is stuck, talking about climate change, immigration reform, grand bargain budget deal, not to mention what we saw on gun control. is it already over for him in terms of getting major</field>
+</doc>
+</add>

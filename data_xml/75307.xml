@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_140000_Afternoon_Live#start/5771/end/5806</field>
+<field name="datetime">1/17/2020 15:36:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20200117_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_140000_Afternoon_Live/BBCNEWS_20200117_140000_Afternoon_Live.thumbs/BBCNEWS_20200117_140000_Afternoon_Live_005758.jpg</field>
+<field name="snippet">city in the uk to pledge to become carbon neutral over the next 20 years. it will mean radically cutting harmful emissions and planting enough trees to absorb the carbon in any remaining fumes. it comes as the city prepares to host an international summit on climate change in november. the bbc is taking a closer look</field>
+</doc>
+</add>

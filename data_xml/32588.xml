@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201211.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121101_060000_The_Five#start/2968/end/3003</field>
+<field name="datetime">11/1/2012 6:49:43</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20121101_060000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121101_060000_The_Five/FOXNEWSW_20121101_060000_The_Five.thumbs/FOXNEWSW_20121101_060000_The_Five_002968.jpg</field>
+<field name="snippet">dana: halloween has come really long way. because remember the plastic masks that you would put on and they have two holes in the nose so you could breathe? in colorado, thanks to global warming it doesn't happen as much anymore. bob: correct.</field>
+</doc>
+</add>

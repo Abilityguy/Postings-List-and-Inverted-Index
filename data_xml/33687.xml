@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_210000_Your_World_With_Neil_Cavuto#start/1411/end/1446</field>
+<field name="datetime">12/18/2009 21:23:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWS_20091218_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_210000_Your_World_With_Neil_Cavuto/FOXNEWS_20091218_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWS_20091218_210000_Your_World_With_Neil_Cavuto_001285.jpg</field>
+<field name="snippet">unchecked, climate change will cause unacceptable risks to our security, our economies, and our planet. neil: well, those climate-gate emails are posing some serious</field>
+</doc>
+</add>

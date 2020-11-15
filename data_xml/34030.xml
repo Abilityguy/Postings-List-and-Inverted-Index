@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091205_100000_The_OReilly_Factor#start/2593/end/2628</field>
+<field name="datetime">12/5/2009 10:43:28</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20091205_100000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091205_100000_The_OReilly_Factor/FOXNEWS_20091205_100000_The_OReilly_Factor.thumbs/FOXNEWS_20091205_100000_The_OReilly_Factor_002451.jpg</field>
+<field name="snippet">sean: we continue now with our great american panel. climate change. i want it say two things. it's fascinating that all these academics believe that you can keep secrets in the modern world. when really it's almost impossible. and it was inevitable that</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201412.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141230_140000_Americas_Newsroom#start/3230/end/3265</field>
+<field name="datetime">12/30/2014 14:54:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWSW_20141230_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141230_140000_Americas_Newsroom/FOXNEWSW_20141230_140000_Americas_Newsroom.thumbs/FOXNEWSW_20141230_140000_Americas_Newsroom_003225.jpg</field>
+<field name="snippet">rare encyclical on climate change next year. the pope is breaking a long tradition of steering clear of open debate here.</field>
+</doc>
+</add>

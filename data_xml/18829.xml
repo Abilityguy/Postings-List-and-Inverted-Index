@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201612.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161209_070000_Tucker_Carlson_Tonight#start/2378/end/2413</field>
+<field name="datetime">12/9/2016 7:39:53</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20161209_070000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161209_070000_Tucker_Carlson_Tonight/FOXNEWSW_20161209_070000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20161209_070000_Tucker_Carlson_Tonight_002367.jpg</field>
+<field name="snippet">naming pruitt to be his epa administrator. let's bring in our panel, steve haze, laura ingram and charles lane. start with the nomination of pruitt as epa administrator. he says the debate over climate</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100215_110000_FOX_and_Friends#start/3754/end/3789</field>
+<field name="datetime">2/15/2010 12:02:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100215_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100215_110000_FOX_and_Friends/FOXNEWS_20100215_110000_FOX_and_Friends.thumbs/FOXNEWS_20100215_110000_FOX_and_Friends_003743.jpg</field>
+<field name="snippet">my buddy huddy is in today. we asked you a little while ago when we were telling you about this climate gate thing, what you thought about global warming and vince, who is in fort myers, florida right now where he says 42 degrees. we've been in global warming</field>
+</doc>
+</add>

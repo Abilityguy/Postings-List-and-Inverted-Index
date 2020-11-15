@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091202_160000_Happening_Now#start/4527/end/4562</field>
+<field name="datetime">12/2/2009 17:15:42</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091202_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091202_160000_Happening_Now/FOXNEWS_20091202_160000_Happening_Now.thumbs/FOXNEWS_20091202_160000_Happening_Now_004500.jpg</field>
+<field name="snippet">wendell goler is at the white house. what is the latest? skeptics who claim that man is responsible for global warming say that this may completely undercut the chance for an agreement on the kyodo accord in copenhagen next month.</field>
+</doc>
+</add>

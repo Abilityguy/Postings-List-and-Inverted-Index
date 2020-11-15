@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191107_040000_BBC_News#start/504/end/539</field>
+<field name="datetime">11/7/2019 4:08:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191107_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191107_040000_BBC_News/BBCNEWS_20191107_040000_BBC_News.thumbs/BBCNEWS_20191107_040000_BBC_News_000477.jpg</field>
+<field name="snippet">two former twitter employees and a third man with spying for saudi arabia. they are accused of accessing personal information of some twitter users who criticised the saudi government and royal family. italy is to become the first country to make it compulsory for schoolchildren to study climate change. from september next year, all state schools will dedicate almost an hour a week</field>
+</doc>
+</add>

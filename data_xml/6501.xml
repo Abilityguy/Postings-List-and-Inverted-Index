@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190913_040000_The_Briefing#start/584/end/619</field>
+<field name="datetime">9/13/2019 4:09:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20190913_040000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190913_040000_The_Briefing/BBCNEWS_20190913_040000_The_Briefing.thumbs/BBCNEWS_20190913_040000_The_Briefing_000567.jpg</field>
+<field name="snippet">drones near london's heathrow airport on friday. the three men and two women, who are members of a climate change activist group, were held on suspicion of conspiracy to commit a public nuisance. the group plans to protest against the airport's planned expansion.</field>
+</doc>
+</add>

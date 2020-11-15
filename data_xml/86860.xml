@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191202_110000_BBC_Newsroom_Live#start/1249/end/1284</field>
+<field name="datetime">12/2/2019 11:21:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20191202_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191202_110000_BBC_Newsroom_Live/BBCNEWS_20191202_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20191202_110000_BBC_Newsroom_Live_001228.jpg</field>
+<field name="snippet">the united nations secretary general has warned that the world is at the point of no return when it comes to rising temperatures. it comes ahead of a two week climate summit in madrid where more than 200 countries are meeting to plan how the world can tackle rising greenhouse gas emissions. our science correspondent rebecca morelle has more.</field>
+</doc>
+</add>

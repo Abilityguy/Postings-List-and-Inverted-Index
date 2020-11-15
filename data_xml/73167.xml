@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190122_140000_Afternoon_Live#start/4685/end/4720</field>
+<field name="datetime">1/22/2019 15:18:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190122_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190122_140000_Afternoon_Live/BBCNEWS_20190122_140000_Afternoon_Live.thumbs/BBCNEWS_20190122_140000_Afternoon_Live_004677.jpg</field>
+<field name="snippet">prince william interviews david attenborough about tackling climate change. huddersfield town's new manager may be following the same path as his predecessor, david wagner, but the new man insists he'll do it his own way. the greek</field>
+</doc>
+</add>

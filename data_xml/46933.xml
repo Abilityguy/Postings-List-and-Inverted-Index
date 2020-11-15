@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201803.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180301_200000_BBC_News#start/1205/end/1240</field>
+<field name="datetime">3/1/2018 20:20:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180301_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180301_200000_BBC_News/BBCNEWS_20180301_200000_BBC_News.thumbs/BBCNEWS_20180301_200000_BBC_News_001198.jpg</field>
+<field name="snippet">intelligence unit, a non-profit organisation which specialises in energy and climate change issues in the uk. he joins us live from our studio in central london. thanks forjoining us. this warning from national grid, put it into context, what does it mean? from national grid, put it into</field>
+</doc>
+</add>

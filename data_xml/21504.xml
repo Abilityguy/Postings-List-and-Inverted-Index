@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100116_080000_Red_Eye#start/205/end/240</field>
+<field name="datetime">1/16/2010 8:03:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20100116_080000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100116_080000_Red_Eye/FOXNEWS_20100116_080000_Red_Eye.thumbs/FOXNEWS_20100116_080000_Red_Eye_000173.jpg</field>
+<field name="snippet">more devastation after a natural disaster, he blames it all on our nonplus response to copen hey again. clearly global warming has infected his brain so severely he can't think straight. it could explain why he did 'saw 5'.</field>
+</doc>
+</add>

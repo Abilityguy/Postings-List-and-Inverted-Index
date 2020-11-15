@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201410.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20141017_200000_NOW_With_Alex_Wagner#start/2007/end/2042</field>
+<field name="datetime">10/17/2014 20:33:42</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20141017_200000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20141017_200000_NOW_With_Alex_Wagner/MSNBCW_20141017_200000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20141017_200000_NOW_With_Alex_Wagner_001995.jpg</field>
+<field name="snippet">with each new record-breaking storm we carveuate the discussion with phrases like we don't know if this is the result of climate change or global warming might have been a factor but that misses the point. every storm is affected by climate change because every</field>
+</doc>
+</add>

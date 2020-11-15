@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170528_013000_Dateline_London#start/28/end/63</field>
+<field name="datetime">5/28/2017 1:30:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Dateline London</field>
+<field name="showid">BBCNEWS_20170528_013000_Dateline_London</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170528_013000_Dateline_London/BBCNEWS_20170528_013000_Dateline_London.thumbs/BBCNEWS_20170528_013000_Dateline_London_000057.jpg</field>
+<field name="snippet">trade unions say the problems were a result of making it staff redundant last year. world leaders have left the g7 summit in italy without agreeing a joint statement on climate change. president donald trump refused to recommit the united states to the paris climate accord, even though the other leaders did.</field>
+</doc>
+</add>

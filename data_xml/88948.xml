@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190628_010000_BBC_News#start/526/end/561</field>
+<field name="datetime">6/28/2019 1:09:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190628_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190628_010000_BBC_News/BBCNEWS_20190628_010000_BBC_News.thumbs/BBCNEWS_20190628_010000_BBC_News_000508.jpg</field>
+<field name="snippet">for the official family photo ahead of the official start of the summit. trade wars, iran and climate change are all topics that are likely to dominate. rupert wingfield-hayes joins us now from 0saka.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100211_180000_America_Live#start/2440/end/2475</field>
+<field name="datetime">2/11/2010 18:40:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWS_20100211_180000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100211_180000_America_Live/FOXNEWS_20100211_180000_America_Live.thumbs/FOXNEWS_20100211_180000_America_Live_002424.jpg</field>
+<field name="snippet">sort of thing you'd expect with global warming and i think that shows that they'll say just about anything to try to support their position. megyn: doctor, that sounds counterintuitive and global warming believe believers have come out and said this</field>
+</doc>
+</add>

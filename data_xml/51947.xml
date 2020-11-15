@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181210_010000_Newsday#start/889/end/924</field>
+<field name="datetime">12/10/2018 1:15:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20181210_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181210_010000_Newsday/BBCNEWS_20181210_010000_Newsday.thumbs/BBCNEWS_20181210_010000_Newsday_000868.jpg</field>
+<field name="snippet">pages from around the world. the straits times warns that singapore faces a disproportionate risk from climate change. the island city-state makes up just</field>
+</doc>
+</add>

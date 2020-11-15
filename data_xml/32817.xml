@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_160000_Happening_Now#start/2328/end/2363</field>
+<field name="datetime">12/18/2009 16:39:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091218_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_160000_Happening_Now/FOXNEWS_20091218_160000_Happening_Now.thumbs/FOXNEWS_20091218_160000_Happening_Now_002310.jpg</field>
+<field name="snippet">warming. but according to a new poll on fox news, a lot of americans don't sense that urgency. what do these poll numbers show? they're trying to get a deal in copenhagen. president obama urging action there. it turns out that most of us don't think global warming</field>
+</doc>
+</add>

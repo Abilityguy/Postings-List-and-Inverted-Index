@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_060000_Breakfast#start/5544/end/5579</field>
+<field name="datetime">12/3/2018 7:32:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181203_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_060000_Breakfast/BBCNEWS_20181203_060000_Breakfast.thumbs/BBCNEWS_20181203_060000_Breakfast_005517.jpg</field>
+<field name="snippet">people from getting into hospital, using expensive nhs resources, so we need to understand what the government is going to say in the green paper. sir david attenborough will make a speech at the united nation's climate change talks in poland</field>
+</doc>
+</add>

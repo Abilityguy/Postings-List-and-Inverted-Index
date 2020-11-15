@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091214_070000_Hannity#start/28/end/63</field>
+<field name="datetime">12/14/2009 7:00:43</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20091214_070000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091214_070000_Hannity/FOXNEWS_20091214_070000_Hannity.thumbs/FOXNEWS_20091214_070000_Hannity_000027.jpg</field>
+<field name="snippet">between a top critic of global warming legislation and ed markey. the president and nobel peace prize. we will dig into his acceptance</field>
+</doc>
+</add>

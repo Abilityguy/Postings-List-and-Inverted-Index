@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100109_050000_Hannity#start/2951/end/2986</field>
+<field name="datetime">1/9/2010 5:49:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20100109_050000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100109_050000_Hannity/FOXNEWS_20100109_050000_Hannity.thumbs/FOXNEWS_20100109_050000_Hannity_002940.jpg</field>
+<field name="snippet">what happened to global warming? he is it a lie? it is not a lie. over the last years the earth is warming. in my own lifetime in alaska i've seen glaciers disappear. i've seen glaciers melt.</field>
+</doc>
+</add>

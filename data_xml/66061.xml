@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190203_040000_Watters_World#start/347/end/382</field>
+<field name="datetime">2/3/2019 4:06:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Watters World</field>
+<field name="showid">FOXNEWSW_20190203_040000_Watters_World</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190203_040000_Watters_World/FOXNEWSW_20190203_040000_Watters_World.thumbs/FOXNEWSW_20190203_040000_Watters_World_000328.jpg</field>
+<field name="snippet">climate change is the existential threat of our time. this could be the number one threat in our country if we continue to allow power to concentrate and dictate the quality of our air and dictate the fact and tell us we can keep</field>
+</doc>
+</add>

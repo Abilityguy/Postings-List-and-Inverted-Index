@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181215_060000_Breakfast#start/157/end/192</field>
+<field name="datetime">12/15/2018 6:02:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181215_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181215_060000_Breakfast/BBCNEWS_20181215_060000_Breakfast.thumbs/BBCNEWS_20181215_060000_Breakfast_000147.jpg</field>
+<field name="snippet">countries for the damage caused by global warming. from katowice, our environment correspondent, matt mcgrath, reports. climate negotiations rarely finish</field>
+</doc>
+</add>

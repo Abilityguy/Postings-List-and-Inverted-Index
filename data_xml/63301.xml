@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190301_140000_Afternoon_Live#start/1326/end/1361</field>
+<field name="datetime">3/1/2019 14:22:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190301_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190301_140000_Afternoon_Live/BBCNEWS_20190301_140000_Afternoon_Live.thumbs/BBCNEWS_20190301_140000_Afternoon_Live_002008.jpg</field>
+<field name="snippet">this is not necessarily a climate change issue. the icebergs fall from this shelf once in awhile but this is the largest we have seen. we took the decision several years ago</field>
+</doc>
+</add>

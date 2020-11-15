@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180807_080000_Victoria_Derbyshire#start/5616/end/5651</field>
+<field name="datetime">8/7/2018 9:33:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20180807_080000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180807_080000_Victoria_Derbyshire/BBCNEWS_20180807_080000_Victoria_Derbyshire.thumbs/BBCNEWS_20180807_080000_Victoria_Derbyshire_005608.jpg</field>
+<field name="snippet">a report released today is warning that the world is at risk of tipping into extremely dangerous levels of climate change, which could make some areas uninhabitable. the study comes amid a record-breaking summer heatwave in the uk and massive wildfires</field>
+</doc>
+</add>

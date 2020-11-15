@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201401.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140108_030000_Hannity#start/555/end/590</field>
+<field name="datetime">1/8/2014 3:09:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20140108_030000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140108_030000_Hannity/FOXNEWSW_20140108_030000_Hannity.thumbs/FOXNEWSW_20140108_030000_Hannity_000555.jpg</field>
+<field name="snippet">clear. the earth's temperature, it seems we just didn't -- there's a political agenda, am i wrong? climate change must be</field>
+</doc>
+</add>

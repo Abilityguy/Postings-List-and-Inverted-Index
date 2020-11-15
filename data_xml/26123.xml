@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201003.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100301_140000_Americas_Newsroom#start/356/end/391</field>
+<field name="datetime">3/1/2010 14:06:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20100301_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100301_140000_Americas_Newsroom/FOXNEWS_20100301_140000_Americas_Newsroom.thumbs/FOXNEWS_20100301_140000_Americas_Newsroom_000356.jpg</field>
+<field name="snippet">mope! i'm not sure about -- martha: a reasonable question, something to think about over coffee. i don't know about lindsey graham, i don't know, but lindsey graham is appealing to a new demographic. he's going along with the concept of climate change.</field>
+</doc>
+</add>

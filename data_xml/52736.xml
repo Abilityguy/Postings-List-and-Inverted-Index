@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180607_123000_BBC_News#start/1445/end/1480</field>
+<field name="datetime">6/7/2018 12:54:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180607_123000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180607_123000_BBC_News/BBCNEWS_20180607_123000_BBC_News.thumbs/BBCNEWS_20180607_123000_BBC_News_001437.jpg</field>
+<field name="snippet">on street tracks and it's all electric and claims to be fighting climate change. i think it's the future, so to have this technology tested here is fantastic. even if you're not fussed for racing</field>
+</doc>
+</add>

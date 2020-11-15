@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201004.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100430_220000_The_Ed_Show#start/3044/end/3079</field>
+<field name="datetime">4/30/2010 22:50:59</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBC_20100430_220000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20100430_220000_The_Ed_Show/MSNBC_20100430_220000_The_Ed_Show.thumbs/MSNBC_20100430_220000_The_Ed_Show_003026.jpg</field>
+<field name="snippet">on getting comprehensive climate change legislation? because the thing about climate change, it's a twofer. it helps the climate and also, you know, helps the planet and also prevents these huge oil</field>
+</doc>
+</add>

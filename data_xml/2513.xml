@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200909.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20090921_200000_MSNBC_News_Live#start/3374/end/3409</field>
+<field name="datetime">9/21/2009 20:56:29</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20090921_200000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20090921_200000_MSNBC_News_Live/MSNBC_20090921_200000_MSNBC_News_Live.thumbs/MSNBC_20090921_200000_MSNBC_News_Live_003356.jpg</field>
+<field name="snippet">well as one of our white house correspondents, president obama has a very busy day in new york tomorrow. he's going to be a u.n. climate change summit. then he has a trilateral meeting with israeli prime minister</field>
+</doc>
+</add>

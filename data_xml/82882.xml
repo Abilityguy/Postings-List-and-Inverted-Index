@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191007_200000_Outside_Source#start/70/end/105</field>
+<field name="datetime">10/7/2019 20:01:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20191007_200000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191007_200000_Outside_Source/BBCNEWS_20191007_200000_Outside_Source.thumbs/BBCNEWS_20191007_200000_Outside_Source_000059.jpg</field>
+<field name="snippet">we'll bring you some of what she had to say. and climate activists have taken to the streets of cities around the world demanding urgent action to stop global warming. we'll report from london, amsterdam, sydney, paris and berlin.</field>
+</doc>
+</add>

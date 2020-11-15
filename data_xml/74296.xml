@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200110_023000_Thursday_in_Parliament#start/1236/end/1271</field>
+<field name="datetime">1/10/2020 2:50:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Thursday in Parliament</field>
+<field name="showid">BBCNEWS_20200110_023000_Thursday_in_Parliament</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200110_023000_Thursday_in_Parliament/BBCNEWS_20200110_023000_Thursday_in_Parliament.thumbs/BBCNEWS_20200110_023000_Thursday_in_Parliament_001228.jpg</field>
+<field name="snippet">how we keep the paris agreement on track, and how we stop our world reaching the point of no return on global warming - where events such as those we are currently seeing in australia become the new normal? another labour mp raised december's climate change conference, cop 25.</field>
+</doc>
+</add>

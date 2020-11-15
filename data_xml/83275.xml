@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191025_130000_Afternoon_Live#start/5053/end/5088</field>
+<field name="datetime">10/25/2019 14:24:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20191025_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191025_130000_Afternoon_Live/BBCNEWS_20191025_130000_Afternoon_Live.thumbs/BBCNEWS_20191025_130000_Afternoon_Live_005037.jpg</field>
+<field name="snippet">the humble earthworm is the unsung hero of our ecosystem, playing a vital role in improving the soil. but, after carrying out the first major global survey, scientists say they're concerned about the dangers that worms are facing from climate change. our science correspondent</field>
+</doc>
+</add>

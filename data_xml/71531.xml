@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190106_170000_Americas_News_HQ#start/802/end/837</field>
+<field name="datetime">1/6/2019 17:13:37</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20190106_170000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190106_170000_Americas_News_HQ/FOXNEWSW_20190106_170000_Americas_News_HQ.thumbs/FOXNEWSW_20190106_170000_Americas_News_HQ_000777.jpg</field>
+<field name="snippet">this is likely one of many debates over the green new deal. the proposal aims to tackle climate change eliminating all industrial greenhouse gas emission and paying for it by</field>
+</doc>
+</add>

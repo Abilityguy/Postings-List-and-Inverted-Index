@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201202.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120212_100000_The_Five#start/2055/end/2090</field>
+<field name="datetime">2/12/2012 10:34:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20120212_100000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120212_100000_The_Five/FOXNEWSW_20120212_100000_The_Five.thumbs/FOXNEWSW_20120212_100000_The_Five_002040.jpg</field>
+<field name="snippet">the facts are clear. john: the science is beyond dispute and the facts are clear. well, the facts aren't all that clear to me. a lot of people trust president obama and others who worry about global warming and want government to act and my next guest wants that, too, a</field>
+</doc>
+</add>

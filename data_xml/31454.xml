@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090718_230000_FOX_Report#start/1631/end/1666</field>
+<field name="datetime">7/18/2009 23:27:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report</field>
+<field name="showid">FOXNEWS_20090718_230000_FOX_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090718_230000_FOX_Report/FOXNEWS_20090718_230000_FOX_Report.thumbs/FOXNEWS_20090718_230000_FOX_Report_001620.jpg</field>
+<field name="snippet">i'd say it's taken us for a ride. honestly, what thanks do we owe progress? we're up to our necks in landfill, and down to the wire in resources and climate change is out to get us. that's why progress plays no role inside post shredded wheat.</field>
+</doc>
+</add>

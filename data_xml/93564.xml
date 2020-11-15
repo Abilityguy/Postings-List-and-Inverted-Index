@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190727_000000_BBC_News#start/948/end/983</field>
+<field name="datetime">7/27/2019 0:16:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190727_000000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190727_000000_BBC_News/BBCNEWS_20190727_000000_BBC_News.thumbs/BBCNEWS_20190727_000000_BBC_News_000927.jpg</field>
+<field name="snippet">climate change, have meant the fires this year have been more intense. global satellites are now tracking a swathe of new and ongoing wildfires within the arctic circle. smoke is affecting large areas, involving some places completely. cities in</field>
+</doc>
+</add>

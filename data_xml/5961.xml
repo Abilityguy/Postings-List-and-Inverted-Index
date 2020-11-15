@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190921_013000_Talking_Books#start/1844/end/1879</field>
+<field name="datetime">9/21/2019 2:00:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Talking Books</field>
+<field name="showid">BBCNEWS_20190921_013000_Talking_Books</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190921_013000_Talking_Books/BBCNEWS_20190921_013000_Talking_Books.thumbs/BBCNEWS_20190921_013000_Talking_Books_001827.jpg</field>
+<field name="snippet">hello and welcome to bbc news. protests by millions of young people that swept across the globe, demanding action against climate change, have come to a close.</field>
+</doc>
+</add>

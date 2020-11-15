@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181212_110000_FOX__Friends#start/4803/end/4838</field>
+<field name="datetime">12/12/2018 12:20:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20181212_110000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181212_110000_FOX__Friends/FOXNEWSW_20181212_110000_FOX__Friends.thumbs/FOXNEWSW_20181212_110000_FOX__Friends_004797.jpg</field>
+<field name="snippet">tax hikes and punishing workers in the name of global warming. the bottom line is, you know, you can say whatever you want to about donald trump. donald trump has a pulse of what people want. he listens to people. he knows that's why.</field>
+</doc>
+</add>

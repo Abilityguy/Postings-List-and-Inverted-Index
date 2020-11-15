@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200910.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091021_100000_Morning_Joe#start/4078/end/4113</field>
+<field name="datetime">10/21/2009 11:08:13</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20091021_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20091021_100000_Morning_Joe/MSNBC_20091021_100000_Morning_Joe.thumbs/MSNBC_20091021_100000_Morning_Joe_004080.jpg</field>
+<field name="snippet">about in the media, campaign finance reform, global warming, all these other issues, 1%, and then you go inside like the environment, which is at 1%,</field>
+</doc>
+</add>

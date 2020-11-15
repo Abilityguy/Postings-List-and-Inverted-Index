@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191119_220000_BBC_News_at_Ten#start/1398/end/1433</field>
+<field name="datetime">11/19/2019 22:23:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20191119_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191119_220000_BBC_News_at_Ten/BBCNEWS_20191119_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20191119_220000_BBC_News_at_Ten_001378.jpg</field>
+<field name="snippet">on meat, dairy, plastics, flying. how do you think that's going to go down with the public? well, what we want is a carbon tax, and we'll use the proceeds of that carbon tax to give the money back to people, in the form of a basic income. so, actually, they're getting the support that they need to navigate</field>
+</doc>
+</add>

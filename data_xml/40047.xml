@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091107_120000_FOX_and_Friends_Saturday#start/6994/end/7029</field>
+<field name="datetime">11/7/2009 13:56:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWS_20091107_120000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091107_120000_FOX_and_Friends_Saturday/FOXNEWS_20091107_120000_FOX_and_Friends_Saturday.thumbs/FOXNEWS_20091107_120000_FOX_and_Friends_Saturday_006990.jpg</field>
+<field name="snippet">percent margin said the number one issue is economy. way down the list is health care and climate change. it is like saying my house is on fire but i want to look at the shrubs and get them cleaned up. put the house fire out before</field>
+</doc>
+</add>

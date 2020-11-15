@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191221_030000_BBC_News#start/213/end/248</field>
+<field name="datetime">12/21/2019 3:03:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191221_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191221_030000_BBC_News/BBCNEWS_20191221_030000_BBC_News.thumbs/BBCNEWS_20191221_030000_BBC_News_000209.jpg</field>
+<field name="snippet">morrison has acknowledged that global warming is a factor in australia's emergency. safe to say when mr morrison lands today, here in australia, his handling of this emergency will come under immense</field>
+</doc>
+</add>

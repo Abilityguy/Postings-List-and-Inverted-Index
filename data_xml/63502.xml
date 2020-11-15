@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190331_070000_Breakfast_BBC_News_Channel#start/490/end/525</field>
+<field name="datetime">3/31/2019 7:08:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast BBC News Channel</field>
+<field name="showid">BBCNEWS_20190331_070000_Breakfast_BBC_News_Channel</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190331_070000_Breakfast_BBC_News_Channel/BBCNEWS_20190331_070000_Breakfast_BBC_News_Channel.thumbs/BBCNEWS_20190331_070000_Breakfast_BBC_News_Channel_000478.jpg</field>
+<field name="snippet">some of the world's most famous landmarks have been plunged into darkness to draw attention to climate change. it's part of the annual earth hour event. the global campaign aims to raise awareness about the impact we're having on the planet. tim allman reports. hong kong is renowned</field>
+</doc>
+</add>

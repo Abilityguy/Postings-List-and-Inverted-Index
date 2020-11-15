@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190123_100000_Fox_and_Friends_First#start/2736/end/2771</field>
+<field name="datetime">1/23/2019 10:45:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190123_100000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190123_100000_Fox_and_Friends_First/FOXNEWSW_20190123_100000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190123_100000_Fox_and_Friends_First_002730.jpg</field>
+<field name="snippet">alexandria ocasio-cortez issuing the doomsday prediction. the world is going to end in 12 years if we don't address climate change. this is our world war ii. jillian: the white house calling her off with global warming. rob: we had world war ii and it was an impactful thing in this country. let's throw that in.</field>
+</doc>
+</add>

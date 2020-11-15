@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201605.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160503_100000_FOX__Friends#start/9445/end/9480</field>
+<field name="datetime">5/3/2016 12:37:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20160503_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160503_100000_FOX__Friends/FOXNEWSW_20160503_100000_FOX__Friends.thumbs/FOXNEWSW_20160503_100000_FOX__Friends_009417.jpg</field>
+<field name="snippet">here's what's going on. the community is receiving $48 million to relocate. they have been struggling with flooding over the past few years. a $1 billion grant was announced back in january for 13 states to combat climate change by building stronger infrastructure</field>
+</doc>
+</add>

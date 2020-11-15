@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190511_060000_Breakfast#start/1885/end/1920</field>
+<field name="datetime">5/11/2019 6:31:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190511_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190511_060000_Breakfast/BBCNEWS_20190511_060000_Breakfast.thumbs/BBCNEWS_20190511_060000_Breakfast_001857.jpg</field>
+<field name="snippet">concerns over climate change might restrict the growth of flying in the uk, the government has admitted. a senior civil servant has said ministers may have to review its aviation strategy to curb carbon emissions- including plans to expand heathrow. the department for transport says that heathrow expansion would 'provide a massive economic boost' to the uk while still observing</field>
+</doc>
+</add>

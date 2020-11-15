@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191231_090000_Fox_and_Friends_First#start/2054/end/2089</field>
+<field name="datetime">12/31/2019 9:34:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20191231_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191231_090000_Fox_and_Friends_First/FOXNEWSW_20191231_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20191231_090000_Fox_and_Friends_First_002038.jpg</field>
+<field name="snippet">people they teach who are the key to climate change in the future and addressing it. the nypd says there's no credible threat to this year's</field>
+</doc>
+</add>

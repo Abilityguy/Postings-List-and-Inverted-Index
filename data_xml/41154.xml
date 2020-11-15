@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201507.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150729_210000_The_Ed_Show#start/576/end/611</field>
+<field name="datetime">7/29/2015 21:09:51</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20150729_210000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150729_210000_The_Ed_Show/MSNBCW_20150729_210000_The_Ed_Show.thumbs/MSNBCW_20150729_210000_The_Ed_Show_000555.jpg</field>
+<field name="snippet">something about climate change what difference does it make who the president is now or what decision's on his desk? i guess my question is is he loyalty to the climate and the</field>
+</doc>
+</add>

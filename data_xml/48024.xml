@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201505.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150505_210000_The_Ed_Show#start/1900/end/1935</field>
+<field name="datetime">5/5/2015 21:31:55</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20150505_210000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150505_210000_The_Ed_Show/MSNBCW_20150505_210000_The_Ed_Show.thumbs/MSNBCW_20150505_210000_The_Ed_Show_001875.jpg</field>
+<field name="snippet">at home in the united states. steve clemens. always a pleasure. part two of our series 'rising tide: the climate crisis' next here on 'the ed show.' stay tuned. i'm hampton pearson with your cnbc market wrap.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191015_190000_Fox_News_Reporting#start/3239/end/3274</field>
+<field name="datetime">10/15/2019 19:54:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News Reporting</field>
+<field name="showid">FOXNEWSW_20191015_190000_Fox_News_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191015_190000_Fox_News_Reporting/FOXNEWSW_20191015_190000_Fox_News_Reporting.thumbs/FOXNEWSW_20191015_190000_Fox_News_Reporting_003239.jpg</field>
+<field name="snippet">of bills dealing with infrastructure, gun violence, climate change and more, leader mcconnell has turned our chamber into legislative graveyard. not one of these bills has received vote in the senate, no</field>
+</doc>
+</add>

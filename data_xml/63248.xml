@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190329_000000_Newsday#start/83/end/118</field>
+<field name="datetime">3/29/2019 0:01:38</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190329_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190329_000000_Newsday/BBCNEWS_20190329_000000_Newsday.thumbs/BBCNEWS_20190329_000000_Newsday_000057.jpg</field>
+<field name="snippet">heatwaves and wildfires - all indictors of climate change, and all showed signs of accelerating in 2018. live from our studios in london and singapore,</field>
+</doc>
+</add>

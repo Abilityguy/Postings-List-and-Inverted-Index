@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201510.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151019_170000_Happening_Now#start/3373/end/3408</field>
+<field name="datetime">10/19/2015 17:56:28</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20151019_170000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151019_170000_Happening_Now/FOXNEWSW_20151019_170000_Happening_Now.thumbs/FOXNEWSW_20151019_170000_Happening_Now_003375.jpg</field>
+<field name="snippet">so, john, it's like so much in this environmental and climate change debate. it seems that you are two experts, you get two very different answers. john? jonathan hunt, thank you. very interesting.</field>
+</doc>
+</add>

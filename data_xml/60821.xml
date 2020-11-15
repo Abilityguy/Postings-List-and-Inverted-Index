@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201804.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180419_080000_Victoria_Derbyshire#start/2273/end/2308</field>
+<field name="datetime">4/19/2018 8:38:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20180419_080000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180419_080000_Victoria_Derbyshire/BBCNEWS_20180419_080000_Victoria_Derbyshire.thumbs/BBCNEWS_20180419_080000_Victoria_Derbyshire_002248.jpg</field>
+<field name="snippet">it is a relic of the old british empire, in a way, but you believe it still has a relevance and a role? exactly. we have new emerging issues, climate change is here. we have issues of cyber security,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170523_180000_Americas_News_HQ#start/2115/end/2150</field>
+<field name="datetime">5/23/2017 18:35:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20170523_180000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170523_180000_Americas_News_HQ/FOXNEWSW_20170523_180000_Americas_News_HQ.thumbs/FOXNEWSW_20170523_180000_Americas_News_HQ_002098.jpg</field>
+<field name="snippet">reporter: billions of dollars in aid to the state department, u.s. id, international programs, global aids prevention, funds that would prevent and address climate change. a number of programs across the board including cultural</field>
+</doc>
+</add>

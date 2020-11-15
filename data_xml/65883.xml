@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190211_100000_Fox_and_Friends_First#start/1153/end/1188</field>
+<field name="datetime">2/11/2019 10:19:28</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190211_100000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190211_100000_Fox_and_Friends_First/FOXNEWSW_20190211_100000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190211_100000_Fox_and_Friends_First_001138.jpg</field>
+<field name="snippet">concerned about climate change and we need to do something in 12 years, you would think you would want nuclear power, largest source of emissions free energy, no, we won't build new nuclear plans, we will do it</field>
+</doc>
+</add>

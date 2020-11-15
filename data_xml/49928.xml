@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180603_090000_Fox_Report_Saturday#start/2543/end/2578</field>
+<field name="datetime">6/3/2018 9:42:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox Report Saturday</field>
+<field name="showid">FOXNEWSW_20180603_090000_Fox_Report_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180603_090000_Fox_Report_Saturday/FOXNEWSW_20180603_090000_Fox_Report_Saturday.thumbs/FOXNEWSW_20180603_090000_Fox_Report_Saturday_002517.jpg</field>
+<field name="snippet">day by half. in denver, alicia acuna, fox news. mike: meantime, pope francis meeting with oil company executives at the vatican next week to discuss climate change. the pope is likely to give them a nudge to clean up their act on global warming.</field>
+</doc>
+</add>

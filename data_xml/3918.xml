@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201710.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171030_220000_BBC_News_at_Ten#start/44/end/79</field>
+<field name="datetime">10/30/2017 22:00:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20171030_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171030_220000_BBC_News_at_Ten/BBCNEWS_20171030_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20171030_220000_BBC_News_at_Ten_000058.jpg</field>
+<field name="snippet">the hollywood actor kevin spacey apologises after being accused of making sexual advances towards a teenager boy in the 1980s. a number of people have died in a house fire in powys in mid wales. three children managed to escape. levels of the greenhouse gas carbon dioxide in the earth's atmosphere</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190502_100000_BBC_Newsroom_Live#start/5556/end/5591</field>
+<field name="datetime">5/2/2019 11:32:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190502_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190502_100000_BBC_Newsroom_Live/BBCNEWS_20190502_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190502_100000_BBC_Newsroom_Live_005548.jpg</field>
+<field name="snippet">therefore, this matter cannot be, as the prime minister says, closed. a report commissioned by the government says the uk should become a world leader in tackling climate change, by cutting greenhouse gases to almost zero by 2050.</field>
+</doc>
+</add>

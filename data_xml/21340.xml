@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180909_040000_BBC_News#start/1115/end/1150</field>
+<field name="datetime">9/9/2018 4:18:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180909_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180909_040000_BBC_News/BBCNEWS_20180909_040000_BBC_News.thumbs/BBCNEWS_20180909_040000_BBC_News_001107.jpg</field>
+<field name="snippet">the message from sydney harbour has echoed in towns and cities around the world, as campaigners call for an end to the use of fossil fuels. australia remains heavily reliant on coal to generate its electricity, despite what activists say is access to abundant sources of cheap renewables. climate change is of great concern in the pacific region.</field>
+</doc>
+</add>

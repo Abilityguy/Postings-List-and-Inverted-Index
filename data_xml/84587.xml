@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190402_050000_Breakfast#start/1080/end/1115</field>
+<field name="datetime">4/2/2019 5:18:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190402_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190402_050000_Breakfast/BBCNEWS_20190402_050000_Breakfast.thumbs/BBCNEWS_20190402_050000_Breakfast_001078.jpg</field>
+<field name="snippet">it also features a shot of the climate change protesters, who took their clothes off in the commons yesterday. 'it's back to square one!', over brexit, says the daily mail's front page. it also reports on a warning from cabinet secretary sir mark sedwill over how disastrous a no-deal would be.</field>
+</doc>
+</add>

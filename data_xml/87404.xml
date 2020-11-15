@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191202_140000_Afternoon_Live#start/1221/end/1256</field>
+<field name="datetime">12/2/2019 14:20:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20191202_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191202_140000_Afternoon_Live/BBCNEWS_20191202_140000_Afternoon_Live.thumbs/BBCNEWS_20191202_140000_Afternoon_Live_001198.jpg</field>
+<field name="snippet">on climate change is looming - the stark warning from the united nations as leaders gather in madrid for talks. monday morning misery for commuters on south western railway - at the start of a 27 day strike by rail workers.</field>
+</doc>
+</add>

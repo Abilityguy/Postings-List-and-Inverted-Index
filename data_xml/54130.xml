@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201306.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130624_150000_MSNBC_Live#start/2455/end/2490</field>
+<field name="datetime">6/24/2013 15:41:10</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20130624_150000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130624_150000_MSNBC_Live/MSNBCW_20130624_150000_MSNBC_Live.thumbs/MSNBCW_20130624_150000_MSNBC_Live_002445.jpg</field>
+<field name="snippet">taking very careful, calibrated steps to push issues of interest and who voted for him and climate change as a part of that. i think this is a situation in which he's willing to do it.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191225_090000_BBC_News#start/38/end/73</field>
+<field name="datetime">12/25/2019 9:00:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191225_090000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191225_090000_BBC_News/BBCNEWS_20191225_090000_BBC_News.thumbs/BBCNEWS_20191225_090000_BBC_News_000058.jpg</field>
+<field name="snippet">morning to see the royals. the dean of westminster abbey says britain is in need of the hope offered by the christmas story. and i will be looking back on a year when greta thunberg scolded world leaders for inaction on climate</field>
+</doc>
+</add>

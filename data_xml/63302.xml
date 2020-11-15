@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190301_133000_BBC_News#start/0/end/34</field>
+<field name="datetime">3/1/2019 13:30:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190301_133000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190301_133000_BBC_News/BBCNEWS_20190301_133000_BBC_News.thumbs/BBCNEWS_20190301_133000_BBC_News_000028.jpg</field>
+<field name="snippet">which does clearly point to climate change. the british antarctic survey don't want anyone in the base during the coming polar winter. it's an unnecessary risk. and the base itself should be fine.</field>
+</doc>
+</add>

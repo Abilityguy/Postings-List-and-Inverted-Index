@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191203_100000_Victoria_Derbyshire#start/265/end/300</field>
+<field name="datetime">12/3/2019 10:04:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20191203_100000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191203_100000_Victoria_Derbyshire/BBCNEWS_20191203_100000_Victoria_Derbyshire.thumbs/BBCNEWS_20191203_100000_Victoria_Derbyshire_000238.jpg</field>
+<field name="snippet">a catamaran carrying climate change activist greta thunberg is approaching a port in lisbon, after a 20 day crossing from new york. the swedish campaigner made the journey across the atlantic in la vagabonde, as she refuses to travel by plane. she will be attending that c0 p25 climate summit in madrid after meetings</field>
+</doc>
+</add>

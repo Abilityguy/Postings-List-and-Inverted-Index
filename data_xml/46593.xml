@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201302.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130214_030000_The_Last_Word#start/226/end/261</field>
+<field name="datetime">2/14/2013 3:04:01</field>
+<field name="station">MSNBC</field>
+<field name="show">The Last Word</field>
+<field name="showid">MSNBCW_20130214_030000_The_Last_Word</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130214_030000_The_Last_Word/MSNBCW_20130214_030000_The_Last_Word.thumbs/MSNBCW_20130214_030000_The_Last_Word_000226.jpg</field>
+<field name="snippet">an american jobs act, the manufacturing hopes, the tax reform, and entitlement reform. a comprehensive immigration reform bill in the next few months. a bipartisan market-based solution to climate change. give every responsible homeowner</field>
+</doc>
+</add>

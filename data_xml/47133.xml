@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201101.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110101_120000_MSNBC_News_Live#start/2468/end/2503</field>
+<field name="datetime">1/1/2011 12:41:23</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20110101_120000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20110101_120000_MSNBC_News_Live/MSNBC_20110101_120000_MSNBC_News_Live.thumbs/MSNBC_20110101_120000_MSNBC_News_Live_002454.jpg</field>
+<field name="snippet">he beats his old record by six minutes. he staged the stunt to call attention to global warming. i can't believe he can still move after that.</field>
+</doc>
+</add>

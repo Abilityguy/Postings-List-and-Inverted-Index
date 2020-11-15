@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_170000_BBC_News_at_Five#start/487/end/522</field>
+<field name="datetime">1/16/2020 17:08:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20200116_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_170000_BBC_News_at_Five/BBCNEWS_20200116_170000_BBC_News_at_Five.thumbs/BBCNEWS_20200116_170000_BBC_News_at_Five_000477.jpg</field>
+<field name="snippet">either. clive myrie, bbc news, in southeast australia. lorraine whitmarsh is a professor of environmental psychology at the university of cardiff, where she's director of the uk centre for climate change and social transformations. shejoins me now</field>
+</doc>
+</add>

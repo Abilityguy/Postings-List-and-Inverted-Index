@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_180000_BBC_News_at_Six#start/807/end/842</field>
+<field name="datetime">1/17/2020 18:13:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20200117_180000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_180000_BBC_News_at_Six/BBCNEWS_20200117_180000_BBC_News_at_Six.thumbs/BBCNEWS_20200117_180000_BBC_News_at_Six_000808.jpg</field>
+<field name="snippet">glasgow, which is hosting a major un climate change summit later this year, is one of them. it's promising to achieve the ambition by radically cutting emissions - and planting enough trees to absorb the carbon in any remaining fumes. 0ur science editor david shukman</field>
+</doc>
+</add>

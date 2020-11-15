@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140513_200000_NOW_With_Alex_Wagner#start/2822/end/2857</field>
+<field name="datetime">5/13/2014 20:47:17</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20140513_200000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140513_200000_NOW_With_Alex_Wagner/MSNBCW_20140513_200000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20140513_200000_NOW_With_Alex_Wagner_002806.jpg</field>
+<field name="snippet">a study came out about dire consequences for the united states and the world unless we cut greenhouse gas emissions and address the crisis of climate change. the keystone pipeline, if we pass that, this will be a signal</field>
+</doc>
+</add>

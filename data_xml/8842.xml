@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201803.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20180331_070000_All_In_With_Chris_Hayes#start/61/end/96</field>
+<field name="datetime">3/31/2018 7:01:16</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20180331_070000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20180331_070000_All_In_With_Chris_Hayes/MSNBCW_20180331_070000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20180331_070000_All_In_With_Chris_Hayes_000058.jpg</field>
+<field name="snippet">good evening from new york. i'm chris hayes. it looks like the climate change skeptic that donald trump installed to lead the epa scott pruitt, took a bribe from the wife of a top energy lobbyist who gave him a sweetheart deal on a condo where he lives for six months last year.</field>
+</doc>
+</add>

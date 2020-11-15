@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190506_103000_Weather_World#start/305/end/340</field>
+<field name="datetime">5/6/2019 10:35:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20190506_103000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190506_103000_Weather_World/BBCNEWS_20190506_103000_Weather_World.thumbs/BBCNEWS_20190506_103000_Weather_World_000298.jpg</field>
+<field name="snippet">the peak in insect abundance will have changed and they will not be able to feed their chicks. so, looking ahead, what are the potential implications in the future for bird population numbers, for instance, with climate change and also habitat loss as well? well, if birds cannot adapt,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191106_040000_BBC_News#start/25/end/60</field>
+<field name="datetime">11/6/2019 4:00:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191106_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191106_040000_BBC_News/BBCNEWS_20191106_040000_BBC_News.thumbs/BBCNEWS_20191106_040000_BBC_News_000029.jpg</field>
+<field name="snippet">catastrophic climate change. pressure builds on president trump as a key witness in the impeachment inquiry says ukraine was told to investigate a democratic rival to get us military aid. nine us citizens including six</field>
+</doc>
+</add>

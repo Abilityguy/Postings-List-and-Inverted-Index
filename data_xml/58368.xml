@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181122_110000_BBC_Newsroom_Live#start/1842/end/1877</field>
+<field name="datetime">11/22/2018 11:30:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20181122_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181122_110000_BBC_Newsroom_Live/BBCNEWS_20181122_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20181122_110000_BBC_Newsroom_Live_001827.jpg</field>
+<field name="snippet">organisation is warning that the window of opportunity to tackle climate change is almost closing. its latest survey has found that greenhouse gases reached record high levels in 2017. united nations experts say there's no sign of a reversal in the upward trend of carbon emissions - which increase the risk</field>
+</doc>
+</add>

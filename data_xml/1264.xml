@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170515_023000_Dateline_London#start/16/end/51</field>
+<field name="datetime">5/15/2017 2:30:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Dateline London</field>
+<field name="showid">BBCNEWS_20170515_023000_Dateline_London</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170515_023000_Dateline_London/BBCNEWS_20170515_023000_Dateline_London.thumbs/BBCNEWS_20170515_023000_Dateline_London_000058.jpg</field>
+<field name="snippet">it has joined japan in calling for an emergency meeting of the un security council. emmanuel macron has promised to restore france's global standing, after being sworn in as the country's youngest president. he promised to tackle great challenges, including migration, terrorism and climate change. one of his first tasks will be to name a new prime minister.</field>
+</doc>
+</add>

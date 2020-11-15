@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201502.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150225_220000_The_Five#start/2648/end/2683</field>
+<field name="datetime">2/25/2015 22:44:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20150225_220000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150225_220000_The_Five/FOXNEWSW_20150225_220000_The_Five.thumbs/FOXNEWSW_20150225_220000_The_Five_002625.jpg</field>
+<field name="snippet">i'm not sure why people are listening to bill nye on climate change or how to solve the anti-semitism in europe. but i will tell you why is anti-semitism growing here? we have a president who will not meet with bibi netanyahu when he</field>
+</doc>
+</add>

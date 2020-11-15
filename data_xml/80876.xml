@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191017_090000_Fox_and_Friends_First#start/2148/end/2183</field>
+<field name="datetime">10/17/2019 9:36:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20191017_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191017_090000_Fox_and_Friends_First/FOXNEWSW_20191017_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20191017_090000_Fox_and_Friends_First_002158.jpg</field>
+<field name="snippet">during the 3-hour debate the cnn and new york times moderators didn't ask one question on this issue. they also did not ask questions about other critical issues like housing, climate change and china. it seemed the first two hours of</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201012.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101202_180000_America_Live#start/991/end/1026</field>
+<field name="datetime">12/2/2010 18:16:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWS_20101202_180000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101202_180000_America_Live/FOXNEWS_20101202_180000_America_Live.thumbs/FOXNEWS_20101202_180000_America_Live_000990.jpg</field>
+<field name="snippet">nancy pelosi established the house celebrity committee on energy independence and global warming back in 2007.</field>
+</doc>
+</add>

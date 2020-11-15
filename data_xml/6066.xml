@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190925_130000_Afternoon_Live#start/1692/end/1727</field>
+<field name="datetime">9/25/2019 13:28:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190925_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190925_130000_Afternoon_Live/BBCNEWS_20190925_130000_Afternoon_Live.thumbs/BBCNEWS_20190925_130000_Afternoon_Live_001678.jpg</field>
+<field name="snippet">richard lister, bbc news. a new un report by leading scientists say climate change is devastating our seas and ice caps as never before and threatening</field>
+</doc>
+</add>

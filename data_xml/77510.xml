@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191127_010000_Newsday#start/1804/end/1839</field>
+<field name="datetime">11/27/2019 1:30:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191127_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191127_010000_Newsday/BBCNEWS_20191127_010000_Newsday.thumbs/BBCNEWS_20191127_010000_Newsday_001768.jpg</field>
+<field name="snippet">our top story: a new warning from the united nations that time is running out to stop temperatures rising and a climate disaster. our current targets to cut greenhouse gas emissions are short of the limit agreed under the paris climate accord. the un says global emissions need to fall by more than 7% every year over the next decade to stop warming</field>
+</doc>
+</add>

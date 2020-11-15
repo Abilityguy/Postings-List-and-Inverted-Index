@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201511.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151130_160000_MSNBC_Live_With_Tamron_Hall#start/2123/end/2158</field>
+<field name="datetime">11/30/2015 16:35:38</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Tamron Hall</field>
+<field name="showid">MSNBCW_20151130_160000_MSNBC_Live_With_Tamron_Hall</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151130_160000_MSNBC_Live_With_Tamron_Hall/MSNBCW_20151130_160000_MSNBC_Live_With_Tamron_Hall.thumbs/MSNBCW_20151130_160000_MSNBC_Live_With_Tamron_Hall_002116.jpg</field>
+<field name="snippet">obviously the underlying meeting about climate change. so definitely president obama has tried to strike that note of resolve several times that we've seen already in his first day here on the ground in paris. kelly, thank you very much.</field>
+</doc>
+</add>

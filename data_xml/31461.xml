@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090712_110000_FOX_and_Friends_Sunday#start/6073/end/6108</field>
+<field name="datetime">7/12/2009 12:41:28</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWS_20090712_110000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090712_110000_FOX_and_Friends_Sunday/FOXNEWS_20090712_110000_FOX_and_Friends_Sunday.thumbs/FOXNEWS_20090712_110000_FOX_and_Friends_Sunday_006060.jpg</field>
+<field name="snippet">glover's reef off the coast of belize and we're doing coral research all over the globe. and one thing of the things our scientists are finding there are different reefs more vulnerable and less to climate change and many oceans-- if the coral reefs die,</field>
+</doc>
+</add>

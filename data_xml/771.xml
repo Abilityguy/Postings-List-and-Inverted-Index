@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171107_200000_BBC_News#start/2992/end/3027</field>
+<field name="datetime">11/7/2017 20:50:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171107_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171107_200000_BBC_News/BBCNEWS_20171107_200000_BBC_News.thumbs/BBCNEWS_20171107_200000_BBC_News_002967.jpg</field>
+<field name="snippet">the latest paradise papers revelations show prince charles campaigned for climate-change agreements to be altered without disclosing that his private estate had a financial interest in the reforms. a former welsh government minister has been found dead, just days after being sacked over misconduct allegations.</field>
+</doc>
+</add>

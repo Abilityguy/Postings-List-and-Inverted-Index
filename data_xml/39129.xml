@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100410_100000_The_OReilly_Factor#start/155/end/190</field>
+<field name="datetime">4/10/2010 10:02:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20100410_100000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100410_100000_The_OReilly_Factor/FOXNEWS_20100410_100000_The_OReilly_Factor.thumbs/FOXNEWS_20100410_100000_The_OReilly_Factor_000146.jpg</field>
+<field name="snippet">republicans, polls showing on climate change and health care, republicans are winning. the public believes the government is out-of-control and we need to get back to personal responsibility, fiscal restraint, and a strong</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091023_100000_FOX_and_Friends#start/5536/end/5571</field>
+<field name="datetime">10/23/2009 11:32:31</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091023_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091023_100000_FOX_and_Friends/FOXNEWS_20091023_100000_FOX_and_Friends.thumbs/FOXNEWS_20091023_100000_FOX_and_Friends_005507.jpg</field>
+<field name="snippet">most dangerous people on earth. steve: number three. mateys. remember last winter how cold it was across the plain states. i said despite it being bitterly cold outside the plains we hear a lot of the global warming is</field>
+</doc>
+</add>

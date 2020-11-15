@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201104.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110407_090000_First_Look#start/794/end/829</field>
+<field name="datetime">4/7/2011 9:13:29</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBC_20110407_090000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBC_20110407_090000_First_Look/MSNBC_20110407_090000_First_Look.thumbs/MSNBC_20110407_090000_First_Look_000626.jpg</field>
+<field name="snippet">welcome back to 'first look.' here are some of your top headlines this morning. the senate has rejected a republican effort to block the environmental protection agency from regulating greenhouse gases. the measure would have repealed a 2009 finding by federal</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140205_140000_Americas_Newsroom#start/3999/end/4034</field>
+<field name="datetime">2/5/2014 15:06:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWSW_20140205_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140205_140000_Americas_Newsroom/FOXNEWSW_20140205_140000_Americas_Newsroom.thumbs/FOXNEWSW_20140205_140000_Americas_Newsroom_003975.jpg</field>
+<field name="snippet">the agriculture secretary is announc announced seven climate departments to deal with climate</field>
+</doc>
+</add>

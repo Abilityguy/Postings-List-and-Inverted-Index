@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190316_100000_Fox_and_Friends_Saturday#start/9117/end/9152</field>
+<field name="datetime">3/16/2019 12:32:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20190316_100000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190316_100000_Fox_and_Friends_Saturday/FOXNEWSW_20190316_100000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20190316_100000_Fox_and_Friends_Saturday_009118.jpg</field>
+<field name="snippet">rachel: [laughter] he looks tired. ed: plus talk about someone with some potential. beto o'rourke compares climate change to storming the beaches in normandie, really? they showed it to us, they</field>
+</doc>
+</add>

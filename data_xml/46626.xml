@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201302.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130214_080000_The_Ed_Show#start/225/end/260</field>
+<field name="datetime">2/14/2013 8:04:00</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20130214_080000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130214_080000_The_Ed_Show/MSNBCW_20130214_080000_The_Ed_Show.thumbs/MSNBCW_20130214_080000_The_Ed_Show_000225.jpg</field>
+<field name="snippet">policies. the public is on the side of the president when it comes to climate change. he spoke about taking executive action to reduce carbon pollution. and voters, well, they agreed with him. the president announced a major infrastructure program.</field>
+</doc>
+</add>

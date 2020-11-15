@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201802.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180227_060000_Breakfast#start/2236/end/2271</field>
+<field name="datetime">2/27/2018 6:37:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20180227_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180227_060000_Breakfast/BBCNEWS_20180227_060000_Breakfast.thumbs/BBCNEWS_20180227_060000_Breakfast_002217.jpg</field>
+<field name="snippet">as 70% of the world's king penguins will be forced to relocate, or could disappear over the next 80 years, because of global warming. it's thought over a million breeding pairs could struggle to find food</field>
+</doc>
+</add>

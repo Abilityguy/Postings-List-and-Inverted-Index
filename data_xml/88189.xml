@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191218_110000_BBC_Newsroom_Live#start/1541/end/1576</field>
+<field name="datetime">12/18/2019 11:25:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20191218_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191218_110000_BBC_Newsroom_Live/BBCNEWS_20191218_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20191218_110000_BBC_Newsroom_Live_001528.jpg</field>
+<field name="snippet">the bank of england says britain's top banks and insurers should be tested - to work out the potential financial hit from climate change to their businesses. in a discussion paper asking for industry feedback , the bank predicted this could happen for the first time as soon as 2021. dr charles donovan is the executive director</field>
+</doc>
+</add>

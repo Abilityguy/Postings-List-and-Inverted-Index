@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190731_120000_BBC_News_at_One#start/1141/end/1176</field>
+<field name="datetime">7/31/2019 12:19:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190731_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190731_120000_BBC_News_at_One/BBCNEWS_20190731_120000_BBC_News_at_One.thumbs/BBCNEWS_20190731_120000_BBC_News_at_One_001138.jpg</field>
+<field name="snippet">after flash flooding, new research shows how climate change is warming the uk. scientists at the met office say all 10 of the warmest years on record have occurred since 2002. more details from our environment correspondent matt mcgrath.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_020000_BBC_News#start/938/end/973</field>
+<field name="datetime">12/3/2018 2:15:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181203_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_020000_BBC_News/BBCNEWS_20181203_020000_BBC_News.thumbs/BBCNEWS_20181203_020000_BBC_News_000927.jpg</field>
+<field name="snippet">the un warns the threat posed to all of us by climate change has never been this serious as a global climate summit opens with a push to cut emissions. the french government says it will use the full force of the law to pursue those</field>
+</doc>
+</add>

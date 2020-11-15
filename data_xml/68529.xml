@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201309.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130909_080000_MediaBuzz#start/3410/end/3445</field>
+<field name="datetime">9/9/2013 8:57:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">MediaBuzz</field>
+<field name="showid">FOXNEWSW_20130909_080000_MediaBuzz</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130909_080000_MediaBuzz/FOXNEWSW_20130909_080000_MediaBuzz.thumbs/FOXNEWSW_20130909_080000_MediaBuzz_003405.jpg</field>
+<field name="snippet">together not just for our two nations but to our entire world. just a few minutes ago the secretary and i spoke about the importance of our continued cooperation on a full range of issues from climate change to the pursuit of peace between the</field>
+</doc>
+</add>

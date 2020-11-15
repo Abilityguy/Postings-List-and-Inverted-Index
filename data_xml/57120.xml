@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181127_230000_Special_Report_With_Bret_Baier#start/1495/end/1530</field>
+<field name="datetime">11/27/2018 23:25:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20181127_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181127_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20181127_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20181127_230000_Special_Report_With_Bret_Baier_001497.jpg</field>
+<field name="snippet">targets for cutting greenhouse gases. just some of the stories beyond our borders tonight, we'll be right back.</field>
+</doc>
+</add>

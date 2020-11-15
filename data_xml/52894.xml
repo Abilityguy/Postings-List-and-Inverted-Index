@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180608_073000_BBC_Business_Live#start/952/end/987</field>
+<field name="datetime">6/8/2018 7:46:07</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Business Live</field>
+<field name="showid">BBCNEWS_20180608_073000_BBC_Business_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180608_073000_BBC_Business_Live/BBCNEWS_20180608_073000_BBC_Business_Live.thumbs/BBCNEWS_20180608_073000_BBC_Business_Live_000927.jpg</field>
+<field name="snippet">our top story: later today the leaders of the world's seven biggest economies will meet in canada to discuss a range of issues including global trade and climate change. the summit takes place against a backdrop of protectionism after the us decided to impose a 25% tariff on steel and a 10% levy</field>
+</doc>
+</add>

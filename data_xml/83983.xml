@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190417_003000_Asia_Business_Report#start/60/end/95</field>
+<field name="datetime">4/17/2019 0:31:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Asia Business Report</field>
+<field name="showid">BBCNEWS_20190417_003000_Asia_Business_Report</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190417_003000_Asia_Business_Report/BBCNEWS_20190417_003000_Asia_Business_Report.thumbs/BBCNEWS_20190417_003000_Asia_Business_Report_000058.jpg</field>
+<field name="snippet">and the top story in the uk: nearly 300 climate change activists have been arrested after roads were blocked in central london for a second day. eye will be back shortly. now on bbc news, live to singapore</field>
+</doc>
+</add>

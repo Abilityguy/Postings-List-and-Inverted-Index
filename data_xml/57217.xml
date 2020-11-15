@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181126_230000_Special_Report_With_Bret_Baier#start/1955/end/1990</field>
+<field name="datetime">11/26/2018 23:32:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20181126_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181126_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20181126_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20181126_230000_Special_Report_With_Bret_Baier_001947.jpg</field>
+<field name="snippet">temperatures in the u.s. are 13 grades higher, caesar 9 inches higher, wildfires are more severe, climate change could cuts by 10 percent by 2100 if te are no changes. regional people can differ</field>
+</doc>
+</add>

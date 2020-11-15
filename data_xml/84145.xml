@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190410_090000_Victoria_Derbyshire#start/8/end/43</field>
+<field name="datetime">4/10/2019 9:00:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Victoria Derbyshire</field>
+<field name="showid">BBCNEWS_20190410_090000_Victoria_Derbyshire</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190410_090000_Victoria_Derbyshire/BBCNEWS_20190410_090000_Victoria_Derbyshire.thumbs/BBCNEWS_20190410_090000_Victoria_Derbyshire_000028.jpg</field>
+<field name="snippet">hello. it's wednesday, it's ten o'clock, i'm victoria derbyshire. they're threatening major disruption of the capital next week in protest at climate change. this programme has been behind the scenes with extinction rebellion to meet the activists aiming to be arrested.</field>
+</doc>
+</add>

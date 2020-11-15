@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191116_170000_BBC_News#start/1364/end/1399</field>
+<field name="datetime">11/16/2019 17:22:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191116_170000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191116_170000_BBC_News/BBCNEWS_20191116_170000_BBC_News.thumbs/BBCNEWS_20191116_170000_BBC_News_001347.jpg</field>
+<field name="snippet">elsewhere, the conservatives and the liberal democrats are both promising to plant millions of trees to tackle climate change, if they win the election. liberal democrat leaderjo swinson says the party would plant 60 million trees every year across the uk by 2025, while the tories are pledging to plant 30 million.</field>
+</doc>
+</add>

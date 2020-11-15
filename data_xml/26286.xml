@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201003.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100312_160000_Happening_Now#start/1371/end/1406</field>
+<field name="datetime">3/12/2010 16:23:06</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20100312_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100312_160000_Happening_Now/FOXNEWS_20100312_160000_Happening_Now.thumbs/FOXNEWS_20100312_160000_Happening_Now_001345.jpg</field>
+<field name="snippet">pillars. those three pillars were investments in education and innovation, which go together, investments in n. and climate change, and investments, first among equals, in health care. we have passed all three of those bills. two of them, the education</field>
+</doc>
+</add>

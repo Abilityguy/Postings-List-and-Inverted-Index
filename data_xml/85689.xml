@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201709.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170909_100000_BBC_News#start/1762/end/1797</field>
+<field name="datetime">9/9/2017 10:29:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170909_100000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170909_100000_BBC_News/BBCNEWS_20170909_100000_BBC_News.thumbs/BBCNEWS_20170909_100000_BBC_News_001737.jpg</field>
+<field name="snippet">us. irma, jose and katia. three devastating hurricanes have been tearing their way across the carribbean this week. at the time of our discussion there is a mass exodus from florida, where 25% of the state's population has been ordered to leave. are these storms are a result of climate change?</field>
+</doc>
+</add>

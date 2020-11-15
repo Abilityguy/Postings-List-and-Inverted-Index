@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201311.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20131111_190000_News_Nation#start/559/end/594</field>
+<field name="datetime">11/11/2013 19:09:34</field>
+<field name="station">MSNBC</field>
+<field name="show">News Nation</field>
+<field name="showid">MSNBCW_20131111_190000_News_Nation</field>
+<field name="preview">https://archive.org/download/MSNBCW_20131111_190000_News_Nation/MSNBCW_20131111_190000_News_Nation.thumbs/MSNBCW_20131111_190000_News_Nation_000556.jpg</field>
+<field name="snippet">nation.msnbc.com page. also able to discuss what we're seeing and how this is impacted the conversation on climate change and desire to help others. as we mention the, there are marines helping to distribute some of the much needed aid.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190907_123000_Inside_Out_West#start/226/end/261</field>
+<field name="datetime">9/7/2019 12:34:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Inside Out West</field>
+<field name="showid">BBCNEWS_20190907_123000_Inside_Out_West</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190907_123000_Inside_Out_West/BBCNEWS_20190907_123000_Inside_Out_West.thumbs/BBCNEWS_20190907_123000_Inside_Out_West_000208.jpg</field>
+<field name="snippet">now on bbc news: an inside out west climate change special - with exclusive access to the campaign group, extinction rebellion. exclusive interviews with the people behind extinction rebellion. i know it sounds a bit odd, but i did know since being nine that there was something going to come. and i've been preparing.</field>
+</doc>
+</add>

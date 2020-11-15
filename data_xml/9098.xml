@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190824_220000_FOX_Report_With_Jon_Scott#start/2685/end/2720</field>
+<field name="datetime">8/24/2019 22:45:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report With Jon Scott</field>
+<field name="showid">FOXNEWSW_20190824_220000_FOX_Report_With_Jon_Scott</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190824_220000_FOX_Report_With_Jon_Scott/FOXNEWSW_20190824_220000_FOX_Report_With_Jon_Scott.thumbs/FOXNEWSW_20190824_220000_FOX_Report_With_Jon_Scott_002668.jpg</field>
+<field name="snippet">the great smoky notice national park. the southeast on tropical storm watch. we'll collect forecast next. climate change has been front and center. why people in one early voting state say it's become a kitchen</field>
+</doc>
+</add>

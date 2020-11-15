@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170805_060000_Breakfast#start/1832/end/1867</field>
+<field name="datetime">8/5/2017 6:30:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20170805_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170805_060000_Breakfast/BBCNEWS_20170805_060000_Breakfast.thumbs/BBCNEWS_20170805_060000_Breakfast_001828.jpg</field>
+<field name="snippet">researchers in italy say urgent action is needed to curb the effects of climate change. people closely connected to the video sharing site youtube have told the bbc that the company's child protection measures are failing. they say the site has a huge backlog of reports about potential grooming and accounts which exploit children.</field>
+</doc>
+</add>

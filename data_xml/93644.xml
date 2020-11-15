@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190726_180000_BBC_News#start/2740/end/2775</field>
+<field name="datetime">7/26/2019 18:45:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190726_180000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190726_180000_BBC_News/BBCNEWS_20190726_180000_BBC_News.thumbs/BBCNEWS_20190726_180000_BBC_News_002727.jpg</field>
+<field name="snippet">engulfed in flames. although lightning frequently triggers fires in the region, this year they have been worsened by summer temperatures that are higher than average because of climate change. plumes of smoke from the fires can be seen from space.</field>
+</doc>
+</add>

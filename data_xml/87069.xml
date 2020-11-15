@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191231_163000_Weather_World#start/1086/end/1121</field>
+<field name="datetime">12/31/2019 16:48:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20191231_163000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191231_163000_Weather_World/BBCNEWS_20191231_163000_Weather_World.thumbs/BBCNEWS_20191231_163000_Weather_World_001079.jpg</field>
+<field name="snippet">of the climate protest movement. addressing the conference, she said not enough is being done to combat the climate crisis. to stay below 1.5 degrees, we need to keep the carbon in the ground.</field>
+</doc>
+</add>

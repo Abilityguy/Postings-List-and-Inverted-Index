@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190308_030000_BBC_News#start/1227/end/1262</field>
+<field name="datetime">3/8/2019 3:20:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190308_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190308_030000_BBC_News/BBCNEWS_20190308_030000_BBC_News.thumbs/BBCNEWS_20190308_030000_BBC_News_001199.jpg</field>
+<field name="snippet">our science editor david shukman reports on what the long-term impact of climate change could be. a torrent of water pouring off the greenland ice sheet. there's so much ice locked away</field>
+</doc>
+</add>

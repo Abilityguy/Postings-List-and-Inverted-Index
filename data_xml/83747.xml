@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190419_200000_World_News_Today#start/32/end/67</field>
+<field name="datetime">4/19/2019 20:00:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190419_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190419_200000_World_News_Today/BBCNEWS_20190419_200000_World_News_Today.thumbs/BBCNEWS_20190419_200000_World_News_Today_000059.jpg</field>
+<field name="snippet">of climate change protests. in central london, more than a thousand police officers move in and surround activists.</field>
+</doc>
+</add>

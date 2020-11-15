@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181130_030000_BBC_News#start/49/end/84</field>
+<field name="datetime">11/30/2018 3:01:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181130_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181130_030000_BBC_News/BBCNEWS_20181130_030000_BBC_News.thumbs/BBCNEWS_20181130_030000_BBC_News_000057.jpg</field>
+<field name="snippet">and tackling climate change - why reducing greenhouse gas emissions will not be enough. hello. a startling new development in the mueller inquiry into russian interference in the presidential election and whether the trump campaign colluded with russia to influence the result. president trump's former personal</field>
+</doc>
+</add>

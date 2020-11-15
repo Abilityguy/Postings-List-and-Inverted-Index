@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091023_100000_FOX_and_Friends#start/4289/end/4324</field>
+<field name="datetime">10/23/2009 11:11:44</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091023_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091023_100000_FOX_and_Friends/FOXNEWS_20091023_100000_FOX_and_Friends.thumbs/FOXNEWS_20091023_100000_FOX_and_Friends_004249.jpg</field>
+<field name="snippet">gretchen: i thought it was the responsibility of taking the dog out and feed them. no, not apparently. your dog or cat could be contributing to global warming. one outfit want you to try a different sort of a pet. they have come up with possibly a chicken.</field>
+</doc>
+</add>

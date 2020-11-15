@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201609.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160904_170000_Americas_Election_HQ#start/2820/end/2855</field>
+<field name="datetime">9/4/2016 17:47:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Election HQ</field>
+<field name="showid">FOXNEWSW_20160904_170000_Americas_Election_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160904_170000_Americas_Election_HQ/FOXNEWSW_20160904_170000_Americas_Election_HQ.thumbs/FOXNEWSW_20160904_170000_Americas_Election_HQ_002817.jpg</field>
+<field name="snippet">conflicts, whether it's climate change or disaster relief or dealing with things like ebola. where we see them violating the rules and norms as we have seen in some cases in the south china sea or in some of their behavior</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190602_210000_BBC_News#start/366/end/401</field>
+<field name="datetime">6/2/2019 21:06:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190602_210000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190602_210000_BBC_News/BBCNEWS_20190602_210000_BBC_News.thumbs/BBCNEWS_20190602_210000_BBC_News_000358.jpg</field>
+<field name="snippet">on iran and climate change as donald trump looks beyond theresa may to who will be the next prime minister. thank you. liverpool's footballers have been celebrating their champions league victory with an open top bus parade through the city. merseyside police estimate three quarters of a million fans turned</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201807.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180721_230000_BBC_News#start/770/end/805</field>
+<field name="datetime">7/21/2018 23:13:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180721_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180721_230000_BBC_News/BBCNEWS_20180721_230000_BBC_News.thumbs/BBCNEWS_20180721_230000_BBC_News_000748.jpg</field>
+<field name="snippet">at the norwegian meteorological institute. i think it is busily related to climate change. it is difficult to</field>
+</doc>
+</add>

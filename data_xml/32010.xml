@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201012.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101209_090000_Special_Report_With_Bret_Baier#start/1966/end/2001</field>
+<field name="datetime">12/9/2010 9:33:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20101209_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101209_090000_Special_Report_With_Bret_Baier/FOXNEWS_20101209_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20101209_090000_Special_Report_With_Bret_Baier_001945.jpg</field>
+<field name="snippet">spokesman calls the operation nimble, and notes the situation in congress changed. so our strategies and tactics changed along with it. united nations climate negotiators continue to talk in mexico about fighting global warming, as the host</field>
+</doc>
+</add>

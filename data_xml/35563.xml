@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201904.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190414_140000_AM_Joy#start/3996/end/4031</field>
+<field name="datetime">4/14/2019 15:06:51</field>
+<field name="station">MSNBC</field>
+<field name="show">AM Joy</field>
+<field name="showid">MSNBCW_20190414_140000_AM_Joy</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190414_140000_AM_Joy/MSNBCW_20190414_140000_AM_Joy.thumbs/MSNBCW_20190414_140000_AM_Joy_003987.jpg</field>
+<field name="snippet">former senator and secretary of state john kerry on the science of climate change. isn't it true you have a science degree from yale? bachelor of arts degree. is it a political science degree? yes, political science.</field>
+</doc>
+</add>

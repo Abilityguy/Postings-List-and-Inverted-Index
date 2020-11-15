@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201009.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100923_150000_MSNBC_News_Live#start/328/end/363</field>
+<field name="datetime">9/23/2010 15:05:43</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100923_150000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100923_150000_MSNBC_News_Live/MSNBC_20100923_150000_MSNBC_News_Live.thumbs/MSNBC_20100923_150000_MSNBC_News_Live_000300.jpg</field>
+<field name="snippet">thomas. but he also talked about the economy, not only the global economy, but america's role in helping to right the economic ship. he talked about trade, climate change and it all ties in. here's more on what he had to say on that topic.</field>
+</doc>
+</add>

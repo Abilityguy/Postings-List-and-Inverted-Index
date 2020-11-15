@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190511_060000_Breakfast#start/3628/end/3663</field>
+<field name="datetime">5/11/2019 7:00:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190511_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190511_060000_Breakfast/BBCNEWS_20190511_060000_Breakfast.thumbs/BBCNEWS_20190511_060000_Breakfast_003568.jpg</field>
+<field name="snippet">that's all from us. we will be back to hear your thoughts about bbc news coverage again in the next week. goodbye. good morning, welcome to breakfast with charlie stayt and tina daheley. 0ur headlines today: concerns over climate change could restrict air travel</field>
+</doc>
+</add>

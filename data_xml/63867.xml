@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201404.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140412_160000_Weekends_With_Alex_Witt#start/4964/end/4999</field>
+<field name="datetime">4/12/2014 17:22:59</field>
+<field name="station">MSNBC</field>
+<field name="show">Weekends With Alex Witt</field>
+<field name="showid">MSNBCW_20140412_160000_Weekends_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140412_160000_Weekends_With_Alex_Witt/MSNBCW_20140412_160000_Weekends_With_Alex_Witt.thumbs/MSNBCW_20140412_160000_Weekends_With_Alex_Witt_004965.jpg</field>
+<field name="snippet">if you're an individual, if you're an american and you want to fight back against this and you object to a foreign corporation taking your land and you want to do something about climate change, you are putting yourself at great peril and you're going to be crushed by</field>
+</doc>
+</add>

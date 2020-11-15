@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201612.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161211_110000_Fox_and_Friends_Sunday#start/6485/end/6520</field>
+<field name="datetime">12/11/2016 12:48:20</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20161211_110000_Fox_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161211_110000_Fox_and_Friends_Sunday/FOXNEWSW_20161211_110000_Fox_and_Friends_Sunday.thumbs/FOXNEWSW_20161211_110000_Fox_and_Friends_Sunday_006478.jpg</field>
+<field name="snippet">i might not agree with the pope or with another bishop or another priest or another catholic on the specifics of, for example, the science of global warming. i may or may yot. that's not the issue here. the issue is we have to</field>
+</doc>
+</add>

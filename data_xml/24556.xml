@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201607.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160726_020000_Americas_Election_HQ#start/2546/end/2581</field>
+<field name="datetime">7/26/2016 2:42:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Election HQ</field>
+<field name="showid">FOXNEWSW_20160726_020000_Americas_Election_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160726_020000_Americas_Election_HQ/FOXNEWSW_20160726_020000_Americas_Election_HQ.thumbs/FOXNEWSW_20160726_020000_Americas_Election_HQ_002547.jpg</field>
+<field name="snippet">washington, that science matters, that climate change is real. hillary will fight to preserve this earth for our children and grandchildren, and we're with her.</field>
+</doc>
+</add>

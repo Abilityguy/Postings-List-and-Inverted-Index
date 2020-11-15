@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201403.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140307_210000_Your_World_With_Neil_Cavuto#start/2631/end/2666</field>
+<field name="datetime">3/7/2014 21:44:06</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20140307_210000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140307_210000_Your_World_With_Neil_Cavuto/FOXNEWSW_20140307_210000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20140307_210000_Your_World_With_Neil_Cavuto_002625.jpg</field>
+<field name="snippet">but it's -- this is a problem that takes generation, maybe millenia to resolve and they think they're going to resolve it by staying up late. this is a situation complaining about global warming.</field>
+</doc>
+</add>

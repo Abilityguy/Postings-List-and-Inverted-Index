@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170805_180000_BBC_News#start/879/end/914</field>
+<field name="datetime">8/5/2017 18:14:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170805_180000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170805_180000_BBC_News/BBCNEWS_20170805_180000_BBC_News.thumbs/BBCNEWS_20170805_180000_BBC_News_000868.jpg</field>
+<field name="snippet">that local temperature has been rising for over a century, they are projected to rise much further and much faster in the later part of this century. that's if there is not a cutback in our greenhouse gas</field>
+</doc>
+</add>

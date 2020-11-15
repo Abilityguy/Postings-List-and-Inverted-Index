@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190725_010000_BBC_News#start/1116/end/1151</field>
+<field name="datetime">7/25/2019 1:18:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190725_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190725_010000_BBC_News/BBCNEWS_20190725_010000_BBC_News.thumbs/BBCNEWS_20190725_010000_BBC_News_001107.jpg</field>
+<field name="snippet">this contemporary global warming will impact ecosystems, people who are in vulnerable situations, people who are in low-lying areas, people with problems in getting access to food. there are many aspects. we are</field>
+</doc>
+</add>

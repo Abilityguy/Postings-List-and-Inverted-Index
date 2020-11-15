@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190422_193000_Weather_World#start/107/end/142</field>
+<field name="datetime">4/22/2019 19:32:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20190422_193000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190422_193000_Weather_World/BBCNEWS_20190422_193000_Weather_World.thumbs/BBCNEWS_20190422_193000_Weather_World_000088.jpg</field>
+<field name="snippet">police say more than 1000 people have been arrested after seven days of climate change protests. now on bbc news, it's time for the easter edition of weather world.</field>
+</doc>
+</add>

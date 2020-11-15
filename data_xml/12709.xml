@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170707_160000_BBC_News_at_Five#start/116/end/151</field>
+<field name="datetime">7/7/2017 16:02:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20170707_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170707_160000_BBC_News_at_Five/BBCNEWS_20170707_160000_BBC_News_at_Five.thumbs/BBCNEWS_20170707_160000_BBC_News_at_Five_000117.jpg</field>
+<field name="snippet">intervention in the us presidential election last year. the two men are due to have their official meeting later at the summit in hamburg. with issues including climate change on the agenda, police are out in force to try to keep protestors away from the summit venue.</field>
+</doc>
+</add>

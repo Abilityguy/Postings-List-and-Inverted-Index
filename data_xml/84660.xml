@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190405_040000_The_Briefing#start/12/end/47</field>
+<field name="datetime">4/5/2019 4:00:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20190405_040000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190405_040000_The_Briefing/BBCNEWS_20190405_040000_The_Briefing.thumbs/BBCNEWS_20190405_040000_The_Briefing_001287.jpg</field>
+<field name="snippet">researchers say the amount of new coral created on australia's great barrier reef has plummeted by nearly 90% as a result of ocean heatwaves. scientists warn the structure of the reef is likely to transform completely if more bleaching occurs because of climate change. caroline rigby has more. coral spawning on the great barrier reef. it's a natural wonder</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200115_190000_Beyond_100_Days#start/2166/end/2201</field>
+<field name="datetime">1/15/2020 19:36:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20200115_190000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200115_190000_Beyond_100_Days/BBCNEWS_20200115_190000_Beyond_100_Days.thumbs/BBCNEWS_20200115_190000_Beyond_100_Days_002158.jpg</field>
+<field name="snippet">the impact on schools and hospitals. climate awareness is now higher than ever before, but scientists say it's action that's needed, by cutting greenhouse gas emissions to net zero by 2050. this, though, will require huge</field>
+</doc>
+</add>

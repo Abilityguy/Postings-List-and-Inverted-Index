@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190402_040000_Tucker_Carlson_Tonight#start/769/end/804</field>
+<field name="datetime">4/2/2019 4:13:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190402_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190402_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190402_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190402_040000_Tucker_Carlson_Tonight_000748.jpg</field>
+<field name="snippet">focus on, and they told us, perhaps not surprisingly, you worry about health care, food, and education. those were the top things that came out. at the very end, number 16, global warming. nott surprisingly, if you are</field>
+</doc>
+</add>

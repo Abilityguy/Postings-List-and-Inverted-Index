@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_223000_The_Papers#start/325/end/360</field>
+<field name="datetime">9/20/2019 22:35:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Papers</field>
+<field name="showid">BBCNEWS_20190920_223000_The_Papers</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_223000_The_Papers/BBCNEWS_20190920_223000_The_Papers.thumbs/BBCNEWS_20190920_223000_The_Papers_000298.jpg</field>
+<field name="snippet">many of tomorrow's front pages are already in. the guardian features today's protests around the world, calling for more action to stem climate change. the times also carries a picture of the climate protests and leads with thomas cook being on the brink of collapse.</field>
+</doc>
+</add>

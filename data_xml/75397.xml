@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201012.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101208_110000_Morning_Joe#start/6011/end/6046</field>
+<field name="datetime">12/8/2010 12:40:26</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20101208_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20101208_110000_Morning_Joe/MSNBC_20101208_110000_Morning_Joe.thumbs/MSNBC_20101208_110000_Morning_Joe_006000.jpg</field>
+<field name="snippet">week, we're celebrating it on friday. wow. let's talk about what you're doing on global warming. well, i'm basically just jawboning because i don't really have -- other than my chairmanship of the united</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201905.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190518_120000_Up_With_David_Gura#start/76/end/111</field>
+<field name="datetime">5/18/2019 12:01:31</field>
+<field name="station">MSNBC</field>
+<field name="show">Up With David Gura</field>
+<field name="showid">MSNBCW_20190518_120000_Up_With_David_Gura</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190518_120000_Up_With_David_Gura/MSNBCW_20190518_120000_Up_With_David_Gura.thumbs/MSNBCW_20190518_120000_Up_With_David_Gura_000058.jpg</field>
+<field name="snippet">waits for a phone call from tehran. head to iowa with a sit-down with governor ensley and his state on climate change. this is a demanding situation where we have people being flooded and burned out of their homes.</field>
+</doc>
+</add>

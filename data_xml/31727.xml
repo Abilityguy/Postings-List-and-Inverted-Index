@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201210.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121031_100000_FOX_and_Friends#start/2388/end/2423</field>
+<field name="datetime">10/31/2012 10:40:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20121031_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121031_100000_FOX_and_Friends/FOXNEWSW_20121031_100000_FOX_and_Friends.thumbs/FOXNEWSW_20121031_100000_FOX_and_Friends_002367.jpg</field>
+<field name="snippet">gretchen: al gore's flip side said it is a disturbing sign of things to come. global warming and storms are more powerful and that is his analysis. one thing that is true from governor cuomo in new york.</field>
+</doc>
+</add>

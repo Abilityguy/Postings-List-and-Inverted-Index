@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201612.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161220_210000_MSNBC_Live_With_Steve_Kornacki#start/2205/end/2240</field>
+<field name="datetime">12/20/2016 21:37:00</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Steve Kornacki</field>
+<field name="showid">MSNBCW_20161220_210000_MSNBC_Live_With_Steve_Kornacki</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161220_210000_MSNBC_Live_With_Steve_Kornacki/MSNBCW_20161220_210000_MSNBC_Live_With_Steve_Kornacki.thumbs/MSNBCW_20161220_210000_MSNBC_Live_With_Steve_Kornacki_002188.jpg</field>
+<field name="snippet">campaign or transition team is making good on the campaign promise to cut climate change spending and other, what they call wasteful spending. it comes out of the energy</field>
+</doc>
+</add>

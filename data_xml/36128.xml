@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201912.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191205_110000_Morning_Joe#start/9521/end/9556</field>
+<field name="datetime">12/5/2019 13:38:56</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20191205_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191205_110000_Morning_Joe/MSNBCW_20191205_110000_Morning_Joe.thumbs/MSNBCW_20191205_110000_Morning_Joe_009509.jpg</field>
+<field name="snippet">we have to change the entire discussion on climate change. a lot of people think, oh, it is ice melting up north, it is not going to affect me. folks, american citizens are dying of climate change already. mudslides, fires, floods, droughts, farms are being</field>
+</doc>
+</add>

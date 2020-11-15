@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190921_210000_BBC_News#start/976/end/1011</field>
+<field name="datetime">9/21/2019 21:16:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190921_210000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190921_210000_BBC_News/BBCNEWS_20190921_210000_BBC_News.thumbs/BBCNEWS_20190921_210000_BBC_News_000957.jpg</field>
+<field name="snippet">ambitious climate change targets, calls for a shorter working week but as we heard, the old divisions over brexit are reignited and what is interesting if i may point this out, you have a jeremy corbyn ally on the left of the party calling for labour</field>
+</doc>
+</add>

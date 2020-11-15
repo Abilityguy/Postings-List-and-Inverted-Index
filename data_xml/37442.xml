@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201401.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140116_230000_Special_Report_With_Bret_Baier#start/1020/end/1055</field>
+<field name="datetime">1/16/2014 23:17:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20140116_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140116_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20140116_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20140116_230000_Special_Report_With_Bret_Baier_001005.jpg</field>
+<field name="snippet">conservatives supporting a broad range of investment in new energy technologies, both applied and basic, so that whatever happens we're ready. that's a reference to climate change, the impetus behind the green car push, increasing skepticism about it and a</field>
+</doc>
+</add>

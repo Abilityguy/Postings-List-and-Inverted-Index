@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201712.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20171223_180000_MSNBC_Live_With_Alex_Witt#start/1230/end/1265</field>
+<field name="datetime">12/23/2017 18:20:45</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Alex Witt</field>
+<field name="showid">MSNBCW_20171223_180000_MSNBC_Live_With_Alex_Witt</field>
+<field name="preview">https://archive.org/download/MSNBCW_20171223_180000_MSNBC_Live_With_Alex_Witt/MSNBCW_20171223_180000_MSNBC_Live_With_Alex_Witt.thumbs/MSNBCW_20171223_180000_MSNBC_Live_With_Alex_Witt_001227.jpg</field>
+<field name="snippet">agenda, which was front and center during the campaign. not only the agenda for a weapons embargo to the middle east as well as a cease-fire real substantive action on climate change. we were calling for a green new</field>
+</doc>
+</add>

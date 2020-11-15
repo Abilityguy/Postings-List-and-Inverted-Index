@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201809.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180925_100000_BBC_Newsroom_Live#start/64/end/99</field>
+<field name="datetime">9/25/2018 10:01:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20180925_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180925_100000_BBC_Newsroom_Live/BBCNEWS_20180925_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20180925_100000_BBC_Newsroom_Live_000057.jpg</field>
+<field name="snippet">i believe that nations achieve more together than they do alone. i believe that the challenges facing oui' our nation, whether that's conflict, terrorism, climate change, those challenges are best met together with our eu partners. applause</field>
+</doc>
+</add>

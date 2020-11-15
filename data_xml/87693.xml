@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191212_100000_BBC_Newsroom_Live#start/1075/end/1110</field>
+<field name="datetime">12/12/2019 10:18:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20191212_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191212_100000_BBC_Newsroom_Live/BBCNEWS_20191212_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20191212_100000_BBC_Newsroom_Live_001047.jpg</field>
+<field name="snippet">there was this paris agreement agreed a few years ago under which the countries promised to do various things for climate change, principally, cut their emissions of gases that are causing heating. if you add up all the promises they</field>
+</doc>
+</add>

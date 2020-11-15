@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191012_020000_BBC_News#start/1206/end/1241</field>
+<field name="datetime">10/12/2019 2:20:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191012_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191012_020000_BBC_News/BBCNEWS_20191012_020000_BBC_News.thumbs/BBCNEWS_20191012_020000_BBC_News_001198.jpg</field>
+<field name="snippet">carbon products and activities. chris stark, the head of the committee on climate change, the body that commissioned the behaviour change report, says the government needs to raise its game. they have a plan of sorts, but not nearly at the level</field>
+</doc>
+</add>

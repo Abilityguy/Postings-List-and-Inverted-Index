@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201902.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190220_200000_MSNBC_Live_With_Ali_Velshi#start/3429/end/3464</field>
+<field name="datetime">2/20/2019 20:57:24</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190220_200000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190220_200000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190220_200000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190220_200000_MSNBC_Live_With_Ali_Velshi_003417.jpg</field>
+<field name="snippet">for a generation, it's been the pentagon that's been most concerned with american government about climate change because they understand just how dramatically it could destabilize the entire global order. this isn't just about coastal military installations getting</field>
+</doc>
+</add>

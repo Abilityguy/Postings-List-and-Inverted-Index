@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190510_030000_Fox_News__Night_With_Shannon_Bream#start/3183/end/3218</field>
+<field name="datetime">5/10/2019 3:53:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News  Night With Shannon Bream</field>
+<field name="showid">FOXNEWSW_20190510_030000_Fox_News__Night_With_Shannon_Bream</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190510_030000_Fox_News__Night_With_Shannon_Bream/FOXNEWSW_20190510_030000_Fox_News__Night_With_Shannon_Bream.thumbs/FOXNEWSW_20190510_030000_Fox_News__Night_With_Shannon_Bream_003178.jpg</field>
+<field name="snippet">i would not say governor inslee is necessarily making up climate change. there was a federal report from our scientists who i trust that came out in 2018 that showed there is going to be a disastrous impact if we do not address climate change.</field>
+</doc>
+</add>

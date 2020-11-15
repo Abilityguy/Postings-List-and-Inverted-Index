@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201502.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150207_020000_The_Kelly_File#start/920/end/955</field>
+<field name="datetime">2/7/2015 2:15:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Kelly File</field>
+<field name="showid">FOXNEWSW_20150207_020000_The_Kelly_File</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150207_020000_The_Kelly_File/FOXNEWSW_20150207_020000_The_Kelly_File.thumbs/FOXNEWSW_20150207_020000_The_Kelly_File_000915.jpg</field>
+<field name="snippet">susan rice today gave a speech that put the terror threat on the same footing as world health and climate change and said we should not give-in to 'alarmism'. while the dangers we may face may be more numerous and varied</field>
+</doc>
+</add>

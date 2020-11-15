@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191116_160000_BBC_News#start/79/end/114</field>
+<field name="datetime">11/16/2019 16:01:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191116_160000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191116_160000_BBC_News/BBCNEWS_20191116_160000_BBC_News.thumbs/BBCNEWS_20191116_160000_BBC_News_001647.jpg</field>
+<field name="snippet">competing on climate change policies, the conservatives say they will plant 30 million trees a year by 2025 if it wins the general election but the lib dems say they can plant twice as many trees. and now on bbc news,</field>
+</doc>
+</add>

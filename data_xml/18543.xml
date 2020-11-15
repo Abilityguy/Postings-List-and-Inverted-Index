@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170118_030000_BBC_News#start/470/end/505</field>
+<field name="datetime">1/18/2017 3:08:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170118_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170118_030000_BBC_News/BBCNEWS_20170118_030000_BBC_News.thumbs/BBCNEWS_20170118_030000_BBC_News_000477.jpg</field>
+<field name="snippet">redouble their commitment to the paris climate change agreement, which mr trump has threatened to quit.</field>
+</doc>
+</add>

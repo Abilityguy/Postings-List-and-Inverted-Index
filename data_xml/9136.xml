@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190808_050000_Hannity#start/2770/end/2805</field>
+<field name="datetime">8/8/2019 5:46:25</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20190808_050000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190808_050000_Hannity/FOXNEWSW_20190808_050000_Hannity.thumbs/FOXNEWSW_20190808_050000_Hannity_002760.jpg</field>
+<field name="snippet">'time' magazine and it said that the new ice age is coming. then it was in the '80s, the world is overheating. now it's this generality that is climate change, that fits every climate condition.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191010_100000_BBC_Newsroom_Live#start/4906/end/4941</field>
+<field name="datetime">10/10/2019 11:22:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20191010_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191010_100000_BBC_Newsroom_Live/BBCNEWS_20191010_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20191010_100000_BBC_Newsroom_Live_004887.jpg</field>
+<field name="snippet">away. -- probably 20 or 30. airport authorities are saying there has been minimal disruption. as far as we know, just one flight, which was bound for dublin, was grounded for a while. apparently, a climate change</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201710.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171008_020000_BBC_News#start/13/end/48</field>
+<field name="datetime">10/8/2017 2:00:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171008_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171008_020000_BBC_News/BBCNEWS_20171008_020000_BBC_News.thumbs/BBCNEWS_20171008_020000_BBC_News_000057.jpg</field>
+<field name="snippet">touring the caribbean to see the damage for himself. he spoke to my colleague alpa patel and said he's increasingly concerned by global warming and its effect on the weather. well, it is horrible to see</field>
+</doc>
+</add>

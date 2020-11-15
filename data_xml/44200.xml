@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201704.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170429_190000_MSNBC_Live#start/48/end/83</field>
+<field name="datetime">4/29/2017 19:01:03</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170429_190000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170429_190000_MSNBC_Live/MSNBCW_20170429_190000_MSNBC_Live.thumbs/MSNBCW_20170429_190000_MSNBC_Live_000028.jpg</field>
+<field name="snippet">later this evening. we begin today with today's climate change marches. the goal is to address issues such as climate change, jobs and new clean energy policies. joining me is anthony turrel. what do you see on the ground</field>
+</doc>
+</add>

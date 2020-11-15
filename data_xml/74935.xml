@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_140000_Afternoon_Live#start/2449/end/2484</field>
+<field name="datetime">1/16/2020 14:41:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20200116_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_140000_Afternoon_Live/BBCNEWS_20200116_140000_Afternoon_Live.thumbs/BBCNEWS_20200116_140000_Afternoon_Live_002428.jpg</field>
+<field name="snippet">the environment, tackling climate change and boosting wildlife. the new agriculture bill will replace eu rules which mean farmers are paid according to how much land they own. 0ur environment analyst roger harrabin explained how significant the change will be.</field>
+</doc>
+</add>

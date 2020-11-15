@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191121_070000_The_Ingraham_Angle#start/3619/end/3654</field>
+<field name="datetime">11/21/2019 8:00:34</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Ingraham Angle</field>
+<field name="showid">FOXNEWSW_20191121_070000_The_Ingraham_Angle</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191121_070000_The_Ingraham_Angle/FOXNEWSW_20191121_070000_The_Ingraham_Angle.thumbs/FOXNEWSW_20191121_070000_The_Ingraham_Angle_003600.jpg</field>
+<field name="snippet">i live extended coverage in washington. this hour you will hear from 2020 democratic presidential candidates as the fifth primary week is in the books. climate change, health insurance</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_050000_The_Briefing#start/185/end/220</field>
+<field name="datetime">12/3/2018 5:03:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20181203_050000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_050000_The_Briefing/BBCNEWS_20181203_050000_The_Briefing.thumbs/BBCNEWS_20181203_050000_The_Briefing_000178.jpg</field>
+<field name="snippet">the paris pact work smoothly from 2020 onwards. that was matt mcgrath, who is at the climate change conference in poland for us. you can find more on the climate talks and general information about climate change on our website. articles include this explanation of the current state of global warming in seven charts.</field>
+</doc>
+</add>

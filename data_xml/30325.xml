@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201508.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150805_000000_All_In_With_Chris_Hayes#start/3108/end/3143</field>
+<field name="datetime">8/5/2015 0:52:03</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20150805_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150805_000000_All_In_With_Chris_Hayes/MSNBCW_20150805_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20150805_000000_All_In_With_Chris_Hayes_003105.jpg</field>
+<field name="snippet">climate change journal says the temperatures in many office buildings are determined by an outdated and inaccurate model developed in the 1960s and based on the resting metabolic rate of a 150-pound 40-year-old man.</field>
+</doc>
+</add>

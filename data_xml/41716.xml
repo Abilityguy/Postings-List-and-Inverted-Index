@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201301.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130124_040000_The_Ed_Show#start/2561/end/2596</field>
+<field name="datetime">1/24/2013 4:42:56</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20130124_040000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130124_040000_The_Ed_Show/MSNBCW_20130124_040000_The_Ed_Show.thumbs/MSNBCW_20130124_040000_The_Ed_Show_002536.jpg</field>
+<field name="snippet">on any serious issue facing working families, facing global warming, we do not have 60 votes. so the will of the american people will not be carried out.</field>
+</doc>
+</add>

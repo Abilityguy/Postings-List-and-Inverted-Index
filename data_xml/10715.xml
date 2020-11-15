@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190819_120000_BBC_News_at_One#start/1419/end/1454</field>
+<field name="datetime">8/19/2019 12:23:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190819_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190819_120000_BBC_News_at_One/BBCNEWS_20190819_120000_BBC_News_at_One.thumbs/BBCNEWS_20190819_120000_BBC_News_at_One_001407.jpg</field>
+<field name="snippet">in limiting the most catastrophic effects of climate change.</field>
+</doc>
+</add>

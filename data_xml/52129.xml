@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_010000_Newsday#start/0/end/26</field>
+<field name="datetime">12/3/2018 1:00:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20181203_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_010000_Newsday/BBCNEWS_20181203_010000_Newsday.thumbs/BBCNEWS_20181203_010000_Newsday_000057.jpg</field>
+<field name="snippet">i'm sharanjit leyl in singapore. the headlines: a stark warning about climate change, as a key un summit opens experts say the threat posed by rising temperatures has never been worse. a ceasefire in the trade war</field>
+</doc>
+</add>

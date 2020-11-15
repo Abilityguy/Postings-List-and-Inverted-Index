@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190210_110000_Fox_and_Friends_Sunday#start/2762/end/2797</field>
+<field name="datetime">2/10/2019 11:46:17</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20190210_110000_Fox_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190210_110000_Fox_and_Friends_Sunday/FOXNEWSW_20190210_110000_Fox_and_Friends_Sunday.thumbs/FOXNEWSW_20190210_110000_Fox_and_Friends_Sunday_002639.jpg</field>
+<field name="snippet">welcome back. quick headlines for you. actor harrison ford wants you to join the fight against climate change. harrison issuing the warning before speaking at this year's world government summit. apparently there is such a thing, the world government</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181026_184500_Newswatch#start/166/end/201</field>
+<field name="datetime">10/26/2018 18:48:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newswatch</field>
+<field name="showid">BBCNEWS_20181026_184500_Newswatch</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181026_184500_Newswatch/BBCNEWS_20181026_184500_Newswatch.thumbs/BBCNEWS_20181026_184500_Newswatch_000148.jpg</field>
+<field name="snippet">battered by the waves, train tracks destroyed. today's report says more of this will happen as sea levels are pushed higher by man-made climate change. here is another problem that the committee warns will get worse.</field>
+</doc>
+</add>

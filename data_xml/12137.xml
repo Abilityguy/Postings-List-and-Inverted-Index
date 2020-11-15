@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190807_020000_BBC_News#start/1436/end/1471</field>
+<field name="datetime">8/7/2019 2:24:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190807_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190807_020000_BBC_News/BBCNEWS_20190807_020000_BBC_News.thumbs/BBCNEWS_20190807_020000_BBC_News_001409.jpg</field>
+<field name="snippet">one complaint so far, but are investigating to see if others have been affected. ramzan karmali, bbc news. scientists have long warned about the dangers of climate change. a major problem is the melting of the greenland ice sheet, which could lead to rising sea levels. but some are finding ways to make money out of this</field>
+</doc>
+</add>

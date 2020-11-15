@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_130000_BBC_News_at_One#start/107/end/142</field>
+<field name="datetime">12/3/2018 13:02:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20181203_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_130000_BBC_News_at_One/BBCNEWS_20181203_130000_BBC_News_at_One.thumbs/BBCNEWS_20181203_130000_BBC_News_at_One_000087.jpg</field>
+<field name="snippet">talks in poland. the meeting is seen as the most critical on climate change since the 2015 paris agreement and is being attended by around a0 heads of state and government. 0ur environment correspondent matt mcgrath is at the summit there is a palpable sense of urgency</field>
+</doc>
+</add>

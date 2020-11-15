@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190329_010000_Newsday#start/1280/end/1315</field>
+<field name="datetime">3/29/2019 1:21:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190329_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190329_010000_Newsday/BBCNEWS_20190329_010000_Newsday.thumbs/BBCNEWS_20190329_010000_Newsday_001259.jpg</field>
+<field name="snippet">making 2015 to 2018 the four warmest years recorded. there was a new record high in co2 emissions in 2018, with greenhouse gas concentrations driving global temperatures to increasingly dangerous levels. it says ocean heat content is at a record high and sea level rises are accelerating, growing 3.7mm higher on average</field>
+</doc>
+</add>

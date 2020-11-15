@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190515_120000_BBC_News_at_One#start/1729/end/1764</field>
+<field name="datetime">5/15/2019 12:29:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190515_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190515_120000_BBC_News_at_One/BBCNEWS_20190515_120000_BBC_News_at_One.thumbs/BBCNEWS_20190515_120000_BBC_News_at_One_001707.jpg</field>
+<field name="snippet">about important issues. now, bafta says more comedy and drama series should mention climate change. the organisation believes it will help inform - and perhaps change - peoples' attitudes, as laura foster reports. it was scenes like this</field>
+</doc>
+</add>

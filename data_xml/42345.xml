@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201009.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100906_040000_Hannity#start/715/end/750</field>
+<field name="datetime">9/6/2010 4:12:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20100906_040000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100906_040000_Hannity/FOXNEWS_20100906_040000_Hannity.thumbs/FOXNEWS_20100906_040000_Hannity_000716.jpg</field>
+<field name="snippet">climate change. sean: the international pan climate change founded by the united nations in 1988. findings used to justify some of the most extreme claims about global warming. how did this group become so</field>
+</doc>
+</add>

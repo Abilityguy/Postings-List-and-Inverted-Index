@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171108_040000_BBC_News#start/458/end/493</field>
+<field name="datetime">11/8/2017 4:07:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171108_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171108_040000_BBC_News/BBCNEWS_20171108_040000_BBC_News.thumbs/BBCNEWS_20171108_040000_BBC_News_000447.jpg</field>
+<field name="snippet">treaties to tackle global warming. sustainable forestry management limited would have made more money if international regulations were changed to include carbon credits from all forests.</field>
+</doc>
+</add>

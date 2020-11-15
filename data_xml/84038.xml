@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190419_050000_Breakfast#start/1665/end/1700</field>
+<field name="datetime">4/19/2019 5:28:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190419_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190419_050000_Breakfast/BBCNEWS_20190419_050000_Breakfast.thumbs/BBCNEWS_20190419_050000_Breakfast_001647.jpg</field>
+<field name="snippet">more than 500 people have been arrested during climate change demonstrations this week, at locations, including oxford circus and waterloo bridge. a thousand officers have been deployed daily with many having rest days cancelled and working 12 hour shifts.</field>
+</doc>
+</add>

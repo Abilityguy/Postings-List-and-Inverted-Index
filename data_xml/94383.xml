@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201212.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121208_040000_The_Ed_Show#start/1151/end/1186</field>
+<field name="datetime">12/8/2012 4:19:26</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20121208_040000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121208_040000_The_Ed_Show/MSNBCW_20121208_040000_The_Ed_Show.thumbs/MSNBCW_20121208_040000_The_Ed_Show_001138.jpg</field>
+<field name="snippet">we have millions of people desperately trying to find work. we're trying to deal with global warming and the tremendous problems that that's it going to bring to our planet. we have this absurd citizens united situation and billions of dollars coming into the campaign from wealthy people.</field>
+</doc>
+</add>

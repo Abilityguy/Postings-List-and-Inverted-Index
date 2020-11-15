@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100130_050000_Hannity#start/3383/end/3418</field>
+<field name="datetime">1/30/2010 5:56:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20100130_050000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100130_050000_Hannity/FOXNEWS_20100130_050000_Hannity.thumbs/FOXNEWS_20100130_050000_Hannity_003360.jpg</field>
+<field name="snippet">sean: i do. we couldn't be worse than what we've got. sean: talk about al gore and global warming. yeah that. is what a farce that turned out to be. huh? i was up in canada.</field>
+</doc>
+</add>

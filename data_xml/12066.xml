@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_130000_Afternoon_Live#start/4122/end/4157</field>
+<field name="datetime">8/8/2019 14:08:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190808_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_130000_Afternoon_Live/BBCNEWS_20190808_130000_Afternoon_Live.thumbs/BBCNEWS_20190808_130000_Afternoon_Live_004108.jpg</field>
+<field name="snippet">a lot of people, including young people, are very worried about climate change and where the world is heading. what is your sense about whether there are solutions? i understand the worry but i am also convinced that there are many solutions and that we can adjust to the pace of change.</field>
+</doc>
+</add>

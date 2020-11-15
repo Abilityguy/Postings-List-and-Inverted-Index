@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190422_050000_Breakfast#start/7034/end/7069</field>
+<field name="datetime">4/22/2019 6:57:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190422_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190422_050000_Breakfast/BBCNEWS_20190422_050000_Breakfast.thumbs/BBCNEWS_20190422_050000_Breakfast_007017.jpg</field>
+<field name="snippet">we have been warned. if you are travelling, this will interest you and of course the news, weather and traffic where you are this morning. we will see you after 8am. good morning from bbc london news, i'm sonja jessup. the climate change protest group,</field>
+</doc>
+</add>

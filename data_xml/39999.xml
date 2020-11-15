@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091116_110000_FOX_and_Friends#start/621/end/656</field>
+<field name="datetime">11/16/2009 11:10:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091116_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091116_110000_FOX_and_Friends/FOXNEWS_20091116_110000_FOX_and_Friends.thumbs/FOXNEWS_20091116_110000_FOX_and_Friends_000593.jpg</field>
+<field name="snippet">with low expectations for this trip for any major agreements on climate change or on trade or on the global economy, this town hall meeting is likely going to be the major accomplishment for the president on this china trip. take a listen.</field>
+</doc>
+</add>

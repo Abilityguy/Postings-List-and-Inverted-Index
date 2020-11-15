@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190519_000000_BBC_News#start/147/end/182</field>
+<field name="datetime">5/19/2019 0:02:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190519_000000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190519_000000_BBC_News/BBCNEWS_20190519_000000_BBC_News.thumbs/BBCNEWS_20190519_000000_BBC_News_000149.jpg</field>
+<field name="snippet">chanting. this election had been billed as a generational shift. young people put climate change at the centre of the debate, demanding no new coal mines be opened but the tide turned towards the liberals. despite two years trailing behind labor in the polls, it's on course to form a government.</field>
+</doc>
+</add>

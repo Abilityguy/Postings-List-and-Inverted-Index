@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190502_100000_BBC_Newsroom_Live#start/3178/end/3213</field>
+<field name="datetime">5/2/2019 10:53:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190502_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190502_100000_BBC_Newsroom_Live/BBCNEWS_20190502_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190502_100000_BBC_Newsroom_Live_003178.jpg</field>
+<field name="snippet">by cutting greenhouse gases to almost zero by 2050. i'm victoria fritz. in the business news: bombardier has announced plans to sell its aerostructures</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190422_050000_Breakfast#start/3395/end/3430</field>
+<field name="datetime">4/22/2019 5:56:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190422_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190422_050000_Breakfast/BBCNEWS_20190422_050000_Breakfast.thumbs/BBCNEWS_20190422_050000_Breakfast_003387.jpg</field>
+<field name="snippet">headlines. good morning from bbc london news, i'm sonja jessup. the climate change protest group, extinction rebellion, are deciding how to continue their campaign after days of disruption in the capital have come to an end. protesters have now left oxford circus, waterloo bridge and parliament square, but are continuing to occupy</field>
+</doc>
+</add>

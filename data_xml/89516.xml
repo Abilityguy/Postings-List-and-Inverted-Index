@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190603_210000_BBC_News_at_Ten#start/478/end/513</field>
+<field name="datetime">6/3/2019 21:08:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20190603_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190603_210000_BBC_News_at_Ten/BBCNEWS_20190603_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20190603_210000_BBC_News_at_Ten_000478.jpg</field>
+<field name="snippet">the president tweeted, 'but i'm sure the fake news will be working hard to find them.' they were just below his helicopter as he landed for the state banquet, although just a few hundred strong. he's a racist, he's a climate change denier and he's a playground bully, frankly. i don't think he's earned a state</field>
+</doc>
+</add>

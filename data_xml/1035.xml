@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170531_210000_BBC_News_at_Ten#start/1279/end/1314</field>
+<field name="datetime">5/31/2017 21:21:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20170531_210000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170531_210000_BBC_News_at_Ten/BBCNEWS_20170531_210000_BBC_News_at_Ten.thumbs/BBCNEWS_20170531_210000_BBC_News_at_Ten_001257.jpg</field>
+<field name="snippet">beijing and brussels the eu and china to make sure the climate change doesn't fall apart. donald trump has chosen isolation on arguably the biggest issue facing the planet. nick bryant, thank you.</field>
+</doc>
+</add>

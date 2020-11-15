@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190420_220000_BBC_News#start/963/end/998</field>
+<field name="datetime">4/20/2019 22:16:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190420_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190420_220000_BBC_News/BBCNEWS_20190420_220000_BBC_News.thumbs/BBCNEWS_20190420_220000_BBC_News_000959.jpg</field>
+<field name="snippet">police in londonderry investigating the shooting of the journalist lyra mckee continue to question 2 teenagers. police in london make more than 750 arrests in six days, as climate change protests continue in the capital. and temperatures in the uk reach 25.5 degrees - making today the hottest</field>
+</doc>
+</add>

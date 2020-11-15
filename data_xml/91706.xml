@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190706_010000_Hannity_Fourth_of_July_Special#start/620/end/655</field>
+<field name="datetime">7/6/2019 1:10:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity Fourth of July Special</field>
+<field name="showid">FOXNEWSW_20190706_010000_Hannity_Fourth_of_July_Special</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190706_010000_Hannity_Fourth_of_July_Special/FOXNEWSW_20190706_010000_Hannity_Fourth_of_July_Special.thumbs/FOXNEWSW_20190706_010000_Hannity_Fourth_of_July_Special_000599.jpg</field>
+<field name="snippet">this is an enormous disservice to the american people. chuck todd doesn't know the first thing about climate change or the so-called climate change. are you a physicist? you have climatologist, meteorologists, not just hundreds of them but thousands</field>
+</doc>
+</add>

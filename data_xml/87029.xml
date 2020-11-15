@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191203_040000_BBC_News#start/1796/end/1831</field>
+<field name="datetime">12/3/2019 4:30:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191203_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191203_040000_BBC_News/BBCNEWS_20191203_040000_BBC_News.thumbs/BBCNEWS_20191203_040000_BBC_News_001737.jpg</field>
+<field name="snippet">this is bbc news, the headlines: smaller nations have voiced their fears at the madrid meeting on climate change. micronesia's president told the bbc</field>
+</doc>
+</add>

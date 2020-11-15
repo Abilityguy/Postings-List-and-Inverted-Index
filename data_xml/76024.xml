@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190515_230000_Newsday#start/1317/end/1352</field>
+<field name="datetime">5/15/2019 23:22:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190515_230000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190515_230000_Newsday/BBCNEWS_20190515_230000_Newsday.thumbs/BBCNEWS_20190515_230000_Newsday_001318.jpg</field>
+<field name="snippet">and other plants are joined by a network of fungi - enabling them to help feed and protect each other. for the first time, a major international study has mapped this underground network. the bbc's claire marshall reports on how this could help tackle climate change.</field>
+</doc>
+</add>

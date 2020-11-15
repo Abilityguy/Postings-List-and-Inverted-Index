@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190814_123000_BBC_News#start/494/end/529</field>
+<field name="datetime">8/14/2019 12:38:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190814_123000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190814_123000_BBC_News/BBCNEWS_20190814_123000_BBC_News.thumbs/BBCNEWS_20190814_123000_BBC_News_000479.jpg</field>
+<field name="snippet">i'll have more for you in the next hour. climate change activist greta thunberg will to set off from plymouth shortly, and spend two weeks sailing across the north atlantic</field>
+</doc>
+</add>

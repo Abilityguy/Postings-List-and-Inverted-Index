@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200109_030000_BBC_News#start/947/end/982</field>
+<field name="datetime">1/9/2020 3:16:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200109_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200109_030000_BBC_News/BBCNEWS_20200109_030000_BBC_News.thumbs/BBCNEWS_20200109_030000_BBC_News_000928.jpg</field>
+<field name="snippet">crisis has been going for weeks, it began in the state of queensland, so no doubt there will be serious questions to be asked about australia's attitude to global warming, for example, although more local issues such as how to protect</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201411.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20141112_170000_Andrea_Mitchell_Reports#start/1480/end/1515</field>
+<field name="datetime">11/12/2014 17:24:55</field>
+<field name="station">MSNBC</field>
+<field name="show">Andrea Mitchell Reports</field>
+<field name="showid">MSNBCW_20141112_170000_Andrea_Mitchell_Reports</field>
+<field name="preview">https://archive.org/download/MSNBCW_20141112_170000_Andrea_Mitchell_Reports/MSNBCW_20141112_170000_Andrea_Mitchell_Reports.thumbs/MSNBCW_20141112_170000_Andrea_Mitchell_Reports_001456.jpg</field>
+<field name="snippet">a job. you're from a state which has been suffering more than most from drought, from fires, from the effects of climate change. it's hard to say what is a cause and effect, but certainly the change in climate has had some</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201602.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160219_080000_All_In_With_Chris_Hayes#start/3585/end/3620</field>
+<field name="datetime">2/19/2016 9:00:00</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20160219_080000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160219_080000_All_In_With_Chris_Hayes/MSNBCW_20160219_080000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20160219_080000_All_In_With_Chris_Hayes_003567.jpg</field>
+<field name="snippet">number two, i will -- you're raising issues in terms of extraction of fossil fuels for example. i believe that climate change is one of the great challenges facing this planet and what i have introduced legislation to</field>
+</doc>
+</add>

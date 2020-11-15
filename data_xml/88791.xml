@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190608_040000_BBC_News#start/720/end/755</field>
+<field name="datetime">6/8/2019 4:12:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190608_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190608_040000_BBC_News/BBCNEWS_20190608_040000_BBC_News.thumbs/BBCNEWS_20190608_040000_BBC_News_000719.jpg</field>
+<field name="snippet">the climate crisis, rising temperatures, they are really wrecking several ocean ecosystems, especially coral reefs. and what can be done about it? are we seeing any change at all? globally, sadly, we're</field>
+</doc>
+</add>

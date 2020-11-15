@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190402_000000_Tucker_Carlson_Tonight#start/775/end/810</field>
+<field name="datetime">4/2/2019 0:13:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190402_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190402_000000_Tucker_Carlson_Tonight/FOXNEWSW_20190402_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190402_000000_Tucker_Carlson_Tonight_000750.jpg</field>
+<field name="snippet">those were the top things that came out. at the very end, number 16 of 16 priorities came global warming. not surprising, if you are poor. but if you are rich and well-meaning, this is one of the things that you start worrying about. and, look, global warming is a real problem but it's not</field>
+</doc>
+</add>

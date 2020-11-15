@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190324_050000_BBC_News#start/1383/end/1418</field>
+<field name="datetime">3/24/2019 5:23:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190324_050000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190324_050000_BBC_News/BBCNEWS_20190324_050000_BBC_News.thumbs/BBCNEWS_20190324_050000_BBC_News_001378.jpg</field>
+<field name="snippet">all over the world cities are grappling with air pollution but the small capital of mongolia is suffering from some of the worst. and the effects are exacerbated because of climate change. rising temperatures have led to thousands of people abandoning the countryside for the smog-choked city where 90% of children are breathing toxic air every day. our reporter stephanie</field>
+</doc>
+</add>

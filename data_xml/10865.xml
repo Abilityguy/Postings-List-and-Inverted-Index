@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190809_030000_BBC_News#start/1086/end/1121</field>
+<field name="datetime">8/9/2019 3:18:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190809_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190809_030000_BBC_News/BBCNEWS_20190809_030000_BBC_News.thumbs/BBCNEWS_20190809_030000_BBC_News_001078.jpg</field>
+<field name="snippet">this is bbc world news. the latest headlines: a major un report on land use and climate change says the west's high consumption of meat and dairy produce is fuelling global warming. us immigration officials have released half of the workers</field>
+</doc>
+</add>

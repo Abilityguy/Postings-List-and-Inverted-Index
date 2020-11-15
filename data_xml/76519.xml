@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190512_200000_World_News_Today#start/140/end/175</field>
+<field name="datetime">5/12/2019 20:02:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190512_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190512_200000_World_News_Today/BBCNEWS_20190512_200000_World_News_Today.thumbs/BBCNEWS_20190512_200000_World_News_Today_000119.jpg</field>
+<field name="snippet">on climate change aims to try to limit global temperatures to 1.5 celsius, antonio guterres says politicians aren't doing enough. we are seeing everywhere a clear demonstration that we are not on track to achieve the objectives</field>
+</doc>
+</add>

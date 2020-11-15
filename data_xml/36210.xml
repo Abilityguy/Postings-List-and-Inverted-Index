@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201912.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191218_000000_Hardball_With_Chris_Matthews#start/1947/end/1982</field>
+<field name="datetime">12/18/2019 0:32:42</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball With Chris Matthews</field>
+<field name="showid">MSNBCW_20191218_000000_Hardball_With_Chris_Matthews</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191218_000000_Hardball_With_Chris_Matthews/MSNBCW_20191218_000000_Hardball_With_Chris_Matthews.thumbs/MSNBCW_20191218_000000_Hardball_With_Chris_Matthews_001948.jpg</field>
+<field name="snippet">i'm tom steyer and i approve this message because the only way we get universal healthcare, address climate change and make our economy more fair is to change business as usual in washington.</field>
+</doc>
+</add>

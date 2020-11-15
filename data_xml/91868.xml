@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190713_000000_Tucker_Carlson_Tonight#start/626/end/661</field>
+<field name="datetime">7/13/2019 0:10:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190713_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190713_000000_Tucker_Carlson_Tonight/FOXNEWSW_20190713_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190713_000000_Tucker_Carlson_Tonight_000599.jpg</field>
+<field name="snippet">tucker: so, there are three parts, which people say climate change, three questions that are addressed. is the climate changing. why is it changing. and what can we do about it. there seems to be consensus on one, there is not a consensus on two and three.</field>
+</doc>
+</add>

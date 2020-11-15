@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190422_003000_Asia_Business_Report#start/723/end/758</field>
+<field name="datetime">4/22/2019 0:42:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Asia Business Report</field>
+<field name="showid">BBCNEWS_20190422_003000_Asia_Business_Report</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190422_003000_Asia_Business_Report/BBCNEWS_20190422_003000_Asia_Business_Report.thumbs/BBCNEWS_20190422_003000_Asia_Business_Report_000719.jpg</field>
+<field name="snippet">a government minister has told bbc news police were briefed about the threat ten days ago, but the prime minister wasn't informed. the swedish teenage activist, greta thunberg, has addressed climate change protestors in london tonight. she told the audience they were making a difference. extinction rebellion, the group behind the week-long demonstrations, are meeting tomorrow to discuss the next steps</field>
+</doc>
+</add>

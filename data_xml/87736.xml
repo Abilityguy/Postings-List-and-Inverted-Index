@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191217_210000_Outside_Source#start/2718/end/2753</field>
+<field name="datetime">12/17/2019 21:45:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20191217_210000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191217_210000_Outside_Source/BBCNEWS_20191217_210000_Outside_Source.thumbs/BBCNEWS_20191217_210000_Outside_Source_002699.jpg</field>
+<field name="snippet">australia was recently ranked as the worst-performing on climate policy in a global ranking of 57 countries. it's called the climate change performance index - and was put together by a group of think tanks. and this is australia's temperatures</field>
+</doc>
+</add>

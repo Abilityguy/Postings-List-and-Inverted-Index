@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191012_070000_Fox_News__Night_With_Shannon_Bream#start/2446/end/2481</field>
+<field name="datetime">10/12/2019 7:41:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News  Night With Shannon Bream</field>
+<field name="showid">FOXNEWSW_20191012_070000_Fox_News__Night_With_Shannon_Bream</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191012_070000_Fox_News__Night_With_Shannon_Bream/FOXNEWSW_20191012_070000_Fox_News__Night_With_Shannon_Bream.thumbs/FOXNEWSW_20191012_070000_Fox_News__Night_With_Shannon_Bream_002339.jpg</field>
+<field name="snippet">roundup, jane fonda among 16 people arrested on capitol hill during the climate change protest. her goal is to keep getting arrested. she has moved to washington to protest climate change and will do it every week.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_030000_BBC_News#start/915/end/950</field>
+<field name="datetime">12/3/2018 3:15:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181203_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_030000_BBC_News/BBCNEWS_20181203_030000_BBC_News.thumbs/BBCNEWS_20181203_030000_BBC_News_000898.jpg</field>
+<field name="snippet">which very much - the conservatives appear to almost deny climate change is happening, and australia is a very rich country. given we're seeing that on a particular level, doesn't that mean it's going to be really hard to get</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191203_020000_BBC_News#start/33/end/68</field>
+<field name="datetime">12/3/2019 2:00:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191203_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191203_020000_BBC_News/BBCNEWS_20191203_020000_BBC_News.thumbs/BBCNEWS_20191203_020000_BBC_News_000028.jpg</field>
+<field name="snippet">on climate change. some say it is a fight to the death.</field>
+</doc>
+</add>

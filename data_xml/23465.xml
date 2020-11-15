@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201405.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140506_170000_Happening_Now#start/2054/end/2089</field>
+<field name="datetime">5/6/2014 17:34:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20140506_170000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140506_170000_Happening_Now/FOXNEWSW_20140506_170000_Happening_Now.thumbs/FOXNEWSW_20140506_170000_Happening_Now_002055.jpg</field>
+<field name="snippet">global climate change has local consquences in every part of america. the united states national climate assessment breaks the u.s. in eight different sections and tries to highlight the real life impact.</field>
+</doc>
+</add>

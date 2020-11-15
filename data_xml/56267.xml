@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201702.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170208_190000_MSNBC_Live#start/743/end/778</field>
+<field name="datetime">2/8/2017 19:12:38</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170208_190000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170208_190000_MSNBC_Live/MSNBCW_20170208_190000_MSNBC_Live.thumbs/MSNBCW_20170208_190000_MSNBC_Live_000747.jpg</field>
+<field name="snippet">can you comment on this meeting about the carbon tax? we have nothing to announce on that. if i can go to our next seat. we have josh smith from wjhl in</field>
+</doc>
+</add>

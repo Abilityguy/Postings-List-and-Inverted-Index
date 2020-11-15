@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180808_230000_Newsday#start/999/end/1034</field>
+<field name="datetime">8/8/2018 23:16:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20180808_230000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180808_230000_Newsday/BBCNEWS_20180808_230000_Newsday.thumbs/BBCNEWS_20180808_230000_Newsday_000988.jpg</field>
+<field name="snippet">up on a story we mentioned earlier, the warning from beijing that it will hit back at the us with new tariffs. it also refers to an editorial by chinese state media which insists the country could weather any storms ahead. the gulf news looks at the impact climate change has had across the world.</field>
+</doc>
+</add>

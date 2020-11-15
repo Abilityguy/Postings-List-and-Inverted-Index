@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201011.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101116_110000_Morning_Joe#start/9796/end/9831</field>
+<field name="datetime">11/16/2010 13:43:31</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20101116_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20101116_110000_Morning_Joe/MSNBC_20101116_110000_Morning_Joe.thumbs/MSNBC_20101116_110000_Morning_Joe_009780.jpg</field>
+<field name="snippet">technologies now. it makes us feel good, but it won't actually do much to tackle it. what about the hybrid cars, are they worth it? if it is worth your cost, buy it. it's not going to solve global</field>
+</doc>
+</add>

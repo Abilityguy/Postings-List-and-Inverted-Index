@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100423_070000_Red_Eye#start/1599/end/1634</field>
+<field name="datetime">4/23/2010 7:26:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20100423_070000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100423_070000_Red_Eye/FOXNEWS_20100423_070000_Red_Eye.thumbs/FOXNEWS_20100423_070000_Red_Eye_001585.jpg</field>
+<field name="snippet">next question which comes from nicholas tanner. given climate change is one of the biggest threats we face, what have you personally done in the last six months to use more environmentally friendly and sustainable forms</field>
+</doc>
+</add>

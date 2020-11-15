@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091111_040000_The_OReilly_Factor#start/2027/end/2062</field>
+<field name="datetime">11/11/2009 4:34:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20091111_040000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091111_040000_The_OReilly_Factor/FOXNEWS_20091111_040000_The_OReilly_Factor.thumbs/FOXNEWS_20091111_040000_The_OReilly_Factor_002010.jpg</field>
+<field name="snippet">that california built that cost 30 times what a regular bus cost. bill: but that's because of global warming. it's because of their fantasies about global warming and the feel good idea that a hydrogen bus will make a difference. bill: maybe it will make a difference but it's too</field>
+</doc>
+</add>

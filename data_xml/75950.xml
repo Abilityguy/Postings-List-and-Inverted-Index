@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190502_180000_Beyond_100_Days#start/1222/end/1257</field>
+<field name="datetime">5/2/2019 18:20:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20190502_180000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190502_180000_Beyond_100_Days/BBCNEWS_20190502_180000_Beyond_100_Days.thumbs/BBCNEWS_20190502_180000_Beyond_100_Days_001197.jpg</field>
+<field name="snippet">the globalfight government says the uk should lead the global fight against climate change by cutting greenhouse gases to nearly zero by 2050. so how are we going to get there? cars will need to be electric on the sale of petrol cars should be banned by 2030, ten years earlier than the</field>
+</doc>
+</add>

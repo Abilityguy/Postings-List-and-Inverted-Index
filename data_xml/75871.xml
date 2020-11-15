@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190502_160000_BBC_News_at_Five#start/2346/end/2381</field>
+<field name="datetime">5/2/2019 16:39:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190502_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190502_160000_BBC_News_at_Five/BBCNEWS_20190502_160000_BBC_News_at_Five.thumbs/BBCNEWS_20190502_160000_BBC_News_at_Five_002338.jpg</field>
+<field name="snippet">with me in the studio is environmental scientist angela terry. she founded 0nehome, the uk's first consumer website on climate action to provide advice on adapting to and preventing global warming.</field>
+</doc>
+</add>

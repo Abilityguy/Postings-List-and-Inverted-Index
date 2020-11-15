@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090922_150000_Happening_Now#start/1044/end/1079</field>
+<field name="datetime">9/22/2009 15:17:39</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20090922_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090922_150000_Happening_Now/FOXNEWS_20090922_150000_Happening_Now.thumbs/FOXNEWS_20090922_150000_Happening_Now_001045.jpg</field>
+<field name="snippet">will be interesting to see if they sign on to a climate change agreement. jon: afghanistan is still stuck in the eighth century in many ways, so you might wonder, where</field>
+</doc>
+</add>

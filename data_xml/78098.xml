@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191116_100000_BBC_News#start/68/end/103</field>
+<field name="datetime">11/16/2019 10:01:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191116_100000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191116_100000_BBC_News/BBCNEWS_20191116_100000_BBC_News.thumbs/BBCNEWS_20191116_100000_BBC_News_000059.jpg</field>
+<field name="snippet">out on the general election campaign trail, the conservatives and the liberal democrats make promises to plant millions more trees to tackle climate change. two people have been hurt in a large fire at a student accommodation building in bolton. more than 200 firefighters</field>
+</doc>
+</add>

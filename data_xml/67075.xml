@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140506_220000_PoliticsNation#start/1705/end/1740</field>
+<field name="datetime">5/6/2014 22:28:40</field>
+<field name="station">MSNBC</field>
+<field name="show">PoliticsNation</field>
+<field name="showid">MSNBCW_20140506_220000_PoliticsNation</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140506_220000_PoliticsNation/MSNBCW_20140506_220000_PoliticsNation.thumbs/MSNBCW_20140506_220000_PoliticsNation_001695.jpg</field>
+<field name="snippet">climate change once considered a problem for the distant future has moved into the present. extended periods of unusual heat last longer than any living american has ever experienced. climate change has moved firmly</field>
+</doc>
+</add>

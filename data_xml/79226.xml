@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201402.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140208_190000_MSNBC_Live#start/1999/end/2034</field>
+<field name="datetime">2/8/2014 19:33:34</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20140208_190000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140208_190000_MSNBC_Live/MSNBCW_20140208_190000_MSNBC_Live.thumbs/MSNBCW_20140208_190000_MSNBC_Live_001995.jpg</field>
+<field name="snippet">what about climate change? does that have anything to do with this? climate change is a real thing. last year was the sixth or fifth warmest year in the record that we have going back 150 years.</field>
+</doc>
+</add>

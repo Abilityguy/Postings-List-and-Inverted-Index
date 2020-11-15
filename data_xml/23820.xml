@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201411.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141115_110000_FOX_and_Friends_Saturday#start/7704/end/7739</field>
+<field name="datetime">11/15/2014 13:08:39</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20141115_110000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141115_110000_FOX_and_Friends_Saturday/FOXNEWSW_20141115_110000_FOX_and_Friends_Saturday.thumbs/FOXNEWSW_20141115_110000_FOX_and_Friends_Saturday_007695.jpg</field>
+<field name="snippet">while you were sleeping, though, president obama touched down in australia for the annual g-20 economic summit. fox news senior white house correspondent ed henry traveling with the president. good morning, ed. good morning, guys. something the president wants to talk about is climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190509_030000_BBC_News#start/978/end/1013</field>
+<field name="datetime">5/9/2019 3:16:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190509_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190509_030000_BBC_News/BBCNEWS_20190509_030000_BBC_News.thumbs/BBCNEWS_20190509_030000_BBC_News_000957.jpg</field>
+<field name="snippet">thank you. former environment ministers in brazil have accused the president jair bolsonaro's government of denying climate change and dismantling the country's existing environmental protections. the eight former ministers said the bolsonaro administration was creating a climate of impunity and risked out-of-control illegal deforestation in the amazon. they say it's because authority over forestry and water services had been moved from the environment ministry</field>
+</doc>
+</add>

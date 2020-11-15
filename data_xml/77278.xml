@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191108_130000_BBC_News_at_One#start/1455/end/1490</field>
+<field name="datetime">11/8/2019 13:24:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20191108_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191108_130000_BBC_News_at_One/BBCNEWS_20191108_130000_BBC_News_at_One.thumbs/BBCNEWS_20191108_130000_BBC_News_at_One_001438.jpg</field>
+<field name="snippet">so, there are things in here that don't have a name. let alone having their dna sequenced, they don't even have a name yet! it's entirely possible, yes. by studying dna from wild species, they hope to find answers to global problems, like how to breed crops to withstand disease and climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201010.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101012_060000_Glenn_Beck#start/1493/end/1528</field>
+<field name="datetime">10/12/2010 6:25:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20101012_060000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101012_060000_Glenn_Beck/FOXNEWS_20101012_060000_Glenn_Beck.thumbs/FOXNEWS_20101012_060000_Glenn_Beck_001465.jpg</field>
+<field name="snippet">now it's global warming. it's always something. why? because of this! so somebody has to save the whole jar. that is the problem.</field>
+</doc>
+</add>

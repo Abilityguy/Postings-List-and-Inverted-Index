@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201512.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151221_230000_Special_Report_With_Bret_Baier#start/273/end/308</field>
+<field name="datetime">12/21/2015 23:04:48</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20151221_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151221_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20151221_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20151221_230000_Special_Report_With_Bret_Baier_000255.jpg</field>
+<field name="snippet">president's much talked about climate change far, far down the list at just 6%. this is not a huge industrial power that can pose great risks to us. institutionally or on a</field>
+</doc>
+</add>

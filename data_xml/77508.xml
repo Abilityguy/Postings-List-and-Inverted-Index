@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191102_030000_BBC_News#start/393/end/428</field>
+<field name="datetime">11/2/2019 3:06:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191102_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191102_030000_BBC_News/BBCNEWS_20191102_030000_BBC_News.thumbs/BBCNEWS_20191102_030000_BBC_News_000388.jpg</field>
+<field name="snippet">chilean president sebastian pinera has backed away from plans to cut corporate taxes in yet another concession to anti-austerity protests. the decision follows a number of major step-downs by the chilean government, including the announcement that it is withdrawing as the host nation for two major international summits, including the un climate</field>
+</doc>
+</add>

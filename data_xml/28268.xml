@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201901.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190103_080000_All_In_With_Chris_Hayes#start/91/end/126</field>
+<field name="datetime">1/3/2019 8:01:46</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20190103_080000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190103_080000_All_In_With_Chris_Hayes/MSNBCW_20190103_080000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20190103_080000_All_In_With_Chris_Hayes_000088.jpg</field>
+<field name="snippet">tonight, my interview with another democratic presidential hopeful, putting climate change at the center of a potential run. 'all in' starts right now. good evening from new york. i'm chris hayes.</field>
+</doc>
+</add>

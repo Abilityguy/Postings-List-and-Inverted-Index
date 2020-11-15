@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201903.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190313_100000_Morning_Joe#start/2650/end/2685</field>
+<field name="datetime">3/13/2019 10:44:25</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20190313_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190313_100000_Morning_Joe/MSNBCW_20190313_100000_Morning_Joe.thumbs/MSNBCW_20190313_100000_Morning_Joe_002640.jpg</field>
+<field name="snippet">58 officials last week rebuked the administration's plans to counter a 2014 department of defense report that concluded climate change does in fact pose a threat to the national</field>
+</doc>
+</add>

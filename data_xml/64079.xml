@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201410.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20141023_210000_The_Ed_Show#start/614/end/649</field>
+<field name="datetime">10/23/2014 21:10:29</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20141023_210000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20141023_210000_The_Ed_Show/MSNBCW_20141023_210000_The_Ed_Show.thumbs/MSNBCW_20141023_210000_The_Ed_Show_000615.jpg</field>
+<field name="snippet">and we'll bring you results later on in the show. i want to bring in tonight senator sheldon white of rhode island who has been front and center on what this country has to do when it comes to climate change. senator, good to have you with us tonight. thanks, ed. good to be with you.</field>
+</doc>
+</add>

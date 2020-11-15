@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100428_150000_Happening_Now#start/219/end/254</field>
+<field name="datetime">4/28/2010 15:03:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20100428_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100428_150000_Happening_Now/FOXNEWS_20100428_150000_Happening_Now.thumbs/FOXNEWS_20100428_150000_Happening_Now_000206.jpg</field>
+<field name="snippet">press conference this hour. we'll be covering that for you, and let you know what comes out of that. but he has said that, it's, quote back to square one on immigration because senator reid wants to do climate change first. jon? jon: molly henneberg at the</field>
+</doc>
+</add>

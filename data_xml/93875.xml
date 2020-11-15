@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190729_200000_Outside_Source#start/928/end/963</field>
+<field name="datetime">7/29/2019 20:15:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20190729_200000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190729_200000_Outside_Source/BBCNEWS_20190729_200000_Outside_Source.thumbs/BBCNEWS_20190729_200000_Outside_Source_000927.jpg</field>
+<field name="snippet">some of the other stories in the world service newsroom. officials in ethiopia say a new record has been set - with more than 200-million trees planted in one day. prime minister abiy ahmed lead the project, aimed at countering the effects of deforestation and climate change. the aim is to plant a total</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090708_230000_The_FOX_Report_With_Shepard_Smith#start/415/end/450</field>
+<field name="datetime">7/8/2009 23:07:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The FOX Report With Shepard Smith</field>
+<field name="showid">FOXNEWS_20090708_230000_The_FOX_Report_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090708_230000_The_FOX_Report_With_Shepard_Smith/FOXNEWS_20090708_230000_The_FOX_Report_With_Shepard_Smith.thumbs/FOXNEWS_20090708_230000_The_FOX_Report_With_Shepard_Smith_000390.jpg</field>
+<field name="snippet">meeting with the chinese president. he made it close to where we are here in italy, but left to go back to china because of the violence there. president obama wanted to talk to him about currency, north korea, and tray, as well as the issue of global climate change.</field>
+</doc>
+</add>

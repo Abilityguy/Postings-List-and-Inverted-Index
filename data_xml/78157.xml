@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191129_050000_The_Briefing#start/110/end/145</field>
+<field name="datetime">11/29/2019 5:02:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20191129_050000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191129_050000_The_Briefing/BBCNEWS_20191129_050000_The_Briefing.thumbs/BBCNEWS_20191129_050000_The_Briefing_000087.jpg</field>
+<field name="snippet">have walked out of class to join rallies demanding stronger action to rein in climate change, which they said is contributing to the country's bushfire crisis. the rallies, in sydney and other major australian cities, were the first in a series of protests by students</field>
+</doc>
+</add>

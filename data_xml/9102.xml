@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190806_220000_Special_Report_With_Bret_Baier#start/1259/end/1294</field>
+<field name="datetime">8/6/2019 22:21:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20190806_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190806_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20190806_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20190806_220000_Special_Report_With_Bret_Baier_001258.jpg</field>
+<field name="snippet">climate change, health care for all. a handful allow 16-year-olds to vote or locally. even if they gain the right to have the ballot box it's not clear they will show up.</field>
+</doc>
+</add>

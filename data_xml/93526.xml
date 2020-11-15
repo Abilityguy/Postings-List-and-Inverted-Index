@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190730_160000_BBC_News_at_Five#start/3160/end/3195</field>
+<field name="datetime">7/30/2019 16:52:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190730_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190730_160000_BBC_News_at_Five/BBCNEWS_20190730_160000_BBC_News_at_Five.thumbs/BBCNEWS_20190730_160000_BBC_News_at_Five_003148.jpg</field>
+<field name="snippet">planting many trees that appear in the uk the government is encouraging a similar move to help to tackle climate change and once 1.5 million new trees in the ground by 2050. david gregory reports.</field>
+</doc>
+</add>

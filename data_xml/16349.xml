@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201502.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150212_080000_Red_Eye#start/14/end/49</field>
+<field name="datetime">2/12/2015 8:00:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWSW_20150212_080000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150212_080000_Red_Eye/FOXNEWSW_20150212_080000_Red_Eye.thumbs/FOXNEWSW_20150212_080000_Red_Eye_000045.jpg</field>
+<field name="snippet">tonight on 'red eye.' coming up on 'red eye' have humans and zebras put their differences aside to unite for global warming? and has the president started using the polish joke book</field>
+</doc>
+</add>

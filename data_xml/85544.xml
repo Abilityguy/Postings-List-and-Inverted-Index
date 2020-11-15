@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201005.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100515_000000_Countdown_With_Keith_Olbermann#start/486/end/521</field>
+<field name="datetime">5/15/2010 0:08:21</field>
+<field name="station">MSNBC</field>
+<field name="show">Countdown With Keith Olbermann</field>
+<field name="showid">MSNBC_20100515_000000_Countdown_With_Keith_Olbermann</field>
+<field name="preview">https://archive.org/download/MSNBC_20100515_000000_Countdown_With_Keith_Olbermann/MSNBC_20100515_000000_Countdown_With_Keith_Olbermann.thumbs/MSNBC_20100515_000000_Countdown_With_Keith_Olbermann_000476.jpg</field>
+<field name="snippet">questions supplied by 'countdown' earlier. we're joined by congressman from oregon, vice chair on energy and independence and global warming. always my pleasure, keith. should we not know whether two new rigs operated by</field>
+</doc>
+</add>

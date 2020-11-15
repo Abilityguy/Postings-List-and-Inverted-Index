@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170804_230000_BBC_News#start/789/end/824</field>
+<field name="datetime">8/4/2017 23:13:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170804_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170804_230000_BBC_News/BBCNEWS_20170804_230000_BBC_News.thumbs/BBCNEWS_20170804_230000_BBC_News_000777.jpg</field>
+<field name="snippet">the united states has given formal notice to the un that it intends to pull out of the paris climate agreement following president trump's decision to do so injune. the state department said the us would continue to participate in climate change meetings until the withdrawal process was completed.</field>
+</doc>
+</add>

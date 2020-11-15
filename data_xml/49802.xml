@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201703.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170310_140000_MSNBC_Live_With_Stephanie_Ruhle#start/3157/end/3192</field>
+<field name="datetime">3/10/2017 14:52:52</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Stephanie Ruhle</field>
+<field name="showid">MSNBCW_20170310_140000_MSNBC_Live_With_Stephanie_Ruhle</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170310_140000_MSNBC_Live_With_Stephanie_Ruhle/MSNBCW_20170310_140000_MSNBC_Live_With_Stephanie_Ruhle.thumbs/MSNBCW_20170310_140000_MSNBC_Live_With_Stephanie_Ruhle_003147.jpg</field>
+<field name="snippet">epa head scott pruitt yesterday said he does not believe carbon dioxide is a primary contributor to global warming. this is a stark contrast to what scientists told us.</field>
+</doc>
+</add>

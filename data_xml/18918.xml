@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201612.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161211_110000_Fox_and_Friends_Sunday#start/2075/end/2110</field>
+<field name="datetime">12/11/2016 11:34:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20161211_110000_Fox_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161211_110000_Fox_and_Friends_Sunday/FOXNEWSW_20161211_110000_Fox_and_Friends_Sunday.thumbs/FOXNEWSW_20161211_110000_Fox_and_Friends_Sunday_002068.jpg</field>
+<field name="snippet">fact she won only 1% of the vote. a day of the supreme court denied her appeal. climate change, a permanent part of the catholic church.</field>
+</doc>
+</add>

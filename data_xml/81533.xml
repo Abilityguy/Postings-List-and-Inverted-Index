@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091207_160000_MSNBC_News_Live#start/2027/end/2062</field>
+<field name="datetime">12/7/2009 16:34:02</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091207_160000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091207_160000_MSNBC_News_Live/MSNBC_20091207_160000_MSNBC_News_Live.thumbs/MSNBC_20091207_160000_MSNBC_News_Live_002010.jpg</field>
+<field name="snippet">technologies to help them adapt to climate change. those are the two big issues. who will pay for poor countries and cutting carbon dioxide emissions? things to keep your eye on as the conference evolves.</field>
+</doc>
+</add>

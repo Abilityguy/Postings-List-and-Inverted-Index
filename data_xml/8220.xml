@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190901_060000_Watters_World#start/2497/end/2532</field>
+<field name="datetime">9/1/2019 6:41:52</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Watters World</field>
+<field name="showid">FOXNEWSW_20190901_060000_Watters_World</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190901_060000_Watters_World/FOXNEWSW_20190901_060000_Watters_World.thumbs/FOXNEWSW_20190901_060000_Watters_World_002489.jpg</field>
+<field name="snippet">there's been a lot of errors in the scientific community. what happens if you have a kid that solves the climate crisis? you'd be denying the world -- you haven't got time for that. a nobel peace winning scientist.</field>
+</doc>
+</add>

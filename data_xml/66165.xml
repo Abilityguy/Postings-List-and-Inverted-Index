@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201808.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20180830_170000_MSNBC_Live_With_Craig_Melvin#start/2573/end/2608</field>
+<field name="datetime">8/30/2018 17:43:08</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Craig Melvin</field>
+<field name="showid">MSNBCW_20180830_170000_MSNBC_Live_With_Craig_Melvin</field>
+<field name="preview">https://archive.org/download/MSNBCW_20180830_170000_MSNBC_Live_With_Craig_Melvin/MSNBCW_20180830_170000_MSNBC_Live_With_Craig_Melvin.thumbs/MSNBCW_20180830_170000_MSNBC_Live_With_Craig_Melvin_002547.jpg</field>
+<field name="snippet">hosted by senator mccain and his remarkable wife cindy. there were world leaders in politics, business, science and education to discuss the most pressing matters of our time. issues like health care, global warming, technology and human</field>
+</doc>
+</add>

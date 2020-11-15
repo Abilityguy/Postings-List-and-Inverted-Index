@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201710.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171013_050000_Breakfast#start/5982/end/6017</field>
+<field name="datetime">10/13/2017 6:39:57</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20171013_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171013_050000_Breakfast/BBCNEWS_20171013_050000_Breakfast.thumbs/BBCNEWS_20171013_050000_Breakfast_005967.jpg</field>
+<field name="snippet">chemistry and greenhouse gases. it will provide information about our air quality and how our climate is changing. the mission is designed to last seven years and will fly 499 miles above the earth. joining us now from the european</field>
+</doc>
+</add>

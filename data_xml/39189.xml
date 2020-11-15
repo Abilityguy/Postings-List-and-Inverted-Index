@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100428_130000_Americas_Newsroom#start/106/end/141</field>
+<field name="datetime">4/28/2010 13:02:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20100428_130000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100428_130000_Americas_Newsroom/FOXNEWS_20100428_130000_Americas_Newsroom.thumbs/FOXNEWS_20100428_130000_Americas_Newsroom_000086.jpg</field>
+<field name="snippet">there's not an immigration bill ready to go yet, so he says congress will go with immigration second after climate change and that didn't sit well with the chief sponsor of legislation in the house, luis gutierrez, who says congress should be able to deal with two issues at the same time.</field>
+</doc>
+</add>

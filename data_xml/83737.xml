@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190405_040000_The_Briefing#start/72/end/107</field>
+<field name="datetime">4/5/2019 4:01:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20190405_040000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190405_040000_The_Briefing/BBCNEWS_20190405_040000_The_Briefing.thumbs/BBCNEWS_20190405_040000_The_Briefing_001287.jpg</field>
+<field name="snippet">of sustained global warming from the burning of fossil fuels around the globe. but scientist say the reef might still be able to recover over the next 5-10 years, if there are no further bleaching events. but the likelihood of that, they say, is almost inconceivable. caroline rigby, bbc news.</field>
+</doc>
+</add>

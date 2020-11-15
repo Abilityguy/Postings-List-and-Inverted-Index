@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180802_030000_BBC_News#start/676/end/711</field>
+<field name="datetime">8/2/2018 3:11:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180802_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180802_030000_BBC_News/BBCNEWS_20180802_030000_BBC_News.thumbs/BBCNEWS_20180802_030000_BBC_News_000657.jpg</field>
+<field name="snippet">ground to a halt. the governor of california, jerry brown, says climate change is behind a dangerous and accelerating increase in devastating wildfires. 93 large fires are currently burning</field>
+</doc>
+</add>

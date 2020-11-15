@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190614_200000_World_News_Today#start/1054/end/1089</field>
+<field name="datetime">6/14/2019 20:17:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190614_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190614_200000_World_News_Today/BBCNEWS_20190614_200000_World_News_Today.thumbs/BBCNEWS_20190614_200000_World_News_Today_001049.jpg</field>
+<field name="snippet">fruits of scientific analysis, and doomsday predictions can no longer be met with irony or disdain. discussion of climate change and energy in the best scientific research available today. representatives of almost</field>
+</doc>
+</add>

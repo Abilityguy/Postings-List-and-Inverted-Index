@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170123_231500_Newsnight#start/501/end/536</field>
+<field name="datetime">1/23/2017 23:23:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsnight</field>
+<field name="showid">BBCNEWS_20170123_231500_Newsnight</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170123_231500_Newsnight/BBCNEWS_20170123_231500_Newsnight.thumbs/BBCNEWS_20170123_231500_Newsnight_000477.jpg</field>
+<field name="snippet">then it's the uk first, then it's china first, then it's japan first. i think we need international cooperation to make sure that we have a world at peace, a world in which we effectively combat climate change and deal with so many of the other serious</field>
+</doc>
+</add>

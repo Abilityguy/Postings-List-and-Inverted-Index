@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201702.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170213_190000_100_Days#start/51/end/86</field>
+<field name="datetime">2/13/2017 19:01:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">100 Days</field>
+<field name="showid">BBCNEWS_20170213_190000_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170213_190000_100_Days/BBCNEWS_20170213_190000_100_Days.thumbs/BBCNEWS_20170213_190000_100_Days_000061.jpg</field>
+<field name="snippet">climate change, free trade and perhaps a whole host of other important issues, donald trump and justin trudeau are polar opposites.</field>
+</doc>
+</add>

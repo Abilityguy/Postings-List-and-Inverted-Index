@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200911.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091125_140000_Morning_Meeting#start/116/end/151</field>
+<field name="datetime">11/25/2009 14:02:11</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Meeting</field>
+<field name="showid">MSNBC_20091125_140000_Morning_Meeting</field>
+<field name="preview">https://archive.org/download/MSNBC_20091125_140000_Morning_Meeting/MSNBC_20091125_140000_Morning_Meeting.thumbs/MSNBC_20091125_140000_Morning_Meeting_000113.jpg</field>
+<field name="snippet">mike, but let's start with savannah. the president will announce today he will go to copenhagen for the climate change summit. this is the subject of speculation for a few weeks now. will he or will he not go,</field>
+</doc>
+</add>

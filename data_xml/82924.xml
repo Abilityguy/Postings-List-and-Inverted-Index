@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191016_220000_BBC_News#start/92/end/127</field>
+<field name="datetime">10/16/2019 22:01:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191016_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191016_220000_BBC_News/BBCNEWS_20191016_220000_BBC_News.thumbs/BBCNEWS_20191016_220000_BBC_News_000088.jpg</field>
+<field name="snippet">william and kate in the mountains of the hindu kush to see for themselves the effects of global warming. and at 11:30pm, we will be taking an in-depth look at the papers with our reviewers, john rentoul, chief political commentator at the independent, and journalist at the wall streetjournal anna isaac.</field>
+</doc>
+</add>

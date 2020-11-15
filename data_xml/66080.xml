@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190214_010000_Tucker_Carlson_Tonight#start/21/end/56</field>
+<field name="datetime">2/14/2019 1:00:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190214_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190214_010000_Tucker_Carlson_Tonight/FOXNEWSW_20190214_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190214_010000_Tucker_Carlson_Tonight_000028.jpg</field>
+<field name="snippet">tonight. for decades now you have been hearing about the threat that global climate change poses to this country and to the world. al gore warned you about all of it in a best-selling book and an award-winning documentary bill nye the science guy has done a bunch</field>
+</doc>
+</add>

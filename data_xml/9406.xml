@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170703_170000_Happening_Now#start/2221/end/2256</field>
+<field name="datetime">7/3/2017 17:37:16</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20170703_170000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170703_170000_Happening_Now/FOXNEWSW_20170703_170000_Happening_Now.thumbs/FOXNEWSW_20170703_170000_Happening_Now_002218.jpg</field>
+<field name="snippet">about the human's role in climate change. joining us now, richard fowler, fox news contributor and radio talk show host along with a republican strategist.</field>
+</doc>
+</add>

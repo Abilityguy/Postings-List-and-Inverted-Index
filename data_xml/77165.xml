@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191115_110000_BBC_Newsroom_Live#start/5858/end/5893</field>
+<field name="datetime">11/15/2019 12:37:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20191115_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191115_110000_BBC_Newsroom_Live/BBCNEWS_20191115_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20191115_110000_BBC_Newsroom_Live_005848.jpg</field>
+<field name="snippet">revenues expected to be raised over the next five years should be set aside to help areas heavily dependent on oil and gas, like aberdeen, switch to a greener economy and help tackle the climate crisis.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100407_100000_FOX_and_Friends#start/546/end/581</field>
+<field name="datetime">4/7/2010 10:09:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100407_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100407_100000_FOX_and_Friends/FOXNEWS_20100407_100000_FOX_and_Friends.thumbs/FOXNEWS_20100407_100000_FOX_and_Friends_000536.jpg</field>
+<field name="snippet">government. we don't know for sure if it would be a value added tax. paul volcker said it wouldn't be as toxic as some people said and said maybe if not a value added tax, perhaps some sort of a carbon tax. what's interesting is said we</field>
+</doc>
+</add>

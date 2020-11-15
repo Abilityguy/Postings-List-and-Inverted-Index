@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201511.csv</field>
+<field name="url">https://archive.org/details/CNNW_20151128_090000_CNN_Newsroom_Live#start/17/end/52</field>
+<field name="datetime">11/28/2015 9:00:32</field>
+<field name="station">CNN</field>
+<field name="show">CNN Newsroom Live</field>
+<field name="showid">CNNW_20151128_090000_CNN_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/CNNW_20151128_090000_CNN_Newsroom_Live/CNNW_20151128_090000_CNN_Newsroom_Live.thumbs/CNNW_20151128_090000_CNN_Newsroom_Live_000045.jpg</field>
+<field name="snippet">three dead in colorado after a standoff at a woman's health center. we'll bring you the developments in the latest mass shooting in the u.s. paris counts down to a global climate change summit. security concerns threaten to overshadow the big event.</field>
+</doc>
+</add>

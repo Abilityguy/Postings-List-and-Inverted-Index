@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091221_140000_Americas_Newsroom#start/6828/end/6863</field>
+<field name="datetime">12/21/2009 15:54:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20091221_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091221_140000_Americas_Newsroom/FOXNEWS_20091221_140000_Americas_Newsroom.thumbs/FOXNEWS_20091221_140000_Americas_Newsroom_006826.jpg</field>
+<field name="snippet">forget about that global warming talk. disrupting air travel. airports across europe are shut down. including germany's third biggest. commuter train crashes in the past 24 hours have at least 100 people injured.</field>
+</doc>
+</add>

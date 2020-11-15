@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201208.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120802_200000_Your_World_With_Neil_Cavuto#start/2398/end/2433</field>
+<field name="datetime">8/2/2012 20:40:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Your World With Neil Cavuto</field>
+<field name="showid">FOXNEWSW_20120802_200000_Your_World_With_Neil_Cavuto</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120802_200000_Your_World_With_Neil_Cavuto/FOXNEWSW_20120802_200000_Your_World_With_Neil_Cavuto.thumbs/FOXNEWSW_20120802_200000_Your_World_With_Neil_Cavuto_002400.jpg</field>
+<field name="snippet">global warming is as deadly as the situation in syria? i believe the situation we face, mr. president, is as dangerous as any of the real crisis we talk about today.</field>
+</doc>
+</add>

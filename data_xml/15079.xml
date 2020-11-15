@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201306.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130618_010000_Hannity#start/3406/end/3441</field>
+<field name="datetime">6/18/2013 1:57:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20130618_010000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130618_010000_Hannity/FOXNEWSW_20130618_010000_Hannity.thumbs/FOXNEWSW_20130618_010000_Hannity_003405.jpg</field>
+<field name="snippet">they talk about global warming and carbon footprints. how many hollywood stars travel in private jets like al gore and</field>
+</doc>
+</add>

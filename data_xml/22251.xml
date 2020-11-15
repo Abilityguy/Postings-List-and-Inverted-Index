@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201203.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20120322_130000_Americas_Newsroom#start/6352/end/6387</field>
+<field name="datetime">3/22/2012 14:46:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWSW_20120322_130000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20120322_130000_Americas_Newsroom/FOXNEWSW_20120322_130000_Americas_Newsroom.thumbs/FOXNEWSW_20120322_130000_Americas_Newsroom_006355.jpg</field>
+<field name="snippet">he aired a video online. the new intel assessment saying that developing nations meet demand from a growing population dealing with the affects of climate change. 14 now before the hour, martha.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200907.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20090716_010000_The_Rachel_Maddow_Show#start/2456/end/2491</field>
+<field name="datetime">7/16/2009 1:41:11</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBC_20090716_010000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20090716_010000_The_Rachel_Maddow_Show/MSNBC_20090716_010000_The_Rachel_Maddow_Show.thumbs/MSNBC_20090716_010000_The_Rachel_Maddow_Show_002455.jpg</field>
+<field name="snippet">tracking candidates' positions, a group called see through the podium. quote, john mccain and sarah palin have proposed a cap and trade system that would reduce greenhouse gas emissions. a climate cap and trade mechanism would set a limit on greenhouse gas emissions.</field>
+</doc>
+</add>

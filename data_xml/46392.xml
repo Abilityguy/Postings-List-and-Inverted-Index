@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201510.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151027_040000_The_Rachel_Maddow_Show#start/819/end/854</field>
+<field name="datetime">10/27/2015 4:13:54</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBCW_20151027_040000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151027_040000_The_Rachel_Maddow_Show/MSNBCW_20151027_040000_The_Rachel_Maddow_Show.thumbs/MSNBCW_20151027_040000_The_Rachel_Maddow_Show_000795.jpg</field>
+<field name="snippet">i'm glad that hillary clinton has come on board and now said, well, she's against the keystone pipeline. well, you know what? if you take climate change seriously and you understand the cataclysmic impact that it will have on this planet, it is a no-brainer. i've been against that from day one.</field>
+</doc>
+</add>

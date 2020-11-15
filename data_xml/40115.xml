@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201907.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190708_090000_First_Look#start/2751/end/2786</field>
+<field name="datetime">7/8/2019 9:46:06</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20190708_090000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190708_090000_First_Look/MSNBCW_20190708_090000_First_Look.thumbs/MSNBCW_20190708_090000_First_Look_002729.jpg</field>
+<field name="snippet">the hot streak. it's actually very cold in northern canada, a big ridge of high pressure is what's causing it to be so warm. it has been stagnant. you asked me the question last hour, is this climate change, you can't associate one event just with climate change but i would tell you, without climate</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201604.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160415_090000_Fox_and_Friends_First#start/2075/end/2110</field>
+<field name="datetime">4/15/2016 9:34:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20160415_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160415_090000_Fox_and_Friends_First/FOXNEWSW_20160415_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20160415_090000_Fox_and_Friends_First_002067.jpg</field>
+<field name="snippet">32 percent of the voters say the economy is the most important. the next most important terrorism. healthcare, climate change in the federal deficit round out the top 5. voters it is clear they are frustrated. 42 percent say they are satisfied now with how things</field>
+</doc>
+</add>

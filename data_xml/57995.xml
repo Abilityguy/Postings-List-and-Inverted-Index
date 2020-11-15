@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201502.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150209_220000_The_Ed_Show#start/30/end/65</field>
+<field name="datetime">2/9/2015 22:00:45</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20150209_220000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150209_220000_The_Ed_Show/MSNBCW_20150209_220000_The_Ed_Show.thumbs/MSNBCW_20150209_220000_The_Ed_Show_000045.jpg</field>
+<field name="snippet">tonight, president obama sounds off on the biggest issue of our time. climate change is one that is happening at such a broad scale. clearly, we have had changes in our climate. i have heard some folks try to dodge the evidence by saying</field>
+</doc>
+</add>

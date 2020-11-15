@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201406.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140624_090000_First_Look#start/933/end/968</field>
+<field name="datetime">6/24/2014 9:15:48</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20140624_090000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140624_090000_First_Look/MSNBCW_20140624_090000_First_Look.thumbs/MSNBCW_20140624_090000_First_Look_000916.jpg</field>
+<field name="snippet">grim outlook on potential effects of climate change in the u.s. the estimated cost of high temps, $12 billion per year. extreme storms, $35 billion annually. and rising seas putting up to $106 billion worth of coastal</field>
+</doc>
+</add>

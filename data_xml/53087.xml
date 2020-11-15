@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201111.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20111104_100000_Morning_Joe#start/8947/end/8982</field>
+<field name="datetime">11/4/2011 12:29:22</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20111104_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20111104_100000_Morning_Joe/MSNBCW_20111104_100000_Morning_Joe.thumbs/MSNBCW_20111104_100000_Morning_Joe_008937.jpg</field>
+<field name="snippet">and by the way, people who are confused right now, munching their cheetos. i'm not saying there is not global warming. i'm saying there is. but your comparison -- well, i think that -- as herman cain would say, apples, oranges. they're both fruit, aren't</field>
+</doc>
+</add>

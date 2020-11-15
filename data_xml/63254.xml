@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190331_040000_BBC_News#start/947/end/982</field>
+<field name="datetime">3/31/2019 4:16:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190331_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190331_040000_BBC_News/BBCNEWS_20190331_040000_BBC_News.thumbs/BBCNEWS_20190331_040000_BBC_News_000928.jpg</field>
+<field name="snippet">to fight climate change. the accident that happened here was of the sort that can at worst produce a meltdown. in this case the precautions worked,</field>
+</doc>
+</add>

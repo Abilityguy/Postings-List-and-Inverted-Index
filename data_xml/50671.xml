@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201501.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150121_210000_NOW_With_Alex_Wagner#start/3345/end/3380</field>
+<field name="datetime">1/21/2015 21:56:00</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20150121_210000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150121_210000_NOW_With_Alex_Wagner/MSNBCW_20150121_210000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20150121_210000_NOW_With_Alex_Wagner_003346.jpg</field>
+<field name="snippet">coming up the senate just voted on whether climate change is a hoax. i will have those results for you coming up next.</field>
+</doc>
+</add>

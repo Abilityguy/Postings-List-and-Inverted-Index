@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200114_020000_BBC_News#start/306/end/341</field>
+<field name="datetime">1/14/2020 2:05:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200114_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200114_020000_BBC_News/BBCNEWS_20200114_020000_BBC_News.thumbs/BBCNEWS_20200114_020000_BBC_News_000299.jpg</field>
+<field name="snippet">thank you very much for your time. what are the fires telling you?” think these fires are a real wake-up call that we need to take climate</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201907.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190714_230000_Kasie_DC#start/1569/end/1604</field>
+<field name="datetime">7/14/2019 23:26:24</field>
+<field name="station">MSNBC</field>
+<field name="show">Kasie DC</field>
+<field name="showid">MSNBCW_20190714_230000_Kasie_DC</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190714_230000_Kasie_DC/MSNBCW_20190714_230000_Kasie_DC.thumbs/MSNBCW_20190714_230000_Kasie_DC_001558.jpg</field>
+<field name="snippet">quote, if somebody wants a candidate who will make health care a right, raise wages, deal with climate change and immigration reform and justice reform, bernie sanders is your candidate. if you want somebody who will talk about their cooking, their dog, wardrobe, travel habits or favorite books, bernie sanders</field>
+</doc>
+</add>

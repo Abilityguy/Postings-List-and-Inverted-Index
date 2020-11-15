@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181108_200000_BBC_News#start/2574/end/2609</field>
+<field name="datetime">11/8/2018 20:43:09</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181108_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181108_200000_BBC_News/BBCNEWS_20181108_200000_BBC_News.thumbs/BBCNEWS_20181108_200000_BBC_News_002547.jpg</field>
+<field name="snippet">introduce the 2015 21 meeting which was the meeting in paris which led to the paris climate agreement, which is the most important milestone and dealing with climate change, at least we hope it will be.</field>
+</doc>
+</add>

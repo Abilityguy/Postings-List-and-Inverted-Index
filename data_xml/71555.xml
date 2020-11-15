@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190113_200000_The_Journal_Editorial_Report#start/1834/end/1869</field>
+<field name="datetime">1/13/2019 20:30:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Journal Editorial Report</field>
+<field name="showid">FOXNEWSW_20190113_200000_The_Journal_Editorial_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190113_200000_The_Journal_Editorial_Report/FOXNEWSW_20190113_200000_The_Journal_Editorial_Report.thumbs/FOXNEWSW_20190113_200000_The_Journal_Editorial_Report_001827.jpg</field>
+<field name="snippet">paul: a new report shows carbon emissions rising in the united states in 2018 after three years of decline. that news calls for a plan to reduce greenhouse gases and at least one idea is getting buy-in</field>
+</doc>
+</add>

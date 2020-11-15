@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190402_050000_Breakfast#start/305/end/340</field>
+<field name="datetime">4/2/2019 5:05:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190402_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190402_050000_Breakfast/BBCNEWS_20190402_050000_Breakfast.thumbs/BBCNEWS_20190402_050000_Breakfast_000298.jpg</field>
+<field name="snippet">and some red faces in the house of commons yesterday. iam not i am not sure if you saw it. this was one of the images of the day. a dozen demonstrators stripped down in the public gallery to protest the government's inaction over climate change. police said they were were arrested</field>
+</doc>
+</add>

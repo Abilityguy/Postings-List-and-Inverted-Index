@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201506.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150616_210000_The_Five#start/2437/end/2472</field>
+<field name="datetime">6/16/2015 21:40:52</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20150616_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150616_210000_The_Five/FOXNEWSW_20150616_210000_The_Five.thumbs/FOXNEWSW_20150616_210000_The_Five_002385.jpg</field>
+<field name="snippet">on thursday pope francis will release a letter to catholic bishops called an encyclical. this is a message that will focus on the environment. the pontiff is expected to warn the world about climate change. an italian magazine has leaked a draft of it.</field>
+</doc>
+</add>

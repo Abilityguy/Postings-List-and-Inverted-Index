@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100211_090000_Special_Report_With_Bret_Baier#start/1840/end/1875</field>
+<field name="datetime">2/11/2010 9:30:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100211_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100211_090000_Special_Report_With_Bret_Baier/FOXNEWS_20100211_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100211_090000_Special_Report_With_Bret_Baier_001824.jpg</field>
+<field name="snippet">of global warming had to be postponed because of the snow and frigid temperatures. meantime, mass democratic senator john kerry tells the hill newspaper those who think climate legislation is dead for the year because of the harsh</field>
+</doc>
+</add>

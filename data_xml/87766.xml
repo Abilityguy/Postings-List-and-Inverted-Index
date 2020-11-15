@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191223_150000_BBC_News#start/2090/end/2125</field>
+<field name="datetime">12/23/2019 15:35:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191223_150000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191223_150000_BBC_News/BBCNEWS_20191223_150000_BBC_News.thumbs/BBCNEWS_20191223_150000_BBC_News_002069.jpg</field>
+<field name="snippet">that's all the sport for now. i'll have more for you in the next hour. the australian prime minister, scott morrison, has restated his support of the coal industry, despite conceding that climate change is a factor in the extreme hot weather fuelling</field>
+</doc>
+</add>

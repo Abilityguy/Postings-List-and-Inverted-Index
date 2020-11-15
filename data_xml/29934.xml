@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191101_210000_MTP_Daily#start/3358/end/3393</field>
+<field name="datetime">11/1/2019 21:56:13</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20191101_210000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191101_210000_MTP_Daily/MSNBCW_20191101_210000_MTP_Daily.thumbs/MSNBCW_20191101_210000_MTP_Daily_003358.jpg</field>
+<field name="snippet">your report? yes, well, first of all, thanks so much for having me to discuss this important topic. and you're exactly right. there's no new projection of the speed of sea level rise or climate change here. but we had something that seems</field>
+</doc>
+</add>

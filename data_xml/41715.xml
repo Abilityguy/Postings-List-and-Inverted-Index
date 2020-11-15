@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201301.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130122_210000_Martin_Bashir#start/34/end/69</field>
+<field name="datetime">1/22/2013 21:00:49</field>
+<field name="station">MSNBC</field>
+<field name="show">Martin Bashir</field>
+<field name="showid">MSNBCW_20130122_210000_Martin_Bashir</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130122_210000_Martin_Bashir/MSNBCW_20130122_210000_Martin_Bashir.thumbs/MSNBCW_20130122_210000_Martin_Bashir_000016.jpg</field>
+<field name="snippet">qu 'the cycle.' martin bashir picks up our coverage. thank you. it's a day after the president's inauguration and we wanted to talk about the president's second term agenda, we wanted to talk about his call to action on a range of issues from equal rights to immigration to climate</field>
+</doc>
+</add>

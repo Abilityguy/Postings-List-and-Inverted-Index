@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_110000_BBC_Newsroom_Live#start/5626/end/5661</field>
+<field name="datetime">1/16/2020 12:34:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20200116_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_110000_BBC_Newsroom_Live/BBCNEWS_20200116_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20200116_110000_BBC_Newsroom_Live_005608.jpg</field>
+<field name="snippet">this happened on his watch, and i suppose i was reflecting on the length of his career, and for a long while presumably, climate change wasn't really an issue. definitely. although some scientist in the 70s and particularly 80s had started to</field>
+</doc>
+</add>

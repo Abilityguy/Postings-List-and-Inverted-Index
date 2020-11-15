@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171212_110000_BBC_Newsroom_Live#start/6281/end/6316</field>
+<field name="datetime">12/12/2017 12:44:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20171212_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171212_110000_BBC_Newsroom_Live/BBCNEWS_20171212_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20171212_110000_BBC_Newsroom_Live_006267.jpg</field>
+<field name="snippet">emmanuel macron, has been speaking about president trump's decision to pull out of the paris climate change accord. his comments came before theresa may</field>
+</doc>
+</add>

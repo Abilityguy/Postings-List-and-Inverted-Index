@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190512_003000_The_Travel_Show#start/1063/end/1098</field>
+<field name="datetime">5/12/2019 0:47:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Travel Show</field>
+<field name="showid">BBCNEWS_20190512_003000_The_Travel_Show</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190512_003000_The_Travel_Show/BBCNEWS_20190512_003000_The_Travel_Show.thumbs/BBCNEWS_20190512_003000_The_Travel_Show_001048.jpg</field>
+<field name="snippet">mike corey's been to big sur to find out why climate change is causing some to fear for the future of this amazing species.</field>
+</doc>
+</add>

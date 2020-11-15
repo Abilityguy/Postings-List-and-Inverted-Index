@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170707_140000_BBC_News#start/154/end/189</field>
+<field name="datetime">7/7/2017 14:02:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170707_140000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170707_140000_BBC_News/BBCNEWS_20170707_140000_BBC_News.thumbs/BBCNEWS_20170707_140000_BBC_News_000147.jpg</field>
+<field name="snippet">see what transpires. it's a summit where the background is set by global tension. whether that's north korea, climate change. donald trump facing off many leaders. at odds with them on so many issues. we look</field>
+</doc>
+</add>

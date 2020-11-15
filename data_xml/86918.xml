@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191223_030000_BBC_News#start/1813/end/1848</field>
+<field name="datetime">12/23/2019 3:30:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191223_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191223_030000_BBC_News/BBCNEWS_20191223_030000_BBC_News.thumbs/BBCNEWS_20191223_030000_BBC_News_001798.jpg</field>
+<field name="snippet">there've been reports of civilian deaths in air strikes on towns and villages. more than 100 bushfires are still burning in new south wales in australia. as firefighters struggle to control blazes, prime minister scott morrison has acknowledged a link between global warming and extreme weather.</field>
+</doc>
+</add>

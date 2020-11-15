@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201810.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181015_100000_Morning_Joe#start/10828/end/10863</field>
+<field name="datetime">10/15/2018 13:00:43</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20181015_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181015_100000_Morning_Joe/MSNBCW_20181015_100000_Morning_Joe.thumbs/MSNBCW_20181015_100000_Morning_Joe_010827.jpg</field>
+<field name="snippet">i'm chris janicing in for stephanie ruhle. this morning, president trump heads to the storm zone just moments from now, days after michael ravaged the panhandle and hours after that wide-ranging interview with '60 minutes,' talking everything from climate change to his</field>
+</doc>
+</add>

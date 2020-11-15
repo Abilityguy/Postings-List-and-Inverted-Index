@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201411.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141118_230000_Special_Report_With_Bret_Baier#start/2726/end/2761</field>
+<field name="datetime">11/18/2014 23:45:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20141118_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141118_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20141118_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20141118_230000_Special_Report_With_Bret_Baier_002715.jpg</field>
+<field name="snippet">this will have very little effect on the fate of mary landrieu. however the president has indicated in the past that he considers his moves on the environment in terms of the epa regulations, the deal with china, those climate change</field>
+</doc>
+</add>

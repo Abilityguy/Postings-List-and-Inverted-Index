@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190515_180000_Beyond_100_Days#start/3278/end/3313</field>
+<field name="datetime">5/15/2019 18:54:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20190515_180000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190515_180000_Beyond_100_Days/BBCNEWS_20190515_180000_Beyond_100_Days.thumbs/BBCNEWS_20190515_180000_Beyond_100_Days_003268.jpg</field>
+<field name="snippet">we need more of those good news stories when it comes to climate change. you have probably never been to prom, but it has a big deal in the united states, and for one</field>
+</doc>
+</add>

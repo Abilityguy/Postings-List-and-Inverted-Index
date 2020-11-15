@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190803_160000_BBC_News#start/1947/end/1982</field>
+<field name="datetime">8/3/2019 16:32:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190803_160000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190803_160000_BBC_News/BBCNEWS_20190803_160000_BBC_News.thumbs/BBCNEWS_20190803_160000_BBC_News_001947.jpg</field>
+<field name="snippet">emissions have to stop. it's the biggest threat to our climate. the government plans to cut greenhouse gas emissions almost completely by 2050. as part of the plan, coal-fired energy plants will be phased out over the next six years.</field>
+</doc>
+</add>

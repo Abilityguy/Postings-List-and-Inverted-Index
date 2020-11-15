@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201904.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190401_190000_MSNBC_Live_With_Ali_Velshi#start/1781/end/1816</field>
+<field name="datetime">4/1/2019 19:29:56</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190401_190000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190401_190000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190401_190000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190401_190000_MSNBC_Live_With_Ali_Velshi_001768.jpg</field>
+<field name="snippet">other things. because of its unique location, the baseline observatory is only one of four sites in the world taking critical greenhouse gas measurements. why is it important to sample those gases? what's happening with the greenhouse gases, as you may</field>
+</doc>
+</add>

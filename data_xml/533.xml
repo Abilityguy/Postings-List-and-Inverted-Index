@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171115_200000_BBC_News#start/2824/end/2859</field>
+<field name="datetime">11/15/2017 20:47:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171115_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171115_200000_BBC_News/BBCNEWS_20171115_200000_BBC_News.thumbs/BBCNEWS_20171115_200000_BBC_News_002818.jpg</field>
+<field name="snippet">a steadily increasing level of greenhouse gases. so there's a huge gap between what politicians are doing and what they admit they need to do. and unless things improve, scientists think we're heading for a dangerous temperature rise of three celsius.</field>
+</doc>
+</add>

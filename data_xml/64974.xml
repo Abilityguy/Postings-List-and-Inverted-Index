@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190307_090000_Fox_and_Friends_First#start/3487/end/3522</field>
+<field name="datetime">3/7/2019 9:58:22</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190307_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190307_090000_Fox_and_Friends_First/FOXNEWSW_20190307_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190307_090000_Fox_and_Friends_First_003328.jpg</field>
+<field name="snippet">voting age to 16. massachusetts congresswoman presley is pushing for the change. it is her first amendment since taking office in january. she says it would allow young people to weigh in on key issues like gun violence and climate</field>
+</doc>
+</add>

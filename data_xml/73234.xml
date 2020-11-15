@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190122_110000_BBC_Newsroom_Live#start/5423/end/5458</field>
+<field name="datetime">1/22/2019 12:30:38</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190122_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190122_110000_BBC_Newsroom_Live/BBCNEWS_20190122_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190122_110000_BBC_Newsroom_Live_005399.jpg</field>
+<field name="snippet">actually had to change the location for the event where prince william will be interviewing sir david attenborough, because there is so much interest from delegates here. and the issue of climate change, the issue of extreme weather events, how they are impacting the global</field>
+</doc>
+</add>

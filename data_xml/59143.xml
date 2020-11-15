@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181128_050000_The_Briefing#start/66/end/101</field>
+<field name="datetime">11/28/2018 5:01:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20181128_050000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181128_050000_The_Briefing/BBCNEWS_20181128_050000_The_Briefing.thumbs/BBCNEWS_20181128_050000_The_Briefing_000057.jpg</field>
+<field name="snippet">in global news, business and sport. also in the programme: eefforts to tackle climate change are way off track, says the un, with the first rise in co2 emissions in four years. so is drastic action needed? two mums in sweden have launched a campaign urging people not to fly in 2019.</field>
+</doc>
+</add>

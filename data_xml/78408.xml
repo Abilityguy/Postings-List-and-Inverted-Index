@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191115_230000_BBC_News#start/920/end/955</field>
+<field name="datetime">11/15/2019 23:15:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191115_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191115_230000_BBC_News/BBCNEWS_20191115_230000_BBC_News.thumbs/BBCNEWS_20191115_230000_BBC_News_000899.jpg</field>
+<field name="snippet">other election news. the liberal democrats say they would invest heavily in tackling climate change if they're elected to power. they want to spend £100 billion over five years in areas such as clean energy and transport, and home insulation. and they reiterated their decision not to go into any kind of coalition in the event of a hung parliament.</field>
+</doc>
+</add>

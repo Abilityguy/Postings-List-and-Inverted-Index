@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190921_030000_BBC_News#start/0/end/28</field>
+<field name="datetime">9/21/2019 3:00:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190921_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190921_030000_BBC_News/BBCNEWS_20190921_030000_BBC_News.thumbs/BBCNEWS_20190921_030000_BBC_News_001678.jpg</field>
+<field name="snippet">still with these weather fronts working their way in and at times, some really quite strong winds. quite a change on the way. 00:29:13037 --> 4294966103:13:29430 breaking the record by six minutes. this is bbc news, the headlines: a day of worldwide protests on climate change has reached its climax in new york, with a rally addressed by greta thunberg. the swedish teenage addressed large</field>
+</doc>
+</add>

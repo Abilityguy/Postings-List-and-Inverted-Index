@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201705.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170524_150000_MSNBC_Live#start/242/end/277</field>
+<field name="datetime">5/24/2017 15:04:17</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170524_150000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170524_150000_MSNBC_Live/MSNBCW_20170524_150000_MSNBC_Live.thumbs/MSNBCW_20170524_150000_MSNBC_Live_000238.jpg</field>
+<field name="snippet">claudio, the president and the pontiff hold different views from issues like immigration, climate change to arms sales. did they discuss any of those issues? well, the vatican issued a statement right after the meeting, and they said they talked about three particular issues. one was health care.</field>
+</doc>
+</add>

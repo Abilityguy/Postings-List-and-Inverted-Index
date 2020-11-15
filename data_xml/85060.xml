@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201211.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121102_090000_First_Look#start/880/end/915</field>
+<field name="datetime">11/2/2012 9:14:55</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20121102_090000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121102_090000_First_Look/MSNBCW_20121102_090000_First_Look.thumbs/MSNBCW_20121102_090000_First_Look_000868.jpg</field>
+<field name="snippet">applauds the president's record on climate change. so how will it shake out on tuesday? i think romney has a 50/50 chance to win the popular vote. i think it's harder to see him winning the electoral vote. reporter: a possible split verdict from a nation already deeply divided.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091010_030000_The_OReilly_Factor#start/3186/end/3221</field>
+<field name="datetime">10/10/2009 3:53:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20091010_030000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091010_030000_The_OReilly_Factor/FOXNEWS_20091010_030000_The_OReilly_Factor.thumbs/FOXNEWS_20091010_030000_The_OReilly_Factor_003173.jpg</field>
+<field name="snippet">it's san francisco. doesn't matter, man. there is ananimosity everywhere, bill. have you got to know this. i got in a fight on a cable car. bill: here is the bottom line. this is the second dumbest. do you know what caused that, ladies and gentlemen? global warming.</field>
+</doc>
+</add>

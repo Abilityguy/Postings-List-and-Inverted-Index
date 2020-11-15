@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201003.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100327_110000_MSNBC_News_Live#start/1304/end/1339</field>
+<field name="datetime">3/27/2010 11:21:59</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100327_110000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100327_110000_MSNBC_News_Live/MSNBC_20100327_110000_MSNBC_News_Live.thumbs/MSNBC_20100327_110000_MSNBC_News_Live_001285.jpg</field>
+<field name="snippet">with you, but john mccain knows what he's talking about on all these issues like immigration and climate change and health care. he's an expert on so many issues and he's a legislator who tries to get things done. sarah palin is not even in the government, not even interested in being in the government,</field>
+</doc>
+</add>

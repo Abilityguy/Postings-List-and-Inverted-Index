@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_100000_BBC_Newsroom_Live#start/3612/end/3647</field>
+<field name="datetime">9/20/2019 11:00:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190920_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_100000_BBC_Newsroom_Live/BBCNEWS_20190920_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190920_100000_BBC_Newsroom_Live_003598.jpg</field>
+<field name="snippet">stories this morning. a day of global climate change protests. the aim - to get businesses and governments to cut emissions. around 5000 demonstrations are planned across 150 countries, including here in the uk,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201912.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191217_040000_The_11th_Hour_With_Brian_Williams#start/2408/end/2443</field>
+<field name="datetime">12/17/2019 4:40:23</field>
+<field name="station">MSNBC</field>
+<field name="show">The 11th Hour With Brian Williams</field>
+<field name="showid">MSNBCW_20191217_040000_The_11th_Hour_With_Brian_Williams</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191217_040000_The_11th_Hour_With_Brian_Williams/MSNBCW_20191217_040000_The_11th_Hour_With_Brian_Williams.thumbs/MSNBCW_20191217_040000_The_11th_Hour_With_Brian_Williams_002398.jpg</field>
+<field name="snippet">i'm tom steyer and i approve this message because the only way we get universal healthcare, address climate change and make our economy more fair is to change business as usual in washington.</field>
+</doc>
+</add>

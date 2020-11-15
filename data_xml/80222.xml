@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190520_160000_Outnumbered#start/2152/end/2187</field>
+<field name="datetime">5/20/2019 16:36:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Outnumbered</field>
+<field name="showid">FOXNEWSW_20190520_160000_Outnumbered</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190520_160000_Outnumbered/FOXNEWSW_20190520_160000_Outnumbered.thumbs/FOXNEWSW_20190520_160000_Outnumbered_002130.jpg</field>
+<field name="snippet">this is tough talk and i don't think there's more behind it? i'm not okay. yes, marie is advising seth moulton. there's been -- climate change has played a role in the rise of terror threats.</field>
+</doc>
+</add>

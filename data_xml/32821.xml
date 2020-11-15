@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091201_090000_Special_Report_With_Bret_Baier#start/662/end/697</field>
+<field name="datetime">12/1/2009 9:11:17</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091201_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091201_090000_Special_Report_With_Bret_Baier/FOXNEWS_20091201_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091201_090000_Special_Report_With_Bret_Baier_000656.jpg</field>
+<field name="snippet">the push for action on climate change? well, the momentum for that was already declining, because global warming, climate change, has been dropping lower and lower in people's list of priorities for a long time now, and doubts about whether man is</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191018_170000_BBC_News_at_Six#start/1439/end/1474</field>
+<field name="datetime">10/18/2019 17:24:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20191018_170000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191018_170000_BBC_News_at_Six/BBCNEWS_20191018_170000_BBC_News_at_Six.thumbs/BBCNEWS_20191018_170000_BBC_News_at_Six_001437.jpg</field>
+<field name="snippet">taking in themes of education, health care and the huge threat of climate change. they've been greeted with real affection as they have offered the message that pakistan is open to visitors. jonny dymond, bbc news, islamabad.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_130000_Afternoon_Live#start/10809/end/10844</field>
+<field name="datetime">9/20/2019 16:00:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190920_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_130000_Afternoon_Live/BBCNEWS_20190920_130000_Afternoon_Live.thumbs/BBCNEWS_20190920_130000_Afternoon_Live_010768.jpg</field>
+<field name="snippet">today at five - millions protest around the world - demanding greater action on climate change. schoolchildren lead the way in the uk - with thousands out on the streets in glasgow, manchester and london.</field>
+</doc>
+</add>

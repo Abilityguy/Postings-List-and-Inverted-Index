@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201104.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110428_150000_Happening_Now#start/1617/end/1652</field>
+<field name="datetime">4/28/2011 15:27:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20110428_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110428_150000_Happening_Now/FOXNEWS_20110428_150000_Happening_Now.thumbs/FOXNEWS_20110428_150000_Happening_Now_001615.jpg</field>
+<field name="snippet">risen we've actually seen fewer tornadoes. so we need to be very careful not just to jump to the conclusion and say, oh, then it's because of global warming. jon: this tuscaloosa tornado that we're looking at there, thought to be a mile wide,</field>
+</doc>
+</add>

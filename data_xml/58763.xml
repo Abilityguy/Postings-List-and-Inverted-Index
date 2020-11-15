@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181118_170000_BBC_News#start/2114/end/2149</field>
+<field name="datetime">11/18/2018 17:35:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181118_170000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181118_170000_BBC_News/BBCNEWS_20181118_170000_BBC_News.thumbs/BBCNEWS_20181118_170000_BBC_News_002097.jpg</field>
+<field name="snippet">to implement the paris agreement on climate change is going to be negotiated. we need ambition. we need ambition from every government that is going to be there.</field>
+</doc>
+</add>

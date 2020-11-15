@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201301.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130119_200000_MSNBC_Live#start/2704/end/2739</field>
+<field name="datetime">1/19/2013 20:45:19</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20130119_200000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130119_200000_MSNBC_Live/MSNBCW_20130119_200000_MSNBC_Live.thumbs/MSNBCW_20130119_200000_MSNBC_Live_002687.jpg</field>
+<field name="snippet">immigration reform, climate change, balanced deficit reduction, reducing gun violence and the implementation of the affordable care act. with me now, jim messina, the man responsible for re-electing the president and heading this new non-profit group and he's</field>
+</doc>
+</add>

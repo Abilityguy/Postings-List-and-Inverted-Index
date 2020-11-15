@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201501.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150125_180000_Americas_News_Headquarters#start/238/end/273</field>
+<field name="datetime">1/25/2015 18:04:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20150125_180000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150125_180000_Americas_News_Headquarters/FOXNEWSW_20150125_180000_Americas_News_Headquarters.thumbs/FOXNEWSW_20150125_180000_Americas_News_Headquarters_000225.jpg</field>
+<field name="snippet">to make promises on trade agreements and also an eventual climate change deal, but the issues in the middle east causing an interruption.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100425_190000_The_OReilly_Factor#start/537/end/572</field>
+<field name="datetime">4/25/2010 19:09:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20100425_190000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100425_190000_The_OReilly_Factor/FOXNEWS_20100425_190000_The_OReilly_Factor.thumbs/FOXNEWS_20100425_190000_The_OReilly_Factor_000510.jpg</field>
+<field name="snippet">the administration, to some republicans, are rubbed the wrong way to their reaction, the gop now pulling its support from climate change legislation because the administration is moving in congress to tackle immigration reform first.</field>
+</doc>
+</add>

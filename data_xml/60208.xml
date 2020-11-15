@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181014_193000_The_Travel_Show#start/0/end/34</field>
+<field name="datetime">10/14/2018 19:30:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Travel Show</field>
+<field name="showid">BBCNEWS_20181014_193000_The_Travel_Show</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181014_193000_The_Travel_Show/BBCNEWS_20181014_193000_The_Travel_Show.thumbs/BBCNEWS_20181014_193000_The_Travel_Show_000057.jpg</field>
+<field name="snippet">operator will need to prove that travellers' hard earned cash is being put to good use. joe miller, bbc news. now we're being told to eat less meat to help tackle global warming. but it seems our sunday roasts and steak dinners are safe</field>
+</doc>
+</add>

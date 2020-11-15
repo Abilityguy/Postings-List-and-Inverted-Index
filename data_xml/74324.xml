@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200105_123000_Click#start/1306/end/1341</field>
+<field name="datetime">1/5/2020 12:52:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Click</field>
+<field name="showid">BBCNEWS_20200105_123000_Click</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200105_123000_Click/BBCNEWS_20200105_123000_Click.thumbs/BBCNEWS_20200105_123000_Click_001289.jpg</field>
+<field name="snippet">scientist to suggest that as well as stopping emitting greenhouse gases, we might be able to use technology to pull them back out of the atmosphere. it's called the artificial tree. the air passes through these filters</field>
+</doc>
+</add>

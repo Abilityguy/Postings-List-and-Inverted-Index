@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201803.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180325_033000_Click#start/1700/end/1735</field>
+<field name="datetime">3/25/2018 3:58:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Click</field>
+<field name="showid">BBCNEWS_20180325_033000_Click</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180325_033000_Click/BBCNEWS_20180325_033000_Click.thumbs/BBCNEWS_20180325_033000_Click_001707.jpg</field>
+<field name="snippet">turn out the lights, as cities around the world call for action on climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091025_070000_FOX_Report#start/494/end/529</field>
+<field name="datetime">10/25/2009 7:08:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report</field>
+<field name="showid">FOXNEWS_20091025_070000_FOX_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091025_070000_FOX_Report/FOXNEWS_20091025_070000_FOX_Report.thumbs/FOXNEWS_20091025_070000_FOX_Report_000480.jpg</field>
+<field name="snippet">official says the president is, 'leaning toward not going.' we're told the big reason is the slow pace of climate change legislation in the senate leaves them with little to show for u.s. effort. remember the issue is a major part of the president's agenda.</field>
+</doc>
+</add>

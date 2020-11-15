@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201502.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150223_210000_NOW_With_Alex_Wagner#start/3557/end/3592</field>
+<field name="datetime">2/23/2015 21:59:32</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20150223_210000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150223_210000_NOW_With_Alex_Wagner/MSNBCW_20150223_210000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20150223_210000_NOW_With_Alex_Wagner_003495.jpg</field>
+<field name="snippet">scientists agree that climate change is a manmade phenomenon. but if 97% of those scientists are on the same page who are the 3% that are and why?</field>
+</doc>
+</add>

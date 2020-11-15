@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201509.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150903_100000_FOX__Friends#start/9840/end/9875</field>
+<field name="datetime">9/3/2015 12:44:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20150903_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150903_100000_FOX__Friends/FOXNEWSW_20150903_100000_FOX__Friends.thumbs/FOXNEWSW_20150903_100000_FOX__Friends_009735.jpg</field>
+<field name="snippet">helicopter makes a hard landing in north carolina. nine others are hurt. it's not clear what caused the hard landing. president obama wraps up the climate change trip to alaska, word that five naval ships are spotted miles off the alaskan</field>
+</doc>
+</add>

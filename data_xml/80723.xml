@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191022_040000_Tucker_Carlson_Tonight#start/1905/end/1940</field>
+<field name="datetime">10/22/2019 4:32:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20191022_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191022_040000_Tucker_Carlson_Tonight/FOXNEWSW_20191022_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20191022_040000_Tucker_Carlson_Tonight_001887.jpg</field>
+<field name="snippet">the biggest existential threat is climate. climate change.e. it really is the existential threat. we're going to have to address the most existential threat to our nation and the world. climate change. on climate change, the</field>
+</doc>
+</add>

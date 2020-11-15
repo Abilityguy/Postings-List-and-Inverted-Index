@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190917_160000_BBC_News_at_Five#start/2834/end/2869</field>
+<field name="datetime">9/17/2019 16:47:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190917_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190917_160000_BBC_News_at_Five/BBCNEWS_20190917_160000_BBC_News_at_Five.thumbs/BBCNEWS_20190917_160000_BBC_News_at_Five_002817.jpg</field>
+<field name="snippet">the uk's food supplies could be at risk because of a failure to act on climate change. that's the warning from mps in a report published today. the environmental audit committee also says that the nhs will need to prepare for a rise in health problems caused by our warming planet. 0ur correspondent, charlotte gallagher reports.</field>
+</doc>
+</add>

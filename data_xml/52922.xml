@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180614_043000_Business_Briefing#start/722/end/757</field>
+<field name="datetime">6/14/2018 4:42:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Business Briefing</field>
+<field name="showid">BBCNEWS_20180614_043000_Business_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180614_043000_Business_Briefing/BBCNEWS_20180614_043000_Business_Briefing.thumbs/BBCNEWS_20180614_043000_Business_Briefing_000717.jpg</field>
+<field name="snippet">we used to think the earth's polar ice sheets were slumbering giants that were not responsive to climate change, but that's clearly not the case. the ice loss we see today is because the ice sheet is melting due to warm ocean around the continent. the concern is how much sea level rise the ice sheet might contribute in the future.</field>
+</doc>
+</add>

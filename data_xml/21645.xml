@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100101_220000_Glenn_Beck#start/2680/end/2715</field>
+<field name="datetime">1/1/2010 22:44:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20100101_220000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100101_220000_Glenn_Beck/FOXNEWS_20100101_220000_Glenn_Beck.thumbs/FOXNEWS_20100101_220000_Glenn_Beck_002670.jpg</field>
+<field name="snippet">they're stitching this calendar together with several things. the stimulus bill, healthcare and the climate change bills. it's just sunshine and lollipops for you and your children. look, everybody is happy. even the sun is wearing cool shades.</field>
+</doc>
+</add>

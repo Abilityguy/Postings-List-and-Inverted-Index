@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201307.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130711_150000_Happening_Now#start/3602/end/3637</field>
+<field name="datetime">7/11/2013 16:00:17</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20130711_150000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130711_150000_Happening_Now/FOXNEWSW_20130711_150000_Happening_Now.thumbs/FOXNEWSW_20130711_150000_Happening_Now_003585.jpg</field>
+<field name="snippet">one of zimmerman's lawyers spars with the judge. does -- did that lawyer have a point, though, is the judge biased against george zimmerman? we'll take a look at that. also, take a look at these forest fires here, a brand new report on climate change and the</field>
+</doc>
+</add>

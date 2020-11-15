@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201404.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140408_130000_Americas_Newsroom#start/3242/end/3277</field>
+<field name="datetime">4/8/2014 13:54:17</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWSW_20140408_130000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140408_130000_Americas_Newsroom/FOXNEWSW_20140408_130000_Americas_Newsroom.thumbs/FOXNEWSW_20140408_130000_Americas_Newsroom_003225.jpg</field>
+<field name="snippet">climate change. they are releasing their own findings. they say the doom and gloom is all wrong according to their science. good morning to you, mike. what did they find? there is no impending global crisis due to climate change.</field>
+</doc>
+</add>

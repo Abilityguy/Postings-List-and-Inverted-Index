@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180825_123000_Weather_World#start/239/end/274</field>
+<field name="datetime">8/25/2018 12:34:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20180825_123000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180825_123000_Weather_World/BBCNEWS_20180825_123000_Weather_World.thumbs/BBCNEWS_20180825_123000_Weather_World_000238.jpg</field>
+<field name="snippet">because of the sunlight but unfortunately we just have not had enough moisture. that is a job well done but what about looking forward to climate change, higher temperatures and maybe more intense frequent rainfall</field>
+</doc>
+</add>

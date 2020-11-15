@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201804.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180419_100000_BBC_Newsroom_Live#start/4148/end/4183</field>
+<field name="datetime">4/19/2018 11:09:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20180419_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180419_100000_BBC_Newsroom_Live/BBCNEWS_20180419_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20180419_100000_BBC_Newsroom_Live_004137.jpg</field>
+<field name="snippet">sunshine at st james's park. cyber security, climate change, and many other issues, too, but as leaders continue to arrive at st james's</field>
+</doc>
+</add>

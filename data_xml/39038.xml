@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100404_103000_FOX_News_Watch#start/968/end/1003</field>
+<field name="datetime">4/4/2010 10:46:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Watch</field>
+<field name="showid">FOXNEWS_20100404_103000_FOX_News_Watch</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100404_103000_FOX_News_Watch/FOXNEWS_20100404_103000_FOX_News_Watch.thumbs/FOXNEWS_20100404_103000_FOX_News_Watch_000955.jpg</field>
+<field name="snippet">come across a story of media bias, e-mail us with that. we'll be back with this. who do americans trust more when it comes to global warming claims, this guy or your local tv weather person. one of tiger's gal pals tells</field>
+</doc>
+</add>

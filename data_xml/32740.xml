@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091208_200000_Studio_B_With_Shepard_Smith#start/3340/end/3375</field>
+<field name="datetime">12/8/2009 20:55:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Studio B With Shepard Smith</field>
+<field name="showid">FOXNEWS_20091208_200000_Studio_B_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091208_200000_Studio_B_With_Shepard_Smith/FOXNEWS_20091208_200000_Studio_B_With_Shepard_Smith.thumbs/FOXNEWS_20091208_200000_Studio_B_With_Shepard_Smith_003330.jpg</field>
+<field name="snippet">americans from the dangers of so-called greenhouse gases, but as has been the case, whenever the issue of climate change is addressed, there are people who just refuse to admit that it is true. yesterday, the epa announced it had classified 6 greenhouse gases including carbon dioxide</field>
+</doc>
+</add>

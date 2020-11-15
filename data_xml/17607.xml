@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201804.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20180421_220000_All_In_With_Chris_Hayes#start/2835/end/2870</field>
+<field name="datetime">4/21/2018 22:47:30</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20180421_220000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20180421_220000_All_In_With_Chris_Hayes/MSNBCW_20180421_220000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20180421_220000_All_In_With_Chris_Hayes_002817.jpg</field>
+<field name="snippet">reporter: the data and images collected over the course of the spring will be taken back to nasa to be analyzed. and its findings made public later this year. when you hear politicians back in washington, d.c. say, you know, the science is inconclusive about climate change, you're actually creating the science in realtime.</field>
+</doc>
+</add>

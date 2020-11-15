@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190215_140000_Afternoon_Live#start/5130/end/5165</field>
+<field name="datetime">2/15/2019 15:25:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190215_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190215_140000_Afternoon_Live/BBCNEWS_20190215_140000_Afternoon_Live.thumbs/BBCNEWS_20190215_140000_Afternoon_Live_005129.jpg</field>
+<field name="snippet">this is bbc news - our latest headlines. donald trump is set to invoke emergency powers to pay for his pledged border wall. we'll have a special report from our correspondent on the border between california and mexico. pupils walk out of their classrooms to demand more action on climate change. prisons continue to cause concern</field>
+</doc>
+</add>

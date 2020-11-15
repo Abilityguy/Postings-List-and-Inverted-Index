@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100225_050000_Hannity#start/1203/end/1238</field>
+<field name="datetime">2/25/2010 5:20:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20100225_050000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100225_050000_Hannity/FOXNEWS_20100225_050000_Hannity.thumbs/FOXNEWS_20100225_050000_Hannity_001195.jpg</field>
+<field name="snippet">jimmy carter erupts after being compared to barack obama. there were people saying don't worry. sean: one senator's global warming comparison</field>
+</doc>
+</add>

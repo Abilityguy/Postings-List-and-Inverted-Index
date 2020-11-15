@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181206_050000_Tucker_Carlson_Tonight#start/2346/end/2381</field>
+<field name="datetime">12/6/2018 5:39:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20181206_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181206_050000_Tucker_Carlson_Tonight/FOXNEWSW_20181206_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20181206_050000_Tucker_Carlson_Tonight_002337.jpg</field>
+<field name="snippet">feels it deeply. over at nbc, one of their anchors recently wondered if climate change is so serious it might render our lives without meaning. fires, floods, stores, famine, the effects of climate change are all</field>
+</doc>
+</add>

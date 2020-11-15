@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201506.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150622_060000_Meet_the_Press#start/1993/end/2028</field>
+<field name="datetime">6/22/2015 6:33:28</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20150622_060000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150622_060000_Meet_the_Press/MSNBCW_20150622_060000_Meet_the_Press.thumbs/MSNBCW_20150622_060000_Meet_the_Press_001966.jpg</field>
+<field name="snippet">this week another religious leader introduced a new topic, climate change. that was a big part of pope francis' incyclical, which turned out to be a 184-page indictment of the globe as a whole.</field>
+</doc>
+</add>

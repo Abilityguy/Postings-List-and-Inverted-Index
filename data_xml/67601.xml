@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140515_070000_All_In_With_Chris_Hayes#start/1835/end/1870</field>
+<field name="datetime">5/15/2014 7:30:50</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20140515_070000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140515_070000_All_In_With_Chris_Hayes/MSNBCW_20140515_070000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20140515_070000_All_In_With_Chris_Hayes_001786.jpg</field>
+<field name="snippet">at the university of chicago institute of politics this week, former vice president al gore said that the koch brothers are a primary reason why so many republicans seem to be shying away from reality and refusing to accept climate change as a fact. i don't think it's particularly complicated, why</field>
+</doc>
+</add>

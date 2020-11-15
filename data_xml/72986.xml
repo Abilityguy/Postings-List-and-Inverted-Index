@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190124_090000_BBC_News_at_9#start/15/end/50</field>
+<field name="datetime">1/24/2019 9:00:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20190124_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190124_090000_BBC_News_at_9/BBCNEWS_20190124_090000_BBC_News_at_9.thumbs/BBCNEWS_20190124_090000_BBC_News_at_9_000058.jpg</field>
+<field name="snippet">death gave an interview to a georgian tv channel. to see him just strolling to the police station smiling and waving, it is unbelievable. 'as big a threat as climate change' -  _</field>
+</doc>
+</add>

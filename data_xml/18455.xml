@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170110_040000_BBC_News#start/932/end/967</field>
+<field name="datetime">1/10/2017 4:15:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170110_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170110_040000_BBC_News/BBCNEWS_20170110_040000_BBC_News.thumbs/BBCNEWS_20170110_040000_BBC_News_000927.jpg</field>
+<field name="snippet">brazil's government is defending its plan to build dozens of huge hydro-electric dams in the amazon. it argues the project will boost the economy, harness the country's natural resources and provide clean energy. environmentalists say the plan is a disaster for the amazon and will actually result in more deforestation and global warming.</field>
+</doc>
+</add>

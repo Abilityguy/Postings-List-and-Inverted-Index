@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_020000_BBC_News#start/1530/end/1565</field>
+<field name="datetime">12/3/2018 2:25:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181203_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_020000_BBC_News/BBCNEWS_20181203_020000_BBC_News.thumbs/BBCNEWS_20181203_020000_BBC_News_001527.jpg</field>
+<field name="snippet">conference in poland on tackling climate change. she said this year was going to be one of the four hottest on record and everyone needed to grasp the reality of the situation. stay with us here on bbc world news.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190420_203000_Our_World#start/14/end/49</field>
+<field name="datetime">4/20/2019 20:30:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Our World</field>
+<field name="showid">BBCNEWS_20190420_203000_Our_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190420_203000_Our_World/BBCNEWS_20190420_203000_Our_World.thumbs/BBCNEWS_20190420_203000_Our_World_000028.jpg</field>
+<field name="snippet">this is bbc news. the headlines: police in londonderry investigating the murder of the journalist lyra mckee continue to question two teenage men. more than 750 arrests in six days, as climate change protests</field>
+</doc>
+</add>

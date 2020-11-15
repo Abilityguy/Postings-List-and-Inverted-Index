@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170625_200000_World_News_Today#start/1151/end/1186</field>
+<field name="datetime">6/25/2017 20:19:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20170625_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170625_200000_World_News_Today/BBCNEWS_20170625_200000_World_News_Today.thumbs/BBCNEWS_20170625_200000_World_News_Today_001138.jpg</field>
+<field name="snippet">which starts on the 6th ofjuly. that's all the sport for now. thank you. for the natives of alaska, the challenge of climate change means traditional reindeer hunting seasons are becoming shorter.</field>
+</doc>
+</add>

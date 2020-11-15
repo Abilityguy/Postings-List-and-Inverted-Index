@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201301.csv</field>
+<field name="url">https://archive.org/details/CNNW_20130121_050000_Piers_Morgan_Tonight#start/3565/end/3600</field>
+<field name="datetime">1/21/2013 5:59:40</field>
+<field name="station">CNN</field>
+<field name="show">Piers Morgan Tonight</field>
+<field name="showid">CNNW_20130121_050000_Piers_Morgan_Tonight</field>
+<field name="preview">https://archive.org/download/CNNW_20130121_050000_Piers_Morgan_Tonight/CNNW_20130121_050000_Piers_Morgan_Tonight.thumbs/CNNW_20130121_050000_Piers_Morgan_Tonight_003556.jpg</field>
+<field name="snippet">becoming part of the global phenomenon we call the internet of everything. trees will talk to networks will talk to scientists about climate change. cars will talk to road sensors will talk to stoplights about traffic efficiency.</field>
+</doc>
+</add>

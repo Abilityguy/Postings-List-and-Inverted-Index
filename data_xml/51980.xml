@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181203_190000_Beyond_100_Days#start/857/end/892</field>
+<field name="datetime">12/3/2018 19:14:32</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20181203_190000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181203_190000_Beyond_100_Days/BBCNEWS_20181203_190000_Beyond_100_Days.thumbs/BBCNEWS_20181203_190000_Beyond_100_Days_000837.jpg</field>
+<field name="snippet">three years ago, a climate conference in paris ended with a pledge from almost every nation in the world to limit global warming to below two degrees celsius. the talks this year are about how that promise is enacted - with a focus on common rules on measuring, reporting and verifying emissions, and on how climate finance</field>
+</doc>
+</add>

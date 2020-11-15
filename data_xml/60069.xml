@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181015_050000_Breakfast#start/5600/end/5635</field>
+<field name="datetime">10/15/2018 6:33:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181015_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181015_050000_Breakfast/BBCNEWS_20181015_050000_Breakfast.thumbs/BBCNEWS_20181015_050000_Breakfast_005577.jpg</field>
+<field name="snippet">the site has been the scene of repeated protests from environmentalists. fracking involves pumping liquid at high pressure, deep underground, to fracture rock and release natural gas. the uk is taking a step towards eventually cutting britain's net greenhouse gas emissions to zero.</field>
+</doc>
+</add>

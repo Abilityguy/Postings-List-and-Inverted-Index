@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201304.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130405_100000_FOX_and_Friends#start/6403/end/6438</field>
+<field name="datetime">4/5/2013 11:46:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20130405_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130405_100000_FOX_and_Friends/FOXNEWSW_20130405_100000_FOX_and_Friends.thumbs/FOXNEWSW_20130405_100000_FOX_and_Friends_006375.jpg</field>
+<field name="snippet">but we haven't had warming in about a decade or 15 years. you still are people like the president, people like al gore out there talking about how we need to embrace the science and fight this challenge of global warming before it's too late, without ever mentioning this key</field>
+</doc>
+</add>

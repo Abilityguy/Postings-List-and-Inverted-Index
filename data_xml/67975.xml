@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190221_090000_BBC_News_at_9#start/1932/end/1967</field>
+<field name="datetime">2/21/2019 9:32:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20190221_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190221_090000_BBC_News_at_9/BBCNEWS_20190221_090000_BBC_News_at_9.thumbs/BBCNEWS_20190221_090000_BBC_News_at_9_001918.jpg</field>
+<field name="snippet">and, as a committee calls for uk homes to be better equipped, homes to be better equipped to prepare for the effects of climate change, we'll be speaking to an energy</field>
+</doc>
+</add>

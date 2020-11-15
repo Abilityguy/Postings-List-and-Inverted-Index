@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170511_040000_BBC_News#start/610/end/645</field>
+<field name="datetime">5/11/2017 4:10:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170511_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170511_040000_BBC_News/BBCNEWS_20170511_040000_BBC_News.thumbs/BBCNEWS_20170511_040000_BBC_News_000597.jpg</field>
+<field name="snippet">springtime in alaska, and the winter ice is beginning to break up. the villagers here on the bering sea say the floors are coming earlier. some are longer, and the ice is thinner. here, climate change is not a theory</field>
+</doc>
+</add>

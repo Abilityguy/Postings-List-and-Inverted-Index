@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201103.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20110316_100000_Morning_Joe#start/7947/end/7982</field>
+<field name="datetime">3/16/2011 12:12:42</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20110316_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20110316_100000_Morning_Joe/MSNBC_20110316_100000_Morning_Joe.thumbs/MSNBC_20110316_100000_Morning_Joe_007920.jpg</field>
+<field name="snippet">context, the truth about the science that you can't ignore the carbon footprint. that's what makes our conversation in this country so difficult. nuclear is there because of climate change. if you're also as part of our</field>
+</doc>
+</add>

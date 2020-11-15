@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190302_110000_Fox_and_Friends_Saturday#start/4068/end/4103</field>
+<field name="datetime">3/2/2019 12:08:03</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20190302_110000_Fox_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190302_110000_Fox_and_Friends_Saturday/FOXNEWSW_20190302_110000_Fox_and_Friends_Saturday.thumbs/FOXNEWSW_20190302_110000_Fox_and_Friends_Saturday_004049.jpg</field>
+<field name="snippet">the issue of climate change. the future of the planet is at stake. at a cost of 93 trillion that's more than four times our national debt. comes in with a lot of credibility but his positions are seen as very moderate. the guy is a decent guy.</field>
+</doc>
+</add>

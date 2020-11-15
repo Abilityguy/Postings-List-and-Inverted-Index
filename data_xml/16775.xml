@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201811.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181114_080000_All_In_With_Chris_Hayes#start/2098/end/2133</field>
+<field name="datetime">11/14/2018 8:35:13</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20181114_080000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181114_080000_All_In_With_Chris_Hayes/MSNBCW_20181114_080000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20181114_080000_All_In_With_Chris_Hayes_002098.jpg</field>
+<field name="snippet">i'm not committed to doing it. we're having the conversation now. like you are, chris, i'm worried about my country. i'm worried about long-time young federal judges he puts on the bench, i'm worried long-term about climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191222_030000_BBC_News#start/168/end/203</field>
+<field name="datetime">12/22/2019 3:03:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191222_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191222_030000_BBC_News/BBCNEWS_20191222_030000_BBC_News.thumbs/BBCNEWS_20191222_030000_BBC_News_000148.jpg</field>
+<field name="snippet">action on climate change. there is no argument about the links between, in my view and the government's view, and any government in this country, about the links between broader issues of global climate change and weather events around the world, but i am sure equally people would acknowledge that the direct connection to any single fire event</field>
+</doc>
+</add>

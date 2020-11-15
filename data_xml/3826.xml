@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170426_190000_BBC_News#start/77/end/112</field>
+<field name="datetime">4/26/2017 19:01:32</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170426_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170426_190000_BBC_News/BBCNEWS_20170426_190000_BBC_News.thumbs/BBCNEWS_20170426_190000_BBC_News_000058.jpg</field>
+<field name="snippet">-- most likely to see the disease return. also coming up this hour: could climate change affect your garden? a new report suggests the prospect of rising temperatures could mean the end of britain's immaculate green lawns. and bristol's biggest music venue is to be renamed, following a campaign to end its association with the slave trade.</field>
+</doc>
+</add>

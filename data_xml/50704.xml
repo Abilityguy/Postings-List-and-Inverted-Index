@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201501.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150116_210000_NOW_With_Alex_Wagner#start/2345/end/2380</field>
+<field name="datetime">1/16/2015 21:39:20</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20150116_210000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150116_210000_NOW_With_Alex_Wagner/MSNBCW_20150116_210000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20150116_210000_NOW_With_Alex_Wagner_002325.jpg</field>
+<field name="snippet">there's politics here too, which is i'm fighting climate change could make life more expensive. which is a problem politically for everybody. it's a problem for both sides, and that's the underlying fault</field>
+</doc>
+</add>

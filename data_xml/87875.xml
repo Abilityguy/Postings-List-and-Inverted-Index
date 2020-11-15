@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191207_113000_Dateline_London#start/39/end/74</field>
+<field name="datetime">12/7/2019 11:30:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Dateline London</field>
+<field name="showid">BBCNEWS_20191207_113000_Dateline_London</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191207_113000_Dateline_London/BBCNEWS_20191207_113000_Dateline_London.thumbs/BBCNEWS_20191207_113000_Dateline_London_000028.jpg</field>
+<field name="snippet">hello, and welcome to dateline london. i'm carrie gracie. this week. something we didn't expect - president trump defending nato against attack from a european leader. something we did expect - a teenager shaking up a global climate change conference. and something where no side dares</field>
+</doc>
+</add>

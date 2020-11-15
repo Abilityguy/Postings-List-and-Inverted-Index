@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190824_200000_World_News_Today#start/1831/end/1866</field>
+<field name="datetime">8/24/2019 20:30:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190824_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190824_200000_World_News_Today/BBCNEWS_20190824_200000_World_News_Today.thumbs/BBCNEWS_20190824_200000_World_News_Today_001797.jpg</field>
+<field name="snippet">world leaders have arrived in france for the g7 summit of leading economies -- with signs of division over trade, climate change and brexit. the european council president donald tusk warned it may be the last chance to restore harmony among leading industrial nations. britain's prince andrew has said he did not 'see, witness or suspect any behaviour of the sort' that subsequently led</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181231_163000_Weather_World#start/962/end/997</field>
+<field name="datetime">12/31/2018 16:46:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20181231_163000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181231_163000_Weather_World/BBCNEWS_20181231_163000_Weather_World.thumbs/BBCNEWS_20181231_163000_Weather_World_000957.jpg</field>
+<field name="snippet">pacific island nation is in a fight for survival, as climate change brings almost constant deadly cyclones. the atlantic hurricane season was dominated by two storms that hit the usa. first florence, in september, stalling over the carolinas</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191128_220000_BBC_News_at_Ten#start/904/end/939</field>
+<field name="datetime">11/28/2019 22:15:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20191128_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191128_220000_BBC_News_at_Ten/BBCNEWS_20191128_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20191128_220000_BBC_News_at_Ten_000898.jpg</field>
+<field name="snippet">with new warnings about the melting of the ice sheets, a relentless increase in global temperatures, the streets filled with young protesters, and flooding in the middle of this winter election, climate change</field>
+</doc>
+</add>

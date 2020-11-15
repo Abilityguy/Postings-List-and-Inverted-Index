@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190422_193000_Weather_World#start/813/end/848</field>
+<field name="datetime">4/22/2019 19:43:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20190422_193000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190422_193000_Weather_World/BBCNEWS_20190422_193000_Weather_World.thumbs/BBCNEWS_20190422_193000_Weather_World_000808.jpg</field>
+<field name="snippet">we've got to reduce our emissions of greenhouse gases. we've got to reduce the concentrations because, if we don't, we are looking at really big changes in the climate. we're going into territory that we have never been in before. we haven't experienced this, so we don't know precisely what is going to happen.</field>
+</doc>
+</add>

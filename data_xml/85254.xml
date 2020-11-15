@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201007.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100706_190000_MSNBC_News_Live#start/1510/end/1545</field>
+<field name="datetime">7/6/2010 19:25:25</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100706_190000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100706_190000_MSNBC_News_Live/MSNBC_20100706_190000_MSNBC_News_Live.thumbs/MSNBC_20100706_190000_MSNBC_News_Live_001496.jpg</field>
+<field name="snippet">one such is the struggle against terrorism. another challenge is climate change. where careful account must be taken of the risks faced by smaller more vulnerable nations, many of them from the commonwealth.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201804.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180423_100000_FOX__Friends#start/7529/end/7564</field>
+<field name="datetime">4/23/2018 12:05:44</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20180423_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180423_100000_FOX__Friends/FOXNEWSW_20180423_100000_FOX__Friends.thumbs/FOXNEWSW_20180423_100000_FOX__Friends_007527.jpg</field>
+<field name="snippet">brian: i thought we saw a real relationship of respect between the two. they don't agree on everything but i don't think people that respect each other have to agree. they don't agree on climate change. looks like the president wants to get out of syria quicker than macron thinks we should get out</field>
+</doc>
+</add>

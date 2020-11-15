@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200910.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091007_030000_The_Rachel_Maddow_Show#start/1196/end/1231</field>
+<field name="datetime">10/7/2009 3:20:11</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBC_20091007_030000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20091007_030000_The_Rachel_Maddow_Show/MSNBC_20091007_030000_The_Rachel_Maddow_Show.thumbs/MSNBC_20091007_030000_The_Rachel_Maddow_Show_001197.jpg</field>
+<field name="snippet">an oil baron, and then you think, hey, maybe that's why they're campaigning against climate change legislation. sometimes you find out that the people who are sponsoring the big 9/12 tea party march on washington is a group that's run by a lobbyist who's charging tens of thousands of dollars to</field>
+</doc>
+</add>

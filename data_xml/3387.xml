@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201512.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151206_110000_Fox_and_Friends_Sunday#start/285/end/320</field>
+<field name="datetime">12/6/2015 11:05:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20151206_110000_Fox_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151206_110000_Fox_and_Friends_Sunday/FOXNEWSW_20151206_110000_Fox_and_Friends_Sunday.thumbs/FOXNEWSW_20151206_110000_Fox_and_Friends_Sunday_000285.jpg</field>
+<field name="snippet">these are people who shot 30 people they didn't know. who died in the process, who had a 6-month-old child, and did it anyway. what does that tell you? they're not doing this because they're poor, they're mad about climate change. they did it because they believe god told them to do it.</field>
+</doc>
+</add>

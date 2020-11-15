@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201503.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150305_110000_FOX_and_Friends#start/2222/end/2257</field>
+<field name="datetime">3/5/2015 11:37:17</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20150305_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150305_110000_FOX_and_Friends/FOXNEWSW_20150305_110000_FOX_and_Friends.thumbs/FOXNEWSW_20150305_110000_FOX_and_Friends_002205.jpg</field>
+<field name="snippet">sessions pressed the fda chief on a number of issues including climate change data. mccarthy having a little trouble with the answers. we had more on hurricanes in the last decade.</field>
+</doc>
+</add>

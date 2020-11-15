@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190920_180000_The_Daily_Briefing_With_Dana_Perino#start/49/end/84</field>
+<field name="datetime">9/20/2019 18:01:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Daily Briefing With Dana Perino</field>
+<field name="showid">FOXNEWSW_20190920_180000_The_Daily_Briefing_With_Dana_Perino</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190920_180000_The_Daily_Briefing_With_Dana_Perino/FOXNEWSW_20190920_180000_The_Daily_Briefing_With_Dana_Perino.thumbs/FOXNEWSW_20190920_180000_The_Daily_Briefing_With_Dana_Perino_000028.jpg</field>
+<field name="snippet">good afternoon. what's happening? reporter: ed, good afternoon. we are in downtown manhattan now, where tens of thousands of young people, mostly young people and students, are out here protesting, demanding governments act on climate change right now. this is massive.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190509_050000_Breakfast#start/888/end/923</field>
+<field name="datetime">5/9/2019 5:15:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190509_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190509_050000_Breakfast/BBCNEWS_20190509_050000_Breakfast.thumbs/BBCNEWS_20190509_050000_Breakfast_006747.jpg</field>
+<field name="snippet">and climate change. now we have some live pictures coming to us from moscow this morning. this is from red square. the events are to mark the soviet union's victory over nazi germany.</field>
+</doc>
+</add>

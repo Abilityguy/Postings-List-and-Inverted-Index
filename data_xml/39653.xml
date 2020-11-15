@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091113_230000_Special_Report_With_Bret_Baier#start/1151/end/1186</field>
+<field name="datetime">11/13/2009 23:19:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091113_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091113_230000_Special_Report_With_Bret_Baier/FOXNEWS_20091113_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091113_230000_Special_Report_With_Bret_Baier_001135.jpg</field>
+<field name="snippet">national security advisor james jones met with pakistani officials in islamabad. we'll turn some of the pages of sarah palin's new book and tell you what is inside, and we will go inside the politics that may prevent an international plan to fight global warming.</field>
+</doc>
+</add>

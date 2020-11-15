@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190306_180000_BBC_News_at_Six#start/1083/end/1118</field>
+<field name="datetime">3/6/2019 18:18:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20190306_180000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190306_180000_BBC_News_at_Six/BBCNEWS_20190306_180000_BBC_News_at_Six.thumbs/BBCNEWS_20190306_180000_BBC_News_at_Six_001078.jpg</field>
+<field name="snippet">natural flood defences, the buffer zones of our coasts, naturalflood defences, rich, muddy feeding stations. and, as plants on coastal marshes suck in carbon as they grow, could these places help in the battle against climate change? you can see plants starting to come back in this restored salt marsh, but, when the plants die, rather than just lying and decomposing,</field>
+</doc>
+</add>

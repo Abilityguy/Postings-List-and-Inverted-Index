@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100121_010000_The_OReilly_Factor#start/2600/end/2635</field>
+<field name="datetime">1/21/2010 1:43:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20100121_010000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100121_010000_The_OReilly_Factor/FOXNEWS_20100121_010000_The_OReilly_Factor.thumbs/FOXNEWS_20100121_010000_The_OReilly_Factor_002580.jpg</field>
+<field name="snippet">bill: danny glover the other day said that global warming or something, couldn't quite figure out what danny was saying caused haiti and united states is really the problem in haiti, not the earthquake. then hugo chavez who had sent one plane criticizing the u.s. military and then the minister</field>
+</doc>
+</add>

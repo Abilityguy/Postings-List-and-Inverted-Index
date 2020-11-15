@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190924_013000_Asia_Business_Report#start/0/end/33</field>
+<field name="datetime">9/24/2019 1:30:13</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Asia Business Report</field>
+<field name="showid">BBCNEWS_20190924_013000_Asia_Business_Report</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190924_013000_Asia_Business_Report/BBCNEWS_20190924_013000_Asia_Business_Report.thumbs/BBCNEWS_20190924_013000_Asia_Business_Report_000028.jpg</field>
+<field name="snippet">the headlines: teenage climate campaigner greta thunberg has delivered an angry address at the united nations climate change summit in new york, where she accused world leaders of failing young people. she said that her generation will never forgive them if they fail to combat global warming.</field>
+</doc>
+</add>

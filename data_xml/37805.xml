@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091024_200000_Americas_News_HQ#start/2164/end/2199</field>
+<field name="datetime">10/24/2009 20:36:19</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWS_20091024_200000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091024_200000_Americas_News_HQ/FOXNEWS_20091024_200000_Americas_News_HQ.thumbs/FOXNEWS_20091024_200000_Americas_News_HQ_002160.jpg</field>
+<field name="snippet">news.com. a senior official saying president obama will skip a conference on climate change in denmark this december. saying the conference is not a head of state event. one reason being the lack of a</field>
+</doc>
+</add>

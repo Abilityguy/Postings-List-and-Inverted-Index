@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201009.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100923_100000_FOX_and_Friends#start/6517/end/6552</field>
+<field name="datetime">9/23/2010 11:48:52</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100923_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100923_100000_FOX_and_Friends/FOXNEWS_20100923_100000_FOX_and_Friends.thumbs/FOXNEWS_20100923_100000_FOX_and_Friends_006510.jpg</field>
+<field name="snippet">and climate change programs to the u.n. and we've seen that when the u.n. puts forward a document about climate change, how that can go awry with the scientists clearly manipulating the data so i don't think that we should be collecting money on</field>
+</doc>
+</add>

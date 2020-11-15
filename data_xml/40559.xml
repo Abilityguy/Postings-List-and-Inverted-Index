@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201602.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160229_180000_Happening_Now#start/3351/end/3386</field>
+<field name="datetime">2/29/2016 18:56:06</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20160229_180000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160229_180000_Happening_Now/FOXNEWSW_20160229_180000_Happening_Now.thumbs/FOXNEWSW_20160229_180000_Happening_Now_003327.jpg</field>
+<field name="snippet">his best actor oscar for his role in 'the revnant.' he didn't weigh in on diversity but talked at len about climate change. other winners, brie larson for her performance in 'room'.</field>
+</doc>
+</add>

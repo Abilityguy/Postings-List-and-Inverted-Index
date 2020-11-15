@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201705.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170531_140000_MSNBC_Live_With_Hallie_Jackson#start/632/end/667</field>
+<field name="datetime">5/31/2017 14:10:47</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Hallie Jackson</field>
+<field name="showid">MSNBCW_20170531_140000_MSNBC_Live_With_Hallie_Jackson</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170531_140000_MSNBC_Live_With_Hallie_Jackson/MSNBCW_20170531_140000_MSNBC_Live_With_Hallie_Jackson.thumbs/MSNBCW_20170531_140000_MSNBC_Live_With_Hallie_Jackson_000628.jpg</field>
+<field name="snippet">this is an issue -- i'll just give you a personal example. i visited my kids' schools, i have middle schoolers. i talked to their class. all they want to talk about is climate change. that's something younger people are intensely focused on.</field>
+</doc>
+</add>

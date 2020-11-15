@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201610.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161011_190000_MSNBC_Live#start/2272/end/2307</field>
+<field name="datetime">10/11/2016 19:38:07</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20161011_190000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161011_190000_MSNBC_Live/MSNBCW_20161011_190000_MSNBC_Live.thumbs/MSNBCW_20161011_190000_MSNBC_Live_002248.jpg</field>
+<field name="snippet">now, some will say, you know, weave always had hurricanes. they've always been destructive. and that's true. but hurricane matthew was likely more destructive because of climate change. right now the ocean is at or</field>
+</doc>
+</add>

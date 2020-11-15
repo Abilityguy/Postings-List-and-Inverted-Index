@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190509_050000_Breakfast#start/6215/end/6250</field>
+<field name="datetime">5/9/2019 6:43:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190509_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190509_050000_Breakfast/BBCNEWS_20190509_050000_Breakfast.thumbs/BBCNEWS_20190509_050000_Breakfast_006208.jpg</field>
+<field name="snippet">is better than doing nothing. we're joined now by kevin anderson, a professor of energy and climate change at the university of manchester. good morning. iam planning a</field>
+</doc>
+</add>

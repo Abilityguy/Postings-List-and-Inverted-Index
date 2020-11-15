@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191009_050000_Breakfast#start/8762/end/8797</field>
+<field name="datetime">10/9/2019 7:26:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191009_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191009_050000_Breakfast/BBCNEWS_20191009_050000_Breakfast.thumbs/BBCNEWS_20191009_050000_Breakfast_008757.jpg</field>
+<field name="snippet">learned about global warming when my two oldest children were four and one. that was 30 years ago. there have been 30 years of reports from the intergovernmental panel on climate change. we have a national advisory committee on climate change</field>
+</doc>
+</add>

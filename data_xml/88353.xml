@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190612_100000_BBC_Newsroom_Live#start/5309/end/5344</field>
+<field name="datetime">6/12/2019 11:28:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190612_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190612_100000_BBC_Newsroom_Live/BBCNEWS_20190612_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190612_100000_BBC_Newsroom_Live_005308.jpg</field>
+<field name="snippet">2050 of net zero emissions. that is what we will talk about right now. the uk is promising to reduce greenhouse gas emissions to zero by 2050 under a new government plan to tackle climate change. it means</field>
+</doc>
+</add>

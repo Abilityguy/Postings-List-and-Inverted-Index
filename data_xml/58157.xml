@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201310.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20131016_150000_MSNBC_Live#start/2027/end/2062</field>
+<field name="datetime">10/16/2013 15:34:02</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20131016_150000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20131016_150000_MSNBC_Live/MSNBCW_20131016_150000_MSNBC_Live.thumbs/MSNBCW_20131016_150000_MSNBC_Live_002025.jpg</field>
+<field name="snippet">the international crisis of global warming, our crumbling infrastructure, extremely high unemployment. so while we're talking about whether or not we pay our bills, this country continues to face enormous problems that we are not even beginning to look at. that is very, very tragic.</field>
+</doc>
+</add>

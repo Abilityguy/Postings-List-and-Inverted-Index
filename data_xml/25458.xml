@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201407.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140702_190000_Shepard_Smith_Reporting#start/1873/end/1908</field>
+<field name="datetime">7/2/2014 19:31:28</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20140702_190000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140702_190000_Shepard_Smith_Reporting/FOXNEWSW_20140702_190000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20140702_190000_Shepard_Smith_Reporting_001755.jpg</field>
+<field name="snippet">the atmosphere. that's the main greenhouse gas behind global warming. we'll have much more from the news desk with harris faulkner after these messages. no one in iraq or neighboring countries is safe.</field>
+</doc>
+</add>

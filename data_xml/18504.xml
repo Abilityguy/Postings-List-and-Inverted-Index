@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170120_130000_BBC_News_at_One#start/851/end/886</field>
+<field name="datetime">1/20/2017 13:14:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20170120_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170120_130000_BBC_News_at_One/BBCNEWS_20170120_130000_BBC_News_at_One.thumbs/BBCNEWS_20170120_130000_BBC_News_at_One_000837.jpg</field>
+<field name="snippet">president obama's plan to cut greenhouse gas emissions in the usa. our environment analyst roger harrabin assesses what he may do, and how others are already moving to block him. ice is melting, world temperatures have hit a new records,</field>
+</doc>
+</add>

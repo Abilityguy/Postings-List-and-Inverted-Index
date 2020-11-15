@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201201.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120114_120000_Up_W_Chris_Hayes#start/4768/end/4803</field>
+<field name="datetime">1/14/2012 13:19:43</field>
+<field name="station">MSNBC</field>
+<field name="show">Up W Chris Hayes</field>
+<field name="showid">MSNBCW_20120114_120000_Up_W_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120114_120000_Up_W_Chris_Hayes/MSNBCW_20120114_120000_Up_W_Chris_Hayes.thumbs/MSNBCW_20120114_120000_Up_W_Chris_Hayes_004766.jpg</field>
+<field name="snippet">climate change is the background condition against which a lot of interesting stories play out but they don't necessarily come off as climate change stories. in some sense, i think the surveys are a little misleading but i would like to see more stories about, you know, what</field>
+</doc>
+</add>

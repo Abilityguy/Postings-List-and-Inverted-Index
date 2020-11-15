@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190124_220000_BBC_News_at_Ten#start/1530/end/1565</field>
+<field name="datetime">1/24/2019 22:25:45</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20190124_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190124_220000_BBC_News_at_Ten/BBCNEWS_20190124_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20190124_220000_BBC_News_at_Ten_001528.jpg</field>
+<field name="snippet">the health secretary matt hancock says the rise of drug resistant superbugs is as big a global threat as climate change. under new government plans, the number of prescriptions for antibiotic drugs is to be cut by 15% over the next 5 years. and drug companies are to be given</field>
+</doc>
+</add>

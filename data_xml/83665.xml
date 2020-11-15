@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190426_184500_Newswatch#start/247/end/282</field>
+<field name="datetime">4/26/2019 18:49:22</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newswatch</field>
+<field name="showid">BBCNEWS_20190426_184500_Newswatch</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190426_184500_Newswatch/BBCNEWS_20190426_184500_Newswatch.thumbs/BBCNEWS_20190426_184500_Newswatch_000238.jpg</field>
+<field name="snippet">a turn-off. now there is a massive interest in climate change but that has not always been the case. the other problem with importing on climate change, one of many problems is that things move so slowly, so pictures always appeared to be the</field>
+</doc>
+</add>

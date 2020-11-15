@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201112.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111201_160000_Happening_Now#start/4060/end/4095</field>
+<field name="datetime">12/1/2011 17:07:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20111201_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111201_160000_Happening_Now/FOXNEWSW_20111201_160000_Happening_Now.thumbs/FOXNEWSW_20111201_160000_Happening_Now_004046.jpg</field>
+<field name="snippet">in politics the most lethal weapon to use, politicians' own wrdz. and we've seen democrats go after mitt romney on that and now republicans going after newt gingrich on whether it's climate change or immigration, they're going to point to some things</field>
+</doc>
+</add>

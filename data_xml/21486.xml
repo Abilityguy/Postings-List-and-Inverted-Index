@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100109_153000_Cavuto_on_Business#start/1269/end/1304</field>
+<field name="datetime">1/9/2010 15:51:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Cavuto on Business</field>
+<field name="showid">FOXNEWS_20100109_153000_Cavuto_on_Business</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100109_153000_Cavuto_on_Business/FOXNEWS_20100109_153000_Cavuto_on_Business.thumbs/FOXNEWS_20100109_153000_Cavuto_on_Business_001135.jpg</field>
+<field name="snippet">neil: this is our fox news global warming alert for you. it is freezing across the entire globe! frost in florida, 50 below in the midwest. beijing seeing its coldest temperatures in 40 years.</field>
+</doc>
+</add>

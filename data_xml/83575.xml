@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190419_050000_Breakfast#start/0/end/30</field>
+<field name="datetime">4/19/2019 5:00:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190419_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190419_050000_Breakfast/BBCNEWS_20190419_050000_Breakfast.thumbs/BBCNEWS_20190419_050000_Breakfast_003568.jpg</field>
+<field name="snippet">in half an hour. plenty more on our website at the usual address. 00:59:51673 --> 4294966103:13:29430 bye for now. good morning. welcome to breakfast with naga munchetty and charlie stayt. our headlines today: a woman is shot dead after a disturbance in londonderry. the police are treating it as a terrorist incident. climate change protestors</field>
+</doc>
+</add>

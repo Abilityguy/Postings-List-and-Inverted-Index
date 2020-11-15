@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201703.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170326_003000_Reporters#start/1700/end/1735</field>
+<field name="datetime">3/26/2017 0:58:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Reporters</field>
+<field name="showid">BBCNEWS_20170326_003000_Reporters</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170326_003000_Reporters/BBCNEWS_20170326_003000_Reporters.thumbs/BBCNEWS_20170326_003000_Reporters_001707.jpg</field>
+<field name="snippet">the planet, lights go out for earth hour, to raise awareness of climate change.</field>
+</doc>
+</add>

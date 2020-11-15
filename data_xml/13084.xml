@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201303.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130308_110000_FOX_and_Friends#start/8282/end/8317</field>
+<field name="datetime">3/8/2013 13:18:17</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20130308_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130308_110000_FOX_and_Friends/FOXNEWSW_20130308_110000_FOX_and_Friends.thumbs/FOXNEWSW_20130308_110000_FOX_and_Friends_008265.jpg</field>
+<field name="snippet">climate change discussion, the polar bear. in the past, polar bears seemed to be declining. now they seem to be up at numbers of 20 or 25000 world wide. but some scientists, including american scientists in the federal government, predict by</field>
+</doc>
+</add>

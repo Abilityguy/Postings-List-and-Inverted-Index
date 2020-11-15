@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190301_110000_FOX__Friends#start/9926/end/9961</field>
+<field name="datetime">3/1/2019 13:45:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20190301_110000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190301_110000_FOX__Friends/FOXNEWSW_20190301_110000_FOX__Friends.thumbs/FOXNEWSW_20190301_110000_FOX__Friends_009898.jpg</field>
+<field name="snippet">inslee joins growing list of democratic candidates supporting aoc's new green deal. how many of you think climate change is the greatest threat facing our country right now? zero. no one. do you think climate change is something people will go to the</field>
+</doc>
+</add>

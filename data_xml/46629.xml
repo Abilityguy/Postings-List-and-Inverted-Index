@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201302.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130221_230000_PoliticsNation#start/1236/end/1271</field>
+<field name="datetime">2/21/2013 23:20:51</field>
+<field name="station">MSNBC</field>
+<field name="show">PoliticsNation</field>
+<field name="showid">MSNBCW_20130221_230000_PoliticsNation</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130221_230000_PoliticsNation/MSNBCW_20130221_230000_PoliticsNation.thumbs/MSNBCW_20130221_230000_PoliticsNation_001215.jpg</field>
+<field name="snippet">a new poll shows the side with the american president on his second term agenda. they support his policies by 17 points over the republicans. on climate change, they support him by 21 points. on raising the minimum wage, 45</field>
+</doc>
+</add>

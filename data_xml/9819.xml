@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201505.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150530_050000_Hannity#start/1318/end/1353</field>
+<field name="datetime">5/30/2015 5:22:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20150530_050000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150530_050000_Hannity/FOXNEWSW_20150530_050000_Hannity.thumbs/FOXNEWSW_20150530_050000_Hannity_001305.jpg</field>
+<field name="snippet">those have been the places where progress really happened. the places where minds are changed, lives transformed. where our great american story unfolds. climate change economic</field>
+</doc>
+</add>

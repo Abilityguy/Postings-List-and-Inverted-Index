@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190511_060000_Breakfast#start/2959/end/2994</field>
+<field name="datetime">5/11/2019 6:49:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190511_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190511_060000_Breakfast/BBCNEWS_20190511_060000_Breakfast.thumbs/BBCNEWS_20190511_060000_Breakfast_002938.jpg</field>
+<field name="snippet">to the new arrival. david buckton turned on the news channel at 6:00pm. the lead item, lasting, i think about 35 minutes was a report on the birth of a royal baby. and the next item was also about a report, this time on the urgent need for action on climate change.</field>
+</doc>
+</add>

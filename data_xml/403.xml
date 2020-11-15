@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201301.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130128_160000_Happening_Now#start/486/end/521</field>
+<field name="datetime">1/28/2013 16:08:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20130128_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130128_160000_Happening_Now/FOXNEWSW_20130128_160000_Happening_Now.thumbs/FOXNEWSW_20130128_160000_Happening_Now_000465.jpg</field>
+<field name="snippet">155 woods in six sentences saying we're never going to cut entitlements. by contrast, he put 160 words in nine sentences in climate change. he spent 358 words talking about what he called our generation's task which was equal pay, gay marriage,</field>
+</doc>
+</add>

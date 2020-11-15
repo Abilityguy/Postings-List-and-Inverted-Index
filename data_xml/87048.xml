@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191221_170000_BBC_News#start/121/end/156</field>
+<field name="datetime">12/21/2019 17:02:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191221_170000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191221_170000_BBC_News/BBCNEWS_20191221_170000_BBC_News.thumbs/BBCNEWS_20191221_170000_BBC_News_000118.jpg</field>
+<field name="snippet">intensify the fires. australia's deputy prime minister, michael mccormack has said his country must step up its efforts to tackle climate change. here's our sydney</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191119_130000_BBC_News_at_One#start/549/end/584</field>
+<field name="datetime">11/19/2019 13:09:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20191119_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191119_130000_BBC_News_at_One/BBCNEWS_20191119_130000_BBC_News_at_One.thumbs/BBCNEWS_20191119_130000_BBC_News_at_One_000538.jpg</field>
+<field name="snippet">£100 billion a year. carbon emissions are the the amount of carbon dioxide released from burning fuel, which contributes to global warming. chris morris is here with more details. thanks.</field>
+</doc>
+</add>

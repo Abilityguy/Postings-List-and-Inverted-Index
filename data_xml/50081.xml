@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181208_150000_Cavuto_Live#start/3722/end/3757</field>
+<field name="datetime">12/8/2018 16:02:17</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Cavuto Live</field>
+<field name="showid">FOXNEWSW_20181208_150000_Cavuto_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181208_150000_Cavuto_Live/FOXNEWSW_20181208_150000_Cavuto_Live.thumbs/FOXNEWSW_20181208_150000_Cavuto_Live_003718.jpg</field>
+<field name="snippet">americans believe using the free market can solve a lot of problems. we've reduced our greenhouse gas significantly as a country by innovating not by overtaxing. in the united states depending</field>
+</doc>
+</add>

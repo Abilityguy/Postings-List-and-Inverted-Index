@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190618_130000_Afternoon_Live#start/4020/end/4055</field>
+<field name="datetime">6/18/2019 14:07:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190618_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190618_130000_Afternoon_Live/BBCNEWS_20190618_130000_Afternoon_Live.thumbs/BBCNEWS_20190618_130000_Afternoon_Live_004017.jpg</field>
+<field name="snippet">potentially mean an extra 260000 flights per year. environmental groups say we should be containing air travel, not expanding it. we are in a climate emergency and heathrow is already the biggest single source of greenhouse gases</field>
+</doc>
+</add>

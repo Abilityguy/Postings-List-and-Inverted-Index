@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180126_050000_Tucker_Carlson_Tonight#start/1931/end/1966</field>
+<field name="datetime">1/26/2018 5:32:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20180126_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180126_050000_Tucker_Carlson_Tonight/FOXNEWSW_20180126_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20180126_050000_Tucker_Carlson_Tonight_001918.jpg</field>
+<field name="snippet">business leaders. at heart, it is an antidemocratic bias. you mentioned that hamburgers caused global warming. i did not believe it. it turns out that if you eat a breakfast sandwich from mcdonald's -- every time you eat a sausage and egg</field>
+</doc>
+</add>

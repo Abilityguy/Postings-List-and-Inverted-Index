@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201305.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130526_060000_Red_Eye#start/350/end/385</field>
+<field name="datetime">5/26/2013 6:06:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWSW_20130526_060000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130526_060000_Red_Eye/FOXNEWSW_20130526_060000_Red_Eye.thumbs/FOXNEWSW_20130526_060000_Red_Eye_000345.jpg</field>
+<field name="snippet">where the polar bear circumnavigated the globe. the only reason they like them is they are white. they hate black bears. it is a bona fide fact. look it up. try to find in any global</field>
+</doc>
+</add>

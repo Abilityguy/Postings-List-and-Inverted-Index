@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200911.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091125_200000_MSNBC_News_Live#start/1889/end/1924</field>
+<field name="datetime">11/25/2009 20:31:44</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091125_200000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091125_200000_MSNBC_News_Live/MSNBC_20091125_200000_MSNBC_News_Live.thumbs/MSNBC_20091125_200000_MSNBC_News_Live_001853.jpg</field>
+<field name="snippet">york. the big picture right now the white house announced that president obama will travel to copenhagen to attend a long-awaited u.n. conference on climate change set for december 9th. the president informs copenhagen last month to bring or try to bring the olympics to chicago. this time, he will stop in</field>
+</doc>
+</add>

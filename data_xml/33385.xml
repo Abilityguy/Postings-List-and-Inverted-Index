@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091206_170000_Americas_News_HQ#start/1481/end/1516</field>
+<field name="datetime">12/6/2009 17:24:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWS_20091206_170000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091206_170000_Americas_News_HQ/FOXNEWS_20091206_170000_Americas_News_HQ.thumbs/FOXNEWS_20091206_170000_Americas_News_HQ_001432.jpg</field>
+<field name="snippet">climategate e-mail influenced your opinion of validity of global warming? we put the question on the show website. majority of you, 62% say the e-mails influenced your opinion. 22% say they have not and 16%</field>
+</doc>
+</add>

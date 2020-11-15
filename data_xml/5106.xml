@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170627_040000_BBC_News#start/1099/end/1134</field>
+<field name="datetime">6/27/2017 4:18:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170627_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170627_040000_BBC_News/BBCNEWS_20170627_040000_BBC_News.thumbs/BBCNEWS_20170627_040000_BBC_News_001078.jpg</field>
+<field name="snippet">news for the president is that more than half, 55%, see him as a strong leader but three quarters disagree with his plans to build the border wall and pull-out of climate change in trade agreements. and that has affected international views of the united states. less than half of those surveyed now see it</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201001.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100108_200000_MSNBC_News_Live#start/1041/end/1076</field>
+<field name="datetime">1/8/2010 20:17:36</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100108_200000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100108_200000_MSNBC_News_Live/MSNBC_20100108_200000_MSNBC_News_Live.thumbs/MSNBC_20100108_200000_MSNBC_News_Live_001016.jpg</field>
+<field name="snippet">economy and security and how we combat the threat of climate change and leave our children a planet safer than the one we inherited. harnessing new forms of energy will be one of the defining challenges of the 21st century.</field>
+</doc>
+</add>

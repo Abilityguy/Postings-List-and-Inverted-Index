@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_173000_Sportsday#start/0/end/34</field>
+<field name="datetime">10/8/2018 17:30:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Sportsday</field>
+<field name="showid">BBCNEWS_20181008_173000_Sportsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_173000_Sportsday/BBCNEWS_20181008_173000_Sportsday.thumbs/BBCNEWS_20181008_173000_Sportsday_000058.jpg</field>
+<field name="snippet">this is bbc news and looking at the main headlines now. scientists have given their starkest warning yet about the dangers of client check -- climate change saying rapid change is needed to avoid catastrophe. brayden's biggest car-maker says that they will close the solihull</field>
+</doc>
+</add>

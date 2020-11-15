@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_200000_World_News_Today#start/1808/end/1843</field>
+<field name="datetime">9/20/2019 20:30:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190920_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_200000_World_News_Today/BBCNEWS_20190920_200000_World_News_Today.thumbs/BBCNEWS_20190920_200000_World_News_Today_001678.jpg</field>
+<field name="snippet">as we head into next week. never too far away, the weather looks much, much more unsettled. showers or some longer spells of rain, quite a bit cooler and at times rather windy. this is bbc world news, the headlines: a day of worldwide protests on climate change is reaching</field>
+</doc>
+</add>

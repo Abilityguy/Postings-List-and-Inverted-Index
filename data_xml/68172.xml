@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190216_020000_BBC_News#start/1227/end/1262</field>
+<field name="datetime">2/16/2019 2:20:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190216_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190216_020000_BBC_News/BBCNEWS_20190216_020000_BBC_News.thumbs/BBCNEWS_20190216_020000_BBC_News_001228.jpg</field>
+<field name="snippet"># born to love in everyone. before nine-year-old lilia had her say. i'm worried about climate change because of the animals. would you like it if your home was disappearing in front of your eyes? this is clearly the first time many of these pupils have ever</field>
+</doc>
+</add>

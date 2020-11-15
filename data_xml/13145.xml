@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201101.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110102_110000_FOX_and_Friends_Sunday#start/10355/end/10390</field>
+<field name="datetime">1/2/2011 13:52:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWS_20110102_110000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110102_110000_FOX_and_Friends_Sunday/FOXNEWS_20110102_110000_FOX_and_Friends_Sunday.thumbs/FOXNEWS_20110102_110000_FOX_and_Friends_Sunday_010350.jpg</field>
+<field name="snippet">believe in global warming. so, is this about swaying public opinion? because it's not going in their direction? i think it's about educating the public. i think that it's a profound mistake to treat global warming as a fact. it's a profound mistake</field>
+</doc>
+</add>

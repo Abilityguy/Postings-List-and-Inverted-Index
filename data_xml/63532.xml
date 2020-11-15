@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190331_120000_BBC_News#start/756/end/791</field>
+<field name="datetime">3/31/2019 12:12:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190331_120000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190331_120000_BBC_News/BBCNEWS_20190331_120000_BBC_News.thumbs/BBCNEWS_20190331_120000_BBC_News_000749.jpg</field>
+<field name="snippet">that was amelia speaking to me earlier about her alcoholic father who died two years ago. all across the world, famous landmarks have descended into darkness, albeit only for 60 minutes, as part of a global call for action on climate change. earth hour takes place every year and nearly 200 countries</field>
+</doc>
+</add>

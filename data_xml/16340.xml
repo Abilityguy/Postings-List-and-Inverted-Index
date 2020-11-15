@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201502.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150224_100000_FOX_and_Friends_First#start/1497/end/1532</field>
+<field name="datetime">2/24/2015 10:25:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends First</field>
+<field name="showid">FOXNEWSW_20150224_100000_FOX_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150224_100000_FOX_and_Friends_First/FOXNEWSW_20150224_100000_FOX_and_Friends_First.thumbs/FOXNEWSW_20150224_100000_FOX_and_Friends_First_001485.jpg</field>
+<field name="snippet">jesse waters went to boston to take the temperature of the people. now this global warming causing all of this snow. i am up to my rear end in</field>
+</doc>
+</add>

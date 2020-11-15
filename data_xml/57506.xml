@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201408.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140827_220000_Special_Report_With_Bret_Baier#start/598/end/633</field>
+<field name="datetime">8/27/2014 22:10:13</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20140827_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140827_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20140827_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20140827_220000_Special_Report_With_Bret_Baier_000585.jpg</field>
+<field name="snippet">up next, president obama prepares for another end run around congress. this time, over climate change. first here's what some of our fox affiliates across the country are covering. fox 42 in omaha, nebraska with a double shooting by police</field>
+</doc>
+</add>

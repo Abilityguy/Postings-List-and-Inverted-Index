@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140214_230000_Special_Report_With_Bret_Baier#start/138/end/173</field>
+<field name="datetime">2/14/2014 23:02:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20140214_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140214_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20140214_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20140214_230000_Special_Report_With_Bret_Baier_000135.jpg</field>
+<field name="snippet">because record heat is proof of the theory, record cold is proof of the theory, drought, floods, are proof of the theory, and blizzards now are proof of the theory. yet, the american people routinely rank global warming low on their list of priorities for the president and congress.</field>
+</doc>
+</add>

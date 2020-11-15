@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191125_130000_BBC_News_at_One#start/1326/end/1361</field>
+<field name="datetime">11/25/2019 13:22:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20191125_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191125_130000_BBC_News_at_One/BBCNEWS_20191125_130000_BBC_News_at_One.thumbs/BBCNEWS_20191125_130000_BBC_News_at_One_001318.jpg</field>
+<field name="snippet">story on panorama: how to brainwash a million people, on bbc one at 8.30 tonight, and on bbc iplayer. the concentration of carbon dioxide, and other greenhouse gases in the atmosphere reached new highs last year.</field>
+</doc>
+</add>

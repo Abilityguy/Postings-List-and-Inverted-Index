@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201004.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100423_100000_Morning_Joe#start/10041/end/10076</field>
+<field name="datetime">4/23/2010 12:47:36</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20100423_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20100423_100000_Morning_Joe/MSNBC_20100423_100000_Morning_Joe.thumbs/MSNBC_20100423_100000_Morning_Joe_010016.jpg</field>
+<field name="snippet">here's his take on solving climate change. global warming, though its size and future projections are rather unrealistically pessimistic is almost certainly taking place but the typical cure of radical fossil fuel</field>
+</doc>
+</add>

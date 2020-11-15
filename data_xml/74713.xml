@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_090000_BBC_News_at_9#start/2613/end/2648</field>
+<field name="datetime">1/17/2020 9:43:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20200117_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_090000_BBC_News_at_9/BBCNEWS_20200117_090000_BBC_News_at_9.thumbs/BBCNEWS_20200117_090000_BBC_News_at_9_002608.jpg</field>
+<field name="snippet">very interesting. david bassett, locks heath, hants. is the fundamental problem the overpopulation of the human race rather than just climate change as earth cannot support eight billion humans? it's a question that keeps coming</field>
+</doc>
+</add>

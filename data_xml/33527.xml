@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_140000_Americas_Newsroom#start/1780/end/1815</field>
+<field name="datetime">12/18/2009 14:29:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20091218_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_140000_Americas_Newsroom/FOXNEWS_20091218_140000_Americas_Newsroom.thumbs/FOXNEWS_20091218_140000_Americas_Newsroom_001770.jpg</field>
+<field name="snippet">warming is the crisis the u.s. claims it is. a new opinion dynamics poll found that while a majority of us believe global warming is real, only one in six described as a crisis. let's look to some of the</field>
+</doc>
+</add>

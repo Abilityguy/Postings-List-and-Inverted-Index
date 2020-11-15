@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180808_030000_BBC_News#start/167/end/202</field>
+<field name="datetime">8/8/2018 3:03:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180808_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180808_030000_BBC_News/BBCNEWS_20180808_030000_BBC_News.thumbs/BBCNEWS_20180808_030000_BBC_News_000148.jpg</field>
+<field name="snippet">but donald trump has been criticised for suggesting the state's environmental policy exacerbated the situation, his detractors say this is a result of global warming. officials had hoped to put out the mendocino fire by next week, but they now say they'll need until september. lebo diseko, bbc news.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201107.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20110724_150000_MSNBC_News_Live#start/3314/end/3349</field>
+<field name="datetime">7/24/2011 15:55:29</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBCW_20110724_150000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20110724_150000_MSNBC_News_Live/MSNBCW_20110724_150000_MSNBC_News_Live.thumbs/MSNBCW_20110724_150000_MSNBC_News_Live_003300.jpg</field>
+<field name="snippet">that are spewing in to the atmosphere. we have taken climate change and we're now dealing with climate disruption. corn, due to relentless heat and a late planting, is at an all-time record high.</field>
+</doc>
+</add>

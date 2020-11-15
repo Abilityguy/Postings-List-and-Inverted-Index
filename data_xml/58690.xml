@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181126_180000_BBC_News_at_Six#start/119/end/154</field>
+<field name="datetime">11/26/2018 18:02:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Six</field>
+<field name="showid">BBCNEWS_20181126_180000_BBC_News_at_Six</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181126_180000_BBC_News_at_Six/BBCNEWS_20181126_180000_BBC_News_at_Six.thumbs/BBCNEWS_20181126_180000_BBC_News_at_Six_000118.jpg</field>
+<field name="snippet">by around a metre, affecting cities like london, cardiff and edinburgh. here's our science editor david shukman. global warming threatens different countries in different ways and scientists have spent the last few years trying to work out what it means for us.</field>
+</doc>
+</add>

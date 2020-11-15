@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201403.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140304_220000_The_Ed_Show#start/67/end/102</field>
+<field name="datetime">3/4/2014 22:01:22</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20140304_220000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140304_220000_The_Ed_Show/MSNBCW_20140304_220000_The_Ed_Show.thumbs/MSNBCW_20140304_220000_The_Ed_Show_000046.jpg</field>
+<field name="snippet">secretary of state john kerry says climate change is the world's most fearsome weapon of mass destruction. the largest construction project we see on the books. republicans calling for this and say it's too big for jobs.</field>
+</doc>
+</add>

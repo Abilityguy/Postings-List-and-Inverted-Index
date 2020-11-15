@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201004.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100421_160000_MSNBC_News_Live#start/2930/end/2965</field>
+<field name="datetime">4/21/2010 16:49:05</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100421_160000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100421_160000_MSNBC_News_Live/MSNBC_20100421_160000_MSNBC_News_Live.thumbs/MSNBC_20100421_160000_MSNBC_News_Live_002906.jpg</field>
+<field name="snippet">in 'usa today,' fewer people are worried about global warming. tell that to the doctor we just spoke to. 28% of people say they worry a great deal about the environment. back in 2007, 41% said that. and you have a heart attack. that's what happened to me. i'm on an aspirin regimen now. my doctor told me</field>
+</doc>
+</add>

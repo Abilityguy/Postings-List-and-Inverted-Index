@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201301.csv</field>
+<field name="url">https://archive.org/details/CNNW_20130122_210000_The_Situation_Room#start/2631/end/2666</field>
+<field name="datetime">1/22/2013 21:44:06</field>
+<field name="station">CNN</field>
+<field name="show">The Situation Room</field>
+<field name="showid">CNNW_20130122_210000_The_Situation_Room</field>
+<field name="preview">https://archive.org/download/CNNW_20130122_210000_The_Situation_Room/CNNW_20130122_210000_The_Situation_Room.thumbs/CNNW_20130122_210000_The_Situation_Room_002625.jpg</field>
+<field name="snippet">we call the internet of everything. trees will talk to networks will talk to scientists about climate change. cars will talk to road sensors will talk to stoplights about traffic efficiency. the ambulance will talk to patient records</field>
+</doc>
+</add>

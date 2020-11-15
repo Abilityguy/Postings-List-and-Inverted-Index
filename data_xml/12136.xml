@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_043000_Business_Briefing#start/814/end/849</field>
+<field name="datetime">8/8/2019 4:43:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Business Briefing</field>
+<field name="showid">BBCNEWS_20190808_043000_Business_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_043000_Business_Briefing/BBCNEWS_20190808_043000_Business_Briefing.thumbs/BBCNEWS_20190808_043000_Business_Briefing_000808.jpg</field>
+<field name="snippet">this is the briefing from bbc news. the latest headlines: un scientists are set to urge people to cut down on meat and switch to plant-based diets to help combat climate change. president trump has visited the sites of last weekend's mass shootings as critics accuse him of stoking racial hatred. canadian police believe they have</field>
+</doc>
+</add>

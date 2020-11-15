@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100426_210000_Glenn_Beck#start/561/end/596</field>
+<field name="datetime">4/26/2010 21:09:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20100426_210000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100426_210000_Glenn_Beck/FOXNEWS_20100426_210000_Glenn_Beck.thumbs/FOXNEWS_20100426_210000_Glenn_Beck_000540.jpg</field>
+<field name="snippet">you didn't know it existed, it does. it started trading in 2003. it's billed as north america's only cap-and-trade system for all six greenhouse gases. with global affiliates and projects worldwide.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190308_090000_Fox_and_Friends_First#start/1449/end/1484</field>
+<field name="datetime">3/8/2019 9:24:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190308_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190308_090000_Fox_and_Friends_First/FOXNEWSW_20190308_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190308_090000_Fox_and_Friends_First_001437.jpg</field>
+<field name="snippet">cows don't pass gas, they burp and they only responsible for 2% of greenhouse gas emissions in our nation and the trade-off for that 2% is we get a lot of really tasty steak and roast and hamburger. heather: this was one of her</field>
+</doc>
+</add>

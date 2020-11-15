@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170709_020000_BBC_News#start/533/end/568</field>
+<field name="datetime">7/9/2017 2:09:08</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170709_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170709_020000_BBC_News/BBCNEWS_20170709_020000_BBC_News.thumbs/BBCNEWS_20170709_020000_BBC_News_000507.jpg</field>
+<field name="snippet">it's a very, very big deal, a very powerful deal, great for both countries. and i think we will have that done very, very quickly. it wasn't all this chummy. mrs may wants him to drop his opposition to the climate change treaty, but trade is a priority.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201101.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110127_110000_FOX_and_Friends#start/5552/end/5587</field>
+<field name="datetime">1/27/2011 12:32:47</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20110127_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110127_110000_FOX_and_Friends/FOXNEWS_20110127_110000_FOX_and_Friends.thumbs/FOXNEWS_20110127_110000_FOX_and_Friends_005550.jpg</field>
+<field name="snippet">inches of snow. nice! yeah, that's what i say. i wonder where al gore is this morning. that global warming is really taking its toll. isn't it? meanwhile, let's go ahead and take a look at what's going on in the weather. as you can see, the storm is for the most part heading out to</field>
+</doc>
+</add>

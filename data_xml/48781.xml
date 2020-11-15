@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201908.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190823_190000_MSNBC_Live_With_Ali_Velshi#start/3019/end/3054</field>
+<field name="datetime">8/23/2019 19:50:34</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190823_190000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190823_190000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190823_190000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190823_190000_MSNBC_Live_With_Ali_Velshi_002999.jpg</field>
+<field name="snippet">we will keep a close eye on that. coming up, the far-reaching effect of climate change. we will take you to one of the ends of the arctic to see how people are dealing with the rapidly rising temperatures. esn.</field>
+</doc>
+</add>

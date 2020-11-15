@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201107.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20110723_090000_Hardball_Weekend#start/1494/end/1529</field>
+<field name="datetime">7/23/2011 9:25:09</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball Weekend</field>
+<field name="showid">MSNBCW_20110723_090000_Hardball_Weekend</field>
+<field name="preview">https://archive.org/download/MSNBCW_20110723_090000_Hardball_Weekend/MSNBCW_20110723_090000_Hardball_Weekend.thumbs/MSNBCW_20110723_090000_Hardball_Weekend_001440.jpg</field>
+<field name="snippet">most of country in the grips of a record heat wave is not by itself proof of global warming. it does get hot in the summer. to be sure we don't get the wrong idea, here comes rush limbaugh to tell us what we think is record heat is no more</field>
+</doc>
+</add>

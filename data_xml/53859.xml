@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201807.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180729_070000_Breakfast#start/340/end/375</field>
+<field name="datetime">7/29/2018 7:05:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20180729_070000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180729_070000_Breakfast/BBCNEWS_20180729_070000_Breakfast.thumbs/BBCNEWS_20180729_070000_Breakfast_000327.jpg</field>
+<field name="snippet">one has closed yosemite national park. a damaging blow to tourism. scientists say human activity, natural weather patterns and man-made climate change are to blame, and the immediate forecast is worrying too - more hot, dry, dangerous</field>
+</doc>
+</add>

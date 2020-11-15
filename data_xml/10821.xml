@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190802_100000_BBC_Newsroom_Live#start/2290/end/2325</field>
+<field name="datetime">8/2/2019 10:38:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190802_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190802_100000_BBC_Newsroom_Live/BBCNEWS_20190802_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190802_100000_BBC_Newsroom_Live_002278.jpg</field>
+<field name="snippet">home course of woburn at 12.15 that's all the sport for now. i'll have more for you in the next hour. global temperatures forjuly could be the hottest on record. that's the initial assessment of the eu's climate change service.</field>
+</doc>
+</add>

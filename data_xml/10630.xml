@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201511.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151130_090000_Fox_Report_Sunday#start/33/end/68</field>
+<field name="datetime">11/30/2015 9:00:48</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox Report Sunday</field>
+<field name="showid">FOXNEWSW_20151130_090000_Fox_Report_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151130_090000_Fox_Report_Sunday/FOXNEWSW_20151130_090000_Fox_Report_Sunday.thumbs/FOXNEWSW_20151130_090000_Fox_Report_Sunday_000045.jpg</field>
+<field name="snippet">coming in to fox news. this i visit his very first stop, i should say, after air force one had landed in paris a short time ago. this was all been the last hour or so. the reason for his visit, an international climate change summit. one that could shape his legacy</field>
+</doc>
+</add>

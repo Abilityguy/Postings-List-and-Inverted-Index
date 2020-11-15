@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201107.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110704_100000_FOX_and_Friends#start/1675/end/1710</field>
+<field name="datetime">7/4/2011 10:28:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20110704_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110704_100000_FOX_and_Friends/FOXNEWS_20110704_100000_FOX_and_Friends.thumbs/FOXNEWS_20110704_100000_FOX_and_Friends_001650.jpg</field>
+<field name="snippet">those kinds of things. thank you both for being with us and thank you for serving our country and happy fourth. thank you. thanks for having us. sure. coming up next, the family that is honoring our fallen heroes by picking up where the government left off. and grilling causes global warming?</field>
+</doc>
+</add>

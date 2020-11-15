@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091114_230000_Americas_News_HQ#start/464/end/499</field>
+<field name="datetime">11/14/2009 23:07:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWS_20091114_230000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091114_230000_Americas_News_HQ/FOXNEWS_20091114_230000_Americas_News_HQ.thumbs/FOXNEWS_20091114_230000_Americas_News_HQ_000413.jpg</field>
+<field name="snippet">he looked at his schedule and said, i heard about this impromptu breakfast that the australian prime minister and the mexican president want to gather here in singapore on sunday morning to talk about the global climate change agenda. let's jump into that.</field>
+</doc>
+</add>

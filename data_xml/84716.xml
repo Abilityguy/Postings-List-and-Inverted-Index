@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190424_050000_Breakfast#start/5270/end/5305</field>
+<field name="datetime">4/24/2019 6:28:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190424_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190424_050000_Breakfast/BBCNEWS_20190424_050000_Breakfast.thumbs/BBCNEWS_20190424_050000_Breakfast_005247.jpg</field>
+<field name="snippet">blackwall lane is slow from the woolwich road flyover towards the blackwall tunnel. in central london, the climate change protest has been confined to marble arch, with bayswater road and park lane closed on the approach. in harlesden, the high street is closed in both directions between park parade and nightingale road for a police investigation. euston road is down to two lanes</field>
+</doc>
+</add>

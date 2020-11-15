@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191127_220000_MTP_Daily#start/2970/end/3005</field>
+<field name="datetime">11/27/2019 22:49:45</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20191127_220000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191127_220000_MTP_Daily/MSNBCW_20191127_220000_MTP_Daily.thumbs/MSNBCW_20191127_220000_MTP_Daily_002968.jpg</field>
+<field name="snippet">quote, the summary findings are bleak. countries collectively failed to stop the growth in global greenhouse gas emissions. meaning that deeper and faster cuts are now required. right now, emissions are rising. the report calls on countries to reduce emissions by more than 7%</field>
+</doc>
+</add>

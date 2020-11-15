@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190813_040000_Tucker_Carlson_Tonight#start/2280/end/2315</field>
+<field name="datetime">8/13/2019 4:38:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190813_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190813_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190813_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190813_040000_Tucker_Carlson_Tonight_002279.jpg</field>
+<field name="snippet">if we want to get a real picture of the environmental impact of the meat and animal agricultural industry as a whole, we need to look beyond the methane and beyond climate change. we need to look at things like air pollution andd water</field>
+</doc>
+</add>

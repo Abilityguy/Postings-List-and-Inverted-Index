@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201803.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180313_130000_BBC_News_at_One#start/45/end/80</field>
+<field name="datetime">3/13/2018 13:01:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20180313_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180313_130000_BBC_News_at_One/BBCNEWS_20180313_130000_BBC_News_at_One.thumbs/BBCNEWS_20180313_130000_BBC_News_at_One_000057.jpg</field>
+<field name="snippet">last quarter of 2017 and the government fails to address regional imbalances in investment. london will receive a five times more transport investment than yorkshire and humberside and the north. this is the government on climate change,</field>
+</doc>
+</add>

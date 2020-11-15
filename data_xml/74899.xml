@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200102_220000_BBC_News#start/432/end/467</field>
+<field name="datetime">1/2/2020 22:07:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200102_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200102_220000_BBC_News/BBCNEWS_20200102_220000_BBC_News.thumbs/BBCNEWS_20200102_220000_BBC_News_000419.jpg</field>
+<field name="snippet">drier weather that we expect to see with climate change, and what we have probably already seen in australia, leads to more vegetation being available to burn and more vegetation being available to burn earlier in the year. so, the fire seasons have</field>
+</doc>
+</add>

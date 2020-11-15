@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201907.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190707_100000_MSNBC_Live#start/3671/end/3706</field>
+<field name="datetime">7/7/2019 11:01:26</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20190707_100000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190707_100000_MSNBC_Live/MSNBCW_20190707_100000_MSNBC_Live.thumbs/MSNBCW_20190707_100000_MSNBC_Live_003659.jpg</field>
+<field name="snippet">the president is doing. with more than half approving how he's handling the economy. but as you can see here, as you parse the details here, the president has much lower approval ratings on several key issues, including immigration, health care, gun violence, and climate change.</field>
+</doc>
+</add>

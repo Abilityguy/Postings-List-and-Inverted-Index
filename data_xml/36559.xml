@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201906.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190607_100000_Morning_Joe#start/6973/end/7008</field>
+<field name="datetime">6/7/2019 11:56:28</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20190607_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190607_100000_Morning_Joe/MSNBCW_20190607_100000_Morning_Joe.thumbs/MSNBCW_20190607_100000_Morning_Joe_006960.jpg</field>
+<field name="snippet">and senator michael bennet joins the conversation. we'll be right back. do you personally believe in climate change? i believe there's a change in</field>
+</doc>
+</add>

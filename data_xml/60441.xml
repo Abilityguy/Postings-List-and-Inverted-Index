@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_100000_BBC_Newsroom_Live#start/313/end/348</field>
+<field name="datetime">10/8/2018 10:05:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20181008_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_100000_BBC_Newsroom_Live/BBCNEWS_20181008_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20181008_100000_BBC_Newsroom_Live_000297.jpg</field>
+<field name="snippet">given, for example, president trump's decision to pull out of the international climate change agreement, how great is the gulf between where the globe is heading at the moment and where it needs to be if it is to reduce the impact of</field>
+</doc>
+</add>

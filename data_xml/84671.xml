@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190418_100000_BBC_Newsroom_Live#start/2739/end/2774</field>
+<field name="datetime">4/18/2019 10:45:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190418_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190418_100000_BBC_Newsroom_Live/BBCNEWS_20190418_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190418_100000_BBC_Newsroom_Live_002728.jpg</field>
+<field name="snippet">in a moment we'll have all the business news, but first the headlines on bbc news. climate change protestors continue a fourth day of action in the capital. nearly 400 people have been arrested and three charged investigations begin on the portuguese island of madeira - after at least 29 people were killed in a coach crash.</field>
+</doc>
+</add>

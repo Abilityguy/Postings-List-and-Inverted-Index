@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201709.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170907_221500_Newsnight#start/192/end/227</field>
+<field name="datetime">9/7/2017 22:18:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsnight</field>
+<field name="showid">BBCNEWS_20170907_221500_Newsnight</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170907_221500_Newsnight/BBCNEWS_20170907_221500_Newsnight.thumbs/BBCNEWS_20170907_221500_Newsnight_000178.jpg</field>
+<field name="snippet">does the intensity of this year's hurricane season tell us about the occurrence of extreme weather events? irma is the strongest atlantic storm in a decade, and comes hot on the heels of hurricane harvey, which wreaked havoc last week in houston. some have asked whether climate change might be having an impact. or does extreme weather</field>
+</doc>
+</add>

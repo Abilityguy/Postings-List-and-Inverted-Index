@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190511_023000_Click_-_Short_Edition#start/0/end/21</field>
+<field name="datetime">5/11/2019 2:30:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Click - Short Edition</field>
+<field name="showid">BBCNEWS_20190511_023000_Click_-_Short_Edition</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190511_023000_Click_-_Short_Edition/BBCNEWS_20190511_023000_Click_-_Short_Edition.thumbs/BBCNEWS_20190511_023000_Click_-_Short_Edition_000057.jpg</field>
+<field name="snippet">global issues, including climate change. newswatch is up in around 15 minutes, but first it's 00:01:19911 --> 4294966103:13:29430 time for click. in the uk, police are pushing ahead with live facial recognition,</field>
+</doc>
+</add>

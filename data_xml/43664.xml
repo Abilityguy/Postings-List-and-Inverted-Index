@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151213_190000_Meet_the_Press#start/1822/end/1857</field>
+<field name="datetime">12/13/2015 19:30:37</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20151213_190000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151213_190000_Meet_the_Press/MSNBCW_20151213_190000_Meet_the_Press.thumbs/MSNBCW_20151213_190000_Meet_the_Press_001816.jpg</field>
+<field name="snippet">we shall see, it's something to watch for. later in the broadcast, we'll look at the chance that we may have our first contested convention in 40 years if there is no consolidation. but up next, secretary of state john kerry on the climate</field>
+</doc>
+</add>

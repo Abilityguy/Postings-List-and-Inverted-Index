@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201409.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140923_200000_NOW_With_Alex_Wagner#start/1885/end/1920</field>
+<field name="datetime">9/23/2014 20:31:40</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20140923_200000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140923_200000_NOW_With_Alex_Wagner/MSNBCW_20140923_200000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20140923_200000_NOW_With_Alex_Wagner_001875.jpg</field>
+<field name="snippet">126 heads of state are currently convening at the u.n. general assembly in the largest gathering devoted to attacking climate change. among them, the one that most contributed to warming of the</field>
+</doc>
+</add>

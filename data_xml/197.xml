@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201301.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130126_070000_The_Five#start/2082/end/2117</field>
+<field name="datetime">1/26/2013 7:34:57</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20130126_070000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130126_070000_The_Five/FOXNEWSW_20130126_070000_The_Five.thumbs/FOXNEWSW_20130126_070000_The_Five_002085.jpg</field>
+<field name="snippet">greg: this is about how people talk about things. conservative because they're on the defense are interested in debating things like global warming. if we debate global warming you call me a flat earther.</field>
+</doc>
+</add>

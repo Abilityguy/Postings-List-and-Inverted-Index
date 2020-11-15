@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201504.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150422_170000_MSNBC_Live_With_Thomas_Roberts#start/1165/end/1200</field>
+<field name="datetime">4/22/2015 17:19:40</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Thomas Roberts</field>
+<field name="showid">MSNBCW_20150422_170000_MSNBC_Live_With_Thomas_Roberts</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150422_170000_MSNBC_Live_With_Thomas_Roberts/MSNBCW_20150422_170000_MSNBC_Live_With_Thomas_Roberts.thumbs/MSNBCW_20150422_170000_MSNBC_Live_With_Thomas_Roberts_001156.jpg</field>
+<field name="snippet">presidential trip to the everglades. just moments ago, mr. obama arrived in miami. he is expected to talk later today about the threat of climate change to the u.s. economy. the white house says that this trip is also an effort to raise the climate change debate.</field>
+</doc>
+</add>

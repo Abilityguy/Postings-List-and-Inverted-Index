@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201502.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150226_080000_Red_Eye#start/576/end/611</field>
+<field name="datetime">2/26/2015 8:09:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWSW_20150226_080000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150226_080000_Red_Eye/FOXNEWSW_20150226_080000_Red_Eye.thumbs/FOXNEWSW_20150226_080000_Red_Eye_000555.jpg</field>
+<field name="snippet">because global warming is a real threat we need to be concerned about. thank you for bringing that up. for the next 20 minutes we can talk about global warming. that was all interesting. let's move on. are they crazy for using</field>
+</doc>
+</add>

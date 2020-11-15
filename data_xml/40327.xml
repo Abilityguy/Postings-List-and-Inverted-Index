@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201907.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190726_190000_MSNBC_Live_With_Ali_Velshi#start/1149/end/1184</field>
+<field name="datetime">7/26/2019 19:19:24</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190726_190000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190726_190000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190726_190000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190726_190000_MSNBC_Live_With_Ali_Velshi_001139.jpg</field>
+<field name="snippet">reporter: with more carbon in the atmosphere, it's getting hotter and melting glaciers causing water levels worldwide to rise. in many other places, you can't see those changes, but they're occurring. climate change is affecting everybody. the glacier's a bit like a</field>
+</doc>
+</add>

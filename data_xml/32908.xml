@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091217_180000_The_Live_Desk#start/14/end/49</field>
+<field name="datetime">12/17/2009 18:00:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Live Desk</field>
+<field name="showid">FOXNEWS_20091217_180000_The_Live_Desk</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091217_180000_The_Live_Desk/FOXNEWS_20091217_180000_The_Live_Desk.thumbs/FOXNEWS_20091217_180000_The_Live_Desk_000053.jpg</field>
+<field name="snippet">a major cash commitment to help combat climate change as the copenhagen talks stalled. secretary of state clinton offering u.s. support to help developing countries fight global warming. [captioning made possible by fox news channel] captioned by the national captioning institute</field>
+</doc>
+</add>

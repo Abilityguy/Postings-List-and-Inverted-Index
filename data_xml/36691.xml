@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201906.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190618_180000_MSNBC_Live_With_Katy_Tur#start/3589/end/3624</field>
+<field name="datetime">6/18/2019 19:00:04</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Katy Tur</field>
+<field name="showid">MSNBCW_20190618_180000_MSNBC_Live_With_Katy_Tur</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190618_180000_MSNBC_Live_With_Katy_Tur/MSNBCW_20190618_180000_MSNBC_Live_With_Katy_Tur.thumbs/MSNBCW_20190618_180000_MSNBC_Live_With_Katy_Tur_003568.jpg</field>
+<field name="snippet">on debating issues and more on creating real progress on issues like climate change and social justice. that wraps things up for me this hour. ali velshi picks things up from new york right now. have a great afternoon.</field>
+</doc>
+</add>

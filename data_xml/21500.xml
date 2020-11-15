@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100111_050000_Red_Eye#start/2905/end/2940</field>
+<field name="datetime">1/11/2010 5:48:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWS_20100111_050000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100111_050000_Red_Eye/FOXNEWS_20100111_050000_Red_Eye.thumbs/FOXNEWS_20100111_050000_Red_Eye_002880.jpg</field>
+<field name="snippet">the only result is people see you as weak and think you will never back-up your words. sean: so al gore, global warming hysteria alarmist? i'm from the state of alaska. i'm a drill baby drill.</field>
+</doc>
+</add>

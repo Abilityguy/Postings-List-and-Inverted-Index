@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190215_090000_BBC_News_at_9#start/2280/end/2315</field>
+<field name="datetime">2/15/2019 9:38:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20190215_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190215_090000_BBC_News_at_9/BBCNEWS_20190215_090000_BBC_News_at_9.thumbs/BBCNEWS_20190215_090000_BBC_News_at_9_002277.jpg</field>
+<field name="snippet">things we are doing. we have the committee on climate change, an independent body, i am throwing lots of words are you but i am excited about this too. i have asked them advice on how we get to a net zero economy. sorry, we have left the energy</field>
+</doc>
+</add>

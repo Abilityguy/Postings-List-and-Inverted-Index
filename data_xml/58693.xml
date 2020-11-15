@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181118_070000_Breakfast#start/1865/end/1900</field>
+<field name="datetime">11/18/2018 7:31:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181118_070000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181118_070000_Breakfast/BBCNEWS_20181118_070000_Breakfast.thumbs/BBCNEWS_20181118_070000_Breakfast_001857.jpg</field>
+<field name="snippet">will determine in the next few days who it thinks was behind the murder of the saudi journalist, jamal khashoggi. there have been reports that the cia believes mr khashoggi's killing was ordered by crown prince mohammed bin salman. saudi arabia has blamed rogue intelligence agents. thousands of young people have found a rather unique way to make sure their climate</field>
+</doc>
+</add>

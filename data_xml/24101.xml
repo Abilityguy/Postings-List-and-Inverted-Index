@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201902.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190212_020000_The_Rachel_Maddow_Show#start/1244/end/1279</field>
+<field name="datetime">2/12/2019 2:20:59</field>
+<field name="station">MSNBC</field>
+<field name="show">The Rachel Maddow Show</field>
+<field name="showid">MSNBCW_20190212_020000_The_Rachel_Maddow_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190212_020000_The_Rachel_Maddow_Show/MSNBCW_20190212_020000_The_Rachel_Maddow_Show.thumbs/MSNBCW_20190212_020000_The_Rachel_Maddow_Show_001228.jpg</field>
+<field name="snippet">this was the tweet he sent trying to mock her campaign announcement this weekend criticizing her for how much it snowed. quote, amy klobuchar announced she's running for president talking of fighting global warming and standing in a</field>
+</doc>
+</add>

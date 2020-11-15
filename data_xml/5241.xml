@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201208.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120822_160000_NOW_With_Alex_Wagner#start/2833/end/2868</field>
+<field name="datetime">8/22/2012 16:47:28</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20120822_160000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120822_160000_NOW_With_Alex_Wagner/MSNBCW_20120822_160000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20120822_160000_NOW_With_Alex_Wagner_002818.jpg</field>
+<field name="snippet">the folks on the panel right now, because you know, eric, we have talked about climate change, we talked about it last week in light of the droughts that were happening. it is no longer just an environmental issue. this is an economic issue. we talk about american competitiveness and the road</field>
+</doc>
+</add>

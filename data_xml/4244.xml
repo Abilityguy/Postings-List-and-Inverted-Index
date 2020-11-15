@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201302.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130206_100000_FOX_and_Friends_First#start/3186/end/3221</field>
+<field name="datetime">2/6/2013 10:53:21</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends First</field>
+<field name="showid">FOXNEWSW_20130206_100000_FOX_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130206_100000_FOX_and_Friends_First/FOXNEWSW_20130206_100000_FOX_and_Friends_First.thumbs/FOXNEWSW_20130206_100000_FOX_and_Friends_First_003165.jpg</field>
+<field name="snippet">that's what some economists want to do in order to cut down on global warming. shorter work weeks and more vacation time as a way to bring down the greenhouse gases in the u.s. guys, listen up, too much calcium could be bad for your</field>
+</doc>
+</add>

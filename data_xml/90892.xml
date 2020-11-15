@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201709.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170918_190000_Shepard_Smith_Reporting#start/1200/end/1235</field>
+<field name="datetime">9/18/2017 19:20:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20170918_190000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170918_190000_Shepard_Smith_Reporting/FOXNEWSW_20170918_190000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20170918_190000_Shepard_Smith_Reporting_001197.jpg</field>
+<field name="snippet">over the world, including the north korean nuclear threat, terrorism, climate change, french officials say president macron will try to convince president trump to stay in the iran nuclear deal and the global climate agreement known as the paris accord.</field>
+</doc>
+</add>

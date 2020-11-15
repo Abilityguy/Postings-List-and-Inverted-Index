@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190418_073000_BBC_Business_Live#start/1834/end/1869</field>
+<field name="datetime">4/18/2019 8:00:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Business Live</field>
+<field name="showid">BBCNEWS_20190418_073000_BBC_Business_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190418_073000_BBC_Business_Live/BBCNEWS_20190418_073000_BBC_Business_Live.thumbs/BBCNEWS_20190418_073000_BBC_Business_Live_001829.jpg</field>
+<field name="snippet">meanwhile, in a new documentary, sir david attenborough gives his gravest warning yet on the threat of climate change. if we have not taken dramatic action within the next decade, we could face irreversible damage to the natural world and the collapse of our societies.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190213_080000_Fox_News__Night_With_Shannon_Bream#start/1200/end/1235</field>
+<field name="datetime">2/13/2019 8:20:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News  Night With Shannon Bream</field>
+<field name="showid">FOXNEWSW_20190213_080000_Fox_News__Night_With_Shannon_Bream</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190213_080000_Fox_News__Night_With_Shannon_Bream/FOXNEWSW_20190213_080000_Fox_News__Night_With_Shannon_Bream.thumbs/FOXNEWSW_20190213_080000_Fox_News__Night_With_Shannon_Bream_001200.jpg</field>
+<field name="snippet">what is their answer on climate change? what are they going to put forward? reporter: two years ago republicans tried to pin down democratic senators on how they would vote on bernie sanders's medicare for all plan. the vote was 0 you as and 57 as.</field>
+</doc>
+</add>

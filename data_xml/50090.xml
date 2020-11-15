@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181213_050000_Tucker_Carlson_Tonight#start/1320/end/1355</field>
+<field name="datetime">12/13/2018 5:22:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20181213_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181213_050000_Tucker_Carlson_Tonight/FOXNEWSW_20181213_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20181213_050000_Tucker_Carlson_Tonight_001317.jpg</field>
+<field name="snippet">tucker: that's paris, not a war zone. dana perino hosts the daily briefing of course with dana perino. great to see you. thanks for having me. tucker: i think the argument over whether climate</field>
+</doc>
+</add>

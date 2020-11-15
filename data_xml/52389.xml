@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181209_210000_World_News_Today#start/770/end/805</field>
+<field name="datetime">12/9/2018 21:13:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20181209_210000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181209_210000_World_News_Today/BBCNEWS_20181209_210000_World_News_Today.thumbs/BBCNEWS_20181209_210000_World_News_Today_000747.jpg</field>
+<field name="snippet">inside the meeting, delegates are trying to agree new targets on carbon emissions. but serious divisions have emerged about a critical scientific study. the report, published in october by the world's leading climate change body, says in order to prevent drought, flooding and extreme poverty for millions of people,</field>
+</doc>
+</add>

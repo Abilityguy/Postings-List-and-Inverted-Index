@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190305_100000_Fox_and_Friends_First#start/2664/end/2699</field>
+<field name="datetime">3/5/2019 10:44:39</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190305_100000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190305_100000_Fox_and_Friends_First/FOXNEWSW_20190305_100000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190305_100000_Fox_and_Friends_First_002639.jpg</field>
+<field name="snippet">rob: you saw 60 minutes sunday and they had a story about climate change in this lawsuit kids are filing against the federal government and it had a lot of bad news for climate change deniers, basically the federal government has enforced to admit they have seen this evidence for the last 50 years,</field>
+</doc>
+</add>

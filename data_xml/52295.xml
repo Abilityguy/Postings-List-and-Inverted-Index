@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181206_190000_Beyond_100_Days#start/1529/end/1564</field>
+<field name="datetime">12/6/2018 19:25:44</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20181206_190000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181206_190000_Beyond_100_Days/BBCNEWS_20181206_190000_Beyond_100_Days.thumbs/BBCNEWS_20181206_190000_Beyond_100_Days_001527.jpg</field>
+<field name="snippet">days from the bbc. coming up for viewers on the bbc news channel and bbc world news - despite climate change warnings, president trump is determined to loosen regulations on carbon emissions. and the golden globes nominations are out - we'll have a look at the favourites.</field>
+</doc>
+</add>

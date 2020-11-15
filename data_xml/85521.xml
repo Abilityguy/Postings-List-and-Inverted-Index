@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201011.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101117_110000_Morning_Joe#start/6505/end/6540</field>
+<field name="datetime">11/17/2010 12:48:40</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20101117_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20101117_110000_Morning_Joe/MSNBC_20101117_110000_Morning_Joe.thumbs/MSNBC_20101117_110000_Morning_Joe_006480.jpg</field>
+<field name="snippet">while we continue having a silly ideological debate here about the sources of climate change, they're moving rapidly forward in experimenting with different solutions to the problem. you look at this technology, you look at what they're doing with high-speed rail, you look</field>
+</doc>
+</add>

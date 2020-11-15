@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190519_000000_BBC_News#start/339/end/374</field>
+<field name="datetime">5/19/2019 0:05:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190519_000000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190519_000000_BBC_News/BBCNEWS_20190519_000000_BBC_News.thumbs/BBCNEWS_20190519_000000_BBC_News_000328.jpg</field>
+<field name="snippet">environmentalists and people who work around climate change are in shock of this result, they are reeling. they see it as a real setback because yes, labour was promising stronger action on climate</field>
+</doc>
+</add>

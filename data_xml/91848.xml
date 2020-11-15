@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190724_100000_FOX__Friends#start/4195/end/4230</field>
+<field name="datetime">7/24/2019 11:10:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20190724_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190724_100000_FOX__Friends/FOXNEWSW_20190724_100000_FOX__Friends.thumbs/FOXNEWSW_20190724_100000_FOX__Friends_004169.jpg</field>
+<field name="snippet">see, right now 27% of the country says it's immigration. 23% says it's for leadership or government or congress and as you can see in single-digit race relationships, healthcare, environment and climate change. 27% immigration number is it was</field>
+</doc>
+</add>

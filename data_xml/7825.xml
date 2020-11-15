@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170610_230000_Fox_Report_Saturday#start/1275/end/1310</field>
+<field name="datetime">6/10/2017 23:21:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox Report Saturday</field>
+<field name="showid">FOXNEWSW_20170610_230000_Fox_Report_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170610_230000_Fox_Report_Saturday/FOXNEWSW_20170610_230000_Fox_Report_Saturday.thumbs/FOXNEWSW_20170610_230000_Fox_Report_Saturday_001228.jpg</field>
+<field name="snippet">plus, the states versus the u.s. government, the governor of california charting his own course when it comes to climate change. hear what jerry brown is doing to buck president trump. i accept i take easier trails than i used to.</field>
+</doc>
+</add>

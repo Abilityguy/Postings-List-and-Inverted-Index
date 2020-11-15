@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171212_185000_BBC_News#start/145/end/180</field>
+<field name="datetime">12/12/2017 18:52:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171212_185000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171212_185000_BBC_News/BBCNEWS_20171212_185000_BBC_News.thumbs/BBCNEWS_20171212_185000_BBC_News_000147.jpg</field>
+<field name="snippet">climate change is one of the great challenges we face but also mitigating the impact of climate change on some of the poorest countries in the world. what we're doing in the uk phasing out coal and also by the work we're doing through</field>
+</doc>
+</add>

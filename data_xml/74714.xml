@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_023000_Wednesday_in_Parliament#start/935/end/970</field>
+<field name="datetime">1/16/2020 2:45:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Wednesday in Parliament</field>
+<field name="showid">BBCNEWS_20200116_023000_Wednesday_in_Parliament</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_023000_Wednesday_in_Parliament/BBCNEWS_20200116_023000_Wednesday_in_Parliament.thumbs/BBCNEWS_20200116_023000_Wednesday_in_Parliament_000928.jpg</field>
+<field name="snippet">more than 1.5 degrees of warming. given the uk's historic responsibility for climate change and our wealth and resources to do something about it, we clearly need to be ahead of the curve on this.</field>
+</doc>
+</add>

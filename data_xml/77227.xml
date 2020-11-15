@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191114_010000_Newsday#start/461/end/496</field>
+<field name="datetime">11/14/2019 1:07:56</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191114_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191114_010000_Newsday/BBCNEWS_20191114_010000_Newsday.thumbs/BBCNEWS_20191114_010000_Newsday_000449.jpg</field>
+<field name="snippet">the daytime speed limit for cars to reduce its nitrogen emissions. the maximum daytime speed will be 100 kilometres an hour, the equivalent of around 62 miles per hour. the prime minister mark rutte said this is necessary to combat climate change.</field>
+</doc>
+</add>

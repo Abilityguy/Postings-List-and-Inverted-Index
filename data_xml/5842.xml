@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190926_160000_BBC_News_at_Five#start/3455/end/3490</field>
+<field name="datetime">9/26/2019 16:57:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20190926_160000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190926_160000_BBC_News_at_Five/BBCNEWS_20190926_160000_BBC_News_at_Five.thumbs/BBCNEWS_20190926_160000_BBC_News_at_Five_003447.jpg</field>
+<field name="snippet">more, that we should still be at the cutting-edge of finding out what is happening. of course, it has never be more important to find out what is happening than it is now. the dangers of climate</field>
+</doc>
+</add>

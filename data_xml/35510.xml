@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201904.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190401_190000_MSNBC_Live_With_Ali_Velshi#start/1313/end/1348</field>
+<field name="datetime">4/1/2019 19:22:08</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190401_190000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190401_190000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190401_190000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190401_190000_MSNBC_Live_With_Ali_Velshi_001287.jpg</field>
+<field name="snippet">who is in alaska where residents are experiencing firsthand climate change as they see their normally freezing temperatures rising at a rapid rate. you're watching msnbc.</field>
+</doc>
+</add>

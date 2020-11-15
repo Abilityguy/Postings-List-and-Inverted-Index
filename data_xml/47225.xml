@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201802.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180212_060000_Breakfast#start/2349/end/2384</field>
+<field name="datetime">2/12/2018 6:39:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20180212_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180212_060000_Breakfast/BBCNEWS_20180212_060000_Breakfast.thumbs/BBCNEWS_20180212_060000_Breakfast_003537.jpg</field>
+<field name="snippet">taking off, is that global warming or is it something else? or is it something else?</field>
+</doc>
+</add>

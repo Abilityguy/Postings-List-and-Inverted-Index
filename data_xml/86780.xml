@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191230_113000_Weather_World#start/1064/end/1099</field>
+<field name="datetime">12/30/2019 11:47:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20191230_113000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191230_113000_Weather_World/BBCNEWS_20191230_113000_Weather_World.thumbs/BBCNEWS_20191230_113000_Weather_World_001047.jpg</field>
+<field name="snippet">into climate change science? mm, the way in which climate change interacts with hurricanes and cyclones is quite complex. but in terms of the damage caused by those hurricanes and cyclones, it's very clear that much of that damage is exacerbated</field>
+</doc>
+</add>

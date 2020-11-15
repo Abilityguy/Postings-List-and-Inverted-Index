@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190101_063000_Review_2018#start/1719/end/1754</field>
+<field name="datetime">1/1/2019 6:58:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Review 2018</field>
+<field name="showid">BBCNEWS_20190101_063000_Review_2018</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190101_063000_Review_2018/BBCNEWS_20190101_063000_Review_2018.thumbs/BBCNEWS_20190101_063000_Review_2018_001708.jpg</field>
+<field name="snippet">these unpredictable weather patterns are likely to be part of human-induced climate change and so the severe effect it had on the agricultural industry, when it brought the country to a halt, that is something we will have to deal, unfortunately,</field>
+</doc>
+</add>

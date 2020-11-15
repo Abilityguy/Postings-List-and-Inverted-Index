@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190902_200000_Outside_Source#start/2288/end/2323</field>
+<field name="datetime">9/2/2019 20:38:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20190902_200000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190902_200000_Outside_Source/BBCNEWS_20190902_200000_Outside_Source.thumbs/BBCNEWS_20190902_200000_Outside_Source_002277.jpg</field>
+<field name="snippet">we ask whether there is a connection to climate change. matthew cappucci, an atmospheric scientist and meteorogist for the washington post. is that nature of this storm connected to broader changes that are happening in our climate?m</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201110.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20111003_100000_Morning_Joe#start/2783/end/2818</field>
+<field name="datetime">10/3/2011 10:46:38</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20111003_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20111003_100000_Morning_Joe/MSNBCW_20111003_100000_Morning_Joe.thumbs/MSNBCW_20111003_100000_Morning_Joe_002756.jpg</field>
+<field name="snippet">it's very interesting when you look at the candidates. because 80%, 83% don't believe climate change is affected by human activities. 60% don't believe in evolution. you have 68% attending church,</field>
+</doc>
+</add>

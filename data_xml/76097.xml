@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190510_050000_Breakfast#start/3752/end/3787</field>
+<field name="datetime">5/10/2019 6:02:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190510_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190510_050000_Breakfast/BBCNEWS_20190510_050000_Breakfast.thumbs/BBCNEWS_20190510_050000_Breakfast_003747.jpg</field>
+<field name="snippet">the new system will transform the services offered by the emergency teams that will mean faster and better treatment for victims. ramzan karmali, bbc news. radical new ways to repair the climate and reverse global</field>
+</doc>
+</add>

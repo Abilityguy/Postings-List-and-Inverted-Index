@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201211.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121103_200000_News_Nation#start/3048/end/3083</field>
+<field name="datetime">11/3/2012 20:51:03</field>
+<field name="station">MSNBC</field>
+<field name="show">News Nation</field>
+<field name="showid">MSNBCW_20121103_200000_News_Nation</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121103_200000_News_Nation/MSNBCW_20121103_200000_News_Nation.thumbs/MSNBCW_20121103_200000_News_Nation_003030.jpg</field>
+<field name="snippet">that i spoke to thought it seemed a bit of a distraction. we have a climate that has fundamentally changed. it's a warmer planet. the baseline is different now. but we don't quite have the ability to say this particular storm is attribute to climate</field>
+</doc>
+</add>

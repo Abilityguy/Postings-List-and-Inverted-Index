@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201812.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181230_230000_Meet_the_Press#start/2722/end/2757</field>
+<field name="datetime">12/30/2018 23:45:37</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20181230_230000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181230_230000_Meet_the_Press/MSNBCW_20181230_230000_Meet_the_Press.thumbs/MSNBCW_20181230_230000_Meet_the_Press_002698.jpg</field>
+<field name="snippet">polling this year seems to suggest that americans are finally starting to form a consensus on this issue. more people are willing to accept that it's happening and that humans are responsible, but there is a serious political divide. according to a study from yale and george mason university, 70% of americans say global warming</field>
+</doc>
+</add>

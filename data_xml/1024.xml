@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170527_200000_World_News_Today#start/14/end/49</field>
+<field name="datetime">5/27/2017 20:00:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20170527_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170527_200000_World_News_Today/BBCNEWS_20170527_200000_World_News_Today.thumbs/BBCNEWS_20170527_200000_World_News_Today_000057.jpg</field>
+<field name="snippet">whether the us will commit to the paris climate agreement. the entire discussion about climate change was very difficult, if not to say that it is satisfying. we have a</field>
+</doc>
+</add>

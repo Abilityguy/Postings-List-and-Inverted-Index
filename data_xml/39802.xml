@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091103_220000_Glenn_Beck#start/2360/end/2395</field>
+<field name="datetime">11/3/2009 22:39:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20091103_220000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091103_220000_Glenn_Beck/FOXNEWS_20091103_220000_Glenn_Beck.thumbs/FOXNEWS_20091103_220000_Glenn_Beck_002340.jpg</field>
+<field name="snippet">these people who made the connection between eating meat and global warming? i think that we have all made some progress, thanks in large measure to the fantastic work of the scientists of the</field>
+</doc>
+</add>

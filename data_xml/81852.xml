@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091218_110000_Morning_Joe#start/10700/end/10735</field>
+<field name="datetime">12/18/2009 13:58:35</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20091218_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20091218_110000_Morning_Joe/MSNBC_20091218_110000_Morning_Joe.thumbs/MSNBC_20091218_110000_Morning_Joe_010688.jpg</field>
+<field name="snippet">claims to be trying to save a climate summit. the president arriving in copenhagen with a message for the world's leaders. time is running short to reach a deal on climate change and it's time for the whole world to take a substantial step forward. that's his rhetoric. we'll see what they're actually doing with it.</field>
+</doc>
+</add>

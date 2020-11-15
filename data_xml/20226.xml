@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201404.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140401_000000_The_OReilly_Factor#start/69/end/104</field>
+<field name="datetime">4/1/2014 0:01:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20140401_000000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140401_000000_The_OReilly_Factor/FOXNEWSW_20140401_000000_The_OReilly_Factor.thumbs/FOXNEWSW_20140401_000000_The_OReilly_Factor_000045.jpg</field>
+<field name="snippet">the factor begins right now. paragraph hi, i'm bill o'reilly. thanks for watching us tonight. the truth about obamacare and global warming. that is the subject of this</field>
+</doc>
+</add>

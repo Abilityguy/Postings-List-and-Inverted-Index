@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_170000_BBC_News_at_Five#start/136/end/171</field>
+<field name="datetime">1/17/2020 17:02:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20200117_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_170000_BBC_News_at_Five/BBCNEWS_20200117_170000_BBC_News_at_Five.thumbs/BBCNEWS_20200117_170000_BBC_News_at_Five_000118.jpg</field>
+<field name="snippet">glasgow is hosting an international summit on climate change later this year and today we're looking at the changes the city is making as part of our series, our planet matters. my colleague annita mcveigh</field>
+</doc>
+</add>

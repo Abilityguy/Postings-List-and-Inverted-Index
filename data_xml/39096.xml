@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100401_230000_The_FOX_Report_With_Shepard_Smith#start/402/end/437</field>
+<field name="datetime">4/1/2010 23:06:57</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The FOX Report With Shepard Smith</field>
+<field name="showid">FOXNEWS_20100401_230000_The_FOX_Report_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100401_230000_The_FOX_Report_With_Shepard_Smith/FOXNEWS_20100401_230000_The_FOX_Report_With_Shepard_Smith.thumbs/FOXNEWS_20100401_230000_The_FOX_Report_With_Shepard_Smith_000386.jpg</field>
+<field name="snippet">homes, factories, things like that to get congress to pass a clean air act. revision so it can deal with global warming issues more broadly and legislatively. the auto industry likes this, shepard. the reason it likes this because it was fearing it there would be separate greenhouse standards in</field>
+</doc>
+</add>

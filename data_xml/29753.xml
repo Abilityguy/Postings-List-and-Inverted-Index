@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191121_020000_MSNBC-Washington_Post_Democratic_Debate#start/3674/end/3709</field>
+<field name="datetime">11/21/2019 3:01:29</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC-Washington Post Democratic Debate</field>
+<field name="showid">MSNBCW_20191121_020000_MSNBC-Washington_Post_Democratic_Debate</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191121_020000_MSNBC-Washington_Post_Democratic_Debate/MSNBCW_20191121_020000_MSNBC-Washington_Post_Democratic_Debate.thumbs/MSNBCW_20191121_020000_MSNBC-Washington_Post_Democratic_Debate_003659.jpg</field>
+<field name="snippet">yes, but we won't need them because we're going to fix the trade war. thank you, sir. the u.n. recently reported what was once called a climate change and now a climate crisis. climate is also an issue important to our audience.</field>
+</doc>
+</add>

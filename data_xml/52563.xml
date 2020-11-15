@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181228_190000_BBC_News#start/2112/end/2147</field>
+<field name="datetime">12/28/2018 19:35:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181228_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181228_190000_BBC_News/BBCNEWS_20181228_190000_BBC_News.thumbs/BBCNEWS_20181228_190000_BBC_News_002097.jpg</field>
+<field name="snippet">its boosters return back to earth. this year saw the publication of the most worrying report we've ever had on the impact of climate change. scientists warned that it was now or never to save the planet, and they called for drastic action to keep global temperature rises to within 1.5 celsius. any more, and we risk irreversible</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190102_054500_The_Briefing#start/163/end/198</field>
+<field name="datetime">1/2/2019 5:47:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20190102_054500_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190102_054500_The_Briefing/BBCNEWS_20190102_054500_The_Briefing.thumbs/BBCNEWS_20190102_054500_The_Briefing_000148.jpg</field>
+<field name="snippet">people, women, all sorts of key issues. and the environment, which in this age of climate change and disasters happening around the planet is concerning because brazil has the amazon rainforest, which is the most important in the world to regulating the planet.</field>
+</doc>
+</add>

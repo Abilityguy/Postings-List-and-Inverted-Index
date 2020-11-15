@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170119_060000_Breakfast#start/716/end/751</field>
+<field name="datetime">1/19/2017 6:12:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20170119_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170119_060000_Breakfast/BBCNEWS_20170119_060000_Breakfast.thumbs/BBCNEWS_20170119_060000_Breakfast_000718.jpg</field>
+<field name="snippet">services for people. they help in mitigating climate change by being carbon stocks. they help in providing clear water for people.</field>
+</doc>
+</add>

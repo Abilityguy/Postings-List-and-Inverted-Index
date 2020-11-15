@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190511_090000_BBC_News#start/1118/end/1153</field>
+<field name="datetime">5/11/2019 9:18:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190511_090000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190511_090000_BBC_News/BBCNEWS_20190511_090000_BBC_News.thumbs/BBCNEWS_20190511_090000_BBC_News_001108.jpg</field>
+<field name="snippet">concerns over climate change might restrict the growth of flying in the uk according to a senior civil servant. theresa may is expected to give more detail in the coming days about leaving downing street, according to the most senior conservative backbencher. president trump has ordered tariffs</field>
+</doc>
+</add>

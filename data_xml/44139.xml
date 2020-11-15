@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180118_010000_Tucker_Carlson_Tonight#start/2917/end/2952</field>
+<field name="datetime">1/18/2018 1:48:52</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20180118_010000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180118_010000_Tucker_Carlson_Tonight/FOXNEWSW_20180118_010000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20180118_010000_Tucker_Carlson_Tonight_002908.jpg</field>
+<field name="snippet">let me ask you this, i won't call that you or hopefully anyone else that ever again. thank you. tucker: why can the mayor of new york call himself a warrior against climate change if he uses a helicopter to get around the city? when he could take public</field>
+</doc>
+</add>

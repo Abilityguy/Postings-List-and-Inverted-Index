@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201812.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181231_100000_Meet_the_Press#start/3/end/38</field>
+<field name="datetime">12/31/2018 10:00:18</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20181231_100000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181231_100000_Meet_the_Press/MSNBCW_20181231_100000_Meet_the_Press.thumbs/MSNBCW_20181231_100000_Meet_the_Press_000058.jpg</field>
+<field name="snippet">elih, you mentioned the findings of the mueller investigation. thank you-all so much for being here. that will do it for us this year on 'kasie d.c.' we'll be back next week but for now, good night from washington. this sunday, the climate</field>
+</doc>
+</add>

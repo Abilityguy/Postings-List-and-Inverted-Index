@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201804.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180426_010000_BBC_News#start/55/end/90</field>
+<field name="datetime">4/26/2018 1:01:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180426_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180426_010000_BBC_News/BBCNEWS_20180426_010000_BBC_News.thumbs/BBCNEWS_20180426_010000_BBC_News_000058.jpg</field>
+<field name="snippet">on tuesday donald trump and emanuel macron were holding hands, back slapping and wiping away dandruff from their suit jackets. today in an address to congress the french president took aim at some of mr trump's key policies. he stood behind the iran nuclear deal and stressed the urgency of tackling climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190510_200000_World_News_Today#start/1440/end/1475</field>
+<field name="datetime">5/10/2019 20:24:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190510_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190510_200000_World_News_Today/BBCNEWS_20190510_200000_World_News_Today.thumbs/BBCNEWS_20190510_200000_World_News_Today_001438.jpg</field>
+<field name="snippet">lizzie, thank you. let's return to new plans to tackle climate change. we can speak now to tim kruger, senior fellow at the geo-engineering programme at the university of oxford. welcome back. we talked briefly about boats reflecting likes to keep</field>
+</doc>
+</add>

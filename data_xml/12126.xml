@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190824_010000_BBC_News#start/1335/end/1370</field>
+<field name="datetime">8/24/2019 1:22:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190824_010000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190824_010000_BBC_News/BBCNEWS_20190824_010000_BBC_News.thumbs/BBCNEWS_20190824_010000_BBC_News_001318.jpg</field>
+<field name="snippet">sarah rainsford reporting from moscow. few places have experienced the effects of climate change as vividly as the arctic. in finnmark, at the northernmost tip of norway, the warmer temperatures pose a challenge for indigenous saami reindeer herders. but one solution - to mine copperfor a shift to electric vehicles and wind turbines - may make things even worse,</field>
+</doc>
+</add>

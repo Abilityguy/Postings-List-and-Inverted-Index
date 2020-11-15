@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201011.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101120_130000_MSNBC_News_Live#start/3018/end/3053</field>
+<field name="datetime">11/20/2010 13:50:33</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20101120_130000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20101120_130000_MSNBC_News_Live/MSNBC_20101120_130000_MSNBC_News_Live.thumbs/MSNBC_20101120_130000_MSNBC_News_Live_003000.jpg</field>
+<field name="snippet">president al gore who says you have to turn the ear on us, the media has failed on climate crisis coverage. have we? well, i don't like to throw stones, but i feel that it's important to discuss this not as a debate, but as fact.</field>
+</doc>
+</add>

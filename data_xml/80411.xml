@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190418_020000_The_Ingraham_Angle#start/1793/end/1828</field>
+<field name="datetime">4/18/2019 2:30:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Ingraham Angle</field>
+<field name="showid">FOXNEWSW_20190418_020000_The_Ingraham_Angle</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190418_020000_The_Ingraham_Angle/FOXNEWSW_20190418_020000_The_Ingraham_Angle.thumbs/FOXNEWSW_20190418_020000_The_Ingraham_Angle_001768.jpg</field>
+<field name="snippet">american people are. laura: the american people, new fox news poll just came out, immigration is the top issue for americans. 21%. they know it hits their pocketbook. economy, 10%. health care, 9%. climate change. sorry, beto.</field>
+</doc>
+</add>

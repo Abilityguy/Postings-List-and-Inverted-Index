@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181129_060000_Breakfast#start/2337/end/2372</field>
+<field name="datetime">11/29/2018 6:39:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181129_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181129_060000_Breakfast/BBCNEWS_20181129_060000_Breakfast.thumbs/BBCNEWS_20181129_060000_Breakfast_002337.jpg</field>
+<field name="snippet">that heatwaves linked to climate change pose an increasing danger that threatens to overwhelm health services around the world. the number of people who have become vulnerable to extreme hot weather has risen steadily all over the globe since 1990. in 2017, 157 million more people</field>
+</doc>
+</add>

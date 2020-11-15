@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201411.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141120_110000_FOX_and_Friends#start/1987/end/2022</field>
+<field name="datetime">11/20/2014 11:33:22</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20141120_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141120_110000_FOX_and_Friends/FOXNEWSW_20141120_110000_FOX_and_Friends.thumbs/FOXNEWSW_20141120_110000_FOX_and_Friends_001965.jpg</field>
+<field name="snippet">could accelerate global warming and people who were outside today said sounds good to me. timely. here in new york city right now the wind chill is 30 degrees. that is about 20 degrees warmer than it was</field>
+</doc>
+</add>

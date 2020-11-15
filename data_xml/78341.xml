@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191126_040000_BBC_News#start/308/end/343</field>
+<field name="datetime">11/26/2019 4:05:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191126_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191126_040000_BBC_News/BBCNEWS_20191126_040000_BBC_News.thumbs/BBCNEWS_20191126_040000_BBC_News_000299.jpg</field>
+<field name="snippet">of these new record breaking carbon dioxide levels. well, obviously, it's not great news, but it doesn't come as any great surprise either. we know that although a number of countries have started to make quite aggressive moves on climate change, we haven't yet bent the curve in terms of global co2 emissions.</field>
+</doc>
+</add>

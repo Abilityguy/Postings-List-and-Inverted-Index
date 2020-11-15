@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_220000_BBC_News_at_Ten#start/138/end/173</field>
+<field name="datetime">1/16/2020 22:02:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20200116_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_220000_BBC_News_at_Ten/BBCNEWS_20200116_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20200116_220000_BBC_News_at_Ten_000118.jpg</field>
+<field name="snippet">suggest the bushfires in australia we re suggest the bushfires in australia were nothing to do with climate change. we'll have more from australia in a moment but first, here's our science editor, david shukman. a stunning view of our fragile planet, the blaze of lights evidence of the many impacts</field>
+</doc>
+</add>

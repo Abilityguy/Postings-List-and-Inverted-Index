@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191202_170000_BBC_News_at_Five#start/2384/end/2419</field>
+<field name="datetime">12/2/2019 17:39:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20191202_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191202_170000_BBC_News_at_Five/BBCNEWS_20191202_170000_BBC_News_at_Five.thumbs/BBCNEWS_20191202_170000_BBC_News_at_Five_002368.jpg</field>
+<field name="snippet">policy and communications director at the grantham research institute on climate change and the environment at the london school of economics. thank you for coming in, welcome. huge number of people in madrid which at least reflects how current</field>
+</doc>
+</add>

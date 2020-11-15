@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201709.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170920_100000_Morning_Joe#start/6370/end/6405</field>
+<field name="datetime">9/20/2017 11:46:25</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20170920_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170920_100000_Morning_Joe/MSNBCW_20170920_100000_Morning_Joe.thumbs/MSNBCW_20170920_100000_Morning_Joe_004833.jpg</field>
+<field name="snippet">the evidence is building all around the world. every leader in africa, every leader in europe, most leaders in asia all believe that climate change is happening and mankind is pushing it into faster</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201804.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180429_153000_Talking_Movies#start/196/end/231</field>
+<field name="datetime">4/29/2018 15:33:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Talking Movies</field>
+<field name="showid">BBCNEWS_20180429_153000_Talking_Movies</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180429_153000_Talking_Movies/BBCNEWS_20180429_153000_Talking_Movies.thumbs/BBCNEWS_20180429_153000_Talking_Movies_000177.jpg</field>
+<field name="snippet">section was a big attraction. several projects were designed to get festival goers to focus on real issues, such as climate change and racism. even if they were a bit mind-boggling.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201302.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130218_010000_Huckabee#start/1361/end/1396</field>
+<field name="datetime">2/18/2013 1:22:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Huckabee</field>
+<field name="showid">FOXNEWSW_20130218_010000_Huckabee</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130218_010000_Huckabee/FOXNEWSW_20130218_010000_Huckabee.thumbs/FOXNEWSW_20130218_010000_Huckabee_001335.jpg</field>
+<field name="snippet">the audience likes what larry is saying. we were talking about climate change and seems to me that anybody in the northeast just lost power because it rains or snows in the northeast, has to free that your infrastructure needs fixing, so, yes, we need more</field>
+</doc>
+</add>

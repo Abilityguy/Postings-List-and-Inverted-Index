@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191008_050000_Breakfast#start/451/end/486</field>
+<field name="datetime">10/8/2019 5:07:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191008_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191008_050000_Breakfast/BBCNEWS_20191008_050000_Breakfast.thumbs/BBCNEWS_20191008_050000_Breakfast_000449.jpg</field>
+<field name="snippet">280 people in london, as environmental campaign group extinction rebellion, begin their latest protest against climate change. key sites in london have been blocked including whitehall, horse guards parade and the mall, with some activists chaining themselves to vehicles and railings.</field>
+</doc>
+</add>

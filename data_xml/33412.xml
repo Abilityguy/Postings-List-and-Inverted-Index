@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091212_230000_Americas_News_HQ#start/2209/end/2244</field>
+<field name="datetime">12/12/2009 23:37:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWS_20091212_230000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091212_230000_Americas_News_HQ/FOXNEWS_20091212_230000_Americas_News_HQ.thumbs/FOXNEWS_20091212_230000_Americas_News_HQ_002190.jpg</field>
+<field name="snippet">trying to create jobs. while health care, iraq and afghanistan and reducing the deficit come in third, fourth and fifth. global warming is 7th with just 2% of the vote. new year's eve is only a few weeks away.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201109.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20110922_100000_FOX_and_Friends#start/878/end/913</field>
+<field name="datetime">9/22/2011 10:14:53</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20110922_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20110922_100000_FOX_and_Friends/FOXNEWSW_20110922_100000_FOX_and_Friends.thumbs/FOXNEWSW_20110922_100000_FOX_and_Friends_000866.jpg</field>
+<field name="snippet">to stop disease that spreads across borders, we must strengthen our system of public health. to preserve our planet, we must not put off action that climate change demands. ultimately, the israelis and the palestinians not us who must reach agreement on the issues that divide them.</field>
+</doc>
+</add>

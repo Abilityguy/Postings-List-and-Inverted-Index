@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201101.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110127_110000_FOX_and_Friends#start/1453/end/1488</field>
+<field name="datetime">1/27/2011 11:24:28</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20110127_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110127_110000_FOX_and_Friends/FOXNEWS_20110127_110000_FOX_and_Friends.thumbs/FOXNEWS_20110127_110000_FOX_and_Friends_001440.jpg</field>
+<field name="snippet">thanks very much. with recent snow storms like the one that's going on right now striking across portions of the united states and temperatures staying well below freezing, some global warming supporters are saying warm arctic air is pushing the jet stream south. that's why it's so cold here</field>
+</doc>
+</add>

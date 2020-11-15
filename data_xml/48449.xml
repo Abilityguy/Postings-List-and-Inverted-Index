@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201908.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190802_190000_MSNBC_Live_With_Ali_Velshi#start/2099/end/2134</field>
+<field name="datetime">8/2/2019 19:35:14</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190802_190000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190802_190000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190802_190000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190802_190000_MSNBC_Live_With_Ali_Velshi_002098.jpg</field>
+<field name="snippet">earlier this week, one of the key policy debates was over climate change. and while it's an issue that comes up mostly among left leaning voters, polling shows it is widely recognized that climate change is a real problem, to which we all contribute and for which we all</field>
+</doc>
+</add>

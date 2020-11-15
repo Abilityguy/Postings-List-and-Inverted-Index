@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171122_231500_Newsnight#start/2667/end/2702</field>
+<field name="datetime">11/22/2017 23:59:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsnight</field>
+<field name="showid">BBCNEWS_20171122_231500_Newsnight</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171122_231500_Newsnight/BBCNEWS_20171122_231500_Newsnight.thumbs/BBCNEWS_20171122_231500_Newsnight_002668.jpg</field>
+<field name="snippet">ratko mladic is sentenced to life in prison after being convicted of war crimes. and the amazing nasa timelapse that promises a new perspective on climate change and how our planet's evolved over the past 20 years.</field>
+</doc>
+</add>

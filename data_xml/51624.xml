@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181216_210000_World_News_Today#start/200/end/235</field>
+<field name="datetime">12/16/2018 21:03:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20181216_210000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181216_210000_World_News_Today/BBCNEWS_20181216_210000_World_News_Today.thumbs/BBCNEWS_20181216_210000_World_News_Today_000177.jpg</field>
+<field name="snippet">weeks of negotiation were over. and a deal to try to tackle climate change has at last emerged. there we re change has at last emerged. there were many disagreements among countries, but a consensus to fight global warming is very good news.</field>
+</doc>
+</add>

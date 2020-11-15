@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201102.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20110207_000000_FOX_Report#start/3240/end/3275</field>
+<field name="datetime">2/7/2011 0:54:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report</field>
+<field name="showid">FOXNEWS_20110207_000000_FOX_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20110207_000000_FOX_Report/FOXNEWS_20110207_000000_FOX_Report.thumbs/FOXNEWS_20110207_000000_FOX_Report_003240.jpg</field>
+<field name="snippet">the health care overhaul and greenhouse gas limits are bad for business and says that they have may have used foreign money for attack ads and speaking with the internet this weekend. if we make america the best</field>
+</doc>
+</add>

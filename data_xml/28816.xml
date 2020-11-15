@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201610.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161011_190000_Shepard_Smith_Reporting#start/2304/end/2339</field>
+<field name="datetime">10/11/2016 19:38:39</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Shepard Smith Reporting</field>
+<field name="showid">FOXNEWSW_20161011_190000_Shepard_Smith_Reporting</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161011_190000_Shepard_Smith_Reporting/FOXNEWSW_20161011_190000_Shepard_Smith_Reporting.thumbs/FOXNEWSW_20161011_190000_Shepard_Smith_Reporting_002278.jpg</field>
+<field name="snippet">in much of the southeast, which means that matthew's storm surge was higher and the flooding was more severe. plus, as you know, the impact of climate change goes beyond extreme events like hurricanes.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201302.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130207_110000_FOX_and_Friends#start/10563/end/10598</field>
+<field name="datetime">2/7/2013 13:56:18</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20130207_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130207_110000_FOX_and_Friends/FOXNEWSW_20130207_110000_FOX_and_Friends.thumbs/FOXNEWSW_20130207_110000_FOX_and_Friends_010545.jpg</field>
+<field name="snippet">you know what? it's kinds of a funny story. polar bears are -- there are more alive now than 40 years ago. and that's because there was a global hunting ban in the early '70s. polar bear populations exploded after that. and that's not to say that global warming isn't real or that polar bears aren't going to</field>
+</doc>
+</add>

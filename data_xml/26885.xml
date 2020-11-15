@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100223_230000_Special_Report_With_Bret_Baier#start/1906/end/1941</field>
+<field name="datetime">2/23/2010 23:32:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100223_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100223_230000_Special_Report_With_Bret_Baier/FOXNEWS_20100223_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100223_230000_Special_Report_With_Bret_Baier_001884.jpg</field>
+<field name="snippet">scientists. in the wake of mistakes, errors and apparent coverups surrounding global warming research. britain's meteorological's office is suggesting a do-over. the proposal was presented monday to about 150 climate scientists and obtained by fox</field>
+</doc>
+</add>

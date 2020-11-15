@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091205_000000_The_FOX_Report_With_Shepard_Smith#start/2759/end/2794</field>
+<field name="datetime">12/5/2009 0:46:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The FOX Report With Shepard Smith</field>
+<field name="showid">FOXNEWS_20091205_000000_The_FOX_Report_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091205_000000_The_FOX_Report_With_Shepard_Smith/FOXNEWS_20091205_000000_The_FOX_Report_With_Shepard_Smith.thumbs/FOXNEWS_20091205_000000_The_FOX_Report_With_Shepard_Smith_002754.jpg</field>
+<field name="snippet">it was a nice sunny day. but the ministers had to strap on oxygen tanks because the air is so thin at that elevation. the event ahead of next week's international climate change conference in copenhagen. and that's a wrap on this fox trip around the world in 80 seconds.</field>
+</doc>
+</add>

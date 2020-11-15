@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190922_200000_World_News_Today#start/4/end/39</field>
+<field name="datetime">9/22/2019 20:00:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190922_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190922_200000_World_News_Today/BBCNEWS_20190922_200000_World_News_Today.thumbs/BBCNEWS_20190922_200000_World_News_Today_000028.jpg</field>
+<field name="snippet">so obviously we're doing something right on the small screen. this is bbc world news today. i'm karin giannnone. our top stories. a dramatic warning ahead of the un climate summit - the signs and impacts of global</field>
+</doc>
+</add>

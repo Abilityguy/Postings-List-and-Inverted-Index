@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091005_230000_The_FOX_Report_With_Shepard_Smith#start/2909/end/2944</field>
+<field name="datetime">10/5/2009 23:48:44</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The FOX Report With Shepard Smith</field>
+<field name="showid">FOXNEWS_20091005_230000_The_FOX_Report_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091005_230000_The_FOX_Report_With_Shepard_Smith/FOXNEWS_20091005_230000_The_FOX_Report_With_Shepard_Smith.thumbs/FOXNEWS_20091005_230000_The_FOX_Report_With_Shepard_Smith_002850.jpg</field>
+<field name="snippet">energy consumers the government. the president signed executive order to require all federal agencies to keep track of greenhouse gas emissions. that includes the amount of electricity used in federal buildings and in daily commutes by federal workers. under this order, the agencies will have to meet a series of</field>
+</doc>
+</add>

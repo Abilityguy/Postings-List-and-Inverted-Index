@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091213_120000_FOX_and_Friends_Sunday#start/3738/end/3773</field>
+<field name="datetime">12/13/2009 13:02:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Sunday</field>
+<field name="showid">FOXNEWS_20091213_120000_FOX_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091213_120000_FOX_and_Friends_Sunday/FOXNEWS_20091213_120000_FOX_and_Friends_Sunday.thumbs/FOXNEWS_20091213_120000_FOX_and_Friends_Sunday_003720.jpg</field>
+<field name="snippet">in criticizing an emerging draft global warming pact. the draft says that developing nations must cut emissions only if they have outside financing. the union wants that with</field>
+</doc>
+</add>

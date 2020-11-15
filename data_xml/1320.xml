@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201507.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150721_100000_FOX_and_Friends#start/2467/end/2502</field>
+<field name="datetime">7/21/2015 10:41:22</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20150721_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150721_100000_FOX_and_Friends/FOXNEWSW_20150721_100000_FOX_and_Friends.thumbs/FOXNEWSW_20150721_100000_FOX_and_Friends_002445.jpg</field>
+<field name="snippet">graduates saying that climate change was a national security problem. ann romney is under attack this morning about her new book about living with multiple</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200104_130000_BBC_News#start/1801/end/1836</field>
+<field name="datetime">1/4/2020 13:30:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200104_130000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200104_130000_BBC_News/BBCNEWS_20200104_130000_BBC_News.thumbs/BBCNEWS_20200104_130000_BBC_News_001797.jpg</field>
+<field name="snippet">sharon? greta thunberg. well this was how the climate change activist responded last night, clearly seeing the funny side of the story. she's since changed her name back for her 3.9 million followers on twitter to the more predictable greta thunberg.</field>
+</doc>
+</add>

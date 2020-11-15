@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170621_150000_BBC_News#start/1101/end/1136</field>
+<field name="datetime">6/21/2017 15:18:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170621_150000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170621_150000_BBC_News/BBCNEWS_20170621_150000_BBC_News.thumbs/BBCNEWS_20170621_150000_BBC_News_001077.jpg</field>
+<field name="snippet">in international efforts to tackle mass migration and climate change, to alleviate poverty and end modern slavery. we have always looked beyond europe to the wider world and we will continue to do so. no, i am</field>
+</doc>
+</add>

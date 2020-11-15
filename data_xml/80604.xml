@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190423_100000_FOX__Friends#start/1758/end/1793</field>
+<field name="datetime">4/23/2019 10:29:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX  Friends</field>
+<field name="showid">FOXNEWSW_20190423_100000_FOX__Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190423_100000_FOX__Friends/FOXNEWSW_20190423_100000_FOX__Friends.thumbs/FOXNEWSW_20190423_100000_FOX__Friends_001739.jpg</field>
+<field name="snippet">steve: mayor bill glaza as a new idea to stop climate change in new york. take new york city back to the stone age. we are going to ban the classic glass and steel sky scrapers. steve: we have a lot of</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191118_110000_BBC_Newsroom_Live#start/1218/end/1253</field>
+<field name="datetime">11/18/2019 11:20:33</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20191118_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191118_110000_BBC_Newsroom_Live/BBCNEWS_20191118_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20191118_110000_BBC_Newsroom_Live_005398.jpg</field>
+<field name="snippet">emphasising more the brexit terms on which we leave, jeremy corbyn talking more about the long-term areas like climate change. i think we all wait with expectation as to what that really means in terms of how they want to deliver those</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100127_090000_Special_Report_With_Bret_Baier#start/1922/end/1957</field>
+<field name="datetime">1/27/2010 9:32:17</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100127_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100127_090000_Special_Report_With_Bret_Baier/FOXNEWS_20100127_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100127_090000_Special_Report_With_Bret_Baier_001914.jpg</field>
+<field name="snippet">warming in certain parts of the southern hemisphere. one new poll shows global warming ranks last among the publics top 21 issues for 2010 with 28% considering it a</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180827_083000_Weather_World#start/671/end/706</field>
+<field name="datetime">8/27/2018 8:41:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20180827_083000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180827_083000_Weather_World/BBCNEWS_20180827_083000_Weather_World.thumbs/BBCNEWS_20180827_083000_Weather_World_000657.jpg</field>
+<field name="snippet">on with that i am withjosie from the university of aberdeen. we found that volume of water, temperature of water is important for the distillery, and with climate change both of those may be difficult to achieve. how do you mitigate that?</field>
+</doc>
+</add>

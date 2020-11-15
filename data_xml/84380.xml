@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190418_080000_BBC_News_at_Nine#start/469/end/504</field>
+<field name="datetime">4/18/2019 8:08:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190418_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190418_080000_BBC_News_at_Nine/BBCNEWS_20190418_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190418_080000_BBC_News_at_Nine_000448.jpg</field>
+<field name="snippet">is ok. extinction rebellion say they are going to continue with this action for at least the next week. sir david attenborough, who has been warning of the impact of climate change for two decades, has given his gravest assessment yet of the threat.</field>
+</doc>
+</add>

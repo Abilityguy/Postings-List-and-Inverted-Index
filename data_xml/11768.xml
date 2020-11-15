@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190830_180000_BBC_News#start/61/end/96</field>
+<field name="datetime">8/30/2019 18:01:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190830_180000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190830_180000_BBC_News/BBCNEWS_20190830_180000_BBC_News.thumbs/BBCNEWS_20190830_180000_BBC_News_000057.jpg</field>
+<field name="snippet">the us opera singer accuses critics of body shaming including one who described her as a fat woman in a tight corset. we will speak to her letter. with climate change higher than ever on the news agenda, should bbc weather</field>
+</doc>
+</add>

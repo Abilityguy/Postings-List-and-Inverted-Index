@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191106_200000_BBC_News#start/500/end/535</field>
+<field name="datetime">11/6/2019 20:08:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191106_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191106_200000_BBC_News/BBCNEWS_20191106_200000_BBC_News.thumbs/BBCNEWS_20191106_200000_BBC_News_000478.jpg</field>
+<field name="snippet">with the climate crisis. we know these are dark times, it's easy to fear the future. the threat of brexit hangs over our heads, the climate emergency rages from the amazon to the arctic, and our fragile democracy</field>
+</doc>
+</add>

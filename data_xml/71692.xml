@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190131_220000_The_Five#start/84/end/119</field>
+<field name="datetime">1/31/2019 22:01:39</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20190131_220000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190131_220000_The_Five/FOXNEWSW_20190131_220000_The_Five.thumbs/FOXNEWSW_20190131_220000_The_Five_000058.jpg</field>
+<field name="snippet">congresswoman alexandria kaser cortes and senator edward markey planning to introduce legislation for a green new deal as early as next week. the goal of the plan is to transform the economy in the name of fighting climate change. creating a rift within the</field>
+</doc>
+</add>

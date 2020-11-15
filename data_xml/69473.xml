@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201407.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140702_100000_Morning_Joe#start/10048/end/10083</field>
+<field name="datetime">7/2/2014 12:47:43</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20140702_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140702_100000_Morning_Joe/MSNBCW_20140702_100000_Morning_Joe.thumbs/MSNBCW_20140702_100000_Morning_Joe_010035.jpg</field>
+<field name="snippet">thing where the world has been frozen by a misguided attempt to deal with climate change and all of humanity is stuffed onto this train that's moving very, very fast and never stops moving and keeps going around. is there a quiet car?</field>
+</doc>
+</add>

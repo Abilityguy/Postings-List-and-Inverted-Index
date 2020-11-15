@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190418_080000_Fox_and_Friends_First#start/3536/end/3571</field>
+<field name="datetime">4/18/2019 8:59:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190418_080000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190418_080000_Fox_and_Friends_First/FOXNEWSW_20190418_080000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190418_080000_Fox_and_Friends_First_003537.jpg</field>
+<field name="snippet">concerned about immigration and the economy as we float into the 2000 election. new fox news polls is 20% purchased voters believe immigration is the nation's most important issue, 10% say the economy. healthcare, climate change in race relations round out the top 5. we want to know what issues you care about, let us know on facebook, instagram, twitter and email.</field>
+</doc>
+</add>

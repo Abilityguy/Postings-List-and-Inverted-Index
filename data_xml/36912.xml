@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201906.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190605_090000_First_Look#start/1200/end/1235</field>
+<field name="datetime">6/5/2019 9:20:15</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20190605_090000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190605_090000_First_Look/MSNBCW_20190605_090000_First_Look.thumbs/MSNBCW_20190605_090000_First_Look_001199.jpg</field>
+<field name="snippet">it's not going to rain all day, but when the storms roll through, you don't want to get caught into it. still ahead, a couple of 2020 hopefuls on climate change. we'll walk through what joe biden and elizabeth warren are each proposing, coming up next. for all out confidence.</field>
+</doc>
+</add>

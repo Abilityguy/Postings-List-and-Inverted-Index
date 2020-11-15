@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090710_100000_FOX_and_Friends#start/10495/end/10530</field>
+<field name="datetime">7/10/2009 12:55:10</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20090710_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090710_100000_FOX_and_Friends/FOXNEWS_20090710_100000_FOX_and_Friends.thumbs/FOXNEWS_20090710_100000_FOX_and_Friends_010496.jpg</field>
+<field name="snippet">judge: there you have it, the president wrapping up, talking about respecting the integrity of other countries, no matter how evil their government may be, climate change by 2050, and fewer of these summits. let's go outside to brian and</field>
+</doc>
+</add>

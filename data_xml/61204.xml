@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201503.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150318_210000_The_Ed_Show#start/805/end/840</field>
+<field name="datetime">3/18/2015 21:13:40</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20150318_210000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150318_210000_The_Ed_Show/MSNBCW_20150318_210000_The_Ed_Show.thumbs/MSNBCW_20150318_210000_The_Ed_Show_000796.jpg</field>
+<field name="snippet">healthy economy in every sector but we're not moving as aggressively as we have to given the change in climate. this connects to the energy sector and the capturing of greenhouse gases and trying to be as clean as we possibly can.</field>
+</doc>
+</add>

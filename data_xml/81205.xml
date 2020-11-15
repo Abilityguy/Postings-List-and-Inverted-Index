@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091218_110000_Morning_Joe#start/2661/end/2696</field>
+<field name="datetime">12/18/2009 11:44:36</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20091218_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20091218_110000_Morning_Joe/MSNBC_20091218_110000_Morning_Joe.thumbs/MSNBC_20091218_110000_Morning_Joe_002660.jpg</field>
+<field name="snippet">let's bring in bill press right now. bill, i want to show a couple of polls, including a poll talking about the united states spending money on this. this is 'washington post,' front page today. we've already talked about the president's handling of global</field>
+</doc>
+</add>

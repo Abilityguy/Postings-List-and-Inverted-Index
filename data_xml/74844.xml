@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200118_110000_BBC_News#start/1777/end/1812</field>
+<field name="datetime">1/18/2020 11:29:52</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200118_110000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200118_110000_BBC_News/BBCNEWS_20200118_110000_BBC_News.thumbs/BBCNEWS_20200118_110000_BBC_News_001768.jpg</field>
+<field name="snippet">for the planet says a famous natural historian - but will his climate change warning shift the political dial where others have failed? my guests this week - greg katz of us news agency associated press, italian film maker</field>
+</doc>
+</add>

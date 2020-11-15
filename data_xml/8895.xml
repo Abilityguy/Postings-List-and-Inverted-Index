@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190801_090000_Fox_and_Friends_First#start/3560/end/3595</field>
+<field name="datetime">8/1/2019 9:59:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190801_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190801_090000_Fox_and_Friends_First/FOXNEWSW_20190801_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190801_090000_Fox_and_Friends_First_003568.jpg</field>
+<field name="snippet">first thing i'm going to do when i am president is clorox the oval office. the second thing i am going to do is i will reengage on global climate change.</field>
+</doc>
+</add>

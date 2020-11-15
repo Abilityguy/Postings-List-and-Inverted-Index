@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190512_020000_BBC_News#start/605/end/640</field>
+<field name="datetime">5/12/2019 2:10:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190512_020000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190512_020000_BBC_News/BBCNEWS_20190512_020000_BBC_News.thumbs/BBCNEWS_20190512_020000_BBC_News_000598.jpg</field>
+<field name="snippet">the government has admitted that concerns over climate change, might restrict the growth of aviation in the uk. a senior civil servant says ministers may have to review their strategy - including plans to expand heathrow. it follows a recent warning from the 'committee on climate change' which advises the government -  _</field>
+</doc>
+</add>

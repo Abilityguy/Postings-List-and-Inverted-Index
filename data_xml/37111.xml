@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201401.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140107_220000_The_Five#start/596/end/631</field>
+<field name="datetime">1/7/2014 22:10:11</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20140107_220000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140107_220000_The_Five/FOXNEWSW_20140107_220000_The_Five.thumbs/FOXNEWSW_20140107_220000_The_Five_000585.jpg</field>
+<field name="snippet">now they're blaming it on global warming. doesn't it prove that can't make up their mind. they believed in 2007 that reduced snowfall was going to be caused by global warming. then every year, the snow</field>
+</doc>
+</add>

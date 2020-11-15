@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171129_170000_BBC_News_at_Five#start/3304/end/3339</field>
+<field name="datetime">11/29/2017 17:55:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20171129_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171129_170000_BBC_News_at_Five/BBCNEWS_20171129_170000_BBC_News_at_Five.thumbs/BBCNEWS_20171129_170000_BBC_News_at_Five_003297.jpg</field>
+<field name="snippet">reduce greenhouse gases. that's a big result for a little label. roger harrabin, bbc news. let's get more now on the brexit negotiations.</field>
+</doc>
+</add>

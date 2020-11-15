@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181214_030000_BBC_News#start/376/end/411</field>
+<field name="datetime">12/14/2018 3:06:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181214_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181214_030000_BBC_News/BBCNEWS_20181214_030000_BBC_News.thumbs/BBCNEWS_20181214_030000_BBC_News_000357.jpg</field>
+<field name="snippet">let's get some of the day's other news. a global conference on tackling climate change is due to close in poland on friday, with delegates from almost 200 countries saying they are yet to reach a deal. negotiators are trying to agree how pledges to cut global warming -  _</field>
+</doc>
+</add>

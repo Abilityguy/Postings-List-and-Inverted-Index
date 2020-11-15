@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091212_150000_MSNBC_News_Live#start/1120/end/1155</field>
+<field name="datetime">12/12/2009 15:18:55</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091212_150000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091212_150000_MSNBC_News_Live/MSNBC_20091212_150000_MSNBC_News_Live.thumbs/MSNBC_20091212_150000_MSNBC_News_Live_001110.jpg</field>
+<field name="snippet">seeing now. whether there's more, time will tell. okay. very interesting. thank you so much. thank you. still ahead, thousands taking to the streets to send a message about climate change. we've got a live report coming up. plus, a video that's become a big hit on the internet. man versus television.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201702.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170209_080000_All_In_With_Chris_Hayes#start/2629/end/2664</field>
+<field name="datetime">2/9/2017 8:44:04</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20170209_080000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170209_080000_All_In_With_Chris_Hayes/MSNBCW_20170209_080000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20170209_080000_All_In_With_Chris_Hayes_002608.jpg</field>
+<field name="snippet">secretary of state under president george h.w. bush james baker met with senior trump administration officials, including vice president mike pence, senior adviser jared kushner and first daughter ivanka trump. they're proposing replacing the obama administration's clean power plan with a carbon tax which would then be returned to consumers. an estimated $2000 a year for a family of four.</field>
+</doc>
+</add>

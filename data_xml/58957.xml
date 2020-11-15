@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181121_230000_BBC_News#start/1491/end/1526</field>
+<field name="datetime">11/21/2018 23:25:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181121_230000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181121_230000_BBC_News/BBCNEWS_20181121_230000_BBC_News.thumbs/BBCNEWS_20181121_230000_BBC_News_001467.jpg</field>
+<field name="snippet">lyse doucet, bbc news, riyadh. next month, politicians from around the world will gather for the united nations climate change conference in poland. but for the first time, there will be one seat there that is not for a nation.</field>
+</doc>
+</add>

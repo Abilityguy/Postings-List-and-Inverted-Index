@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100422_100000_FOX_and_Friends#start/9222/end/9257</field>
+<field name="datetime">4/22/2010 12:33:57</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100422_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100422_100000_FOX_and_Friends/FOXNEWS_20100422_100000_FOX_and_Friends.thumbs/FOXNEWS_20100422_100000_FOX_and_Friends_009196.jpg</field>
+<field name="snippet">of the sun. maybe that orbit thing will see this. some of the first images from nasa's new solar dynamics observatory that will help uncover some of the sun's inner workings and provide information on climate change on the earth. brian: mike strahan will explain why that happens</field>
+</doc>
+</add>

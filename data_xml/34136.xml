@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091216_160000_Happening_Now#start/5912/end/5947</field>
+<field name="datetime">12/16/2009 17:38:47</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091216_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091216_160000_Happening_Now/FOXNEWS_20091216_160000_Happening_Now.thumbs/FOXNEWS_20091216_160000_Happening_Now_005900.jpg</field>
+<field name="snippet">jane: thank you. jon: as a world leaders tried to reach a deal on climate change in copenhagen, turned up in of created one big carbon footprints in the process. the u.n. estimates for the 40000 tons of carbon dioxide and other pollutants will have</field>
+</doc>
+</add>

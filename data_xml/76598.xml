@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190524_130000_BBC_News#start/6092/end/6127</field>
+<field name="datetime">5/24/2019 14:41:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190524_130000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190524_130000_BBC_News/BBCNEWS_20190524_130000_BBC_News.thumbs/BBCNEWS_20190524_130000_BBC_News_006087.jpg</field>
+<field name="snippet">we are protecting the environment. eliminating plastic waste, tackling climate change and improving air quality. this is what a decent conservative government on the common ground of british politics can achieve. even as we tackle the</field>
+</doc>
+</add>

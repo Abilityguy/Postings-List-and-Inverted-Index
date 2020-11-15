@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201411.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141105_230000_Special_Report_With_Bret_Baier#start/2249/end/2284</field>
+<field name="datetime">11/5/2014 23:37:44</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20141105_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141105_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20141105_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20141105_230000_Special_Report_With_Bret_Baier_002235.jpg</field>
+<field name="snippet">noaa scientists have co-authored a study that's turned into a hot button over man-made global warming. it says a 1 degree increase is not do to greenhouse gas, but more specifically, nature,</field>
+</doc>
+</add>

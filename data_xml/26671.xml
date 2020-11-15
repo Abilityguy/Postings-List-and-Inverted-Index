@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100223_230000_Special_Report_With_Bret_Baier#start/624/end/659</field>
+<field name="datetime">2/23/2010 23:10:39</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20100223_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100223_230000_Special_Report_With_Bret_Baier/FOXNEWS_20100223_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20100223_230000_Special_Report_With_Bret_Baier_000625.jpg</field>
+<field name="snippet">$15 billion bill. sponsored by majority leader harry reid. republicans are trying to get reid to allow them a handful of amendments. so far, reid has said no. climate scientists who insist there is no debate about manmade global warming,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191126_060000_Breakfast#start/1851/end/1886</field>
+<field name="datetime">11/26/2019 6:31:06</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20191126_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191126_060000_Breakfast/BBCNEWS_20191126_060000_Breakfast.thumbs/BBCNEWS_20191126_060000_Breakfast_001827.jpg</field>
+<field name="snippet">all good hello, this is breakfast with dan walker - lou's in narberth in pembrokeshire as we continue our coverage of the general election campaign. she's at a biomass plant, getting answers to some of your questions, with a focus on the environment and climate change, and hearing about the issues you care about.</field>
+</doc>
+</add>

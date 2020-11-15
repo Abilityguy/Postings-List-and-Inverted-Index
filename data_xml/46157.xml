@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201504.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150422_200000_NOW_With_Alex_Wagner#start/0/end/34</field>
+<field name="datetime">4/22/2015 20:00:14</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20150422_200000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150422_200000_NOW_With_Alex_Wagner/MSNBCW_20150422_200000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20150422_200000_NOW_With_Alex_Wagner_000045.jpg</field>
+<field name="snippet">standoff continues between the u.s. and iranian ships off the coast of yemen. and ben affleck addresses the controversy over his slave-owning ancestor. but first, president obama goes to the front lines of climate change. it is wednesday, april 22nd. earth day. and this is 'now.'</field>
+</doc>
+</add>

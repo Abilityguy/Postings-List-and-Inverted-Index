@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100113_010000_The_OReilly_Factor#start/31/end/66</field>
+<field name="datetime">1/13/2010 1:00:46</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20100113_010000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100113_010000_The_OReilly_Factor/FOXNEWS_20100113_010000_The_OReilly_Factor.thumbs/FOXNEWS_20100113_010000_The_OReilly_Factor_000030.jpg</field>
+<field name="snippet">whatever. bill: the global warming boondoggle in copenhagen cost the american taxpayer millions. john stossel has the numbers and they may make you angry.</field>
+</doc>
+</add>

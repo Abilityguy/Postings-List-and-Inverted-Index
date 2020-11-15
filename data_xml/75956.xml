@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190515_080000_BBC_News_at_Nine#start/2019/end/2054</field>
+<field name="datetime">5/15/2019 8:33:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190515_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190515_080000_BBC_News_at_Nine/BBCNEWS_20190515_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190515_080000_BBC_News_at_Nine_002008.jpg</field>
+<field name="snippet">now to explain more. you were tracking data from 40 channels which amounted to nearly 130000 programmes, so what did you find out about mentions of the environment and climate change?</field>
+</doc>
+</add>

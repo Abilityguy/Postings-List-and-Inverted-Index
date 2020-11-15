@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190226_090000_BBC_News_at_9#start/1413/end/1448</field>
+<field name="datetime">2/26/2019 9:23:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20190226_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190226_090000_BBC_News_at_9/BBCNEWS_20190226_090000_BBC_News_at_9.thumbs/BBCNEWS_20190226_090000_BBC_News_at_9_001797.jpg</field>
+<field name="snippet">climate change is widely considered the greatest challenge of our age. the consequences of a warming planet could be drastic for generations to come. if scientists are to understand what's happening they need good data - and one man in colorado has made it his mission to supply as much as possible.</field>
+</doc>
+</add>

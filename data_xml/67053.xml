@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140515_030000_All_In_With_Chris_Hayes#start/862/end/897</field>
+<field name="datetime">5/15/2014 3:14:37</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20140515_030000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140515_030000_All_In_With_Chris_Hayes/MSNBCW_20140515_030000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20140515_030000_All_In_With_Chris_Hayes_000856.jpg</field>
+<field name="snippet">we only use about 4% of the energy in the united states. so we're not terribly significant. if you look at the source of greenhouse gases, the largest is the electric power industry. and behind that is transportation.</field>
+</doc>
+</add>

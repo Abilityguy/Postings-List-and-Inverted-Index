@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091219_010000_The_OReilly_Factor#start/1320/end/1355</field>
+<field name="datetime">12/19/2009 1:22:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20091219_010000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091219_010000_The_OReilly_Factor/FOXNEWS_20091219_010000_The_OReilly_Factor.thumbs/FOXNEWS_20091219_010000_The_OReilly_Factor_001315.jpg</field>
+<field name="snippet">bill: two weeks of dog and pony shows. let me read this and i don't know what this -- i have to read it but i don't know what it says. ok. all right. here we go. developing countries have now agreed to listing their national actions and commitments, i guess toward fighting global warming,</field>
+</doc>
+</add>

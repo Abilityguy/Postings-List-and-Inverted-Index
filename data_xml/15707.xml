@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201112.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20111214_220000_The_Five#start/526/end/561</field>
+<field name="datetime">12/14/2011 22:09:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20111214_220000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20111214_220000_The_Five/FOXNEWSW_20111214_220000_The_Five.thumbs/FOXNEWSW_20111214_220000_The_Five_000510.jpg</field>
+<field name="snippet">rename stuff. global warming didn't work so they called it climb change. the republicans should call it an earth straw.</field>
+</doc>
+</add>

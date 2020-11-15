@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091113_110000_FOX_and_Friends#start/2903/end/2938</field>
+<field name="datetime">11/13/2009 11:48:38</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20091113_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091113_110000_FOX_and_Friends/FOXNEWS_20091113_110000_FOX_and_Friends.thumbs/FOXNEWS_20091113_110000_FOX_and_Friends_002871.jpg</field>
+<field name="snippet">partnership on energy issues and climate change. the united states and japan share a commitment to developing the clean energy of the future, and we're focused on combating the threat of climate change. this is an important priority for us. i know it's an important priority for the people of</field>
+</doc>
+</add>

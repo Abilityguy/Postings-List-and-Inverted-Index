@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171219_040000_BBC_News#start/305/end/340</field>
+<field name="datetime">12/19/2017 4:05:20</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171219_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171219_040000_BBC_News/BBCNEWS_20171219_040000_BBC_News.thumbs/BBCNEWS_20171219_040000_BBC_News_000297.jpg</field>
+<field name="snippet">19th-century view of competing nationstates, and in the details, the continuation of essentially american core foreign policy since 1940. as your report has noted, on some areas, such as climate</field>
+</doc>
+</add>

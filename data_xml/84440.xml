@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190421_150000_BBC_News#start/1490/end/1525</field>
+<field name="datetime">4/21/2019 15:25:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190421_150000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190421_150000_BBC_News/BBCNEWS_20190421_150000_BBC_News.thumbs/BBCNEWS_20190421_150000_BBC_News_001467.jpg</field>
+<field name="snippet">we will keep an eye on that and plenty more for you later. the bbc sport website has updates on everything for you now. police say they've now arrested more than 830 people protesting in london over climate change. the protest organised by group</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200102_190000_Beyond_100_Days#start/3203/end/3238</field>
+<field name="datetime">1/2/2020 19:53:38</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20200102_190000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200102_190000_Beyond_100_Days/BBCNEWS_20200102_190000_Beyond_100_Days.thumbs/BBCNEWS_20200102_190000_Beyond_100_Days_003178.jpg</field>
+<field name="snippet">humans are notoriously bad at changing their habits and in the face of mounting evidence about climate change, people are not doing it enough. we are hoping there will bea it enough. we are hoping there will be a technological fix to global warming. is this part of that fix,</field>
+</doc>
+</add>

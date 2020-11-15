@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200114_030000_BBC_News#start/331/end/366</field>
+<field name="datetime">1/14/2020 3:05:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200114_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200114_030000_BBC_News/BBCNEWS_20200114_030000_BBC_News.thumbs/BBCNEWS_20200114_030000_BBC_News_000327.jpg</field>
+<field name="snippet">as in other parts of the world, the us for instance, climate change divides people almost as brexit divided the uk. people tend to take a visceral position, not necessarily bases on facts or logic. what chance that this is some kind of turning point?</field>
+</doc>
+</add>

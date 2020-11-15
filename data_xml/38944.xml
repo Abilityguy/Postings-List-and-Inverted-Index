@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100403_183000_FOX_News_Watch#start/1190/end/1225</field>
+<field name="datetime">4/3/2010 18:50:05</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Watch</field>
+<field name="showid">FOXNEWS_20100403_183000_FOX_News_Watch</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100403_183000_FOX_News_Watch/FOXNEWS_20100403_183000_FOX_News_Watch.thumbs/FOXNEWS_20100403_183000_FOX_News_Watch_001045.jpg</field>
+<field name="snippet">. jamie: question for you, who do you trust more when it comes to climate control, the guy on the right or the guy on the left? a recent study by researchers at yale and george mason university found that 56% of americans trust their tv weather reporters to tell them about global</field>
+</doc>
+</add>

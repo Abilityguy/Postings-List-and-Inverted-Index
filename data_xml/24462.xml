@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180807_220000_Special_Report_With_Bret_Baier#start/853/end/888</field>
+<field name="datetime">8/7/2018 22:14:28</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20180807_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180807_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20180807_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20180807_220000_Special_Report_With_Bret_Baier_000838.jpg</field>
+<field name="snippet">this senator dianne feinstein dismissed the president's claims today. that's nonsense. we have adequate water for fire suppression. the environmental and climate change debates will go on, the 14000 firefighters on the front lines have a far more immediate</field>
+</doc>
+</add>

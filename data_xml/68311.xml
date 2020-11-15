@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190222_110000_BBC_Newsroom_Live#start/3110/end/3145</field>
+<field name="datetime">2/22/2019 11:52:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190222_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190222_110000_BBC_Newsroom_Live/BBCNEWS_20190222_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190222_110000_BBC_Newsroom_Live_003088.jpg</field>
+<field name="snippet">there's a warning that the world's ability to produce food is being put under threat by climate change and farming practices. the un has been studying the plants, animals and micro-organisms that we rely on to survive. scientists say farms, cities and factories are using up more land and pumping out chemicals which is threatening what vegetated land we have left.</field>
+</doc>
+</add>

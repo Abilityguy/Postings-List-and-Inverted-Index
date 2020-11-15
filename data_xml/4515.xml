@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170605_000000_Newsday#start/648/end/683</field>
+<field name="datetime">6/5/2017 0:11:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20170605_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170605_000000_Newsday/BBCNEWS_20170605_000000_Newsday.thumbs/BBCNEWS_20170605_000000_Newsday_000627.jpg</field>
+<field name="snippet">the us out of the paris climate agreement, the first un ocean conference opens on monday. the summit, which begins on world environment day, will deal with issues facing the earth's most important resource such as coral bleaching, plastic pollution, and rising seas due to climate change.</field>
+</doc>
+</add>

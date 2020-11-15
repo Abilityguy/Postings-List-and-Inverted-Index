@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190822_000000_Tucker_Carlson_Tonight#start/2146/end/2181</field>
+<field name="datetime">8/22/2019 0:36:01</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190822_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190822_000000_Tucker_Carlson_Tonight/FOXNEWSW_20190822_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190822_000000_Tucker_Carlson_Tonight_002128.jpg</field>
+<field name="snippet">straws, plastic bags. they recommended that people set their thermostat to 83 degrees at night for the sake of stopping global warming. okay, you first. he joins us. thanks a lot for coming on tonight.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200909.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090912_143000_Cavuto_on_Business#start/1474/end/1509</field>
+<field name="datetime">9/12/2009 14:54:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Cavuto on Business</field>
+<field name="showid">FOXNEWS_20090912_143000_Cavuto_on_Business</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090912_143000_Cavuto_on_Business/FOXNEWS_20090912_143000_Cavuto_on_Business.thumbs/FOXNEWS_20090912_143000_Cavuto_on_Business_001466.jpg</field>
+<field name="snippet">neil: ben? well, the thing that interests me about this is ten-year projections about global warming. they're my most favorite predictions. look, we can't tell the weather two days in advance. we can barely tell the weather one day in advance and somehow</field>
+</doc>
+</add>

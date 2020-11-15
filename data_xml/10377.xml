@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201511.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151112_090000_The_Kelly_File#start/1892/end/1927</field>
+<field name="datetime">11/12/2015 9:31:47</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Kelly File</field>
+<field name="showid">FOXNEWSW_20151112_090000_The_Kelly_File</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151112_090000_The_Kelly_File/FOXNEWSW_20151112_090000_The_Kelly_File.thumbs/FOXNEWSW_20151112_090000_The_Kelly_File_001875.jpg</field>
+<field name="snippet">fired after writing a book critical of climate change theory. the news channel france 24 reports philippe verdier</field>
+</doc>
+</add>

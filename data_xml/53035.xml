@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201111.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20111129_110000_Morning_Joe#start/7697/end/7732</field>
+<field name="datetime">11/29/2011 13:08:32</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20111129_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20111129_110000_Morning_Joe/MSNBCW_20111129_110000_Morning_Joe.thumbs/MSNBCW_20111129_110000_Morning_Joe_007676.jpg</field>
+<field name="snippet">listening. joe, this is a good caller. who starred in a 2007 global warming commercial with nancy pelosi that was sponsored by al gore's alliance for climate protection. saying that climate change was a big, big problem.</field>
+</doc>
+</add>

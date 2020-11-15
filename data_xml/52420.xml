@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181209_030000_BBC_News#start/296/end/331</field>
+<field name="datetime">12/9/2018 3:05:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181209_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181209_030000_BBC_News/BBCNEWS_20181209_030000_BBC_News.thumbs/BBCNEWS_20181209_030000_BBC_News_000297.jpg</field>
+<field name="snippet">it should be part of the package that is moving forward but again, it's up to the world leaders and the negotiators to take this issue seriously and to show that they are committed to tackling climate change. the decision to reject the text has caused outrage among delegates</field>
+</doc>
+</add>

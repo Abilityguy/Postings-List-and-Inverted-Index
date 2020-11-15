@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190820_050000_Breakfast#start/3500/end/3535</field>
+<field name="datetime">8/20/2019 5:58:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190820_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190820_050000_Breakfast/BBCNEWS_20190820_050000_Breakfast.thumbs/BBCNEWS_20190820_050000_Breakfast_004257.jpg</field>
+<field name="snippet">the couple flew there in a private jet, a controversial choice for prince harry, who often talks of the importance of tackling climate change. looking after our environment is a lifelong commitment. we are all part of a global family</field>
+</doc>
+</add>

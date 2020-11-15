@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190212_040000_BBC_News#start/597/end/632</field>
+<field name="datetime">2/12/2019 4:10:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190212_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190212_040000_BBC_News/BBCNEWS_20190212_040000_BBC_News.thumbs/BBCNEWS_20190212_040000_BBC_News_000598.jpg</field>
+<field name="snippet">so much of our atmospheric carbon, which is linked to climate change, that's stored in the soil, and that's cycled through the soil by insects. our food is grown in the soil, that's made by insects. and then our food is then pollinated by insects. every single step along that has</field>
+</doc>
+</add>

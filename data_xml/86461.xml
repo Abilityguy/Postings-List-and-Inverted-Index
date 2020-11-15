@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191202_130000_BBC_News_at_One#start/741/end/776</field>
+<field name="datetime">12/2/2019 13:12:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20191202_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191202_130000_BBC_News_at_One/BBCNEWS_20191202_130000_BBC_News_at_One.thumbs/BBCNEWS_20191202_130000_BBC_News_at_One_000719.jpg</field>
+<field name="snippet">the un has already said we should try and keep global temperatures from rising above 1.5 degrees to stop the worst effects of climate change. but this will mean drastic cuts to greenhouse gas emissions. it will require sweeping changes to the way we live,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201504.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150420_060000_FOX_News_Sunday_With_Chris_Wallace#start/365/end/400</field>
+<field name="datetime">4/20/2015 6:06:20</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Sunday With Chris Wallace</field>
+<field name="showid">FOXNEWSW_20150420_060000_FOX_News_Sunday_With_Chris_Wallace</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150420_060000_FOX_News_Sunday_With_Chris_Wallace/FOXNEWSW_20150420_060000_FOX_News_Sunday_With_Chris_Wallace.thumbs/FOXNEWSW_20150420_060000_FOX_News_Sunday_With_Chris_Wallace_000345.jpg</field>
+<field name="snippet">have something to offer the party and nation. i make that decision in may if i can raise the money i'll do it. here's why some people are skeptical and let's put some issues up on the screen. you believe that climate change is real and the federal government must address it,</field>
+</doc>
+</add>

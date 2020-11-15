@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201003.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100331_160000_MSNBC_News_Live#start/727/end/762</field>
+<field name="datetime">3/31/2010 16:12:22</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20100331_160000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20100331_160000_MSNBC_News_Live/MSNBC_20100331_160000_MSNBC_News_Live.thumbs/MSNBC_20100331_160000_MSNBC_News_Live_000716.jpg</field>
+<field name="snippet">he's -- is this a similar tactic for him? will republicans be able to stall his agenda on such items as climate change and financial reform? right now, editorial writer ruth m marcus joins me from the 'washington post.'</field>
+</doc>
+</add>

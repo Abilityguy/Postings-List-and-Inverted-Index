@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201311.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20131119_080000_Red_Eye#start/18/end/53</field>
+<field name="datetime">11/19/2013 8:00:33</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Red Eye</field>
+<field name="showid">FOXNEWSW_20131119_080000_Red_Eye</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20131119_080000_Red_Eye/FOXNEWSW_20131119_080000_Red_Eye.thumbs/FOXNEWSW_20131119_080000_Red_Eye_000045.jpg</field>
+<field name="snippet">tonight -- coming up on 'red eye.' awkward fist bumping. this friendly greeting could be responsible for global warming. plus, does the white house hate people who sthings it is gross to put ketchup on hot dogs ? in the not too distant</field>
+</doc>
+</add>

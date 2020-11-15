@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_000000_Newsday#start/516/end/551</field>
+<field name="datetime">1/17/2020 0:08:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20200117_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_000000_Newsday/BBCNEWS_20200117_000000_Newsday.thumbs/BBCNEWS_20200117_000000_Newsday_000509.jpg</field>
+<field name="snippet">on the subject of climate change ahead of the un's international conference in glasgow at the end of the year. here is our science editor david shukman.</field>
+</doc>
+</add>

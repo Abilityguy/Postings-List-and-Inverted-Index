@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201704.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170429_180000_MSNBC_Live#start/3604/end/3639</field>
+<field name="datetime">4/29/2017 19:00:19</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20170429_180000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170429_180000_MSNBC_Live/MSNBCW_20170429_180000_MSNBC_Live.thumbs/MSNBCW_20170429_180000_MSNBC_Live_003597.jpg</field>
+<field name="snippet">i'm yasmin yousafzai in new york on this 100th day of the trump administration. thousands of people from coast to coast are protesting the policies on climate change.</field>
+</doc>
+</add>

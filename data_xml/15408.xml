@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201702.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170227_231500_Newsnight#start/1615/end/1650</field>
+<field name="datetime">2/27/2017 23:42:10</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsnight</field>
+<field name="showid">BBCNEWS_20170227_231500_Newsnight</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170227_231500_Newsnight/BBCNEWS_20170227_231500_Newsnight.thumbs/BBCNEWS_20170227_231500_Newsnight_001617.jpg</field>
+<field name="snippet">can any layman decide that if the evidence on climate change stacks up, or if vaccines are safe, or whether it's safe to eat gm crops? after seeing their brexit advice ignored, at least one expert decided to express herself more forcefully in the days after the referendum.</field>
+</doc>
+</add>

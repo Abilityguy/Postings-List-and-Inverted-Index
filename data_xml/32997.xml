@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_160000_Happening_Now#start/2312/end/2347</field>
+<field name="datetime">12/18/2009 16:38:47</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091218_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_160000_Happening_Now/FOXNEWS_20091218_160000_Happening_Now.thumbs/FOXNEWS_20091218_160000_Happening_Now_002310.jpg</field>
+<field name="snippet">it is making these centrifuges at home, jon. jon: amy kellogg, thanks. jane: president obama is hoping his presence in copenhagen will bring a sense of urgency to reaching an agreement on global</field>
+</doc>
+</add>

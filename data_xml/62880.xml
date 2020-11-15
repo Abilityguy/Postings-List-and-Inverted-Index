@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201308.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130816_130000_Americas_Newsroom#start/4067/end/4102</field>
+<field name="datetime">8/16/2013 14:08:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWSW_20130816_130000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130816_130000_Americas_Newsroom/FOXNEWSW_20130816_130000_Americas_Newsroom.thumbs/FOXNEWSW_20130816_130000_Americas_Newsroom_004065.jpg</field>
+<field name="snippet">say this week, administrator mccarthy of the epa has announced her plan to circumvent congress and carry out the president's regulatory climate change agenda. he said that he wasn't going to wait for congress, but that he had administrative authorities, and it was time to</field>
+</doc>
+</add>

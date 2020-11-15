@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100213_100000_The_OReilly_Factor#start/1580/end/1615</field>
+<field name="datetime">2/13/2010 10:26:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20100213_100000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100213_100000_The_OReilly_Factor/FOXNEWS_20100213_100000_The_OReilly_Factor.thumbs/FOXNEWS_20100213_100000_The_OReilly_Factor_001555.jpg</field>
+<field name="snippet">to defend the theory of global warming in light of the loads of snow recently dumped over the entire country and specifically the northeast. and defending that theory, it is no easy task these days. in an interview with abc news,</field>
+</doc>
+</add>

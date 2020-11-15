@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201701.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170124_220000_The_Five#start/35/end/70</field>
+<field name="datetime">1/24/2017 22:00:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20170124_220000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170124_220000_The_Five/FOXNEWSW_20170124_220000_The_Five.thumbs/FOXNEWSW_20170124_220000_The_Five_000058.jpg</field>
+<field name="snippet">with the keystone xl and dakota access pipelines. president obama killed the project in 2015 over climate change concerns. president trump also signed an order requiring u.s. financed pipelines to use steel produced</field>
+</doc>
+</add>

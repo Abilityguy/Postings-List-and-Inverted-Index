@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190808_200000_Outside_Source#start/71/end/106</field>
+<field name="datetime">8/8/2019 20:01:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20190808_200000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190808_200000_Outside_Source/BBCNEWS_20190808_200000_Outside_Source.thumbs/BBCNEWS_20190808_200000_Outside_Source_000057.jpg</field>
+<field name="snippet">the message from the un experts today is clear: we all need to eat less meat to help fight climate change. the un's climate panel, the ipcc, have released the most comprehensive report on land use and climate change ever compiled,</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190420_200000_World_News_Today#start/408/end/443</field>
+<field name="datetime">4/20/2019 20:07:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190420_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190420_200000_World_News_Today/BBCNEWS_20190420_200000_World_News_Today.thumbs/BBCNEWS_20190420_200000_World_News_Today_000389.jpg</field>
+<field name="snippet">police in london have reopened one of the busiest intersections in the city centre which had been blocked by climate change protesters for nearly a week. oxford circus was one of several locations which had been occupied. the police have denied that they have carried out so many arrests that they have run out of room at police stations. jon donnison reports.</field>
+</doc>
+</add>

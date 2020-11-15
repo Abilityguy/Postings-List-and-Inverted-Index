@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140506_180000_The_Reid_Report#start/928/end/963</field>
+<field name="datetime">5/6/2014 18:15:43</field>
+<field name="station">MSNBC</field>
+<field name="show">The Reid Report</field>
+<field name="showid">MSNBCW_20140506_180000_The_Reid_Report</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140506_180000_The_Reid_Report/MSNBCW_20140506_180000_The_Reid_Report.thumbs/MSNBCW_20140506_180000_The_Reid_Report_000915.jpg</field>
+<field name="snippet">a separate climate report said that 97% of climate scientists, the 97%'ers believe that humans are causing climate change. it's the will to act on what we know that's missing. chris hayes is my msnbc colleague and host of 'all in' right here on this very network.</field>
+</doc>
+</add>

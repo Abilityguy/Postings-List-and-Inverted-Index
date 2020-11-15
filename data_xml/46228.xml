@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201510.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151028_000000_All_In_With_Chris_Hayes#start/2027/end/2062</field>
+<field name="datetime">10/28/2015 0:34:02</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20151028_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151028_000000_All_In_With_Chris_Hayes/MSNBCW_20151028_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20151028_000000_All_In_With_Chris_Hayes_002025.jpg</field>
+<field name="snippet">and now he's looking to investigate a climate research non-profit whose director signed a letter to the obama administration asking it to investigate fossil fuel companies that may have deceived the public about the risks of climate change.</field>
+</doc>
+</add>

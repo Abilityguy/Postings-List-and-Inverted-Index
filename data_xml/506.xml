@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171104_140000_BBC_News#start/628/end/663</field>
+<field name="datetime">11/4/2017 14:10:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171104_140000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171104_140000_BBC_News/BBCNEWS_20171104_140000_BBC_News.thumbs/BBCNEWS_20171104_140000_BBC_News_000627.jpg</field>
+<field name="snippet">which goes against the trump administration's view on climate change. the study, compiled by us government scientists, said it was 'extremely likely', with 95 to 100% certainty, that global warming is man-made, mostly from carbon dioxide</field>
+</doc>
+</add>

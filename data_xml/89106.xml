@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190612_190000_BBC_News#start/1402/end/1437</field>
+<field name="datetime">6/12/2019 19:23:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190612_190000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190612_190000_BBC_News/BBCNEWS_20190612_190000_BBC_News.thumbs/BBCNEWS_20190612_190000_BBC_News_001378.jpg</field>
+<field name="snippet">the next 30 years to help tackle climate change. it would mean, among other things, millions of people switching from petrol and diesel cars to electric vehicles and taking fewer flights. if the plans are passed, britain would become the first major economy</field>
+</doc>
+</add>

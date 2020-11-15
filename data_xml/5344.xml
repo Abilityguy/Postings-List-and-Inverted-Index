@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171212_110000_BBC_Newsroom_Live#start/1208/end/1243</field>
+<field name="datetime">12/12/2017 11:20:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20171212_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171212_110000_BBC_Newsroom_Live/BBCNEWS_20171212_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20171212_110000_BBC_Newsroom_Live_001197.jpg</field>
+<field name="snippet">will be back with a full update in the next 15 minutes. the french president, emmanuel macron, has said he believes president trump will reverse his decision to withdraw from the paris deal on combating global warming. mr macron was speaking to the american network, cbs,</field>
+</doc>
+</add>

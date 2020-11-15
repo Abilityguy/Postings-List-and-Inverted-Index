@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201607.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160724_100000_Fox_and_Friends_Sunday#start/3801/end/3836</field>
+<field name="datetime">7/24/2016 11:03:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends Sunday</field>
+<field name="showid">FOXNEWSW_20160724_100000_Fox_and_Friends_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160724_100000_Fox_and_Friends_Sunday/FOXNEWSW_20160724_100000_Fox_and_Friends_Sunday.thumbs/FOXNEWSW_20160724_100000_Fox_and_Friends_Sunday_003777.jpg</field>
+<field name="snippet">he plans to, quote, rip into trump, not debbie wasserman schultz, but trump for siding with the koch brothers and echoing claims that climate change is a hoax. that said, this e-mail scandal</field>
+</doc>
+</add>

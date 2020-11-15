@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190829_090000_Fox_and_Friends_First#start/3313/end/3348</field>
+<field name="datetime">8/29/2019 9:55:28</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20190829_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190829_090000_Fox_and_Friends_First/FOXNEWSW_20190829_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20190829_090000_Fox_and_Friends_First_003298.jpg</field>
+<field name="snippet">jillian: thank you for joining us. 5 minutes until the top of the hour. climate change feeling the burn, the 2020 hopeful using this viral video to save the world, we are coming right back.  buckle up for some insurance themed fun   at progressive park! children: yeah!</field>
+</doc>
+</add>

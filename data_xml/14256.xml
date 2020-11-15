@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201703.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170310_190000_Americas_News_HQ#start/3593/end/3628</field>
+<field name="datetime">3/10/2017 20:00:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20170310_190000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170310_190000_Americas_News_HQ/FOXNEWSW_20170310_190000_Americas_News_HQ.thumbs/FOXNEWSW_20170310_190000_Americas_News_HQ_003567.jpg</field>
+<field name="snippet">a surprising sight at the great barrier reef. the bleaching of the coral reefs. bleaching happens when water temperatures are too warm raising concerns that climate change could cause permanent damage to the sea life.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201407.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140721_210000_The_Five#start/3575/end/3610</field>
+<field name="datetime">7/21/2014 21:59:50</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20140721_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140721_210000_The_Five/FOXNEWSW_20140721_210000_The_Five.thumbs/FOXNEWSW_20140721_210000_The_Five_003555.jpg</field>
+<field name="snippet">keeping records since 1880 which is the 353th month in a row where the heat index in the world has made a record in a row. it's got nothing to do with global warming.</field>
+</doc>
+</add>

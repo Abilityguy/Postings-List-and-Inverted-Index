@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201412.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20141222_110000_FOX_and_Friends#start/3239/end/3274</field>
+<field name="datetime">12/22/2014 11:54:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20141222_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20141222_110000_FOX_and_Friends/FOXNEWSW_20141222_110000_FOX_and_Friends.thumbs/FOXNEWSW_20141222_110000_FOX_and_Friends_003165.jpg</field>
+<field name="snippet">a professor making headlines for piece written in a magazine. she said i hate republicans. i can't stand the thought of spending the next two years watching mitch mcconnell, john boehner or any other blow hards denying climate change, thwarting immigration reform or</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190629_220000_FOX_Report_With_Jon_Scott#start/1440/end/1475</field>
+<field name="datetime">6/29/2019 22:24:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report With Jon Scott</field>
+<field name="showid">FOXNEWSW_20190629_220000_FOX_Report_With_Jon_Scott</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190629_220000_FOX_Report_With_Jon_Scott/FOXNEWSW_20190629_220000_FOX_Report_With_Jon_Scott.thumbs/FOXNEWSW_20190629_220000_FOX_Report_With_Jon_Scott_001438.jpg</field>
+<field name="snippet">jon. jon: new york city becomes the largest city in the u.s. to declare climate emergency, declaration does not contain policy measures to slow down climate change, instead sign that municipalities will fight it with future legislation, earlier this year passed bill.</field>
+</doc>
+</add>

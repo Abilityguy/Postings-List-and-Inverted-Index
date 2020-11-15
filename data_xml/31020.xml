@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140217_230000_Special_Report_With_Bret_Baier#start/2444/end/2479</field>
+<field name="datetime">2/17/2014 23:40:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20140217_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140217_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20140217_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20140217_230000_Special_Report_With_Bret_Baier_002445.jpg</field>
+<field name="snippet">should be getting wetter, not drier out there in the winter. if you accept the settled science of climate change, you would have the exact opposite effect of what we saw last week in california. so the arrogance of this is</field>
+</doc>
+</add>

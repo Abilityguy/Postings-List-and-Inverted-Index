@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190417_100000_BBC_Newsroom_Live#start/940/end/975</field>
+<field name="datetime">4/17/2019 10:15:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190417_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190417_100000_BBC_Newsroom_Live/BBCNEWS_20190417_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190417_100000_BBC_Newsroom_Live_000927.jpg</field>
+<field name="snippet">demonstrations by climate change activists have been taking place throughout the country since the start of the week. now extinction rebellion have threatened disruption on the london underground. scotland yard said 'contingency plans were in place should custody suites become full',</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201709.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170907_221500_Newsnight#start/456/end/491</field>
+<field name="datetime">9/7/2017 22:22:51</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsnight</field>
+<field name="showid">BBCNEWS_20170907_221500_Newsnight</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170907_221500_Newsnight/BBCNEWS_20170907_221500_Newsnight.thumbs/BBCNEWS_20170907_221500_Newsnight_000448.jpg</field>
+<field name="snippet">and tropical storm claudette in 1979 dropped a5 inches of rain. and none of these would presumably be blamed on climate change. so, we can't say a specific storm now is due to climate change, but we can say, if we look over decades, we'll be able</field>
+</doc>
+</add>

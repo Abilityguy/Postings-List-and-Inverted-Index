@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191105_190000_Beyond_100_Days#start/3116/end/3151</field>
+<field name="datetime">11/5/2019 19:52:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20191105_190000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191105_190000_Beyond_100_Days/BBCNEWS_20191105_190000_Beyond_100_Days.thumbs/BBCNEWS_20191105_190000_Beyond_100_Days_003088.jpg</field>
+<field name="snippet">well. i love talking to you! we should take the whole programme! last month was the hottest october on record - more evidence of the long-term trend in global warming. yet the us has just officially begun the process of withdrawing</field>
+</doc>
+</add>

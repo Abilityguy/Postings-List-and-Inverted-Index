@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170811_030000_BBC_News#start/1024/end/1059</field>
+<field name="datetime">8/11/2017 3:17:19</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170811_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170811_030000_BBC_News/BBCNEWS_20170811_030000_BBC_News.thumbs/BBCNEWS_20170811_030000_BBC_News_001017.jpg</field>
+<field name="snippet">and human trafficking in the uk is worse than previously thought. it's official, 2016 was the warmest year on record. the national oceanic and atmospheric administration says that is the result of global warming combined with a strong el nino weather phenomenon.</field>
+</doc>
+</add>

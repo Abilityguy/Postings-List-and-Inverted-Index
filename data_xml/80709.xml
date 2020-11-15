@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190412_230000_The_Story_With_Martha_MacCallum#start/597/end/632</field>
+<field name="datetime">4/12/2019 23:10:12</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Story With Martha MacCallum</field>
+<field name="showid">FOXNEWSW_20190412_230000_The_Story_With_Martha_MacCallum</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190412_230000_The_Story_With_Martha_MacCallum/FOXNEWSW_20190412_230000_The_Story_With_Martha_MacCallum.thumbs/FOXNEWSW_20190412_230000_The_Story_With_Martha_MacCallum_000569.jpg</field>
+<field name="snippet">that's bad policy. we should have universal health care, but that's not the right way to get there. the green new deal is not the right way to deal with climate change, which is a huge issue that we have to deal with. so i have new ideas that can solve these problems that i believe can get support from</field>
+</doc>
+</add>

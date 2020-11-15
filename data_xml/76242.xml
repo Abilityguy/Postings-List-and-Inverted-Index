@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190502_130000_Afternoon_Live#start/7676/end/7711</field>
+<field name="datetime">5/2/2019 15:08:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190502_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190502_130000_Afternoon_Live/BBCNEWS_20190502_130000_Afternoon_Live.thumbs/BBCNEWS_20190502_130000_Afternoon_Live_007677.jpg</field>
+<field name="snippet">there's more pressure on the government to lead the world on tackling climate change. a report from its own advisors says the aim should be to reduce harmful emissions to zero by 2050. the committee on climate change says it could mean us switching from diesel and petrol vehicles to electric ones, eating less meat, and planting more trees.</field>
+</doc>
+</add>

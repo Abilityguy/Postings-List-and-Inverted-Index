@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191129_100000_Fox_and_Friends_First#start/1821/end/1856</field>
+<field name="datetime">11/29/2019 10:30:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20191129_100000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191129_100000_Fox_and_Friends_First/FOXNEWSW_20191129_100000_Fox_and_Friends_First.thumbs/FOXNEWSW_20191129_100000_Fox_and_Friends_First_001798.jpg</field>
+<field name="snippet">force, a year end deadline for nuclear talks is rapidly approaching. todd: students around the world hitting the streets to protest climate change. the event called friday for the future inspired by teen activist greta thunberg. 7 million people participated in a similar strike in september. todd: extreme weather crippling</field>
+</doc>
+</add>

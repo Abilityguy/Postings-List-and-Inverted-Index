@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20191028_230000_The_Story_With_Martha_MacCallum#start/2053/end/2088</field>
+<field name="datetime">10/28/2019 23:34:28</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Story With Martha MacCallum</field>
+<field name="showid">FOXNEWSW_20191028_230000_The_Story_With_Martha_MacCallum</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20191028_230000_The_Story_With_Martha_MacCallum/FOXNEWSW_20191028_230000_The_Story_With_Martha_MacCallum.thumbs/FOXNEWSW_20191028_230000_The_Story_With_Martha_MacCallum_002040.jpg</field>
+<field name="snippet">as far as being number one issue, the polls are clear in health care. martha: let's put the polls up. immigration is at 13%. guns at 9%. health care at 8%. down at the bottom, you've got climate change at 5%.</field>
+</doc>
+</add>

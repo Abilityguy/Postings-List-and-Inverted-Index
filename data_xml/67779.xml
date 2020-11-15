@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190215_090000_BBC_News_at_9#start/2101/end/2136</field>
+<field name="datetime">2/15/2019 9:35:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20190215_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190215_090000_BBC_News_at_9/BBCNEWS_20190215_090000_BBC_News_at_9.thumbs/BBCNEWS_20190215_090000_BBC_News_at_9_002097.jpg</field>
+<field name="snippet">amid growing concern about climate change. 0rganisers of the youth strike for climate campaign say demonstrations are being held across british towns and cities against what they see as government inaction on global warming. this morning 13-year-old environmental campaigner george joined charlie and naga on bbc breakfast to explain why he is taking action and put his questions</field>
+</doc>
+</add>

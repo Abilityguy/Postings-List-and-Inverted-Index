@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181015_050000_Breakfast#start/400/end/435</field>
+<field name="datetime">10/15/2018 5:06:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181015_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181015_050000_Breakfast/BBCNEWS_20181015_050000_Breakfast.thumbs/BBCNEWS_20181015_050000_Breakfast_000387.jpg</field>
+<field name="snippet">linsey smith, bbc news. the uk is taking a step towards eventually cutting britain's net greenhouse gas emissions to zero. the government will consult climate experts over how and when the target can be reached, the decision was prompted by a un report last week that warned co2</field>
+</doc>
+</add>

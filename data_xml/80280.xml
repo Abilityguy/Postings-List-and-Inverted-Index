@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190519_150000_MediaBuzz#start/3549/end/3584</field>
+<field name="datetime">5/19/2019 15:59:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">MediaBuzz</field>
+<field name="showid">FOXNEWSW_20190519_150000_MediaBuzz</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190519_150000_MediaBuzz/FOXNEWSW_20190519_150000_MediaBuzz.thumbs/FOXNEWSW_20190519_150000_MediaBuzz_003538.jpg</field>
+<field name="snippet">breakdown. the editor editor-in-chief sayss like climate change sound passive and gentle when scientists are talking about catastrophe for humanity. i happen to think this is an important issue, but make no mistake, words matter, and 'the guardian' is mandating loaded</field>
+</doc>
+</add>

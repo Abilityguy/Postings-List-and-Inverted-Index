@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201302.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130202_080000_The_Ed_Show#start/1545/end/1580</field>
+<field name="datetime">2/2/2013 8:26:00</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBCW_20130202_080000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130202_080000_The_Ed_Show/MSNBCW_20130202_080000_The_Ed_Show.thumbs/MSNBCW_20130202_080000_The_Ed_Show_001545.jpg</field>
+<field name="snippet">of global warming, we need to invest very heavily and create jobs in weatherization, energy</field>
+</doc>
+</add>

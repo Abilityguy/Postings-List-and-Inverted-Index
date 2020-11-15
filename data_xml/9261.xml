@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190802_160000_Outnumbered#start/146/end/181</field>
+<field name="datetime">8/2/2019 16:02:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Outnumbered</field>
+<field name="showid">FOXNEWSW_20190802_160000_Outnumbered</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190802_160000_Outnumbered/FOXNEWSW_20190802_160000_Outnumbered.thumbs/FOXNEWSW_20190802_160000_Outnumbered_000148.jpg</field>
+<field name="snippet">president obama is the most popular, most unifying recent 2-term democratic president. he has a very strong record of moving our country forward on things from health care to climate change. so i frankly think what we should have heard on the stage in detroit was how we are all</field>
+</doc>
+</add>

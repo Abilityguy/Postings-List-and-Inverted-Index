@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171214_000000_Newsday#start/969/end/1004</field>
+<field name="datetime">12/14/2017 0:16:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20171214_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171214_000000_Newsday/BBCNEWS_20171214_000000_Newsday.thumbs/BBCNEWS_20171214_000000_Newsday_000958.jpg</field>
+<field name="snippet">after a population boom that's threatening marine ecosystems. the article say they have flourished as a direct result of climate change. so much so that they've been stripping the sea-beds of precious seaweed. that's the way the papers are</field>
+</doc>
+</add>

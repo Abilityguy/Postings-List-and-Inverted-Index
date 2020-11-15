@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181202_000000_BBC_News#start/251/end/286</field>
+<field name="datetime">12/2/2018 0:04:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181202_000000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181202_000000_BBC_News/BBCNEWS_20181202_000000_BBC_News.thumbs/BBCNEWS_20181202_000000_BBC_News_000238.jpg</field>
+<field name="snippet">taxes are intended to help france reduce emissions which cause climate change by discouraging the use of vehicles. as we heard in hugh schofield's reportjust now, much of the focus of today's protests was around the arc de triomphe,</field>
+</doc>
+</add>

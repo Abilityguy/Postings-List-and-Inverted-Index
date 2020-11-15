@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201310.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20131030_200000_Martin_Bashir#start/323/end/358</field>
+<field name="datetime">10/30/2013 20:05:38</field>
+<field name="station">MSNBC</field>
+<field name="show">Martin Bashir</field>
+<field name="showid">MSNBCW_20131030_200000_Martin_Bashir</field>
+<field name="preview">https://archive.org/download/MSNBCW_20131030_200000_Martin_Bashir/MSNBCW_20131030_200000_Martin_Bashir.thumbs/MSNBCW_20131030_200000_Martin_Bashir_000316.jpg</field>
+<field name="snippet">we had the climate change rally back in the summer! this is the health care rally.</field>
+</doc>
+</add>

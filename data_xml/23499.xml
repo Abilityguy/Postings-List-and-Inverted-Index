@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201405.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140512_100000_FOX_and_Friends#start/2781/end/2816</field>
+<field name="datetime">5/12/2014 10:46:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20140512_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140512_100000_FOX_and_Friends/FOXNEWSW_20140512_100000_FOX_and_Friends.thumbs/FOXNEWSW_20140512_100000_FOX_and_Friends_002775.jpg</field>
+<field name="snippet">storms, those are bad for the economy. so we can't afford to wait. climate change is real, and we have to act now. my next guest says president obama has it all wrong. robert price is here.</field>
+</doc>
+</add>

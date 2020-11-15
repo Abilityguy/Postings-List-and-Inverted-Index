@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171106_200000_BBC_News#start/3447/end/3482</field>
+<field name="datetime">11/6/2017 20:57:42</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171106_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171106_200000_BBC_News/BBCNEWS_20171106_200000_BBC_News.thumbs/BBCNEWS_20171106_200000_BBC_News_003447.jpg</field>
+<field name="snippet">and bangladesh, and wildfires in europe and the united states. devastating wildfires. the wmo isn't saying that all these events are caused by climate change. scientists would say it's very difficult to attribute any single events to climate change, but the wmo says clearly, the tell-tale signs of the human</field>
+</doc>
+</add>

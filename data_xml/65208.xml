@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190330_200000_Americas_News_HQ#start/857/end/892</field>
+<field name="datetime">3/30/2019 20:14:32</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWSW_20190330_200000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190330_200000_Americas_News_HQ/FOXNEWSW_20190330_200000_Americas_News_HQ.thumbs/FOXNEWSW_20190330_200000_Americas_News_HQ_000839.jpg</field>
+<field name="snippet">and over the course of about 45 minutes, he touched on some familiar themes from climate change to universal healthcare to equal pay. he says he wants to legalize marijuana, and he wants comprehensive immigration reform.</field>
+</doc>
+</add>

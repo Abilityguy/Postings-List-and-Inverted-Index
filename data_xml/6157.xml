@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190920_130000_Afternoon_Live#start/3864/end/3899</field>
+<field name="datetime">9/20/2019 14:04:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190920_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190920_130000_Afternoon_Live/BBCNEWS_20190920_130000_Afternoon_Live.thumbs/BBCNEWS_20190920_130000_Afternoon_Live_003867.jpg</field>
+<field name="snippet">here in johannesburg, they also wanted to send a message to next week's un conference on climate change that the speed of action must be increased. in india, the crowd seemed more modest.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200102_170000_BBC_News_at_Five#start/2435/end/2470</field>
+<field name="datetime">1/2/2020 17:40:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20200102_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200102_170000_BBC_News_at_Five/BBCNEWS_20200102_170000_BBC_News_at_Five.thumbs/BBCNEWS_20200102_170000_BBC_News_at_Five_002428.jpg</field>
+<field name="snippet">particular weather phenomena. probably made worse by climate change, global warming happening probably made worse by climate change, globalwarming happening in the background. there is a particular pattern of sea surface temperatures in the indian ocean which are known to bring drought to</field>
+</doc>
+</add>

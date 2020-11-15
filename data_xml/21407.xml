@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100107_110000_FOX_and_Friends#start/829/end/864</field>
+<field name="datetime">1/7/2010 11:14:04</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100107_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100107_110000_FOX_and_Friends/FOXNEWS_20100107_110000_FOX_and_Friends.thumbs/FOXNEWS_20100107_110000_FOX_and_Friends_000810.jpg</field>
+<field name="snippet">that's next. and tracking climate change, why the government thinks it's a good idea to divert our resources from terror to looking at clouds and global warming. not making it up. we will be right back. overly sensitive skin? you would never know.</field>
+</doc>
+</add>

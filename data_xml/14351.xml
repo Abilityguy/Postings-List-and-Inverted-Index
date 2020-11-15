@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201812.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181231_100000_Meet_the_Press#start/1316/end/1351</field>
+<field name="datetime">12/31/2018 10:22:11</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20181231_100000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181231_100000_Meet_the_Press/MSNBCW_20181231_100000_Meet_the_Press.thumbs/MSNBCW_20181231_100000_Meet_the_Press_001318.jpg</field>
+<field name="snippet">take a look at glacier national park in the montana. in 1850 when we started burning coal and sending greenhouse gases in the air, there were 150 glaciers in that national park. today, there are 26, and they</field>
+</doc>
+</add>

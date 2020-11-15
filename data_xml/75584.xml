@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201204.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120417_160000_NOW_With_Alex_Wagner#start/2275/end/2310</field>
+<field name="datetime">4/17/2012 16:38:10</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20120417_160000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120417_160000_NOW_With_Alex_Wagner/MSNBCW_20120417_160000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20120417_160000_NOW_With_Alex_Wagner_002250.jpg</field>
+<field name="snippet">consider the question of warming, if it's occurring and i believe it is, which sea levels have risen two inches in two decades is a good or bad thing? answer, a very good thing. global warming increase the rate of evaporation from oceans,</field>
+</doc>
+</add>

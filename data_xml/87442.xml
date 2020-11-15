@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191210_220000_BBC_News_at_Ten#start/62/end/97</field>
+<field name="datetime">12/10/2019 22:01:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20191210_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191210_220000_BBC_News_at_Ten/BBCNEWS_20191210_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20191210_220000_BBC_News_at_Ten_000057.jpg</field>
+<field name="snippet">aung san suu kyi defends her country, myanmar, at the international court ofjustice over charges of genocide against rohingya muslims. more alarming news on climate change as scientists say greenland is losing ice seven times faster</field>
+</doc>
+</add>

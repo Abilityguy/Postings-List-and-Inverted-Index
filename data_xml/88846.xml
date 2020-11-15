@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190628_000000_Newsday#start/1333/end/1368</field>
+<field name="datetime">6/28/2019 0:22:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20190628_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190628_000000_Newsday/BBCNEWS_20190628_000000_Newsday.thumbs/BBCNEWS_20190628_000000_Newsday_001318.jpg</field>
+<field name="snippet">the bbc's china correspondent stephen mcdonell travelled to western china's 6ansu province. china's vast deserts are constantly spreading. deforestation, overgrazing and climate change have all made the situation worse.</field>
+</doc>
+</add>

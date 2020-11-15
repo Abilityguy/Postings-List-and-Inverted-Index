@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201601.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20160101_130000_MSNBC_Live#start/21144/end/21179</field>
+<field name="datetime">1/1/2016 18:52:39</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20160101_130000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20160101_130000_MSNBC_Live/MSNBCW_20160101_130000_MSNBC_Live.thumbs/MSNBCW_20160101_130000_MSNBC_Live_021135.jpg</field>
+<field name="snippet">extremes of the storms this last month changes public opinion possibly on climate change? well, you know, we are see unprecedented weather around the u.s. and the world and part of it is due to el nino and the</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_220000_BBC_News_at_Ten#start/551/end/586</field>
+<field name="datetime">1/16/2020 22:09:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20200116_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_220000_BBC_News_at_Ten/BBCNEWS_20200116_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20200116_220000_BBC_News_at_Ten_000538.jpg</field>
+<field name="snippet">well, we can talk now to our science editor david shukman, who is in glasgow, whether un's international conference on climate change will be held at the end of the year. what are the chances of that conference producing anything meaningful is yellow welcome as we've been</field>
+</doc>
+</add>

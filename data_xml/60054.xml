@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181003_043000_Business_Briefing#start/49/end/84</field>
+<field name="datetime">10/3/2018 4:31:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Business Briefing</field>
+<field name="showid">BBCNEWS_20181003_043000_Business_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181003_043000_Business_Briefing/BBCNEWS_20181003_043000_Business_Briefing.thumbs/BBCNEWS_20181003_043000_Business_Briefing_000058.jpg</field>
+<field name="snippet">who may be gathered in paris, but their attention will be on a vote today in strasbourg, which will pit the interests of the motor industry against efforts to cut greenhouse gas emissions. the european parliament will consider proposals</field>
+</doc>
+</add>

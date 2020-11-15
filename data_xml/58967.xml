@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181124_000000_BBC_News#start/1030/end/1065</field>
+<field name="datetime">11/24/2018 0:17:25</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181124_000000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181124_000000_BBC_News/BBCNEWS_20181124_000000_BBC_News.thumbs/BBCNEWS_20181124_000000_BBC_News_001018.jpg</field>
+<field name="snippet">climate change will cost the country hundreds of billions of dollars by the end of the century. taiwan could become the first place in asia to legalise same-sex marriage. the issue has divided the island nation so the proposal is being put</field>
+</doc>
+</add>

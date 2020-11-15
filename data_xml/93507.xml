@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190710_050000_Breakfast#start/4173/end/4208</field>
+<field name="datetime">7/10/2019 6:09:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190710_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190710_050000_Breakfast/BBCNEWS_20190710_050000_Breakfast.thumbs/BBCNEWS_20190710_050000_Breakfast_004167.jpg</field>
+<field name="snippet">the transport department comes in for sharp criticism. its emissions have barely dropped. the government insists it is taking climate change very seriously. the committee wants deeds, not words. roger harrabin, bbc news.</field>
+</doc>
+</add>

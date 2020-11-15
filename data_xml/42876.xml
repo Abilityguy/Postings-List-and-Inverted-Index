@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180118_170000_BBC_News_at_Five#start/1400/end/1435</field>
+<field name="datetime">1/18/2018 17:23:35</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20180118_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180118_170000_BBC_News_at_Five/BBCNEWS_20180118_170000_BBC_News_at_Five.thumbs/BBCNEWS_20180118_170000_BBC_News_at_Five_001377.jpg</field>
+<field name="snippet">last year's wildfires in california. not caused by man-made climate change, but likely influenced by high temperatures drying out parched land. followed by the mudslides, caused by an unusual combination of</field>
+</doc>
+</add>

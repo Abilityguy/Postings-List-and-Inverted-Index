@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201003.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100301_140000_Americas_Newsroom#start/371/end/406</field>
+<field name="datetime">3/1/2010 14:06:26</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20100301_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100301_140000_Americas_Newsroom/FOXNEWS_20100301_140000_Americas_Newsroom.thumbs/FOXNEWS_20100301_140000_Americas_Newsroom_000356.jpg</field>
+<field name="snippet">he doesn't mention global warming. it's all climate change. so you could say he's appealing to the younger voters who are very much interested in the issue. he's going around it with a gas tax. martha: stuart, great to have you with us as always.</field>
+</doc>
+</add>

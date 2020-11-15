@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190320_070000_Fox_News__Night_With_Shannon_Bream#start/1720/end/1755</field>
+<field name="datetime">3/20/2019 7:28:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News  Night With Shannon Bream</field>
+<field name="showid">FOXNEWSW_20190320_070000_Fox_News__Night_With_Shannon_Bream</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190320_070000_Fox_News__Night_With_Shannon_Bream/FOXNEWSW_20190320_070000_Fox_News__Night_With_Shannon_Bream.thumbs/FOXNEWSW_20190320_070000_Fox_News__Night_With_Shannon_Bream_001709.jpg</field>
+<field name="snippet">shannon: beto said, we played it right here on the show. heather: beto said, we played it, scientists unanimously agree we had 12 years to turn around the climate change crisis or else. fact checkers say not so fast.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201401.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140128_230000_PoliticsNation#start/124/end/159</field>
+<field name="datetime">1/28/2014 23:02:19</field>
+<field name="station">MSNBC</field>
+<field name="show">PoliticsNation</field>
+<field name="showid">MSNBCW_20140128_230000_PoliticsNation</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140128_230000_PoliticsNation/MSNBCW_20140128_230000_PoliticsNation.thumbs/MSNBCW_20140128_230000_PoliticsNation_000105.jpg</field>
+<field name="snippet">plan for his executive order to raise the minimum wage for federal contractors to $10.10 an hour. where this dysfunctional congress fails to act, the president will. we've seen it on gun safety, on immigration, on climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191125_040000_BBC_News#start/854/end/889</field>
+<field name="datetime">11/25/2019 4:14:29</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191125_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191125_040000_BBC_News/BBCNEWS_20191125_040000_BBC_News.thumbs/BBCNEWS_20191125_040000_BBC_News_000837.jpg</field>
+<field name="snippet">of new york city. he has joined the crowded race to become the democratic candidate with a $30 million ad campaign that focuses on some of the issues he is most concerned with, including tackling gun violence and climate change.</field>
+</doc>
+</add>

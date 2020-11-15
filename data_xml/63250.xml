@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190330_070000_Breakfast_BBC_News_Channel#start/1180/end/1215</field>
+<field name="datetime">3/30/2019 7:19:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast BBC News Channel</field>
+<field name="showid">BBCNEWS_20190330_070000_Breakfast_BBC_News_Channel</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190330_070000_Breakfast_BBC_News_Channel/BBCNEWS_20190330_070000_Breakfast_BBC_News_Channel.thumbs/BBCNEWS_20190330_070000_Breakfast_BBC_News_Channel_001738.jpg</field>
+<field name="snippet">in france, to the now frequent demos across the uk, on subjects including climate change, supporters of such events demand and expect media coverage.</field>
+</doc>
+</add>

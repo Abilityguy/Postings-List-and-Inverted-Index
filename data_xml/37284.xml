@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201401.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140110_030000_Hannity#start/2685/end/2720</field>
+<field name="datetime">1/10/2014 3:45:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20140110_030000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140110_030000_Hannity/FOXNEWSW_20140110_030000_Hannity.thumbs/FOXNEWSW_20140110_030000_Hannity_002685.jpg</field>
+<field name="snippet">expect as a result of global warming to see more of this pattern of extreme cold in the mid-latitudes and some extreme warmth in the far north. i'm sorry, it is a hoax, i don't believe it. they fix the data.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201612.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20161208_010000_All_In_With_Chris_Hayes#start/78/end/113</field>
+<field name="datetime">12/8/2016 1:01:33</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20161208_010000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20161208_010000_All_In_With_Chris_Hayes/MSNBCW_20161208_010000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20161208_010000_All_In_With_Chris_Hayes_000057.jpg</field>
+<field name="snippet">views on some of the most important issues he'll face in the white house are still a moving target. but on climate change, arguably the gravest, most urgent problem of our time, there were glimmers of hope earlier this week. former vice president al gore, probably the world's most</field>
+</doc>
+</add>

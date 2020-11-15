@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190418_080000_BBC_News_at_Nine#start/1845/end/1880</field>
+<field name="datetime">4/18/2019 8:31:00</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190418_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190418_080000_BBC_News_at_Nine/BBCNEWS_20190418_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190418_080000_BBC_News_at_Nine_001798.jpg</field>
+<field name="snippet">coasts but away from here, temperatures up to 21 or 20 to degrees. -- 22 degrees. hello. this is bbc news with rebecca jones. the headlines. climate change protestors</field>
+</doc>
+</add>

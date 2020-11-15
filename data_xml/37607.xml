@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091024_190000_Americas_News_HQ#start/517/end/552</field>
+<field name="datetime">10/24/2009 19:08:52</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWS_20091024_190000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091024_190000_Americas_News_HQ/FOXNEWS_20091024_190000_Americas_News_HQ.thumbs/FOXNEWS_20091024_190000_Americas_News_HQ_000473.jpg</field>
+<field name="snippet">efforts underway to reform the regulatory structure, provide access to affordable health insurance for more americans and reduce the impact of greenhouse gas emissions all plans essential to the continued growth and recovery of our</field>
+</doc>
+</add>

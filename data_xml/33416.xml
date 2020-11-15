@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_140000_Americas_Newsroom#start/1813/end/1848</field>
+<field name="datetime">12/18/2009 14:30:28</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20091218_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_140000_Americas_Newsroom/FOXNEWS_20091218_140000_Americas_Newsroom.thumbs/FOXNEWS_20091218_140000_Americas_Newsroom_001800.jpg</field>
+<field name="snippet">at all, 23%. americans believe when it comes to these boys of the problems we face, global warming ranks near the bottom. number one, fixing the economy and creating jobs, a combined 53%. 10% say reforming health care.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140531_000000_All_In_With_Chris_Hayes#start/3096/end/3131</field>
+<field name="datetime">5/31/2014 0:51:51</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20140531_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140531_000000_All_In_With_Chris_Hayes/MSNBCW_20140531_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20140531_000000_All_In_With_Chris_Hayes_003075.jpg</field>
+<field name="snippet">host of the 'cosmos' neil degrasse tyson, we talked about chie climate change and to ire that his series has engendered in</field>
+</doc>
+</add>

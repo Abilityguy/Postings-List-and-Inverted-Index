@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201511.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151130_230000_Special_Report_With_Bret_Baier#start/2707/end/2742</field>
+<field name="datetime">11/30/2015 23:45:22</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20151130_230000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151130_230000_Special_Report_With_Bret_Baier/FOXNEWSW_20151130_230000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20151130_230000_Special_Report_With_Bret_Baier_002685.jpg</field>
+<field name="snippet">there are a billion people on this planet who have no electricity. i would think that might make them more irritable, if you will, than climate change. well, and how do you answer critics who say, as charles pointed out, that china has been</field>
+</doc>
+</add>

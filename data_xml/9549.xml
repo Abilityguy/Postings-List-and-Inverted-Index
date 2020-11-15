@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170707_090000_Fox_and_Friends_First#start/252/end/287</field>
+<field name="datetime">7/7/2017 9:04:27</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20170707_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170707_090000_Fox_and_Friends_First/FOXNEWSW_20170707_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20170707_090000_Fox_and_Friends_First_000237.jpg</field>
+<field name="snippet">potential nuclear threat. reporter: terrorism, trade and climate change are on the agenda at the g 20 but what is on the minds of these world leaders is how the us will respond to north korea and what actions will they take as celebrations break out in pyongyang, a successful july 4th icbm missile test, first-time</field>
+</doc>
+</add>

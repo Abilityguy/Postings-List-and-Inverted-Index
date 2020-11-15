@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180826_153000_Weather_World#start/1112/end/1147</field>
+<field name="datetime">8/26/2018 15:48:47</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20180826_153000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180826_153000_Weather_World/BBCNEWS_20180826_153000_Weather_World.thumbs/BBCNEWS_20180826_153000_Weather_World_001107.jpg</field>
+<field name="snippet">feeling the force of a second cyclone in as many weeks. the prime minister says this pacific island nation is any fight for survival as climate change brings almost constant deadly cyclones. may, and a rare powerful cyclone</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201504.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20150424_220000_PoliticsNation#start/2828/end/2863</field>
+<field name="datetime">4/24/2015 22:47:23</field>
+<field name="station">MSNBC</field>
+<field name="show">PoliticsNation</field>
+<field name="showid">MSNBCW_20150424_220000_PoliticsNation</field>
+<field name="preview">https://archive.org/download/MSNBCW_20150424_220000_PoliticsNation/MSNBCW_20150424_220000_PoliticsNation.thumbs/MSNBCW_20150424_220000_PoliticsNation_002805.jpg</field>
+<field name="snippet">if climate change is a problem and do you believe it is or not? do you believe -- i'm not a scientist. i don't know the science behind climate change. well, listen, i'm not -- i'm not qualified to debate the</field>
+</doc>
+</add>

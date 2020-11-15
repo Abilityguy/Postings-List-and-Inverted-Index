@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091008_230000_The_FOX_Report_With_Shepard_Smith#start/147/end/182</field>
+<field name="datetime">10/8/2009 23:02:42</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The FOX Report With Shepard Smith</field>
+<field name="showid">FOXNEWS_20091008_230000_The_FOX_Report_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091008_230000_The_FOX_Report_With_Shepard_Smith/FOXNEWS_20091008_230000_The_FOX_Report_With_Shepard_Smith.thumbs/FOXNEWS_20091008_230000_The_FOX_Report_With_Shepard_Smith_000146.jpg</field>
+<field name="snippet">to end efforts to curb greenhouse gas emissions that will cost millions of manufacturing jobs. what scares them the most is the possible cost of health care reform. this means more spending, more tax hikes. and more borrowing at a time</field>
+</doc>
+</add>

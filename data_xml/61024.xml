@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201305.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130529_030000_All_In_With_Chris_Hayes#start/720/end/755</field>
+<field name="datetime">5/29/2013 3:12:15</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20130529_030000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130529_030000_All_In_With_Chris_Hayes/MSNBCW_20130529_030000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20130529_030000_All_In_With_Chris_Hayes_000706.jpg</field>
+<field name="snippet">the claim is that climate change works. sea levels in new york city are up a foot before they were a hundred years ago. they are set to rise five feet in the next 100 years. it it takes someone who believes in. climate change to believe in</field>
+</doc>
+</add>

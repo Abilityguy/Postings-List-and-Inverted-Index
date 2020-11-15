@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190511_110000_BBC_News#start/9/end/44</field>
+<field name="datetime">5/11/2019 11:00:24</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190511_110000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190511_110000_BBC_News/BBCNEWS_20190511_110000_BBC_News.thumbs/BBCNEWS_20190511_110000_BBC_News_000057.jpg</field>
+<field name="snippet">this is bbc news, i'm shaun ley. the headlines. an admission that flying in the uk may have to be restricted because of climate change. campaigners say a rethink is essential. we know that we have got to reduce our emissions urgently and radically and expanding them is going in the</field>
+</doc>
+</add>

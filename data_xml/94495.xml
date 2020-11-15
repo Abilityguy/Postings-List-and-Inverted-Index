@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201004.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20100418_180000_Meet_the_Press#start/1158/end/1193</field>
+<field name="datetime">4/18/2010 18:19:33</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBC_20100418_180000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBC_20100418_180000_Meet_the_Press/MSNBC_20100418_180000_Meet_the_Press.thumbs/MSNBC_20100418_180000_Meet_the_Press_001136.jpg</field>
+<field name="snippet">rules of the game are and how we use energy, make sure we're encouraging greater energy efficien efficiency, not just for climate</field>
+</doc>
+</add>

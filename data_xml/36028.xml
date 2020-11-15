@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201603.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20160310_140000_Americas_Newsroom_With_Bill_Hemmer_and_Martha_MacCallum#start/6467/end/6502</field>
+<field name="datetime">3/10/2016 15:48:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom With Bill Hemmer and Martha MacCallum</field>
+<field name="showid">FOXNEWSW_20160310_140000_Americas_Newsroom_With_Bill_Hemmer_and_Martha_MacCallum</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20160310_140000_Americas_Newsroom_With_Bill_Hemmer_and_Martha_MacCallum/FOXNEWSW_20160310_140000_Americas_Newsroom_With_Bill_Hemmer_and_Martha_MacCallum.thumbs/FOXNEWSW_20160310_140000_Americas_Newsroom_With_Bill_Hemmer_and_Martha_MacCallum_006447.jpg</field>
+<field name="snippet">one thing in particular, we hear this quote a lot, 97% of scientists agree climate change is real, man-made and dangerous. countless articles after that, john kerry reference to it, this</field>
+</doc>
+</add>

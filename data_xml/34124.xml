@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091204_180000_The_Live_Desk#start/4904/end/4939</field>
+<field name="datetime">12/4/2009 19:21:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Live Desk</field>
+<field name="showid">FOXNEWS_20091204_180000_The_Live_Desk</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091204_180000_The_Live_Desk/FOXNEWS_20091204_180000_The_Live_Desk.thumbs/FOXNEWS_20091204_180000_The_Live_Desk_004740.jpg</field>
+<field name="snippet">martha: now there's just days to go before the united nations climate change summit that will happen in copenhagen. there is still a lot of questions about the e-mails from the climate researchers suggesting that they fudged some of the data at odds with their</field>
+</doc>
+</add>

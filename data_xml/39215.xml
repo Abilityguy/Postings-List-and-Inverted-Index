@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201212.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20121229_160000_Forbes_on_FOX#start/129/end/164</field>
+<field name="datetime">12/29/2012 16:02:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Forbes on FOX</field>
+<field name="showid">FOXNEWSW_20121229_160000_Forbes_on_FOX</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20121229_160000_Forbes_on_FOX/FOXNEWSW_20121229_160000_Forbes_on_FOX.thumbs/FOXNEWSW_20121229_160000_Forbes_on_FOX_000105.jpg</field>
+<field name="snippet">like it or not, the majority of americans believe that global warming is an issue. we need to develop clear energy sources. fossil fuels may be a</field>
+</doc>
+</add>

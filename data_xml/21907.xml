@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201808.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180826_153000_Weather_World#start/183/end/218</field>
+<field name="datetime">8/26/2018 15:33:18</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Weather World</field>
+<field name="showid">BBCNEWS_20180826_153000_Weather_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180826_153000_Weather_World/BBCNEWS_20180826_153000_Weather_World.thumbs/BBCNEWS_20180826_153000_Weather_World_000177.jpg</field>
+<field name="snippet">and i'm at a vineyard in west sussex finding out how climate change and technology are shaping the glass of wine you drink at home. also, feeling the heat. temperatures hit new highs with a sweltering</field>
+</doc>
+</add>

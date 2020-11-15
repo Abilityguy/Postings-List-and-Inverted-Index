@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201705.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170509_000000_All_In_With_Chris_Hayes#start/2991/end/3026</field>
+<field name="datetime">5/9/2017 0:50:06</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20170509_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170509_000000_All_In_With_Chris_Hayes/MSNBCW_20170509_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20170509_000000_All_In_With_Chris_Hayes_002968.jpg</field>
+<field name="snippet">we want innovative people. we want people working on climate change, renewables, and new technologies. france is your nation. that's a good climate science foreign legion over there.</field>
+</doc>
+</add>

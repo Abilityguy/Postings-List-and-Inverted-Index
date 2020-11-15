@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_090000_BBC_News_at_9#start/1534/end/1569</field>
+<field name="datetime">1/16/2020 9:25:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at 9</field>
+<field name="showid">BBCNEWS_20200116_090000_BBC_News_at_9</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_090000_BBC_News_at_9/BBCNEWS_20200116_090000_BBC_News_at_9.thumbs/BBCNEWS_20200116_090000_BBC_News_at_9_001527.jpg</field>
+<field name="snippet">see if that happens. sir david attenborough has given the interview to mark the start of an ambitious series on the bbc to mark climate change. are you able to give us a sense of what that will involve? an incredible array of programmes on</field>
+</doc>
+</add>

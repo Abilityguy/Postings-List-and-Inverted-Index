@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201405.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140507_030000_The_OReilly_Factor#start/1828/end/1863</field>
+<field name="datetime">5/7/2014 3:30:43</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20140507_030000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140507_030000_The_OReilly_Factor/FOXNEWSW_20140507_030000_The_OReilly_Factor.thumbs/FOXNEWSW_20140507_030000_The_OReilly_Factor_001815.jpg</field>
+<field name="snippet">segment tonight, a grim report on climate change from the white house. they called for urgent action to combat pollution, warning of even more severe storms and major damage to the economy if nothing is done. but is the white house really</field>
+</doc>
+</add>

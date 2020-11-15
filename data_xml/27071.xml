@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201002.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100211_160000_Happening_Now#start/4307/end/4342</field>
+<field name="datetime">2/11/2010 17:12:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20100211_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100211_160000_Happening_Now/FOXNEWS_20100211_160000_Happening_Now.thumbs/FOXNEWS_20100211_160000_Happening_Now_004290.jpg</field>
+<field name="snippet">snow where it's now drier in the southwest. in short, more extreme weather even if you don't think it's caused by global warming. jane? jane: eric, thank you. jon: the u.s. has a history of helping overseas victims affected by wars and natural disasters like the one that hit</field>
+</doc>
+</add>

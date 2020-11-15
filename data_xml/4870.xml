@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201706.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170601_100000_BBC_Newsroom_Live#start/470/end/505</field>
+<field name="datetime">6/1/2017 10:08:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20170601_100000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170601_100000_BBC_Newsroom_Live/BBCNEWS_20170601_100000_BBC_Newsroom_Live.thumbs/BBCNEWS_20170601_100000_BBC_Newsroom_Live_000448.jpg</field>
+<field name="snippet">throughout the day and asking for comment and advice on many of the election issues. thank you. president trump is due to announce later today whether he'll pull the united states out of the paris climate-change agreement.</field>
+</doc>
+</add>

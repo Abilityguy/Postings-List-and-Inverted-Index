@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201807.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180730_230000_Newsday#start/1256/end/1291</field>
+<field name="datetime">7/30/2018 23:21:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20180730_230000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180730_230000_Newsday/BBCNEWS_20180730_230000_Newsday.thumbs/BBCNEWS_20180730_230000_Newsday_001257.jpg</field>
+<field name="snippet">20000 years ago could help us understand modern climate change and its impact. associate professorjody webster from the university of sydney was part of the research team. he joins me live from sydney, australia. welcome to the programme. tell me</field>
+</doc>
+</add>

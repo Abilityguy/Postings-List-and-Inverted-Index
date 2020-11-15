@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201109.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20110907_090000_The_OReilly_Factor#start/3161/end/3196</field>
+<field name="datetime">9/7/2011 9:52:56</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20110907_090000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20110907_090000_The_OReilly_Factor/FOXNEWSW_20110907_090000_The_OReilly_Factor.thumbs/FOXNEWSW_20110907_090000_The_OReilly_Factor_003057.jpg</field>
+<field name="snippet">the global warming situation? it may sound odd, but a team of researchers at penn state university explored this scenario, among others, in a recently published study that examined will extraterrestrial</field>
+</doc>
+</add>

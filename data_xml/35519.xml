@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201904.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190430_090000_First_Look#start/1548/end/1583</field>
+<field name="datetime">4/30/2019 9:26:03</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20190430_090000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190430_090000_First_Look/MSNBCW_20190430_090000_First_Look.thumbs/MSNBCW_20190430_090000_First_Look_001528.jpg</field>
+<field name="snippet">plus democratic presidential candidate beto o'rourke unveils his ambitious $5 trillion plan combat climate change. what he's looking to help save the planet. we'll be right back. the planet</field>
+</doc>
+</add>

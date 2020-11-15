@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191209_010000_Newsday#start/0/end/31</field>
+<field name="datetime">12/9/2019 1:00:11</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191209_010000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191209_010000_Newsday/BBCNEWS_20191209_010000_Newsday.thumbs/BBCNEWS_20191209_010000_Newsday_001197.jpg</field>
+<field name="snippet">but are these responsibilities and these eco-anxieties and stress 00:20:01753 --> 2147483051:46:45591 the same for both developed 2147483051:46:45591 --> 4294966103:13:29430 countries and developing countries? i think for me, based on my personal observation, i feel that in developed countries, for example, the eco-anxiety comes from this fear of what is to come, whereas in developing countries, this eco-anxiety is coming from the immediate challenges of the climate crisis, for example food security, people living on peatland,</field>
+</doc>
+</add>

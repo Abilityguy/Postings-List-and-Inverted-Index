@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20181213_050000_Tucker_Carlson_Tonight#start/1215/end/1250</field>
+<field name="datetime">12/13/2018 5:20:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20181213_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20181213_050000_Tucker_Carlson_Tonight/FOXNEWSW_20181213_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20181213_050000_Tucker_Carlson_Tonight_001197.jpg</field>
+<field name="snippet">have endorsed the paris climate accord and they asked a very simple question, simple ones of the most revealing. here's what they asked. if climate change is indeed the existential threat you say it is, would you support a ban on all private jet travel?an</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201907.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190706_230000_Hardball_With_Chris_Matthews#start/2199/end/2234</field>
+<field name="datetime">7/6/2019 23:36:54</field>
+<field name="station">MSNBC</field>
+<field name="show">Hardball With Chris Matthews</field>
+<field name="showid">MSNBCW_20190706_230000_Hardball_With_Chris_Matthews</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190706_230000_Hardball_With_Chris_Matthews/MSNBCW_20190706_230000_Hardball_With_Chris_Matthews.thumbs/MSNBCW_20190706_230000_Hardball_With_Chris_Matthews_002037.jpg</field>
+<field name="snippet">welcome back to 'hardball.' the first presidential debate was held in miami where rising sea levels caused by climate change and warming oceans is not an issue for future generations, it's a concern in realtime. i talked to several of the candidates about climate change.</field>
+</doc>
+</add>

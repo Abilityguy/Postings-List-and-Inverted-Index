@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201006.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100615_230000_The_FOX_Report_With_Shepard_Smith#start/1904/end/1939</field>
+<field name="datetime">6/15/2010 23:31:59</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The FOX Report With Shepard Smith</field>
+<field name="showid">FOXNEWS_20100615_230000_The_FOX_Report_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100615_230000_The_FOX_Report_With_Shepard_Smith/FOXNEWS_20100615_230000_The_FOX_Report_With_Shepard_Smith.thumbs/FOXNEWS_20100615_230000_The_FOX_Report_With_Shepard_Smith_001884.jpg</field>
+<field name="snippet">i think that's what the american people want to see and that's what they will hear tonight. shepard: mitch mcconnell said on the floor today that the democrats are using this disaster as a way to push climate change legislation forward. will the president push for any climate change legislation?</field>
+</doc>
+</add>

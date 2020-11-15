@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201402.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140205_110000_FOX_and_Friends#start/7840/end/7875</field>
+<field name="datetime">2/5/2014 13:10:55</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20140205_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140205_110000_FOX_and_Friends/FOXNEWSW_20140205_110000_FOX_and_Friends.thumbs/FOXNEWSW_20140205_110000_FOX_and_Friends_007815.jpg</field>
+<field name="snippet">good on his promise to side step congress. in a few hours from now, the administration will announce its next executive action. it's a plan to help farmers who claim they've been negatively impacted by climate change. it calls for the creation of seven so-called climate hubs.</field>
+</doc>
+</add>

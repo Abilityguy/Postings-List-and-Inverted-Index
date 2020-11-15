@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201705.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170525_220000_Special_Report_With_Bret_Baier#start/245/end/280</field>
+<field name="datetime">5/25/2017 22:04:20</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWSW_20170525_220000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170525_220000_Special_Report_With_Bret_Baier/FOXNEWSW_20170525_220000_Special_Report_With_Bret_Baier.thumbs/FOXNEWSW_20170525_220000_Special_Report_With_Bret_Baier_000237.jpg</field>
+<field name="snippet">brussels, the president made his way back to italy, this time to sicily, for the g7 summit and we believe that on the agenda will be economic cooperation, security coordination, and climate change. bret: kevin corke traveling</field>
+</doc>
+</add>

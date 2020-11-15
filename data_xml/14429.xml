@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201812.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20181230_230000_Meet_the_Press#start/224/end/259</field>
+<field name="datetime">12/30/2018 23:03:59</field>
+<field name="station">MSNBC</field>
+<field name="show">Meet the Press</field>
+<field name="showid">MSNBCW_20181230_230000_Meet_the_Press</field>
+<field name="preview">https://archive.org/download/MSNBCW_20181230_230000_Meet_the_Press/MSNBCW_20181230_230000_Meet_the_Press.thumbs/MSNBCW_20181230_230000_Meet_the_Press_000208.jpg</field>
+<field name="snippet">no, i don't believe it. reporter: in a walt poll, two-thirds believe action is needed to reverse climate change. and 45% serious enough for immediate action. a record high. climate related disasters from</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201308.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130816_000000_All_In_With_Chris_Hayes#start/3320/end/3355</field>
+<field name="datetime">8/16/2013 0:55:35</field>
+<field name="station">MSNBC</field>
+<field name="show">All In With Chris Hayes</field>
+<field name="showid">MSNBCW_20130816_000000_All_In_With_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130816_000000_All_In_With_Chris_Hayes/MSNBCW_20130816_000000_All_In_With_Chris_Hayes.thumbs/MSNBCW_20130816_000000_All_In_With_Chris_Hayes_003315.jpg</field>
+<field name="snippet">climate change is real and let's do something about it. bob inglis made it his mission to change his party's chorus. dedicated to convincing conservatives that climate change is real that we should, you know, do something about it.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091218_000000_The_FOX_Report_With_Shepard_Smith#start/16/end/51</field>
+<field name="datetime">12/18/2009 0:00:31</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The FOX Report With Shepard Smith</field>
+<field name="showid">FOXNEWS_20091218_000000_The_FOX_Report_With_Shepard_Smith</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091218_000000_The_FOX_Report_With_Shepard_Smith/FOXNEWS_20091218_000000_The_FOX_Report_With_Shepard_Smith.thumbs/FOXNEWS_20091218_000000_The_FOX_Report_With_Shepard_Smith_000026.jpg</field>
+<field name="snippet">world to try to pull everyone together. we have now reached the critical juncture in these negotiations. shepard: but even if president obama can help make a deal on climate change, what will it actually cost? tonight, how they are putting on the price tag.</field>
+</doc>
+</add>

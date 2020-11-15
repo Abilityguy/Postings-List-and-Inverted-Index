@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170726_220000_BBC_News#start/158/end/193</field>
+<field name="datetime">7/26/2017 22:02:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170726_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170726_220000_BBC_News/BBCNEWS_20170726_220000_BBC_News.thumbs/BBCNEWS_20170726_220000_BBC_News_000148.jpg</field>
+<field name="snippet">that we deal with the health problems that air pollution causes, but also that we meet our climate-change targets. and the good news is that the car industry is already moving in this direction. archive: at the austin motor works in birmingham, anglo-american cooperation has resulted in a new small car.</field>
+</doc>
+</add>

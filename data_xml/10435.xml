@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201511.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20151130_090000_Fox_Report_Sunday#start/326/end/361</field>
+<field name="datetime">11/30/2015 9:05:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox Report Sunday</field>
+<field name="showid">FOXNEWSW_20151130_090000_Fox_Report_Sunday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20151130_090000_Fox_Report_Sunday/FOXNEWSW_20151130_090000_Fox_Report_Sunday.thumbs/FOXNEWSW_20151130_090000_Fox_Report_Sunday_000315.jpg</field>
+<field name="snippet">president has said climate change is still the greatest national security threat after being there at the feet of so much tragedy, is he still saying that? well, i can just say this.</field>
+</doc>
+</add>

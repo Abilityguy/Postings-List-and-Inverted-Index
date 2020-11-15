@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190518_100000_BBC_News#start/519/end/554</field>
+<field name="datetime">5/18/2019 10:08:54</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190518_100000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190518_100000_BBC_News/BBCNEWS_20190518_100000_BBC_News.thumbs/BBCNEWS_20190518_100000_BBC_News_000507.jpg</field>
+<field name="snippet">they both seem to have got the message from voters on that one. on the economy and perhaps more importantly the question of climate change there was a big difference. absolutely. economically, they try to match each other in terms of tax</field>
+</doc>
+</add>

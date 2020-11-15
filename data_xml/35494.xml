@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201904.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190401_190000_MSNBC_Live_With_Ali_Velshi#start/1553/end/1588</field>
+<field name="datetime">4/1/2019 19:26:08</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20190401_190000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190401_190000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20190401_190000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20190401_190000_MSNBC_Live_With_Ali_Velshi_001347.jpg</field>
+<field name="snippet">if you watch the show, you know we discuss the ongoing crisis of global warming. but with all the deliberating over how to fight the issue, we have yet to see how the information that gets us the evidence is gathered until now. nbc's al roker travrld to teled</field>
+</doc>
+</add>

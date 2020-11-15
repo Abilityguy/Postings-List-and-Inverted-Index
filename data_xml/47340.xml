@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">CNN.201111.csv</field>
+<field name="url">https://archive.org/details/CNNW_20111129_090000_World_Business_Today#start/2685/end/2720</field>
+<field name="datetime">11/29/2011 9:45:00</field>
+<field name="station">CNN</field>
+<field name="show">World Business Today</field>
+<field name="showid">CNNW_20111129_090000_World_Business_Today</field>
+<field name="preview">https://archive.org/download/CNNW_20111129_090000_World_Business_Today/CNNW_20111129_090000_World_Business_Today.thumbs/CNNW_20111129_090000_World_Business_Today_002576.jpg</field>
+<field name="snippet">welcome back to 'world business today.' as policymakers gather in durban to talk about climate change, the skies above south africa have unleashed some of the worst weather of the year. let's go to ivan cabrera with more on that. it's all about climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200119_030000_BBC_News#start/1459/end/1494</field>
+<field name="datetime">1/19/2020 3:24:34</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200119_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200119_030000_BBC_News/BBCNEWS_20200119_030000_BBC_News.thumbs/BBCNEWS_20200119_030000_BBC_News_001438.jpg</field>
+<field name="snippet">the devastating bushfires in australia have highlighted the potential dangers of climate change. grapes are very sensitive to their environment and now, a team of french and new zealand scientists are trying to work out how vineyards should be managed in an age of climate change.</field>
+</doc>
+</add>

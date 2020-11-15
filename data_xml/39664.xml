@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091103_220000_Glenn_Beck#start/2405/end/2440</field>
+<field name="datetime">11/3/2009 22:40:20</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20091103_220000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091103_220000_Glenn_Beck/FOXNEWS_20091103_220000_Glenn_Beck.thumbs/FOXNEWS_20091103_220000_Glenn_Beck_002400.jpg</field>
+<field name="snippet">i mean, if that's the goal here. if global warming or climate change or whatever you want to call it today, because climate change, it seems to be changing. if it was so bad, you know, and the planet that we live on literally was on the brink of</field>
+</doc>
+</add>

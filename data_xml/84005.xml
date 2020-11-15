@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190429_040000_The_Briefing#start/1111/end/1146</field>
+<field name="datetime">4/29/2019 4:18:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20190429_040000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190429_040000_The_Briefing/BBCNEWS_20190429_040000_The_Briefing.thumbs/BBCNEWS_20190429_040000_The_Briefing_001107.jpg</field>
+<field name="snippet">a hot, windy day. losing soil like this lowers our ability to grow crops. it also releases carbon trapped in the earth, and that contributes to climate change. in parts of the south of england, some</field>
+</doc>
+</add>

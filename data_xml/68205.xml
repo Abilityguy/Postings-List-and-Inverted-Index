@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190221_110000_BBC_Newsroom_Live#start/1585/end/1620</field>
+<field name="datetime">2/21/2019 11:26:40</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC Newsroom Live</field>
+<field name="showid">BBCNEWS_20190221_110000_BBC_Newsroom_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190221_110000_BBC_Newsroom_Live/BBCNEWS_20190221_110000_BBC_Newsroom_Live.thumbs/BBCNEWS_20190221_110000_BBC_Newsroom_Live_001557.jpg</field>
+<field name="snippet">we risk saving up a problem for the next generation if we don't make actions and put plans in place now. so we know that spending a small amount of money now to address climate change saves a big cost in the future. that's a cost that will fall</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201509.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150929_170000_Happening_Now#start/82/end/117</field>
+<field name="datetime">9/29/2015 17:01:37</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20150929_170000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150929_170000_Happening_Now/FOXNEWSW_20150929_170000_Happening_Now.thumbs/FOXNEWSW_20150929_170000_Happening_Now_000075.jpg</field>
+<field name="snippet">we begin with president obama, leaving new york city after a busy couple of days in the united nation where he pressed world leaders on climate change. i am jenna leely.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190502_050000_Breakfast#start/394/end/429</field>
+<field name="datetime">5/2/2019 5:06:49</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190502_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190502_050000_Breakfast/BBCNEWS_20190502_050000_Breakfast.thumbs/BBCNEWS_20190502_050000_Breakfast_000387.jpg</field>
+<field name="snippet">the committee on climate change, which is the government's official adviser, says that if other countries follow suit, the world stands a 50-50 chance of keeping the global temperature increase below 1.5 degrees. our environment analyst roger harrabin explains. when britain sparked</field>
+</doc>
+</add>

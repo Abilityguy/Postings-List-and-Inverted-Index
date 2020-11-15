@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191223_030000_BBC_News#start/278/end/313</field>
+<field name="datetime">12/23/2019 3:04:53</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191223_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191223_030000_BBC_News/BBCNEWS_20191223_030000_BBC_News.thumbs/BBCNEWS_20191223_030000_BBC_News_000269.jpg</field>
+<field name="snippet">to tackle global warming. with scientists saying dry conditions brought about by climate change have worsened the impact of bushfires. the catastrophic fires have subsided but the situation is extremely dangerous here, the roads remain closed off. balmoral was one of the worst hit</field>
+</doc>
+</add>

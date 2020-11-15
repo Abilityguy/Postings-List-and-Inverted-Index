@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200113_000000_Newsday#start/644/end/679</field>
+<field name="datetime">1/13/2020 0:10:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20200113_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200113_000000_Newsday/BBCNEWS_20200113_000000_Newsday.thumbs/BBCNEWS_20200113_000000_Newsday_000628.jpg</field>
+<field name="snippet">mortality on several fronts. this is a game changer. people are seeing the tangible effects of a drier climate. a majority of australians now rank climate change as the top threat to australia's vital interests, above other more conventional threats to national interests, including cyber security an attack from china, or even a strike from north korea.</field>
+</doc>
+</add>

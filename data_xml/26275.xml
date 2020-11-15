@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201003.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100311_160000_Happening_Now#start/5229/end/5264</field>
+<field name="datetime">3/11/2010 17:27:24</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20100311_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100311_160000_Happening_Now/FOXNEWS_20100311_160000_Happening_Now.thumbs/FOXNEWS_20100311_160000_Happening_Now_005211.jpg</field>
+<field name="snippet">we saw the favor factory kick in to pass the climate change bill, the government takeover bill itself, the failed stimulus bill. but republicans did something very dramatic today, jane, that is probably going to make it a</field>
+</doc>
+</add>

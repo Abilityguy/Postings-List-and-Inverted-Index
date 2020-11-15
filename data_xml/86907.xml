@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191202_140000_Afternoon_Live#start/539/end/574</field>
+<field name="datetime">12/2/2019 14:09:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20191202_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191202_140000_Afternoon_Live/BBCNEWS_20191202_140000_Afternoon_Live.thumbs/BBCNEWS_20191202_140000_Afternoon_Live_000538.jpg</field>
+<field name="snippet">it's the 25th round of this un meeting, where they are thrashing out the details of the plan to stop global warming. but the window to act is closing. let us open our eyes to the imminent threat facing us all. let us open our minds</field>
+</doc>
+</add>

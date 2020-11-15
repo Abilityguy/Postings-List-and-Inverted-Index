@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201004.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100421_100000_FOX_and_Friends#start/8715/end/8750</field>
+<field name="datetime">4/21/2010 12:25:30</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100421_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100421_100000_FOX_and_Friends/FOXNEWS_20100421_100000_FOX_and_Friends.thumbs/FOXNEWS_20100421_100000_FOX_and_Friends_008717.jpg</field>
+<field name="snippet">saying, that these three things, health care reform, education, and climate change, that this lead to prosperity. what i think is that they're elements in a larger approach to prosperity. focusing on the market</field>
+</doc>
+</add>

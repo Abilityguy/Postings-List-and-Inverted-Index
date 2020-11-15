@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201207.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120703_160000_NOW_With_Alex_Wagner#start/1155/end/1190</field>
+<field name="datetime">7/3/2012 16:19:30</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20120703_160000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120703_160000_NOW_With_Alex_Wagner/MSNBCW_20120703_160000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20120703_160000_NOW_With_Alex_Wagner_001140.jpg</field>
+<field name="snippet">that's the tag line we hear. also, david, months later at a fund-raiser in october, mitt romney said my view is that we don't know what's causing climate change on this planet and the idea of spending trillions and trillions of dollars to try to reduce co2</field>
+</doc>
+</add>

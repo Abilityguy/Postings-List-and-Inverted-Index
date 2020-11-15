@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091219_160000_MSNBC_News_Live#start/2746/end/2781</field>
+<field name="datetime">12/19/2009 16:46:01</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091219_160000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091219_160000_MSNBC_News_Live/MSNBC_20091219_160000_MSNBC_News_Live.thumbs/MSNBC_20091219_160000_MSNBC_News_Live_002730.jpg</field>
+<field name="snippet">now, stay home if you can. reporter: absolutely. good advice. thanks, julie, take care. and folks on the east coast probably don't want to hear about this, but global warming and the conference overseas has produced an agreement, but what does it really mean? that's ahead on 'msnbc saturday.'</field>
+</doc>
+</add>

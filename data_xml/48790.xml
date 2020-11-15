@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201908.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190824_180000_MSNBC_Live_with_Kendis_Gibson#start/6842/end/6877</field>
+<field name="datetime">8/24/2019 19:54:17</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live with Kendis Gibson</field>
+<field name="showid">MSNBCW_20190824_180000_MSNBC_Live_with_Kendis_Gibson</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190824_180000_MSNBC_Live_with_Kendis_Gibson/MSNBCW_20190824_180000_MSNBC_Live_with_Kendis_Gibson.thumbs/MSNBCW_20190824_180000_MSNBC_Live_with_Kendis_Gibson_006839.jpg</field>
+<field name="snippet">reporter: well, kendis, as a matter of fact, climate change is happening here in the aparticular faster than -- arctic faster than it is anywhere else in the world. what people in town say is behind plme, this fjord is fros</field>
+</doc>
+</add>

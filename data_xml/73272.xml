@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190117_060000_Breakfast#start/7643/end/7678</field>
+<field name="datetime">1/17/2019 8:07:38</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20190117_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190117_060000_Breakfast/BBCNEWS_20190117_060000_Breakfast.thumbs/BBCNEWS_20190117_060000_Breakfast_007617.jpg</field>
+<field name="snippet">60% of the world's coffee crops are on the verge of extinction, according to new research. scientists say that more than 100 species of wild coffee plants are now at risk due to habitat loss and climate change. whilst the majority of the world's coffee comes from two different crops, the wild species are vital for sustaining global supplies.</field>
+</doc>
+</add>

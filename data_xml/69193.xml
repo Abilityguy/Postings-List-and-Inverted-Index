@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201109.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20110907_030000_The_OReilly_Factor#start/3158/end/3193</field>
+<field name="datetime">9/7/2011 3:52:53</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWSW_20110907_030000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20110907_030000_The_OReilly_Factor/FOXNEWSW_20110907_030000_The_OReilly_Factor.thumbs/FOXNEWSW_20110907_030000_The_OReilly_Factor_003056.jpg</field>
+<field name="snippet">book segment tonight, could aliens attack us earthlings over the global warming situation? it may sound odd, but a team of researchers at penn state university explored this scenario, among others, in a recently published study that</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201801.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180106_040000_BBC_News#start/649/end/684</field>
+<field name="datetime">1/6/2018 4:11:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20180106_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180106_040000_BBC_News/BBCNEWS_20180106_040000_BBC_News.thumbs/BBCNEWS_20180106_040000_BBC_News_000627.jpg</field>
+<field name="snippet">the city's mayor is blaming the changing climate. we're keeping an eye on all of those different floodings, and if anyone wants to question global warming, just see where the flood zones are. those zones didn't flood 30 years ago. not farfrom boston, in the beach town of revere,</field>
+</doc>
+</add>

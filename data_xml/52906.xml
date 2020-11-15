@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20180619_180000_Beyond_100_Days#start/1272/end/1307</field>
+<field name="datetime">6/19/2018 18:21:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20180619_180000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20180619_180000_Beyond_100_Days/BBCNEWS_20180619_180000_Beyond_100_Days.thumbs/BBCNEWS_20180619_180000_Beyond_100_Days_001257.jpg</field>
+<field name="snippet">on an electric-powered aircraft. not as pie in the sky as you might think? a new battery-powered plane has taken off over norway, as part of the nation's bid to tackle climate change and air pollution. the country is planning to run all its transport systems on electricity and says passenger flights could start by 2025.</field>
+</doc>
+</add>

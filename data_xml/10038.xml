@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201505.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20150531_050000_Hannity#start/1410/end/1445</field>
+<field name="datetime">5/31/2015 5:23:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWSW_20150531_050000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20150531_050000_Hannity/FOXNEWSW_20150531_050000_Hannity.thumbs/FOXNEWSW_20150531_050000_Hannity_001395.jpg</field>
+<field name="snippet">but i'm here to say that climate change constitutes a serious threat to global security. more than saying iran has a nuke? is that the message the military wants to hear? obama's address to the coast guard and their graduates after the break. stay with us.</field>
+</doc>
+</add>

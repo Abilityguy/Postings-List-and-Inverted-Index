@@ -1,5 +1,5 @@
 '''
-Run $python3 ranking_and_retrieval.py
+Run $python3 ranking_and_retrieval.py --query "query"
 '''
 
 import pickle
@@ -9,8 +9,11 @@ from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from nltk.stem import PorterStemmer
 import pandas as pd
-
+import argparse
 import re
+
+parser = argparse.ArgumentParser(description="Ranking and retrieval")
+parser.add_argument('--query', help="Enter query", default="", type=str)
 
 tokenizer = RegexpTokenizer(r'\w+') #It retains only words and eliminates punctuations in words
 stop_words = set(stopwords.words('english'))
@@ -73,117 +76,102 @@ except:
         tf_idf_dic[i] = tf_dic[i]*idf_dic[i[0]]
     pickle.dump(tf_idf_dic, open("tf_idf_dic.pkl","wb"))
 
+def tfidf_search(search_string, number_of_results):
+    query = search_string
+    querywc = []
+    query = query.lower()
+    query = query.split()
+    for word in query:
+        if '*' in word:
+            querywc.append(word)
+            query.remove(word)
+    query = ' '.join(query)
+    query = tokenizer.tokenize(query)
+    query = remove_stop_words(query, stop_words)
+    query = lemmatize_words(query)
 
-query = input();
+    count_dic = {}
+    for i in query:
+        if i not in count_dic:
+            count_dic[i] = 1
+        else:
+            count_dic[i] += 1
 
-querywc = []
+    num_query_words = len(query + querywc)
+    tfidf_query_dic = {}
 
-query = query.lower()
-
-query = query.split()
-for word in query:
-    if '*' in word:
-        querywc.append(word)
-        query.remove(word)
-query = ' '.join(query)
-
-query = tokenizer.tokenize(query)
-
-query = remove_stop_words(query, stop_words)
-
-query = lemmatize_words(query)
-
-
-
-
-count_dic = {}
-for i in query:
-    if i not in count_dic:
-        count_dic[i] = 1
-    else:
-        count_dic[i] += 1
-
-num_query_words = len(query + querywc)
-tfidf_query_dic = {}
-
-
-
-for k in querywc:
-        r = '^'+k.replace('*', '.*')+'$'
-        corr = []
-        for j in idf_dic:
-            
-            
-            if re.search(r, j):
-            
+    for k in querywc:
+            r = '^'+k.replace('*', '.*')+'$'
+            corr = []
+            for j in idf_dic:
                 
-                corr.append(j)
-        l = 1/len(corr)       
-        for j in corr:
-            if j not in count_dic:
-                count_dic[j] = l
-            else:
-                count_dic[j] += l
+                
+                if re.search(r, j):
+                
+                    
+                    corr.append(j)
+            l = 1/len(corr)       
+            for j in corr:
+                if j not in count_dic:
+                    count_dic[j] = l
+                else:
+                    count_dic[j] += l
+
+    for i in count_dic:
         
-                
+        tfidf_query_dic[i] = (count_dic[i]/num_query_words)*(idf_dic[i])
 
+    sum_of_squares1 = 0
+    for i in tfidf_query_dic:
+        sum_of_squares1 += pow(tfidf_query_dic[i],2)
+    modulus1 = pow(sum_of_squares1,0.5)
+    if modulus1 == 0:
+        modulus1 = 1
 
-
-
-
-for i in count_dic:
-    
-    tfidf_query_dic[i] = (count_dic[i]/num_query_words)*(idf_dic[i])
-
-sum_of_squares1 = 0
-for i in tfidf_query_dic:
-    sum_of_squares1 += pow(tfidf_query_dic[i],2)
-modulus1 = pow(sum_of_squares1,0.5)
-if modulus1 == 0:
-    modulus1 = 1
-
-matching_docs = []
-dot_product = 0
-nums = []
-
-for i in document_words_count.keys():
+    matching_docs = []
     dot_product = 0
     nums = []
-    for j in count_dic:
-        if (j,i) in tf_idf_dic:
+
+    for i in document_words_count.keys():
+        dot_product = 0
+        nums = []
+        for j in count_dic:
+            if (j,i) in tf_idf_dic:
+                
+                dot_product += tfidf_query_dic[j]*tf_idf_dic[(j,i)]
+                nums.append(tf_idf_dic[(j,i)])  
             
-            dot_product += tfidf_query_dic[j]*tf_idf_dic[(j,i)]
-            nums.append(tf_idf_dic[(j,i)])
-            
-    
-        
-        
-    sum_of_squares2 = 0
-    for j in nums:
-        sum_of_squares2 += pow(j,2)
-    modulus2 = pow(sum_of_squares2, 0.5)
-    if modulus2 == 0:
-        modulus2 = 1
-    if dot_product!=0:
-        if dot_product/(modulus1*modulus2)>0.1:
-            matching_docs.append((i, dot_product/(modulus1*modulus2)))
+        sum_of_squares2 = 0
+        for j in nums:
+            sum_of_squares2 += pow(j,2)
+        modulus2 = pow(sum_of_squares2, 0.5)
+        if modulus2 == 0:
+            modulus2 = 1
+        if dot_product!=0:
+            if dot_product/(modulus1*modulus2)>0.1:
+                matching_docs.append((i, dot_product/(modulus1*modulus2)))
 
-matching_docs.sort(key = lambda x: x[1], reverse = True)
+    matching_docs.sort(key = lambda x: x[1], reverse = True)
+
+    search_results = []
+    for j in matching_docs[:number_of_results]:
+        i = j[0]
+        csv_id = i//10000
+        row_id = i%10000
+        df = pd.read_csv("data/"+document_ids[csv_id])
+        row = df.iloc[row_id]
+        search_results.append([document_ids[csv_id],row['URL'],row['Snippet']])
+    for result in search_results:
+        print('\n'.join(result))
+        print('-'*10, '*', '-'*10)
+    pickle.dump(search_results, open("search_results.pkl","wb"))
+    return search_results
+
+if __name__=="__main__":
+    args = parser.parse_args()
+    print(tfidf_search(args.query,20))
 
 
-
-search_results = []
-for j in matching_docs[:20]:
-    i = j[0]
-    csv_id = i//10000
-    row_id = i%10000
-    df = pd.read_csv("data/"+document_ids[csv_id])
-    row = df.iloc[row_id]
-    search_results.append([document_ids[csv_id],row['URL'],row['Snippet']])
-for result in search_results:
-    print('\n'.join(result))
-    print('-'*10, '*', '-'*10)
-pickle.dump(search_results, open("search_results.pkl","wb"))
 
 
 

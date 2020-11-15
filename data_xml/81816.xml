@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091209_190000_MSNBC_News_Live#start/3355/end/3390</field>
+<field name="datetime">12/9/2009 19:56:10</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091209_190000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091209_190000_MSNBC_News_Live/MSNBC_20091209_190000_MSNBC_News_Live.thumbs/MSNBC_20091209_190000_MSNBC_News_Live_003352.jpg</field>
+<field name="snippet">i'm contessa brewer. up next, al gore has a bone to pick with sarah palin over the issue of climate change. details in the next hour. you don't want to miss that. this is msnbc. what are we making? penne pasta with eggplant, chicken, and tomato. these tomatoes are not my favorite.</field>
+</doc>
+</add>

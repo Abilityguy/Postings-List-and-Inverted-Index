@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181122_130000_BBC_News_at_One#start/1282/end/1317</field>
+<field name="datetime">11/22/2018 13:21:37</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20181122_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181122_130000_BBC_News_at_One/BBCNEWS_20181122_130000_BBC_News_at_One.thumbs/BBCNEWS_20181122_130000_BBC_News_at_One_001257.jpg</field>
+<field name="snippet">the planet was between two three degrees warmer. computer models indicate that warming is likely to be repeated resulting in damaging and irreversible climate change. a group of britain's leading</field>
+</doc>
+</add>

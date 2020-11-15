@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201801.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20180110_200000_MSNBC_Live_With_Ali_Velshi#start/1180/end/1215</field>
+<field name="datetime">1/10/2018 20:19:55</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Ali Velshi</field>
+<field name="showid">MSNBCW_20180110_200000_MSNBC_Live_With_Ali_Velshi</field>
+<field name="preview">https://archive.org/download/MSNBCW_20180110_200000_MSNBC_Live_With_Ali_Velshi/MSNBCW_20180110_200000_MSNBC_Live_With_Ali_Velshi.thumbs/MSNBCW_20180110_200000_MSNBC_Live_With_Ali_Velshi_001167.jpg</field>
+<field name="snippet">electricing cars from tesla, and norway's combating climate change. it's an important issue for us. and we are committed to the paris agreement. it leads to businesses and leads to american businesses also el issing cars in norway.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201806.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20180601_090000_First_Look#start/3545/end/3580</field>
+<field name="datetime">6/1/2018 9:59:20</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20180601_090000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20180601_090000_First_Look/MSNBCW_20180601_090000_First_Look.thumbs/MSNBCW_20180601_090000_First_Look_003537.jpg</field>
+<field name="snippet">want to ask you about exclusive reporting that you guys have at axios regarding pope francis' efforts to tackle climate change. very significant development. he's obviously been a very outspoken pontiff about a lot of social issues. what are you learning this morning about that? so this is fascinating.</field>
+</doc>
+</add>

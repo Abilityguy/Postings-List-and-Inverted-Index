@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201703.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170328_210000_The_Five#start/2368/end/2403</field>
+<field name="datetime">3/28/2017 21:39:43</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20170328_210000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170328_210000_The_Five/FOXNEWSW_20170328_210000_The_Five.thumbs/FOXNEWSW_20170328_210000_The_Five_002367.jpg</field>
+<field name="snippet">kennedy: president trump signed a new executive order rolling back efforts to combat climate change. dismantled a number of environmental regulations. when he says have hurt oil drillers and coal miners.</field>
+</doc>
+</add>

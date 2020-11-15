@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201901.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20190101_100000_MTP_Daily#start/1614/end/1649</field>
+<field name="datetime">1/1/2019 10:27:09</field>
+<field name="station">MSNBC</field>
+<field name="show">MTP Daily</field>
+<field name="showid">MSNBCW_20190101_100000_MTP_Daily</field>
+<field name="preview">https://archive.org/download/MSNBCW_20190101_100000_MTP_Daily/MSNBCW_20190101_100000_MTP_Daily.thumbs/MSNBCW_20190101_100000_MTP_Daily_001618.jpg</field>
+<field name="snippet">it's a very big ocean. it used to not be climate change. it used to be global warming. that wasn't working. it was getting too cold all over the place.</field>
+</doc>
+</add>

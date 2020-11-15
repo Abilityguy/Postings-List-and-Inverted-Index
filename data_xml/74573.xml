@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_170000_BBC_News_at_Five#start/564/end/599</field>
+<field name="datetime">1/17/2020 17:09:39</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Five</field>
+<field name="showid">BBCNEWS_20200117_170000_BBC_News_at_Five</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_170000_BBC_News_at_Five/BBCNEWS_20200117_170000_BBC_News_at_Five.thumbs/BBCNEWS_20200117_170000_BBC_News_at_Five_000568.jpg</field>
+<field name="snippet">carbon footprint. just a reminder. to find out more about climate change and what you can do, go to our website or the bbc app.</field>
+</doc>
+</add>

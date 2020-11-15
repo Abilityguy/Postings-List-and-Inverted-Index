@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181008_050000_Breakfast#start/7295/end/7330</field>
+<field name="datetime">10/8/2018 7:01:50</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20181008_050000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181008_050000_Breakfast/BBCNEWS_20181008_050000_Breakfast.thumbs/BBCNEWS_20181008_050000_Breakfast_007287.jpg</field>
+<field name="snippet">ireland, cloudy, wet and windy day ahead. it's monday october 8th. our top story: scientists have given one of the starkest warnings yet about the changes needed to tackle climate change.</field>
+</doc>
+</add>

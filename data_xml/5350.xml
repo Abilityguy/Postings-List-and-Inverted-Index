@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171208_054500_The_Briefing#start/368/end/403</field>
+<field name="datetime">12/8/2017 5:51:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20171208_054500_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171208_054500_The_Briefing/BBCNEWS_20171208_054500_The_Briefing.thumbs/BBCNEWS_20171208_054500_The_Briefing_000358.jpg</field>
+<field name="snippet">something. the environment is not playing ball, clearly. climate change. it played ball in one point. i saw the los angeles mayor saying</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091221_070000_Hannity#start/2085/end/2120</field>
+<field name="datetime">12/21/2009 7:35:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Hannity</field>
+<field name="showid">FOXNEWS_20091221_070000_Hannity</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091221_070000_Hannity/FOXNEWS_20091221_070000_Hannity.thumbs/FOXNEWS_20091221_070000_Hannity_002032.jpg</field>
+<field name="snippet">today we made a meaningful and unprecedented breakthrough here in copenhagen. for the first time in history all major economies have come together to accept their responsibility to take action to confront the threat of climate change.</field>
+</doc>
+</add>

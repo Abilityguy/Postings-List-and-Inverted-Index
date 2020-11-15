@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201711.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171104_200000_BBC_News#start/940/end/975</field>
+<field name="datetime">11/4/2017 20:15:55</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20171104_200000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171104_200000_BBC_News/BBCNEWS_20171104_200000_BBC_News.thumbs/BBCNEWS_20171104_200000_BBC_News_000927.jpg</field>
+<field name="snippet">people. excess heat is already probably causing problems. we are seeing a pervasive assault on the environment, on greenhouse gases. the irony, i guess, for people like</field>
+</doc>
+</add>

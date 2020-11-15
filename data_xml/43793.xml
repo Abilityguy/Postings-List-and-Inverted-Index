@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201512.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20151218_180000_MSNBC_Live_With_Thomas_Roberts#start/6487/end/6522</field>
+<field name="datetime">12/18/2015 19:48:22</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Thomas Roberts</field>
+<field name="showid">MSNBCW_20151218_180000_MSNBC_Live_With_Thomas_Roberts</field>
+<field name="preview">https://archive.org/download/MSNBCW_20151218_180000_MSNBC_Live_With_Thomas_Roberts/MSNBCW_20151218_180000_MSNBC_Live_With_Thomas_Roberts.thumbs/MSNBCW_20151218_180000_MSNBC_Live_With_Thomas_Roberts_006466.jpg</field>
+<field name="snippet">science tells us we have to do something about climate change. so my sense is that -- of, you know, this is something that may be an advantage in terms of short-term politics in the republican primary.</field>
+</doc>
+</add>

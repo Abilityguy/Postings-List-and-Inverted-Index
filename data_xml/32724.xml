@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091209_140000_Americas_Newsroom#start/1994/end/2029</field>
+<field name="datetime">12/9/2009 14:33:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas Newsroom</field>
+<field name="showid">FOXNEWS_20091209_140000_Americas_Newsroom</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091209_140000_Americas_Newsroom/FOXNEWS_20091209_140000_Americas_Newsroom.thumbs/FOXNEWS_20091209_140000_Americas_Newsroom_001971.jpg</field>
+<field name="snippet">copenhagen. leaked documents are causing an uproar. it is a draft proposal from the host, denmark, calling on developing nations to join the world in cutting greenhouse gas</field>
+</doc>
+</add>

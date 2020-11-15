@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190323_213000_Our_World#start/75/end/110</field>
+<field name="datetime">3/23/2019 21:31:30</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Our World</field>
+<field name="showid">BBCNEWS_20190323_213000_Our_World</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190323_213000_Our_World/BBCNEWS_20190323_213000_Our_World.thumbs/BBCNEWS_20190323_213000_Our_World_000058.jpg</field>
+<field name="snippet">be here with a full round up of the day's news. first, our world. australia is suffering the hottest summer on record. water is often scarce but growing demand, mainly from farming, and higher temperatures linked to climate change, have created the country's worst ever water shortage.</field>
+</doc>
+</add>

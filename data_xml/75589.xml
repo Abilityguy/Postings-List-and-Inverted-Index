@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201204.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20120422_120000_Up_W_Chris_Hayes#start/38/end/73</field>
+<field name="datetime">4/22/2012 12:00:53</field>
+<field name="station">MSNBC</field>
+<field name="show">Up W Chris Hayes</field>
+<field name="showid">MSNBCW_20120422_120000_Up_W_Chris_Hayes</field>
+<field name="preview">https://archive.org/download/MSNBCW_20120422_120000_Up_W_Chris_Hayes/MSNBCW_20120422_120000_Up_W_Chris_Hayes.thumbs/MSNBCW_20120422_120000_Up_W_Chris_Hayes_000026.jpg</field>
+<field name="snippet">an iranian general says iran is building its own spy drone. we'll be talking about iran a little later today. and today's earth day, and while the world's governments fail to take significant action to stop global warming. in you're in washington, you can</field>
+</doc>
+</add>

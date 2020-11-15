@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201810.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181006_030000_BBC_News#start/1211/end/1246</field>
+<field name="datetime">10/6/2018 3:20:26</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20181006_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181006_030000_BBC_News/BBCNEWS_20181006_030000_BBC_News.thumbs/BBCNEWS_20181006_030000_BBC_News_001197.jpg</field>
+<field name="snippet">which is home to 18 million people. i mentioned this is a hotspot for climate change. what makes it so vulnerable? it's low-lying, it's a large delta plain and it's sinking. the sea level is coming up.</field>
+</doc>
+</add>

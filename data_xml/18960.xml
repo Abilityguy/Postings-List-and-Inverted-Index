@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201612.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161212_180000_Happening_Now#start/2430/end/2465</field>
+<field name="datetime">12/12/2016 18:40:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWSW_20161212_180000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161212_180000_Happening_Now/FOXNEWSW_20161212_180000_Happening_Now.thumbs/FOXNEWSW_20161212_180000_Happening_Now_002427.jpg</field>
+<field name="snippet">comes to climate change. if we operate on the assumption we want to protect where we live, could a boisterous debate on the epa be good for the country and so we can all do</field>
+</doc>
+</add>

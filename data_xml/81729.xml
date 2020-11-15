@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091216_140000_Morning_Meeting#start/5044/end/5079</field>
+<field name="datetime">12/16/2009 15:24:19</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Meeting</field>
+<field name="showid">MSNBC_20091216_140000_Morning_Meeting</field>
+<field name="preview">https://archive.org/download/MSNBC_20091216_140000_Morning_Meeting/MSNBC_20091216_140000_Morning_Meeting.thumbs/MSNBC_20091216_140000_Morning_Meeting_005040.jpg</field>
+<field name="snippet">welcome back to msnbc. i'm contessa brewer. we have some breaking news from copenhagen, denmark. a chaotic situation developing outside the climate change summit as protesters try to disrupt the talks and they're meeting now with armed resistance from police. anne thompson is in copenhagen.</field>
+</doc>
+</add>

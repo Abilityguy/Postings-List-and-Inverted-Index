@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201012.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20101209_110000_FOX_and_Friends#start/7268/end/7303</field>
+<field name="datetime">12/9/2010 13:01:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20101209_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20101209_110000_FOX_and_Friends/FOXNEWS_20101209_110000_FOX_and_Friends.thumbs/FOXNEWS_20101209_110000_FOX_and_Friends_007260.jpg</field>
+<field name="snippet">looks like some spring breakers having a great time. nope. those are a bunch of tree huggers protesting climate change. tough gig in cancun, mexico. 'fox & friends' starts right now.</field>
+</doc>
+</add>

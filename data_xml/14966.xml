@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201312.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20131207_110000_FOX_and_Friends_Saturday#start/11490/end/11525</field>
+<field name="datetime">12/7/2013 14:11:45</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends Saturday</field>
+<field name="showid">FOXNEWSW_20131207_110000_FOX_and_Friends_Saturday</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20131207_110000_FOX_and_Friends_Saturday/FOXNEWSW_20131207_110000_FOX_and_Friends_Saturday.thumbs/FOXNEWSW_20131207_110000_FOX_and_Friends_Saturday_011475.jpg</field>
+<field name="snippet">not necessarily global warming, but a pattern we are in. this is a much bigger complex conversation than the producers want us to get in. thank you, rick. here is a question. is it okay to kill the very</field>
+</doc>
+</add>

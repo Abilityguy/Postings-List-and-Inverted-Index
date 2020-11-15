@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090714_170000_The_Live_Desk#start/5480/end/5515</field>
+<field name="datetime">7/14/2009 18:31:35</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Live Desk</field>
+<field name="showid">FOXNEWS_20090714_170000_The_Live_Desk</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090714_170000_The_Live_Desk/FOXNEWS_20090714_170000_The_Live_Desk.thumbs/FOXNEWS_20090714_170000_The_Live_Desk_005457.jpg</field>
+<field name="snippet">and environmental groups arguing that greenhouse gases are a public nuisance that warrant a court-imposed injunction to reduce emissions. your panel in connecticut versus american electric power has sat on that case for 45 months or nearly three times</field>
+</doc>
+</add>

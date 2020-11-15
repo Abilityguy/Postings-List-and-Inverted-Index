@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201310.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20131023_170000_Americas_News_Headquarters#start/2185/end/2220</field>
+<field name="datetime">10/23/2013 17:36:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News Headquarters</field>
+<field name="showid">FOXNEWSW_20131023_170000_Americas_News_Headquarters</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20131023_170000_Americas_News_Headquarters/FOXNEWSW_20131023_170000_Americas_News_Headquarters.thumbs/FOXNEWSW_20131023_170000_Americas_News_Headquarters_002175.jpg</field>
+<field name="snippet">the amendment. thanks for being here. the supreme court set to review the epa's power to regout greenhouse gases. we have mike live on the hill for us today.</field>
+</doc>
+</add>

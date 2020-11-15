@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201911.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20191108_190000_MSNBC_Live_With_Katy_Tur#start/0/end/32</field>
+<field name="datetime">11/8/2019 19:00:12</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Katy Tur</field>
+<field name="showid">MSNBCW_20191108_190000_MSNBC_Live_With_Katy_Tur</field>
+<field name="preview">https://archive.org/download/MSNBCW_20191108_190000_MSNBC_Live_With_Katy_Tur/MSNBCW_20191108_190000_MSNBC_Live_With_Katy_Tur.thumbs/MSNBCW_20191108_190000_MSNBC_Live_With_Katy_Tur_000059.jpg</field>
+<field name="snippet">discussion that hopefully leads us to serious results. well, let's hope they come to the table, and if they do let us know. we would be happy to talk to them about climate change solutions. heather reams is with citizens</field>
+</doc>
+</add>

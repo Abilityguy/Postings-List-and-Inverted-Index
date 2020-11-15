@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190820_180000_Beyond_100_Days#start/1550/end/1585</field>
+<field name="datetime">8/20/2019 18:26:05</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Beyond 100 Days</field>
+<field name="showid">BBCNEWS_20190820_180000_Beyond_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190820_180000_Beyond_100_Days/BBCNEWS_20190820_180000_Beyond_100_Days.thumbs/BBCNEWS_20190820_180000_Beyond_100_Days_001527.jpg</field>
+<field name="snippet">the good friday agreement. and prince harry and meghan markle are criticised for taking a private jet to the south of france, after speaking out about climate change. so is offsetting their carbon emissions enough? that's still to come.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201012.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101213_230000_The_Ed_Show#start/1824/end/1859</field>
+<field name="datetime">12/13/2010 23:30:39</field>
+<field name="station">MSNBC</field>
+<field name="show">The Ed Show</field>
+<field name="showid">MSNBC_20101213_230000_The_Ed_Show</field>
+<field name="preview">https://archive.org/download/MSNBC_20101213_230000_The_Ed_Show/MSNBC_20101213_230000_The_Ed_Show.thumbs/MSNBC_20101213_230000_The_Ed_Show_001825.jpg</field>
+<field name="snippet">you something about the metrodome, i've covered dozens of games in that stadium in the last 30 years it's not global warming. the metrodome has been a dump, always has been, always will be. it has caved in four other times. so for the beckster and his fox</field>
+</doc>
+</add>

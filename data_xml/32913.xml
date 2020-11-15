@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091206_230000_FOX_News_Sunday_With_Chris_Wallace#start/1706/end/1741</field>
+<field name="datetime">12/6/2009 23:28:41</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX News Sunday With Chris Wallace</field>
+<field name="showid">FOXNEWS_20091206_230000_FOX_News_Sunday_With_Chris_Wallace</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091206_230000_FOX_News_Sunday_With_Chris_Wallace/FOXNEWS_20091206_230000_FOX_News_Sunday_With_Chris_Wallace.thumbs/FOXNEWS_20091206_230000_FOX_News_Sunday_With_Chris_Wallace_001680.jpg</field>
+<field name="snippet">chris: that is part of the commitment. let's look at where we are, as of today we have the two largest countries in the world, china and india acknowledged they need to join us in moving forward on this. and they understand the peril we face. if we don't accept the premise that there is climate change</field>
+</doc>
+</add>

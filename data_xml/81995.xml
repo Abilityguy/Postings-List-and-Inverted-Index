@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201403.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140311_100000_Morning_Joe#start/8516/end/8551</field>
+<field name="datetime">3/11/2014 12:22:11</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBCW_20140311_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140311_100000_Morning_Joe/MSNBCW_20140311_100000_Morning_Joe.thumbs/MSNBCW_20140311_100000_Morning_Joe_008506.jpg</field>
+<field name="snippet">did it work? keep that up. no, keep the music up. turn it up! more than two dozen democratic senators are pulling an all-nighter to get climate change back in the headlines. hey, great job.</field>
+</doc>
+</add>

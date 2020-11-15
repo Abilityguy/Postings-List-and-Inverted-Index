@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190321_000000_Tucker_Carlson_Tonight#start/1253/end/1288</field>
+<field name="datetime">3/21/2019 0:21:08</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190321_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190321_000000_Tucker_Carlson_Tonight/FOXNEWSW_20190321_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190321_000000_Tucker_Carlson_Tonight_001228.jpg</field>
+<field name="snippet">coming on tonight. is it surprising to you after 25 years of really relentless propaganda beginning in children's cartoons all the way up to the moment of death that americans rate climate change at 2% concern, 2% most concerned</field>
+</doc>
+</add>

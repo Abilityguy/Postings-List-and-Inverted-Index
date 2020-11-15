@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091117_160000_Happening_Now#start/2194/end/2229</field>
+<field name="datetime">11/17/2009 16:36:49</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Happening Now</field>
+<field name="showid">FOXNEWS_20091117_160000_Happening_Now</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091117_160000_Happening_Now/FOXNEWS_20091117_160000_Happening_Now.thumbs/FOXNEWS_20091117_160000_Happening_Now_002190.jpg</field>
+<field name="snippet">disciplinary action was not specified. some context, remember when a nasa scientist complained that the bush administration was attempting to sensor his views on global warming?</field>
+</doc>
+</add>

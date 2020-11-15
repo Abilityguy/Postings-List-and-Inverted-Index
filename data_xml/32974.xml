@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091206_110000_The_OReilly_Factor#start/1200/end/1235</field>
+<field name="datetime">12/6/2009 11:20:15</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20091206_110000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091206_110000_The_OReilly_Factor/FOXNEWS_20091206_110000_The_OReilly_Factor.thumbs/FOXNEWS_20091206_110000_The_OReilly_Factor_001200.jpg</field>
+<field name="snippet">were leaked on the internet last month and reveal attempts to manipulate and hide date that that downplayed global warming and efforts to avoid freedom of information requirements from global warming skeptics. phil jones director of the</field>
+</doc>
+</add>

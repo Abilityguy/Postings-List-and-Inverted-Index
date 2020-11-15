@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200116_130000_BBC_News_at_One#start/587/end/622</field>
+<field name="datetime">1/16/2020 13:10:02</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20200116_130000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200116_130000_BBC_News_at_One/BBCNEWS_20200116_130000_BBC_News_at_One.thumbs/BBCNEWS_20200116_130000_BBC_News_at_One_000568.jpg</field>
+<field name="snippet">cut our greenhouse gas emissions have just been pushed further and further down the line, and if we don't do anything now, it is going to be very hard to solve this problem. what about the timing of these remarks? it does feel like we are hitting a pivotal moment with</field>
+</doc>
+</add>

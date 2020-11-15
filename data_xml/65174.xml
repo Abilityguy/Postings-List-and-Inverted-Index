@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201903.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190315_070000_Fox_News__Night_With_Shannon_Bream#start/3028/end/3063</field>
+<field name="datetime">3/15/2019 7:50:43</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox News  Night With Shannon Bream</field>
+<field name="showid">FOXNEWSW_20190315_070000_Fox_News__Night_With_Shannon_Bream</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190315_070000_Fox_News__Night_With_Shannon_Bream/FOXNEWSW_20190315_070000_Fox_News__Night_With_Shannon_Bream.thumbs/FOXNEWSW_20190315_070000_Fox_News__Night_With_Shannon_Bream_003028.jpg</field>
+<field name="snippet">shannon: beto o'rourke sounding the alarm on climate change in iowa. the court democratic official affecting 2020 contenders? let's debate with dave brown and former greenpeace executive patrick moore. welcome to both of you.</field>
+</doc>
+</add>

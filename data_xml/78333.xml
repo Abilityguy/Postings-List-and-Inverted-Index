@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191102_120000_BBC_News#start/1742/end/1777</field>
+<field name="datetime">11/2/2019 12:29:17</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191102_120000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191102_120000_BBC_News/BBCNEWS_20191102_120000_BBC_News.thumbs/BBCNEWS_20191102_120000_BBC_News_001738.jpg</field>
+<field name="snippet">30000 people across the uk are being invited to join a new citizens assembly to consider how to tackle climate change. invitation letters are being sent out on behalf of six commons select committees, which are working together on the project. the government has set a target of achieving 'net-zero' emissions by 2050.</field>
+</doc>
+</add>

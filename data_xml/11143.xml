@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190813_080000_BBC_News_at_Nine#start/2121/end/2156</field>
+<field name="datetime">8/13/2019 8:35:36</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Nine</field>
+<field name="showid">BBCNEWS_20190813_080000_BBC_News_at_Nine</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190813_080000_BBC_News_at_Nine/BBCNEWS_20190813_080000_BBC_News_at_Nine.thumbs/BBCNEWS_20190813_080000_BBC_News_at_Nine_002097.jpg</field>
+<field name="snippet">and coming up - the university that's banning the sale of burgers, to try and fight global warming. time now for the morning briefing, where we bring you up to speed on the stories people are watching, reading and sharing.</field>
+</doc>
+</add>

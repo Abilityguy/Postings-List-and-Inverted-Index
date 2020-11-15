@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201712.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20171217_123000_Click#start/1440/end/1475</field>
+<field name="datetime">12/17/2017 12:54:15</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Click</field>
+<field name="showid">BBCNEWS_20171217_123000_Click</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20171217_123000_Click/BBCNEWS_20171217_123000_Click.thumbs/BBCNEWS_20171217_123000_Click_001438.jpg</field>
+<field name="snippet">of climate change, if we don't change our behaviour. we can go to a news conference now</field>
+</doc>
+</add>

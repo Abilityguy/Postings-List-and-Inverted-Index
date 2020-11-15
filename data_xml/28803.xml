@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201610.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20161027_080000_The_Kelly_File#start/261/end/296</field>
+<field name="datetime">10/27/2016 8:04:36</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Kelly File</field>
+<field name="showid">FOXNEWSW_20161027_080000_The_Kelly_File</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20161027_080000_The_Kelly_File/FOXNEWSW_20161027_080000_The_Kelly_File.thumbs/FOXNEWSW_20161027_080000_The_Kelly_File_000237.jpg</field>
+<field name="snippet">then it's education, race relations, federal deficit, health care is sixth, then climate change, foreign policy, immigration. and at number ten, drug addiction. that is where we begin tonight. this evening, rick leventhal</field>
+</doc>
+</add>

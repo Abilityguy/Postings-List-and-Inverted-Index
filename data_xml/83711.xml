@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190419_180000_BBC_News#start/3643/end/3678</field>
+<field name="datetime">4/19/2019 19:00:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190419_180000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190419_180000_BBC_News/BBCNEWS_20190419_180000_BBC_News.thumbs/BBCNEWS_20190419_180000_BBC_News_003628.jpg</field>
+<field name="snippet">police step up their tactics against climate change protesters in london, as arrests rise to nearly 700 a 14 month old boy is rescued by his father from the jaws</field>
+</doc>
+</add>

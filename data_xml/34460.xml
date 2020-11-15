@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201403.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140312_080000_The_Five#start/1079/end/1114</field>
+<field name="datetime">3/12/2014 8:18:14</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The Five</field>
+<field name="showid">FOXNEWSW_20140312_080000_The_Five</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140312_080000_The_Five/FOXNEWSW_20140312_080000_The_Five.thumbs/FOXNEWSW_20140312_080000_The_Five_001065.jpg</field>
+<field name="snippet">climate change. if you went to 100 doctors and 98 of them said you were sick and should take medicine, but two told you you were fine and should do nothing, what would you do? we are on the cusp of a</field>
+</doc>
+</add>

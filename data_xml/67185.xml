@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201405.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140513_020000_The_Last_Word_With_Lawrence_ODonnell#start/3616/end/3651</field>
+<field name="datetime">5/13/2014 3:00:31</field>
+<field name="station">MSNBC</field>
+<field name="show">The Last Word With Lawrence ODonnell</field>
+<field name="showid">MSNBCW_20140513_020000_The_Last_Word_With_Lawrence_ODonnell</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140513_020000_The_Last_Word_With_Lawrence_ODonnell/MSNBCW_20140513_020000_The_Last_Word_With_Lawrence_ODonnell.thumbs/MSNBCW_20140513_020000_The_Last_Word_With_Lawrence_ODonnell_003615.jpg</field>
+<field name="snippet">i'm chris hayes. the collapse of large parts of the ice sheet in west antarctica appears to have begun and almost certainly unstoppable. that a quote according to a report from the 'new york times' which credits global warming as the cause.</field>
+</doc>
+</add>

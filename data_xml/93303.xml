@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201907.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190721_200000_World_News_Today#start/1124/end/1159</field>
+<field name="datetime">7/21/2019 20:18:59</field>
+<field name="station">BBCNEWS</field>
+<field name="show">World News Today</field>
+<field name="showid">BBCNEWS_20190721_200000_World_News_Today</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190721_200000_World_News_Today/BBCNEWS_20190721_200000_World_News_Today.thumbs/BBCNEWS_20190721_200000_World_News_Today_001107.jpg</field>
+<field name="snippet">another year, another wildfire, another arrest, leaving portuguese wishing their beautiful summers were less cruel. rhodri davies, bbc news. the uk has committed to a target of net zero greenhouse gas emissions by 2050, but what steps can be</field>
+</doc>
+</add>

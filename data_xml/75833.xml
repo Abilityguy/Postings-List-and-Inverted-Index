@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201210.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20121031_160000_NOW_With_Alex_Wagner#start/3060/end/3095</field>
+<field name="datetime">10/31/2012 16:51:15</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20121031_160000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20121031_160000_NOW_With_Alex_Wagner/MSNBCW_20121031_160000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20121031_160000_NOW_With_Alex_Wagner_003058.jpg</field>
+<field name="snippet">sitting with us on set. we're happy to have you on show. i want to talk about a number of things but first and foremost is sandy. this is going to hopefully engender a conversation about climate change although we don't really know how much of sandy and the super storm is</field>
+</doc>
+</add>

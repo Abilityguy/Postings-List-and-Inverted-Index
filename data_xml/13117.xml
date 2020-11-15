@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201303.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130304_180000_America_Live#start/354/end/389</field>
+<field name="datetime">3/4/2013 18:06:09</field>
+<field name="station">FOXNEWS</field>
+<field name="show">America Live</field>
+<field name="showid">FOXNEWSW_20130304_180000_America_Live</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130304_180000_America_Live/FOXNEWSW_20130304_180000_America_Live.thumbs/FOXNEWSW_20130304_180000_America_Live_000345.jpg</field>
+<field name="snippet">crackdown on climate change and all that is controversial, not everybody believes it's a real issue and not everybody believes if it's a real issue given the time and economic struggles that americans are going through and adding more to their electric bill and is it necessarily going to make a lot of people happy.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200907.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20090715_060000_Glenn_Beck#start/14/end/49</field>
+<field name="datetime">7/15/2009 6:00:29</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Glenn Beck</field>
+<field name="showid">FOXNEWS_20090715_060000_Glenn_Beck</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20090715_060000_Glenn_Beck/FOXNEWS_20090715_060000_Glenn_Beck.thumbs/FOXNEWS_20090715_060000_Glenn_Beck_000026.jpg</field>
+<field name="snippet">of humanity, facing the dire and growing threat of the climate crisis. bill: a factor investigation. al gore and others stand to make millions on president obama's cap and trade vision. but you are likely to get hurt financially.</field>
+</doc>
+</add>

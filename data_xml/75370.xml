@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201012.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20101227_190000_News_Nation#start/1318/end/1353</field>
+<field name="datetime">12/27/2010 19:22:13</field>
+<field name="station">MSNBC</field>
+<field name="show">News Nation</field>
+<field name="showid">MSNBC_20101227_190000_News_Nation</field>
+<field name="preview">https://archive.org/download/MSNBC_20101227_190000_News_Nation/MSNBC_20101227_190000_News_Nation.thumbs/MSNBC_20101227_190000_News_Nation_001315.jpg</field>
+<field name="snippet">they say you can't point to a few bad years and say the humans have caused it. what are you looking for when you look at a series of bad weather events and matching them up with concerns over climate change?</field>
+</doc>
+</add>

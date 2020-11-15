@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201901.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190102_140000_Afternoon_Live#start/4768/end/4803</field>
+<field name="datetime">1/2/2019 15:19:43</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190102_140000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190102_140000_Afternoon_Live/BBCNEWS_20190102_140000_Afternoon_Live.thumbs/BBCNEWS_20190102_140000_Afternoon_Live_004768.jpg</field>
+<field name="snippet">mention of climate change, which its own scientists say is making fires worse. 0ur correspondent james cook, who was in paradise while the fire was raging, has returned to the town. this has got potential for a major incident.</field>
+</doc>
+</add>

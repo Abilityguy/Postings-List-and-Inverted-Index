@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_060000_Breakfast#start/9008/end/9043</field>
+<field name="datetime">1/17/2020 8:30:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Breakfast</field>
+<field name="showid">BBCNEWS_20200117_060000_Breakfast</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_060000_Breakfast/BBCNEWS_20200117_060000_Breakfast.thumbs/BBCNEWS_20200117_060000_Breakfast_008938.jpg</field>
+<field name="snippet">from me. bye. this is worklife from bbc news, with victoria fritz and david eades. big data and the climate crisis. how our tech addiction is fuelling global warming - and what silicon valley can do about it. live from london, that's our top</field>
+</doc>
+</add>

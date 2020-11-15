@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201704.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170410_180000_100_Days#start/1488/end/1523</field>
+<field name="datetime">4/10/2017 18:25:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">100 Days</field>
+<field name="showid">BBCNEWS_20170410_180000_100_Days</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170410_180000_100_Days/BBCNEWS_20170410_180000_100_Days.thumbs/BBCNEWS_20170410_180000_100_Days_001468.jpg</field>
+<field name="snippet">the reef faces a lot of threats, from pollution to industrial development. but on top of that, there is climate change. bringing higher temperatures, that makes bleaching more likely.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201708.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170810_060000_Tucker_Carlson_Tonight#start/2076/end/2111</field>
+<field name="datetime">8/10/2017 6:34:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20170810_060000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170810_060000_Tucker_Carlson_Tonight/FOXNEWSW_20170810_060000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20170810_060000_Tucker_Carlson_Tonight_002067.jpg</field>
+<field name="snippet">what i said is that here's what we know, tucker. it seems to me you're the one that is denying the consensus. i'm not denying -- humans are the principal cause of global warming. okay. is that true or not? are you conceding that or</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201409.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20140921_230000_FOX_Report#start/1847/end/1882</field>
+<field name="datetime">9/21/2014 23:31:02</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX Report</field>
+<field name="showid">FOXNEWSW_20140921_230000_FOX_Report</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20140921_230000_FOX_Report/FOXNEWSW_20140921_230000_FOX_Report.thumbs/FOXNEWSW_20140921_230000_FOX_Report_001845.jpg</field>
+<field name="snippet">i'm harris faulkner. this is the fox report. it is the bottom of the hour and here's what's happening. an estimated 300000 people marched through the streets of manhattan for hours today for action to combat climate change. the march in countriesaround the</field>
+</doc>
+</add>

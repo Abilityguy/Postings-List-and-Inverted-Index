@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190402_040000_Tucker_Carlson_Tonight#start/925/end/960</field>
+<field name="datetime">4/2/2019 4:15:40</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190402_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190402_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190402_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190402_040000_Tucker_Carlson_Tonight_000928.jpg</field>
+<field name="snippet">make you uncomfortable? i'm an economist, actually, so i look at what the scientists are telling us. global warming is a problem, but it's also a moderate one. by the end of the century,</field>
+</doc>
+</add>

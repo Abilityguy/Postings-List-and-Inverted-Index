@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190801_030000_BBC_News#start/571/end/606</field>
+<field name="datetime">8/1/2019 3:09:46</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190801_030000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190801_030000_BBC_News/BBCNEWS_20190801_030000_BBC_News.thumbs/BBCNEWS_20190801_030000_BBC_News_000567.jpg</field>
+<field name="snippet">by metre following a cyclone six days ago. emergency services have delivered aid to trapped villagers, others have been evacuated. this may be the new normal. russia's meteorological services warn that these effects of climate change are likely to worsen every year. john mcmanus, bbc news.</field>
+</doc>
+</add>

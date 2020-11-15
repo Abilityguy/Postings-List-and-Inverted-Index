@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201402.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140215_190000_MSNBC_Live#start/4532/end/4567</field>
+<field name="datetime">2/15/2014 20:15:47</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live</field>
+<field name="showid">MSNBCW_20140215_190000_MSNBC_Live</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140215_190000_MSNBC_Live/MSNBCW_20140215_190000_MSNBC_Live.thumbs/MSNBCW_20140215_190000_MSNBC_Live_004515.jpg</field>
+<field name="snippet">some good news, the storm is moving fast. should give way to clear skies soon. secretary of state john kerry arrived in indonesia fresh off a trip from china where he won an agreement with beijing to cooperate more closely in reducing the effect of climate change. kerry is expected to speak on</field>
+</doc>
+</add>

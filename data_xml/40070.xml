@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200911.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091110_090000_Special_Report_With_Bret_Baier#start/2019/end/2054</field>
+<field name="datetime">11/10/2009 9:33:54</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Special Report With Bret Baier</field>
+<field name="showid">FOXNEWS_20091110_090000_Special_Report_With_Bret_Baier</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091110_090000_Special_Report_With_Bret_Baier/FOXNEWS_20091110_090000_Special_Report_With_Bret_Baier.thumbs/FOXNEWS_20091110_090000_Special_Report_With_Bret_Baier_002004.jpg</field>
+<field name="snippet">w the president has said throughout this process that the way to deal with this is through legislation. the epa report remains private, but it is the reminder that president obama's representative won't lack the authority to negotiate when he attended next month's climate change conference in copenhagen.</field>
+</doc>
+</add>

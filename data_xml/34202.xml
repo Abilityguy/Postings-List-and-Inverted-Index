@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200912.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091220_150000_Americas_News_HQ#start/696/end/731</field>
+<field name="datetime">12/20/2009 15:11:51</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Americas News HQ</field>
+<field name="showid">FOXNEWS_20091220_150000_Americas_News_HQ</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091220_150000_Americas_News_HQ/FOXNEWS_20091220_150000_Americas_News_HQ.thumbs/FOXNEWS_20091220_150000_Americas_News_HQ_000690.jpg</field>
+<field name="snippet">senior advisor david axelrod on tv this morning predicts congress will get a bill to the president's desk. jamie: we'll check back with you and share the developments, today, keep it on fox, thanks. eric: president obama hails the climate change agreement in copenhagen as an important break</field>
+</doc>
+</add>

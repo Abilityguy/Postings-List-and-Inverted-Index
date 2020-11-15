@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190822_123000_BBC_News#start/777/end/812</field>
+<field name="datetime">8/22/2019 12:43:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190822_123000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190822_123000_BBC_News/BBCNEWS_20190822_123000_BBC_News.thumbs/BBCNEWS_20190822_123000_BBC_News_000778.jpg</field>
+<field name="snippet">to tackle climate change and it is going further and faster than many other economies. but if we look at something like fuel duty for example at a time when many citizens are under pressure a hike in fuel duties would be hugely unpopular.</field>
+</doc>
+</add>

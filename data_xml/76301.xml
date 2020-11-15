@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190512_180000_BBC_News#start/1008/end/1043</field>
+<field name="datetime">5/12/2019 18:17:03</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190512_180000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190512_180000_BBC_News/BBCNEWS_20190512_180000_BBC_News.thumbs/BBCNEWS_20190512_180000_BBC_News_000987.jpg</field>
+<field name="snippet">take polar bears, for example. global warming means there's less sea ice for them to hunt seals on, limiting their access to food, and threatening their survival. then you have african elephants. they need to drink 225 litres of water a day. so changing weather patterns means risking their lives to travel further into unprotected areas to rehydrate. the ramping up of diplomacy</field>
+</doc>
+</add>

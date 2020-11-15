@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201812.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181201_023000_The_Week_in_Parliament#start/0/end/34</field>
+<field name="datetime">12/1/2018 2:30:14</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Week in Parliament</field>
+<field name="showid">BBCNEWS_20181201_023000_The_Week_in_Parliament</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181201_023000_The_Week_in_Parliament/BBCNEWS_20181201_023000_The_Week_in_Parliament.thumbs/BBCNEWS_20181201_023000_The_Week_in_Parliament_000057.jpg</field>
+<field name="snippet">this is bbc news. the headlines: china, india, russia, brazil and south africa have warned against protectionism at the 620 summit in buenos aires. on the first day of its two days, the summit has also been marked by disagreements over climate change, and there have been fears the leaders may not be able to agree</field>
+</doc>
+</add>

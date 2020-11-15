@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201806.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20180605_000000_Tucker_Carlson_Tonight#start/3112/end/3147</field>
+<field name="datetime">6/5/2018 0:52:07</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20180605_000000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20180605_000000_Tucker_Carlson_Tonight/FOXNEWSW_20180605_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20180605_000000_Tucker_Carlson_Tonight_003087.jpg</field>
+<field name="snippet">that's what your producer said to me when they invited me in on this segment so i was assuming that's what you were going to talk about. tucker: i'm capable of speaking for myself and let me say that i'm totally open to any possibility. it turns out ufos are real. i never thought that before i'm happy to believe in climate</field>
+</doc>
+</add>

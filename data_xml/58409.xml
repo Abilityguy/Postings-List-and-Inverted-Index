@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201811.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20181121_220000_BBC_News_at_Ten#start/1816/end/1851</field>
+<field name="datetime">11/21/2018 22:30:31</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at Ten</field>
+<field name="showid">BBCNEWS_20181121_220000_BBC_News_at_Ten</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20181121_220000_BBC_News_at_Ten/BBCNEWS_20181121_220000_BBC_News_at_Ten.thumbs/BBCNEWS_20181121_220000_BBC_News_at_Ten_001798.jpg</field>
+<field name="snippet">if we don't take care of it, we will have nowhere to go. the monsoons are sometimes coming too early or too late, like nothing is on time. translation: of course, but what can i do about that? concern and confusion over climate change.</field>
+</doc>
+</add>

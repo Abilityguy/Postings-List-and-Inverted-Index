@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201302.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20130213_010000_State_of_the_Union_2013#start/12963/end/12998</field>
+<field name="datetime">2/13/2013 4:36:18</field>
+<field name="station">MSNBC</field>
+<field name="show">State of the Union 2013</field>
+<field name="showid">MSNBCW_20130213_010000_State_of_the_Union_2013</field>
+<field name="preview">https://archive.org/download/MSNBCW_20130213_010000_State_of_the_Union_2013/MSNBCW_20130213_010000_State_of_the_Union_2013.thumbs/MSNBCW_20130213_010000_State_of_the_Union_2013_012945.jpg</field>
+<field name="snippet">reduce pollution, repair our communities for climate change and speed the transition to more sustainable energy. president obama called for action on climate change saying</field>
+</doc>
+</add>

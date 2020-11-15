@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201906.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190612_130000_Afternoon_Live#start/33/end/68</field>
+<field name="datetime">6/12/2019 13:00:48</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190612_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190612_130000_Afternoon_Live/BBCNEWS_20190612_130000_Afternoon_Live.thumbs/BBCNEWS_20190612_130000_Afternoon_Live_000057.jpg</field>
+<field name="snippet">and we kick the bucket. a new plan to tackle climate change - the uk commits to cut</field>
+</doc>
+</add>

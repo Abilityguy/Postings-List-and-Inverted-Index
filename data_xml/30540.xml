@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.202001.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20200106_160000_MSNBC_Live_With_Craig_Melvin#start/998/end/1033</field>
+<field name="datetime">1/6/2020 16:16:53</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC Live With Craig Melvin</field>
+<field name="showid">MSNBCW_20200106_160000_MSNBC_Live_With_Craig_Melvin</field>
+<field name="preview">https://archive.org/download/MSNBCW_20200106_160000_MSNBC_Live_With_Craig_Melvin/MSNBCW_20200106_160000_MSNBC_Live_With_Craig_Melvin.thumbs/MSNBCW_20200106_160000_MSNBC_Live_With_Craig_Melvin_000988.jpg</field>
+<field name="snippet">immigration, climate change, but now the possibility of a war could be a critical factor in who wins the nomination. it dominated much of the conversation on the trail this weekend. we are now in a very dangerous period, more dangerous because of this president.</field>
+</doc>
+</add>

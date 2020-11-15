@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20100111_110000_FOX_and_Friends#start/51/end/86</field>
+<field name="datetime">1/11/2010 11:01:06</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWS_20100111_110000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20100111_110000_FOX_and_Friends/FOXNEWS_20100111_110000_FOX_and_Friends.thumbs/FOXNEWS_20100111_110000_FOX_and_Friends_000030.jpg</field>
+<field name="snippet">global warming is really kicking in. no kidding, when you breathe in, you might get a little frozen action in your nose. so glad you would join us for this very warm newswise monday morning and we'll start with the headlines this morning because today, a fox news alert. three u.s. service members,</field>
+</doc>
+</add>

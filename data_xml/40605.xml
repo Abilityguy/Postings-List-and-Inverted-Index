@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201708.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20170808_090000_First_Look#start/1830/end/1865</field>
+<field name="datetime">8/8/2017 9:30:45</field>
+<field name="station">MSNBC</field>
+<field name="show">First Look</field>
+<field name="showid">MSNBCW_20170808_090000_First_Look</field>
+<field name="preview">https://archive.org/download/MSNBCW_20170808_090000_First_Look/MSNBCW_20170808_090000_First_Look.thumbs/MSNBCW_20170808_090000_First_Look_001828.jpg</field>
+<field name="snippet">is reportedly awaiting approval by the trump administration. the alleged report found that the average temperature in the u.s. has risen dramatically since 1980 and that americans are feeling the effects of climate change right now.</field>
+</doc>
+</add>

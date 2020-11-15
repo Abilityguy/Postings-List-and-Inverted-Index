@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201909.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190921_013000_Talking_Books#start/1/end/36</field>
+<field name="datetime">9/21/2019 1:30:16</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Talking Books</field>
+<field name="showid">BBCNEWS_20190921_013000_Talking_Books</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190921_013000_Talking_Books/BBCNEWS_20190921_013000_Talking_Books.thumbs/BBCNEWS_20190921_013000_Talking_Books_000057.jpg</field>
+<field name="snippet">this is bbc news. the headlines: a day of worldwide protests on climate change has reached its climax in new york, with a rally addressed by greta thunberg. the swedish teenager said she hoped the protests will mark a social tipping point. demonstrations have taken place</field>
+</doc>
+</add>

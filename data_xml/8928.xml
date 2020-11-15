@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201908.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20190822_040000_Tucker_Carlson_Tonight#start/2143/end/2178</field>
+<field name="datetime">8/22/2019 4:35:58</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20190822_040000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20190822_040000_Tucker_Carlson_Tonight/FOXNEWSW_20190822_040000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20190822_040000_Tucker_Carlson_Tonight_002127.jpg</field>
+<field name="snippet">star program recommended that americans set their thermostats to 82 degrees at night in the summer for the sake of stopping global warming. okay, you first. publisher and the author of the politically incorrect guide to climate change and joins us tonight. thanks a lot for coming on</field>
+</doc>
+</add>

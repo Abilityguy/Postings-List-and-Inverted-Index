@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.201407.csv</field>
+<field name="url">https://archive.org/details/MSNBCW_20140723_200000_NOW_With_Alex_Wagner#start/3085/end/3120</field>
+<field name="datetime">7/23/2014 20:51:40</field>
+<field name="station">MSNBC</field>
+<field name="show">NOW With Alex Wagner</field>
+<field name="showid">MSNBCW_20140723_200000_NOW_With_Alex_Wagner</field>
+<field name="preview">https://archive.org/download/MSNBCW_20140723_200000_NOW_With_Alex_Wagner/MSNBCW_20140723_200000_NOW_With_Alex_Wagner.thumbs/MSNBCW_20140723_200000_NOW_With_Alex_Wagner_003076.jpg</field>
+<field name="snippet">connected to climate change. it's connected to the loss of arctic ice, which changed the direction of the jet stream. normally the jet stream is driven by the hot in the south and cold in the north. if the north gets less cold because it's got all this exposed water, that weakens the</field>
+</doc>
+</add>

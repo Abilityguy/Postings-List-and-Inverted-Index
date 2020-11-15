@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20200117_133000_BBC_News#start/1272/end/1307</field>
+<field name="datetime">1/17/2020 13:51:27</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20200117_133000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20200117_133000_BBC_News/BBCNEWS_20200117_133000_BBC_News.thumbs/BBCNEWS_20200117_133000_BBC_News_001258.jpg</field>
+<field name="snippet">with climate change? it comes down to several key things, so housing, how you heat your home. across the</field>
+</doc>
+</add>

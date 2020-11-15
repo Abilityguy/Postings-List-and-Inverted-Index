@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201902.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190221_040000_BBC_News#start/523/end/558</field>
+<field name="datetime">2/21/2019 4:08:58</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20190221_040000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190221_040000_BBC_News/BBCNEWS_20190221_040000_BBC_News.thumbs/BBCNEWS_20190221_040000_BBC_News_000508.jpg</field>
+<field name="snippet">caused by human-induced climate change has been officially recognised by australia. a species of tiny rodent called the bramble cay melomys hasn't been seen since 2009. it lived only on a low-lying sand island between australia and papua new guinea, and seems to have been overwhelmed by rising sea levels.</field>
+</doc>
+</add>

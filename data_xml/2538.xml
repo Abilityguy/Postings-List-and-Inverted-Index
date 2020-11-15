@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200909.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20090922_100000_Morning_Joe#start/3654/end/3689</field>
+<field name="datetime">9/22/2009 11:01:09</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20090922_100000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20090922_100000_Morning_Joe/MSNBC_20090922_100000_Morning_Joe.thumbs/MSNBC_20090922_100000_Morning_Joe_003626.jpg</field>
+<field name="snippet">morning's top stories. this morning, president obama makes his debut at the united nations, addressing a summit on climate change. later today, the president will hold meetings with israeli and palestinian leaders. he will address the u.n. general assembly tomorrow. according to this morning's</field>
+</doc>
+</add>

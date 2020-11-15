@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201904.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190405_130000_Afternoon_Live#start/1157/end/1192</field>
+<field name="datetime">4/5/2019 13:19:32</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Afternoon Live</field>
+<field name="showid">BBCNEWS_20190405_130000_Afternoon_Live</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190405_130000_Afternoon_Live/BBCNEWS_20190405_130000_Afternoon_Live.thumbs/BBCNEWS_20190405_130000_Afternoon_Live_003478.jpg</field>
+<field name="snippet">researchers say the amount of new coral created on australia's great barrier reef has plummeted by nearly 90% as a result of ocean heatwaves. scientists warn the structure of the reef is likely to transform completely if more bleaching occurs because of climate change. kathryn armstrong has more.</field>
+</doc>
+</add>

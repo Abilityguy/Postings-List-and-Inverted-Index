@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091212_120000_MSNBC_News_Live#start/2316/end/2351</field>
+<field name="datetime">12/12/2009 12:38:51</field>
+<field name="station">MSNBC</field>
+<field name="show">MSNBC News Live</field>
+<field name="showid">MSNBC_20091212_120000_MSNBC_News_Live</field>
+<field name="preview">https://archive.org/download/MSNBC_20091212_120000_MSNBC_News_Live/MSNBC_20091212_120000_MSNBC_News_Live.thumbs/MSNBC_20091212_120000_MSNBC_News_Live_002310.jpg</field>
+<field name="snippet">about a three mile hike for them. they have a message to deliver to the delegates. stop talking and act, the same message they hope to send around the world today. climate change, they say, is a matter of justice. and they use this term called climate justice.</field>
+</doc>
+</add>

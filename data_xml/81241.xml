@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">MSNBC.200912.csv</field>
+<field name="url">https://archive.org/details/MSNBC_20091208_110000_Morning_Joe#start/9230/end/9265</field>
+<field name="datetime">12/8/2009 13:34:05</field>
+<field name="station">MSNBC</field>
+<field name="show">Morning Joe</field>
+<field name="showid">MSNBC_20091208_110000_Morning_Joe</field>
+<field name="preview">https://archive.org/download/MSNBC_20091208_110000_Morning_Joe/MSNBC_20091208_110000_Morning_Joe.thumbs/MSNBC_20091208_110000_Morning_Joe_009173.jpg</field>
+<field name="snippet">he said that was a shot across the bow of energy companies. do you expect a hit in the energy sector today? no, not really. you know, the market's biggest issue on all of the -- i'm looking for a word, climate</field>
+</doc>
+</add>

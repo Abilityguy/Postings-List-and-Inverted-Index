@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201703.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20170329_090000_Fox_and_Friends_First#start/2085/end/2120</field>
+<field name="datetime">3/29/2017 9:35:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Fox and Friends First</field>
+<field name="showid">FOXNEWSW_20170329_090000_Fox_and_Friends_First</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20170329_090000_Fox_and_Friends_First/FOXNEWSW_20170329_090000_Fox_and_Friends_First.thumbs/FOXNEWSW_20170329_090000_Fox_and_Friends_First_002068.jpg</field>
+<field name="snippet">headquarters president trump delivered one of his biggest campaign promises, rolling back the plan to combat global warming. we are keeping our promises and putting power back the hands of the people. for an immediate reevaluation of the so-called clean power plant.</field>
+</doc>
+</add>

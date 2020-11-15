@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191219_210000_Outside_Source#start/906/end/941</field>
+<field name="datetime">12/19/2019 21:15:21</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Outside Source</field>
+<field name="showid">BBCNEWS_20191219_210000_Outside_Source</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191219_210000_Outside_Source/BBCNEWS_20191219_210000_Outside_Source.thumbs/BBCNEWS_20191219_210000_Outside_Source_000898.jpg</field>
+<field name="snippet">the dark green here shows how many people consider global climate change a major threat. australia is a long way down the</field>
+</doc>
+</add>

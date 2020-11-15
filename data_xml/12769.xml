@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201707.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20170706_220000_BBC_News#start/308/end/343</field>
+<field name="datetime">7/6/2017 22:05:23</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20170706_220000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20170706_220000_BBC_News/BBCNEWS_20170706_220000_BBC_News.thumbs/BBCNEWS_20170706_220000_BBC_News_000298.jpg</field>
+<field name="snippet">with disagreements over trade, immigration and climate change. angela merkel and donald trump met this evening and they disagree on much of this. the joint communique will be a test of the bureaucrat's drafting skills. finding the right care provision for the elderly has become a game</field>
+</doc>
+</add>

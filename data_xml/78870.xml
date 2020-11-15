@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.202001.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20200111_050000_Tucker_Carlson_Tonight#start/765/end/800</field>
+<field name="datetime">1/11/2020 5:13:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">Tucker Carlson Tonight</field>
+<field name="showid">FOXNEWSW_20200111_050000_Tucker_Carlson_Tonight</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20200111_050000_Tucker_Carlson_Tonight/FOXNEWSW_20200111_050000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20200111_050000_Tucker_Carlson_Tonight_000749.jpg</field>
+<field name="snippet">mark: let's just say that climate change business, because aoc said the world is going to end in 12 years. she said that last year. i think we are at 11 years.</field>
+</doc>
+</add>

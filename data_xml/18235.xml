@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.201305.csv</field>
+<field name="url">https://archive.org/details/FOXNEWSW_20130503_100000_FOX_and_Friends#start/10448/end/10483</field>
+<field name="datetime">5/3/2013 12:54:23</field>
+<field name="station">FOXNEWS</field>
+<field name="show">FOX and Friends</field>
+<field name="showid">FOXNEWSW_20130503_100000_FOX_and_Friends</field>
+<field name="preview">https://archive.org/download/FOXNEWSW_20130503_100000_FOX_and_Friends/FOXNEWSW_20130503_100000_FOX_and_Friends.thumbs/FOXNEWSW_20130503_100000_FOX_and_Friends_010425.jpg</field>
+<field name="snippet">whoopsie daisy. this is one time we don't want to win the war. steve: hello, mr. gore. global warming? i bought into the whole thing. what happened! here goes. gretchen: oh, my goodness.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201911.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191106_050000_The_Briefing#start/13/end/48</field>
+<field name="datetime">11/6/2019 5:00:28</field>
+<field name="station">BBCNEWS</field>
+<field name="show">The Briefing</field>
+<field name="showid">BBCNEWS_20191106_050000_The_Briefing</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191106_050000_The_Briefing/BBCNEWS_20191106_050000_The_Briefing.thumbs/BBCNEWS_20191106_050000_The_Briefing_000028.jpg</field>
+<field name="snippet">this is the briefing - i'm sally bundock. our top story: a six-point plan to save the planet. thousands of scientists demand deep and lasting changes to curb catastrophic climate change. the democrats have gained ground</field>
+</doc>
+</add>

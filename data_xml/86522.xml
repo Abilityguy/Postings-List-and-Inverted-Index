@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191221_130000_BBC_News#start/297/end/332</field>
+<field name="datetime">12/21/2019 13:05:12</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News</field>
+<field name="showid">BBCNEWS_20191221_130000_BBC_News</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191221_130000_BBC_News/BBCNEWS_20191221_130000_BBC_News.thumbs/BBCNEWS_20191221_130000_BBC_News_000298.jpg</field>
+<field name="snippet">much. more than 100 bushfires are raging across australia's most populous state, new south wales. christmas travellers being urged to delay their journeys. record temperatures of more than a0 degrees and strong winds have intensified the fires. australia's deputy prime minister, michael mccormack has said australia must increase its efforts to tackle climate change.</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">FOXNEWS.200910.csv</field>
+<field name="url">https://archive.org/details/FOXNEWS_20091029_090000_The_OReilly_Factor#start/45/end/80</field>
+<field name="datetime">10/29/2009 9:01:00</field>
+<field name="station">FOXNEWS</field>
+<field name="show">The OReilly Factor</field>
+<field name="showid">FOXNEWS_20091029_090000_The_OReilly_Factor</field>
+<field name="preview">https://archive.org/download/FOXNEWS_20091029_090000_The_OReilly_Factor/FOXNEWS_20091029_090000_The_OReilly_Factor.thumbs/FOXNEWS_20091029_090000_The_OReilly_Factor_000053.jpg</field>
+<field name="snippet">afghanistan. and dennis miller will also look at afghanistan. as well as models stripping for global warming. wow. caution, you are about to enter</field>
+</doc>
+</add>

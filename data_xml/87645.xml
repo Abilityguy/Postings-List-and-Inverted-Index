@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201912.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20191202_000000_Newsday#start/226/end/261</field>
+<field name="datetime">12/2/2019 0:04:01</field>
+<field name="station">BBCNEWS</field>
+<field name="show">Newsday</field>
+<field name="showid">BBCNEWS_20191202_000000_Newsday</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20191202_000000_Newsday/BBCNEWS_20191202_000000_Newsday.thumbs/BBCNEWS_20191202_000000_Newsday_000207.jpg</field>
+<field name="snippet">climate change is running faster than what we are and the risk in a relatively short amount of time to become irreversible, that we will not be able to contain the temperature rise. his big worry is that huge investments are still</field>
+</doc>
+</add>

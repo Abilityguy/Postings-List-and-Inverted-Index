@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="filename">BBCNEWS.201905.csv</field>
+<field name="url">https://archive.org/details/BBCNEWS_20190502_120000_BBC_News_at_One#start/349/end/384</field>
+<field name="datetime">5/2/2019 12:06:04</field>
+<field name="station">BBCNEWS</field>
+<field name="show">BBC News at One</field>
+<field name="showid">BBCNEWS_20190502_120000_BBC_News_at_One</field>
+<field name="preview">https://archive.org/download/BBCNEWS_20190502_120000_BBC_News_at_One/BBCNEWS_20190502_120000_BBC_News_at_One.thumbs/BBCNEWS_20190502_120000_BBC_News_at_One_000327.jpg</field>
+<field name="snippet">with a slightly less stringent one for wales because of its reliance on agriculture, and a slightly tougher target for scotland because of its potential for planting trees. 0ur environment correspondent kevin keane has spent the day with one family in aberdeenshire who are doing their bit to fight climate change.</field>
+</doc>
+</add>
