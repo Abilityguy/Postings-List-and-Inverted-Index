@@ -3,6 +3,7 @@ from flask import request
 from flask import jsonify
 from flask import url_for
 from flask import redirect
+from flask import render_template
 import json
 import requests
 import pickle
@@ -71,7 +72,7 @@ def compare_performance_metrics():
 
 	words = list(word_count_dict.keys())
 	word_counts = list(word_count_dict.values())
-	
+
 	query_test_set = generate_queries(words, word_counts, 20, 1)
 
 	results = []
@@ -122,6 +123,10 @@ def compare_performance_metrics():
 
 	results.append({"comparison":"tfidf vs. Elasticsearch","metrics":tfidf_elastic_metrics})
 	return jsonify(results), 200
+
+@app.route('/')
+def index():
+	return render_template('index.html')
 
 if __name__ == "__main__":
 	app.run(debug=True)
