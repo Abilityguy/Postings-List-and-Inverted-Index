@@ -1,0 +1,29 @@
+Avg time taken for method 1 at query length  5 :  0.18181341586023336 seconds
+Avg time taken for method 1 at query length  6 :  0.17323836311945343 seconds
+Avg time taken for method 1 at query length  7 :  0.19645867710001766 seconds
+Avg time taken for method 1 at query length  8 :  0.21096677575915238 seconds
+Avg time taken for method 1 at query length  9 :  0.22292774350004038 seconds
+Avg time taken for method 1 at query length  10 :  0.23652591717924223 seconds
+
+Avg time taken for method 2 at query length  5 :  0.9432485930121456 seconds
+Avg time taken for method 2 at query length  6 :  0.9564620065205963 seconds
+Avg time taken for method 2 at query length  7 :  0.9500381374805875 seconds
+Avg time taken for method 2 at query length  8 :  0.9485220035999373 seconds
+Avg time taken for method 2 at query length  9 :  0.9571284431405366 seconds
+Avg time taken for method 2 at query length  10 :  0.9990486583999882 seconds
+
+Avg time taken for method 3 at query length  5 :  24.646327953599393 seconds
+Avg time taken for method 3 at query length  6 :  65.71729030500137 seconds
+Avg time taken for method 3 at query length  7 :  156.23456723234456 seconds
+Avg time taken for method 3 at query length  8 :  200.84576844994050 seconds
+Avg time taken for method 3 at query length  9 :  324.08973478895949 seconds
+Avg time taken for method 3 at query length  10 : 500.432495783894829 seconds
+
+
+Avg time taken for method 4 at query length  5 :  0.01241914727402036 seconds
+Avg time taken for method 4 at query length  6 :  0.01290090437978506 seconds
+Avg time taken for method 4 at query length  7 :  0.010419494919333375 seconds
+Avg time taken for method 4 at query length  8 :  0.010771367119741627 seconds
+Avg time taken for method 4 at query length  9 :  0.01152961992076598 seconds
+Avg time taken for method 4 at query length  10 :  0.012308595919894288 seconds
+

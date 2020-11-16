@@ -57,7 +57,6 @@ def search(query):
     query_list = process_query(query)
 
     postfix_query = infix_to_postfix(query_list)
-    print(postfix_query)
 
     stack = list()
 
