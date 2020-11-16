@@ -12,6 +12,7 @@ from generate_random_queries_2 import generate_queries
 from query_ElastiSearch import elastic_search
 from ranking_and_retrieval import tfidf_search
 import wordembedding_search
+import boolean_query_model
 
 app = Flask(__name__)
 
@@ -149,10 +150,14 @@ def search_results():
 		return jsonify(wordembedding_search.retrieve_documents(similarity_list, document_id)), 200
 
 	elif search_option=="3":
+		boolean_results = boolean_query_model.search(query)
+		return jsonify(boolean_results), 200
+
+	elif search_option=="4":
 		elastic_results = elastic_search(query,20)
 		return jsonify(elastic_results), 200
 
-	elif search_option=="4":
+	elif search_option=="5":
 		solr_results = json.loads(requests.get("http://localhost:8983/solr/AIR_Project/select?q=snippet:\""+query+"\"&wt=json").text)
 		return jsonify(solr_results), 200
 

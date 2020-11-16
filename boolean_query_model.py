@@ -2,10 +2,16 @@ from nltk.tokenize import RegexpTokenizer
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 import pickle
+import pandas as pd
 
 stop_words = set(stopwords.words('english')) - {'and', 'or', 'not'}
 lemmatizer = WordNetLemmatizer()
 tokenizer = RegexpTokenizer(r'\w+')
+
+boolean_operator_priority = {'and':1, 'or':1, 'not':2}
+
+with open('inverted_index_set.pkl', 'rb') as f:
+    inverted_index = pickle.load(f)
 
 def remove_stop_words(x, stop_words):
     return [word for word in x if word not in stop_words]
@@ -80,14 +86,20 @@ def search(query):
         else:
             stack.append(return_word_set(word, inverted_index))
 
-    return stack.pop()
+    with open('documentId.pkl', 'rb') as f:
+        document_ids = pickle.load(f)
+
+    search_results = []
+    for i in stack.pop():
+        csv_id = i//10000
+        row_id = i%10000
+        df = pd.read_csv("data/"+document_ids[csv_id])
+        row = df.iloc[row_id]
+        search_results.append({'csv_file_name':document_ids[csv_id],'URL':row['URL'],'snippet':row['Snippet']})
+
+    return search_results
 
 
 if __name__ == "__main__":
-    boolean_operator_priority = {'and':1, 'or':1, 'not':2}
-
-    with open('inverted_index_set.pkl', 'rb') as f:
-        inverted_index = pickle.load(f)
-
     query = input()
     print(search(query))
