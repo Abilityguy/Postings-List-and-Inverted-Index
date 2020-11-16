@@ -1,6 +1,6 @@
 import generate_random_queries_2
 from query_ElastiSearch import elastic_search
-from ranking_and_retrieval import tfidf_search
+from tfidf_model import tfidf_search
 import wordembedding_search
 import boolean_query_model
 import pickle

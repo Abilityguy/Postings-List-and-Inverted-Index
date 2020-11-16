@@ -27,3 +27,9 @@ Avg time taken for method 4 at query length  8 :  0.010771367119741627 seconds
 Avg time taken for method 4 at query length  9 :  0.01152961992076598 seconds
 Avg time taken for method 4 at query length  10 :  0.012308595919894288 seconds
 
+Avg time taken for method 5 at query length  5 :  0.007006324559999655 seconds
+Avg time taken for method 5 at query length  6 :  0.004621277280000555 seconds
+Avg time taken for method 5 at query length  7 :  0.004920437939999686 seconds
+Avg time taken for method 5 at query length  8 :  0.0045469944600000645 seconds
+Avg time taken for method 5 at query length  9 :  0.00443449474000019 seconds
+Avg time taken for method 5 at query length  10 :  0.004519020999999696 seconds

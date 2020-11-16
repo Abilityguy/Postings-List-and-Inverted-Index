@@ -160,8 +160,11 @@ def tfidf_search(search_string, number_of_results):
         row_id = i%10000
         df = pd.read_csv("data/"+document_ids[csv_id])
         row = df.iloc[row_id]
-        search_results.append({'csv_file_name':document_ids[csv_id],'URL':row['URL'],'snippet':row['Snippet']})
-    
+        search_results.append([document_ids[csv_id],row['URL'],row['Snippet']])
+    for result in search_results:
+        print('\n'.join(result))
+        print('-'*10, '*', '-'*10)
+    pickle.dump(search_results, open("search_results.pkl","wb"))
     return search_results
 
 if __name__=="__main__":
