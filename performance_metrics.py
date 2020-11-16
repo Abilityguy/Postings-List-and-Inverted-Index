@@ -12,6 +12,7 @@ from generate_random_queries_2 import generate_queries
 from query_ElastiSearch import elastic_search
 from ranking_and_retrieval import tfidf_search
 import wordembedding_search
+import boolean_query_model
 import spell_checker
 
 app = Flask(__name__)
@@ -111,9 +112,9 @@ def compare_performance_metrics():
 
 	except:
 		query_test_set = ['delaware','former french','shadow secretary','long-bailey','sarkozy','mike bloomberg','single barrier','president marginalised','infamine',
-						  'degrogation','energize', 'relate', 'submerged', 'duncan', 'permafrost', 'nigel', 'offence', 'carly', 'fraught', 'cancelled', 'distract', 
-						  'northernmost', 'improved', 'aligned', 'unstoppable', 'establishing', 'worthy', 'fo', 'renowned', 'burke', 'scaring', 'disclosing', 'individually', 
-						  'abundance', 'galileo', 'circuit', 'amanda', 'spur', 'delicate', 'convenient', 'humidity', 'plagiarism', 'ofjust', 'welsh', 'cornwall', 'mineral', 
+						  'degrogation','energize', 'relate', 'submerged', 'duncan', 'permafrost', 'nigel', 'offence', 'carly', 'fraught', 'cancelled', 'distract',
+						  'northernmost', 'improved', 'aligned', 'unstoppable', 'establishing', 'worthy', 'fo', 'renowned', 'burke', 'scaring', 'disclosing', 'individually',
+						  'abundance', 'galileo', 'circuit', 'amanda', 'spur', 'delicate', 'convenient', 'humidity', 'plagiarism', 'ofjust', 'welsh', 'cornwall', 'mineral',
 						  'collusion', 'terminal', 'arthel', 'snowy', 'yorkers', 'immaterial','environmental catastrophe','oil pipeline canada','osama bin laden','nuclear north korea',
 						  'ice melt global warming','clean energy new jobs']
 
@@ -204,7 +205,7 @@ def compare_performance_metrics():
 	results.append({"comparison":"Word Embeddings vs. solr","metrics":wordemb_solr_metrics})
 	results.append({"comparison":"Boolean Retrieval vs. solr","metrics":boolean_solr_metrics})
 	results.append({"comparison":"Elasticsearch vs. solr","metrics":elastic_solr_metrics})
-	
+
 	'''
 	for i in query_test_set:
 		tfidf_results = tfidf_search(i,20)
@@ -257,9 +258,8 @@ def index():
 
 		if spell_check[1] == False or spelling_check_done == True:
 			if search_option=="1":
-				tfidf_results = tfidf_search(query,20)
-				return jsonify(tfidf_results), 200
-
+					tfidf_results = tfidf_search(query,20)
+					return jsonify(tfidf_results), 200
 			elif search_option=="2":
 				with open('document_vectors/document_vectors.pkl', 'rb') as f:
 					document_vectors = pickle.load(f)
@@ -269,10 +269,14 @@ def index():
 				return jsonify(wordembedding_search.retrieve_documents(similarity_list, document_id)), 200
 
 			elif search_option=="3":
+				boolean_results = boolean_query_model.search(query)
+				return jsonify(boolean_results), 200
+
+			elif search_option=="4":
 				elastic_results = elastic_search(query,20)
 				return jsonify(elastic_results), 200
 
-			elif search_option=="4":
+			elif search_option=="5":
 				solr_results = json.loads(requests.get("http://localhost:8983/solr/AIR_Project/select?q=snippet:\""+query+"\"&wt=json").text)
 				return jsonify(solr_results), 200
 		else:
