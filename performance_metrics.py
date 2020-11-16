@@ -7,9 +7,11 @@ from flask import render_template
 import json
 import requests
 import pickle
-from generate_random_queries import generate_queries
+import pandas as pd
+from generate_random_queries_2 import generate_queries
 from query_ElastiSearch import elastic_search
 from ranking_and_retrieval import tfidf_search
+import wordembedding_search
 
 app = Flask(__name__)
 
@@ -56,9 +58,18 @@ def calculate_metrics(cumulative_results):
 		if i not in cumulative_results[0]:
 			FN += 1
 			TN -= 1
-	precision = TP/(TP+FP)
-	recall = TP/(TP+FN)
-	f1_score = (2*precision*recall)/(precision+recall)
+	if FP!=0 or TP!=0:
+		precision = TP/(TP+FP)
+	else:
+		precision = 0
+	if TP!=0 or FN!=0:
+		recall = TP/(TP+FN)
+	else:
+		recall = 0
+	if precision!=0 or recall!=0:
+		f1_score = (2*precision*recall)/(precision+recall)
+	else:
+		f1_score = 0
 	accuracy = (TP+TN)/(TP+TN+FP+FN)
 	return {"precision":precision,"recall":recall,"f1_score":f1_score,"accuracy":accuracy}
 
@@ -67,13 +78,11 @@ def compare_performance_metrics():
 	if(not(request.method=='GET')):
 		return jsonify({}),405
 
-	with open('word_count_dict.pkl', 'rb') as f:
-		word_count_dict = pickle.load(f)
-
-	words = list(word_count_dict.keys())
-	word_counts = list(word_count_dict.values())
-
-	query_test_set = generate_queries(words, word_counts, 20, 1)
+	query_test_set = ['delaware','former french','shadow secretary','long-bailey','sarkozy','mike bloomberg','single barrier','president marginalised','infamine',
+					  'degrogation','energize', 'relate', 'submerged', 'duncan', 'permafrost', 'nigel', 'offence', 'carly', 'fraught', 'cancelled', 'distract', 
+					  'northernmost', 'improved', 'aligned', 'unstoppable', 'establishing', 'worthy', 'fo', 'renowned', 'burke', 'scaring', 'disclosing', 'individually', 
+					  'abundance', 'galileo', 'circuit', 'amanda', 'spur', 'delicate', 'convenient', 'humidity', 'plagiarism', 'ofjust', 'welsh', 'cornwall', 'mineral', 
+					  'collusion', 'terminal', 'arthel', 'snowy', 'yorkers', 'immaterial','environmental catastrophe']
 
 	results = []
 	tfidf_solr_metrics = {"precision":0,"recall":0,"f1_score":0,"accuracy":0}
@@ -95,20 +104,14 @@ def compare_performance_metrics():
 			elastic_solr_metrics[j] += performance_metrics[j]
 
 	for i in tfidf_solr_metrics:
-		tfidf_solr_metrics[i] /= 20
+		tfidf_solr_metrics[i] /= len(query_test_set)
 	for i in elastic_solr_metrics:
-		elastic_solr_metrics[i] /= 20
+		elastic_solr_metrics[i] /= len(query_test_set)
 	results.append({"comparison":"tfidf vs. solr","metrics":tfidf_solr_metrics})
 	results.append({"comparison":"Elasticsearch vs. solr","metrics":elastic_solr_metrics})
 	print(elastic_solr_metrics)
 
-	for i in generate_queries(words, word_counts, 20, 2):
-		query_test_set.append(i)
-
-	for i in generate_queries(words, word_counts, 10, 3):
-		query_test_set.append(i)
-
-	tfidf_elastic_metrics = {"precision":0,"recall":0,"f1_score":0,"accurancy":0}
+	tfidf_elastic_metrics = {"precision":0,"recall":0,"f1_score":0,"accuracy":0}
 
 	for i in query_test_set:
 		tfidf_results = tfidf_search(i,20)
@@ -119,7 +122,7 @@ def compare_performance_metrics():
 			tfidf_elastic_metrics[j] += performance_metrics[j]
 
 	for i in tfidf_elastic_metrics:
-		tfidf_elastic_metrics[i] /= 50
+		tfidf_elastic_metrics[i] /= len(query_test_set)
 
 	results.append({"comparison":"tfidf vs. Elasticsearch","metrics":tfidf_elastic_metrics})
 	return jsonify(results), 200
