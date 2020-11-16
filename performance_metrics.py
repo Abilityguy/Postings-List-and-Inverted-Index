@@ -15,6 +15,8 @@ import wordembedding_search
 
 app = Flask(__name__)
 
+#df = pd.read_csv('Full_df.csv')
+
 def extract_urls(dic, number_of_results):
 	res = []
 	for i in dic:
@@ -32,6 +34,11 @@ def extract_urls(dic, number_of_results):
 					temp.add(j["url"])
 					no += 1
 			res.append(temp)
+		elif i=='boolean' or i=='word_embedding':
+			for j in dic[i]:
+				if no <= number_of_results:
+					temp.add(j['URL'])
+					no += 1
 		else:
 			for j in dic[i]["response"]["docs"]:
 				if no<=number_of_results:
@@ -79,9 +86,9 @@ def compare_performance_metrics():
 		return jsonify({}),405
 
 	query_test_set = ['delaware','former french','shadow secretary','long-bailey','sarkozy','mike bloomberg','single barrier','president marginalised','infamine',
-					  'degrogation','energize', 'relate', 'submerged', 'duncan', 'permafrost', 'nigel', 'offence', 'carly', 'fraught', 'cancelled', 'distract', 
-					  'northernmost', 'improved', 'aligned', 'unstoppable', 'establishing', 'worthy', 'fo', 'renowned', 'burke', 'scaring', 'disclosing', 'individually', 
-					  'abundance', 'galileo', 'circuit', 'amanda', 'spur', 'delicate', 'convenient', 'humidity', 'plagiarism', 'ofjust', 'welsh', 'cornwall', 'mineral', 
+					  'degrogation','energize', 'relate', 'submerged', 'duncan', 'permafrost', 'nigel', 'offence', 'carly', 'fraught', 'cancelled', 'distract',
+					  'northernmost', 'improved', 'aligned', 'unstoppable', 'establishing', 'worthy', 'fo', 'renowned', 'burke', 'scaring', 'disclosing', 'individually',
+					  'abundance', 'galileo', 'circuit', 'amanda', 'spur', 'delicate', 'convenient', 'humidity', 'plagiarism', 'ofjust', 'welsh', 'cornwall', 'mineral',
 					  'collusion', 'terminal', 'arthel', 'snowy', 'yorkers', 'immaterial','environmental catastrophe']
 
 	results = []
@@ -89,6 +96,9 @@ def compare_performance_metrics():
 	elastic_solr_metrics = {"precision":0,"recall":0,"f1_score":0,"accuracy":0}
 
 	for i in query_test_set:
+		# boolean_results =
+		# embedding_results =
+
 		tfidf_results = tfidf_search(i,20)
 		solr_results = json.loads(requests.get("http://localhost:8983/solr/AIR_Project/select?q=snippet:\""+i+"\"&wt=json").text)
 		cumulative_results = extract_urls({"tfidf":tfidf_results, "solr":solr_results},20)
@@ -127,9 +137,26 @@ def compare_performance_metrics():
 	results.append({"comparison":"tfidf vs. Elasticsearch","metrics":tfidf_elastic_metrics})
 	return jsonify(results), 200
 
-@app.route('/')
+@app.route('/', methods=['POST', 'GET'])
 def index():
-	return render_template('index.html')
+	if(request.method == 'POST'):
+		query_term = request.form['query']
+		search_option = request.form['searchOption']
+
+		if (search_option == '1'):
+			pass
+		elif (search_option == '2'):
+			pass
+		elif (search_option == '3'):
+			pass
+		elif (search_option == '4'):
+			search_results = elastic_search(query_term,5)
+		elif (search_option == '5'):
+			search_results = json.loads(requests.get("http://localhost:8983/solr/AIR_Project/select?q=snippet:\""+query_term+"\"&wt=json").text)
+
+		return render_template('index.html', results=search_results, search=True)
+	else:
+		return render_template('index.html', search=False)
 
 if __name__ == "__main__":
 	app.run(debug=True)
