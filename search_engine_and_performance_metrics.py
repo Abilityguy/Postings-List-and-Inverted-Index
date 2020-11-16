@@ -215,6 +215,9 @@ def index():
 		search_option = request.form['searchOption']
 		spell_check = spell_checker.spell_checker_sentence(query)
 
+		if '*' in query:
+			spelling_check_done = True
+
 		if spell_check[1] == False or spelling_check_done == True:
 			if search_option=="1":
 				tfidf_results = tfidf_search(query,20)
