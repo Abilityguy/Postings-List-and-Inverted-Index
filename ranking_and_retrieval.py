@@ -65,7 +65,7 @@ except:
     idf_dic = {}
     for i in inverted_index:
         idf_dic[i] = 1 + math.log(num_docs/len(inverted_index[i]))
-    pickle.dump(idf_dic, open("idf_dic.pkl","wb")) 
+    pickle.dump(idf_dic, open("idf_dic.pkl","wb"))
 
 try:
     with open('tf_idf_dic.pkl', 'rb') as f:
@@ -104,13 +104,13 @@ def tfidf_search(search_string, number_of_results):
             r = '^'+k.replace('*', '.*')+'$'
             corr = []
             for j in idf_dic:
-                
-                
+
+
                 if re.search(r, j):
-                
-                    
+
+
                     corr.append(j)
-            l = 1/len(corr)       
+            l = 1/len(corr)
             for j in corr:
                 if j not in count_dic:
                     count_dic[j] = l
@@ -118,7 +118,7 @@ def tfidf_search(search_string, number_of_results):
                     count_dic[j] += l
 
     for i in count_dic:
-        
+
         tfidf_query_dic[i] = (count_dic[i]/num_query_words)*(idf_dic[i])
 
     sum_of_squares1 = 0
@@ -137,10 +137,10 @@ def tfidf_search(search_string, number_of_results):
         nums = []
         for j in count_dic:
             if (j,i) in tf_idf_dic:
-                
+
                 dot_product += tfidf_query_dic[j]*tf_idf_dic[(j,i)]
-                nums.append(tf_idf_dic[(j,i)])  
-            
+                nums.append(tf_idf_dic[(j,i)])
+
         sum_of_squares2 = 0
         for j in nums:
             sum_of_squares2 += pow(j,2)
@@ -161,17 +161,12 @@ def tfidf_search(search_string, number_of_results):
         df = pd.read_csv("data/"+document_ids[csv_id])
         row = df.iloc[row_id]
         search_results.append([document_ids[csv_id],row['URL'],row['Snippet']])
-    for result in search_results:
-        print('\n'.join(result))
-        print('-'*10, '*', '-'*10)
+    # for result in search_results:
+    #     print('\n'.join(result))
+    #     print('-'*10, '*', '-'*10)
     pickle.dump(search_results, open("search_results.pkl","wb"))
     return search_results
 
 if __name__=="__main__":
     args = parser.parse_args()
     print(tfidf_search(args.query,20))
-
-
-
-
-
