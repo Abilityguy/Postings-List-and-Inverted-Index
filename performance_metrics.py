@@ -34,10 +34,16 @@ def extract_urls(dic, number_of_results):
 					temp.add(j["url"])
 					no += 1
 			res.append(temp)
-		else:
+		elif i=="solr":
 			for j in dic[i]["response"]["docs"]:
 				if no<=number_of_results:
 					temp.add(j["url"][0])
+					no += 1
+			res.append(temp)
+		else:
+			for j in dic[i]:
+				if no<=number_of_results:
+					temp.add(j["URL"])
 					no += 1
 			res.append(temp)
 	print(res)
@@ -80,53 +86,160 @@ def compare_performance_metrics():
 	if(not(request.method=='GET')):
 		return jsonify({}),405
 
-	query_test_set = ['delaware','former french','shadow secretary','long-bailey','sarkozy','mike bloomberg','single barrier','president marginalised','infamine',
-					  'degrogation','energize', 'relate', 'submerged', 'duncan', 'permafrost', 'nigel', 'offence', 'carly', 'fraught', 'cancelled', 'distract',
-					  'northernmost', 'improved', 'aligned', 'unstoppable', 'establishing', 'worthy', 'fo', 'renowned', 'burke', 'scaring', 'disclosing', 'individually',
-					  'abundance', 'galileo', 'circuit', 'amanda', 'spur', 'delicate', 'convenient', 'humidity', 'plagiarism', 'ofjust', 'welsh', 'cornwall', 'mineral',
-					  'collusion', 'terminal', 'arthel', 'snowy', 'yorkers', 'immaterial','environmental catastrophe']
+	with open('document_vectors/document_vectors.pkl', 'rb') as f:
+		document_vectors = pickle.load(f)
+	with open('documentId.pkl', 'rb') as f:
+		document_id = pickle.load(f)
 
 	results = []
-	tfidf_solr_metrics = {"precision":0,"recall":0,"f1_score":0,"accuracy":0}
-	elastic_solr_metrics = {"precision":0,"recall":0,"f1_score":0,"accuracy":0}
 
-	for i in query_test_set:
-		tfidf_results = tfidf_search(i,20)
-		solr_results = json.loads(requests.get("http://localhost:8983/solr/AIR_Project/select?q=snippet:\""+i+"\"&wt=json").text)
-		cumulative_results = extract_urls({"tfidf":tfidf_results, "solr":solr_results},20)
-		performance_metrics = calculate_metrics(cumulative_results)
-		for j in tfidf_solr_metrics:
-			tfidf_solr_metrics[j] += performance_metrics[j]
+	try:
+		with open('tfidf_solr_metrics.pkl', 'rb') as f:
+			tfidf_solr_metrics = pickle.load(f)
+		with open('wordemb_solr_metrics.pkl', 'rb') as f:
+			wordemb_solr_metrics = pickle.load(f)
+		with open('boolean_solr_metrics.pkl', 'rb') as f:
+			boolean_solr_metrics = pickle.load(f)
+		with open('elastic_solr_metrics.pkl', 'rb') as f:
+			elastic_solr_metrics = pickle.load(f)
+		with open('tfidf_elastic_metrics.pkl', 'rb') as f:
+			tfidf_elastic_metrics = pickle.load(f)
+		with open('wordemb_elastic_metrics.pkl', 'rb') as f:
+			wordemb_elastic_metrics = pickle.load(f)
+		with open('boolean_elastic_metrics.pkl', 'rb') as f:
+			boolean_elastic_metrics = pickle.load(f)
 
-		elastic_results = elastic_search(i,20)
-		solr_results = json.loads(requests.get("http://localhost:8983/solr/AIR_Project/select?q=snippet:\""+i+"\"&wt=json").text)
-		cumulative_results = extract_urls({"elasticsearch":elastic_results, "solr":solr_results},20)
-		performance_metrics = calculate_metrics(cumulative_results)
-		for j in elastic_solr_metrics:
-			elastic_solr_metrics[j] += performance_metrics[j]
+	except:
+		query_test_set = ['delaware','former french','shadow secretary','long-bailey','sarkozy','mike bloomberg','single barrier','president marginalised','infamine',
+						  'degrogation','energize', 'relate', 'submerged', 'duncan', 'permafrost', 'nigel', 'offence', 'carly', 'fraught', 'cancelled', 'distract', 
+						  'northernmost', 'improved', 'aligned', 'unstoppable', 'establishing', 'worthy', 'fo', 'renowned', 'burke', 'scaring', 'disclosing', 'individually', 
+						  'abundance', 'galileo', 'circuit', 'amanda', 'spur', 'delicate', 'convenient', 'humidity', 'plagiarism', 'ofjust', 'welsh', 'cornwall', 'mineral', 
+						  'collusion', 'terminal', 'arthel', 'snowy', 'yorkers', 'immaterial','environmental catastrophe','oil pipeline canada','osama bin laden','nuclear north korea',
+						  'ice melt global warming','clean energy new jobs']
 
-	for i in tfidf_solr_metrics:
-		tfidf_solr_metrics[i] /= len(query_test_set)
-	for i in elastic_solr_metrics:
-		elastic_solr_metrics[i] /= len(query_test_set)
+		tfidf_solr_metrics = {"precision":0,"recall":0,"f1_score":0,"accuracy":0}
+		wordemb_solr_metrics = {"precision":0,"recall":0,"f1_score":0,"accuracy":0}
+		boolean_solr_metrics = {"precision":0,"recall":0,"f1_score":0,"accuracy":0}
+		elastic_solr_metrics = {"precision":0,"recall":0,"f1_score":0,"accuracy":0}
+		tfidf_elastic_metrics = {"precision":0,"recall":0,"f1_score":0,"accuracy":0}
+		wordemb_elastic_metrics = {"precision":0,"recall":0,"f1_score":0,"accuracy":0}
+		boolean_elastic_metrics = {"precision":0,"recall":0,"f1_score":0,"accuracy":0}
+
+		for i in query_test_set:
+			tfidf_results = tfidf_search(i,20)
+			similarity_list = wordembedding_search.search(i, document_vectors, 20)
+			wordemb_results = wordembedding_search.retrieve_documents(similarity_list, document_id)
+			boolean_results = boolean_query_model.search(i)
+			elastic_results = elastic_search(i,20)
+			solr_results = json.loads(requests.get("http://localhost:8983/solr/AIR_Project/select?q=snippet:\""+i+"\"&wt=json").text)
+
+			cumulative_results = extract_urls({"tfidf":tfidf_results, "solr":solr_results},20)
+			performance_metrics = calculate_metrics(cumulative_results)
+			for j in tfidf_solr_metrics:
+				tfidf_solr_metrics[j] += performance_metrics[j]
+
+			cumulative_results = extract_urls({"wordemb":wordemb_results, "solr":solr_results},20)
+			performance_metrics = calculate_metrics(cumulative_results)
+			for j in wordemb_solr_metrics:
+				wordemb_solr_metrics[j] += performance_metrics[j]
+
+			cumulative_results = extract_urls({"boolean":boolean_results, "solr":solr_results},20)
+			performance_metrics = calculate_metrics(cumulative_results)
+			for j in boolean_solr_metrics:
+				boolean_solr_metrics[j] += performance_metrics[j]
+
+			cumulative_results = extract_urls({"elasticsearch":elastic_results, "solr":solr_results},20)
+			performance_metrics = calculate_metrics(cumulative_results)
+			for j in elastic_solr_metrics:
+				elastic_solr_metrics[j] += performance_metrics[j]
+
+			cumulative_results = extract_urls({"tfidf":tfidf_results, "elasticsearch":elastic_results},20)
+			performance_metrics = calculate_metrics(cumulative_results)
+			for j in tfidf_elastic_metrics:
+				tfidf_elastic_metrics[j] += performance_metrics[j]
+
+			cumulative_results = extract_urls({"wordemb":wordemb_results, "elasticsearch":elastic_results},20)
+			performance_metrics = calculate_metrics(cumulative_results)
+			for j in wordemb_elastic_metrics:
+				wordemb_elastic_metrics[j] += performance_metrics[j]
+
+			cumulative_results = extract_urls({"boolean":boolean_results, "elasticsearch":elastic_results},20)
+			performance_metrics = calculate_metrics(cumulative_results)
+			for j in boolean_elastic_metrics:
+				boolean_elastic_metrics[j] += performance_metrics[j]
+
+		for i in tfidf_solr_metrics:
+			tfidf_solr_metrics[i] /= len(query_test_set)
+
+		for i in wordemb_solr_metrics:
+			wordemb_solr_metrics[i] /= len(query_test_set)
+
+		for i in boolean_solr_metrics:
+			boolean_solr_metrics[i] /= len(query_test_set)
+
+		for i in elastic_solr_metrics:
+			elastic_solr_metrics[i] /= len(query_test_set)
+
+		for i in tfidf_elastic_metrics:
+			tfidf_elastic_metrics[i] /= len(query_test_set)
+
+		for i in wordemb_elastic_metrics:
+			wordemb_elastic_metrics[i] /= len(query_test_set)
+
+		for i in boolean_elastic_metrics:
+			boolean_elastic_metrics[i] /= len(query_test_set)
+
+		pickle.dump(tfidf_solr_metrics,open("tfidf_solr_metrics.pkl","wb"))
+		pickle.dump(wordemb_solr_metrics,open("wordemb_solr_metrics.pkl","wb"))
+		pickle.dump(boolean_solr_metrics,open("boolean_solr_metrics.pkl","wb"))
+		pickle.dump(elastic_solr_metrics,open("elastic_solr_metrics.pkl","wb"))
+		pickle.dump(tfidf_elastic_metrics,open("tfidf_elastic_metrics.pkl","wb"))
+		pickle.dump(wordemb_elastic_metrics,open("wordemb_elastic_metrics.pkl","wb"))
+		pickle.dump(boolean_elastic_metrics,open("boolean_elastic_metrics.pkl","wb"))
+
+	results.append({"comparison":"tfidf vs. Elasticsearch","metrics":tfidf_elastic_metrics})
+	results.append({"comparison":"Word Embeddings vs. Elasticsearch","metrics":wordemb_elastic_metrics})
+	results.append({"comparison":"Boolean Retrieval vs. Elasticsearch","metrics":boolean_elastic_metrics})
 	results.append({"comparison":"tfidf vs. solr","metrics":tfidf_solr_metrics})
+	results.append({"comparison":"Word Embeddings vs. solr","metrics":wordemb_solr_metrics})
+	results.append({"comparison":"Boolean Retrieval vs. solr","metrics":boolean_solr_metrics})
 	results.append({"comparison":"Elasticsearch vs. solr","metrics":elastic_solr_metrics})
-	print(elastic_solr_metrics)
-
-	tfidf_elastic_metrics = {"precision":0,"recall":0,"f1_score":0,"accuracy":0}
-
+	
+	'''
 	for i in query_test_set:
 		tfidf_results = tfidf_search(i,20)
+		similarity_list = wordembedding_search.search(query, document_vectors, 20)
+		wordemb_results = wordembedding_search.retrieve_documents(similarity_list, document_id)
+		boolean_results = boolean_query_model.search(i)
 		elastic_results = elastic_search(i,20)
+
 		cumulative_results = extract_urls({"tfidf":tfidf_results, "elasticsearch":elastic_results},20)
 		performance_metrics = calculate_metrics(cumulative_results)
 		for j in tfidf_elastic_metrics:
 			tfidf_elastic_metrics[j] += performance_metrics[j]
 
+		cumulative_results = extract_urls({"wordemb":wordemb_results, "elasticsearch":elastic_results},20)
+		performance_metrics = calculate_metrics(cumulative_results)
+		for j in wordemb_elastic_metrics:
+			wordemb_elastic_metrics[j] += performance_metrics[j]
+
+		cumulative_results = extract_urls({"boolean":boolean_results, "elasticsearch":elastic_results},20)
+		performance_metrics = calculate_metrics(cumulative_results)
+		for j in boolean_elastic_metrics:
+			boolean_elastic_metrics[j] += performance_metrics[j]
+
 	for i in tfidf_elastic_metrics:
 		tfidf_elastic_metrics[i] /= len(query_test_set)
 
+	for i in wordemb_elastic_metrics:
+		wordemb_elastic_metrics[i] /= len(query_test_set)
+
+	for i in boolean_elastic_metrics:
+		boolean_elastic_metrics[i] /= len(query_test_set)
+
 	results.append({"comparison":"tfidf vs. Elasticsearch","metrics":tfidf_elastic_metrics})
+	results.append({"comparison":"Word Embeddings vs. Elasticsearch","metrics":wordemb_elastic_metrics})
+	results.append({"comparison":"Boolean Retrieval vs. Elasticsearch","metrics":boolean_elastic_metrics})'''
 	return jsonify(results), 200
 
 @app.route('/', methods=['GET', 'POST'])
