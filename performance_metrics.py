@@ -12,9 +12,10 @@ from generate_random_queries_2 import generate_queries
 from query_ElastiSearch import elastic_search
 from ranking_and_retrieval import tfidf_search
 import wordembedding_search
-import boolean_query_model
+import spell_checker
 
 app = Flask(__name__)
+spelling_check_done = False
 
 def extract_urls(dic, number_of_results):
 	res = []
@@ -241,38 +242,42 @@ def compare_performance_metrics():
 	results.append({"comparison":"Boolean Retrieval vs. Elasticsearch","metrics":boolean_elastic_metrics})'''
 	return jsonify(results), 200
 
-@app.route('/', methods=['GET'])
+@app.route('/', methods=['GET', 'POST'])
 def index():
-	return render_template('index.html')
+	global spelling_check_done
+	if(request.method == 'GET'):
+		spelling_check_done = False
+		return render_template('index.html', spelling_fail=False)
 
-@app.route('/', methods=['POST'])
-def search_results():
-	query = request.form['query']
-	search_option = request.form['searchOption']
+	if(request.method == 'POST'):
 
-	if search_option=="1":
-		tfidf_results = tfidf_search(query,20)
-		return jsonify(tfidf_results), 200
+		query = request.form['query']
+		search_option = request.form['searchOption']
+		spell_check = spell_checker.spell_checker_sentence(query)
 
-	elif search_option=="2":
-		with open('document_vectors/document_vectors.pkl', 'rb') as f:
-			document_vectors = pickle.load(f)
-		with open('documentId.pkl', 'rb') as f:
-			document_id = pickle.load(f)
-		similarity_list = wordembedding_search.search(query, document_vectors, 20)
-		return jsonify(wordembedding_search.retrieve_documents(similarity_list, document_id)), 200
+		if spell_check[1] == False or spelling_check_done == True:
+			if search_option=="1":
+				tfidf_results = tfidf_search(query,20)
+				return jsonify(tfidf_results), 200
 
-	elif search_option=="3":
-		boolean_results = boolean_query_model.search(query)
-		return jsonify(boolean_results), 200
+			elif search_option=="2":
+				with open('document_vectors/document_vectors.pkl', 'rb') as f:
+					document_vectors = pickle.load(f)
+				with open('documentId.pkl', 'rb') as f:
+					document_id = pickle.load(f)
+				similarity_list = wordembedding_search.search(query, document_vectors, 20)
+				return jsonify(wordembedding_search.retrieve_documents(similarity_list, document_id)), 200
 
-	elif search_option=="4":
-		elastic_results = elastic_search(query,20)
-		return jsonify(elastic_results), 200
+			elif search_option=="3":
+				elastic_results = elastic_search(query,20)
+				return jsonify(elastic_results), 200
 
-	elif search_option=="5":
-		solr_results = json.loads(requests.get("http://localhost:8983/solr/AIR_Project/select?q=snippet:\""+query+"\"&wt=json").text)
-		return jsonify(solr_results), 200
+			elif search_option=="4":
+				solr_results = json.loads(requests.get("http://localhost:8983/solr/AIR_Project/select?q=snippet:\""+query+"\"&wt=json").text)
+				return jsonify(solr_results), 200
+		else:
+			spelling_check_done = True
+			return render_template('index.html', spelling_fail=True, previous_query=query, corrected_query=spell_check[0])
 
 if __name__ == "__main__":
 	app.run(debug=True)
