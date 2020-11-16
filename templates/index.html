@@ -11,14 +11,8 @@
   </a>
 </nav>
 
-{% if search %}
-<div class="container">
-  {% for result in results %}
-    <div class="row"><pre id="json">{{ result }}</pre></div>
-  {% endfor %}
-
-{% else %}
 <div class="d-flex justify-content-md-center align-items-center vh-100">
+
   <div class="row justify-content-center">
       <form action="/" method="POST">
 
@@ -28,29 +22,26 @@
 
         <div class="form-check form-check-inline">
           <input class="form-check-input" type="radio" name="searchOption" id="searchOption1" value="1">
-          <label class="form-check-label" for="searchOption1">Boolean Retrieval</label>
+          <label class="form-check-label" for="searchOption1">tf-idf</label>
         </div>
         <div class="form-check form-check-inline">
           <input class="form-check-input" type="radio" name="searchOption" id="searchOption2" value="2">
-          <label class="form-check-label" for="searchOption2">tf-idf</label>
+          <label class="form-check-label" for="searchOption2">Word Embedding</label>
         </div>
         <div class="form-check form-check-inline">
           <input class="form-check-input" type="radio" name="searchOption" id="searchOption3" value="3">
-          <label class="form-check-label" for="searchOption3">Word Embedding</label>
+          <label class="form-check-label" for="searchOption3">Elastic search</label>
         </div>
         <div class="form-check form-check-inline">
           <input class="form-check-input" type="radio" name="searchOption" id="searchOption4" value="4">
-          <label class="form-check-label" for="searchOption4">Elastic search</label>
-        </div>
-        <div class="form-check form-check-inline">
-          <input class="form-check-input" type="radio" name="searchOption" id="searchOption5" value="5">
-          <label class="form-check-label" for="searchOption5">Apache Solr</label>
+          <label class="form-check-label" for="searchOption4">Apache Sol</label>
         </div>
 
         <button type="submit" class="btn btn-primary">Search</button>
 
       </form>
   </div>
+
 </div>
-{% endif %}
+
 {% endblock %}

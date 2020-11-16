@@ -5,6 +5,8 @@ import gensim.downloader as api
 import numpy as np
 import pandas as pd
 
+model = api.load('glove-wiki-gigaword-50')
+
 def cosine_similarity(v1, v2):
     dotProduct = np.dot(v1,v2)
     norm1 = np.linalg.norm(v1)
@@ -61,8 +63,6 @@ if __name__ == "__main__":
 
     with open('documentId.pkl', 'rb') as f:
         document_id = pickle.load(f)
-
-    model = api.load('glove-wiki-gigaword-50')
 
     query = input("Enter search query: ")
 
