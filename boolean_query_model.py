@@ -13,6 +13,9 @@ boolean_operator_priority = {'and':1, 'or':1, 'not':2}
 with open('inverted_index_set.pkl', 'rb') as f:
     inverted_index = pickle.load(f)
 
+with open('documentId.pkl', 'rb') as f:
+    document_ids = pickle.load(f)
+
 def remove_stop_words(x, stop_words):
     return [word for word in x if word not in stop_words]
 
@@ -53,7 +56,7 @@ def return_word_set(word, inverted_index):
     else:
         return set()
 
-def search(query):
+def search(query, n_top=20):
     query_list = process_query(query)
 
     postfix_query = infix_to_postfix(query_list)
@@ -85,16 +88,16 @@ def search(query):
         else:
             stack.append(return_word_set(word, inverted_index))
 
-    with open('documentId.pkl', 'rb') as f:
-        document_ids = pickle.load(f)
-
     search_results = []
+    n_results = 0
     for i in stack.pop():
+        n_results += 1
         csv_id = i//10000
         row_id = i%10000
         df = pd.read_csv("data/"+document_ids[csv_id])
         row = df.iloc[row_id]
         search_results.append({'csv_file_name':document_ids[csv_id],'URL':row['URL'],'snippet':row['Snippet']})
+        if(n_results >= n_top): break
 
     return search_results
 

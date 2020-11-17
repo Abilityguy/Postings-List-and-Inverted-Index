@@ -1,6 +1,6 @@
 import generate_random_queries_2
 from query_ElastiSearch import elastic_search
-from ranking_and_retrieval import tfidf_search
+from tfidf_model import tfidf_search
 import wordembedding_search
 import boolean_query_model
 import pickle
@@ -38,7 +38,6 @@ def avg_time(queries, query_length, method=1):
         times_list = list()
         counter = 0
         for query in queries:
-            print(counter)
             boolean_query = list()
             for word in query.lower().split():
                 if word not in ('and','or','not'):
@@ -59,7 +58,7 @@ def avg_time(queries, query_length, method=1):
         times_list = list()
         for query in queries:
             start = timer()
-            elastic_results = elastic_search(query,20)
+            elastic_results = elastic_search(query, 20)
             end = timer()
             times_list.append(end-start)
         print("Avg time taken for method", method, "at query length ", query_length, ": ", sum(times_list)/len(times_list), "seconds")
@@ -76,4 +75,4 @@ def avg_time(queries, query_length, method=1):
 if __name__ == "__main__":
     for query_length in range(5,11):
         queries = generate_random_queries_2.generate_queries(50, query_length)
-        avg_time(queries, query_length, method=5)
+        avg_time(queries, query_length, method=3)
